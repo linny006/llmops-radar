@@ -1,12 +1,75 @@
 [
   {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-05-24T15:29:53Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 61,
+    "updated_at": "2026-05-24T15:24:59Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode li",
+    "id": "apache/hamilton",
+    "language": "Jupyter Notebook",
+    "name": "apache/hamilton",
+    "stars": 2493,
+    "updated_at": "2026-05-24T15:24:20Z",
+    "url": "https://github.com/apache/hamilton"
+  },
+  {
+    "description": "Cost-quality routing for LLM APIs with reproducible Pareto frontiers per task class.",
+    "id": "faraa2m/routerlab",
+    "language": "TypeScript",
+    "name": "faraa2m/routerlab",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:19:58Z",
+    "url": "https://github.com/faraa2m/routerlab"
+  },
+  {
+    "description": "Deterministic compiler for cost-aware prompt optimization.",
+    "id": "faraa2m/promptc",
+    "language": "TypeScript",
+    "name": "faraa2m/promptc",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:19:33Z",
+    "url": "https://github.com/faraa2m/promptc"
+  },
+  {
+    "description": "LLM cost calculator, token counter, latency benchmark, CI guardrail, MCP server, and VS Code/Cursor extension.",
+    "id": "faraa2m/tokenometer",
+    "language": "TypeScript",
+    "name": "faraa2m/tokenometer",
+    "stars": 1,
+    "updated_at": "2026-05-24T15:18:20Z",
+    "url": "https://github.com/faraa2m/tokenometer"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-24T15:11:10Z",
+    "updated_at": "2026-05-24T15:15:24Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5183,
+    "updated_at": "2026-05-24T15:09:54Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Full RLHF pipeline \u2014 SFT, reward modeling, PPO with KL divergence constraints. 68% win rate vs SFT baseline, 96% safety ",
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21548,
-    "updated_at": "2026-05-24T15:06:20Z",
+    "updated_at": "2026-05-24T15:29:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T15:01:33Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "LLM cost calculator, token counter, latency benchmark, CI guardrail, MCP server, and VS Code/Cursor extension.",
-    "id": "faraa2m/tokenometer",
-    "language": "TypeScript",
-    "name": "faraa2m/tokenometer",
-    "stars": 1,
-    "updated_at": "2026-05-24T14:57:15Z",
-    "url": "https://github.com/faraa2m/tokenometer"
   },
   {
     "description": "Production RAG system in Python: Haystack pipelines, FastAPI SSE streaming, Qdrant hybrid retrieval, OpenAI embeddings, ",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T13:54:37Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-05-24T13:54:23Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Side-by-side benchmark comparing Llama 3.1 8B (OSS) vs DeepSeek V4 Flash (frontier) \u2014 multi-turn chat, LLM-as-judge eval",
-    "id": "Sahojit/OLLive-LLm-assistantbenchmark",
-    "language": "Python",
-    "name": "Sahojit/OLLive-LLm-assistantbenchmark",
-    "stars": 0,
-    "updated_at": "2026-05-24T13:53:35Z",
-    "url": "https://github.com/Sahojit/OLLive-LLm-assistantbenchmark"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5182,
-    "updated_at": "2026-05-24T15:09:54Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-05-24T13:50:53Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 0,
-    "updated_at": "2026-05-24T13:50:35Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-05-24T13:49:15Z",
-    "url": "https://github.com/degen1322/agentic-template"
   }
 ]
