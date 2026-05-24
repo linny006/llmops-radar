@@ -1,5 +1,41 @@
 [
   {
+    "description": "Full RLHF pipeline \u2014 SFT, reward modeling, PPO with KL divergence constraints. 68% win rate vs SFT baseline, 96% safety ",
+    "id": "rehan243/RLHF-LLM-Optimization",
+    "language": "Python",
+    "name": "rehan243/RLHF-LLM-Optimization",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:09:37Z",
+    "url": "https://github.com/rehan243/RLHF-LLM-Optimization"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:04:10Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:01:33Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:01:06Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM cost calculator, token counter, latency benchmark, CI guardrail, MCP server, and VS Code/Cursor extension.",
     "id": "faraa2m/tokenometer",
     "language": "TypeScript",
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:18:39Z",
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:40:53Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -383,17 +410,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5182,
-    "updated_at": "2026-05-24T14:33:31Z",
+    "updated_at": "2026-05-24T15:09:54Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-24T13:53:01Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T13:46:03Z",
     "url": "https://github.com/kami-beep/kb-contracts"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-05-24T13:42:28Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 0,
-    "updated_at": "2026-05-24T13:41:28Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
