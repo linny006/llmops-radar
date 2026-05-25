@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
+    "id": "vitas/evidra-bench",
+    "language": "Go",
+    "name": "vitas/evidra-bench",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:29:08Z",
+    "url": "https://github.com/vitas/evidra-bench"
+  },
+  {
+    "description": "Build mods for Claude Code: Hook any request, modify any response, /model \"with-your-custom-model\", intelligent model ro",
+    "id": "starbaser/ccproxy",
+    "language": "Python",
+    "name": "starbaser/ccproxy",
+    "stars": 349,
+    "updated_at": "2026-05-25T20:25:31Z",
+    "url": "https://github.com/starbaser/ccproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:25:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -81,15 +108,6 @@
     "url": "https://github.com/Prissieperoneal156/rig"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production-ready deploy template for LLM applications with token tracking, cost monitoring, rate limiting, streaming SSE",
     "id": "luannamorim/deployer",
     "language": "Python",
@@ -97,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-05-25T20:14:17Z",
     "url": "https://github.com/luannamorim/deployer"
+  },
+  {
+    "description": "DocuGuard RAG is a production-style Retrieval-Augmented Generation system for querying PDFs, Markdown, and LaTeX documen",
+    "id": "SagarInspires/DocuGuardRAG",
+    "language": "Python",
+    "name": "SagarInspires/DocuGuardRAG",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:13:23Z",
+    "url": "https://github.com/SagarInspires/DocuGuardRAG"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T19:40:03Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5213,
-    "updated_at": "2026-05-25T20:03:26Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-05-25T19:36:40Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 0,
-    "updated_at": "2026-05-25T19:36:19Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
