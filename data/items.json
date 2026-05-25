@@ -1,11 +1,92 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21584,
+    "updated_at": "2026-05-25T16:59:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-25T16:59:10Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 33,
+    "updated_at": "2026-05-25T16:56:27Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:53:35Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3268,
+    "updated_at": "2026-05-25T16:55:30Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The control plane for autonomous work and coding agent teams.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 21,
+    "updated_at": "2026-05-25T16:51:23Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "AI agents fail like junior teammates\u2014looping on bad ideas, ignoring feedback, escalating commitment. vstack ports 34 of ",
+    "id": "valani9/vstack",
+    "language": "Python",
+    "name": "valani9/vstack",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:49:21Z",
+    "url": "https://github.com/valani9/vstack"
+  },
+  {
+    "description": "The open source runtime enforcement for AI agents. ",
+    "id": "EnforceGrid/steer",
+    "language": "Rust",
+    "name": "EnforceGrid/steer",
+    "stars": 1,
+    "updated_at": "2026-05-25T16:46:16Z",
+    "url": "https://github.com/EnforceGrid/steer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48203,
-    "updated_at": "2026-05-25T16:43:31Z",
+    "stars": 48204,
+    "updated_at": "2026-05-25T16:56:26Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -16,15 +97,6 @@
     "stars": 32,
     "updated_at": "2026-05-25T16:43:35Z",
     "url": "https://github.com/HZYAI/RagScore"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-25T16:41:27Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task exe",
@@ -41,7 +113,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5210,
-    "updated_at": "2026-05-25T16:40:27Z",
+    "updated_at": "2026-05-25T16:56:56Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -54,15 +126,6 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 33,
-    "updated_at": "2026-05-25T16:37:34Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
     "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
     "id": "techlab-innov/llmtrace",
     "language": "Rust",
@@ -72,13 +135,13 @@
     "url": "https://github.com/techlab-innov/llmtrace"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 27890,
+    "updated_at": "2026-05-25T16:30:09Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -90,22 +153,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The control plane for autonomous work and coding agent teams.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 21,
-    "updated_at": "2026-05-25T16:17:55Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "AI agents fail like junior teammates\u2014looping on bad ideas, ignoring feedback, escalating commitment. vstack ports 34 of ",
-    "id": "valani9/vstack",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "valani9/vstack",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:15:34Z",
-    "url": "https://github.com/valani9/vstack"
+    "name": "Arize-ai/phoenix",
+    "stars": 9826,
+    "updated_at": "2026-05-25T16:14:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Local-first memory governance for OpenClaw: Store / Pack / Observe cited, inspectable, rollbackable agent context.",
@@ -117,31 +171,13 @@
     "url": "https://github.com/phenomenoner/openclaw-mem"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21584,
-    "updated_at": "2026-05-25T16:03:24Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1500,
+    "stars": 1503,
     "updated_at": "2026-05-25T16:01:38Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
-  },
-  {
-    "description": "The open source runtime enforcement for AI agents. ",
-    "id": "EnforceGrid/steer",
-    "language": "Rust",
-    "name": "EnforceGrid/steer",
-    "stars": 1,
-    "updated_at": "2026-05-25T16:00:10Z",
-    "url": "https://github.com/EnforceGrid/steer"
   },
   {
     "description": "LLM cost calculator, token counter, latency benchmark, CI guardrail, MCP server, and VS Code/Cursor extension.",
@@ -162,15 +198,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3268,
-    "updated_at": "2026-05-25T16:32:34Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents",
     "id": "guanbear/OctoClaw",
     "language": "TypeScript",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19374,
-    "updated_at": "2026-05-25T16:07:14Z",
+    "updated_at": "2026-05-25T16:56:52Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:37:17Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 27889,
-    "updated_at": "2026-05-25T16:30:09Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:12:41Z",
     "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:11:52Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:11:38Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   }
 ]
