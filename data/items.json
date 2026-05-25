@@ -1,12 +1,48 @@
 [
   {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:19:11Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-25T17:16:52Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21584,
-    "updated_at": "2026-05-25T17:14:47Z",
+    "updated_at": "2026-05-25T17:16:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1507,
+    "updated_at": "2026-05-25T17:12:31Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -41,7 +77,7 @@
     "language": "JavaScript",
     "name": "avikalpg/byok-relay",
     "stars": 43,
-    "updated_at": "2026-05-25T17:12:42Z",
+    "updated_at": "2026-05-25T17:16:59Z",
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
@@ -63,40 +99,13 @@
     "url": "https://github.com/vitas/evidra-bench"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-25T16:59:10Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5211,
-    "updated_at": "2026-05-25T16:56:56Z",
+    "updated_at": "2026-05-25T17:17:34Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:13:35Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -198,15 +207,6 @@
     "url": "https://github.com/phenomenoner/openclaw-mem"
   },
   {
-    "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1506,
-    "updated_at": "2026-05-25T17:12:31Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
-  },
-  {
     "description": "LLM cost calculator, token counter, latency benchmark, CI guardrail, MCP server, and VS Code/Cursor extension.",
     "id": "faraa2m/tokenometer",
     "language": "TypeScript",
@@ -275,7 +275,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4157,
-    "updated_at": "2026-05-25T16:30:17Z",
+    "updated_at": "2026-05-25T17:18:33Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
