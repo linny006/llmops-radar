@@ -1,11 +1,83 @@
 [
   {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-05-25T17:44:20Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:43:29Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-05-25T17:42:48Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21584,
+    "updated_at": "2026-05-25T17:44:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o",
+    "id": "kalyan-venk/agentic-llmops",
+    "language": "TeX",
+    "name": "kalyan-venk/agentic-llmops",
+    "stars": 1,
+    "updated_at": "2026-05-25T17:42:09Z",
+    "url": "https://github.com/kalyan-venk/agentic-llmops"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48206,
+    "updated_at": "2026-05-25T17:34:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5211,
+    "updated_at": "2026-05-25T17:34:41Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 3,
-    "updated_at": "2026-05-25T17:29:28Z",
+    "updated_at": "2026-05-25T17:41:56Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -22,7 +94,7 @@
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1510,
+    "stars": 1515,
     "updated_at": "2026-05-25T17:23:32Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
@@ -45,24 +117,6 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48205,
-    "updated_at": "2026-05-25T17:20:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:19:48Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The workflow and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T17:19:11Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21584,
-    "updated_at": "2026-05-25T17:16:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -112,7 +157,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 27891,
+    "stars": 27892,
     "updated_at": "2026-05-25T17:01:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -126,21 +171,12 @@
     "url": "https://github.com/vitas/evidra-bench"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5211,
-    "updated_at": "2026-05-25T17:29:28Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3268,
-    "updated_at": "2026-05-25T17:11:16Z",
+    "updated_at": "2026-05-25T17:41:22Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/faraa2m/tokenometer"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:50:51Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents",
     "id": "guanbear/OctoClaw",
     "language": "TypeScript",
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19374,
-    "updated_at": "2026-05-25T17:02:48Z",
+    "updated_at": "2026-05-25T17:43:39Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -355,7 +382,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26109,
+    "stars": 26110,
     "updated_at": "2026-05-25T15:26:58Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:22:31Z",
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:16:55Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 1,
-    "updated_at": "2026-05-25T15:15:37Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:14:51Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
