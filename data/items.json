@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-25T09:43:50Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 5,
+    "updated_at": "2026-05-25T09:42:23Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
     "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1470,
-    "updated_at": "2026-05-25T09:25:27Z",
+    "stars": 1473,
+    "updated_at": "2026-05-25T09:41:14Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-05-25T09:39:05Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
+    "id": "pragmatiks/pragma-providers",
+    "language": "Python",
+    "name": "pragmatiks/pragma-providers",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:38:17Z",
+    "url": "https://github.com/pragmatiks/pragma-providers"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-05-25T09:37:48Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 27864,
+    "updated_at": "2026-05-25T09:36:21Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5424,
+    "updated_at": "2026-05-25T09:23:52Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "VectorHub is a free, open-source learning website for people (software developers to senior ML architects) interested in",
@@ -27,24 +99,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-25T09:16:37Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T09:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -63,6 +117,15 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3269,
+    "updated_at": "2026-05-25T09:03:00Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "The open source runtime enforcement for AI agents. ",
     "id": "EnforceGrid/steer",
     "language": "Rust",
@@ -70,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T08:37:32Z",
     "url": "https://github.com/EnforceGrid/steer"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 27863,
-    "updated_at": "2026-05-25T08:36:33Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19370,
-    "updated_at": "2026-05-25T09:28:34Z",
+    "updated_at": "2026-05-25T09:31:44Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -130,7 +184,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48164,
+    "stars": 48165,
     "updated_at": "2026-05-25T08:24:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -320,7 +374,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1130,
-    "updated_at": "2026-05-25T09:13:55Z",
+    "updated_at": "2026-05-25T09:32:54Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T07:33:53Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
-    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "stars": 1,
-    "updated_at": "2026-05-25T07:31:49Z",
-    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:31:35Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:29:54Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:29:23Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:28:48Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:28:46Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
