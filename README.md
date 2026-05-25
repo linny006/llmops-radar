@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-25 21:44 UTC
+> ⏰ Last updated: 2026-05-25 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [solomon2773/nora](https://github.com/solomon2773/nora) | 11 | TypeScript | 2026-05-25 | The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets. |
-| 2 | [iamrealvinnu/aegis-eval](https://github.com/iamrealvinnu/aegis-eval) | 0 | Python | 2026-05-25 | Enterprise-grade evaluation framework for testing the safety boundaries of autonomous, self-improving AI agents. Feature |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [solomon2773/nora](https://github.com/solomon2773/nora) | 11 | TypeScript | 2026-05-25 | The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets. |
+| 3 | [iamrealvinnu/aegis-eval](https://github.com/iamrealvinnu/aegis-eval) | 0 | Python | 2026-05-25 | Enterprise-grade evaluation framework for testing the safety boundaries of autonomous, self-improving AI agents. Feature |
 | 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48216 | Python | 2026-05-25 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 5 | [techlab-innov/llmtrace](https://github.com/techlab-innov/llmtrace) | 49 | Rust | 2026-05-25 | Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O |
 | 6 | [Ratnesh-181998/Resume-and-Social-Profiles](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles) | 1 | — | 2026-05-25 | Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i |
