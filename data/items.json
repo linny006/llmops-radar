@@ -1,5 +1,59 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5210,
+    "updated_at": "2026-05-25T16:29:02Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-25T16:26:09Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:25:39Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The control plane for autonomous work and coding agent teams.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 21,
+    "updated_at": "2026-05-25T16:17:55Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "AI agents fail like junior teammates\u2014looping on bad ideas, ignoring feedback, escalating commitment. vstack ports 34 of ",
+    "id": "valani9/vstack",
+    "language": "Python",
+    "name": "valani9/vstack",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:15:34Z",
+    "url": "https://github.com/valani9/vstack"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local-first memory governance for OpenClaw: Store / Pack / Observe cited, inspectable, rollbackable agent context.",
     "id": "phenomenoner/openclaw-mem",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 28,
     "updated_at": "2026-05-25T16:10:39Z",
     "url": "https://github.com/phenomenoner/openclaw-mem"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48201,
+    "updated_at": "2026-05-25T16:10:34Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
@@ -18,22 +81,22 @@
     "url": "https://github.com/techlab-innov/llmtrace"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21584,
+    "updated_at": "2026-05-25T16:03:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1497,
+    "stars": 1499,
     "updated_at": "2026-05-25T16:01:38Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source runtime enforcement for AI agents. ",
@@ -54,24 +117,6 @@
     "url": "https://github.com/faraa2m/tokenometer"
   },
   {
-    "description": "AI agents fail like junior teammates\u2014looping on bad ideas, ignoring feedback, escalating commitment. vstack ports 34 of ",
-    "id": "valani9/vstack",
-    "language": "Python",
-    "name": "valani9/vstack",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:55:51Z",
-    "url": "https://github.com/valani9/vstack"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48200,
-    "updated_at": "2026-05-25T16:10:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -81,21 +126,12 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21582,
-    "updated_at": "2026-05-25T16:03:24Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3268,
-    "updated_at": "2026-05-25T16:14:29Z",
+    "updated_at": "2026-05-25T16:19:30Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -135,15 +171,6 @@
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5210,
-    "updated_at": "2026-05-25T16:03:19Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
     "id": "Arman7843/gemmachat-windows",
     "language": "\u2014",
@@ -158,7 +185,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4157,
-    "updated_at": "2026-05-25T15:38:32Z",
+    "updated_at": "2026-05-25T16:30:17Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 27889,
-    "updated_at": "2026-05-25T16:10:24Z",
+    "updated_at": "2026-05-25T16:30:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -238,7 +265,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26103,
+    "stars": 26106,
     "updated_at": "2026-05-25T15:26:58Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 50,
-    "updated_at": "2026-05-25T16:10:57Z",
+    "updated_at": "2026-05-25T16:24:22Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T15:15:37Z",
     "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "The control plane for autonomous work and coding agent teams.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 21,
-    "updated_at": "2026-05-25T15:15:29Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
@@ -423,15 +441,6 @@
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-25T15:07:22Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:07:05Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:06:30Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
