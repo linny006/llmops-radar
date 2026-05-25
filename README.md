@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-25 21:15 UTC
+> ⏰ Last updated: 2026-05-25 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Ratnesh-181998/Resume-and-Social-Profiles](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles) | 1 | — | 2026-05-25 | Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i |
-| 2 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 0 | Python | 2026-05-25 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 3 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-05-25 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 0 | Go | 2026-05-25 | The workflow and governance layer for agent-driven software development. |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48215 | Python | 2026-05-25 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 7 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 1524 | Python | 2026-05-25 | Observal is an Observability and Evaluation platform for human-in-the-loop agents |
-| 8 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 27898 | TypeScript | 2026-05-25 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
-| 9 | [techlab-innov/llmtrace](https://github.com/techlab-innov/llmtrace) | 49 | Rust | 2026-05-25 | Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O |
-| 10 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19374 | Python | 2026-05-25 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 11 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3268 | TypeScript | 2026-05-25 | The platform for LLM evaluations and AI agent testing |
-| 12 | [vitas/evidra-bench](https://github.com/vitas/evidra-bench) | 0 | Go | 2026-05-25 | Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age |
-| 13 | [starbaser/ccproxy](https://github.com/starbaser/ccproxy) | 349 | Python | 2026-05-25 | Build mods for Claude Code: Hook any request, modify any response, /model "with-your-custom-model", intelligent model ro |
-| 14 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-05-25 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 15 | [szymonhetnar/aos-meta-symbolic-kernel](https://github.com/szymonhetnar/aos-meta-symbolic-kernel) | 0 | Python | 2026-05-25 | AOS — AI runtime assurance for turning uncertain model outputs into auditable PASS/WARN/BLOCK decisions before real-worl |
-| 16 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-05-25 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48216 | Python | 2026-05-25 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 2 | [techlab-innov/llmtrace](https://github.com/techlab-innov/llmtrace) | 49 | Rust | 2026-05-25 | Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O |
+| 3 | [Ratnesh-181998/Resume-and-Social-Profiles](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles) | 1 | — | 2026-05-25 | Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i |
+| 4 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-05-25 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 0 | Python | 2026-05-25 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 7 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-05-25 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 8 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 0 | Go | 2026-05-25 | The workflow and governance layer for agent-driven software development. |
+| 9 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 1524 | Python | 2026-05-25 | Observal is an Observability and Evaluation platform for human-in-the-loop agents |
+| 10 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 27898 | TypeScript | 2026-05-25 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
+| 11 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19374 | Python | 2026-05-25 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 12 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3268 | TypeScript | 2026-05-25 | The platform for LLM evaluations and AI agent testing |
+| 13 | [vitas/evidra-bench](https://github.com/vitas/evidra-bench) | 0 | Go | 2026-05-25 | Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age |
+| 14 | [starbaser/ccproxy](https://github.com/starbaser/ccproxy) | 349 | Python | 2026-05-25 | Build mods for Claude Code: Hook any request, modify any response, /model "with-your-custom-model", intelligent model ro |
+| 15 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-05-25 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
+| 16 | [szymonhetnar/aos-meta-symbolic-kernel](https://github.com/szymonhetnar/aos-meta-symbolic-kernel) | 0 | Python | 2026-05-25 | AOS — AI runtime assurance for turning uncertain model outputs into auditable PASS/WARN/BLOCK decisions before real-worl |
 | 17 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 0 | — | 2026-05-25 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
 | 18 | [Arman7843/gemmachat-windows](https://github.com/Arman7843/gemmachat-windows) | 0 | — | 2026-05-25 | Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant. |
 | 19 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-05-25 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
