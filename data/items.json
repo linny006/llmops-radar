@@ -1,5 +1,50 @@
 [
   {
+    "description": "The open source runtime enforcement for AI agents. ",
+    "id": "EnforceGrid/steer",
+    "language": "Rust",
+    "name": "EnforceGrid/steer",
+    "stars": 1,
+    "updated_at": "2026-05-25T08:37:32Z",
+    "url": "https://github.com/EnforceGrid/steer"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 27859,
+    "updated_at": "2026-05-25T08:36:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1468,
+    "updated_at": "2026-05-25T08:35:50Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T08:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19370,
+    "updated_at": "2026-05-25T08:35:40Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -40,8 +85,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5196,
-    "updated_at": "2026-05-25T08:23:31Z",
+    "stars": 5197,
+    "updated_at": "2026-05-25T08:40:01Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -63,24 +108,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19370,
-    "updated_at": "2026-05-25T08:30:25Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T08:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
     "id": "moiraweave-labs/moiraweave",
     "language": "Python",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T08:05:45Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "The open source runtime enforcement for AI agents. ",
-    "id": "EnforceGrid/steer",
-    "language": "Rust",
-    "name": "EnforceGrid/steer",
-    "stars": 1,
-    "updated_at": "2026-05-25T08:02:33Z",
-    "url": "https://github.com/EnforceGrid/steer"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -275,7 +293,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1130,
-    "updated_at": "2026-05-25T08:10:43Z",
+    "updated_at": "2026-05-25T08:34:23Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1575,
     "updated_at": "2026-05-25T07:27:51Z",
     "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21571,
-    "updated_at": "2026-05-25T07:27:05Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:27:00Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
