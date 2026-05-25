@@ -1,5 +1,50 @@
 [
   {
+    "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1470,
+    "updated_at": "2026-05-25T09:25:27Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "VectorHub is a free, open-source learning website for people (software developers to senior ML architects) interested in",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 522,
+    "updated_at": "2026-05-25T09:21:53Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5199,
+    "updated_at": "2026-05-25T09:18:05Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-25T09:16:37Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -18,33 +63,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T09:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1469,
-    "updated_at": "2026-05-25T08:56:48Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5198,
-    "updated_at": "2026-05-25T08:56:29Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "The open source runtime enforcement for AI agents. ",
     "id": "EnforceGrid/steer",
     "language": "Rust",
@@ -58,7 +76,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 27862,
+    "stars": 27863,
     "updated_at": "2026-05-25T08:36:33Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -77,24 +95,15 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19370,
-    "updated_at": "2026-05-25T08:57:42Z",
+    "updated_at": "2026-05-25T09:28:34Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-25T08:28:38Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2130,
+    "stars": 2129,
     "updated_at": "2026-05-25T08:28:35Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -112,7 +121,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26098,
+    "stars": 26099,
     "updated_at": "2026-05-25T08:24:36Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -121,7 +130,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48165,
+    "stars": 48164,
     "updated_at": "2026-05-25T08:24:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T07:28:46Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:28:45Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
