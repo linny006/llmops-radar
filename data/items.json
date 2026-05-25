@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T15:28:55Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21579,
-    "updated_at": "2026-05-25T15:28:31Z",
+    "updated_at": "2026-05-25T15:30:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -117,6 +126,15 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19373,
+    "updated_at": "2026-05-25T15:18:00Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -142,15 +160,6 @@
     "stars": 21,
     "updated_at": "2026-05-25T15:15:29Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T14:43:58Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
-    "id": "SkylineTZ/RagaliQ",
-    "language": "Python",
-    "name": "SkylineTZ/RagaliQ",
-    "stars": 0,
-    "updated_at": "2026-05-25T14:38:33Z",
-    "url": "https://github.com/SkylineTZ/RagaliQ"
   }
 ]
