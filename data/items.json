@@ -1,21 +1,57 @@
 [
   {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:19:11Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 3,
-    "updated_at": "2026-05-25T17:16:52Z",
+    "updated_at": "2026-05-25T17:29:28Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "20 Claude Code plugins for ML engineering and AI operations",
+    "id": "HermeticOrmus/LibreMLOps-Claude-Code",
+    "language": "Shell",
+    "name": "HermeticOrmus/LibreMLOps-Claude-Code",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:14Z",
+    "url": "https://github.com/HermeticOrmus/LibreMLOps-Claude-Code"
+  },
+  {
+    "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1510,
+    "updated_at": "2026-05-25T17:23:32Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 33,
+    "updated_at": "2026-05-25T17:23:08Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 43,
+    "updated_at": "2026-05-25T17:24:16Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48205,
+    "updated_at": "2026-05-25T17:20:57Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-25T17:15:27Z",
+    "updated_at": "2026-05-25T17:19:48Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:19:11Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -36,15 +81,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1507,
-    "updated_at": "2026-05-25T17:12:31Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T17:10:02Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 33,
-    "updated_at": "2026-05-25T17:07:57Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -72,15 +99,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
-    "id": "avikalpg/byok-relay",
-    "language": "JavaScript",
-    "name": "avikalpg/byok-relay",
-    "stars": 43,
-    "updated_at": "2026-05-25T17:16:59Z",
-    "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
     "description": "The open source runtime enforcement for AI agents. ",
     "id": "EnforceGrid/steer",
     "language": "Rust",
@@ -88,6 +106,15 @@
     "stars": 1,
     "updated_at": "2026-05-25T17:03:08Z",
     "url": "https://github.com/EnforceGrid/steer"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 27891,
+    "updated_at": "2026-05-25T17:01:59Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
@@ -104,7 +131,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5211,
-    "updated_at": "2026-05-25T17:17:34Z",
+    "updated_at": "2026-05-25T17:29:28Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T16:49:21Z",
     "url": "https://github.com/valani9/vstack"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48204,
-    "updated_at": "2026-05-25T17:11:29Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\u26a1\ufe0f The \"1-Minute RAG Audit\" \u2014 Generate QA datasets & evaluate RAG systems in Colab, Jupyter, or CLI. Privacy-first, asyn",
@@ -178,15 +196,6 @@
     "stars": 49,
     "updated_at": "2026-05-25T16:37:07Z",
     "url": "https://github.com/techlab-innov/llmtrace"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 27890,
-    "updated_at": "2026-05-25T17:01:59Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:14:51Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:14:49Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
