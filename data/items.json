@@ -1,12 +1,21 @@
 [
   {
-    "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
-    "id": "BlazeUp-AI/Observal",
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1468,
-    "updated_at": "2026-05-25T08:56:48Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:14:32Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 33,
+    "updated_at": "2026-05-25T09:14:08Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-25T08:45:25Z",
+    "updated_at": "2026-05-25T09:00:30Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1469,
+    "updated_at": "2026-05-25T08:56:48Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -45,6 +63,15 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11383,
+    "updated_at": "2026-05-25T09:14:56Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -72,13 +99,13 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 33,
-    "updated_at": "2026-05-25T08:25:40Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7411,
+    "updated_at": "2026-05-25T08:26:09Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -94,7 +121,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48164,
+    "stars": 48165,
     "updated_at": "2026-05-25T08:24:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -108,15 +135,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7410,
-    "updated_at": "2026-05-25T08:26:09Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
     "id": "moiraweave-labs/moiraweave",
     "language": "Python",
@@ -124,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T08:08:40Z",
     "url": "https://github.com/moiraweave-labs/moiraweave"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-05-25T08:05:45Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -302,7 +311,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1130,
-    "updated_at": "2026-05-25T08:59:00Z",
+    "updated_at": "2026-05-25T09:13:55Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T07:28:45Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:28:43Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
