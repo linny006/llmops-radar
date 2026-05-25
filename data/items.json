@@ -1,12 +1,21 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5210,
-    "updated_at": "2026-05-25T16:29:02Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48203,
+    "updated_at": "2026-05-25T16:43:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u26a1\ufe0f The \"1-Minute RAG Audit\" \u2014 Generate QA datasets & evaluate RAG systems in Colab, Jupyter, or CLI. Privacy-first, asyn",
+    "id": "HZYAI/RagScore",
+    "language": "Python",
+    "name": "HZYAI/RagScore",
+    "stars": 32,
+    "updated_at": "2026-05-25T16:43:35Z",
+    "url": "https://github.com/HZYAI/RagScore"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -14,8 +23,62 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 3,
-    "updated_at": "2026-05-25T16:26:09Z",
+    "updated_at": "2026-05-25T16:41:27Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task exe",
+    "id": "Josh-XT/AGiXT",
+    "language": "Python",
+    "name": "Josh-XT/AGiXT",
+    "stars": 3192,
+    "updated_at": "2026-05-25T16:40:56Z",
+    "url": "https://github.com/Josh-XT/AGiXT"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5210,
+    "updated_at": "2026-05-25T16:40:27Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 50,
+    "updated_at": "2026-05-25T16:38:19Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 33,
+    "updated_at": "2026-05-25T16:37:34Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
+    "id": "techlab-innov/llmtrace",
+    "language": "Rust",
+    "name": "techlab-innov/llmtrace",
+    "stars": 49,
+    "updated_at": "2026-05-25T16:37:07Z",
+    "url": "https://github.com/techlab-innov/llmtrace"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -45,15 +108,6 @@
     "url": "https://github.com/valani9/vstack"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Local-first memory governance for OpenClaw: Store / Pack / Observe cited, inspectable, rollbackable agent context.",
     "id": "phenomenoner/openclaw-mem",
     "language": "Python",
@@ -61,24 +115,6 @@
     "stars": 28,
     "updated_at": "2026-05-25T16:10:39Z",
     "url": "https://github.com/phenomenoner/openclaw-mem"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48201,
-    "updated_at": "2026-05-25T16:10:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
-    "id": "techlab-innov/llmtrace",
-    "language": "Rust",
-    "name": "techlab-innov/llmtrace",
-    "stars": 49,
-    "updated_at": "2026-05-25T16:14:43Z",
-    "url": "https://github.com/techlab-innov/llmtrace"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -94,7 +130,7 @@
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1499,
+    "stars": 1500,
     "updated_at": "2026-05-25T16:01:38Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3268,
-    "updated_at": "2026-05-25T16:19:30Z",
+    "updated_at": "2026-05-25T16:32:34Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -265,7 +301,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26106,
+    "stars": 26108,
     "updated_at": "2026-05-25T15:26:58Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -342,15 +378,6 @@
     "url": "https://github.com/vitas/evidra-bench"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 50,
-    "updated_at": "2026-05-25T16:24:22Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:11:38Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 33,
-    "updated_at": "2026-05-25T15:10:02Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:09:10Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:07:05Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
