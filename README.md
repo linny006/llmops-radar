@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-25 08:40 UTC
+> ⏰ Last updated: 2026-05-25 08:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [EnforceGrid/steer](https://github.com/EnforceGrid/steer) | 1 | Rust | 2026-05-25 | The open source runtime enforcement for AI agents.  |
-| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 27859 | TypeScript | 2026-05-25 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
-| 3 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 1468 | Python | 2026-05-25 | Observal is an Observability and Evaluation platform for human-in-the-loop agents |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19370 | Python | 2026-05-25 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 6 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 3 | Rust | 2026-05-25 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 7 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2130 | C++ | 2026-05-25 | Community maintained hardware plugin for vLLM on Ascend |
-| 8 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 33 | Ruby | 2026-05-25 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
-| 9 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26098 | Python | 2026-05-25 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 10 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5197 | Go | 2026-05-25 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 1 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5198 | Go | 2026-05-25 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [EnforceGrid/steer](https://github.com/EnforceGrid/steer) | 1 | Rust | 2026-05-25 | The open source runtime enforcement for AI agents.  |
+| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 27859 | TypeScript | 2026-05-25 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
+| 5 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 1468 | Python | 2026-05-25 | Observal is an Observability and Evaluation platform for human-in-the-loop agents |
+| 6 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19370 | Python | 2026-05-25 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 7 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 3 | Rust | 2026-05-25 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 8 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2130 | C++ | 2026-05-25 | Community maintained hardware plugin for vLLM on Ascend |
+| 9 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 33 | Ruby | 2026-05-25 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
+| 10 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26098 | Python | 2026-05-25 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 11 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 0 | Python | 2026-05-25 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
 | 12 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7410 | Rust | 2026-05-25 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 13 | [moiraweave-labs/moiraweave](https://github.com/moiraweave-labs/moiraweave) | 1 | Python | 2026-05-25 | Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a |
