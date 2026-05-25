@@ -1,11 +1,92 @@
 [
   {
+    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
+    "id": "moiraweave-labs/moiraweave",
+    "language": "Python",
+    "name": "moiraweave-labs/moiraweave",
+    "stars": 1,
+    "updated_at": "2026-05-25T12:45:09Z",
+    "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps \u2014 built for engineers shipping AI syst",
+    "id": "amikumar91/ai-systems-engineering",
+    "language": "JavaScript",
+    "name": "amikumar91/ai-systems-engineering",
+    "stars": 2,
+    "updated_at": "2026-05-25T12:44:28Z",
+    "url": "https://github.com/amikumar91/ai-systems-engineering"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26099,
+    "updated_at": "2026-05-25T12:35:59Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 0,
+    "updated_at": "2026-05-25T12:32:54Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 27875,
+    "updated_at": "2026-05-25T12:39:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5204,
+    "updated_at": "2026-05-25T12:36:23Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 0,
+    "updated_at": "2026-05-25T12:30:55Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48189,
+    "updated_at": "2026-05-25T12:30:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T12:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 3,
-    "updated_at": "2026-05-25T12:26:47Z",
+    "updated_at": "2026-05-25T12:38:59Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -14,7 +95,7 @@
     "language": "Java",
     "name": "runcycles/cycles-server-admin",
     "stars": 1,
-    "updated_at": "2026-05-25T12:24:55Z",
+    "updated_at": "2026-05-25T12:37:16Z",
     "url": "https://github.com/runcycles/cycles-server-admin"
   },
   {
@@ -36,15 +117,6 @@
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48188,
-    "updated_at": "2026-05-25T12:21:43Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -58,7 +130,7 @@
     "id": "liguodongiot/llm-action",
     "language": "HTML",
     "name": "liguodongiot/llm-action",
-    "stars": 24359,
+    "stars": 24360,
     "updated_at": "2026-05-25T12:17:39Z",
     "url": "https://github.com/liguodongiot/llm-action"
   },
@@ -70,15 +142,6 @@
     "stars": 61,
     "updated_at": "2026-05-25T12:28:33Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19371,
-    "updated_at": "2026-05-25T12:29:05Z",
+    "updated_at": "2026-05-25T12:35:47Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T12:02:04Z",
     "url": "https://github.com/germanic-hwangho835/FolkLite"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5203,
-    "updated_at": "2026-05-25T12:24:06Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -286,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T11:53:00Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 27874,
-    "updated_at": "2026-05-25T11:52:19Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T11:43:05Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 0,
-    "updated_at": "2026-05-25T11:42:55Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 0,
-    "updated_at": "2026-05-25T11:42:50Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-05-25T11:42:36Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-05-25T11:41:09Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 0,
-    "updated_at": "2026-05-25T11:40:20Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
