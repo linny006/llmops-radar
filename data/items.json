@@ -1,21 +1,21 @@
 [
   {
-    "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and e",
-    "id": "tensorzero/tensorzero",
-    "language": "Rust",
-    "name": "tensorzero/tensorzero",
-    "stars": 11404,
-    "updated_at": "2026-05-26T18:44:55Z",
-    "url": "https://github.com/tensorzero/tensorzero"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5243,
+    "updated_at": "2026-05-26T19:00:15Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
     "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 17,
-    "updated_at": "2026-05-26T18:44:07Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-05-26T18:59:01Z",
+    "url": "https://github.com/tenemos/langwatch"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -23,8 +23,53 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48325,
-    "updated_at": "2026-05-26T18:40:56Z",
+    "updated_at": "2026-05-26T18:58:47Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 17,
+    "updated_at": "2026-05-26T18:56:34Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-26T18:53:40Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and e",
+    "id": "tensorzero/tensorzero",
+    "language": "Rust",
+    "name": "tensorzero/tensorzero",
+    "stars": 11405,
+    "updated_at": "2026-05-26T18:44:55Z",
+    "url": "https://github.com/tensorzero/tensorzero"
+  },
+  {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4160,
+    "updated_at": "2026-05-26T18:39:21Z",
+    "url": "https://github.com/Agenta-AI/agenta"
   },
   {
     "description": "The workflow and governance layer for agent-driven software development.",
@@ -45,30 +90,12 @@
     "url": "https://github.com/ppon1086/ragcitecheck"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5243,
-    "updated_at": "2026-05-26T18:28:59Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 2952,
-    "updated_at": "2026-05-26T18:25:14Z",
+    "updated_at": "2026-05-26T18:48:30Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 27990,
-    "updated_at": "2026-05-26T18:12:57Z",
+    "updated_at": "2026-05-26T18:56:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9849,
-    "updated_at": "2026-05-26T18:43:34Z",
+    "updated_at": "2026-05-26T19:00:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T16:44:09Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:42:56Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:41:44Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:40:00Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
   }
 ]
