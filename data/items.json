@@ -1,12 +1,57 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21619,
+    "updated_at": "2026-05-26T17:25:43Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
+    "id": "vitas/evidra-bench",
+    "language": "Go",
+    "name": "vitas/evidra-bench",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:22:27Z",
+    "url": "https://github.com/vitas/evidra-bench"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19381,
+    "updated_at": "2026-05-26T17:25:36Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "A framework with a strict protocol core for governed, stateful AI work.",
     "id": "maridlabsai/jini",
     "language": "Python",
     "name": "maridlabsai/jini",
     "stars": 1,
-    "updated_at": "2026-05-26T17:13:02Z",
+    "updated_at": "2026-05-26T17:17:33Z",
     "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:16:12Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:15:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -72,13 +117,13 @@
     "url": "https://github.com/mezmo/aura"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21619,
-    "updated_at": "2026-05-26T17:07:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48319,
+    "updated_at": "2026-05-26T17:04:39Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T17:02:53Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:01:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
@@ -184,7 +220,7 @@
     "id": "tensorzero/tensorzero",
     "language": "Rust",
     "name": "tensorzero/tensorzero",
-    "stars": 11403,
+    "stars": 11404,
     "updated_at": "2026-05-26T16:53:11Z",
     "url": "https://github.com/tensorzero/tensorzero"
   },
@@ -229,8 +265,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 27986,
-    "updated_at": "2026-05-26T16:47:20Z",
+    "stars": 27987,
+    "updated_at": "2026-05-26T17:25:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -279,21 +315,12 @@
     "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19381,
-    "updated_at": "2026-05-26T17:07:50Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9848,
-    "updated_at": "2026-05-26T17:12:24Z",
+    "updated_at": "2026-05-26T17:18:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48318,
-    "updated_at": "2026-05-26T17:04:39Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
     "id": "ashmedanraj/langfuse-eks-production",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T16:30:17Z",
     "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Eval-first AI agent that triages property maintenance emails. The real work is the eval system around it: trace-driven e",
-    "id": "mohsinsheikhani/property-maintenance-agent",
-    "language": "Python",
-    "name": "mohsinsheikhani/property-maintenance-agent",
-    "stars": 4,
-    "updated_at": "2026-05-26T16:30:06Z",
-    "url": "https://github.com/mohsinsheikhani/property-maintenance-agent"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:29:55Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
