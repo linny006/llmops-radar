@@ -1,12 +1,183 @@
 [
   {
+    "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
+    "id": "germanic-hwangho835/FolkLite",
+    "language": "\u2014",
+    "name": "germanic-hwangho835/FolkLite",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:58:26Z",
+    "url": "https://github.com/germanic-hwangho835/FolkLite"
+  },
+  {
+    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
+    "id": "harishu652/Class-AI-Agent",
+    "language": "\u2014",
+    "name": "harishu652/Class-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:57:57Z",
+    "url": "https://github.com/harishu652/Class-AI-Agent"
+  },
+  {
+    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
+    "id": "wordenneapolitan768/llm-pricing",
+    "language": "\u2014",
+    "name": "wordenneapolitan768/llm-pricing",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:57:38Z",
+    "url": "https://github.com/wordenneapolitan768/llm-pricing"
+  },
+  {
+    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
+    "id": "effecterelectricalplant87/LLM",
+    "language": "\u2014",
+    "name": "effecterelectricalplant87/LLM",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:57:26Z",
+    "url": "https://github.com/effecterelectricalplant87/LLM"
+  },
+  {
+    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
+    "id": "Rosalyndfaithful716/Guardrail",
+    "language": "TypeScript",
+    "name": "Rosalyndfaithful716/Guardrail",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:56:52Z",
+    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
+  },
+  {
+    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
+    "id": "Healthful-article791/rag-systems-production",
+    "language": "\u2014",
+    "name": "Healthful-article791/rag-systems-production",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:55:28Z",
+    "url": "https://github.com/Healthful-article791/rag-systems-production"
+  },
+  {
+    "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
+    "id": "Plumaged-dancing835/litellm_1.82.8_payload",
+    "language": "Python",
+    "name": "Plumaged-dancing835/litellm_1.82.8_payload",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:54:26Z",
+    "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
+  },
+  {
+    "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and e",
+    "id": "tensorzero/tensorzero",
+    "language": "Rust",
+    "name": "tensorzero/tensorzero",
+    "stars": 11403,
+    "updated_at": "2026-05-26T16:53:11Z",
+    "url": "https://github.com/tensorzero/tensorzero"
+  },
+  {
+    "description": "Automated LLM evaluation with RAGAS, hallucination checks, prompt versioning, and Streamlit dashboards",
+    "id": "rahul-alhan/llm-evaluation-harness",
+    "language": "Python",
+    "name": "rahul-alhan/llm-evaluation-harness",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:52:42Z",
+    "url": "https://github.com/rahul-alhan/llm-evaluation-harness"
+  },
+  {
+    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
+    "id": "Orlyoxidized462/py-prompt-versioner",
+    "language": "Python",
+    "name": "Orlyoxidized462/py-prompt-versioner",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:49:04Z",
+    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
+  },
+  {
     "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor",
     "id": "Haohao-end/openagent",
     "language": "Python",
     "name": "Haohao-end/openagent",
-    "stars": 802,
-    "updated_at": "2026-05-26T16:45:21Z",
+    "stars": 803,
+    "updated_at": "2026-05-26T16:48:25Z",
     "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
+    "id": "pencaudal526/system-design-bible",
+    "language": "\u2014",
+    "name": "pencaudal526/system-design-bible",
+    "stars": 1,
+    "updated_at": "2026-05-26T16:47:39Z",
+    "url": "https://github.com/pencaudal526/system-design-bible"
+  },
+  {
+    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
+    "id": "recordrnase224/brix-protocol",
+    "language": "Python",
+    "name": "recordrnase224/brix-protocol",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:47:02Z",
+    "url": "https://github.com/recordrnase224/brix-protocol"
+  },
+  {
+    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
+    "id": "Impure-platen433/crabllm",
+    "language": "Rust",
+    "name": "Impure-platen433/crabllm",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:47:02Z",
+    "url": "https://github.com/Impure-platen433/crabllm"
+  },
+  {
+    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
+    "id": "Citrous-districtline59/agent-trace",
+    "language": "Python",
+    "name": "Citrous-districtline59/agent-trace",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:46:22Z",
+    "url": "https://github.com/Citrous-districtline59/agent-trace"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:46:07Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
+    "id": "thesecretrapper786-netizen/catalyst-n1",
+    "language": "\u2014",
+    "name": "thesecretrapper786-netizen/catalyst-n1",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:45:37Z",
+    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19381,
+    "updated_at": "2026-05-26T16:59:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T16:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9848,
+    "updated_at": "2026-05-26T16:54:07Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -54,15 +225,6 @@
     "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:39:48Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -108,20 +270,11 @@
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9847,
-    "updated_at": "2026-05-26T16:44:28Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48317,
+    "stars": 48318,
     "updated_at": "2026-05-26T16:37:24Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -151,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-05-26T16:32:14Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:30:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
@@ -256,18 +400,9 @@
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1578,
+    "stars": 1579,
     "updated_at": "2026-05-26T16:24:07Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19381,
-    "updated_at": "2026-05-26T16:44:40Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
@@ -284,7 +419,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 27985,
-    "updated_at": "2026-05-26T16:45:26Z",
+    "updated_at": "2026-05-26T16:47:20Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T16:18:10Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:17:15Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-05-26T16:15:03Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Production RAG system in Python: Haystack pipelines, FastAPI SSE streaming, Qdrant hybrid retrieval, OpenAI embeddings, ",
-    "id": "mohsinsheikhani/advanced-rag-engineering",
-    "language": "Python",
-    "name": "mohsinsheikhani/advanced-rag-engineering",
-    "stars": 2,
-    "updated_at": "2026-05-26T16:13:48Z",
-    "url": "https://github.com/mohsinsheikhani/advanced-rag-engineering"
-  },
-  {
-    "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
-    "id": "SkylineTZ/RagaliQ",
-    "language": "Python",
-    "name": "SkylineTZ/RagaliQ",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:12:19Z",
-    "url": "https://github.com/SkylineTZ/RagaliQ"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:11:23Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Enhance agentic development with tools for isolated environments and unused code detection in your stack.",
-    "id": "masterudon23/agent-tools",
-    "language": "TypeScript",
-    "name": "masterudon23/agent-tools",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:08:36Z",
-    "url": "https://github.com/masterudon23/agent-tools"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
-    "id": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "language": "HTML",
-    "name": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "stars": 1,
-    "updated_at": "2026-05-26T16:08:30Z",
-    "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:08:27Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Configure Claude Code with settings and skills for enhanced web interaction, automation, and efficient code managemen",
-    "id": "Md0bR/claude-config",
-    "language": "Shell",
-    "name": "Md0bR/claude-config",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:07:28Z",
-    "url": "https://github.com/Md0bR/claude-config"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-05-26T16:07:05Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\ud83e\udde0 Explore Agentic AI and GeN AI solutions on AWS, GCP, and Azure to harness cloud power for advanced artificial intellig",
-    "id": "johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure",
-    "language": "\u2014",
-    "name": "johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:06:05Z",
-    "url": "https://github.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:06:02Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:04:07Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:03:42Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83d\ude80 Explore how to optimize large language models through context engineering and the Model Context Protocol for improved ",
-    "id": "Kacper-ctrl-wq/AI-Tracker",
-    "language": "\u2014",
-    "name": "Kacper-ctrl-wq/AI-Tracker",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:02:31Z",
-    "url": "https://github.com/Kacper-ctrl-wq/AI-Tracker"
   }
 ]
