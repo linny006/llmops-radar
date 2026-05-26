@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-26 17:00 UTC
+> ⏰ Last updated: 2026-05-26 17:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [germanic-hwangho835/FolkLite](https://github.com/germanic-hwangho835/FolkLite) | 0 | — | 2026-05-26 | Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI |
-| 2 | [harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent) | 0 | — | 2026-05-26 | Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules |
-| 3 | [wordenneapolitan768/llm-pricing](https://github.com/wordenneapolitan768/llm-pricing) | 0 | — | 2026-05-26 | Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards |
-| 4 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-05-26 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
-| 5 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 0 | TypeScript | 2026-05-26 | Scan AI-generated code for security, performance, and code quality issues before they ship |
-| 6 | [Healthful-article791/rag-systems-production](https://github.com/Healthful-article791/rag-systems-production) | 0 | — | 2026-05-26 | Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo |
-| 7 | [Plumaged-dancing835/litellm_1.82.8_payload](https://github.com/Plumaged-dancing835/litellm_1.82.8_payload) | 0 | Python | 2026-05-26 | Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio |
-| 8 | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | 11403 | Rust | 2026-05-26 | TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and e |
-| 9 | [rahul-alhan/llm-evaluation-harness](https://github.com/rahul-alhan/llm-evaluation-harness) | 0 | Python | 2026-05-26 | Automated LLM evaluation with RAGAS, hallucination checks, prompt versioning, and Streamlit dashboards |
-| 10 | [Orlyoxidized462/py-prompt-versioner](https://github.com/Orlyoxidized462/py-prompt-versioner) | 0 | Python | 2026-05-26 | Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL |
-| 11 | [Haohao-end/openagent](https://github.com/Haohao-end/openagent) | 803 | Python | 2026-05-26 | AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor |
-| 12 | [pencaudal526/system-design-bible](https://github.com/pencaudal526/system-design-bible) | 1 | — | 2026-05-26 | Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer |
-| 13 | [recordrnase224/brix-protocol](https://github.com/recordrnase224/brix-protocol) | 0 | Python | 2026-05-26 | Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ |
-| 14 | [Impure-platen433/crabllm](https://github.com/Impure-platen433/crabllm) | 0 | Rust | 2026-05-26 | Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway |
-| 15 | [Citrous-districtline59/agent-trace](https://github.com/Citrous-districtline59/agent-trace) | 0 | Python | 2026-05-26 | Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful |
-| 16 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-05-26 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 17 | [thesecretrapper786-netizen/catalyst-n1](https://github.com/thesecretrapper786-netizen/catalyst-n1) | 0 | — | 2026-05-26 | Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne |
-| 18 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19381 | Python | 2026-05-26 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 19 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [germanic-hwangho835/FolkLite](https://github.com/germanic-hwangho835/FolkLite) | 0 | — | 2026-05-26 | Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI |
+| 3 | [harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent) | 0 | — | 2026-05-26 | Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules |
+| 4 | [wordenneapolitan768/llm-pricing](https://github.com/wordenneapolitan768/llm-pricing) | 0 | — | 2026-05-26 | Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards |
+| 5 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-05-26 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
+| 6 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 0 | TypeScript | 2026-05-26 | Scan AI-generated code for security, performance, and code quality issues before they ship |
+| 7 | [Healthful-article791/rag-systems-production](https://github.com/Healthful-article791/rag-systems-production) | 0 | — | 2026-05-26 | Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo |
+| 8 | [Plumaged-dancing835/litellm_1.82.8_payload](https://github.com/Plumaged-dancing835/litellm_1.82.8_payload) | 0 | Python | 2026-05-26 | Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio |
+| 9 | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | 11403 | Rust | 2026-05-26 | TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and e |
+| 10 | [rahul-alhan/llm-evaluation-harness](https://github.com/rahul-alhan/llm-evaluation-harness) | 0 | Python | 2026-05-26 | Automated LLM evaluation with RAGAS, hallucination checks, prompt versioning, and Streamlit dashboards |
+| 11 | [Orlyoxidized462/py-prompt-versioner](https://github.com/Orlyoxidized462/py-prompt-versioner) | 0 | Python | 2026-05-26 | Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL |
+| 12 | [Haohao-end/openagent](https://github.com/Haohao-end/openagent) | 803 | Python | 2026-05-26 | AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor |
+| 13 | [pencaudal526/system-design-bible](https://github.com/pencaudal526/system-design-bible) | 1 | — | 2026-05-26 | Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer |
+| 14 | [recordrnase224/brix-protocol](https://github.com/recordrnase224/brix-protocol) | 0 | Python | 2026-05-26 | Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ |
+| 15 | [Impure-platen433/crabllm](https://github.com/Impure-platen433/crabllm) | 0 | Rust | 2026-05-26 | Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway |
+| 16 | [Citrous-districtline59/agent-trace](https://github.com/Citrous-districtline59/agent-trace) | 0 | Python | 2026-05-26 | Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful |
+| 17 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-05-26 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 18 | [thesecretrapper786-netizen/catalyst-n1](https://github.com/thesecretrapper786-netizen/catalyst-n1) | 0 | — | 2026-05-26 | Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne |
+| 19 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19381 | Python | 2026-05-26 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 20 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9848 | Python | 2026-05-26 | AI Observability & Evaluation |
 | 21 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-26 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 22 | [downpaymentbulbul49/plano_estudos_sre](https://github.com/downpaymentbulbul49/plano_estudos_sre) | 0 | — | 2026-05-26 | Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top |
