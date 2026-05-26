@@ -1,5 +1,104 @@
 [
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11386,
+    "updated_at": "2026-05-26T13:24:09Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
+    "id": "degen1322/agentic-template",
+    "language": "HTML",
+    "name": "degen1322/agentic-template",
+    "stars": 0,
+    "updated_at": "2026-05-26T13:23:57Z",
+    "url": "https://github.com/degen1322/agentic-template"
+  },
+  {
+    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
+    "id": "kami-beep/kb-contracts",
+    "language": "TypeScript",
+    "name": "kami-beep/kb-contracts",
+    "stars": 0,
+    "updated_at": "2026-05-26T13:20:45Z",
+    "url": "https://github.com/kami-beep/kb-contracts"
+  },
+  {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4159,
+    "updated_at": "2026-05-26T13:18:32Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
+    "description": "Local quota, cost, usage, retry, and fallback ledger for LLM-powered agents",
+    "id": "brunopetrovic/llm-quota-guard",
+    "language": "Python",
+    "name": "brunopetrovic/llm-quota-guard",
+    "stars": 0,
+    "updated_at": "2026-05-26T13:17:37Z",
+    "url": "https://github.com/brunopetrovic/llm-quota-guard"
+  },
+  {
+    "description": "Mechanical write allowlist and terminal policy enforcement for scheduled and autonomous agents",
+    "id": "brunopetrovic/agent-cron-sandbox",
+    "language": "Python",
+    "name": "brunopetrovic/agent-cron-sandbox",
+    "stars": 0,
+    "updated_at": "2026-05-26T13:17:32Z",
+    "url": "https://github.com/brunopetrovic/agent-cron-sandbox"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-05-26T13:17:30Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "Diagnose AI agent stack configuration, routing, credential, cron, memory, and skill failures before they bite",
+    "id": "brunopetrovic/agent-stack-doctor",
+    "language": "Python",
+    "name": "brunopetrovic/agent-stack-doctor",
+    "stars": 0,
+    "updated_at": "2026-05-26T13:17:27Z",
+    "url": "https://github.com/brunopetrovic/agent-stack-doctor"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 0,
+    "updated_at": "2026-05-26T13:16:32Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T13:15:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-26T13:15:04Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -7,6 +106,15 @@
     "stars": 17,
     "updated_at": "2026-05-26T13:14:13Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48302,
+    "updated_at": "2026-05-26T13:13:27Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
@@ -104,7 +212,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 27968,
-    "updated_at": "2026-05-26T13:06:35Z",
+    "updated_at": "2026-05-26T13:26:52Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -126,6 +234,15 @@
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21613,
+    "updated_at": "2026-05-26T13:04:21Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
     "id": "matiaslanza99/SuperStore.SalesDashboard",
     "language": "CSS",
@@ -142,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T13:03:34Z",
     "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21612,
-    "updated_at": "2026-05-26T13:04:21Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\ude80 Explore how to optimize large language models through context engineering and the Model Context Protocol for improved ",
@@ -171,33 +279,6 @@
     "url": "https://github.com/rsaudio/second-brain"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48301,
-    "updated_at": "2026-05-26T13:13:27Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Local quota, cost, usage, retry, and fallback ledger for LLM-powered agents",
-    "id": "brunopetrovic/llm-quota-guard",
-    "language": "Python",
-    "name": "brunopetrovic/llm-quota-guard",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:10:42Z",
-    "url": "https://github.com/brunopetrovic/llm-quota-guard"
-  },
-  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -205,24 +286,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T12:57:46Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "Mechanical write allowlist and terminal policy enforcement for scheduled and autonomous agents",
-    "id": "brunopetrovic/agent-cron-sandbox",
-    "language": "Python",
-    "name": "brunopetrovic/agent-cron-sandbox",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:08:52Z",
-    "url": "https://github.com/brunopetrovic/agent-cron-sandbox"
-  },
-  {
-    "description": "Diagnose AI agent stack configuration, routing, credential, cron, memory, and skill failures before they bite",
-    "id": "brunopetrovic/agent-stack-doctor",
-    "language": "Python",
-    "name": "brunopetrovic/agent-stack-doctor",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:12:17Z",
-    "url": "https://github.com/brunopetrovic/agent-stack-doctor"
   },
   {
     "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
@@ -383,70 +446,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 2950,
-    "updated_at": "2026-05-26T13:15:16Z",
+    "updated_at": "2026-05-26T13:30:04Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "\ud83e\udde0 Monitor web app performance and detect anomalies with AI-driven insights, capturing key events and generating detailed",
-    "id": "LaurenceGab/ai-monitoring-layer",
-    "language": "JavaScript",
-    "name": "LaurenceGab/ai-monitoring-layer",
-    "stars": 0,
-    "updated_at": "2026-05-26T12:42:38Z",
-    "url": "https://github.com/LaurenceGab/ai-monitoring-layer"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Detect and remove spyware with SUPERAntiSpyware Professional X, ensuring your Windows system stays secure and your da",
-    "id": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "language": "\u2014",
-    "name": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "stars": 1,
-    "updated_at": "2026-05-26T12:42:00Z",
-    "url": "https://github.com/mshadan825/SUPERAntiSpyware-Professional-X-Activated"
-  },
-  {
-    "description": "\ud83c\udf10 Build and share your personal website with ease using mjsushanth.github.io, a simple and effective static site generat",
-    "id": "don12345673434/mjsushanth.github.io",
-    "language": "HTML",
-    "name": "don12345673434/mjsushanth.github.io",
-    "stars": 0,
-    "updated_at": "2026-05-26T12:39:00Z",
-    "url": "https://github.com/don12345673434/mjsushanth.github.io"
-  },
-  {
-    "description": "\ud83d\udc14 Simplify AI orchestration by using agentic systems; spawn subagents like a hen with her chicks for seamless task manag",
-    "id": "iulieobraznic/agentic-ai-systems",
-    "language": "\u2014",
-    "name": "iulieobraznic/agentic-ai-systems",
-    "stars": 0,
-    "updated_at": "2026-05-26T12:34:17Z",
-    "url": "https://github.com/iulieobraznic/agentic-ai-systems"
-  },
-  {
-    "description": "\ud83c\udf9b\ufe0f Build efficient workflows with Deevs' Agent System, a plugin marketplace for Claude Code featuring multi-session chai",
-    "id": "Shahzadaslam007799/agent-system",
-    "language": "\u2014",
-    "name": "Shahzadaslam007799/agent-system",
-    "stars": 1,
-    "updated_at": "2026-05-26T12:33:59Z",
-    "url": "https://github.com/Shahzadaslam007799/agent-system"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance your CAD, WMS, or CAM software with Vector\u2014an offline tool for seamless optimization without tuning or ongoing",
-    "id": "dewqasujbc/Vector",
-    "language": "\u2014",
-    "name": "dewqasujbc/Vector",
-    "stars": 0,
-    "updated_at": "2026-05-26T12:31:24Z",
-    "url": "https://github.com/dewqasujbc/Vector"
-  },
-  {
-    "description": "\ud83d\udecd\ufe0f Automate your sales process with an AI-driven multi-agent system that improves efficiency from product inquiries to p",
-    "id": "sway121/Agentes_IA",
-    "language": "Python",
-    "name": "sway121/Agentes_IA",
-    "stars": 3,
-    "updated_at": "2026-05-26T12:31:18Z",
-    "url": "https://github.com/sway121/Agentes_IA"
   }
 ]
