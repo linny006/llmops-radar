@@ -1,12 +1,30 @@
 [
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 17,
-    "updated_at": "2026-05-26T18:13:03Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5243,
+    "updated_at": "2026-05-26T18:28:59Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:24:53Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26125,
+    "updated_at": "2026-05-26T18:23:45Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Measure citation and evidence stability in RAG pipelines across runs and configuration changes.",
@@ -14,26 +32,17 @@
     "language": "Python",
     "name": "ppon1086/ragcitecheck",
     "stars": 2,
-    "updated_at": "2026-05-26T18:10:44Z",
+    "updated_at": "2026-05-26T18:21:52Z",
     "url": "https://github.com/ppon1086/ragcitecheck"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21619,
-    "updated_at": "2026-05-26T18:11:05Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5241,
-    "updated_at": "2026-05-26T18:00:44Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "name": "ihabkhaled/ClawAI",
+    "stars": 17,
+    "updated_at": "2026-05-26T18:18:00Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -41,8 +50,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-26T18:00:33Z",
+    "updated_at": "2026-05-26T18:15:32Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 27990,
+    "updated_at": "2026-05-26T18:12:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21619,
+    "updated_at": "2026-05-26T18:18:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
@@ -61,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-05-26T17:38:15Z",
     "url": "https://github.com/langfuse/langfuse-workshop"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 27989,
-    "updated_at": "2026-05-26T18:12:57Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9849,
-    "updated_at": "2026-05-26T17:18:45Z",
+    "updated_at": "2026-05-26T18:24:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48324,
-    "updated_at": "2026-05-26T18:11:03Z",
+    "updated_at": "2026-05-26T18:26:42Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Rust",
     "name": "tensorzero/tensorzero",
     "stars": 11404,
-    "updated_at": "2026-05-26T18:07:49Z",
+    "updated_at": "2026-05-26T18:16:25Z",
     "url": "https://github.com/tensorzero/tensorzero"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T16:38:58Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:38:54Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:38:51Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
