@@ -1,5 +1,77 @@
 [
   {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4160,
+    "updated_at": "2026-05-26T21:44:42Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
+    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 11,
+    "updated_at": "2026-05-26T21:43:42Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-05-26T21:41:20Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48337,
+    "updated_at": "2026-05-26T21:44:29Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-05-26T21:33:41Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5247,
+    "updated_at": "2026-05-26T21:44:46Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 0,
+    "updated_at": "2026-05-26T21:30:42Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T21:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
     "id": "Arman7843/gemmachat-windows",
     "language": "\u2014",
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T21:28:34Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 11,
-    "updated_at": "2026-05-26T21:25:36Z",
-    "url": "https://github.com/solomon2773/nora"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -117,15 +180,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48336,
-    "updated_at": "2026-05-26T21:25:49Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T21:15:50Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T21:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -259,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T21:05:59Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5246,
-    "updated_at": "2026-05-26T21:26:25Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T20:49:34Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 0,
-    "updated_at": "2026-05-26T20:49:30Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-05-26T20:48:11Z",
-    "url": "https://github.com/degen1322/agentic-template"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-26T20:47:58Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and e",
-    "id": "tensorzero/tensorzero",
-    "language": "Rust",
-    "name": "tensorzero/tensorzero",
-    "stars": 11405,
-    "updated_at": "2026-05-26T20:46:37Z",
-    "url": "https://github.com/tensorzero/tensorzero"
   }
 ]
