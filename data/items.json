@@ -1,11 +1,83 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9867,
+    "updated_at": "2026-05-27T14:59:21Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Local-first summaries and safety checks for AI agent JSONL traces.",
+    "id": "mikebfox/runlace",
+    "language": "Python",
+    "name": "mikebfox/runlace",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:58:49Z",
+    "url": "https://github.com/mikebfox/runlace"
+  },
+  {
+    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
+    "id": "techlab-innov/llmtrace",
+    "language": "Rust",
+    "name": "techlab-innov/llmtrace",
+    "stars": 49,
+    "updated_at": "2026-05-27T14:58:16Z",
+    "url": "https://github.com/techlab-innov/llmtrace"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28060,
+    "updated_at": "2026-05-27T14:52:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1604,
+    "updated_at": "2026-05-27T14:51:25Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
+    "id": "vitas/evidra-bench",
+    "language": "Go",
+    "name": "vitas/evidra-bench",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:50:13Z",
+    "url": "https://github.com/vitas/evidra-bench"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5276,
+    "updated_at": "2026-05-27T15:00:10Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 17,
+    "updated_at": "2026-05-27T14:49:03Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T14:43:47Z",
+    "updated_at": "2026-05-27T14:45:36Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -14,17 +86,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 351,
-    "updated_at": "2026-05-27T14:44:39Z",
+    "updated_at": "2026-05-27T15:00:07Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 17,
-    "updated_at": "2026-05-27T14:37:06Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21652,
-    "updated_at": "2026-05-27T14:43:08Z",
+    "updated_at": "2026-05-27T14:52:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48439,
-    "updated_at": "2026-05-27T14:29:30Z",
+    "updated_at": "2026-05-27T14:53:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -99,21 +162,12 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5275,
-    "updated_at": "2026-05-27T14:22:49Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19383,
-    "updated_at": "2026-05-27T14:41:45Z",
+    "updated_at": "2026-05-27T14:56:54Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -135,24 +189,6 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28059,
-    "updated_at": "2026-05-27T14:30:04Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1603,
-    "updated_at": "2026-05-27T13:55:13Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
-  },
-  {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
     "id": "openlit/openlit",
     "language": "TypeScript",
@@ -160,15 +196,6 @@
     "stars": 2472,
     "updated_at": "2026-05-27T13:55:07Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9867,
-    "updated_at": "2026-05-27T13:52:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
@@ -187,15 +214,6 @@
     "stars": 28,
     "updated_at": "2026-05-27T13:49:23Z",
     "url": "https://github.com/phenomenoner/openclaw-mem"
-  },
-  {
-    "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
-    "id": "vitas/evidra-bench",
-    "language": "Go",
-    "name": "vitas/evidra-bench",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:26:16Z",
-    "url": "https://github.com/vitas/evidra-bench"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -261,15 +279,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
-    "id": "techlab-innov/llmtrace",
-    "language": "Rust",
-    "name": "techlab-innov/llmtrace",
-    "stars": 49,
-    "updated_at": "2026-05-27T14:00:42Z",
-    "url": "https://github.com/techlab-innov/llmtrace"
-  },
-  {
     "description": "Custom evaluators for behavioural coherence and epistemic robustness, designed to fit the Azure AI Foundry Evaluation SD",
     "id": "jrcruciani/foundry-epistemic-evaluators",
     "language": "Python",
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3269,
-    "updated_at": "2026-05-27T14:36:47Z",
+    "updated_at": "2026-05-27T15:00:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:47:06Z",
     "url": "https://github.com/masterudon23/agent-tools"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:47:00Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
   }
 ]
