@@ -1,19 +1,82 @@
 [
   {
+    "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
+    "id": "flowork-os/Flow_Router",
+    "language": "Go",
+    "name": "flowork-os/Flow_Router",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:14:16Z",
+    "url": "https://github.com/flowork-os/Flow_Router"
+  },
+  {
+    "description": "A comprehensive AI/ML learning platform with 9 end-to-end projects covering the full spectrum, from classical ML to prod",
+    "id": "genieincodebottle/aiml-companion",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/aiml-companion",
+    "stars": 51,
+    "updated_at": "2026-05-27T11:10:46Z",
+    "url": "https://github.com/genieincodebottle/aiml-companion"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5264,
-    "updated_at": "2026-05-27T10:59:54Z",
+    "updated_at": "2026-05-27T11:04:51Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-27T11:03:56Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3269,
+    "updated_at": "2026-05-27T11:14:53Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 2952,
+    "updated_at": "2026-05-27T11:02:43Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
+    "description": "Replay-first evidence enrichment pipeline with hierarchical retrieval, schema-validated typed extraction, AI FinOps cost",
+    "id": "tinnlo/evidence-enrichment-engine",
+    "language": "Python",
+    "name": "tinnlo/evidence-enrichment-engine",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:00:49Z",
+    "url": "https://github.com/tinnlo/evidence-enrichment-engine"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1594,
+    "stars": 1593,
     "updated_at": "2026-05-27T10:58:44Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
@@ -23,26 +86,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28049,
-    "updated_at": "2026-05-27T10:58:04Z",
+    "updated_at": "2026-05-27T11:14:14Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
-    "id": "flowork-os/Flow_Router",
-    "language": "Go",
-    "name": "flowork-os/Flow_Router",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:57:02Z",
-    "url": "https://github.com/flowork-os/Flow_Router"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-27T10:56:54Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Lightweight Python SDK for LLM inference logging and observability",
@@ -52,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-05-27T10:56:32Z",
     "url": "https://github.com/repanareddysekhar/llm-obs"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3269,
-    "updated_at": "2026-05-27T10:57:09Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Replay-first evidence enrichment pipeline with hierarchical retrieval, schema-validated typed extraction, AI FinOps cost",
-    "id": "tinnlo/evidence-enrichment-engine",
-    "language": "Python",
-    "name": "tinnlo/evidence-enrichment-engine",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:54:05Z",
-    "url": "https://github.com/tinnlo/evidence-enrichment-engine"
   },
   {
     "description": "Small library wrapping provider SDKs to emit per-call cost spans, aggregate by tenant/feature/route, and export to Cloud",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T10:50:40Z",
     "url": "https://github.com/lgrossi/noether"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:45:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -151,15 +169,6 @@
     "stars": 19384,
     "updated_at": "2026-05-27T10:44:46Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 2953,
-    "updated_at": "2026-05-27T10:56:52Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
@@ -284,7 +293,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21644,
-    "updated_at": "2026-05-27T10:50:45Z",
+    "updated_at": "2026-05-27T11:15:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-27T09:32:44Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 33,
-    "updated_at": "2026-05-27T10:03:04Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
