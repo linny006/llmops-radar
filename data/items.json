@@ -1,12 +1,21 @@
 [
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
+    "description": "",
+    "id": "aekta113/ai-sre",
+    "language": "Python",
+    "name": "aekta113/ai-sre",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:44:54Z",
+    "url": "https://github.com/aekta113/ai-sre"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 17,
-    "updated_at": "2026-05-27T16:28:24Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "name": "langfuse/langfuse",
+    "stars": 28063,
+    "updated_at": "2026-05-27T16:42:27Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -14,8 +23,89 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19383,
-    "updated_at": "2026-05-27T16:30:25Z",
+    "updated_at": "2026-05-27T16:40:34Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:40:30Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 4,
+    "updated_at": "2026-05-27T16:37:11Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:36:33Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:36:14Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 351,
+    "updated_at": "2026-05-27T16:36:37Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21655,
+    "updated_at": "2026-05-27T16:45:05Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
+    "id": "techlab-innov/llmtrace",
+    "language": "Rust",
+    "name": "techlab-innov/llmtrace",
+    "stars": 49,
+    "updated_at": "2026-05-27T16:31:22Z",
+    "url": "https://github.com/techlab-innov/llmtrace"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:30:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 17,
+    "updated_at": "2026-05-27T16:28:24Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -117,15 +207,6 @@
     "url": "https://github.com/monim279/AI-Powered-DevOps"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T16:15:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
     "id": "Lo3okSky/LLM_course",
     "language": "Jupyter Notebook",
@@ -149,7 +230,7 @@
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
     "stars": 1608,
-    "updated_at": "2026-05-27T16:11:11Z",
+    "updated_at": "2026-05-27T16:37:22Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
@@ -184,8 +265,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48450,
-    "updated_at": "2026-05-27T16:05:20Z",
+    "stars": 48451,
+    "updated_at": "2026-05-27T16:44:21Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -205,15 +286,6 @@
     "stars": 11409,
     "updated_at": "2026-05-27T16:03:51Z",
     "url": "https://github.com/tensorzero/tensorzero"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28062,
-    "updated_at": "2026-05-27T16:26:27Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -239,7 +311,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9867,
-    "updated_at": "2026-05-27T16:27:16Z",
+    "updated_at": "2026-05-27T16:39:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -284,44 +356,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5277,
-    "updated_at": "2026-05-27T16:29:32Z",
+    "updated_at": "2026-05-27T16:44:03Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
-    "id": "techlab-innov/llmtrace",
-    "language": "Rust",
-    "name": "techlab-innov/llmtrace",
-    "stars": 49,
-    "updated_at": "2026-05-27T15:59:38Z",
-    "url": "https://github.com/techlab-innov/llmtrace"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:33:24Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 351,
-    "updated_at": "2026-05-27T16:10:37Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21654,
-    "updated_at": "2026-05-27T16:17:21Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-05-27T14:02:41Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2472,
-    "updated_at": "2026-05-27T13:55:07Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
-    "id": "hwdsl2/docker-litellm",
-    "language": "Shell",
-    "name": "hwdsl2/docker-litellm",
-    "stars": 7,
-    "updated_at": "2026-05-27T13:52:28Z",
-    "url": "https://github.com/hwdsl2/docker-litellm"
-  },
-  {
-    "description": "Local-first memory governance for OpenClaw: Store / Pack / Observe cited, inspectable, rollbackable agent context.",
-    "id": "phenomenoner/openclaw-mem",
-    "language": "Python",
-    "name": "phenomenoner/openclaw-mem",
-    "stars": 28,
-    "updated_at": "2026-05-27T13:49:23Z",
-    "url": "https://github.com/phenomenoner/openclaw-mem"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 2953,
-    "updated_at": "2026-05-27T15:01:53Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
