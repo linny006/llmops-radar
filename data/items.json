@@ -1,30 +1,30 @@
 [
   {
-    "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
-    "id": "vitas/evidra-bench",
-    "language": "Go",
-    "name": "vitas/evidra-bench",
+    "description": "Static release checks for tool-using AI agents. Open-source CLI + GitHub Action. Scans MCP, OpenAPI, OpenAI Agents SDK, ",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 2,
+    "updated_at": "2026-05-27T21:56:11Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "stars": 0,
-    "updated_at": "2026-05-27T21:39:06Z",
-    "url": "https://github.com/vitas/evidra-bench"
+    "updated_at": "2026-05-27T21:53:45Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48459,
-    "updated_at": "2026-05-27T21:45:22Z",
+    "stars": 48460,
+    "updated_at": "2026-05-27T21:50:41Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21661,
-    "updated_at": "2026-05-27T21:40:22Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +32,35 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T21:30:28Z",
+    "updated_at": "2026-05-27T21:45:30Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5283,
+    "updated_at": "2026-05-27T21:58:29Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
+    "id": "vitas/evidra-bench",
+    "language": "Go",
+    "name": "vitas/evidra-bench",
+    "stars": 0,
+    "updated_at": "2026-05-27T21:57:47Z",
+    "url": "https://github.com/vitas/evidra-bench"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21661,
+    "updated_at": "2026-05-27T21:57:08Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9867,
-    "updated_at": "2026-05-27T21:25:58Z",
+    "updated_at": "2026-05-27T21:58:30Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 26147,
     "updated_at": "2026-05-27T21:22:44Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5282,
-    "updated_at": "2026-05-27T21:39:27Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T20:45:54Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-05-27T20:45:44Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-05-27T20:42:43Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
