@@ -1,5 +1,68 @@
 [
   {
+    "description": "",
+    "id": "ghaithmhmm/LLM-Training",
+    "language": "Python",
+    "name": "ghaithmhmm/LLM-Training",
+    "stars": 0,
+    "updated_at": "2026-05-27T02:11:08Z",
+    "url": "https://github.com/ghaithmhmm/LLM-Training"
+  },
+  {
+    "description": "",
+    "id": "aekta113/ai-sre",
+    "language": "Python",
+    "name": "aekta113/ai-sre",
+    "stars": 0,
+    "updated_at": "2026-05-27T02:08:18Z",
+    "url": "https://github.com/aekta113/ai-sre"
+  },
+  {
+    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
+    "id": "OrlojHQ/orloj",
+    "language": "Go",
+    "name": "OrlojHQ/orloj",
+    "stars": 100,
+    "updated_at": "2026-05-27T02:03:37Z",
+    "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9855,
+    "updated_at": "2026-05-27T02:03:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48358,
+    "updated_at": "2026-05-27T02:01:30Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 4,
+    "updated_at": "2026-05-27T02:00:58Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T02:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
     "id": "kensterinvest/tidus",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T01:59:55Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
-    "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 100,
-    "updated_at": "2026-05-27T01:58:23Z",
-    "url": "https://github.com/OrlojHQ/orloj"
   },
   {
     "description": "[WIP] Sorai is an open-source LLM proxy gateway built for resource efficiency and high performance.",
@@ -124,33 +178,6 @@
     "stars": 4,
     "updated_at": "2026-05-27T01:46:07Z",
     "url": "https://github.com/monim279/AI-Powered-DevOps"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9855,
-    "updated_at": "2026-05-27T01:46:07Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T01:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48352,
-    "updated_at": "2026-05-27T01:43:11Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -355,7 +382,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28004,
+    "stars": 28005,
     "updated_at": "2026-05-27T00:02:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T23:57:02Z",
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:52:26Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 1,
-    "updated_at": "2026-05-26T23:51:18Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:50:46Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
