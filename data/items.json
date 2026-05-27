@@ -5,8 +5,80 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21649,
-    "updated_at": "2026-05-27T12:59:48Z",
+    "updated_at": "2026-05-27T13:15:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 17,
+    "updated_at": "2026-05-27T13:12:36Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
+    "id": "flowork-os/Flow_Router",
+    "language": "Go",
+    "name": "flowork-os/Flow_Router",
+    "stars": 0,
+    "updated_at": "2026-05-27T13:11:32Z",
+    "url": "https://github.com/flowork-os/Flow_Router"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19384,
+    "updated_at": "2026-05-27T13:15:23Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-27T13:06:28Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5269,
+    "updated_at": "2026-05-27T13:14:58Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Bella OpenAPI\u662f\u4e00\u4e2a\u63d0\u4f9b\u4e86\u4e30\u5bcc\u7684AI\u8c03\u7528\u80fd\u529b\u7684API\u7f51\u5173\uff0c\u53ef\u7c7b\u6bd4openrouter\uff0c\u4e0e\u4e4b\u4e0d\u540c\u7684\u662f\u9664\u4e86\u63d0\u4f9b\u804a\u5929\u8865\u5168(chat-completion)\u80fd\u529b\u5916\uff0c\u8fd8\u63d0\u4f9b\u4e86\u6587\u672c\u5411\u91cf\u5316(text-embedding)\u3001\u8bed\u97f3\u8bc6\u522b(ASR)\u3001",
+    "id": "LianjiaTech/bella-openapi",
+    "language": "Java",
+    "name": "LianjiaTech/bella-openapi",
+    "stars": 232,
+    "updated_at": "2026-05-27T13:10:49Z",
+    "url": "https://github.com/LianjiaTech/bella-openapi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T13:00:44Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28056,
+    "updated_at": "2026-05-27T12:59:52Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The workflow and governance layer for agent-driven software development.",
@@ -18,58 +90,13 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28055,
-    "updated_at": "2026-05-27T12:59:52Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48421,
-    "updated_at": "2026-05-27T12:46:04Z",
+    "stars": 48422,
+    "updated_at": "2026-05-27T13:10:06Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-27T12:55:19Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5269,
-    "updated_at": "2026-05-27T12:53:02Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T12:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
-    "id": "flowork-os/Flow_Router",
-    "language": "Go",
-    "name": "flowork-os/Flow_Router",
-    "stars": 0,
-    "updated_at": "2026-05-27T12:44:59Z",
-    "url": "https://github.com/flowork-os/Flow_Router"
   },
   {
     "description": "Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
@@ -99,15 +126,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 17,
-    "updated_at": "2026-05-27T12:41:55Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
     "id": "techlab-innov/llmtrace",
     "language": "Rust",
@@ -130,7 +148,7 @@
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1595,
+    "stars": 1596,
     "updated_at": "2026-05-27T11:42:22Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
@@ -142,15 +160,6 @@
     "stars": 2472,
     "updated_at": "2026-05-27T12:45:21Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19384,
-    "updated_at": "2026-05-27T12:59:23Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Replay-first evidence enrichment pipeline with hierarchical retrieval, schema-validated typed extraction, AI FinOps cost",
@@ -176,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3269,
-    "updated_at": "2026-05-27T12:55:50Z",
+    "updated_at": "2026-05-27T13:08:34Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -259,6 +268,15 @@
     "stars": 0,
     "updated_at": "2026-05-27T10:03:39Z",
     "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 34,
+    "updated_at": "2026-05-27T10:03:04Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
     "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:41:10Z",
     "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:36:50Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 1,
-    "updated_at": "2026-05-27T09:36:01Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
   }
 ]
