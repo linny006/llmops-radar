@@ -1,12 +1,66 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19384,
+    "updated_at": "2026-05-27T11:30:05Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
     "id": "flowork-os/Flow_Router",
     "language": "Go",
     "name": "flowork-os/Flow_Router",
     "stars": 0,
-    "updated_at": "2026-05-27T11:14:16Z",
+    "updated_at": "2026-05-27T11:27:13Z",
     "url": "https://github.com/flowork-os/Flow_Router"
+  },
+  {
+    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1593,
+    "updated_at": "2026-05-27T11:23:47Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28050,
+    "updated_at": "2026-05-27T11:27:28Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Replay-first evidence enrichment pipeline with hierarchical retrieval, schema-validated typed extraction, AI FinOps cost",
+    "id": "tinnlo/evidence-enrichment-engine",
+    "language": "Python",
+    "name": "tinnlo/evidence-enrichment-engine",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:19:42Z",
+    "url": "https://github.com/tinnlo/evidence-enrichment-engine"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:15:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21645,
+    "updated_at": "2026-05-27T11:27:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A comprehensive AI/ML learning platform with 9 end-to-end projects covering the full spectrum, from classical ML to prod",
@@ -22,8 +76,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5264,
-    "updated_at": "2026-05-27T11:04:51Z",
+    "stars": 5266,
+    "updated_at": "2026-05-27T11:28:10Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -52,42 +106,6 @@
     "stars": 2952,
     "updated_at": "2026-05-27T11:02:43Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Replay-first evidence enrichment pipeline with hierarchical retrieval, schema-validated typed extraction, AI FinOps cost",
-    "id": "tinnlo/evidence-enrichment-engine",
-    "language": "Python",
-    "name": "tinnlo/evidence-enrichment-engine",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:00:49Z",
-    "url": "https://github.com/tinnlo/evidence-enrichment-engine"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1593,
-    "updated_at": "2026-05-27T10:58:44Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28049,
-    "updated_at": "2026-05-27T11:14:14Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Lightweight Python SDK for LLM inference logging and observability",
@@ -160,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T10:13:28Z",
     "url": "https://github.com/vitas/evidra-bench"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19384,
-    "updated_at": "2026-05-27T10:44:46Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
@@ -288,15 +297,6 @@
     "url": "https://github.com/rozario-1234/end2end_sample"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21644,
-    "updated_at": "2026-05-27T11:15:07Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83e\udde0 Explore Agentic AI and GeN AI solutions on AWS, GCP, and Azure to harness cloud power for advanced artificial intellig",
     "id": "johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure",
     "language": "\u2014",
@@ -373,7 +373,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48411,
+    "stars": 48413,
     "updated_at": "2026-05-27T09:37:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
