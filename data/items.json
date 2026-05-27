@@ -1,5 +1,41 @@
 [
   {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 351,
+    "updated_at": "2026-05-27T15:27:31Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21654,
+    "updated_at": "2026-05-27T15:24:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:15:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19382,
+    "updated_at": "2026-05-27T15:15:37Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -16,15 +52,6 @@
     "stars": 48442,
     "updated_at": "2026-05-27T15:10:28Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 351,
-    "updated_at": "2026-05-27T15:06:23Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
@@ -45,21 +72,12 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:00:44Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9867,
-    "updated_at": "2026-05-27T15:14:01Z",
+    "updated_at": "2026-05-27T15:23:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -81,21 +99,12 @@
     "url": "https://github.com/techlab-innov/llmtrace"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21653,
-    "updated_at": "2026-05-27T15:12:35Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28060,
-    "updated_at": "2026-05-27T14:52:33Z",
+    "updated_at": "2026-05-27T15:23:56Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -103,7 +112,7 @@
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1604,
+    "stars": 1607,
     "updated_at": "2026-05-27T14:51:25Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
@@ -122,7 +131,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5276,
-    "updated_at": "2026-05-27T15:14:41Z",
+    "updated_at": "2026-05-27T15:29:27Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-05-27T14:19:08Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19383,
-    "updated_at": "2026-05-27T15:07:33Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
@@ -320,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3269,
-    "updated_at": "2026-05-27T15:06:44Z",
+    "updated_at": "2026-05-27T15:17:52Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
