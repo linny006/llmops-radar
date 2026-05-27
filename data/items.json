@@ -5,17 +5,98 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5264,
-    "updated_at": "2026-05-27T10:44:49Z",
+    "updated_at": "2026-05-27T10:59:54Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1594,
+    "updated_at": "2026-05-27T10:58:44Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28048,
-    "updated_at": "2026-05-27T10:42:42Z",
+    "stars": 28049,
+    "updated_at": "2026-05-27T10:58:04Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
+    "id": "flowork-os/Flow_Router",
+    "language": "Go",
+    "name": "flowork-os/Flow_Router",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:57:02Z",
+    "url": "https://github.com/flowork-os/Flow_Router"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-27T10:56:54Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Lightweight Python SDK for LLM inference logging and observability",
+    "id": "repanareddysekhar/llm-obs",
+    "language": "Python",
+    "name": "repanareddysekhar/llm-obs",
+    "stars": 2,
+    "updated_at": "2026-05-27T10:56:32Z",
+    "url": "https://github.com/repanareddysekhar/llm-obs"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3269,
+    "updated_at": "2026-05-27T10:57:09Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Replay-first evidence enrichment pipeline with hierarchical retrieval, schema-validated typed extraction, AI FinOps cost",
+    "id": "tinnlo/evidence-enrichment-engine",
+    "language": "Python",
+    "name": "tinnlo/evidence-enrichment-engine",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:54:05Z",
+    "url": "https://github.com/tinnlo/evidence-enrichment-engine"
+  },
+  {
+    "description": "Small library wrapping provider SDKs to emit per-call cost spans, aggregate by tenant/feature/route, and export to Cloud",
+    "id": "reaatech/llm-cost-telemetry",
+    "language": "TypeScript",
+    "name": "reaatech/llm-cost-telemetry",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:51:48Z",
+    "url": "https://github.com/reaatech/llm-cost-telemetry"
+  },
+  {
+    "description": "The local-first control plane for AI work",
+    "id": "lgrossi/noether",
+    "language": "Rust",
+    "name": "lgrossi/noether",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:50:40Z",
+    "url": "https://github.com/lgrossi/noether"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:45:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -36,48 +117,12 @@
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
-    "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
-    "id": "flowork-os/Flow_Router",
-    "language": "Go",
-    "name": "flowork-os/Flow_Router",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:33:33Z",
-    "url": "https://github.com/flowork-os/Flow_Router"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-27T10:32:26Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The local-first control plane for AI work",
-    "id": "lgrossi/noether",
-    "language": "Rust",
-    "name": "lgrossi/noether",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:27:09Z",
-    "url": "https://github.com/lgrossi/noether"
-  },
-  {
     "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
     "id": "techlab-innov/llmtrace",
     "language": "Rust",
     "name": "techlab-innov/llmtrace",
     "stars": 49,
-    "updated_at": "2026-05-27T10:24:22Z",
+    "updated_at": "2026-05-27T10:59:27Z",
     "url": "https://github.com/techlab-innov/llmtrace"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 72,
     "updated_at": "2026-05-27T10:18:54Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3269,
-    "updated_at": "2026-05-27T10:43:48Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
@@ -122,17 +158,8 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 2953,
-    "updated_at": "2026-05-27T10:33:31Z",
+    "updated_at": "2026-05-27T10:56:52Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Replay-first evidence enrichment pipeline with hierarchical retrieval, schema-validated typed extraction, AI FinOps cost",
-    "id": "tinnlo/evidence-enrichment-engine",
-    "language": "Python",
-    "name": "tinnlo/evidence-enrichment-engine",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:06:31Z",
-    "url": "https://github.com/tinnlo/evidence-enrichment-engine"
   },
   {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21644,
-    "updated_at": "2026-05-27T10:27:36Z",
+    "updated_at": "2026-05-27T10:50:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -337,7 +364,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48409,
+    "stars": 48411,
     "updated_at": "2026-05-27T09:37:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -421,32 +448,5 @@
     "stars": 33,
     "updated_at": "2026-05-27T10:03:04Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-05-27T09:29:41Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "\ud83d\ude80 Build and scale reliable Retrieval-Augmented Generation (RAG) systems with this curated collection of tools, framework",
-    "id": "mowael07/Awesome-RAG-Production",
-    "language": "Python",
-    "name": "mowael07/Awesome-RAG-Production",
-    "stars": 2,
-    "updated_at": "2026-05-27T09:27:40Z",
-    "url": "https://github.com/mowael07/Awesome-RAG-Production"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-05-27T09:26:22Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
   }
 ]
