@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-27T14:13:23Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 17,
+    "updated_at": "2026-05-27T14:29:44Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:29:04Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
@@ -14,8 +23,62 @@
     "language": "Go",
     "name": "flowork-os/Flow_Router",
     "stars": 0,
-    "updated_at": "2026-05-27T14:11:45Z",
+    "updated_at": "2026-05-27T14:27:35Z",
     "url": "https://github.com/flowork-os/Flow_Router"
+  },
+  {
+    "description": "Python SDK and MCP server for Polaxis - AI agent governance platform. Evaluate every tool call against policies in real ",
+    "id": "nishant6118/Polaxis-SDK-MCP",
+    "language": "Python",
+    "name": "nishant6118/Polaxis-SDK-MCP",
+    "stars": 1,
+    "updated_at": "2026-05-27T14:23:26Z",
+    "url": "https://github.com/nishant6118/Polaxis-SDK-MCP"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 34,
+    "updated_at": "2026-05-27T14:22:50Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Local AWS cost audit CLI that runs a deterministic pipeline from your workstation to a prioritized findings backlog with",
+    "id": "oxHive/oxAudit",
+    "language": "Go",
+    "name": "oxHive/oxAudit",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:21:21Z",
+    "url": "https://github.com/oxHive/oxAudit"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-27T14:19:08Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:15:44Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5275,
+    "updated_at": "2026-05-27T14:22:49Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19383,
-    "updated_at": "2026-05-27T14:12:55Z",
+    "updated_at": "2026-05-27T14:18:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -32,17 +95,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 351,
-    "updated_at": "2026-05-27T14:06:18Z",
+    "updated_at": "2026-05-27T14:26:28Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5273,
-    "updated_at": "2026-05-27T14:10:05Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
@@ -54,15 +108,6 @@
     "url": "https://github.com/runcycles/cycles-spring-ai-starter"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 17,
-    "updated_at": "2026-05-27T14:13:33Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
     "id": "runcycles/cycles-docs",
     "language": "Vue",
@@ -72,30 +117,30 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:00:45Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28059,
-    "updated_at": "2026-05-27T14:00:33Z",
+    "updated_at": "2026-05-27T14:30:04Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21652,
+    "updated_at": "2026-05-27T14:24:53Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48433,
-    "updated_at": "2026-05-27T14:00:32Z",
+    "stars": 48437,
+    "updated_at": "2026-05-27T14:29:30Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -103,7 +148,7 @@
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1601,
+    "stars": 1603,
     "updated_at": "2026-05-27T13:55:13Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
@@ -144,15 +189,6 @@
     "url": "https://github.com/phenomenoner/openclaw-mem"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21651,
-    "updated_at": "2026-05-27T14:00:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
     "id": "vitas/evidra-bench",
     "language": "Go",
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 2953,
-    "updated_at": "2026-05-27T14:15:24Z",
+    "updated_at": "2026-05-27T14:21:31Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -189,15 +225,6 @@
     "url": "https://github.com/LianjiaTech/bella-openapi"
   },
   {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:10:51Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "TypeScript",
@@ -205,6 +232,15 @@
     "stars": 11388,
     "updated_at": "2026-05-27T12:54:40Z",
     "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Multi-agent research synthesis system using LangGraph, Gemini, LlamaIndex, and Pinecone with full LLMOps instrumentation",
+    "id": "daveshenal/aegis",
+    "language": "Python",
+    "name": "daveshenal/aegis",
+    "stars": 0,
+    "updated_at": "2026-05-27T12:32:00Z",
+    "url": "https://github.com/daveshenal/aegis"
   },
   {
     "description": "Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
@@ -342,15 +378,6 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 34,
-    "updated_at": "2026-05-27T10:03:04Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
     "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
     "id": "degen1322/agentic-template",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:47:00Z",
     "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
-    "id": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "language": "HTML",
-    "name": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "stars": 1,
-    "updated_at": "2026-05-27T09:46:41Z",
-    "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Configure Claude Code with settings and skills for enhanced web interaction, automation, and efficient code managemen",
-    "id": "Md0bR/claude-config",
-    "language": "Shell",
-    "name": "Md0bR/claude-config",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:46:10Z",
-    "url": "https://github.com/Md0bR/claude-config"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-05-27T09:45:47Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
   }
 ]
