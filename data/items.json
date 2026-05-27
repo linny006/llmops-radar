@@ -1,30 +1,39 @@
 [
   {
-    "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
-    "id": "flowork-os/Flow_Router",
-    "language": "Go",
-    "name": "flowork-os/Flow_Router",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:35:03Z",
-    "url": "https://github.com/flowork-os/Flow_Router"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5267,
-    "updated_at": "2026-05-27T11:35:45Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 17,
-    "updated_at": "2026-05-27T11:30:36Z",
+    "updated_at": "2026-05-27T11:56:28Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Custom evaluators for behavioural coherence and epistemic robustness, designed to fit the Azure AI Foundry Evaluation SD",
+    "id": "jrcruciani/foundry-epistemic-evaluators",
+    "language": "Python",
+    "name": "jrcruciani/foundry-epistemic-evaluators",
+    "stars": 1,
+    "updated_at": "2026-05-27T11:48:56Z",
+    "url": "https://github.com/jrcruciani/foundry-epistemic-evaluators"
+  },
+  {
+    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1594,
+    "updated_at": "2026-05-27T11:42:22Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:37:14Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +41,44 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T11:30:33Z",
+    "updated_at": "2026-05-27T11:35:53Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
+    "id": "flowork-os/Flow_Router",
+    "language": "Go",
+    "name": "flowork-os/Flow_Router",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:53:26Z",
+    "url": "https://github.com/flowork-os/Flow_Router"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21646,
+    "updated_at": "2026-05-27T11:58:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2472,
+    "updated_at": "2026-05-27T12:01:17Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5267,
+    "updated_at": "2026-05-27T11:57:08Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19384,
-    "updated_at": "2026-05-27T11:34:24Z",
+    "updated_at": "2026-05-27T11:53:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -49,18 +94,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28051,
-    "updated_at": "2026-05-27T11:27:28Z",
+    "stars": 28052,
+    "updated_at": "2026-05-27T11:59:56Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1593,
-    "updated_at": "2026-05-27T11:23:47Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
     "description": "Replay-first evidence enrichment pipeline with hierarchical retrieval, schema-validated typed extraction, AI FinOps cost",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T11:19:42Z",
     "url": "https://github.com/tinnlo/evidence-enrichment-engine"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21645,
-    "updated_at": "2026-05-27T11:34:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A comprehensive AI/ML learning platform with 9 end-to-end projects covering the full spectrum, from classical ML to prod",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 72,
-    "updated_at": "2026-05-27T10:18:54Z",
+    "updated_at": "2026-05-27T11:57:35Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
@@ -382,8 +409,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48413,
-    "updated_at": "2026-05-27T09:37:48Z",
+    "stars": 48415,
+    "updated_at": "2026-05-27T11:56:55Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:35:41Z",
     "url": "https://github.com/DynamicExploit/runtm"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 1,
-    "updated_at": "2026-05-27T09:35:27Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:34:29Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83c\udfb6 Compose high-fidelity music effortlessly by transforming natural language commands into orchestral compositions using ",
-    "id": "aswath1313/GenAI-Music-Composer",
-    "language": "Python",
-    "name": "aswath1313/GenAI-Music-Composer",
-    "stars": 1,
-    "updated_at": "2026-05-27T09:33:27Z",
-    "url": "https://github.com/aswath1313/GenAI-Music-Composer"
   }
 ]
