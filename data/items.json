@@ -1,11 +1,65 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2142,
+    "updated_at": "2026-05-27T15:12:28Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48442,
+    "updated_at": "2026-05-27T15:10:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 351,
+    "updated_at": "2026-05-27T15:06:23Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
+    "id": "SynaLinks/synalinks",
+    "language": "Python",
+    "name": "SynaLinks/synalinks",
+    "stars": 435,
+    "updated_at": "2026-05-27T15:13:36Z",
+    "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 34,
+    "updated_at": "2026-05-27T15:04:26Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:00:44Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9867,
-    "updated_at": "2026-05-27T14:59:21Z",
+    "updated_at": "2026-05-27T15:14:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -25,6 +79,15 @@
     "stars": 49,
     "updated_at": "2026-05-27T14:58:16Z",
     "url": "https://github.com/techlab-innov/llmtrace"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21653,
+    "updated_at": "2026-05-27T15:12:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
@@ -59,7 +122,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5276,
-    "updated_at": "2026-05-27T15:00:10Z",
+    "updated_at": "2026-05-27T15:14:41Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -72,24 +135,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:45:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 351,
-    "updated_at": "2026-05-27T15:00:07Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
     "id": "flowork-os/Flow_Router",
     "language": "Go",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T14:37:01Z",
     "url": "https://github.com/flowork-os/Flow_Router"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21652,
-    "updated_at": "2026-05-27T14:52:41Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Python SDK and MCP server for Polaxis - AI agent governance platform. Evaluate every tool call against policies in real ",
@@ -117,15 +153,6 @@
     "url": "https://github.com/nishant6118/Polaxis-SDK-MCP"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48439,
-    "updated_at": "2026-05-27T14:53:52Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The workflow and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T14:29:04Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 34,
-    "updated_at": "2026-05-27T14:22:50Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
     "description": "Local AWS cost audit CLI that runs a deterministic pipeline from your workstation to a prioritized findings backlog with",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19383,
-    "updated_at": "2026-05-27T14:56:54Z",
+    "updated_at": "2026-05-27T15:07:33Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -216,21 +234,12 @@
     "url": "https://github.com/phenomenoner/openclaw-mem"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2142,
-    "updated_at": "2026-05-27T13:22:55Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 2953,
-    "updated_at": "2026-05-27T14:33:26Z",
+    "updated_at": "2026-05-27T15:01:53Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -248,7 +257,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11388,
-    "updated_at": "2026-05-27T12:54:40Z",
+    "updated_at": "2026-05-27T15:11:48Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -311,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3269,
-    "updated_at": "2026-05-27T15:00:19Z",
+    "updated_at": "2026-05-27T15:06:44Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:49:44Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Enhance agentic development with tools for isolated environments and unused code detection in your stack.",
-    "id": "masterudon23/agent-tools",
-    "language": "TypeScript",
-    "name": "masterudon23/agent-tools",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:47:06Z",
-    "url": "https://github.com/masterudon23/agent-tools"
   }
 ]
