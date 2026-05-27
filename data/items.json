@@ -1,20 +1,38 @@
 [
   {
-    "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
-    "id": "fangwendongcs/Auto-agent-factory",
-    "language": "JavaScript",
-    "name": "fangwendongcs/Auto-agent-factory",
-    "stars": 6,
-    "updated_at": "2026-05-27T07:25:26Z",
-    "url": "https://github.com/fangwendongcs/Auto-agent-factory"
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2138,
+    "updated_at": "2026-05-27T07:38:25Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 351,
+    "updated_at": "2026-05-27T07:37:46Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Open-source control plane for AI coding agents with budget caps, verifier gates, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 23,
+    "updated_at": "2026-05-27T07:35:32Z",
+    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48386,
-    "updated_at": "2026-05-27T07:27:15Z",
+    "stars": 48388,
+    "updated_at": "2026-05-27T07:44:13Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -22,9 +40,36 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28025,
-    "updated_at": "2026-05-27T07:16:46Z",
+    "stars": 28027,
+    "updated_at": "2026-05-27T07:34:15Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 72,
+    "updated_at": "2026-05-27T07:31:27Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
+    "id": "fangwendongcs/Auto-agent-factory",
+    "language": "JavaScript",
+    "name": "fangwendongcs/Auto-agent-factory",
+    "stars": 6,
+    "updated_at": "2026-05-27T07:25:26Z",
+    "url": "https://github.com/fangwendongcs/Auto-agent-factory"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -45,21 +90,12 @@
     "url": "https://github.com/Haohao-end/openagent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T07:15:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9861,
-    "updated_at": "2026-05-27T07:10:39Z",
+    "updated_at": "2026-05-27T07:37:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -275,7 +311,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11387,
-    "updated_at": "2026-05-27T06:47:23Z",
+    "updated_at": "2026-05-27T07:31:30Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T06:13:57Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:13:14Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-05-27T06:09:25Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
-    "id": "vitas/evidra-bench",
-    "language": "Go",
-    "name": "vitas/evidra-bench",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:08:45Z",
-    "url": "https://github.com/vitas/evidra-bench"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:07:28Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
