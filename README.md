@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 07:45 UTC
+> ⏰ Last updated: 2026-05-27 07:48 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2138 | C++ | 2026-05-27 | Community maintained hardware plugin for vLLM on Ascend |
-| 2 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 351 | Python | 2026-05-27 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
-| 3 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 23 | TypeScript | 2026-05-27 | Open-source control plane for AI coding agents with budget caps, verifier gates, and audit trails. |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48388 | Python | 2026-05-27 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 5 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28027 | TypeScript | 2026-05-27 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
-| 6 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 72 | Python | 2026-05-27 | Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file  |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 23 | TypeScript | 2026-05-27 | Open-source control plane for AI coding agents with budget caps, verifier gates, and audit trails. |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2138 | C++ | 2026-05-27 | Community maintained hardware plugin for vLLM on Ascend |
+| 4 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 351 | Python | 2026-05-27 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48388 | Python | 2026-05-27 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 6 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28029 | TypeScript | 2026-05-27 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
+| 7 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 72 | Python | 2026-05-27 | Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file  |
 | 8 | [fangwendongcs/Auto-agent-factory](https://github.com/fangwendongcs/Auto-agent-factory) | 6 | JavaScript | 2026-05-27 | A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development. |
 | 9 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 3 | Rust | 2026-05-27 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
 | 10 | [Haohao-end/openagent](https://github.com/Haohao-end/openagent) | 804 | Python | 2026-05-27 | AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor |
