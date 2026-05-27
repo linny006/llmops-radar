@@ -1,12 +1,12 @@
 [
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48345,
-    "updated_at": "2026-05-27T00:29:12Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4160,
+    "updated_at": "2026-05-27T00:45:21Z",
+    "url": "https://github.com/Agenta-AI/agenta"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T00:15:30Z",
+    "updated_at": "2026-05-27T00:30:24Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48345,
+    "updated_at": "2026-05-27T00:38:50Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26131,
-    "updated_at": "2026-05-26T23:34:14Z",
+    "updated_at": "2026-05-27T00:33:21Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T23:28:11Z",
     "url": "https://github.com/kami-beep/kb-contracts"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:25:13Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
