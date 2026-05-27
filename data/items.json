@@ -1,12 +1,39 @@
 [
   {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4160,
-    "updated_at": "2026-05-27T00:45:21Z",
-    "url": "https://github.com/Agenta-AI/agenta"
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2134,
+    "updated_at": "2026-05-27T00:54:18Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
+    "id": "taishan666/MaxKB4j",
+    "language": "Java",
+    "name": "taishan666/MaxKB4j",
+    "stars": 88,
+    "updated_at": "2026-05-27T00:54:15Z",
+    "url": "https://github.com/taishan666/MaxKB4j"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48346,
+    "updated_at": "2026-05-27T00:59:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o",
+    "id": "kalyan-venk/agentic-llmops",
+    "language": "TeX",
+    "name": "kalyan-venk/agentic-llmops",
+    "stars": 1,
+    "updated_at": "2026-05-27T00:51:44Z",
+    "url": "https://github.com/kalyan-venk/agentic-llmops"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,17 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T00:30:24Z",
+    "updated_at": "2026-05-27T00:45:24Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48345,
-    "updated_at": "2026-05-27T00:38:50Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4160,
+    "updated_at": "2026-05-27T00:45:24Z",
+    "url": "https://github.com/Agenta-AI/agenta"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -79,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-05-27T00:10:00Z",
     "url": "https://github.com/Prissieperoneal156/rig"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5249,
+    "updated_at": "2026-05-27T00:09:29Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AGIP is a local-first AI governance platform for autonomous agents, providing scoped access, policy simulation, approval",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T23:32:19Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:32:04Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:30:58Z",
-    "url": "https://github.com/degen1322/agentic-template"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9855,
-    "updated_at": "2026-05-26T23:30:56Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
-    "id": "kami-beep/kb-contracts",
-    "language": "TypeScript",
-    "name": "kami-beep/kb-contracts",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:28:11Z",
-    "url": "https://github.com/kami-beep/kb-contracts"
   }
 ]
