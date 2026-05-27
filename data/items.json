@@ -1,12 +1,30 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9867,
+    "updated_at": "2026-05-27T22:25:08Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T22:10:16Z",
+    "updated_at": "2026-05-27T22:15:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48461,
+    "updated_at": "2026-05-27T22:26:46Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Static release checks for tool-using AI agents. Open-source CLI + GitHub Action. Scans MCP, OpenAPI, OpenAI Agents SDK, ",
@@ -32,7 +50,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5284,
-    "updated_at": "2026-05-27T21:58:29Z",
+    "updated_at": "2026-05-27T22:23:05Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T21:53:45Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48460,
-    "updated_at": "2026-05-27T22:10:21Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28076,
-    "updated_at": "2026-05-27T21:38:55Z",
+    "updated_at": "2026-05-27T22:30:17Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -77,17 +86,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21661,
-    "updated_at": "2026-05-27T22:01:02Z",
+    "updated_at": "2026-05-27T22:21:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9867,
-    "updated_at": "2026-05-27T22:14:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -108,6 +108,15 @@
     "url": "https://github.com/sandipanseal/AegisOps-AI"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26148,
+    "updated_at": "2026-05-27T21:22:44Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T21:21:49Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26147,
-    "updated_at": "2026-05-27T21:22:44Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
