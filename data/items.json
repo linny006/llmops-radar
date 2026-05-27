@@ -1,12 +1,66 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5264,
+    "updated_at": "2026-05-27T10:44:49Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28048,
+    "updated_at": "2026-05-27T10:42:42Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-05-27T10:37:09Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
+    "id": "taishan666/MaxKB4j",
+    "language": "Java",
+    "name": "taishan666/MaxKB4j",
+    "stars": 88,
+    "updated_at": "2026-05-27T10:33:40Z",
+    "url": "https://github.com/taishan666/MaxKB4j"
+  },
+  {
+    "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
+    "id": "flowork-os/Flow_Router",
+    "language": "Go",
+    "name": "flowork-os/Flow_Router",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:33:33Z",
+    "url": "https://github.com/flowork-os/Flow_Router"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 3,
-    "updated_at": "2026-05-27T10:29:01Z",
+    "updated_at": "2026-05-27T10:32:26Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The local-first control plane for AI work",
@@ -18,15 +72,6 @@
     "url": "https://github.com/lgrossi/noether"
   },
   {
-    "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
-    "id": "flowork-os/Flow_Router",
-    "language": "Go",
-    "name": "flowork-os/Flow_Router",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:26:32Z",
-    "url": "https://github.com/flowork-os/Flow_Router"
-  },
-  {
     "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
     "id": "techlab-innov/llmtrace",
     "language": "Rust",
@@ -34,24 +79,6 @@
     "stars": 49,
     "updated_at": "2026-05-27T10:24:22Z",
     "url": "https://github.com/techlab-innov/llmtrace"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5264,
-    "updated_at": "2026-05-27T10:22:56Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28045,
-    "updated_at": "2026-05-27T10:18:57Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
@@ -68,17 +95,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3269,
-    "updated_at": "2026-05-27T10:29:18Z",
+    "updated_at": "2026-05-27T10:43:48Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19384,
-    "updated_at": "2026-05-27T10:10:19Z",
+    "updated_at": "2026-05-27T10:44:46Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 2953,
-    "updated_at": "2026-05-27T10:07:14Z",
+    "updated_at": "2026-05-27T10:33:31Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-27T09:26:22Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:25:53Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
-    "id": "azzan1235/agentic_rag_system",
-    "language": "Python",
-    "name": "azzan1235/agentic_rag_system",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:25:01Z",
-    "url": "https://github.com/azzan1235/agentic_rag_system"
   }
 ]
