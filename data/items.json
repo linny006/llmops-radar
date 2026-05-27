@@ -1,5 +1,77 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26146,
+    "updated_at": "2026-05-27T15:59:33Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3269,
+    "updated_at": "2026-05-27T16:00:16Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19383,
+    "updated_at": "2026-05-27T15:57:28Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 17,
+    "updated_at": "2026-05-27T15:52:06Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2142,
+    "updated_at": "2026-05-27T15:46:50Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9867,
+    "updated_at": "2026-05-27T15:58:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:45:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot.",
+    "id": "shinjaehyun20/ai-workflow-kits",
+    "language": "Python",
+    "name": "shinjaehyun20/ai-workflow-kits",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:44:08Z",
+    "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
+  },
+  {
     "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
     "id": "SynaLinks/synalinks",
     "language": "Python",
@@ -18,15 +90,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 17,
-    "updated_at": "2026-05-27T15:41:39Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
     "id": "jamjet-labs/jamjet",
     "language": "Rust",
@@ -41,7 +104,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5277,
-    "updated_at": "2026-05-27T15:43:02Z",
+    "updated_at": "2026-05-27T15:52:22Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28061,
-    "updated_at": "2026-05-27T15:44:04Z",
+    "updated_at": "2026-05-27T15:57:55Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -59,7 +122,7 @@
     "language": "Rust",
     "name": "techlab-innov/llmtrace",
     "stars": 49,
-    "updated_at": "2026-05-27T15:36:22Z",
+    "updated_at": "2026-05-27T15:59:38Z",
     "url": "https://github.com/techlab-innov/llmtrace"
   },
   {
@@ -81,15 +144,6 @@
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:30:56Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -104,33 +158,15 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21654,
-    "updated_at": "2026-05-27T15:33:16Z",
+    "updated_at": "2026-05-27T15:58:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19383,
-    "updated_at": "2026-05-27T15:44:40Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2142,
-    "updated_at": "2026-05-27T15:12:28Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48446,
+    "stars": 48448,
     "updated_at": "2026-05-27T15:10:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -142,15 +178,6 @@
     "stars": 34,
     "updated_at": "2026-05-27T15:04:26Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9867,
-    "updated_at": "2026-05-27T15:35:05Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Local-first summaries and safety checks for AI agent JSONL traces.",
@@ -333,15 +360,6 @@
     "url": "https://github.com/genieincodebottle/aiml-companion"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3269,
-    "updated_at": "2026-05-27T15:38:33Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Lightweight Python SDK for LLM inference logging and observability",
     "id": "repanareddysekhar/llm-obs",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:59:16Z",
     "url": "https://github.com/kami-beep/kb-contracts"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:56:00Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:55:05Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
