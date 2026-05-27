@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9855,
+    "updated_at": "2026-05-27T01:22:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26132,
+    "updated_at": "2026-05-27T01:15:26Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "[WIP] Sorai is an open-source LLM proxy gateway built for resource efficiency and high performance.",
     "id": "riipandi/sorai",
     "language": "TypeScript",
@@ -7,15 +34,6 @@
     "stars": 4,
     "updated_at": "2026-05-27T01:15:05Z",
     "url": "https://github.com/riipandi/sorai"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26131,
-    "updated_at": "2026-05-27T01:15:26Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -31,8 +49,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48348,
-    "updated_at": "2026-05-27T01:05:06Z",
+    "stars": 48349,
+    "updated_at": "2026-05-27T01:22:40Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -40,18 +58,9 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2134,
+    "stars": 2135,
     "updated_at": "2026-05-27T01:04:27Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T01:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
@@ -193,7 +202,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 27999,
+    "stars": 28001,
     "updated_at": "2026-05-27T00:02:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T23:35:42Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:35:39Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
