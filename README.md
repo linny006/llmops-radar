@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 14:30 UTC
+> ⏰ Last updated: 2026-05-27 14:43 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 17 | TypeScript | 2026-05-27 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 2 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 0 | Go | 2026-05-27 | The workflow and governance layer for agent-driven software development. |
+| 1 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 351 | Python | 2026-05-27 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
+| 2 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 17 | TypeScript | 2026-05-27 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
 | 3 | [flowork-os/Flow_Router](https://github.com/flowork-os/Flow_Router) | 0 | Go | 2026-05-27 | Self-hosted AI gateway & LLM proxy — one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si |
-| 4 | [nishant6118/Polaxis-SDK-MCP](https://github.com/nishant6118/Polaxis-SDK-MCP) | 1 | Python | 2026-05-27 | Python SDK and MCP server for Polaxis - AI agent governance platform. Evaluate every tool call against policies in real  |
-| 5 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 34 | Ruby | 2026-05-27 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
-| 6 | [oxHive/oxAudit](https://github.com/oxHive/oxAudit) | 0 | Go | 2026-05-27 | Local AWS cost audit CLI that runs a deterministic pipeline from your workstation to a prioritized findings backlog with |
-| 7 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 3 | Rust | 2026-05-27 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5275 | Go | 2026-05-27 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 10 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19383 | Python | 2026-05-27 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 11 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 351 | Python | 2026-05-27 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
-| 12 | [runcycles/cycles-spring-ai-starter](https://github.com/runcycles/cycles-spring-ai-starter) | 0 | Java | 2026-05-27 | Spring AI starter for Cycles — runtime budget and action authority for Spring AI agents |
-| 13 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 3 | Vue | 2026-05-27 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
-| 14 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28059 | TypeScript | 2026-05-27 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
-| 15 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21652 | TypeScript | 2026-05-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 16 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48437 | Python | 2026-05-27 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21652 | TypeScript | 2026-05-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [nishant6118/Polaxis-SDK-MCP](https://github.com/nishant6118/Polaxis-SDK-MCP) | 1 | Python | 2026-05-27 | Python SDK and MCP server for Polaxis - AI agent governance platform. Evaluate every tool call against policies in real  |
+| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48439 | Python | 2026-05-27 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 8 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 0 | Go | 2026-05-27 | The workflow and governance layer for agent-driven software development. |
+| 9 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 34 | Ruby | 2026-05-27 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
+| 10 | [oxHive/oxAudit](https://github.com/oxHive/oxAudit) | 0 | Go | 2026-05-27 | Local AWS cost audit CLI that runs a deterministic pipeline from your workstation to a prioritized findings backlog with |
+| 11 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 3 | Rust | 2026-05-27 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 12 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5275 | Go | 2026-05-27 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 13 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19383 | Python | 2026-05-27 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 14 | [runcycles/cycles-spring-ai-starter](https://github.com/runcycles/cycles-spring-ai-starter) | 0 | Java | 2026-05-27 | Spring AI starter for Cycles — runtime budget and action authority for Spring AI agents |
+| 15 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 3 | Vue | 2026-05-27 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
+| 16 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28059 | TypeScript | 2026-05-27 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
 | 17 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 1603 | Python | 2026-05-27 | Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights |
 | 18 | [openlit/openlit](https://github.com/openlit/openlit) | 2472 | TypeScript | 2026-05-27 | Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations |
 | 19 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9867 | Python | 2026-05-27 | AI Observability & Evaluation |
