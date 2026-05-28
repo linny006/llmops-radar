@@ -1,21 +1,57 @@
 [
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28137,
-    "updated_at": "2026-05-28T17:13:06Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5309,
-    "updated_at": "2026-05-28T17:11:36Z",
+    "updated_at": "2026-05-28T17:25:03Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48568,
+    "updated_at": "2026-05-28T17:22:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19394,
+    "updated_at": "2026-05-28T17:21:50Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28138,
+    "updated_at": "2026-05-28T17:25:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T17:15:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21686,
+    "updated_at": "2026-05-28T17:13:10Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The local-first control plane for AI work",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T17:10:05Z",
     "url": "https://github.com/lgrossi/noether"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T17:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9882,
-    "updated_at": "2026-05-28T17:10:38Z",
+    "updated_at": "2026-05-28T17:21:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,24 +106,6 @@
     "stars": 994,
     "updated_at": "2026-05-28T16:46:11Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21684,
-    "updated_at": "2026-05-28T17:13:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48567,
-    "updated_at": "2026-05-28T17:01:43Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A framework with a strict protocol core for governed, stateful AI work.",
@@ -421,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T15:45:07Z",
     "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19394,
-    "updated_at": "2026-05-28T17:14:10Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
