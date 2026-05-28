@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-28 17:00 UTC
+> ⏰ Last updated: 2026-05-28 17:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 17 | TypeScript | 2026-05-28 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 2 | [kannanokannan/ContextOps](https://github.com/kannanokannan/ContextOps) | 0 | — | 2026-05-28 | Vendor-neutral AI context governance framework. ITIL for enterprise AI. |
-| 3 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 0 | Go | 2026-05-28 | The workflow and governance layer for agent-driven software development. |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9882 | Python | 2026-05-28 | AI Observability & Evaluation |
-| 5 | [lgrossi/noether](https://github.com/lgrossi/noether) | 0 | Rust | 2026-05-28 | The local-first control plane for AI work |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 994 | Python | 2026-05-28 | OpenTelemetry Instrumentation for AI Observability |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21683 | TypeScript | 2026-05-28 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28137 | TypeScript | 2026-05-28 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
-| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48567 | Python | 2026-05-28 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 11 | [maridlabsai/jini](https://github.com/maridlabsai/jini) | 1 | Python | 2026-05-28 | A framework with a strict protocol core for governed, stateful AI work. |
-| 12 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-05-28 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 13 | [Siddharthpatni/Sentinel](https://github.com/Siddharthpatni/Sentinel) | 0 | Python | 2026-05-28 | 🛡️ Open-source LLM observability + agent reliability platform. Drop-in proxy for OpenAI/Anthropic with traces, evals, ro |
-| 14 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5308 | Go | 2026-05-28 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28137 | TypeScript | 2026-05-28 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
+| 2 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5309 | Go | 2026-05-28 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 3 | [lgrossi/noether](https://github.com/lgrossi/noether) | 0 | Rust | 2026-05-28 | The local-first control plane for AI work |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 17 | TypeScript | 2026-05-28 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 6 | [kannanokannan/ContextOps](https://github.com/kannanokannan/ContextOps) | 0 | — | 2026-05-28 | Vendor-neutral AI context governance framework. ITIL for enterprise AI. |
+| 7 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 0 | Go | 2026-05-28 | The workflow and governance layer for agent-driven software development. |
+| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9882 | Python | 2026-05-28 | AI Observability & Evaluation |
+| 9 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 994 | Python | 2026-05-28 | OpenTelemetry Instrumentation for AI Observability |
+| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21684 | TypeScript | 2026-05-28 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 11 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48567 | Python | 2026-05-28 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 12 | [maridlabsai/jini](https://github.com/maridlabsai/jini) | 1 | Python | 2026-05-28 | A framework with a strict protocol core for governed, stateful AI work. |
+| 13 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-05-28 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 14 | [Siddharthpatni/Sentinel](https://github.com/Siddharthpatni/Sentinel) | 0 | Python | 2026-05-28 | 🛡️ Open-source LLM observability + agent reliability platform. Drop-in proxy for OpenAI/Anthropic with traces, evals, ro |
 | 15 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-05-28 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
 | 16 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 2954 | TypeScript | 2026-05-28 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
 | 17 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 0 | — | 2026-05-28 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |

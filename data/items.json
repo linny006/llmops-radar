@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28137,
+    "updated_at": "2026-05-28T17:13:06Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5309,
+    "updated_at": "2026-05-28T17:11:36Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The local-first control plane for AI work",
+    "id": "lgrossi/noether",
+    "language": "Rust",
+    "name": "lgrossi/noether",
+    "stars": 0,
+    "updated_at": "2026-05-28T17:10:05Z",
+    "url": "https://github.com/lgrossi/noether"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T17:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -32,26 +68,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9882,
-    "updated_at": "2026-05-28T16:52:44Z",
+    "updated_at": "2026-05-28T17:10:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The local-first control plane for AI work",
-    "id": "lgrossi/noether",
-    "language": "Rust",
-    "name": "lgrossi/noether",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:49:04Z",
-    "url": "https://github.com/lgrossi/noether"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:45:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -67,18 +85,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21683,
-    "updated_at": "2026-05-28T16:45:01Z",
+    "stars": 21684,
+    "updated_at": "2026-05-28T17:13:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28137,
-    "updated_at": "2026-05-28T16:41:38Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48567,
-    "updated_at": "2026-05-28T16:56:57Z",
+    "updated_at": "2026-05-28T17:01:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -117,15 +126,6 @@
     "url": "https://github.com/Siddharthpatni/Sentinel"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5308,
-    "updated_at": "2026-05-28T16:59:43Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -140,7 +140,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 2954,
-    "updated_at": "2026-05-28T16:36:08Z",
+    "updated_at": "2026-05-28T17:10:56Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -428,7 +428,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19394,
-    "updated_at": "2026-05-28T16:50:10Z",
+    "updated_at": "2026-05-28T17:14:10Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
