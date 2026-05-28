@@ -1,11 +1,65 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48489,
+    "updated_at": "2026-05-28T04:00:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5396,
+    "updated_at": "2026-05-28T03:59:14Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9873,
+    "updated_at": "2026-05-28T03:55:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 72,
+    "updated_at": "2026-05-28T03:51:55Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "\ud83e\uddef Kubernetes coverage for fault awareness and recovery, works for any LLMOps, MLOps, AI workloads.",
+    "id": "BaizeAI/kcover",
+    "language": "Go",
+    "name": "BaizeAI/kcover",
+    "stars": 35,
+    "updated_at": "2026-05-28T03:49:53Z",
+    "url": "https://github.com/BaizeAI/kcover"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5293,
+    "updated_at": "2026-05-28T03:48:51Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Content-addressed run ledger for reproducible agent and benchmark evaluations.",
     "id": "nripankadas07/sandboxledger",
     "language": "Python",
     "name": "nripankadas07/sandboxledger",
     "stars": 0,
-    "updated_at": "2026-05-28T03:45:14Z",
+    "updated_at": "2026-05-28T03:46:18Z",
     "url": "https://github.com/nripankadas07/sandboxledger"
   },
   {
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "nripankadas07/traceweave",
     "stars": 0,
-    "updated_at": "2026-05-28T03:45:14Z",
+    "updated_at": "2026-05-28T03:46:18Z",
     "url": "https://github.com/nripankadas07/traceweave"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T03:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -23,7 +86,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2145,
-    "updated_at": "2026-05-28T03:44:26Z",
+    "updated_at": "2026-05-28T03:54:27Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -43,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:37:42Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9873,
-    "updated_at": "2026-05-28T03:30:39Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:25:12Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48485,
-    "updated_at": "2026-05-28T03:43:11Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
@@ -189,15 +225,6 @@
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
   },
   {
-    "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 72,
-    "updated_at": "2026-05-28T03:15:25Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Vendor-neutral AI context governance framework. ITIL for enterprise AI.",
     "id": "kannanokannan/ContextOps",
     "language": "\u2014",
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:11:55Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5292,
-    "updated_at": "2026-05-28T03:29:12Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T02:54:03Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-05-28T02:50:39Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-05-28T02:49:09Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
