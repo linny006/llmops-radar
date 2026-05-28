@@ -1,5 +1,176 @@
 [
   {
+    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
+    "id": "kawaiirashi/llm-retry",
+    "language": "C++",
+    "name": "kawaiirashi/llm-retry",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:15:34Z",
+    "url": "https://github.com/kawaiirashi/llm-retry"
+  },
+  {
+    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
+    "id": "wahhyun/llm-eval",
+    "language": "C++",
+    "name": "wahhyun/llm-eval",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:15:34Z",
+    "url": "https://github.com/wahhyun/llm-eval"
+  },
+  {
+    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
+    "id": "Anbumani08/agentic-coding-workflow",
+    "language": "HTML",
+    "name": "Anbumani08/agentic-coding-workflow",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:15:25Z",
+    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
+  },
+  {
+    "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
+    "id": "fangwendongcs/Auto-agent-factory",
+    "language": "JavaScript",
+    "name": "fangwendongcs/Auto-agent-factory",
+    "stars": 8,
+    "updated_at": "2026-05-28T09:14:00Z",
+    "url": "https://github.com/fangwendongcs/Auto-agent-factory"
+  },
+  {
+    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
+    "id": "ashmedanraj/langfuse-eks-production",
+    "language": "\u2014",
+    "name": "ashmedanraj/langfuse-eks-production",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:13:47Z",
+    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
+  },
+  {
+    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
+    "id": "sarrahw23/deploy-guide",
+    "language": "\u2014",
+    "name": "sarrahw23/deploy-guide",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:13:10Z",
+    "url": "https://github.com/sarrahw23/deploy-guide"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28116,
+    "updated_at": "2026-05-28T09:12:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19389,
+    "updated_at": "2026-05-28T09:11:20Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
+    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "language": "Python",
+    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "stars": 2,
+    "updated_at": "2026-05-28T09:09:35Z",
+    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
+  },
+  {
+    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
+    "id": "JFPastor09/rest-gateway-1771916756-4",
+    "language": "\u2014",
+    "name": "JFPastor09/rest-gateway-1771916756-4",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:07:36Z",
+    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:07:25Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:07:22Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
+  },
+  {
+    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1626,
+    "updated_at": "2026-05-28T09:04:22Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:03:56Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:03:42Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 72,
+    "updated_at": "2026-05-28T09:02:42Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
+    "id": "degen1322/agentic-template",
+    "language": "HTML",
+    "name": "degen1322/agentic-template",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:02:30Z",
+    "url": "https://github.com/degen1322/agentic-template"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2147,
+    "updated_at": "2026-05-28T09:01:09Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:00:41Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
     "id": "kami-beep/kb-contracts",
     "language": "TypeScript",
@@ -36,24 +207,6 @@
     "url": "https://github.com/GaBySuGy/agent-guardrails"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19388,
-    "updated_at": "2026-05-28T08:57:34Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28116,
-    "updated_at": "2026-05-28T08:58:52Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
     "id": "SkylineTZ/RagaliQ",
     "language": "Python",
@@ -79,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T08:50:28Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1625,
-    "updated_at": "2026-05-28T08:49:50Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
     "description": "\ud83d\udee0\ufe0f Enhance agentic development with tools for isolated environments and unused code detection in your stack.",
@@ -160,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T08:45:47Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T08:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
@@ -247,7 +382,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48521,
+    "stars": 48522,
     "updated_at": "2026-05-28T08:37:53Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -259,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T08:37:51Z",
     "url": "https://github.com/Hritikd/continuum"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2147,
-    "updated_at": "2026-05-28T08:37:46Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
@@ -322,131 +448,5 @@
     "stars": 11390,
     "updated_at": "2026-05-28T08:35:39Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "\ud83c\udfb6 Compose high-fidelity music effortlessly by transforming natural language commands into orchestral compositions using ",
-    "id": "aswath1313/GenAI-Music-Composer",
-    "language": "Python",
-    "name": "aswath1313/GenAI-Music-Composer",
-    "stars": 1,
-    "updated_at": "2026-05-28T08:34:56Z",
-    "url": "https://github.com/aswath1313/GenAI-Music-Composer"
-  },
-  {
-    "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
-    "id": "fangwendongcs/Auto-agent-factory",
-    "language": "JavaScript",
-    "name": "fangwendongcs/Auto-agent-factory",
-    "stars": 8,
-    "updated_at": "2026-05-28T08:34:53Z",
-    "url": "https://github.com/fangwendongcs/Auto-agent-factory"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 2,
-    "updated_at": "2026-05-28T08:34:15Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
-    "id": "apache/burr",
-    "language": "Python",
-    "name": "apache/burr",
-    "stars": 2013,
-    "updated_at": "2026-05-28T08:33:14Z",
-    "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-05-28T08:31:29Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21670,
-    "updated_at": "2026-05-28T08:57:13Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\ude80 Build and scale reliable Retrieval-Augmented Generation (RAG) systems with this curated collection of tools, framework",
-    "id": "mowael07/Awesome-RAG-Production",
-    "language": "Python",
-    "name": "mowael07/Awesome-RAG-Production",
-    "stars": 2,
-    "updated_at": "2026-05-28T08:29:28Z",
-    "url": "https://github.com/mowael07/Awesome-RAG-Production"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-05-28T08:28:17Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-05-28T08:27:49Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
-    "id": "azzan1235/agentic_rag_system",
-    "language": "Python",
-    "name": "azzan1235/agentic_rag_system",
-    "stars": 0,
-    "updated_at": "2026-05-28T08:27:02Z",
-    "url": "https://github.com/azzan1235/agentic_rag_system"
-  },
-  {
-    "description": "\ud83e\udde0 Build an offline RAG chatbot to answer questions from PDFs, adapting responses based on user experience levels with a ",
-    "id": "Limbertutelvt2004/RAG",
-    "language": "Python",
-    "name": "Limbertutelvt2004/RAG",
-    "stars": 1,
-    "updated_at": "2026-05-28T08:26:47Z",
-    "url": "https://github.com/Limbertutelvt2004/RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build and deploy intelligent agents with the Agent Starter Pack, featuring simple templates and robust documentation f",
-    "id": "juana267/agent-starter-pack",
-    "language": "Java",
-    "name": "juana267/agent-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-05-28T08:25:05Z",
-    "url": "https://github.com/juana267/agent-starter-pack"
-  },
-  {
-    "description": "\ud83e\udde0 Monitor web app performance and detect anomalies with AI-driven insights, capturing key events and generating detailed",
-    "id": "LaurenceGab/ai-monitoring-layer",
-    "language": "JavaScript",
-    "name": "LaurenceGab/ai-monitoring-layer",
-    "stars": 0,
-    "updated_at": "2026-05-28T08:23:28Z",
-    "url": "https://github.com/LaurenceGab/ai-monitoring-layer"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Detect and remove spyware with SUPERAntiSpyware Professional X, ensuring your Windows system stays secure and your da",
-    "id": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "language": "\u2014",
-    "name": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "stars": 1,
-    "updated_at": "2026-05-28T08:22:49Z",
-    "url": "https://github.com/mshadan825/SUPERAntiSpyware-Professional-X-Activated"
   }
 ]
