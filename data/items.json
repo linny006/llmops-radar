@@ -1,11 +1,74 @@
 [
   {
+    "description": "Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs",
+    "id": "predibase/lorax",
+    "language": "Python",
+    "name": "predibase/lorax",
+    "stars": 3785,
+    "updated_at": "2026-05-28T18:12:20Z",
+    "url": "https://github.com/predibase/lorax"
+  },
+  {
+    "description": "",
+    "id": "ghaithmhmm/LLM-Training",
+    "language": "Python",
+    "name": "ghaithmhmm/LLM-Training",
+    "stars": 0,
+    "updated_at": "2026-05-28T18:11:11Z",
+    "url": "https://github.com/ghaithmhmm/LLM-Training"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-05-28T18:09:08Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "",
+    "id": "aekta113/ai-sre",
+    "language": "Python",
+    "name": "aekta113/ai-sre",
+    "stars": 0,
+    "updated_at": "2026-05-28T18:08:05Z",
+    "url": "https://github.com/aekta113/ai-sre"
+  },
+  {
+    "description": "R package for LLM safety guardrails across prompts, outputs, RAG context, PII, secrets, and local Ollama/NLP workflows.",
+    "id": "ineelhere/llmshieldr",
+    "language": "R",
+    "name": "ineelhere/llmshieldr",
+    "stars": 2,
+    "updated_at": "2026-05-28T18:05:29Z",
+    "url": "https://github.com/ineelhere/llmshieldr"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T18:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 4,
+    "updated_at": "2026-05-28T18:00:24Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9882,
-    "updated_at": "2026-05-28T18:00:17Z",
+    "updated_at": "2026-05-28T18:10:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -23,7 +86,7 @@
     "language": "Rust",
     "name": "techlab-innov/llmtrace",
     "stars": 49,
-    "updated_at": "2026-05-28T17:57:22Z",
+    "updated_at": "2026-05-28T18:08:30Z",
     "url": "https://github.com/techlab-innov/llmtrace"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-05-28T17:46:35Z",
     "url": "https://github.com/damn124/ai-calling-agent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T17:45:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udd16 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus",
@@ -193,7 +247,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48568,
+    "stars": 48569,
     "updated_at": "2026-05-28T17:22:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -212,7 +266,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21686,
-    "updated_at": "2026-05-28T17:13:10Z",
+    "updated_at": "2026-05-28T18:08:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -288,12 +342,21 @@
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
+    "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and e",
+    "id": "tensorzero/tensorzero",
+    "language": "Rust",
+    "name": "tensorzero/tensorzero",
+    "stars": 11413,
+    "updated_at": "2026-05-28T16:15:57Z",
+    "url": "https://github.com/tensorzero/tensorzero"
+  },
+  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 2954,
-    "updated_at": "2026-05-28T17:53:08Z",
+    "updated_at": "2026-05-28T18:05:47Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T16:01:43Z",
     "url": "https://github.com/germanic-hwangho835/FolkLite"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:01:17Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:00:57Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:00:48Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:00:09Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 0,
-    "updated_at": "2026-05-28T15:58:26Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
-    "id": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "language": "Python",
-    "name": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "stars": 0,
-    "updated_at": "2026-05-28T15:58:04Z",
-    "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "\u2692\ufe0f The open-source framework for LLM experiments and agent orchestration.",
-    "id": "InftyAI/alphatrion",
-    "language": "Python",
-    "name": "InftyAI/alphatrion",
-    "stars": 13,
-    "updated_at": "2026-05-28T15:55:52Z",
-    "url": "https://github.com/InftyAI/alphatrion"
   }
 ]
