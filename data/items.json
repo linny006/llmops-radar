@@ -1,5 +1,122 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5295,
+    "updated_at": "2026-05-28T06:14:32Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28097,
+    "updated_at": "2026-05-28T06:13:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
+    "id": "kami-beep/kb-contracts",
+    "language": "TypeScript",
+    "name": "kami-beep/kb-contracts",
+    "stars": 0,
+    "updated_at": "2026-05-28T06:12:53Z",
+    "url": "https://github.com/kami-beep/kb-contracts"
+  },
+  {
+    "description": "The local-first control plane for AI work",
+    "id": "lgrossi/noether",
+    "language": "Rust",
+    "name": "lgrossi/noether",
+    "stars": 0,
+    "updated_at": "2026-05-28T06:10:09Z",
+    "url": "https://github.com/lgrossi/noether"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-05-28T06:09:49Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "Self-hosted AI reliability platform for RAG and agentic applications with observability, protection, evaluations, OpenTe",
+    "id": "glaborie/agentguard",
+    "language": "Python",
+    "name": "glaborie/agentguard",
+    "stars": 0,
+    "updated_at": "2026-05-28T06:08:55Z",
+    "url": "https://github.com/glaborie/agentguard"
+  },
+  {
+    "description": "Multi-agent research synthesis system using LangGraph, Gemini, LlamaIndex, and Pinecone with full LLMOps instrumentation",
+    "id": "daveshenal/aegis",
+    "language": "Python",
+    "name": "daveshenal/aegis",
+    "stars": 0,
+    "updated_at": "2026-05-28T06:08:54Z",
+    "url": "https://github.com/daveshenal/aegis"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 0,
+    "updated_at": "2026-05-28T06:08:52Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26158,
+    "updated_at": "2026-05-28T06:08:31Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2146,
+    "updated_at": "2026-05-28T06:04:00Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
+    "id": "SkylineTZ/RagaliQ",
+    "language": "Python",
+    "name": "SkylineTZ/RagaliQ",
+    "stars": 0,
+    "updated_at": "2026-05-28T06:03:50Z",
+    "url": "https://github.com/SkylineTZ/RagaliQ"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-05-28T06:03:07Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T06:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Enhance agentic development with tools for isolated environments and unused code detection in your stack.",
     "id": "masterudon23/agent-tools",
     "language": "TypeScript",
@@ -7,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-05-28T06:00:22Z",
     "url": "https://github.com/masterudon23/agent-tools"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
+    "id": "Tearfullnex/SpecGuard",
+    "language": "Python",
+    "name": "Tearfullnex/SpecGuard",
+    "stars": 0,
+    "updated_at": "2026-05-28T06:00:21Z",
+    "url": "https://github.com/Tearfullnex/SpecGuard"
   },
   {
     "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
@@ -25,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-05-28T05:59:37Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "The local-first control plane for AI work",
-    "id": "lgrossi/noether",
-    "language": "Rust",
-    "name": "lgrossi/noether",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:59:27Z",
-    "url": "https://github.com/lgrossi/noether"
   },
   {
     "description": "\ud83d\udee0\ufe0f Configure Claude Code with settings and skills for enhanced web interaction, automation, and efficient code managemen",
@@ -167,7 +284,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48492,
-    "updated_at": "2026-05-28T05:48:53Z",
+    "updated_at": "2026-05-28T06:11:21Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -196,24 +313,6 @@
     "stars": 2,
     "updated_at": "2026-05-28T05:47:00Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5295,
-    "updated_at": "2026-05-28T05:46:24Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:46:01Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
@@ -349,104 +448,5 @@
     "stars": 3,
     "updated_at": "2026-05-28T05:26:06Z",
     "url": "https://github.com/sway121/Agentes_IA"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance your CAD, WMS, or CAM software with Vector\u2014an offline tool for seamless optimization without tuning or ongoing",
-    "id": "dewqasujbc/Vector",
-    "language": "\u2014",
-    "name": "dewqasujbc/Vector",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:26:04Z",
-    "url": "https://github.com/dewqasujbc/Vector"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:20:17Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:19:49Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83e\udde9 Explore LLM essentials, build advanced models, and develop applications with this comprehensive course on large langua",
-    "id": "Gmail1995/llm-course",
-    "language": "\u2014",
-    "name": "Gmail1995/llm-course",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:17:35Z",
-    "url": "https://github.com/Gmail1995/llm-course"
-  },
-  {
-    "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode li",
-    "id": "apache/hamilton",
-    "language": "Jupyter Notebook",
-    "name": "apache/hamilton",
-    "stars": 2497,
-    "updated_at": "2026-05-28T05:26:48Z",
-    "url": "https://github.com/apache/hamilton"
-  },
-  {
-    "description": "The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more",
-    "id": "adaline/gateway",
-    "language": "TypeScript",
-    "name": "adaline/gateway",
-    "stars": 594,
-    "updated_at": "2026-05-28T05:15:35Z",
-    "url": "https://github.com/adaline/gateway"
-  },
-  {
-    "description": "",
-    "id": "ghaithmhmm/LLM-Training",
-    "language": "Python",
-    "name": "ghaithmhmm/LLM-Training",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:13:13Z",
-    "url": "https://github.com/ghaithmhmm/LLM-Training"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:12:54Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "",
-    "id": "aekta113/ai-sre",
-    "language": "Python",
-    "name": "aekta113/ai-sre",
-    "stars": 0,
-    "updated_at": "2026-05-28T05:10:17Z",
-    "url": "https://github.com/aekta113/ai-sre"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26158,
-    "updated_at": "2026-05-28T05:08:16Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21667,
-    "updated_at": "2026-05-28T05:53:43Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
