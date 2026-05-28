@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-28 05:45 UTC
+> ⏰ Last updated: 2026-05-28 05:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sedai194443/langfuse-go](https://github.com/sedai194443/langfuse-go) | 1 | Go | 2026-05-28 | 🚀 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform. |
-| 2 | [lgrossi/noether](https://github.com/lgrossi/noether) | 0 | Rust | 2026-05-28 | The local-first control plane for AI work |
-| 3 | [mowael07/Awesome-RAG-Production](https://github.com/mowael07/Awesome-RAG-Production) | 2 | Python | 2026-05-28 | 🚀 Build and scale reliable Retrieval-Augmented Generation (RAG) systems with this curated collection of tools, framework |
-| 4 | [Lukaa1507/langchain-runner](https://github.com/Lukaa1507/langchain-runner) | 1 | Python | 2026-05-28 | 🚀 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers |
-| 5 | [mviraj/KakeyaFiniteFields](https://github.com/mviraj/KakeyaFiniteFields) | 0 | JavaScript | 2026-05-28 | 📚 Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical |
-| 6 | [azzan1235/agentic_rag_system](https://github.com/azzan1235/agentic_rag_system) | 0 | Python | 2026-05-28 | 🔍 Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea |
-| 7 | [Limbertutelvt2004/RAG](https://github.com/Limbertutelvt2004/RAG) | 1 | Python | 2026-05-28 | 🧠 Build an offline RAG chatbot to answer questions from PDFs, adapting responses based on user experience levels with a  |
-| 8 | [juana267/agent-starter-pack](https://github.com/juana267/agent-starter-pack) | 0 | Java | 2026-05-28 | 🚀 Build and deploy intelligent agents with the Agent Starter Pack, featuring simple templates and robust documentation f |
-| 9 | [spanlens/Spanlens](https://github.com/spanlens/Spanlens) | 4 | TypeScript | 2026-05-28 | Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing |
-| 10 | [LaurenceGab/ai-monitoring-layer](https://github.com/LaurenceGab/ai-monitoring-layer) | 0 | JavaScript | 2026-05-28 | 🧠 Monitor web app performance and detect anomalies with AI-driven insights, capturing key events and generating detailed |
-| 11 | [mshadan825/SUPERAntiSpyware-Professional-X-Activated](https://github.com/mshadan825/SUPERAntiSpyware-Professional-X-Activated) | 1 | — | 2026-05-28 | 🛡️ Detect and remove spyware with SUPERAntiSpyware Professional X, ensuring your Windows system stays secure and your da |
-| 12 | [don12345673434/mjsushanth.github.io](https://github.com/don12345673434/mjsushanth.github.io) | 0 | HTML | 2026-05-28 | 🌐 Build and share your personal website with ease using mjsushanth.github.io, a simple and effective static site generat |
-| 13 | [oxHive/oxAudit](https://github.com/oxHive/oxAudit) | 0 | Go | 2026-05-28 | Local AWS cost audit CLI that runs a deterministic pipeline from your workstation to a prioritized findings backlog with |
-| 14 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [sedai194443/langfuse-go](https://github.com/sedai194443/langfuse-go) | 1 | Go | 2026-05-28 | 🚀 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform. |
+| 3 | [lgrossi/noether](https://github.com/lgrossi/noether) | 0 | Rust | 2026-05-28 | The local-first control plane for AI work |
+| 4 | [mowael07/Awesome-RAG-Production](https://github.com/mowael07/Awesome-RAG-Production) | 2 | Python | 2026-05-28 | 🚀 Build and scale reliable Retrieval-Augmented Generation (RAG) systems with this curated collection of tools, framework |
+| 5 | [Lukaa1507/langchain-runner](https://github.com/Lukaa1507/langchain-runner) | 1 | Python | 2026-05-28 | 🚀 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers |
+| 6 | [mviraj/KakeyaFiniteFields](https://github.com/mviraj/KakeyaFiniteFields) | 0 | JavaScript | 2026-05-28 | 📚 Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical |
+| 7 | [azzan1235/agentic_rag_system](https://github.com/azzan1235/agentic_rag_system) | 0 | Python | 2026-05-28 | 🔍 Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea |
+| 8 | [Limbertutelvt2004/RAG](https://github.com/Limbertutelvt2004/RAG) | 1 | Python | 2026-05-28 | 🧠 Build an offline RAG chatbot to answer questions from PDFs, adapting responses based on user experience levels with a  |
+| 9 | [juana267/agent-starter-pack](https://github.com/juana267/agent-starter-pack) | 0 | Java | 2026-05-28 | 🚀 Build and deploy intelligent agents with the Agent Starter Pack, featuring simple templates and robust documentation f |
+| 10 | [spanlens/Spanlens](https://github.com/spanlens/Spanlens) | 4 | TypeScript | 2026-05-28 | Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing |
+| 11 | [LaurenceGab/ai-monitoring-layer](https://github.com/LaurenceGab/ai-monitoring-layer) | 0 | JavaScript | 2026-05-28 | 🧠 Monitor web app performance and detect anomalies with AI-driven insights, capturing key events and generating detailed |
+| 12 | [mshadan825/SUPERAntiSpyware-Professional-X-Activated](https://github.com/mshadan825/SUPERAntiSpyware-Professional-X-Activated) | 1 | — | 2026-05-28 | 🛡️ Detect and remove spyware with SUPERAntiSpyware Professional X, ensuring your Windows system stays secure and your da |
+| 13 | [don12345673434/mjsushanth.github.io](https://github.com/don12345673434/mjsushanth.github.io) | 0 | HTML | 2026-05-28 | 🌐 Build and share your personal website with ease using mjsushanth.github.io, a simple and effective static site generat |
+| 14 | [oxHive/oxAudit](https://github.com/oxHive/oxAudit) | 0 | Go | 2026-05-28 | Local AWS cost audit CLI that runs a deterministic pipeline from your workstation to a prioritized findings backlog with |
 | 15 | [iulieobraznic/agentic-ai-systems](https://github.com/iulieobraznic/agentic-ai-systems) | 0 | — | 2026-05-28 | 🐔 Simplify AI orchestration by using agentic systems; spawn subagents like a hen with her chicks for seamless task manag |
 | 16 | [Shahzadaslam007799/agent-system](https://github.com/Shahzadaslam007799/agent-system) | 1 | — | 2026-05-28 | 🎛️ Build efficient workflows with Deevs' Agent System, a plugin marketplace for Claude Code featuring multi-session chai |
 | 17 | [xjanex160/customer-support-agent](https://github.com/xjanex160/customer-support-agent) | 2 | Python | 2026-05-28 | 🤖 Enhance customer support with an LLM-powered agent that smartly routes queries using FastAPI, Postgres, and Redis for  |
