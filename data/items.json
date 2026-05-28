@@ -1,12 +1,48 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21689,
+    "updated_at": "2026-05-28T23:13:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48586,
+    "updated_at": "2026-05-28T23:05:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T23:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26171,
+    "stars": 26172,
     "updated_at": "2026-05-28T22:59:38Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
+    "id": "shyftlabs/continuum",
+    "language": "Python",
+    "name": "shyftlabs/continuum",
+    "stars": 11,
+    "updated_at": "2026-05-28T22:51:53Z",
+    "url": "https://github.com/shyftlabs/continuum"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9886,
-    "updated_at": "2026-05-28T22:51:45Z",
+    "updated_at": "2026-05-28T23:12:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T22:49:52Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T22:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T22:20:03Z",
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21689,
-    "updated_at": "2026-05-28T22:18:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T21:59:38Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-05-28T21:59:28Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-05-28T21:56:27Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
