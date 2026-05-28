@@ -1,12 +1,21 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Static release checks for tool-using AI agents. Open-source CLI + GitHub Action. Scans MCP, OpenAPI, OpenAI Agents SDK, ",
+    "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26153,
-    "updated_at": "2026-05-28T04:12:53Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 2,
+    "updated_at": "2026-05-28T04:26:34Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21665,
+    "updated_at": "2026-05-28T04:23:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48491,
-    "updated_at": "2026-05-28T04:13:28Z",
+    "updated_at": "2026-05-28T04:28:27Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T04:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26153,
+    "updated_at": "2026-05-28T04:22:00Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28094,
-    "updated_at": "2026-05-28T04:06:43Z",
+    "updated_at": "2026-05-28T04:23:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1135,
-    "updated_at": "2026-05-28T04:03:55Z",
+    "updated_at": "2026-05-28T04:27:11Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -63,21 +90,12 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T04:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5396,
-    "updated_at": "2026-05-28T03:59:14Z",
+    "updated_at": "2026-05-28T04:22:53Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:29:04Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21665,
-    "updated_at": "2026-05-28T04:11:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T02:56:19Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 0,
-    "updated_at": "2026-05-28T02:56:16Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
