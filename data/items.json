@@ -1,12 +1,48 @@
 [
   {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-05-28T23:44:51Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-05-28T23:43:37Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 0,
+    "updated_at": "2026-05-28T23:42:22Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 17,
-    "updated_at": "2026-05-28T23:28:16Z",
+    "updated_at": "2026-05-28T23:38:21Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T23:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -27,15 +63,6 @@
     "url": "https://github.com/jimyoshida/ubuntu2604_on_macmini2014"
   },
   {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 0,
-    "updated_at": "2026-05-28T23:19:32Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T23:16:31Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T23:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -103,7 +121,7 @@
     "id": "shyftlabs/continuum",
     "language": "Python",
     "name": "shyftlabs/continuum",
-    "stars": 11,
+    "stars": 12,
     "updated_at": "2026-05-28T22:51:53Z",
     "url": "https://github.com/shyftlabs/continuum"
   },
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28144,
-    "updated_at": "2026-05-28T23:27:34Z",
+    "updated_at": "2026-05-28T23:43:16Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -414,6 +432,15 @@
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7450,
+    "updated_at": "2026-05-28T22:06:53Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
     "id": "techlab-innov/llmtrace",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 49,
     "updated_at": "2026-05-28T22:05:39Z",
     "url": "https://github.com/techlab-innov/llmtrace"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-05-28T22:05:32Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 0,
-    "updated_at": "2026-05-28T22:04:52Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "A flight recorder for AI agent swarms \u2014 live, animated, framework-agnostic agent observability over OpenTelemetry.",
-    "id": "pb-commits-it/swarmwatch",
-    "language": "Python",
-    "name": "pb-commits-it/swarmwatch",
-    "stars": 0,
-    "updated_at": "2026-05-28T22:03:33Z",
-    "url": "https://github.com/pb-commits-it/swarmwatch"
   }
 ]
