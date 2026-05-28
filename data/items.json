@@ -1,5 +1,68 @@
 [
   {
+    "description": "Content-addressed run ledger for reproducible agent and benchmark evaluations.",
+    "id": "nripankadas07/sandboxledger",
+    "language": "Python",
+    "name": "nripankadas07/sandboxledger",
+    "stars": 0,
+    "updated_at": "2026-05-28T03:45:14Z",
+    "url": "https://github.com/nripankadas07/sandboxledger"
+  },
+  {
+    "description": "Agent trajectory forensics: loop detection, causal edges, drift, and failure-risk reports from local traces.",
+    "id": "nripankadas07/traceweave",
+    "language": "Python",
+    "name": "nripankadas07/traceweave",
+    "stars": 0,
+    "updated_at": "2026-05-28T03:45:14Z",
+    "url": "https://github.com/nripankadas07/traceweave"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2145,
+    "updated_at": "2026-05-28T03:44:26Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 993,
+    "updated_at": "2026-05-28T03:44:52Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 0,
+    "updated_at": "2026-05-28T03:37:42Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9873,
+    "updated_at": "2026-05-28T03:30:39Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T03:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -13,8 +76,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21664,
-    "updated_at": "2026-05-28T03:28:24Z",
+    "stars": 21665,
+    "updated_at": "2026-05-28T03:45:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -58,8 +121,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48483,
-    "updated_at": "2026-05-28T03:25:10Z",
+    "stars": 48485,
+    "updated_at": "2026-05-28T03:43:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -99,24 +162,6 @@
     "url": "https://github.com/Prissieperoneal156/rig"
   },
   {
-    "description": "Content-addressed run ledger for reproducible agent and benchmark evaluations.",
-    "id": "nripankadas07/sandboxledger",
-    "language": "Python",
-    "name": "nripankadas07/sandboxledger",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:18:42Z",
-    "url": "https://github.com/nripankadas07/sandboxledger"
-  },
-  {
-    "description": "Agent trajectory forensics: loop detection, causal edges, drift, and failure-risk reports from local traces.",
-    "id": "nripankadas07/traceweave",
-    "language": "Python",
-    "name": "nripankadas07/traceweave",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:18:37Z",
-    "url": "https://github.com/nripankadas07/traceweave"
-  },
-  {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
     "id": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
     "language": "\u2014",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:17:08Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T02:49:09Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-05-28T02:48:50Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-05-28T02:48:43Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-05-28T02:48:36Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-05-28T02:45:25Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
