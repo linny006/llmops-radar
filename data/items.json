@@ -1,12 +1,21 @@
 [
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Jupyter Notebook",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 52,
-    "updated_at": "2026-05-29T10:59:24Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+    "description": "5-case free starter for the AI Agent QA Eval Pack. Vendor-agnostic YAML eval cases for tool-using LLM agents (LangChain ",
+    "id": "weiseer/ai-agent-qa-eval-pack-starter",
+    "language": "Python",
+    "name": "weiseer/ai-agent-qa-eval-pack-starter",
+    "stars": 0,
+    "updated_at": "2026-05-29T11:14:08Z",
+    "url": "https://github.com/weiseer/ai-agent-qa-eval-pack-starter"
+  },
+  {
+    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
+    "id": "SSC-STUDIO/Ai-Model-Gateway",
+    "language": "Go",
+    "name": "SSC-STUDIO/Ai-Model-Gateway",
+    "stars": 2,
+    "updated_at": "2026-05-29T11:11:28Z",
+    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
   },
   {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
@@ -14,8 +23,53 @@
     "language": "TypeScript",
     "name": "openlit/openlit",
     "stars": 2477,
-    "updated_at": "2026-05-29T10:59:16Z",
+    "updated_at": "2026-05-29T11:10:32Z",
     "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3273,
+    "updated_at": "2026-05-29T11:15:23Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Jupyter Notebook",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 52,
+    "updated_at": "2026-05-29T11:06:38Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 40,
+    "updated_at": "2026-05-29T11:05:28Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
+    "id": "techlab-innov/llmtrace",
+    "language": "Rust",
+    "name": "techlab-innov/llmtrace",
+    "stars": 49,
+    "updated_at": "2026-05-29T11:13:36Z",
+    "url": "https://github.com/techlab-innov/llmtrace"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T11:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "SkeinRank - Explainable terminology normalization and attribute enrichment for technical search",
@@ -27,15 +81,6 @@
     "url": "https://github.com/SkeinRank/skeinrank"
   },
   {
-    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
-    "id": "SSC-STUDIO/Ai-Model-Gateway",
-    "language": "Go",
-    "name": "SSC-STUDIO/Ai-Model-Gateway",
-    "stars": 2,
-    "updated_at": "2026-05-29T10:56:53Z",
-    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -43,6 +88,15 @@
     "stars": 3,
     "updated_at": "2026-05-29T10:56:20Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48663,
+    "updated_at": "2026-05-29T10:55:58Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T10:50:12Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48660,
-    "updated_at": "2026-05-29T10:55:58Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
@@ -117,15 +162,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -166,8 +202,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5327,
-    "updated_at": "2026-05-29T10:39:39Z",
+    "stars": 5328,
+    "updated_at": "2026-05-29T11:13:24Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -194,8 +230,17 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4163,
-    "updated_at": "2026-05-29T10:58:50Z",
+    "updated_at": "2026-05-29T11:10:38Z",
     "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
+    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1673,
+    "updated_at": "2026-05-29T10:37:43Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28184,
-    "updated_at": "2026-05-29T10:51:38Z",
+    "updated_at": "2026-05-29T11:06:18Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -322,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T10:26:34Z",
     "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
-    "id": "techlab-innov/llmtrace",
-    "language": "Rust",
-    "name": "techlab-innov/llmtrace",
-    "stars": 49,
-    "updated_at": "2026-05-29T10:37:51Z",
-    "url": "https://github.com/techlab-innov/llmtrace"
   },
   {
     "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T10:21:06Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5423,
-    "updated_at": "2026-05-29T10:41:31Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:19:26Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:18:46Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 4,
-    "updated_at": "2026-05-29T10:16:33Z",
-    "url": "https://github.com/spanlens/Spanlens"
   }
 ]
