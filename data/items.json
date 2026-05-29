@@ -1,5 +1,41 @@
 [
   {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:58:56Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
+    "id": "SSC-STUDIO/Ai-Model-Gateway",
+    "language": "Go",
+    "name": "SSC-STUDIO/Ai-Model-Gateway",
+    "stars": 2,
+    "updated_at": "2026-05-29T17:49:37Z",
+    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
+  },
+  {
+    "description": "Drop-in proxy for OpenAI, Anthropic, and other LLM APIs. Logging, PII redaction, prompt versioning, and evals out of the",
+    "id": "grepture/proxy",
+    "language": "TypeScript",
+    "name": "grepture/proxy",
+    "stars": 3,
+    "updated_at": "2026-05-29T17:48:13Z",
+    "url": "https://github.com/grepture/proxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:45:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A framework with a strict protocol core for governed, stateful AI work.",
     "id": "maridlabsai/jini",
     "language": "Python",
@@ -9,15 +45,6 @@
     "url": "https://github.com/maridlabsai/jini"
   },
   {
-    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
-    "id": "SSC-STUDIO/Ai-Model-Gateway",
-    "language": "Go",
-    "name": "SSC-STUDIO/Ai-Model-Gateway",
-    "stars": 2,
-    "updated_at": "2026-05-29T17:38:45Z",
-    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T17:36:34Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T17:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9908,
-    "updated_at": "2026-05-29T17:12:03Z",
+    "updated_at": "2026-05-29T17:54:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -320,7 +338,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28195,
-    "updated_at": "2026-05-29T16:49:57Z",
+    "updated_at": "2026-05-29T17:57:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -355,7 +373,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48692,
+    "stars": 48694,
     "updated_at": "2026-05-29T16:46:42Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T16:41:15Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
-    "id": "techlab-innov/llmtrace",
-    "language": "Rust",
-    "name": "techlab-innov/llmtrace",
-    "stars": 49,
-    "updated_at": "2026-05-29T17:39:47Z",
-    "url": "https://github.com/techlab-innov/llmtrace"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:40:38Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
