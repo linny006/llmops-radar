@@ -1,5 +1,41 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48595,
+    "updated_at": "2026-05-29T02:11:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 17,
+    "updated_at": "2026-05-29T02:05:59Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
+    "id": "fangwendongcs/Auto-agent-factory",
+    "language": "JavaScript",
+    "name": "fangwendongcs/Auto-agent-factory",
+    "stars": 10,
+    "updated_at": "2026-05-29T02:03:20Z",
+    "url": "https://github.com/fangwendongcs/Auto-agent-factory"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T02:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -7,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T01:59:28Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48594,
-    "updated_at": "2026-05-29T01:57:27Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -72,15 +99,6 @@
     "url": "https://github.com/Prissieperoneal156/rig"
   },
   {
-    "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
-    "id": "fangwendongcs/Auto-agent-factory",
-    "language": "JavaScript",
-    "name": "fangwendongcs/Auto-agent-factory",
-    "stars": 10,
-    "updated_at": "2026-05-29T01:51:00Z",
-    "url": "https://github.com/fangwendongcs/Auto-agent-factory"
-  },
-  {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
     "id": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
     "language": "\u2014",
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T01:45:28Z",
     "url": "https://github.com/germanic-hwangho835/FolkLite"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T01:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T01:35:51Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 17,
-    "updated_at": "2026-05-29T01:35:45Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
@@ -342,6 +342,15 @@
     "url": "https://github.com/sarrahw23/deploy-guide"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19398,
+    "updated_at": "2026-05-29T01:26:29Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T01:11:01Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
-    "id": "SkylineTZ/RagaliQ",
-    "language": "Python",
-    "name": "SkylineTZ/RagaliQ",
-    "stars": 0,
-    "updated_at": "2026-05-29T01:06:47Z",
-    "url": "https://github.com/SkylineTZ/RagaliQ"
   }
 ]
