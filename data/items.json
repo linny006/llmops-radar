@@ -1,11 +1,101 @@
 [
   {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 34,
+    "updated_at": "2026-05-29T11:45:09Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Catch prompt regressions from model drift \u2014 on a schedule, not just on PRs.",
+    "id": "wartzar-bee/promptdrift",
+    "language": "JavaScript",
+    "name": "wartzar-bee/promptdrift",
+    "stars": 0,
+    "updated_at": "2026-05-29T11:43:10Z",
+    "url": "https://github.com/wartzar-bee/promptdrift"
+  },
+  {
+    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
+    "id": "techlab-innov/llmtrace",
+    "language": "Rust",
+    "name": "techlab-innov/llmtrace",
+    "stars": 49,
+    "updated_at": "2026-05-29T11:42:50Z",
+    "url": "https://github.com/techlab-innov/llmtrace"
+  },
+  {
+    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
+    "id": "SSC-STUDIO/Ai-Model-Gateway",
+    "language": "Go",
+    "name": "SSC-STUDIO/Ai-Model-Gateway",
+    "stars": 2,
+    "updated_at": "2026-05-29T11:42:42Z",
+    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
+  },
+  {
+    "description": "SkeinRank - Explainable terminology normalization and attribute enrichment for technical search",
+    "id": "SkeinRank/skeinrank",
+    "language": "Python",
+    "name": "SkeinRank/skeinrank",
+    "stars": 1,
+    "updated_at": "2026-05-29T11:41:30Z",
+    "url": "https://github.com/SkeinRank/skeinrank"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28185,
+    "updated_at": "2026-05-29T11:44:28Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "See what your AI-coding session actually cost \u2014 and what is eating your context. Local, read-only CLI for Claude Code.",
+    "id": "wartzar-bee/tokenscope",
+    "language": "HTML",
+    "name": "wartzar-bee/tokenscope",
+    "stars": 3,
+    "updated_at": "2026-05-29T11:39:56Z",
+    "url": "https://github.com/wartzar-bee/tokenscope"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 354,
+    "updated_at": "2026-05-29T11:38:32Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 40,
+    "updated_at": "2026-05-29T11:33:04Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T11:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19398,
-    "updated_at": "2026-05-29T11:30:03Z",
+    "updated_at": "2026-05-29T11:37:28Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -32,35 +122,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3273,
-    "updated_at": "2026-05-29T11:27:32Z",
+    "updated_at": "2026-05-29T11:45:02Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
-    "id": "SSC-STUDIO/Ai-Model-Gateway",
-    "language": "Go",
-    "name": "SSC-STUDIO/Ai-Model-Gateway",
-    "stars": 2,
-    "updated_at": "2026-05-29T11:26:47Z",
-    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
+    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
+    "id": "BlazeUp-AI/Observal",
     "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 354,
-    "updated_at": "2026-05-29T11:19:44Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T11:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1675,
+    "updated_at": "2026-05-29T11:18:12Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
     "description": "5-case free starter for the AI Agent QA Eval Pack. Vendor-agnostic YAML eval cases for tool-using LLM agents (LangChain ",
@@ -88,33 +160,6 @@
     "stars": 52,
     "updated_at": "2026-05-29T11:06:38Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 40,
-    "updated_at": "2026-05-29T11:05:28Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
-    "id": "techlab-innov/llmtrace",
-    "language": "Rust",
-    "name": "techlab-innov/llmtrace",
-    "stars": 49,
-    "updated_at": "2026-05-29T11:13:36Z",
-    "url": "https://github.com/techlab-innov/llmtrace"
-  },
-  {
-    "description": "SkeinRank - Explainable terminology normalization and attribute enrichment for technical search",
-    "id": "SkeinRank/skeinrank",
-    "language": "Python",
-    "name": "SkeinRank/skeinrank",
-    "stars": 1,
-    "updated_at": "2026-05-29T10:57:10Z",
-    "url": "https://github.com/SkeinRank/skeinrank"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -239,7 +284,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5328,
-    "updated_at": "2026-05-29T11:24:42Z",
+    "updated_at": "2026-05-29T11:44:20Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -266,17 +311,8 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4163,
-    "updated_at": "2026-05-29T11:28:36Z",
+    "updated_at": "2026-05-29T11:44:50Z",
     "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1673,
-    "updated_at": "2026-05-29T11:18:12Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -322,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T10:34:49Z",
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28184,
-    "updated_at": "2026-05-29T11:06:18Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T10:25:49Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:23:39Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:22:10Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:21:53Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
