@@ -1,5 +1,131 @@
 [
   {
+    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
+    "id": "SSC-STUDIO/Ai-Model-Gateway",
+    "language": "Go",
+    "name": "SSC-STUDIO/Ai-Model-Gateway",
+    "stars": 2,
+    "updated_at": "2026-05-29T12:45:15Z",
+    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
+  },
+  {
+    "description": "\ud83e\udde9 Explore LLM essentials, build advanced models, and develop applications with this comprehensive course on large langua",
+    "id": "Gmail1995/llm-course",
+    "language": "\u2014",
+    "name": "Gmail1995/llm-course",
+    "stars": 0,
+    "updated_at": "2026-05-29T12:44:18Z",
+    "url": "https://github.com/Gmail1995/llm-course"
+  },
+  {
+    "description": "Agentic GenAI incident commander \u2014 multi-agent RCA, evidence from logs/metrics/Kubernetes/deployment history, safety-cla",
+    "id": "sandipanseal/AegisOps-AI",
+    "language": "Python",
+    "name": "sandipanseal/AegisOps-AI",
+    "stars": 0,
+    "updated_at": "2026-05-29T12:45:24Z",
+    "url": "https://github.com/sandipanseal/AegisOps-AI"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5329,
+    "updated_at": "2026-05-29T12:41:49Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Local-first DevTools for debugging LangGraph checkpoints and agent memory.",
+    "id": "fengjikui/langgraph-memory-inspector",
+    "language": "Python",
+    "name": "fengjikui/langgraph-memory-inspector",
+    "stars": 0,
+    "updated_at": "2026-05-29T12:40:46Z",
+    "url": "https://github.com/fengjikui/langgraph-memory-inspector"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21702,
+    "updated_at": "2026-05-29T12:40:38Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "",
+    "id": "ghaithmhmm/LLM-Training",
+    "language": "Python",
+    "name": "ghaithmhmm/LLM-Training",
+    "stars": 0,
+    "updated_at": "2026-05-29T12:39:55Z",
+    "url": "https://github.com/ghaithmhmm/LLM-Training"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3273,
+    "updated_at": "2026-05-29T12:40:39Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 17,
+    "updated_at": "2026-05-29T12:37:34Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "",
+    "id": "aekta113/ai-sre",
+    "language": "Python",
+    "name": "aekta113/ai-sre",
+    "stars": 0,
+    "updated_at": "2026-05-29T12:37:01Z",
+    "url": "https://github.com/aekta113/ai-sre"
+  },
+  {
+    "description": "Ansible playbooks for automated personal-use Ubuntu 26.04 agent environment setup with Grafana LGTM stack",
+    "id": "jimyoshida/ubuntu2604_on_macmini2014",
+    "language": "Shell",
+    "name": "jimyoshida/ubuntu2604_on_macmini2014",
+    "stars": 1,
+    "updated_at": "2026-05-29T12:34:20Z",
+    "url": "https://github.com/jimyoshida/ubuntu2604_on_macmini2014"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-29T12:33:36Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 354,
+    "updated_at": "2026-05-29T12:38:56Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T12:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "SkeinRank - Explainable terminology normalization and attribute enrichment for technical search",
     "id": "SkeinRank/skeinrank",
     "language": "Python",
@@ -27,58 +153,13 @@
     "url": "https://github.com/liam8421/faster-llm"
   },
   {
-    "description": "Agentic GenAI incident commander \u2014 multi-agent RCA, evidence from logs/metrics/Kubernetes/deployment history, safety-cla",
-    "id": "sandipanseal/AegisOps-AI",
-    "language": "Python",
-    "name": "sandipanseal/AegisOps-AI",
-    "stars": 0,
-    "updated_at": "2026-05-29T12:28:11Z",
-    "url": "https://github.com/sandipanseal/AegisOps-AI"
-  },
-  {
-    "description": "Local-first DevTools for debugging LangGraph checkpoints and agent memory.",
-    "id": "fengjikui/langgraph-memory-inspector",
-    "language": "Python",
-    "name": "fengjikui/langgraph-memory-inspector",
-    "stars": 0,
-    "updated_at": "2026-05-29T12:27:45Z",
-    "url": "https://github.com/fengjikui/langgraph-memory-inspector"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-29T12:27:25Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28187,
-    "updated_at": "2026-05-29T12:25:22Z",
+    "updated_at": "2026-05-29T12:44:52Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3273,
-    "updated_at": "2026-05-29T12:29:32Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
-    "id": "SSC-STUDIO/Ai-Model-Gateway",
-    "language": "Go",
-    "name": "SSC-STUDIO/Ai-Model-Gateway",
-    "stars": 2,
-    "updated_at": "2026-05-29T12:22:58Z",
-    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
   },
   {
     "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
@@ -144,15 +225,6 @@
     "url": "https://github.com/damn124/ai-calling-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T12:15:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udd16 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus",
     "id": "Thiagoopro/AI-Agent-Framework",
     "language": "Python",
@@ -211,7 +283,7 @@
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1677,
+    "stars": 1678,
     "updated_at": "2026-05-29T12:06:21Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
@@ -223,15 +295,6 @@
     "stars": 5,
     "updated_at": "2026-05-29T12:05:37Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5329,
-    "updated_at": "2026-05-29T12:27:37Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
@@ -265,8 +328,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19399,
-    "updated_at": "2026-05-29T11:52:20Z",
+    "stars": 19400,
+    "updated_at": "2026-05-29T12:43:01Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -295,15 +358,6 @@
     "stars": 3,
     "updated_at": "2026-05-29T11:39:56Z",
     "url": "https://github.com/wartzar-bee/tokenscope"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 354,
-    "updated_at": "2026-05-29T12:26:43Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T10:48:57Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:48:05Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
-    "id": "Prissieperoneal156/rig",
-    "language": "\u2014",
-    "name": "Prissieperoneal156/rig",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:48:01Z",
-    "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 0,
-    "updated_at": "2026-05-29T11:47:00Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:42:49Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
-    "id": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
-    "language": "\u2014",
-    "name": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:42:41Z",
-    "url": "https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer"
-  },
-  {
-    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
-    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "language": "\u2014",
-    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:42:18Z",
-    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
   }
 ]
