@@ -1,12 +1,12 @@
 [
   {
-    "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task exe",
-    "id": "Josh-XT/AGiXT",
+    "description": "A framework with a strict protocol core for governed, stateful AI work.",
+    "id": "maridlabsai/jini",
     "language": "Python",
-    "name": "Josh-XT/AGiXT",
-    "stars": 3192,
-    "updated_at": "2026-05-29T17:21:24Z",
-    "url": "https://github.com/Josh-XT/AGiXT"
+    "name": "maridlabsai/jini",
+    "stars": 1,
+    "updated_at": "2026-05-29T17:43:45Z",
+    "url": "https://github.com/maridlabsai/jini"
   },
   {
     "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
@@ -14,8 +14,44 @@
     "language": "Go",
     "name": "SSC-STUDIO/Ai-Model-Gateway",
     "stars": 2,
-    "updated_at": "2026-05-29T17:20:49Z",
+    "updated_at": "2026-05-29T17:38:45Z",
     "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:36:34Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5334,
+    "updated_at": "2026-05-29T17:32:32Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task exe",
+    "id": "Josh-XT/AGiXT",
+    "language": "Python",
+    "name": "Josh-XT/AGiXT",
+    "stars": 3192,
+    "updated_at": "2026-05-29T17:21:24Z",
+    "url": "https://github.com/Josh-XT/AGiXT"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T17:16:56Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T17:15:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -85,18 +112,9 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9907,
+    "stars": 9908,
     "updated_at": "2026-05-29T17:12:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A framework with a strict protocol core for governed, stateful AI work.",
-    "id": "maridlabsai/jini",
-    "language": "Python",
-    "name": "maridlabsai/jini",
-    "stars": 1,
-    "updated_at": "2026-05-29T17:11:55Z",
-    "url": "https://github.com/maridlabsai/jini"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -333,15 +351,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:47:36Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -428,7 +437,7 @@
     "language": "Rust",
     "name": "techlab-innov/llmtrace",
     "stars": 49,
-    "updated_at": "2026-05-29T16:40:50Z",
+    "updated_at": "2026-05-29T17:39:47Z",
     "url": "https://github.com/techlab-innov/llmtrace"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T16:40:38Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1688,
-    "updated_at": "2026-05-29T16:39:48Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
   }
 ]
