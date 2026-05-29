@@ -1,5 +1,68 @@
 [
   {
+    "description": "The AI librarian skill with complete oversight for handovers, source-of-truth discipline, memory hygiene and cross-tool ",
+    "id": "Phr33fall/context-os",
+    "language": "\u2014",
+    "name": "Phr33fall/context-os",
+    "stars": 0,
+    "updated_at": "2026-05-29T08:12:39Z",
+    "url": "https://github.com/Phr33fall/context-os"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-29T08:09:23Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28174,
+    "updated_at": "2026-05-29T08:08:26Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
+    "id": "kimtth/awesome-azure-openai-llm",
+    "language": "Python",
+    "name": "kimtth/awesome-azure-openai-llm",
+    "stars": 402,
+    "updated_at": "2026-05-29T08:08:19Z",
+    "url": "https://github.com/kimtth/awesome-azure-openai-llm"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-05-29T08:02:51Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26177,
+    "updated_at": "2026-05-29T08:02:15Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T08:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T07:53:19Z",
     "url": "https://github.com/AlexDuchDev/agentic-product-standard"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28173,
-    "updated_at": "2026-05-29T08:00:26Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -180,15 +234,6 @@
     "url": "https://github.com/EnforceGrid/steer"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T07:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -207,15 +252,6 @@
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
   },
   {
-    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
-    "id": "kimtth/awesome-azure-openai-llm",
-    "language": "Python",
-    "name": "kimtth/awesome-azure-openai-llm",
-    "stars": 402,
-    "updated_at": "2026-05-29T07:44:06Z",
-    "url": "https://github.com/kimtth/awesome-azure-openai-llm"
-  },
-  {
     "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
     "id": "langfuse/langfuse-js",
     "language": "TypeScript",
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T07:40:03Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26178,
-    "updated_at": "2026-05-29T07:59:15Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
@@ -292,7 +319,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19398,
+    "stars": 19397,
     "updated_at": "2026-05-29T07:36:33Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -322,15 +349,6 @@
     "stars": 64,
     "updated_at": "2026-05-29T07:35:08Z",
     "url": "https://github.com/langfuse/langfuse-java"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-29T07:34:23Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
@@ -400,7 +418,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2155,
+    "stars": 2156,
     "updated_at": "2026-05-29T07:30:35Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9890,
-    "updated_at": "2026-05-29T07:29:03Z",
+    "updated_at": "2026-05-29T08:12:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T07:28:42Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48639,
-    "updated_at": "2026-05-29T07:26:49Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "SkeinRank - Explainable terminology normalization and attribute enrichment for technical search",
-    "id": "SkeinRank/skeinrank",
-    "language": "Python",
-    "name": "SkeinRank/skeinrank",
-    "stars": 1,
-    "updated_at": "2026-05-29T07:26:14Z",
-    "url": "https://github.com/SkeinRank/skeinrank"
   }
 ]
