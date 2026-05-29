@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-29 12:45 UTC
+> ⏰ Last updated: 2026-05-29 12:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SSC-STUDIO/Ai-Model-Gateway](https://github.com/SSC-STUDIO/Ai-Model-Gateway) | 2 | Go | 2026-05-29 | Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb |
-| 2 | [Gmail1995/llm-course](https://github.com/Gmail1995/llm-course) | 0 | — | 2026-05-29 | 🧩 Explore LLM essentials, build advanced models, and develop applications with this comprehensive course on large langua |
+| 1 | [fengjikui/langgraph-memory-inspector](https://github.com/fengjikui/langgraph-memory-inspector) | 0 | Python | 2026-05-29 | Local-first DevTools for debugging LangGraph checkpoints and agent memory. |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-29 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
 | 3 | [sandipanseal/AegisOps-AI](https://github.com/sandipanseal/AegisOps-AI) | 0 | Python | 2026-05-29 | Agentic GenAI incident commander — multi-agent RCA, evidence from logs/metrics/Kubernetes/deployment history, safety-cla |
-| 4 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5329 | Go | 2026-05-29 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 5 | [fengjikui/langgraph-memory-inspector](https://github.com/fengjikui/langgraph-memory-inspector) | 0 | Python | 2026-05-29 | Local-first DevTools for debugging LangGraph checkpoints and agent memory. |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21702 | TypeScript | 2026-05-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 7 | [ghaithmhmm/LLM-Training](https://github.com/ghaithmhmm/LLM-Training) | 0 | Python | 2026-05-29 |  |
-| 8 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3273 | TypeScript | 2026-05-29 | The platform for LLM evaluations and AI agent testing |
-| 9 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 17 | TypeScript | 2026-05-29 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 10 | [aekta113/ai-sre](https://github.com/aekta113/ai-sre) | 0 | Python | 2026-05-29 |  |
-| 11 | [jimyoshida/ubuntu2604_on_macmini2014](https://github.com/jimyoshida/ubuntu2604_on_macmini2014) | 1 | Shell | 2026-05-29 | Ansible playbooks for automated personal-use Ubuntu 26.04 agent environment setup with Grafana LGTM stack |
-| 12 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 3 | Rust | 2026-05-29 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 13 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 354 | Python | 2026-05-29 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
-| 14 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-29 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [SSC-STUDIO/Ai-Model-Gateway](https://github.com/SSC-STUDIO/Ai-Model-Gateway) | 2 | Go | 2026-05-29 | Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb |
+| 5 | [Gmail1995/llm-course](https://github.com/Gmail1995/llm-course) | 0 | — | 2026-05-29 | 🧩 Explore LLM essentials, build advanced models, and develop applications with this comprehensive course on large langua |
+| 6 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5329 | Go | 2026-05-29 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21702 | TypeScript | 2026-05-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 8 | [ghaithmhmm/LLM-Training](https://github.com/ghaithmhmm/LLM-Training) | 0 | Python | 2026-05-29 |  |
+| 9 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3273 | TypeScript | 2026-05-29 | The platform for LLM evaluations and AI agent testing |
+| 10 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 17 | TypeScript | 2026-05-29 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 11 | [aekta113/ai-sre](https://github.com/aekta113/ai-sre) | 0 | Python | 2026-05-29 |  |
+| 12 | [jimyoshida/ubuntu2604_on_macmini2014](https://github.com/jimyoshida/ubuntu2604_on_macmini2014) | 1 | Shell | 2026-05-29 | Ansible playbooks for automated personal-use Ubuntu 26.04 agent environment setup with Grafana LGTM stack |
+| 13 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 3 | Rust | 2026-05-29 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 14 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 354 | Python | 2026-05-29 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
 | 15 | [SkeinRank/skeinrank](https://github.com/SkeinRank/skeinrank) | 1 | Python | 2026-05-29 | SkeinRank - Explainable terminology normalization and attribute enrichment for technical search |
 | 16 | [BrandonChT/ai-character-engine](https://github.com/BrandonChT/ai-character-engine) | 4 | Python | 2026-05-29 | 🤖 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the |
 | 17 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-05-29 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
