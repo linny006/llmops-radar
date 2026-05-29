@@ -1,5 +1,59 @@
 [
   {
+    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
+    "id": "SSC-STUDIO/Ai-Model-Gateway",
+    "language": "Go",
+    "name": "SSC-STUDIO/Ai-Model-Gateway",
+    "stars": 2,
+    "updated_at": "2026-05-29T14:43:44Z",
+    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
+  },
+  {
+    "description": "Local-first DevTools for debugging LangGraph checkpoints and agent memory.",
+    "id": "fengjikui/langgraph-memory-inspector",
+    "language": "Python",
+    "name": "fengjikui/langgraph-memory-inspector",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:41:45Z",
+    "url": "https://github.com/fengjikui/langgraph-memory-inspector"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19399,
+    "updated_at": "2026-05-29T14:43:55Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Agentic AI incident commander \u2014 multi-agent RCA, evidence from logs/metrics/Kubernetes/deployment history, safety-classi",
+    "id": "sandipanseal/AegisOps-AI",
+    "language": "Python",
+    "name": "sandipanseal/AegisOps-AI",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:34:41Z",
+    "url": "https://github.com/sandipanseal/AegisOps-AI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:30:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:30:33Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -23,17 +77,17 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28188,
-    "updated_at": "2026-05-29T14:29:33Z",
+    "updated_at": "2026-05-29T14:43:22Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Local-first DevTools for debugging LangGraph checkpoints and agent memory.",
-    "id": "fengjikui/langgraph-memory-inspector",
+    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
+    "id": "BlazeUp-AI/Observal",
     "language": "Python",
-    "name": "fengjikui/langgraph-memory-inspector",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:25:36Z",
-    "url": "https://github.com/fengjikui/langgraph-memory-inspector"
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1682,
+    "updated_at": "2026-05-29T14:25:51Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
     "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
@@ -76,7 +130,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5331,
+    "stars": 5332,
     "updated_at": "2026-05-29T14:23:57Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:22:47Z",
     "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
-    "id": "SSC-STUDIO/Ai-Model-Gateway",
-    "language": "Go",
-    "name": "SSC-STUDIO/Ai-Model-Gateway",
-    "stars": 2,
-    "updated_at": "2026-05-29T14:19:08Z",
-    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -135,20 +180,11 @@
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:15:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48674,
+    "stars": 48676,
     "updated_at": "2026-05-29T14:15:15Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3273,
-    "updated_at": "2026-05-29T14:20:24Z",
+    "updated_at": "2026-05-29T14:44:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -243,6 +279,15 @@
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21703,
+    "updated_at": "2026-05-29T14:09:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -286,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:02:08Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Observal is a self hosted Docker Hub for human-in-the-loop agents with built in observability and AI insights",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1681,
-    "updated_at": "2026-05-29T14:25:51Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -346,7 +382,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26185,
+    "stars": 26186,
     "updated_at": "2026-05-29T13:56:49Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -405,15 +441,6 @@
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19399,
-    "updated_at": "2026-05-29T14:28:04Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
     "id": "ashmedanraj/langfuse-eks-production",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T13:53:31Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:52:58Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "The local-first control plane for AI work",
-    "id": "lgrossi/noether",
-    "language": "Rust",
-    "name": "lgrossi/noether",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:03:36Z",
-    "url": "https://github.com/lgrossi/noether"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-05-29T13:49:31Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
   }
 ]
