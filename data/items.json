@@ -1,5 +1,50 @@
 [
   {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:43:22Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "The local-first control plane for AI work",
+    "id": "lgrossi/noether",
+    "language": "Rust",
+    "name": "lgrossi/noether",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:42:14Z",
+    "url": "https://github.com/lgrossi/noether"
+  },
+  {
+    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
+    "id": "SSC-STUDIO/Ai-Model-Gateway",
+    "language": "Go",
+    "name": "SSC-STUDIO/Ai-Model-Gateway",
+    "stars": 2,
+    "updated_at": "2026-05-30T05:38:25Z",
+    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48728,
+    "updated_at": "2026-05-30T05:43:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -7,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:30:15Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
-    "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:29:24Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -32,7 +68,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3274,
-    "updated_at": "2026-05-30T05:28:50Z",
+    "updated_at": "2026-05-30T05:44:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -72,15 +108,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48727,
-    "updated_at": "2026-05-30T05:25:54Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
     "id": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
     "language": "\u2014",
@@ -108,15 +135,6 @@
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
   },
   {
-    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
-    "id": "SSC-STUDIO/Ai-Model-Gateway",
-    "language": "Go",
-    "name": "SSC-STUDIO/Ai-Model-Gateway",
-    "stars": 2,
-    "updated_at": "2026-05-30T05:19:35Z",
-    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
-  },
-  {
     "description": "A framework with a strict protocol core for governed, stateful AI work.",
     "id": "maridlabsai/jini",
     "language": "Python",
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:15:37Z",
     "url": "https://github.com/germanic-hwangho835/FolkLite"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T04:47:52Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:46:44Z",
-    "url": "https://github.com/degen1322/agentic-template"
   }
 ]
