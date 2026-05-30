@@ -1,12 +1,138 @@
 [
   {
+    "description": "A framework with a strict protocol core for governed, stateful AI work.",
+    "id": "maridlabsai/jini",
+    "language": "Python",
+    "name": "maridlabsai/jini",
+    "stars": 1,
+    "updated_at": "2026-05-30T15:54:45Z",
+    "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-05-30T15:52:25Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 3,
+    "updated_at": "2026-05-30T15:51:44Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "\ud83d\udee0 Build enterprise-grade AI agents with MaxKB, an open-source platform designed for simplicity and performance.",
+    "id": "carglezfer/MaxKB",
+    "language": "Python",
+    "name": "carglezfer/MaxKB",
+    "stars": 1,
+    "updated_at": "2026-05-30T15:51:43Z",
+    "url": "https://github.com/carglezfer/MaxKB"
+  },
+  {
+    "description": "\ud83c\udf10 Explore LLM agents and their ecosystems with this comprehensive handbook for understanding, developing, and implementi",
+    "id": "Herry259/LLM-Agents-Ecosystem-Handbook",
+    "language": "Python",
+    "name": "Herry259/LLM-Agents-Ecosystem-Handbook",
+    "stars": 1,
+    "updated_at": "2026-05-30T15:50:43Z",
+    "url": "https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook"
+  },
+  {
+    "description": "\ud83c\udf99\ufe0f Enhance customer interactions with a real-time AI voice agent, utilizing OpenAI's Realtime API and Twilio for smarter",
+    "id": "damn124/ai-calling-agent",
+    "language": "Python",
+    "name": "damn124/ai-calling-agent",
+    "stars": 1,
+    "updated_at": "2026-05-30T15:49:52Z",
+    "url": "https://github.com/damn124/ai-calling-agent"
+  },
+  {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 445,
+    "updated_at": "2026-05-30T15:49:41Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "\ud83e\udd16 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus",
+    "id": "Thiagoopro/AI-Agent-Framework",
+    "language": "Python",
+    "name": "Thiagoopro/AI-Agent-Framework",
+    "stars": 0,
+    "updated_at": "2026-05-30T15:48:33Z",
+    "url": "https://github.com/Thiagoopro/AI-Agent-Framework"
+  },
+  {
+    "description": "\ud83d\udcda Explore essential resources for learning Generative AI, covering foundational concepts to advanced topics with curated",
+    "id": "hwgdfkchw/Generative-AI-Essentials",
+    "language": "\u2014",
+    "name": "hwgdfkchw/Generative-AI-Essentials",
+    "stars": 2,
+    "updated_at": "2026-05-30T15:48:07Z",
+    "url": "https://github.com/hwgdfkchw/Generative-AI-Essentials"
+  },
+  {
+    "description": "\ud83e\udd16 Discover AI tools and techniques to optimize DevOps processes through practical challenges and hands-on projects in th",
+    "id": "monim279/AI-Powered-DevOps",
+    "language": "Python",
+    "name": "monim279/AI-Powered-DevOps",
+    "stars": 4,
+    "updated_at": "2026-05-30T15:47:42Z",
+    "url": "https://github.com/monim279/AI-Powered-DevOps"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-05-30T15:47:39Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 34,
+    "updated_at": "2026-05-30T15:47:35Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 51,
-    "updated_at": "2026-05-30T15:43:18Z",
+    "updated_at": "2026-05-30T15:50:38Z",
     "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21722,
+    "updated_at": "2026-05-30T15:59:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T15:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -41,7 +167,7 @@
     "language": "Python",
     "name": "victoralfred/whatifd",
     "stars": 2,
-    "updated_at": "2026-05-30T15:39:38Z",
+    "updated_at": "2026-05-30T15:58:37Z",
     "url": "https://github.com/victoralfred/whatifd"
   },
   {
@@ -52,15 +178,6 @@
     "stars": 5,
     "updated_at": "2026-05-30T15:38:56Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T15:37:00Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
@@ -88,33 +205,6 @@
     "stars": 2,
     "updated_at": "2026-05-30T15:34:46Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "A framework with a strict protocol core for governed, stateful AI work.",
-    "id": "maridlabsai/jini",
-    "language": "Python",
-    "name": "maridlabsai/jini",
-    "stars": 1,
-    "updated_at": "2026-05-30T15:31:34Z",
-    "url": "https://github.com/maridlabsai/jini"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 34,
-    "updated_at": "2026-05-30T15:29:43Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21721,
-    "updated_at": "2026-05-30T15:30:54Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Salary benchmarks, CI/CD regression testing pipelines, OpenTelemetry standards, and enterprise rubrics for LLM Evals Eng",
@@ -158,7 +248,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5351,
-    "updated_at": "2026-05-30T15:42:39Z",
+    "updated_at": "2026-05-30T15:59:56Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -356,97 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3274,
-    "updated_at": "2026-05-30T15:42:00Z",
+    "updated_at": "2026-05-30T15:57:21Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 1,
-    "updated_at": "2026-05-30T14:51:57Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 0,
-    "updated_at": "2026-05-30T14:51:22Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-05-30T14:51:22Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "CLI audit tool for OpenAI-compatible LLM gateways: price, latency, correctness, and publish readiness.",
-    "id": "Lling0000/llm-gateway-audit",
-    "language": "Python",
-    "name": "Lling0000/llm-gateway-audit",
-    "stars": 1,
-    "updated_at": "2026-05-30T14:50:43Z",
-    "url": "https://github.com/Lling0000/llm-gateway-audit"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-05-30T14:50:43Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
-    "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 100,
-    "updated_at": "2026-05-30T14:50:15Z",
-    "url": "https://github.com/OrlojHQ/orloj"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 0,
-    "updated_at": "2026-05-30T14:49:32Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-05-30T14:48:55Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-05-30T14:48:45Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-05-30T14:46:43Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   }
 ]
