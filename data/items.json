@@ -1,21 +1,75 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26191,
-    "updated_at": "2026-05-30T00:14:21Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
     "name": "homemade-software-inc/completion-kit",
     "stars": 1,
-    "updated_at": "2026-05-30T00:07:28Z",
+    "updated_at": "2026-05-30T00:29:57Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
+    "id": "SSC-STUDIO/Ai-Model-Gateway",
+    "language": "Go",
+    "name": "SSC-STUDIO/Ai-Model-Gateway",
+    "stars": 2,
+    "updated_at": "2026-05-30T00:29:07Z",
+    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
+  },
+  {
+    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
+    "id": "Justin0504/federated-agent-audit",
+    "language": "Python",
+    "name": "Justin0504/federated-agent-audit",
+    "stars": 2,
+    "updated_at": "2026-05-30T00:24:34Z",
+    "url": "https://github.com/Justin0504/federated-agent-audit"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 18,
+    "updated_at": "2026-05-30T00:20:44Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Production-style LangChain and LangGraph API for diagnosing failing AI systems, generating recovery plans, scoring risk,",
+    "id": "JasonAlanJames/enterprise-ai-recovery-orchestrator",
+    "language": "Python",
+    "name": "JasonAlanJames/enterprise-ai-recovery-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-30T00:18:28Z",
+    "url": "https://github.com/JasonAlanJames/enterprise-ai-recovery-orchestrator"
+  },
+  {
+    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
+    "id": "techlab-innov/llmtrace",
+    "language": "Rust",
+    "name": "techlab-innov/llmtrace",
+    "stars": 49,
+    "updated_at": "2026-05-30T00:18:25Z",
+    "url": "https://github.com/techlab-innov/llmtrace"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T00:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26191,
+    "updated_at": "2026-05-30T00:26:50Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -25,24 +79,6 @@
     "stars": 8,
     "updated_at": "2026-05-30T00:07:26Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T00:07:17Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
-    "id": "SSC-STUDIO/Ai-Model-Gateway",
-    "language": "Go",
-    "name": "SSC-STUDIO/Ai-Model-Gateway",
-    "stars": 2,
-    "updated_at": "2026-05-30T00:06:51Z",
-    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -59,7 +95,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 7459,
-    "updated_at": "2026-05-30T00:06:23Z",
+    "updated_at": "2026-05-30T00:19:06Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -70,6 +106,15 @@
     "stars": 1,
     "updated_at": "2026-05-30T00:06:14Z",
     "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48710,
+    "updated_at": "2026-05-30T00:26:54Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "SkeinRank - Explainable terminology normalization and attribute enrichment for technical search",
@@ -86,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21711,
-    "updated_at": "2026-05-30T00:07:23Z",
+    "updated_at": "2026-05-30T00:28:35Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -94,27 +139,9 @@
     "id": "eminem5410/devmind-platform",
     "language": "Python",
     "name": "eminem5410/devmind-platform",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-05-29T23:46:35Z",
     "url": "https://github.com/eminem5410/devmind-platform"
-  },
-  {
-    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
-    "id": "Justin0504/federated-agent-audit",
-    "language": "Python",
-    "name": "Justin0504/federated-agent-audit",
-    "stars": 2,
-    "updated_at": "2026-05-29T23:45:43Z",
-    "url": "https://github.com/Justin0504/federated-agent-audit"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 18,
-    "updated_at": "2026-05-29T23:42:31Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Static release checks for tool-using AI agents. Open-source CLI + GitHub Action. Scans MCP, OpenAPI, OpenAI Agents SDK, ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T23:03:45Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:03:41Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:03:33Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:02:04Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
