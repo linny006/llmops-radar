@@ -5,8 +5,44 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2158,
-    "updated_at": "2026-05-30T06:12:15Z",
+    "updated_at": "2026-05-30T06:29:54Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 34,
+    "updated_at": "2026-05-30T06:24:55Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:24:39Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48732,
+    "updated_at": "2026-05-30T06:23:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The local-first control plane for AI work",
+    "id": "lgrossi/noether",
+    "language": "Rust",
+    "name": "lgrossi/noether",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:20:29Z",
+    "url": "https://github.com/lgrossi/noether"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-30T06:00:27Z",
+    "updated_at": "2026-05-30T06:15:24Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-05-30T05:57:44Z",
     "url": "https://github.com/maridlabsai/jini"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48731,
-    "updated_at": "2026-05-30T06:09:04Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Production-ready Conversational RAG system using FastAPI, LangChain, FAISS, Groq/Gemini, Docker, AWS ECS Fargate, and La",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:52:26Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
-  },
-  {
-    "description": "The local-first control plane for AI work",
-    "id": "lgrossi/noether",
-    "language": "Rust",
-    "name": "lgrossi/noether",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:48:20Z",
-    "url": "https://github.com/lgrossi/noether"
   },
   {
     "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T04:51:28Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:51:25Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:51:17Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
   }
 ]
