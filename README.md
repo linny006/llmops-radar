@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-30 17:45 UTC
+> ⏰ Last updated: 2026-05-30 17:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Orlyoxidized462/py-prompt-versioner](https://github.com/Orlyoxidized462/py-prompt-versioner) | 0 | Python | 2026-05-30 | Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL |
-| 2 | [pencaudal526/system-design-bible](https://github.com/pencaudal526/system-design-bible) | 1 | — | 2026-05-30 | Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer |
-| 3 | [Impure-platen433/crabllm](https://github.com/Impure-platen433/crabllm) | 0 | Rust | 2026-05-30 | Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway |
-| 4 | [recordrnase224/brix-protocol](https://github.com/recordrnase224/brix-protocol) | 0 | Python | 2026-05-30 | Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ |
-| 5 | [Citrous-districtline59/agent-trace](https://github.com/Citrous-districtline59/agent-trace) | 0 | Python | 2026-05-30 | Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful |
-| 6 | [stevenmichiels/openclaw-vps-skill](https://github.com/stevenmichiels/openclaw-vps-skill) | 0 | Jinja | 2026-05-30 | Sanitized deployment template for running OpenClaw on a hardened Hetzner VPS |
-| 7 | [thesecretrapper786-netizen/catalyst-n1](https://github.com/thesecretrapper786-netizen/catalyst-n1) | 0 | — | 2026-05-30 | Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne |
-| 8 | [downpaymentbulbul49/plano_estudos_sre](https://github.com/downpaymentbulbul49/plano_estudos_sre) | 0 | — | 2026-05-30 | Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top |
-| 9 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-30 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9921 | Python | 2026-05-30 | AI Observability & Evaluation |
-| 11 | [stevenmichiels/dual-agent-vps](https://github.com/stevenmichiels/dual-agent-vps) | 2 | Shell | 2026-05-30 | A hardened Hetzner VPS workbench for dual-agent coding workflows over SSH, tmux, and Tailscale. |
-| 12 | [ivanmoralesf2015-sudo/enterprise-governance-toolkit](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit) | 0 | — | 2026-05-30 | Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g |
-| 13 | [Trantu6570/LitPOS-Apps-Script](https://github.com/Trantu6570/LitPOS-Apps-Script) | 0 | HTML | 2026-05-30 | Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog |
-| 14 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21722 | TypeScript | 2026-05-30 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 15 | [ydavidcm9-wq/vigil](https://github.com/ydavidcm9-wq/vigil) | 0 | JavaScript | 2026-05-30 | Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking, |
-| 16 | [kawaiirashi/llm-retry](https://github.com/kawaiirashi/llm-retry) | 0 | C++ | 2026-05-30 | Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct |
-| 17 | [wahhyun/llm-eval](https://github.com/wahhyun/llm-eval) | 0 | C++ | 2026-05-30 | Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct |
-| 18 | [islaagnet27/llm-cost](https://github.com/islaagnet27/llm-cost) | 0 | C++ | 2026-05-30 | Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm |
-| 19 | [Anbumani08/agentic-coding-workflow](https://github.com/Anbumani08/agentic-coding-workflow) | 0 | HTML | 2026-05-30 | Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas |
-| 20 | [ashmedanraj/langfuse-eks-production](https://github.com/ashmedanraj/langfuse-eks-production) | 0 | — | 2026-05-30 | Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi |
-| 21 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48768 | Python | 2026-05-30 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 22 | [sarrahw23/deploy-guide](https://github.com/sarrahw23/deploy-guide) | 0 | — | 2026-05-30 | Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc |
-| 23 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [Orlyoxidized462/py-prompt-versioner](https://github.com/Orlyoxidized462/py-prompt-versioner) | 0 | Python | 2026-05-30 | Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL |
+| 3 | [pencaudal526/system-design-bible](https://github.com/pencaudal526/system-design-bible) | 1 | — | 2026-05-30 | Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer |
+| 4 | [Impure-platen433/crabllm](https://github.com/Impure-platen433/crabllm) | 0 | Rust | 2026-05-30 | Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway |
+| 5 | [recordrnase224/brix-protocol](https://github.com/recordrnase224/brix-protocol) | 0 | Python | 2026-05-30 | Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ |
+| 6 | [Citrous-districtline59/agent-trace](https://github.com/Citrous-districtline59/agent-trace) | 0 | Python | 2026-05-30 | Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful |
+| 7 | [stevenmichiels/openclaw-vps-skill](https://github.com/stevenmichiels/openclaw-vps-skill) | 0 | Jinja | 2026-05-30 | Sanitized deployment template for running OpenClaw on a hardened Hetzner VPS |
+| 8 | [thesecretrapper786-netizen/catalyst-n1](https://github.com/thesecretrapper786-netizen/catalyst-n1) | 0 | — | 2026-05-30 | Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne |
+| 9 | [downpaymentbulbul49/plano_estudos_sre](https://github.com/downpaymentbulbul49/plano_estudos_sre) | 0 | — | 2026-05-30 | Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top |
+| 10 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-30 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9921 | Python | 2026-05-30 | AI Observability & Evaluation |
+| 12 | [stevenmichiels/dual-agent-vps](https://github.com/stevenmichiels/dual-agent-vps) | 2 | Shell | 2026-05-30 | A hardened Hetzner VPS workbench for dual-agent coding workflows over SSH, tmux, and Tailscale. |
+| 13 | [ivanmoralesf2015-sudo/enterprise-governance-toolkit](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit) | 0 | — | 2026-05-30 | Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g |
+| 14 | [Trantu6570/LitPOS-Apps-Script](https://github.com/Trantu6570/LitPOS-Apps-Script) | 0 | HTML | 2026-05-30 | Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog |
+| 15 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21722 | TypeScript | 2026-05-30 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 16 | [ydavidcm9-wq/vigil](https://github.com/ydavidcm9-wq/vigil) | 0 | JavaScript | 2026-05-30 | Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking, |
+| 17 | [kawaiirashi/llm-retry](https://github.com/kawaiirashi/llm-retry) | 0 | C++ | 2026-05-30 | Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct |
+| 18 | [wahhyun/llm-eval](https://github.com/wahhyun/llm-eval) | 0 | C++ | 2026-05-30 | Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct |
+| 19 | [islaagnet27/llm-cost](https://github.com/islaagnet27/llm-cost) | 0 | C++ | 2026-05-30 | Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm |
+| 20 | [Anbumani08/agentic-coding-workflow](https://github.com/Anbumani08/agentic-coding-workflow) | 0 | HTML | 2026-05-30 | Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas |
+| 21 | [ashmedanraj/langfuse-eks-production](https://github.com/ashmedanraj/langfuse-eks-production) | 0 | — | 2026-05-30 | Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi |
+| 22 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48768 | Python | 2026-05-30 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 23 | [sarrahw23/deploy-guide](https://github.com/sarrahw23/deploy-guide) | 0 | — | 2026-05-30 | Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc |
 | 24 | [redd357magnum-ship-it/-SuperAgent-Hub](https://github.com/redd357magnum-ship-it/-SuperAgent-Hub) | 2 | Python | 2026-05-30 | Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f |
 | 25 | [rvhn/rest-gateway-1771918257-5](https://github.com/rvhn/rest-gateway-1771918257-5) | 0 | — | 2026-05-30 | Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha |
 | 26 | [Firmancaaa/rest-gateway-1771916753-3](https://github.com/Firmancaaa/rest-gateway-1771916753-3) | 0 | — | 2026-05-30 | Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to |
