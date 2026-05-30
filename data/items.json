@@ -1,12 +1,57 @@
 [
   {
+    "description": "A framework with a strict protocol core for governed, stateful AI work.",
+    "id": "maridlabsai/jini",
+    "language": "Python",
+    "name": "maridlabsai/jini",
+    "stars": 1,
+    "updated_at": "2026-05-30T05:57:44Z",
+    "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48731,
+    "updated_at": "2026-05-30T05:56:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-ready Conversational RAG system using FastAPI, LangChain, FAISS, Groq/Gemini, Docker, AWS ECS Fargate, and La",
+    "id": "Ahamed-Safnas/MultiDocChat",
+    "language": "Jupyter Notebook",
+    "name": "Ahamed-Safnas/MultiDocChat",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:55:45Z",
+    "url": "https://github.com/Ahamed-Safnas/MultiDocChat"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 4,
+    "updated_at": "2026-05-30T05:52:30Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
     "id": "malkreide/zh-education-mcp",
     "language": "Python",
     "name": "malkreide/zh-education-mcp",
     "stars": 0,
-    "updated_at": "2026-05-30T05:43:22Z",
+    "updated_at": "2026-05-30T05:52:26Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The local-first control plane for AI work",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "lgrossi/noether",
     "stars": 0,
-    "updated_at": "2026-05-30T05:42:14Z",
+    "updated_at": "2026-05-30T05:48:20Z",
     "url": "https://github.com/lgrossi/noether"
   },
   {
@@ -25,24 +70,6 @@
     "stars": 2,
     "updated_at": "2026-05-30T05:38:25Z",
     "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48728,
-    "updated_at": "2026-05-30T05:43:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3274,
-    "updated_at": "2026-05-30T05:44:19Z",
+    "updated_at": "2026-05-30T05:48:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:19:43Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "A framework with a strict protocol core for governed, stateful AI work.",
-    "id": "maridlabsai/jini",
-    "language": "Python",
-    "name": "maridlabsai/jini",
-    "stars": 1,
-    "updated_at": "2026-05-30T05:18:42Z",
-    "url": "https://github.com/maridlabsai/jini"
   },
   {
     "description": "black-box LLM endpoint audit CLI for provider, model, reasoning, and relay-risk signals.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T04:50:47Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:48:08Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:47:52Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
