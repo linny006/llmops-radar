@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-05-30T12:44:08Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5346,
+    "updated_at": "2026-05-30T12:42:55Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A hardened Hetzner VPS workbench for dual-agent coding workflows over SSH, tmux, and Tailscale.",
     "id": "stevenmichiels/dual-agent-vps",
     "language": "Shell",
@@ -9,15 +36,6 @@
     "url": "https://github.com/stevenmichiels/dual-agent-vps"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-30T12:23:49Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "The local-first control plane for AI work",
     "id": "lgrossi/noether",
     "language": "Rust",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T12:18:46Z",
     "url": "https://github.com/lgrossi/noether"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T12:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T11:38:45Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5346,
-    "updated_at": "2026-05-30T12:11:11Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",

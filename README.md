@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-30 12:30 UTC
+> ⏰ Last updated: 2026-05-30 12:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [stevenmichiels/dual-agent-vps](https://github.com/stevenmichiels/dual-agent-vps) | 2 | Shell | 2026-05-30 | A hardened Hetzner VPS workbench for dual-agent coding workflows over SSH, tmux, and Tailscale. |
-| 2 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 3 | Rust | 2026-05-30 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 3 | [lgrossi/noether](https://github.com/lgrossi/noether) | 0 | Rust | 2026-05-30 | The local-first control plane for AI work |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 19 | TypeScript | 2026-05-30 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 6 | [victoralfred/whatifd](https://github.com/victoralfred/whatifd) | 2 | Python | 2026-05-30 | whatif is an open experiment runner for LLM behavior changes. whatif forks production traces, replays them    with a pro |
-| 7 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-05-30 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 8 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 0 | — | 2026-05-30 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
-| 9 | [Arman7843/gemmachat-windows](https://github.com/Arman7843/gemmachat-windows) | 0 | — | 2026-05-30 | Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant. |
-| 10 | [Gowrav-M/neuralops-platform](https://github.com/Gowrav-M/neuralops-platform) | 0 | JavaScript | 2026-05-30 | Production-style AI control plane for LLM apps, RAG systems, agents, evals, costs, and policy guardrails. |
-| 11 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-05-30 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
-| 12 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5346 | Go | 2026-05-30 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 1 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 3 | Rust | 2026-05-30 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 2 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5346 | Go | 2026-05-30 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [stevenmichiels/dual-agent-vps](https://github.com/stevenmichiels/dual-agent-vps) | 2 | Shell | 2026-05-30 | A hardened Hetzner VPS workbench for dual-agent coding workflows over SSH, tmux, and Tailscale. |
+| 5 | [lgrossi/noether](https://github.com/lgrossi/noether) | 0 | Rust | 2026-05-30 | The local-first control plane for AI work |
+| 6 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 19 | TypeScript | 2026-05-30 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 7 | [victoralfred/whatifd](https://github.com/victoralfred/whatifd) | 2 | Python | 2026-05-30 | whatif is an open experiment runner for LLM behavior changes. whatif forks production traces, replays them    with a pro |
+| 8 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-05-30 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
+| 9 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 0 | — | 2026-05-30 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
+| 10 | [Arman7843/gemmachat-windows](https://github.com/Arman7843/gemmachat-windows) | 0 | — | 2026-05-30 | Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant. |
+| 11 | [Gowrav-M/neuralops-platform](https://github.com/Gowrav-M/neuralops-platform) | 0 | JavaScript | 2026-05-30 | Production-style AI control plane for LLM apps, RAG systems, agents, evals, costs, and policy guardrails. |
+| 12 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-05-30 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
 | 13 | [Prissieperoneal156/rig](https://github.com/Prissieperoneal156/rig) | 0 | — | 2026-05-30 | Coordinate multiple AI coding agents from a single interface to streamline development workflows. |
 | 14 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 0 | Python | 2026-05-30 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
 | 15 | [SynapseKit/evalci](https://github.com/SynapseKit/evalci) | 1 | Python | 2026-05-30 | LLM quality gates for every PR — run @eval_case suites automatically and block merge if quality drops below threshold |
