@@ -1,5 +1,59 @@
 [
   {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-05-29T23:57:48Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
+    "id": "SSC-STUDIO/Ai-Model-Gateway",
+    "language": "Go",
+    "name": "SSC-STUDIO/Ai-Model-Gateway",
+    "stars": 2,
+    "updated_at": "2026-05-29T23:51:50Z",
+    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21711,
+    "updated_at": "2026-05-29T23:57:33Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Linux-first CLI for AI environment diagnostics, repair & automation",
+    "id": "eminem5410/devmind-platform",
+    "language": "Python",
+    "name": "eminem5410/devmind-platform",
+    "stars": 1,
+    "updated_at": "2026-05-29T23:46:35Z",
+    "url": "https://github.com/eminem5410/devmind-platform"
+  },
+  {
+    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
+    "id": "Justin0504/federated-agent-audit",
+    "language": "Python",
+    "name": "Justin0504/federated-agent-audit",
+    "stars": 2,
+    "updated_at": "2026-05-29T23:45:43Z",
+    "url": "https://github.com/Justin0504/federated-agent-audit"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T23:45:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -9,24 +63,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-05-29T23:42:06Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Linux-first CLI for AI environment diagnostics, repair & automation",
-    "id": "eminem5410/devmind-platform",
-    "language": "Python",
-    "name": "eminem5410/devmind-platform",
-    "stars": 1,
-    "updated_at": "2026-05-29T23:41:49Z",
-    "url": "https://github.com/eminem5410/devmind-platform"
-  },
-  {
     "description": "Static release checks for tool-using AI agents. Open-source CLI + GitHub Action. Scans MCP, OpenAPI, OpenAI Agents SDK, ",
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
@@ -34,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-05-29T23:42:50Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
-    "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
-    "id": "SSC-STUDIO/Ai-Model-Gateway",
-    "language": "Go",
-    "name": "SSC-STUDIO/Ai-Model-Gateway",
-    "stars": 2,
-    "updated_at": "2026-05-29T23:38:15Z",
-    "url": "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
   },
   {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T23:30:51Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
@@ -315,15 +333,6 @@
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21711,
-    "updated_at": "2026-05-29T23:43:00Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
     "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T22:56:21Z",
     "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48709,
-    "updated_at": "2026-05-29T23:29:51Z",
-    "url": "https://github.com/BerriAI/litellm"
   }
 ]
