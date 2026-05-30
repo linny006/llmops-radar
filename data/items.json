@@ -1,5 +1,50 @@
 [
   {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-05-30T15:36:03Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 4,
+    "updated_at": "2026-05-30T15:35:59Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-05-30T15:34:46Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "A framework with a strict protocol core for governed, stateful AI work.",
+    "id": "maridlabsai/jini",
+    "language": "Python",
+    "name": "maridlabsai/jini",
+    "stars": 1,
+    "updated_at": "2026-05-30T15:31:34Z",
+    "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T15:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21721,
-    "updated_at": "2026-05-30T15:28:58Z",
+    "updated_at": "2026-05-30T15:30:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -32,17 +77,8 @@
     "language": "Python",
     "name": "evavai/evav-sdk-python",
     "stars": 0,
-    "updated_at": "2026-05-30T15:26:11Z",
+    "updated_at": "2026-05-30T15:33:15Z",
     "url": "https://github.com/evavai/evav-sdk-python"
-  },
-  {
-    "description": "A framework with a strict protocol core for governed, stateful AI work.",
-    "id": "maridlabsai/jini",
-    "language": "Python",
-    "name": "maridlabsai/jini",
-    "stars": 1,
-    "updated_at": "2026-05-30T15:22:32Z",
-    "url": "https://github.com/maridlabsai/jini"
   },
   {
     "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
@@ -63,30 +99,12 @@
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 4,
-    "updated_at": "2026-05-30T15:15:46Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T15:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5350,
-    "updated_at": "2026-05-30T15:14:19Z",
+    "stars": 5351,
+    "updated_at": "2026-05-30T15:35:01Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 51,
-    "updated_at": "2026-05-30T15:28:17Z",
+    "updated_at": "2026-05-30T15:34:23Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -302,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3274,
-    "updated_at": "2026-05-30T15:27:29Z",
+    "updated_at": "2026-05-30T15:32:46Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -409,7 +427,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48758,
+    "stars": 48759,
     "updated_at": "2026-05-30T14:45:57Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T14:44:35Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 0,
-    "updated_at": "2026-05-30T14:44:15Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 0,
-    "updated_at": "2026-05-30T14:44:00Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
