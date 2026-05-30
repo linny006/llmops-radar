@@ -1,12 +1,21 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21724,
-    "updated_at": "2026-05-30T18:46:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48768,
+    "updated_at": "2026-05-30T19:05:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The local-first control plane for AI work",
+    "id": "lgrossi/noether",
+    "language": "Rust",
+    "name": "lgrossi/noether",
+    "stars": 0,
+    "updated_at": "2026-05-30T19:07:37Z",
+    "url": "https://github.com/lgrossi/noether"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,17 +23,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-30T18:45:25Z",
+    "updated_at": "2026-05-30T19:00:23Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48768,
-    "updated_at": "2026-05-30T18:51:34Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21724,
+    "updated_at": "2026-05-30T18:46:09Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
@@ -61,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-05-30T18:08:41Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9922,
+    "updated_at": "2026-05-30T18:07:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -297,15 +315,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9921,
-    "updated_at": "2026-05-30T18:07:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "A hardened Hetzner VPS workbench for dual-agent coding workflows over SSH, tmux, and Tailscale.",
     "id": "stevenmichiels/dual-agent-vps",
     "language": "Shell",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T17:21:20Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 0,
-    "updated_at": "2026-05-30T17:21:02Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
