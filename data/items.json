@@ -1,11 +1,65 @@
 [
   {
+    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
+    "id": "runcycles/cycles-dashboard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-dashboard",
+    "stars": 0,
+    "updated_at": "2026-05-31T16:59:15Z",
+    "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "Observal is a unified platform for agent distribution, observability and insights. ",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1800,
+    "updated_at": "2026-05-31T16:59:42Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "Production-grade RAG assistant with FastAPI, Qdrant, evaluations, citations, and Docker",
+    "id": "javsanesq/rag-assistant",
+    "language": "Python",
+    "name": "javsanesq/rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-05-31T16:53:47Z",
+    "url": "https://github.com/javsanesq/rag-assistant"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 3,
+    "updated_at": "2026-05-31T16:50:35Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 3,
+    "updated_at": "2026-05-31T16:50:04Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T16:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3274,
-    "updated_at": "2026-05-31T16:43:56Z",
+    "updated_at": "2026-05-31T16:56:07Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -126,13 +180,13 @@
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T16:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Open-source AI gateway for publishing multi-model workflows as OpenAI/Claude-compatible virtual model endpoints.",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 37,
+    "updated_at": "2026-05-31T16:28:13Z",
+    "url": "https://github.com/taichuy/1flowbase"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
@@ -180,15 +234,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Production-grade RAG assistant with FastAPI, Qdrant, evaluations, citations, and Docker",
-    "id": "javsanesq/rag-assistant",
-    "language": "Python",
-    "name": "javsanesq/rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-05-31T16:25:25Z",
-    "url": "https://github.com/javsanesq/rag-assistant"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T16:23:23Z",
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "Open-source AI gateway for publishing multi-model workflows as OpenAI/Claude-compatible virtual model endpoints.",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 36,
-    "updated_at": "2026-05-31T16:28:13Z",
-    "url": "https://github.com/taichuy/1flowbase"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T16:05:57Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
-    "id": "prashar32/riskkernel",
-    "language": "Go",
-    "name": "prashar32/riskkernel",
-    "stars": 9,
-    "updated_at": "2026-05-31T16:05:46Z",
-    "url": "https://github.com/prashar32/riskkernel"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-05-31T16:04:19Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-05-31T16:02:27Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-05-31T16:00:12Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   }
 ]
