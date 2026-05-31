@@ -1,12 +1,21 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21728,
-    "updated_at": "2026-05-31T00:39:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Python SDK and MCP server for Polaxis - AI agent governance platform. Evaluate every tool call against policies in real ",
+    "id": "nishant6118/Polaxis-SDK-MCP",
+    "language": "Python",
+    "name": "nishant6118/Polaxis-SDK-MCP",
+    "stars": 1,
+    "updated_at": "2026-05-31T00:54:50Z",
+    "url": "https://github.com/nishant6118/Polaxis-SDK-MCP"
+  },
+  {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 2,
+    "updated_at": "2026-05-31T00:48:30Z",
+    "url": "https://github.com/admina-org/admina"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48779,
-    "updated_at": "2026-05-31T00:35:31Z",
+    "updated_at": "2026-05-31T00:59:26Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21728,
+    "updated_at": "2026-05-31T00:39:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Observal is a unified platform for agent distribution, observability and insights. ",
@@ -27,21 +54,12 @@
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 31,
-    "updated_at": "2026-05-31T00:16:56Z",
+    "updated_at": "2026-05-31T00:59:21Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 8,
     "updated_at": "2026-05-31T00:04:32Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 2,
-    "updated_at": "2026-05-31T00:03:50Z",
-    "url": "https://github.com/admina-org/admina"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T23:37:51Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-05-30T23:37:31Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
