@@ -1,11 +1,38 @@
 [
   {
+    "description": "Local-first observability your agent reads back. TMA1 records every LLM call, then routes what it sees into the agent's ",
+    "id": "tma1-ai/tma1",
+    "language": "Go",
+    "name": "tma1-ai/tma1",
+    "stars": 89,
+    "updated_at": "2026-05-31T13:45:17Z",
+    "url": "https://github.com/tma1-ai/tma1"
+  },
+  {
+    "description": "A hardened Hetzner VPS workbench for dual-agent coding workflows over SSH, tmux, and Tailscale.",
+    "id": "stevenmichiels/dual-agent-vps",
+    "language": "Shell",
+    "name": "stevenmichiels/dual-agent-vps",
+    "stars": 2,
+    "updated_at": "2026-05-31T13:42:39Z",
+    "url": "https://github.com/stevenmichiels/dual-agent-vps"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 4,
+    "updated_at": "2026-05-31T13:37:47Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
     "description": "Observal is a unified platform for agent distribution, observability and insights. ",
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
     "stars": 1794,
-    "updated_at": "2026-05-31T13:29:38Z",
+    "updated_at": "2026-05-31T13:36:07Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 19,
-    "updated_at": "2026-05-31T13:24:34Z",
+    "updated_at": "2026-05-31T13:33:15Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-31T13:15:25Z",
+    "updated_at": "2026-05-31T13:30:22Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -45,15 +72,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 4,
-    "updated_at": "2026-05-31T13:05:39Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
     "description": "5-case free starter for the AI Agent QA Eval Pack. Vendor-agnostic YAML eval cases for tool-using LLM agents (LangChain ",
     "id": "weiseer/ai-agent-qa-eval-pack-starter",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T13:01:52Z",
     "url": "https://github.com/weiseer/ai-agent-qa-eval-pack-starter"
-  },
-  {
-    "description": "A hardened Hetzner VPS workbench for dual-agent coding workflows over SSH, tmux, and Tailscale.",
-    "id": "stevenmichiels/dual-agent-vps",
-    "language": "Shell",
-    "name": "stevenmichiels/dual-agent-vps",
-    "stars": 2,
-    "updated_at": "2026-05-31T12:50:42Z",
-    "url": "https://github.com/stevenmichiels/dual-agent-vps"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T12:03:57Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-05-31T12:03:41Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
   }
 ]
