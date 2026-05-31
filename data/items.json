@@ -1,20 +1,65 @@
 [
   {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 1,
+    "updated_at": "2026-05-31T01:29:10Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 19,
+    "updated_at": "2026-05-31T01:27:43Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 5,
+    "updated_at": "2026-05-31T01:25:50Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-05-31T01:23:12Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
     "description": "Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot.",
     "id": "shinjaehyun20/ai-workflow-kits",
     "language": "Python",
     "name": "shinjaehyun20/ai-workflow-kits",
     "stars": 1,
-    "updated_at": "2026-05-31T01:08:08Z",
+    "updated_at": "2026-05-31T01:22:07Z",
     "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-05-31T01:22:03Z",
+    "url": "https://github.com/tenemos/langwatch"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48780,
-    "updated_at": "2026-05-31T01:15:16Z",
+    "stars": 48781,
+    "updated_at": "2026-05-31T01:27:59Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-31T01:00:24Z",
+    "updated_at": "2026-05-31T01:15:23Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -50,7 +95,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21728,
-    "updated_at": "2026-05-31T01:04:21Z",
+    "updated_at": "2026-05-31T01:19:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T00:03:12Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 19,
-    "updated_at": "2026-05-31T00:01:37Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T23:45:01Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-05-30T23:43:34Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 0,
-    "updated_at": "2026-05-30T23:42:48Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Custom LLM trained from scratch on resume data using GPT-2 and LoRA \u2014 deployed live on HuggingFace \u2014 built by a DevOps E",
-    "id": "mgkgopikrishna/resume-ai-llm",
-    "language": "\u2014",
-    "name": "mgkgopikrishna/resume-ai-llm",
-    "stars": 0,
-    "updated_at": "2026-05-30T23:40:48Z",
-    "url": "https://github.com/mgkgopikrishna/resume-ai-llm"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-05-30T23:39:34Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
   }
 ]
