@@ -1,10 +1,37 @@
 [
   {
+    "description": "Build, Manage and Deploy AI/ML Systems",
+    "id": "Netflix/metaflow",
+    "language": "Python",
+    "name": "Netflix/metaflow",
+    "stars": 10110,
+    "updated_at": "2026-05-31T20:34:51Z",
+    "url": "https://github.com/Netflix/metaflow"
+  },
+  {
+    "description": "Generate deterministic pytest tests for your AI agents from one real run, then replay them in CI for $0. Fast, flake-fre",
+    "id": "beyhangl/evalcraft",
+    "language": "Python",
+    "name": "beyhangl/evalcraft",
+    "stars": 5,
+    "updated_at": "2026-05-31T20:39:45Z",
+    "url": "https://github.com/beyhangl/evalcraft"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Observal is a unified platform for agent distribution, observability and insights. ",
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1806,
+    "stars": 1807,
     "updated_at": "2026-05-31T20:29:20Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
@@ -16,15 +43,6 @@
     "stars": 3275,
     "updated_at": "2026-05-31T20:29:32Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -61,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-05-31T19:47:37Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Generate deterministic pytest tests for your AI agents from one real run, then replay them in CI for $0. Fast, flake-fre",
-    "id": "beyhangl/evalcraft",
-    "language": "Python",
-    "name": "beyhangl/evalcraft",
-    "stars": 5,
-    "updated_at": "2026-05-31T19:46:56Z",
-    "url": "https://github.com/beyhangl/evalcraft"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21748,
-    "updated_at": "2026-05-31T20:27:07Z",
+    "updated_at": "2026-05-31T20:45:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T19:07:34Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:07:29Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
