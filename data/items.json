@@ -1,12 +1,21 @@
 [
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:55:18Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-05-31T21:00:06Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-05-31T20:58:49Z",
+    "url": "https://github.com/tenemos/langwatch"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-05-31T20:45:28Z",
+    "updated_at": "2026-05-31T20:55:53Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:55:18Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Build, Manage and Deploy AI/ML Systems",
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 2961,
-    "updated_at": "2026-05-31T20:53:59Z",
+    "updated_at": "2026-05-31T20:57:59Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 78,
     "updated_at": "2026-05-31T19:36:04Z",
     "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-05-31T19:24:47Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21748,
-    "updated_at": "2026-05-31T20:45:02Z",
+    "updated_at": "2026-05-31T20:57:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T19:08:10Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:07:34Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
