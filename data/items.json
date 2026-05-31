@@ -1,21 +1,39 @@
 [
   {
-    "description": "Observal is a unified platform for agent distribution, observability and insights. ",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1778,
-    "updated_at": "2026-05-31T00:27:16Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21728,
-    "updated_at": "2026-05-31T00:24:28Z",
+    "updated_at": "2026-05-31T00:39:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48779,
+    "updated_at": "2026-05-31T00:35:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Observal is a unified platform for agent distribution, observability and insights. ",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1778,
+    "updated_at": "2026-05-31T00:32:25Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T00:15:51Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T00:10:42Z",
     "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48779,
-    "updated_at": "2026-05-31T00:20:16Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",

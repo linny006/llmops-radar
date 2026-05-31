@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-31 00:30 UTC
+> ⏰ Last updated: 2026-05-31 00:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 1778 | Python | 2026-05-31 | Observal is a unified platform for agent distribution, observability and insights.  |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21728 | TypeScript | 2026-05-31 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 31 | Python | 2026-05-31 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
-| 4 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-05-31 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-31 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 0 | — | 2026-05-31 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
-| 7 | [Arman7843/gemmachat-windows](https://github.com/Arman7843/gemmachat-windows) | 0 | — | 2026-05-31 | Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant. |
-| 8 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-05-31 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
-| 9 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 0 | Python | 2026-05-31 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
-| 10 | [Prissieperoneal156/rig](https://github.com/Prissieperoneal156/rig) | 0 | — | 2026-05-31 | Coordinate multiple AI coding agents from a single interface to streamline development workflows. |
-| 11 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48779 | Python | 2026-05-31 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21728 | TypeScript | 2026-05-31 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48779 | Python | 2026-05-31 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 3 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 1778 | Python | 2026-05-31 | Observal is a unified platform for agent distribution, observability and insights.  |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-31 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 31 | Python | 2026-05-31 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
+| 6 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-05-31 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
+| 7 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 0 | — | 2026-05-31 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
+| 8 | [Arman7843/gemmachat-windows](https://github.com/Arman7843/gemmachat-windows) | 0 | — | 2026-05-31 | Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant. |
+| 9 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-05-31 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
+| 10 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 0 | Python | 2026-05-31 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
+| 11 | [Prissieperoneal156/rig](https://github.com/Prissieperoneal156/rig) | 0 | — | 2026-05-31 | Coordinate multiple AI coding agents from a single interface to streamline development workflows. |
 | 12 | [retardingforcerightbank635/dm-gateway-bot](https://github.com/retardingforcerightbank635/dm-gateway-bot) | 0 | Python | 2026-05-31 | Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k |
 | 13 | [weensy-overutilisation690/SuperStation-SD-Card-Installer](https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer) | 0 | — | 2026-05-31 | Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA |
 | 14 | [Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework](https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework) | 0 | — | 2026-05-31 | Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and  |
