@@ -1,11 +1,74 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-05-31T10:15:00Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Observal is a unified platform for agent distribution, observability and insights. ",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1794,
+    "updated_at": "2026-05-31T10:14:38Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-05-31T10:12:10Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production.",
+    "id": "TravelXML/GenAIScope",
+    "language": "Jupyter Notebook",
+    "name": "TravelXML/GenAIScope",
+    "stars": 0,
+    "updated_at": "2026-05-31T10:10:55Z",
+    "url": "https://github.com/TravelXML/GenAIScope"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 19,
+    "updated_at": "2026-05-31T10:09:46Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "LASER Router. Stop paying OpenAI to answer \"What is 2+2\". LASER uses an embedded ML classifier to intercept and route si",
+    "id": "VaibhavKarsh/LASER",
+    "language": "Python",
+    "name": "VaibhavKarsh/LASER",
+    "stars": 0,
+    "updated_at": "2026-05-31T10:03:53Z",
+    "url": "https://github.com/VaibhavKarsh/LASER"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T10:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 51,
-    "updated_at": "2026-05-31T09:59:12Z",
+    "updated_at": "2026-05-31T10:09:06Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 19,
-    "updated_at": "2026-05-31T09:49:59Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "DocuGuard RAG is a production-style Retrieval-Augmented Generation system for querying PDFs, Markdown, and LaTeX documen",
     "id": "SagarInspires/DocuGuardRAG",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T09:48:33Z",
     "url": "https://github.com/SagarInspires/DocuGuardRAG"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -178,15 +223,6 @@
     "stars": 31,
     "updated_at": "2026-05-31T09:37:35Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Observal is a unified platform for agent distribution, observability and insights. ",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1794,
-    "updated_at": "2026-05-31T09:37:20Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
     "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T09:11:24Z",
     "url": "https://github.com/alexzhu0/agent-ready-skills"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:11:10Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
-    "id": "bursora/core",
-    "language": "TypeScript",
-    "name": "bursora/core",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:10:41Z",
-    "url": "https://github.com/bursora/core"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:09:54Z",
-    "url": "https://github.com/degen1322/agentic-template"
-  },
-  {
-    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
-    "id": "kami-beep/kb-contracts",
-    "language": "TypeScript",
-    "name": "kami-beep/kb-contracts",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:06:46Z",
-    "url": "https://github.com/kami-beep/kb-contracts"
   }
 ]
