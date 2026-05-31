@@ -1,12 +1,12 @@
 [
   {
-    "description": "Local-first observability your agent reads back. TMA1 records every LLM call, then routes what it sees into the agent's ",
-    "id": "tma1-ai/tma1",
-    "language": "Go",
-    "name": "tma1-ai/tma1",
-    "stars": 89,
-    "updated_at": "2026-05-31T13:45:17Z",
-    "url": "https://github.com/tma1-ai/tma1"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3274,
+    "updated_at": "2026-05-31T13:58:58Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "A hardened Hetzner VPS workbench for dual-agent coding workflows over SSH, tmux, and Tailscale.",
@@ -14,8 +14,17 @@
     "language": "Shell",
     "name": "stevenmichiels/dual-agent-vps",
     "stars": 2,
-    "updated_at": "2026-05-31T13:42:39Z",
+    "updated_at": "2026-05-31T13:58:29Z",
     "url": "https://github.com/stevenmichiels/dual-agent-vps"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-05-31T13:57:33Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
@@ -23,15 +32,33 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 4,
-    "updated_at": "2026-05-31T13:37:47Z",
+    "updated_at": "2026-05-31T13:50:19Z",
     "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T13:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Local-first observability your agent reads back. TMA1 records every LLM call, then routes what it sees into the agent's ",
+    "id": "tma1-ai/tma1",
+    "language": "Go",
+    "name": "tma1-ai/tma1",
+    "stars": 89,
+    "updated_at": "2026-05-31T13:45:36Z",
+    "url": "https://github.com/tma1-ai/tma1"
   },
   {
     "description": "Observal is a unified platform for agent distribution, observability and insights. ",
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1794,
+    "stars": 1795,
     "updated_at": "2026-05-31T13:36:07Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
@@ -45,15 +72,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T13:30:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 51,
     "updated_at": "2026-05-31T13:22:10Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3274,
-    "updated_at": "2026-05-31T13:25:39Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "5-case free starter for the AI Agent QA Eval Pack. Vendor-agnostic YAML eval cases for tool-using LLM agents (LangChain ",
@@ -412,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T12:09:34Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-05-31T12:09:26Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
