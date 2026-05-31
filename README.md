@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-31 06:45 UTC
+> ⏰ Last updated: 2026-05-31 07:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2161 | C++ | 2026-05-31 | Community maintained hardware plugin for vLLM on Ascend |
-| 2 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11411 | TypeScript | 2026-05-31 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-31 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [alexzhu0/promptbeat-lite](https://github.com/alexzhu0/promptbeat-lite) | 0 | Python | 2026-05-31 | Run local-first prompt and agent regression checks. |
-| 5 | [alexzhu0/prompt-drift-watch](https://github.com/alexzhu0/prompt-drift-watch) | 0 | Python | 2026-05-31 | Detect risky prompt and coding-agent instruction drift. |
-| 6 | [alexzhu0/mcp-server-radar](https://github.com/alexzhu0/mcp-server-radar) | 0 | Python | 2026-05-31 | Scan MCP server lists into capability and risk indexes. |
-| 7 | [alexzhu0/llm-cost-guard](https://github.com/alexzhu0/llm-cost-guard) | 0 | Python | 2026-05-31 | Estimate prompt token cost and flag expensive LLM inputs locally. |
-| 8 | [alexzhu0/eval-case-miner](https://github.com/alexzhu0/eval-case-miner) | 0 | Python | 2026-05-31 | Mine reusable eval cases from AI failure logs. |
-| 9 | [alexzhu0/context-window-doctor](https://github.com/alexzhu0/context-window-doctor) | 0 | Python | 2026-05-31 | Find context rot in long coding-agent instruction files. |
-| 10 | [alexzhu0/agent-trace-summarizer](https://github.com/alexzhu0/agent-trace-summarizer) | 0 | Python | 2026-05-31 | Turn AI agent traces into Markdown incident reports. |
-| 11 | [alexzhu0/agent-runbook-kit](https://github.com/alexzhu0/agent-runbook-kit) | 0 | Python | 2026-05-31 | Generate a minimal runbook kit for AI agent repositories. |
-| 12 | [Justin0504/federated-agent-audit](https://github.com/Justin0504/federated-agent-audit) | 2 | Python | 2026-05-31 | Privacy audit for multi-agent AI systems (CrewAI · LangGraph · AutoGen) — detect compositional data leaks without the ce |
+| 1 | [Justin0504/federated-agent-audit](https://github.com/Justin0504/federated-agent-audit) | 2 | Python | 2026-05-31 | Privacy audit for multi-agent AI systems (CrewAI · LangGraph · AutoGen) — detect compositional data leaks without the ce |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-05-31 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2161 | C++ | 2026-05-31 | Community maintained hardware plugin for vLLM on Ascend |
+| 4 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11411 | TypeScript | 2026-05-31 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
+| 5 | [alexzhu0/promptbeat-lite](https://github.com/alexzhu0/promptbeat-lite) | 0 | Python | 2026-05-31 | Run local-first prompt and agent regression checks. |
+| 6 | [alexzhu0/prompt-drift-watch](https://github.com/alexzhu0/prompt-drift-watch) | 0 | Python | 2026-05-31 | Detect risky prompt and coding-agent instruction drift. |
+| 7 | [alexzhu0/mcp-server-radar](https://github.com/alexzhu0/mcp-server-radar) | 0 | Python | 2026-05-31 | Scan MCP server lists into capability and risk indexes. |
+| 8 | [alexzhu0/llm-cost-guard](https://github.com/alexzhu0/llm-cost-guard) | 0 | Python | 2026-05-31 | Estimate prompt token cost and flag expensive LLM inputs locally. |
+| 9 | [alexzhu0/eval-case-miner](https://github.com/alexzhu0/eval-case-miner) | 0 | Python | 2026-05-31 | Mine reusable eval cases from AI failure logs. |
+| 10 | [alexzhu0/context-window-doctor](https://github.com/alexzhu0/context-window-doctor) | 0 | Python | 2026-05-31 | Find context rot in long coding-agent instruction files. |
+| 11 | [alexzhu0/agent-trace-summarizer](https://github.com/alexzhu0/agent-trace-summarizer) | 0 | Python | 2026-05-31 | Turn AI agent traces into Markdown incident reports. |
+| 12 | [alexzhu0/agent-runbook-kit](https://github.com/alexzhu0/agent-runbook-kit) | 0 | Python | 2026-05-31 | Generate a minimal runbook kit for AI agent repositories. |
 | 13 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-05-31 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
 | 14 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-05-31 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
 | 15 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 35 | Ruby | 2026-05-31 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
