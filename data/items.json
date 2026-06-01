@@ -1,5 +1,86 @@
 [
   {
+    "description": "",
+    "id": "aekta113/ai-sre",
+    "language": "Python",
+    "name": "aekta113/ai-sre",
+    "stars": 1,
+    "updated_at": "2026-06-01T11:43:36Z",
+    "url": "https://github.com/aekta113/ai-sre"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-06-01T11:41:27Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2167,
+    "updated_at": "2026-06-01T11:37:29Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28306,
+    "updated_at": "2026-06-01T11:45:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 4,
+    "updated_at": "2026-06-01T11:34:29Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
+    "id": "prashar32/riskkernel",
+    "language": "Go",
+    "name": "prashar32/riskkernel",
+    "stars": 10,
+    "updated_at": "2026-06-01T11:34:15Z",
+    "url": "https://github.com/prashar32/riskkernel"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-01T11:33:20Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T11:30:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "SkeinRank \u2014 Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows.",
+    "id": "SkeinRank/skeinrank",
+    "language": "Python",
+    "name": "SkeinRank/skeinrank",
+    "stars": 2,
+    "updated_at": "2026-06-01T11:29:44Z",
+    "url": "https://github.com/SkeinRank/skeinrank"
+  },
+  {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
     "id": "dyronrh/awesome-agentops-landscape",
     "language": "Python",
@@ -9,13 +90,13 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "SkeinRank \u2014 Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows.",
-    "id": "SkeinRank/skeinrank",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "SkeinRank/skeinrank",
-    "stars": 1,
-    "updated_at": "2026-06-01T11:29:44Z",
-    "url": "https://github.com/SkeinRank/skeinrank"
+    "name": "comet-ml/opik",
+    "stars": 19416,
+    "updated_at": "2026-06-01T11:35:50Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48918,
-    "updated_at": "2026-06-01T11:27:03Z",
+    "updated_at": "2026-06-01T11:31:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5475,
-    "updated_at": "2026-06-01T11:25:08Z",
+    "updated_at": "2026-06-01T11:45:19Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -90,15 +171,6 @@
     "url": "https://github.com/Thiagoopro/AI-Agent-Framework"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19417,
-    "updated_at": "2026-06-01T11:29:04Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "\ud83d\udcda Explore essential resources for learning Generative AI, covering foundational concepts to advanced topics with curated",
     "id": "hwgdfkchw/Generative-AI-Essentials",
     "language": "\u2014",
@@ -124,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-06-01T11:15:56Z",
     "url": "https://github.com/monim279/AI-Powered-DevOps"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T11:15:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -193,7 +256,7 @@
     "id": "jamjet-labs/jamjet",
     "language": "Rust",
     "name": "jamjet-labs/jamjet",
-    "stars": 12,
+    "stars": 13,
     "updated_at": "2026-06-01T11:02:12Z",
     "url": "https://github.com/jamjet-labs/jamjet"
   },
@@ -225,15 +288,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28306,
-    "updated_at": "2026-06-01T11:29:43Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
     "id": "zenml-io/mcp-zenml",
     "language": "Python",
@@ -257,7 +311,7 @@
     "language": "Rust",
     "name": "Netis/heron",
     "stars": 5,
-    "updated_at": "2026-06-01T11:29:22Z",
+    "updated_at": "2026-06-01T11:30:47Z",
     "url": "https://github.com/Netis/heron"
   },
   {
@@ -265,7 +319,7 @@
     "id": "javsanesq/tabular-ai-analyst",
     "language": "Python",
     "name": "javsanesq/tabular-ai-analyst",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-01T10:53:15Z",
     "url": "https://github.com/javsanesq/tabular-ai-analyst"
   },
@@ -293,17 +347,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3275,
-    "updated_at": "2026-06-01T11:26:58Z",
+    "updated_at": "2026-06-01T11:34:06Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-06-01T10:40:13Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
@@ -313,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-06-01T10:29:57Z",
     "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2167,
-    "updated_at": "2026-06-01T10:27:58Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -356,7 +392,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28561,
-    "updated_at": "2026-06-01T11:09:43Z",
+    "updated_at": "2026-06-01T11:40:43Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -401,7 +437,7 @@
     "language": "Rust",
     "name": "traceloop/hub",
     "stars": 203,
-    "updated_at": "2026-06-01T09:55:24Z",
+    "updated_at": "2026-06-01T11:38:34Z",
     "url": "https://github.com/traceloop/hub"
   },
   {
@@ -410,43 +446,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11418,
-    "updated_at": "2026-06-01T11:27:08Z",
+    "updated_at": "2026-06-01T11:30:56Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "VectorHub is a free, open-source learning website for people (software developers to senior ML architects) interested in",
-    "id": "superlinked/VectorHub",
-    "language": "Jupyter Notebook",
-    "name": "superlinked/VectorHub",
-    "stars": 522,
-    "updated_at": "2026-06-01T09:51:19Z",
-    "url": "https://github.com/superlinked/VectorHub"
-  },
-  {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 39,
-    "updated_at": "2026-06-01T09:44:33Z",
-    "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "Runnable, framework-focused recipes for the Ferro Labs AI Gateway: build LangChain & LangGraph agents that route across ",
-    "id": "ferro-labs/ai-gateway-cookbook",
-    "language": "Python",
-    "name": "ferro-labs/ai-gateway-cookbook",
-    "stars": 1,
-    "updated_at": "2026-06-01T09:43:48Z",
-    "url": "https://github.com/ferro-labs/ai-gateway-cookbook"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:36:03Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   }
 ]
