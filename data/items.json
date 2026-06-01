@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T20:44:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48949,
+    "updated_at": "2026-06-01T20:41:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Stop agents from marking work done that isn't \u2014 a fail-closed completion gate + four-state machine: the worker only prop",
     "id": "zhjai/agent-completion-gate",
     "language": "Python",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T20:33:46Z",
     "url": "https://github.com/bursora/core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AOS \u2014 AI runtime assurance for turning uncertain model outputs into auditable PASS/WARN/BLOCK decisions before real-worl",
@@ -322,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T19:36:58Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48948,
-    "updated_at": "2026-06-01T20:41:13Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
