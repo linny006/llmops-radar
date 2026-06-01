@@ -1,12 +1,21 @@
 [
   {
-    "description": "",
-    "id": "GaeaRuiW/kube-llmops",
-    "language": "Go",
-    "name": "GaeaRuiW/kube-llmops",
-    "stars": 8,
-    "updated_at": "2026-06-01T15:18:41Z",
-    "url": "https://github.com/GaeaRuiW/kube-llmops"
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28317,
+    "updated_at": "2026-06-01T15:37:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48937,
+    "updated_at": "2026-06-01T15:35:32Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "javsanesq/tabular-ai-analyst",
     "stars": 1,
-    "updated_at": "2026-06-01T15:19:26Z",
+    "updated_at": "2026-06-01T15:32:35Z",
     "url": "https://github.com/javsanesq/tabular-ai-analyst"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9942,
+    "updated_at": "2026-06-01T15:32:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "",
+    "id": "GaeaRuiW/kube-llmops",
+    "language": "Go",
+    "name": "GaeaRuiW/kube-llmops",
+    "stars": 8,
+    "updated_at": "2026-06-01T15:31:15Z",
+    "url": "https://github.com/GaeaRuiW/kube-llmops"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,26 +50,53 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-01T15:15:37Z",
+    "updated_at": "2026-06-01T15:30:40Z",
     "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28316,
-    "updated_at": "2026-06-01T15:26:54Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The canonical standard for building production-grade agentic products \u2014 autonomy ladder, composition patterns, the 7-lay",
     "id": "Moai-Team-LLC/agentic-product-standard",
     "language": "Shell",
     "name": "Moai-Team-LLC/agentic-product-standard",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-06-01T15:24:44Z",
     "url": "https://github.com/Moai-Team-LLC/agentic-product-standard"
+  },
+  {
+    "description": "",
+    "id": "briancl2/CustomerNewsletter",
+    "language": "Python",
+    "name": "briancl2/CustomerNewsletter",
+    "stars": 9,
+    "updated_at": "2026-06-01T15:24:20Z",
+    "url": "https://github.com/briancl2/CustomerNewsletter"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-01T15:15:41Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-06-01T15:12:40Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
+    "id": "traceloop/openllmetry-js",
+    "language": "TypeScript",
+    "name": "traceloop/openllmetry-js",
+    "stars": 401,
+    "updated_at": "2026-06-01T15:09:08Z",
+    "url": "https://github.com/traceloop/openllmetry-js"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -104,17 +158,8 @@
     "language": "Rust",
     "name": "Netis/heron",
     "stars": 5,
-    "updated_at": "2026-06-01T15:17:50Z",
+    "updated_at": "2026-06-01T15:42:47Z",
     "url": "https://github.com/Netis/heron"
-  },
-  {
-    "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
-    "id": "traceloop/openllmetry-js",
-    "language": "TypeScript",
-    "name": "traceloop/openllmetry-js",
-    "stars": 401,
-    "updated_at": "2026-06-01T15:09:08Z",
-    "url": "https://github.com/traceloop/openllmetry-js"
   },
   {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
@@ -162,24 +207,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "",
-    "id": "briancl2/CustomerNewsletter",
-    "language": "Python",
-    "name": "briancl2/CustomerNewsletter",
-    "stars": 9,
-    "updated_at": "2026-06-01T15:24:20Z",
-    "url": "https://github.com/briancl2/CustomerNewsletter"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-06-01T15:12:40Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
     "id": "langfuse/langfuse-js",
     "language": "TypeScript",
@@ -198,30 +225,12 @@
     "url": "https://github.com/giobbu/notes-ai-agents"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48937,
-    "updated_at": "2026-06-01T14:06:56Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9941,
-    "updated_at": "2026-06-01T15:19:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 355,
-    "updated_at": "2026-06-01T15:15:36Z",
+    "updated_at": "2026-06-01T15:44:18Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 26233,
     "updated_at": "2026-06-01T13:21:22Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:21:05Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
