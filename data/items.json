@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:45:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
@@ -7,6 +16,15 @@
     "stars": 1154,
     "updated_at": "2026-06-01T14:41:47Z",
     "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5402,
+    "updated_at": "2026-06-01T14:39:57Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
@@ -27,13 +45,31 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 39,
+    "updated_at": "2026-06-01T14:26:46Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Trajectory-level observability and evaluation for LLM agents. Trace, score, and detect regressions in multi-step tool-us",
+    "id": "MrRobotop/ariadne-eval",
     "language": "Python",
-    "name": "linny006/llmops-radar",
+    "name": "MrRobotop/ariadne-eval",
     "stars": 0,
-    "updated_at": "2026-06-01T14:30:44Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-06-01T14:25:52Z",
+    "url": "https://github.com/MrRobotop/ariadne-eval"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 1,
+    "updated_at": "2026-06-01T14:21:54Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "briancl2/CustomerNewsletter",
     "stars": 9,
-    "updated_at": "2026-06-01T14:20:11Z",
+    "updated_at": "2026-06-01T14:55:52Z",
     "url": "https://github.com/briancl2/CustomerNewsletter"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9941,
-    "updated_at": "2026-06-01T14:31:26Z",
+    "updated_at": "2026-06-01T14:59:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-06-01T14:00:32Z",
     "url": "https://github.com/Moai-Team-LLC/agentic-product-standard"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5400,
-    "updated_at": "2026-06-01T14:39:57Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -130,7 +157,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28313,
+    "stars": 28314,
     "updated_at": "2026-06-01T13:57:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -279,15 +306,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 1,
-    "updated_at": "2026-06-01T14:21:54Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -355,7 +373,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26231,
+    "stars": 26232,
     "updated_at": "2026-06-01T13:21:22Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -430,23 +448,5 @@
     "stars": 13,
     "updated_at": "2026-06-01T13:14:12Z",
     "url": "https://github.com/jamjet-labs/jamjet"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:14:10Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:13:37Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
