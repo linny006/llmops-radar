@@ -1,30 +1,12 @@
 [
   {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 1,
-    "updated_at": "2026-06-01T17:14:30Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Open-source execution firewall for MCP and AI agents: policy decisions, MCP quarantine, signed receipts, and offline evi",
-    "id": "Mindburn-Labs/helm-ai-kernel",
-    "language": "Go",
-    "name": "Mindburn-Labs/helm-ai-kernel",
-    "stars": 9,
-    "updated_at": "2026-06-01T17:11:51Z",
-    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
-  },
-  {
-    "description": "A framework for governing how organisations manage AI context. Vendor-neutral.",
-    "id": "kannanokannan/ContextOps",
-    "language": "\u2014",
-    "name": "kannanokannan/ContextOps",
+    "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
+    "id": "bursora/core",
+    "language": "TypeScript",
+    "name": "bursora/core",
     "stars": 0,
-    "updated_at": "2026-06-01T17:09:54Z",
-    "url": "https://github.com/kannanokannan/ContextOps"
+    "updated_at": "2026-06-01T17:29:39Z",
+    "url": "https://github.com/bursora/core"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -32,8 +14,17 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 3,
-    "updated_at": "2026-06-01T17:09:41Z",
+    "updated_at": "2026-06-01T17:24:46Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 1,
+    "updated_at": "2026-06-01T17:24:19Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
     "description": "Wrap your AI provider client in one line to enforce per-tenant, per-agent, per-workflow spend budgets before the call go",
@@ -41,8 +32,89 @@
     "language": "TypeScript",
     "name": "bursora/sdk",
     "stars": 0,
-    "updated_at": "2026-06-01T17:08:02Z",
+    "updated_at": "2026-06-01T17:23:14Z",
     "url": "https://github.com/bursora/sdk"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 1,
+    "updated_at": "2026-06-01T17:23:13Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 5,
+    "updated_at": "2026-06-01T17:20:29Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "",
+    "id": "briancl2/CustomerNewsletter",
+    "language": "Python",
+    "name": "briancl2/CustomerNewsletter",
+    "stars": 9,
+    "updated_at": "2026-06-01T17:19:53Z",
+    "url": "https://github.com/briancl2/CustomerNewsletter"
+  },
+  {
+    "description": "A framework for governing how organisations manage AI context. Vendor-neutral.",
+    "id": "kannanokannan/ContextOps",
+    "language": "\u2014",
+    "name": "kannanokannan/ContextOps",
+    "stars": 0,
+    "updated_at": "2026-06-01T17:17:52Z",
+    "url": "https://github.com/kannanokannan/ContextOps"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-06-01T17:16:44Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T17:15:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-01T17:15:37Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs",
+    "language": "MDX",
+    "name": "acornops/docs",
+    "stars": 0,
+    "updated_at": "2026-06-01T17:13:28Z",
+    "url": "https://github.com/acornops/docs"
+  },
+  {
+    "description": "Open-source execution firewall for MCP and AI agents: policy decisions, MCP quarantine, signed receipts, and offline evi",
+    "id": "Mindburn-Labs/helm-ai-kernel",
+    "language": "Go",
+    "name": "Mindburn-Labs/helm-ai-kernel",
+    "stars": 9,
+    "updated_at": "2026-06-01T17:29:04Z",
+    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -54,31 +126,13 @@
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
-    "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
-    "id": "bursora/core",
-    "language": "TypeScript",
-    "name": "bursora/core",
-    "stars": 0,
-    "updated_at": "2026-06-01T17:07:41Z",
-    "url": "https://github.com/bursora/core"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48942,
-    "updated_at": "2026-06-01T17:14:07Z",
+    "updated_at": "2026-06-01T17:26:54Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T17:00:46Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
@@ -88,6 +142,15 @@
     "stars": 12343,
     "updated_at": "2026-06-01T17:00:14Z",
     "url": "https://github.com/bentoml/OpenLLM"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5429,
+    "updated_at": "2026-06-01T16:59:06Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -194,7 +257,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21779,
-    "updated_at": "2026-06-01T17:02:12Z",
+    "updated_at": "2026-06-01T17:29:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T16:26:36Z",
     "url": "https://github.com/juana267/agent-starter-pack"
-  },
-  {
-    "description": "\ud83e\udde0 Monitor web app performance and detect anomalies with AI-driven insights, capturing key events and generating detailed",
-    "id": "LaurenceGab/ai-monitoring-layer",
-    "language": "JavaScript",
-    "name": "LaurenceGab/ai-monitoring-layer",
-    "stars": 0,
-    "updated_at": "2026-06-01T16:24:50Z",
-    "url": "https://github.com/LaurenceGab/ai-monitoring-layer"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Detect and remove spyware with SUPERAntiSpyware Professional X, ensuring your Windows system stays secure and your da",
-    "id": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "language": "\u2014",
-    "name": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "stars": 1,
-    "updated_at": "2026-06-01T16:24:21Z",
-    "url": "https://github.com/mshadan825/SUPERAntiSpyware-Professional-X-Activated"
-  },
-  {
-    "description": "\ud83c\udf10 Build and share your personal website with ease using mjsushanth.github.io, a simple and effective static site generat",
-    "id": "don12345673434/mjsushanth.github.io",
-    "language": "HTML",
-    "name": "don12345673434/mjsushanth.github.io",
-    "stars": 0,
-    "updated_at": "2026-06-01T16:21:26Z",
-    "url": "https://github.com/don12345673434/mjsushanth.github.io"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28320,
-    "updated_at": "2026-06-01T16:18:34Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\ud83d\udc14 Simplify AI orchestration by using agentic systems; spawn subagents like a hen with her chicks for seamless task manag",
-    "id": "iulieobraznic/agentic-ai-systems",
-    "language": "\u2014",
-    "name": "iulieobraznic/agentic-ai-systems",
-    "stars": 0,
-    "updated_at": "2026-06-01T16:16:46Z",
-    "url": "https://github.com/iulieobraznic/agentic-ai-systems"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5404,
-    "updated_at": "2026-06-01T17:01:20Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83c\udf9b\ufe0f Build efficient workflows with Deevs' Agent System, a plugin marketplace for Claude Code featuring multi-session chai",
-    "id": "Shahzadaslam007799/agent-system",
-    "language": "\u2014",
-    "name": "Shahzadaslam007799/agent-system",
-    "stars": 1,
-    "updated_at": "2026-06-01T16:16:16Z",
-    "url": "https://github.com/Shahzadaslam007799/agent-system"
   }
 ]
