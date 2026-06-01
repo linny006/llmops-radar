@@ -1,12 +1,84 @@
 [
   {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 65,
+    "updated_at": "2026-06-01T06:29:46Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 4,
+    "updated_at": "2026-06-01T06:27:06Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Transparent LLM gateway trace recorder \u00b7 sub2api / CLIProxyAPI / new-api \u7684 LLM \u7f51\u5173\u6d41\u91cf\u5f55\u5236\u5668",
+    "id": "2nd1st/api-log",
+    "language": "Go",
+    "name": "2nd1st/api-log",
+    "stars": 1,
+    "updated_at": "2026-06-01T06:21:52Z",
+    "url": "https://github.com/2nd1st/api-log"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21758,
-    "updated_at": "2026-06-01T06:14:48Z",
+    "stars": 21759,
+    "updated_at": "2026-06-01T06:28:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26221,
+    "updated_at": "2026-06-01T06:18:47Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The local-first control plane for AI work",
+    "id": "lgrossi/noether",
+    "language": "Rust",
+    "name": "lgrossi/noether",
+    "stars": 0,
+    "updated_at": "2026-06-01T06:16:44Z",
+    "url": "https://github.com/lgrossi/noether"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-01T06:16:42Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 37,
+    "updated_at": "2026-06-01T06:16:05Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T06:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -41,7 +113,7 @@
     "language": "Jupyter Notebook",
     "name": "apache/hamilton",
     "stars": 2502,
-    "updated_at": "2026-06-01T06:12:07Z",
+    "updated_at": "2026-06-01T06:18:52Z",
     "url": "https://github.com/apache/hamilton"
   },
   {
@@ -52,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T06:11:59Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 4,
-    "updated_at": "2026-06-01T06:11:52Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
@@ -126,15 +189,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T06:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
     "id": "germanic-hwangho835/FolkLite",
     "language": "\u2014",
@@ -198,15 +252,6 @@
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
   },
   {
-    "description": "Transparent LLM gateway trace recorder \u00b7 sub2api / CLIProxyAPI / new-api \u7684 LLM \u7f51\u5173\u6d41\u91cf\u5f55\u5236\u5668",
-    "id": "2nd1st/api-log",
-    "language": "Go",
-    "name": "2nd1st/api-log",
-    "stars": 1,
-    "updated_at": "2026-06-01T05:54:35Z",
-    "url": "https://github.com/2nd1st/api-log"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T05:48:03Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26221,
-    "updated_at": "2026-06-01T06:15:18Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -378,15 +414,6 @@
     "url": "https://github.com/sarrahw23/deploy-guide"
   },
   {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 37,
-    "updated_at": "2026-06-01T05:35:59Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T05:32:32Z",
     "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-01T05:29:17Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-01T05:28:58Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-06-01T05:27:55Z",
-    "url": "https://github.com/degen1322/agentic-template"
   }
 ]
