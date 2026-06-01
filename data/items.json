@@ -1,5 +1,95 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26221,
+    "updated_at": "2026-06-01T05:23:36Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
+    "id": "dr-gareth-roberts/insideLLMs",
+    "language": "Python",
+    "name": "dr-gareth-roberts/insideLLMs",
+    "stars": 1,
+    "updated_at": "2026-06-01T05:23:32Z",
+    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-06-01T05:23:16Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21757,
+    "updated_at": "2026-06-01T05:23:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-06-01T05:21:29Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 1,
+    "updated_at": "2026-06-01T05:20:24Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "AOS \u2014 AI runtime assurance for turning uncertain model outputs into auditable PASS/WARN/BLOCK decisions before real-worl",
+    "id": "szymonhetnar/aos-meta-symbolic-kernel",
+    "language": "Python",
+    "name": "szymonhetnar/aos-meta-symbolic-kernel",
+    "stars": 0,
+    "updated_at": "2026-06-01T05:18:39Z",
+    "url": "https://github.com/szymonhetnar/aos-meta-symbolic-kernel"
+  },
+  {
+    "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
+    "id": "SkylineTZ/RagaliQ",
+    "language": "Python",
+    "name": "SkylineTZ/RagaliQ",
+    "stars": 1,
+    "updated_at": "2026-06-01T05:16:00Z",
+    "url": "https://github.com/SkylineTZ/RagaliQ"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 2,
+    "updated_at": "2026-06-01T05:15:56Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T05:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
     "id": "Farukul-Islam/from-mlops-to-llmops",
     "language": "PHP",
@@ -7,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-06-01T05:15:14Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28285,
+    "updated_at": "2026-06-01T05:12:43Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\udee0\ufe0f Enhance agentic development with tools for isolated environments and unused code detection in your stack.",
@@ -99,15 +198,6 @@
     "url": "https://github.com/KewalPra/agent-sdk"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21756,
-    "updated_at": "2026-06-01T05:07:20Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83d\ude80 Explore how to optimize large language models through context engineering and the Model Context Protocol for improved ",
     "id": "Kacper-ctrl-wq/AI-Tracker",
     "language": "\u2014",
@@ -178,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-06-01T05:01:04Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T05:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-01T04:37:07Z",
     "url": "https://github.com/xjanex160/customer-support-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-06-01T04:31:05Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 1,
-    "updated_at": "2026-06-01T04:30:01Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "Observal is a unified platform for agent distribution, observability and insights. ",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1812,
-    "updated_at": "2026-06-01T04:29:33Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5387,
-    "updated_at": "2026-06-01T04:29:27Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Production-grade agentic decisioning platform for regulated industries. Constant L0\u2013L9 architecture \u2014 LangGraph orchestr",
-    "id": "saralabiswal/agentic-regulated-decisioning",
-    "language": "Python",
-    "name": "saralabiswal/agentic-regulated-decisioning",
-    "stars": 0,
-    "updated_at": "2026-06-01T04:28:47Z",
-    "url": "https://github.com/saralabiswal/agentic-regulated-decisioning"
-  },
-  {
-    "description": "\ud83e\udde9 Explore LLM essentials, build advanced models, and develop applications with this comprehensive course on large langua",
-    "id": "Gmail1995/llm-course",
-    "language": "\u2014",
-    "name": "Gmail1995/llm-course",
-    "stars": 1,
-    "updated_at": "2026-06-01T04:28:19Z",
-    "url": "https://github.com/Gmail1995/llm-course"
-  },
-  {
-    "description": "",
-    "id": "ghaithmhmm/LLM-Training",
-    "language": "Python",
-    "name": "ghaithmhmm/LLM-Training",
-    "stars": 0,
-    "updated_at": "2026-06-01T04:23:57Z",
-    "url": "https://github.com/ghaithmhmm/LLM-Training"
-  },
-  {
-    "description": "",
-    "id": "aekta113/ai-sre",
-    "language": "Python",
-    "name": "aekta113/ai-sre",
-    "stars": 1,
-    "updated_at": "2026-06-01T04:20:57Z",
-    "url": "https://github.com/aekta113/ai-sre"
-  },
-  {
-    "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
-    "id": "alinafe82/persistent-cognitive-infrastructure",
-    "language": "Python",
-    "name": "alinafe82/persistent-cognitive-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-06-01T04:20:14Z",
-    "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
   }
 ]
