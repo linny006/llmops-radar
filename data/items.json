@@ -1,5 +1,50 @@
 [
   {
+    "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
+    "id": "matolks/AI-engineering",
+    "language": "HTML",
+    "name": "matolks/AI-engineering",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:26:33Z",
+    "url": "https://github.com/matolks/AI-engineering"
+  },
+  {
+    "description": "Open-source AI gateway for publishing multi-model workflows as OpenAI/Claude-compatible virtual model endpoints.",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 38,
+    "updated_at": "2026-06-01T03:29:47Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2165,
+    "updated_at": "2026-06-01T03:19:49Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1151,
+    "updated_at": "2026-06-01T03:17:31Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "",
     "id": "briancl2/CustomerNewsletter",
     "language": "Python",
@@ -7,15 +52,6 @@
     "stars": 9,
     "updated_at": "2026-06-01T03:13:49Z",
     "url": "https://github.com/briancl2/CustomerNewsletter"
-  },
-  {
-    "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
-    "id": "matolks/AI-engineering",
-    "language": "HTML",
-    "name": "matolks/AI-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-01T03:08:17Z",
-    "url": "https://github.com/matolks/AI-engineering"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -36,24 +72,6 @@
     "url": "https://github.com/jimyoshida/ubuntu2604_on_macmini2014"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T03:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source AI gateway for publishing multi-model workflows as OpenAI/Claude-compatible virtual model endpoints.",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 38,
-    "updated_at": "2026-06-01T03:14:20Z",
-    "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -68,7 +86,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21754,
-    "updated_at": "2026-06-01T03:13:28Z",
+    "updated_at": "2026-06-01T03:22:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 5474,
     "updated_at": "2026-06-01T02:48:36Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1150,
-    "updated_at": "2026-06-01T02:39:20Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Public mechanism engine for blinded LLM endpoint verification with deterministic challenges, stream-order checks, and st",
@@ -288,6 +297,15 @@
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   },
   {
+    "description": "Observal is a unified platform for agent distribution, observability and insights. ",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1809,
+    "updated_at": "2026-06-01T02:02:09Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
     "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
     "id": "pencaudal526/system-design-bible",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T01:49:41Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10110,
-    "updated_at": "2026-06-01T01:48:44Z",
-    "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-01T01:45:49Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
   }
 ]
