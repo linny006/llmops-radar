@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28306,
+    "updated_at": "2026-06-01T11:58:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-01T11:55:48Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 1,
+    "updated_at": "2026-06-01T11:54:33Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48920,
+    "updated_at": "2026-06-01T11:53:36Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udde9 Explore LLM essentials, build advanced models, and develop applications with this comprehensive course on large langua",
+    "id": "Gmail1995/llm-course",
+    "language": "\u2014",
+    "name": "Gmail1995/llm-course",
+    "stars": 1,
+    "updated_at": "2026-06-01T11:52:45Z",
+    "url": "https://github.com/Gmail1995/llm-course"
+  },
+  {
+    "description": "High-scale LLM gateway, written in Rust. OpenTelemetry-based observability included",
+    "id": "traceloop/hub",
+    "language": "Rust",
+    "name": "traceloop/hub",
+    "stars": 203,
+    "updated_at": "2026-06-01T11:52:00Z",
+    "url": "https://github.com/traceloop/hub"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 5,
+    "updated_at": "2026-06-01T11:50:13Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "",
+    "id": "ghaithmhmm/LLM-Training",
+    "language": "Python",
+    "name": "ghaithmhmm/LLM-Training",
+    "stars": 0,
+    "updated_at": "2026-06-01T11:47:32Z",
+    "url": "https://github.com/ghaithmhmm/LLM-Training"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-01T11:46:44Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T11:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "",
     "id": "aekta113/ai-sre",
     "language": "Python",
@@ -25,15 +115,6 @@
     "stars": 2167,
     "updated_at": "2026-06-01T11:37:29Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28306,
-    "updated_at": "2026-06-01T11:45:12Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
@@ -63,15 +144,6 @@
     "url": "https://github.com/liam8421/faster-llm"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T11:30:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "SkeinRank \u2014 Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows.",
     "id": "SkeinRank/skeinrank",
     "language": "Python",
@@ -95,17 +167,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19416,
-    "updated_at": "2026-06-01T11:35:50Z",
+    "updated_at": "2026-06-01T11:55:22Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48918,
-    "updated_at": "2026-06-01T11:31:04Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -113,7 +176,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5475,
-    "updated_at": "2026-06-01T11:45:19Z",
+    "updated_at": "2026-06-01T11:45:43Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -270,6 +333,15 @@
     "url": "https://github.com/bilal0399/learn-agentic-ai"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26228,
+    "updated_at": "2026-06-01T11:00:48Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
     "id": "taishan666/MaxKB4j",
     "language": "Java",
@@ -297,15 +369,6 @@
     "url": "https://github.com/zenml-io/mcp-zenml"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26227,
-    "updated_at": "2026-06-01T11:00:48Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
     "id": "Netis/heron",
     "language": "Rust",
@@ -329,17 +392,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5397,
-    "updated_at": "2026-06-01T11:14:59Z",
+    "updated_at": "2026-06-01T11:54:58Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 5,
-    "updated_at": "2026-06-01T10:50:52Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -347,7 +401,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3275,
-    "updated_at": "2026-06-01T11:34:06Z",
+    "updated_at": "2026-06-01T11:56:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -392,61 +446,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28561,
-    "updated_at": "2026-06-01T11:40:43Z",
+    "updated_at": "2026-06-01T11:59:57Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Generate deterministic pytest tests for your AI agents from one real run, then replay them in CI for $0. Fast, flake-fre",
-    "id": "beyhangl/evalcraft",
-    "language": "Python",
-    "name": "beyhangl/evalcraft",
-    "stars": 5,
-    "updated_at": "2026-06-01T10:17:37Z",
-    "url": "https://github.com/beyhangl/evalcraft"
-  },
-  {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 66,
-    "updated_at": "2026-06-01T10:14:26Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
-    "id": "dr-gareth-roberts/insideLLMs",
-    "language": "Python",
-    "name": "dr-gareth-roberts/insideLLMs",
-    "stars": 1,
-    "updated_at": "2026-06-01T10:04:50Z",
-    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
-  },
-  {
-    "description": "Production-grade RAG assistant with FastAPI, Qdrant, evaluations, citations, and Docker",
-    "id": "javsanesq/rag-assistant",
-    "language": "Python",
-    "name": "javsanesq/rag-assistant",
-    "stars": 1,
-    "updated_at": "2026-06-01T10:01:34Z",
-    "url": "https://github.com/javsanesq/rag-assistant"
-  },
-  {
-    "description": "High-scale LLM gateway, written in Rust. OpenTelemetry-based observability included",
-    "id": "traceloop/hub",
-    "language": "Rust",
-    "name": "traceloop/hub",
-    "stars": 203,
-    "updated_at": "2026-06-01T11:38:34Z",
-    "url": "https://github.com/traceloop/hub"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "TypeScript",
-    "name": "dataelement/bisheng",
-    "stars": 11418,
-    "updated_at": "2026-06-01T11:30:56Z",
-    "url": "https://github.com/dataelement/bisheng"
   }
 ]
