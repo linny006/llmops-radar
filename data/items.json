@@ -1,12 +1,39 @@
 [
   {
-    "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
-    "id": "matolks/AI-engineering",
+    "description": "Persistent graph memory architecture for multi-agent AI systems using Graphiti, FalkorDB, and MCP.",
+    "id": "sadbeto/multi-agent-graph-memory",
+    "language": "Python",
+    "name": "sadbeto/multi-agent-graph-memory",
+    "stars": 1,
+    "updated_at": "2026-06-01T03:42:41Z",
+    "url": "https://github.com/sadbeto/multi-agent-graph-memory"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
-    "name": "matolks/AI-engineering",
+    "name": "ngu-gif/genai-role-playbook",
     "stars": 0,
-    "updated_at": "2026-06-01T03:26:33Z",
-    "url": "https://github.com/matolks/AI-engineering"
+    "updated_at": "2026-06-01T03:41:03Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Multi-cloud Terraform deployment framework for the vLLM Production Stack \u2014 with implementations for AWS (EKS), Azure (AK",
+    "id": "CloudThrill/vllm-production-stack-terraform",
+    "language": "HCL",
+    "name": "CloudThrill/vllm-production-stack-terraform",
+    "stars": 3,
+    "updated_at": "2026-06-01T03:39:58Z",
+    "url": "https://github.com/CloudThrill/vllm-production-stack-terraform"
+  },
+  {
+    "description": "Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports.",
+    "id": "monkeyin92/voice-agent-testops",
+    "language": "TypeScript",
+    "name": "monkeyin92/voice-agent-testops",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:30:51Z",
+    "url": "https://github.com/monkeyin92/voice-agent-testops"
   },
   {
     "description": "Open-source AI gateway for publishing multi-model workflows as OpenAI/Claude-compatible virtual model endpoints.",
@@ -14,8 +41,26 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 38,
-    "updated_at": "2026-06-01T03:29:47Z",
+    "updated_at": "2026-06-01T03:30:30Z",
     "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
+    "id": "matolks/AI-engineering",
+    "language": "HTML",
+    "name": "matolks/AI-engineering",
+    "stars": 1,
+    "updated_at": "2026-06-01T03:26:33Z",
+    "url": "https://github.com/matolks/AI-engineering"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -34,15 +79,6 @@
     "stars": 1151,
     "updated_at": "2026-06-01T03:17:31Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T03:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21754,
-    "updated_at": "2026-06-01T03:22:32Z",
+    "updated_at": "2026-06-01T03:39:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T01:52:33Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-01T01:52:31Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:52:24Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:50:26Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-01T01:49:41Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
