@@ -1,5 +1,41 @@
 [
   {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1154,
+    "updated_at": "2026-06-01T14:41:47Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
+    "id": "traceloop/openllmetry-js",
+    "language": "TypeScript",
+    "name": "traceloop/openllmetry-js",
+    "stars": 401,
+    "updated_at": "2026-06-01T14:38:10Z",
+    "url": "https://github.com/traceloop/openllmetry-js"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 66,
+    "updated_at": "2026-06-01T14:37:25Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:30:44Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "",
     "id": "briancl2/CustomerNewsletter",
     "language": "Python",
@@ -9,21 +45,12 @@
     "url": "https://github.com/briancl2/CustomerNewsletter"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T14:15:44Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2168,
-    "updated_at": "2026-06-01T14:15:22Z",
+    "updated_at": "2026-06-01T14:31:04Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -45,20 +72,20 @@
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 66,
-    "updated_at": "2026-06-01T14:25:44Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "description": "Notebooks exploring LLMs, AI agents, and their observability and safety with MLOps.",
+    "id": "giobbu/notes-ai-agents",
+    "language": "Jupyter Notebook",
+    "name": "giobbu/notes-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:13:19Z",
+    "url": "https://github.com/giobbu/notes-ai-agents"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48937,
+    "stars": 48938,
     "updated_at": "2026-06-01T14:06:56Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9941,
-    "updated_at": "2026-06-01T14:01:26Z",
+    "updated_at": "2026-06-01T14:31:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -86,7 +113,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5400,
-    "updated_at": "2026-06-01T14:27:58Z",
+    "updated_at": "2026-06-01T14:39:57Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 355,
-    "updated_at": "2026-06-01T13:57:58Z",
+    "updated_at": "2026-06-01T14:43:33Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -103,7 +130,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28312,
+    "stars": 28313,
     "updated_at": "2026-06-01T13:57:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -279,15 +306,6 @@
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
   },
   {
-    "description": "Notebooks exploring LLMs, AI agents, and their observability and safety with MLOps.",
-    "id": "giobbu/notes-ai-agents",
-    "language": "Jupyter Notebook",
-    "name": "giobbu/notes-ai-agents",
-    "stars": 0,
-    "updated_at": "2026-06-01T14:13:19Z",
-    "url": "https://github.com/giobbu/notes-ai-agents"
-  },
-  {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
     "id": "8pig/llm-ops",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T13:13:37Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:13:31Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:13:24Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
