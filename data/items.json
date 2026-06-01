@@ -1,12 +1,21 @@
 [
   {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
+    "description": "Rust CLI to test whether OpenAI-compatible APIs are truly compatible across chat, streaming, tools, structured outputs, ",
+    "id": "ibidathoillah/openai-compatible-tester-cli",
+    "language": "Rust",
+    "name": "ibidathoillah/openai-compatible-tester-cli",
+    "stars": 0,
+    "updated_at": "2026-06-01T22:14:45Z",
+    "url": "https://github.com/ibidathoillah/openai-compatible-tester-cli"
+  },
+  {
+    "description": "",
+    "id": "ghaithmhmm/LLM-Training",
     "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 3,
-    "updated_at": "2026-06-01T21:57:21Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+    "name": "ghaithmhmm/LLM-Training",
+    "stars": 0,
+    "updated_at": "2026-06-01T22:12:32Z",
+    "url": "https://github.com/ghaithmhmm/LLM-Training"
   },
   {
     "description": "",
@@ -14,8 +23,71 @@
     "language": "Python",
     "name": "javsanesq/tabular-ai-analyst",
     "stars": 1,
-    "updated_at": "2026-06-01T21:55:42Z",
+    "updated_at": "2026-06-01T22:10:43Z",
     "url": "https://github.com/javsanesq/tabular-ai-analyst"
+  },
+  {
+    "description": "",
+    "id": "aekta113/ai-sre",
+    "language": "Python",
+    "name": "aekta113/ai-sre",
+    "stars": 1,
+    "updated_at": "2026-06-01T22:09:25Z",
+    "url": "https://github.com/aekta113/ai-sre"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9949,
+    "updated_at": "2026-06-01T22:11:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The local-first control plane for AI work",
+    "id": "lgrossi/noether",
+    "language": "Rust",
+    "name": "lgrossi/noether",
+    "stars": 0,
+    "updated_at": "2026-06-01T22:04:59Z",
+    "url": "https://github.com/lgrossi/noether"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 4,
+    "updated_at": "2026-06-01T22:02:12Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-01T22:01:00Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T22:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 3,
+    "updated_at": "2026-06-01T21:57:21Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T21:51:55Z",
     "url": "https://github.com/TryKosm/llm-cost-observability"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9949,
-    "updated_at": "2026-06-01T21:50:39Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -97,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-06-01T21:46:13Z",
     "url": "https://github.com/damn124/ai-calling-agent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T21:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udd16 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48950,
-    "updated_at": "2026-06-01T21:58:04Z",
+    "updated_at": "2026-06-01T22:06:12Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -203,7 +257,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21785,
-    "updated_at": "2026-06-01T21:34:24Z",
+    "updated_at": "2026-06-01T22:14:39Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T21:27:35Z",
     "url": "https://github.com/kensterinvest/tidus"
-  },
-  {
-    "description": "The local-first control plane for AI work",
-    "id": "lgrossi/noether",
-    "language": "Rust",
-    "name": "lgrossi/noether",
-    "stars": 0,
-    "updated_at": "2026-06-01T21:50:02Z",
-    "url": "https://github.com/lgrossi/noether"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1002,
-    "updated_at": "2026-06-01T20:08:41Z",
+    "updated_at": "2026-06-01T22:07:56Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T19:52:47Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
-    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "language": "\u2014",
-    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "stars": 0,
-    "updated_at": "2026-06-01T19:52:07Z",
-    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19417,
-    "updated_at": "2026-06-01T21:18:44Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
-    "id": "germanic-hwangho835/FolkLite",
-    "language": "\u2014",
-    "name": "germanic-hwangho835/FolkLite",
-    "stars": 0,
-    "updated_at": "2026-06-01T19:48:14Z",
-    "url": "https://github.com/germanic-hwangho835/FolkLite"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-01T19:47:51Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-06-01T19:47:34Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
   }
 ]
