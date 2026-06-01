@@ -1,12 +1,84 @@
 [
   {
+    "description": "Ansible playbooks for automated personal-use Ubuntu 26.04 agent environment setup with Grafana LGTM stack",
+    "id": "jimyoshida/ubuntu2604_on_macmini2014",
+    "language": "Shell",
+    "name": "jimyoshida/ubuntu2604_on_macmini2014",
+    "stars": 1,
+    "updated_at": "2026-06-01T02:58:52Z",
+    "url": "https://github.com/jimyoshida/ubuntu2604_on_macmini2014"
+  },
+  {
+    "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
+    "id": "matolks/AI-engineering",
+    "language": "HTML",
+    "name": "matolks/AI-engineering",
+    "stars": 0,
+    "updated_at": "2026-06-01T02:56:45Z",
+    "url": "https://github.com/matolks/AI-engineering"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26220,
+    "updated_at": "2026-06-01T02:55:48Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 43,
+    "updated_at": "2026-06-01T02:54:36Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "",
+    "id": "briancl2/CustomerNewsletter",
+    "language": "Python",
+    "name": "briancl2/CustomerNewsletter",
+    "stars": 9,
+    "updated_at": "2026-06-01T02:49:54Z",
+    "url": "https://github.com/briancl2/CustomerNewsletter"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5474,
+    "updated_at": "2026-06-01T02:48:36Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T02:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21753,
-    "updated_at": "2026-06-01T02:44:45Z",
+    "updated_at": "2026-06-01T02:54:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1150,
+    "updated_at": "2026-06-01T02:39:20Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Public mechanism engine for blinded LLM endpoint verification with deterministic challenges, stream-order checks, and st",
@@ -18,13 +90,13 @@
     "url": "https://github.com/miluxis/TokenVerify-Core"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Production-grade agentic decisioning platform for regulated industries. Constant L0\u2013L9 architecture \u2014 LangGraph orchestr",
+    "id": "saralabiswal/agentic-regulated-decisioning",
     "language": "Python",
-    "name": "linny006/llmops-radar",
+    "name": "saralabiswal/agentic-regulated-decisioning",
     "stars": 0,
-    "updated_at": "2026-06-01T02:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-06-01T02:37:13Z",
+    "url": "https://github.com/saralabiswal/agentic-regulated-decisioning"
   },
   {
     "description": "Open-source AI gateway for publishing multi-model workflows as OpenAI/Claude-compatible virtual model endpoints.",
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 37,
-    "updated_at": "2026-06-01T02:38:14Z",
+    "updated_at": "2026-06-01T02:59:16Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -52,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T02:24:54Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26220,
-    "updated_at": "2026-06-01T02:24:12Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 31,
-    "updated_at": "2026-06-01T02:15:14Z",
+    "updated_at": "2026-06-01T02:55:53Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 20,
     "updated_at": "2026-06-01T01:43:59Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:43:18Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:43:15Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:43:03Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Multi-cloud Terraform deployment framework for the vLLM Production Stack \u2014 with implementations for AWS (EKS), Azure (AK",
-    "id": "CloudThrill/vllm-production-stack-terraform",
-    "language": "HCL",
-    "name": "CloudThrill/vllm-production-stack-terraform",
-    "stars": 3,
-    "updated_at": "2026-06-01T01:42:50Z",
-    "url": "https://github.com/CloudThrill/vllm-production-stack-terraform"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:39:09Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:39:04Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-06-01T01:37:23Z",
-    "url": "https://github.com/degen1322/agentic-template"
   }
 ]
