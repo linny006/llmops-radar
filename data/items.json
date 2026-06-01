@@ -1,5 +1,68 @@
 [
   {
+    "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
+    "id": "zenml-io/mcp-zenml",
+    "language": "Python",
+    "name": "zenml-io/mcp-zenml",
+    "stars": 45,
+    "updated_at": "2026-06-01T09:56:25Z",
+    "url": "https://github.com/zenml-io/mcp-zenml"
+  },
+  {
+    "description": "High-scale LLM gateway, written in Rust. OpenTelemetry-based observability included",
+    "id": "traceloop/hub",
+    "language": "Rust",
+    "name": "traceloop/hub",
+    "stars": 203,
+    "updated_at": "2026-06-01T09:55:24Z",
+    "url": "https://github.com/traceloop/hub"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11418,
+    "updated_at": "2026-06-01T09:54:44Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "The canonical standard for building production-grade agentic products \u2014 autonomy ladder, composition patterns, the 7-lay",
+    "id": "Moai-Team-LLC/agentic-product-standard",
+    "language": "Shell",
+    "name": "Moai-Team-LLC/agentic-product-standard",
+    "stars": 5,
+    "updated_at": "2026-06-01T09:54:32Z",
+    "url": "https://github.com/Moai-Team-LLC/agentic-product-standard"
+  },
+  {
+    "description": "VectorHub is a free, open-source learning website for people (software developers to senior ML architects) interested in",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 522,
+    "updated_at": "2026-06-01T09:51:19Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5394,
+    "updated_at": "2026-06-01T09:53:25Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T09:45:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
     "id": "sxueck/llm-gateway",
     "language": "TypeScript",
@@ -9,12 +72,21 @@
     "url": "https://github.com/sxueck/llm-gateway"
   },
   {
+    "description": "Runnable, framework-focused recipes for the Ferro Labs AI Gateway: build LangChain & LangGraph agents that route across ",
+    "id": "ferro-labs/ai-gateway-cookbook",
+    "language": "Python",
+    "name": "ferro-labs/ai-gateway-cookbook",
+    "stars": 0,
+    "updated_at": "2026-06-01T09:43:48Z",
+    "url": "https://github.com/ferro-labs/ai-gateway-cookbook"
+  },
+  {
     "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
     "id": "Netis/heron",
     "language": "Rust",
     "name": "Netis/heron",
     "stars": 5,
-    "updated_at": "2026-06-01T09:42:59Z",
+    "updated_at": "2026-06-01T10:00:31Z",
     "url": "https://github.com/Netis/heron"
   },
   {
@@ -22,8 +94,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19416,
-    "updated_at": "2026-06-01T09:42:04Z",
+    "stars": 19417,
+    "updated_at": "2026-06-01T09:50:42Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -41,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3275,
-    "updated_at": "2026-06-01T09:39:22Z",
+    "updated_at": "2026-06-01T10:00:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -59,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28303,
-    "updated_at": "2026-06-01T09:45:00Z",
+    "updated_at": "2026-06-01T09:55:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -108,15 +180,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:30:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -144,15 +207,6 @@
     "url": "https://github.com/BaizeAI/kcover"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5393,
-    "updated_at": "2026-06-01T09:29:17Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -162,21 +216,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "The canonical standard for building production-grade agentic products \u2014 autonomy ladder, composition patterns, the 7-lay",
-    "id": "Moai-Team-LLC/agentic-product-standard",
-    "language": "Shell",
-    "name": "Moai-Team-LLC/agentic-product-standard",
-    "stars": 5,
-    "updated_at": "2026-06-01T09:28:28Z",
-    "url": "https://github.com/Moai-Team-LLC/agentic-product-standard"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48913,
-    "updated_at": "2026-06-01T09:26:07Z",
+    "stars": 48915,
+    "updated_at": "2026-06-01T09:58:30Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T09:00:05Z",
     "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-01T08:59:29Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-01T08:58:54Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-01T08:58:53Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-01T08:58:46Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-01T08:58:40Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
