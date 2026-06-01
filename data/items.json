@@ -1,12 +1,57 @@
 [
   {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28315,
+    "updated_at": "2026-06-01T15:12:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The canonical standard for building production-grade agentic products \u2014 autonomy ladder, composition patterns, the 7-lay",
+    "id": "Moai-Team-LLC/agentic-product-standard",
+    "language": "Shell",
+    "name": "Moai-Team-LLC/agentic-product-standard",
+    "stars": 5,
+    "updated_at": "2026-06-01T15:13:05Z",
+    "url": "https://github.com/Moai-Team-LLC/agentic-product-standard"
+  },
+  {
+    "description": "",
+    "id": "javsanesq/tabular-ai-analyst",
+    "language": "Python",
+    "name": "javsanesq/tabular-ai-analyst",
+    "stars": 1,
+    "updated_at": "2026-06-01T15:08:45Z",
+    "url": "https://github.com/javsanesq/tabular-ai-analyst"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5403,
+    "updated_at": "2026-06-01T15:12:40Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-01T14:45:36Z",
+    "updated_at": "2026-06-01T15:00:36Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5428,
+    "updated_at": "2026-06-01T15:11:56Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
@@ -18,13 +63,13 @@
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5402,
-    "updated_at": "2026-06-01T14:39:57Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
+    "id": "Netis/heron",
+    "language": "Rust",
+    "name": "Netis/heron",
+    "stars": 5,
+    "updated_at": "2026-06-01T14:38:51Z",
+    "url": "https://github.com/Netis/heron"
   },
   {
     "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
@@ -32,7 +77,7 @@
     "language": "TypeScript",
     "name": "traceloop/openllmetry-js",
     "stars": 401,
-    "updated_at": "2026-06-01T14:38:10Z",
+    "updated_at": "2026-06-01T15:09:08Z",
     "url": "https://github.com/traceloop/openllmetry-js"
   },
   {
@@ -43,6 +88,15 @@
     "stars": 66,
     "updated_at": "2026-06-01T14:37:25Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2168,
+    "updated_at": "2026-06-01T15:09:10Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "MrRobotop/ariadne-eval",
     "stars": 0,
-    "updated_at": "2026-06-01T14:25:52Z",
+    "updated_at": "2026-06-01T15:14:23Z",
     "url": "https://github.com/MrRobotop/ariadne-eval"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 1,
-    "updated_at": "2026-06-01T14:21:54Z",
+    "updated_at": "2026-06-01T15:06:30Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -81,21 +135,12 @@
     "url": "https://github.com/briancl2/CustomerNewsletter"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2168,
-    "updated_at": "2026-06-01T14:31:04Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 3,
-    "updated_at": "2026-06-01T14:13:57Z",
+    "updated_at": "2026-06-01T15:12:40Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -121,7 +166,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48938,
+    "stars": 48937,
     "updated_at": "2026-06-01T14:06:56Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -131,17 +176,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9941,
-    "updated_at": "2026-06-01T14:59:38Z",
+    "updated_at": "2026-06-01T15:09:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The canonical standard for building production-grade agentic products \u2014 autonomy ladder, composition patterns, the 7-lay",
-    "id": "Moai-Team-LLC/agentic-product-standard",
-    "language": "Shell",
-    "name": "Moai-Team-LLC/agentic-product-standard",
-    "stars": 5,
-    "updated_at": "2026-06-01T14:00:32Z",
-    "url": "https://github.com/Moai-Team-LLC/agentic-product-standard"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -149,17 +185,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 355,
-    "updated_at": "2026-06-01T14:43:33Z",
+    "updated_at": "2026-06-01T15:02:37Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28314,
-    "updated_at": "2026-06-01T13:57:31Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Diagnose AI agent stack configuration, routing, credential, cron, memory, and skill failures before they bite",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T13:18:47Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:16:26Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:14:43Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
-    "id": "jamjet-labs/jamjet",
-    "language": "Rust",
-    "name": "jamjet-labs/jamjet",
-    "stars": 13,
-    "updated_at": "2026-06-01T13:14:12Z",
-    "url": "https://github.com/jamjet-labs/jamjet"
   }
 ]
