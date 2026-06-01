@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-01 10:30 UTC
+> ⏰ Last updated: 2026-06-01 10:37 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 2 | Java | 2026-06-01 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
-| 2 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2167 | C++ | 2026-06-01 | Community maintained hardware plugin for vLLM on Ascend |
-| 3 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 3 | Vue | 2026-06-01 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
-| 4 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3275 | TypeScript | 2026-06-01 | The platform for LLM evaluations and AI agent testing |
-| 5 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-01 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 6 | [8pig/llm-ops](https://github.com/8pig/llm-ops) | 7 | Python | 2026-06-01 | 学习大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）  丐版dify. 立即上线你的agent 应用. |
-| 7 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28561 | TypeScript | 2026-06-01 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 8 | [beyhangl/evalcraft](https://github.com/beyhangl/evalcraft) | 5 | Python | 2026-06-01 | Generate deterministic pytest tests for your AI agents from one real run, then replay them in CI for $0. Fast, flake-fre |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 10 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 66 | Python | 2026-06-01 | Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done. |
-| 11 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48917 | Python | 2026-06-01 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 12 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5395 | Go | 2026-06-01 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 1 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5396 | Go | 2026-06-01 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 2 | Java | 2026-06-01 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
+| 4 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2167 | C++ | 2026-06-01 | Community maintained hardware plugin for vLLM on Ascend |
+| 5 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 3 | Vue | 2026-06-01 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
+| 6 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3275 | TypeScript | 2026-06-01 | The platform for LLM evaluations and AI agent testing |
+| 7 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-01 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 8 | [8pig/llm-ops](https://github.com/8pig/llm-ops) | 7 | Python | 2026-06-01 | 学习大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）  丐版dify. 立即上线你的agent 应用. |
+| 9 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28561 | TypeScript | 2026-06-01 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 10 | [beyhangl/evalcraft](https://github.com/beyhangl/evalcraft) | 5 | Python | 2026-06-01 | Generate deterministic pytest tests for your AI agents from one real run, then replay them in CI for $0. Fast, flake-fre |
+| 11 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 66 | Python | 2026-06-01 | Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done. |
+| 12 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48917 | Python | 2026-06-01 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 13 | [dr-gareth-roberts/insideLLMs](https://github.com/dr-gareth-roberts/insideLLMs) | 1 | Python | 2026-06-01 | insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h |
 | 14 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28304 | TypeScript | 2026-06-01 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
 | 15 | [javsanesq/rag-assistant](https://github.com/javsanesq/rag-assistant) | 1 | Python | 2026-06-01 | Production-grade RAG assistant with FastAPI, Qdrant, evaluations, citations, and Docker |
