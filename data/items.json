@@ -1,12 +1,57 @@
 [
   {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 0,
-    "updated_at": "2026-06-01T10:44:44Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
+    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
+    "id": "taishan666/MaxKB4j",
+    "language": "Java",
+    "name": "taishan666/MaxKB4j",
+    "stars": 88,
+    "updated_at": "2026-06-01T11:00:20Z",
+    "url": "https://github.com/taishan666/MaxKB4j"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-01T11:00:15Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
+    "id": "zenml-io/mcp-zenml",
+    "language": "Python",
+    "name": "zenml-io/mcp-zenml",
+    "stars": 45,
+    "updated_at": "2026-06-01T10:59:46Z",
+    "url": "https://github.com/zenml-io/mcp-zenml"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26227,
+    "updated_at": "2026-06-01T10:59:28Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
+    "id": "Netis/heron",
+    "language": "Rust",
+    "name": "Netis/heron",
+    "stars": 5,
+    "updated_at": "2026-06-01T10:54:21Z",
+    "url": "https://github.com/Netis/heron"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19417,
+    "updated_at": "2026-06-01T10:58:20Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "",
@@ -14,8 +59,44 @@
     "language": "Python",
     "name": "javsanesq/tabular-ai-analyst",
     "stars": 0,
-    "updated_at": "2026-06-01T10:44:32Z",
+    "updated_at": "2026-06-01T10:53:15Z",
     "url": "https://github.com/javsanesq/tabular-ai-analyst"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5397,
+    "updated_at": "2026-06-01T10:51:23Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 5,
+    "updated_at": "2026-06-01T10:50:52Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T10:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 0,
+    "updated_at": "2026-06-01T10:59:26Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48918,
-    "updated_at": "2026-06-01T10:44:01Z",
+    "updated_at": "2026-06-01T10:48:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -41,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3275,
-    "updated_at": "2026-06-01T10:45:21Z",
+    "updated_at": "2026-06-01T10:51:39Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -52,24 +133,6 @@
     "stars": 3,
     "updated_at": "2026-06-01T10:40:13Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T10:37:16Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5396,
-    "updated_at": "2026-06-01T10:38:51Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
@@ -158,7 +221,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28305,
-    "updated_at": "2026-06-01T10:03:05Z",
+    "updated_at": "2026-06-01T10:59:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -169,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T10:01:34Z",
     "url": "https://github.com/javsanesq/rag-assistant"
-  },
-  {
-    "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
-    "id": "zenml-io/mcp-zenml",
-    "language": "Python",
-    "name": "zenml-io/mcp-zenml",
-    "stars": 45,
-    "updated_at": "2026-06-01T09:56:25Z",
-    "url": "https://github.com/zenml-io/mcp-zenml"
   },
   {
     "description": "High-scale LLM gateway, written in Rust. OpenTelemetry-based observability included",
@@ -223,33 +277,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T09:43:48Z",
     "url": "https://github.com/ferro-labs/ai-gateway-cookbook"
-  },
-  {
-    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
-    "id": "Netis/heron",
-    "language": "Rust",
-    "name": "Netis/heron",
-    "stars": 5,
-    "updated_at": "2026-06-01T10:28:12Z",
-    "url": "https://github.com/Netis/heron"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19417,
-    "updated_at": "2026-06-01T10:41:34Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
-    "id": "taishan666/MaxKB4j",
-    "language": "Java",
-    "name": "taishan666/MaxKB4j",
-    "stars": 88,
-    "updated_at": "2026-06-01T09:41:38Z",
-    "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -421,32 +448,5 @@
     "stars": 5475,
     "updated_at": "2026-06-01T09:41:21Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-06-01T09:16:29Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
-    "id": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "language": "Python",
-    "name": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:15:56Z",
-    "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-01T09:10:23Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
