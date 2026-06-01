@@ -1,5 +1,140 @@
 [
   {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 39,
+    "updated_at": "2026-06-01T09:44:33Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
+    "id": "Netis/heron",
+    "language": "Rust",
+    "name": "Netis/heron",
+    "stars": 5,
+    "updated_at": "2026-06-01T09:42:59Z",
+    "url": "https://github.com/Netis/heron"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19416,
+    "updated_at": "2026-06-01T09:42:04Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
+    "id": "taishan666/MaxKB4j",
+    "language": "Java",
+    "name": "taishan666/MaxKB4j",
+    "stars": 88,
+    "updated_at": "2026-06-01T09:41:38Z",
+    "url": "https://github.com/taishan666/MaxKB4j"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3275,
+    "updated_at": "2026-06-01T09:39:22Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-01T09:36:03Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28303,
+    "updated_at": "2026-06-01T09:45:00Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Production-grade LLMOps lab: observability (Langfuse), reliability (retry/circuit-breaker/fallback), RAG with Qdrant + V",
+    "id": "kupolua/llmops-observability-lab",
+    "language": "Python",
+    "name": "kupolua/llmops-observability-lab",
+    "stars": 0,
+    "updated_at": "2026-06-01T09:35:28Z",
+    "url": "https://github.com/kupolua/llmops-observability-lab"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-06-01T09:33:03Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
+    "id": "Arman7843/gemmachat-windows",
+    "language": "\u2014",
+    "name": "Arman7843/gemmachat-windows",
+    "stars": 0,
+    "updated_at": "2026-06-01T09:32:02Z",
+    "url": "https://github.com/Arman7843/gemmachat-windows"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-06-01T09:31:47Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-06-01T09:31:44Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T09:30:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-06-01T09:30:35Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
+  },
+  {
+    "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
+    "id": "Prissieperoneal156/rig",
+    "language": "\u2014",
+    "name": "Prissieperoneal156/rig",
+    "stars": 0,
+    "updated_at": "2026-06-01T09:30:28Z",
+    "url": "https://github.com/Prissieperoneal156/rig"
+  },
+  {
     "description": "\ud83e\uddef Kubernetes coverage for fault awareness and recovery, works for any LLMOps, MLOps, AI workloads.",
     "id": "BaizeAI/kcover",
     "language": "Go",
@@ -7,6 +142,15 @@
     "stars": 35,
     "updated_at": "2026-06-01T09:29:36Z",
     "url": "https://github.com/BaizeAI/kcover"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5393,
+    "updated_at": "2026-06-01T09:29:17Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -27,22 +171,13 @@
     "url": "https://github.com/Moai-Team-LLC/agentic-product-standard"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28301,
-    "updated_at": "2026-06-01T09:26:58Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3275,
-    "updated_at": "2026-06-01T09:29:25Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 48913,
+    "updated_at": "2026-06-01T09:26:07Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -131,7 +266,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5475,
-    "updated_at": "2026-06-01T09:30:28Z",
+    "updated_at": "2026-06-01T09:41:21Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -144,15 +279,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 48910,
-    "updated_at": "2026-06-01T09:26:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
     "id": "Plumaged-dancing835/litellm_1.82.8_payload",
     "language": "Python",
@@ -160,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T09:15:56Z",
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T08:58:40Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-01T08:56:40Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-01T08:55:59Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 39,
-    "updated_at": "2026-06-01T08:54:15Z",
-    "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26224,
-    "updated_at": "2026-06-01T08:52:41Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-01T08:52:08Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "TypeScript",
-    "name": "dataelement/bisheng",
-    "stars": 11417,
-    "updated_at": "2026-06-01T08:52:03Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-01T08:49:38Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 28559,
-    "updated_at": "2026-06-01T09:18:11Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-01T08:49:37Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-01T08:49:27Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1153,
-    "updated_at": "2026-06-01T09:15:57Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5392,
-    "updated_at": "2026-06-01T09:29:17Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-01T08:45:05Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
