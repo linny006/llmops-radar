@@ -1,12 +1,12 @@
 [
   {
-    "description": "The local-first control plane for AI work",
-    "id": "lgrossi/noether",
-    "language": "Rust",
-    "name": "lgrossi/noether",
-    "stars": 0,
-    "updated_at": "2026-06-01T21:14:07Z",
-    "url": "https://github.com/lgrossi/noether"
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-01T21:29:01Z",
+    "url": "https://github.com/tenemos/langwatch"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48950,
-    "updated_at": "2026-06-01T21:15:15Z",
+    "updated_at": "2026-06-01T21:30:05Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-06-01T21:27:39Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
+    "id": "kensterinvest/tidus",
+    "language": "Python",
+    "name": "kensterinvest/tidus",
+    "stars": 1,
+    "updated_at": "2026-06-01T21:27:35Z",
+    "url": "https://github.com/kensterinvest/tidus"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 3,
+    "updated_at": "2026-06-01T21:26:02Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9948,
+    "updated_at": "2026-06-01T21:24:08Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +59,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-01T21:00:32Z",
+    "updated_at": "2026-06-01T21:15:31Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "",
+    "id": "javsanesq/tabular-ai-analyst",
+    "language": "Python",
+    "name": "javsanesq/tabular-ai-analyst",
+    "stars": 1,
+    "updated_at": "2026-06-01T21:15:24Z",
+    "url": "https://github.com/javsanesq/tabular-ai-analyst"
+  },
+  {
+    "description": "The local-first control plane for AI work",
+    "id": "lgrossi/noether",
+    "language": "Rust",
+    "name": "lgrossi/noether",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:16:08Z",
+    "url": "https://github.com/lgrossi/noether"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T20:58:32Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9948,
-    "updated_at": "2026-06-01T21:01:01Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AOS \u2014 AI runtime assurance for turning uncertain model outputs into auditable PASS/WARN/BLOCK decisions before real-worl",
@@ -63,21 +108,12 @@
     "url": "https://github.com/zhjai/agent-completion-gate"
   },
   {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 3,
-    "updated_at": "2026-06-01T20:49:05Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21783,
-    "updated_at": "2026-06-01T21:03:51Z",
+    "updated_at": "2026-06-01T21:30:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19417,
-    "updated_at": "2026-06-01T19:50:57Z",
+    "updated_at": "2026-06-01T21:18:44Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -374,7 +410,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4171,
-    "updated_at": "2026-06-01T21:13:32Z",
+    "updated_at": "2026-06-01T21:20:02Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 16,
     "updated_at": "2026-06-01T19:29:37Z",
     "url": "https://github.com/brandonhimpfen/awesome-llmops"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-01T19:29:21Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-01T19:29:20Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-01T19:29:20Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-01T19:29:13Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
