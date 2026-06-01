@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-01 20:45 UTC
+> ⏰ Last updated: 2026-06-01 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48949 | Python | 2026-06-01 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 3 | [zhjai/agent-completion-gate](https://github.com/zhjai/agent-completion-gate) | 0 | Python | 2026-06-01 | Stop agents from marking work done that isn't — a fail-closed completion gate + four-state machine: the worker only prop |
-| 4 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 3 | Python | 2026-06-01 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21783 | TypeScript | 2026-06-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 6 | [bursora/core](https://github.com/bursora/core) | 0 | TypeScript | 2026-06-01 | Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js) |
-| 7 | [szymonhetnar/aos-meta-symbolic-kernel](https://github.com/szymonhetnar/aos-meta-symbolic-kernel) | 0 | Python | 2026-06-01 | AOS — AI runtime assurance for turning uncertain model outputs into auditable PASS/WARN/BLOCK decisions before real-worl |
-| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9948 | Python | 2026-06-01 | AI Observability & Evaluation |
-| 9 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 1 | Go | 2026-06-01 | The workflow and governance layer for agent-driven software development. |
-| 10 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 1845 | Python | 2026-06-01 | Observal is a unified platform for agent distribution, observability and insights.  |
-| 11 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-01 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 12 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-01 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-01 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9948 | Python | 2026-06-01 | AI Observability & Evaluation |
+| 3 | [szymonhetnar/aos-meta-symbolic-kernel](https://github.com/szymonhetnar/aos-meta-symbolic-kernel) | 0 | Python | 2026-06-01 | AOS — AI runtime assurance for turning uncertain model outputs into auditable PASS/WARN/BLOCK decisions before real-worl |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48949 | Python | 2026-06-01 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 6 | [zhjai/agent-completion-gate](https://github.com/zhjai/agent-completion-gate) | 1 | Python | 2026-06-01 | Stop agents from marking work done that isn't — a fail-closed completion gate + four-state machine: the worker only prop |
+| 7 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 3 | Python | 2026-06-01 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
+| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21783 | TypeScript | 2026-06-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 9 | [bursora/core](https://github.com/bursora/core) | 0 | TypeScript | 2026-06-01 | Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js) |
+| 10 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 1 | Go | 2026-06-01 | The workflow and governance layer for agent-driven software development. |
+| 11 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 1845 | Python | 2026-06-01 | Observal is a unified platform for agent distribution, observability and insights.  |
+| 12 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-01 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 13 | [vitas/evidra-bench](https://github.com/vitas/evidra-bench) | 0 | Go | 2026-06-01 | Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age |
 | 14 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1002 | Python | 2026-06-01 | OpenTelemetry Instrumentation for AI Observability |
 | 15 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-01 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
