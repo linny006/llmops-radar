@@ -1,21 +1,66 @@
 [
   {
-    "description": "Stop agents from marking work done that isn't \u2014 a fail-closed completion gate + four-state machine: the worker only prop",
-    "id": "zhjai/agent-completion-gate",
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
     "language": "Python",
-    "name": "zhjai/agent-completion-gate",
-    "stars": 1,
-    "updated_at": "2026-06-02T03:19:39Z",
-    "url": "https://github.com/zhjai/agent-completion-gate"
+    "name": "8pig/llm-ops",
+    "stars": 7,
+    "updated_at": "2026-06-02T03:43:41Z",
+    "url": "https://github.com/8pig/llm-ops"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48973,
-    "updated_at": "2026-06-02T03:27:30Z",
+    "stars": 48976,
+    "updated_at": "2026-06-02T03:45:05Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source AI gateway for publishing multi-model workflows as OpenAI/Claude-compatible virtual model endpoints.",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 59,
+    "updated_at": "2026-06-02T03:36:36Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-02T03:44:11Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-06-02T03:35:05Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:33:54Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21790,
+    "updated_at": "2026-06-02T03:38:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +68,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-02T03:15:27Z",
+    "updated_at": "2026-06-02T03:30:24Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Stop agents from marking work done that isn't \u2014 a fail-closed completion gate + four-state machine: the worker only prop",
+    "id": "zhjai/agent-completion-gate",
+    "language": "Python",
+    "name": "zhjai/agent-completion-gate",
+    "stars": 1,
+    "updated_at": "2026-06-02T03:19:39Z",
+    "url": "https://github.com/zhjai/agent-completion-gate"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -36,24 +90,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 0,
-    "updated_at": "2026-06-02T03:13:45Z",
-    "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21789,
-    "updated_at": "2026-06-02T03:21:50Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Transparent LLM gateway trace recorder \u00b7 sub2api / CLIProxyAPI / new-api \u7684 LLM \u7f51\u5173\u6d41\u91cf\u5f55\u5236\u5668",
     "id": "2nd1st/api-log",
     "language": "Go",
@@ -61,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-06-02T03:06:02Z",
     "url": "https://github.com/2nd1st/api-log"
-  },
-  {
-    "description": "Open-source AI gateway for publishing multi-model workflows as OpenAI/Claude-compatible virtual model endpoints.",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 57,
-    "updated_at": "2026-06-02T03:00:59Z",
-    "url": "https://github.com/taichuy/1flowbase"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -166,7 +193,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26240,
+    "stars": 26241,
     "updated_at": "2026-06-02T02:37:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -205,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T02:34:23Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-06-02T02:33:00Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
@@ -256,7 +274,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2173,
+    "stars": 2174,
     "updated_at": "2026-06-02T02:29:28Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -268,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-06-02T02:29:13Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
-    "id": "8pig/llm-ops",
-    "language": "Python",
-    "name": "8pig/llm-ops",
-    "stars": 7,
-    "updated_at": "2026-06-02T02:27:46Z",
-    "url": "https://github.com/8pig/llm-ops"
   },
   {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T02:11:48Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-02T02:11:07Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
