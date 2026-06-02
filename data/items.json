@@ -1,12 +1,39 @@
 [
   {
+    "description": "Multi-repository workspace harness for AcornOps development, validation and contracts.",
+    "id": "acornops/acornops-workspace",
+    "language": "JavaScript",
+    "name": "acornops/acornops-workspace",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:19:52Z",
+    "url": "https://github.com/acornops/acornops-workspace"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 20,
+    "updated_at": "2026-06-02T17:18:55Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49051,
-    "updated_at": "2026-06-02T17:13:01Z",
+    "stars": 49050,
+    "updated_at": "2026-06-02T17:17:51Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:15:41Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 67,
-    "updated_at": "2026-06-02T17:06:24Z",
+    "updated_at": "2026-06-02T17:19:11Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T17:05:26Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:00:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The operations layer for your local LLM stack",
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28378,
-    "updated_at": "2026-06-02T16:57:56Z",
+    "updated_at": "2026-06-02T17:18:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5427,
-    "updated_at": "2026-06-02T17:11:33Z",
+    "updated_at": "2026-06-02T17:19:04Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9966,
-    "updated_at": "2026-06-02T17:13:30Z",
+    "updated_at": "2026-06-02T17:17:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -214,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-06-02T16:41:24Z",
     "url": "https://github.com/ashwanijha04/peekr"
-  },
-  {
-    "description": "Multi-repository workspace harness for AcornOps development, validation and contracts.",
-    "id": "acornops/acornops-workspace",
-    "language": "JavaScript",
-    "name": "acornops/acornops-workspace",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:41:21Z",
-    "url": "https://github.com/acornops/acornops-workspace"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -439,14 +448,5 @@
     "stars": 3280,
     "updated_at": "2026-06-02T16:59:03Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:22:21Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
