@@ -1,12 +1,12 @@
 [
   {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 7,
-    "updated_at": "2026-06-02T16:59:48Z",
-    "url": "https://github.com/ndom91/llama-dash"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49051,
+    "updated_at": "2026-06-02T17:13:01Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -14,8 +14,62 @@
     "language": "HTML",
     "name": "DYAI2025/Plumbline",
     "stars": 2,
-    "updated_at": "2026-06-02T16:59:22Z",
+    "updated_at": "2026-06-02T17:08:19Z",
     "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "The local-first control plane for AI work",
+    "id": "lgrossi/noether",
+    "language": "Rust",
+    "name": "lgrossi/noether",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:07:44Z",
+    "url": "https://github.com/lgrossi/noether"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 67,
+    "updated_at": "2026-06-02T17:06:24Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1004,
+    "updated_at": "2026-06-02T17:07:04Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:05:26Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:00:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 7,
+    "updated_at": "2026-06-02T16:59:48Z",
+    "url": "https://github.com/ndom91/llama-dash"
   },
   {
     "description": "The workflow and governance layer for agent-driven software development.",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
     "stars": 1869,
-    "updated_at": "2026-06-02T16:52:48Z",
+    "updated_at": "2026-06-02T17:02:59Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5427,
-    "updated_at": "2026-06-02T16:55:36Z",
+    "updated_at": "2026-06-02T17:11:33Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -104,17 +158,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9966,
-    "updated_at": "2026-06-02T16:58:27Z",
+    "updated_at": "2026-06-02T17:13:30Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:45:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19423,
-    "updated_at": "2026-06-02T16:39:14Z",
+    "updated_at": "2026-06-02T17:04:27Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -286,24 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T16:35:45Z",
     "url": "https://github.com/acornops/execution-engine"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1004,
-    "updated_at": "2026-06-02T16:36:14Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49049,
-    "updated_at": "2026-06-02T16:35:30Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T16:22:21Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-02T16:20:52Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:20:32Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:20:18Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
