@@ -1,11 +1,47 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5431,
+    "updated_at": "2026-06-02T22:11:46Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9968,
+    "updated_at": "2026-06-02T22:14:35Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Cost-aware LLM router: predict each model's quality on a query, then route on the cost-quality frontier. Benchmarked on ",
+    "id": "Keyan-sm/pareto-router",
+    "language": "Python",
+    "name": "Keyan-sm/pareto-router",
+    "stars": 0,
+    "updated_at": "2026-06-02T22:03:06Z",
+    "url": "https://github.com/Keyan-sm/pareto-router"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T22:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49063,
-    "updated_at": "2026-06-02T21:57:33Z",
+    "updated_at": "2026-06-02T22:12:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21812,
-    "updated_at": "2026-06-02T21:56:15Z",
+    "updated_at": "2026-06-02T22:12:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T21:50:41Z",
     "url": "https://github.com/vitas/evidra-bench"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9967,
-    "updated_at": "2026-06-02T21:47:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production-grade LLMOps platform for RAG-based AI assistants: LLM gateway, eval gates, observability, cost controls, fal",
@@ -99,6 +117,15 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28387,
+    "updated_at": "2026-06-02T21:26:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "The workflow and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T21:16:28Z",
     "url": "https://github.com/edaywalid/llm-inference-gateway"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28386,
-    "updated_at": "2026-06-02T21:26:32Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Zero-config observability for AI agents. Auto-instruments OpenAI & Anthropic SDKs.",
@@ -220,7 +238,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26257,
+    "stars": 26258,
     "updated_at": "2026-06-02T20:48:26Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -342,15 +360,6 @@
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5431,
-    "updated_at": "2026-06-02T21:33:55Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -423,6 +432,15 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4173,
+    "updated_at": "2026-06-02T22:11:17Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
     "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T20:26:17Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:24:43Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:24:09Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
