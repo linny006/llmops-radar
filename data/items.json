@@ -1,21 +1,66 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9967,
-    "updated_at": "2026-06-02T21:11:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
+    "id": "Mindburn-Labs/helm-ai-kernel",
+    "language": "Go",
+    "name": "Mindburn-Labs/helm-ai-kernel",
+    "stars": 9,
+    "updated_at": "2026-06-02T21:30:14Z",
+    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-06-02T21:29:48Z",
+    "url": "https://github.com/vivek-541/vivek-541"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21810,
-    "updated_at": "2026-06-02T21:03:41Z",
+    "stars": 21812,
+    "updated_at": "2026-06-02T21:22:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3355,
+    "updated_at": "2026-06-02T21:21:57Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 1,
+    "updated_at": "2026-06-02T21:20:55Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "OpenAI-compatible LLM gateway: routes to the cheapest model meeting latency/quality targets, with SSE streaming, semanti",
+    "id": "edaywalid/llm-inference-gateway",
+    "language": "Python",
+    "name": "edaywalid/llm-inference-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-02T21:16:28Z",
+    "url": "https://github.com/edaywalid/llm-inference-gateway"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28386,
+    "updated_at": "2026-06-02T21:26:32Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +68,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-02T21:00:31Z",
+    "updated_at": "2026-06-02T21:15:35Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9967,
+    "updated_at": "2026-06-02T21:17:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Zero-config observability for AI agents. Auto-instruments OpenAI & Anthropic SDKs.",
@@ -108,15 +162,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28385,
-    "updated_at": "2026-06-02T21:02:26Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T20:46:51Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 1,
-    "updated_at": "2026-06-02T21:05:15Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
@@ -252,15 +288,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
-    "id": "Mindburn-Labs/helm-ai-kernel",
-    "language": "Go",
-    "name": "Mindburn-Labs/helm-ai-kernel",
-    "stars": 9,
-    "updated_at": "2026-06-02T21:12:17Z",
-    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
-  },
-  {
     "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
     "id": "Plumaged-dancing835/litellm_1.82.8_payload",
     "language": "Python",
@@ -292,7 +319,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49067,
+    "stars": 49068,
     "updated_at": "2026-06-02T20:34:46Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T20:23:25Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-02T20:23:24Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:23:14Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:21:30Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
