@@ -1,5 +1,68 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-02T18:15:38Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-02T18:15:01Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 1,
+    "updated_at": "2026-06-02T18:13:45Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 20,
+    "updated_at": "2026-06-02T18:13:10Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
+    "id": "prashar32/riskkernel",
+    "language": "Go",
+    "name": "prashar32/riskkernel",
+    "stars": 11,
+    "updated_at": "2026-06-02T18:11:48Z",
+    "url": "https://github.com/prashar32/riskkernel"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 3,
+    "updated_at": "2026-06-02T18:09:49Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T18:00:44Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AOS \u2014 AI runtime assurance for turning uncertain model outputs into auditable PASS/WARN/BLOCK decisions before real-worl",
     "id": "szymonhetnar/aos-meta-symbolic-kernel",
     "language": "Python",
@@ -13,7 +76,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49054,
+    "stars": 49057,
     "updated_at": "2026-06-02T17:56:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T17:49:43Z",
     "url": "https://github.com/chrono-metrics/metricchrono"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:45:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-cloud Terraform deployment framework for the vLLM Production Stack \u2014 with implementations for AWS (EKS), Azure (AK",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9966,
-    "updated_at": "2026-06-02T17:56:12Z",
+    "updated_at": "2026-06-02T18:03:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -59,17 +113,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3281,
-    "updated_at": "2026-06-02T17:56:50Z",
+    "updated_at": "2026-06-02T18:09:36Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:36:39Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Live infrastructure exams and regression testing for AI agents and MCP servers. Evidra Bench is an AI infrastructure age",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T17:35:09Z",
     "url": "https://github.com/vitas/evidra-bench"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-06-02T17:31:26Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
@@ -153,21 +189,12 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 20,
-    "updated_at": "2026-06-02T17:18:55Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
     "id": "DYAI2025/Plumbline",
     "language": "HTML",
     "name": "DYAI2025/Plumbline",
     "stars": 2,
-    "updated_at": "2026-06-02T17:08:19Z",
+    "updated_at": "2026-06-02T18:13:53Z",
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 7,
     "updated_at": "2026-06-02T16:59:48Z",
     "url": "https://github.com/ndom91/llama-dash"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 1,
-    "updated_at": "2026-06-02T17:33:00Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T16:33:36Z",
     "url": "https://github.com/MatamDinesh0802/Sentinel-AI-Governance"
-  },
-  {
-    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
-    "id": "acornops/k8s-agent",
-    "language": "TypeScript",
-    "name": "acornops/k8s-agent",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:33:09Z",
-    "url": "https://github.com/acornops/k8s-agent"
-  },
-  {
-    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
-    "id": "acornops/vm-agent",
-    "language": "TypeScript",
-    "name": "acornops/vm-agent",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:31:36Z",
-    "url": "https://github.com/acornops/vm-agent"
   }
 ]
