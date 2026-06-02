@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-02 03:00 UTC
+> ⏰ Last updated: 2026-06-02 03:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48970 | Python | 2026-06-02 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 2 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-06-02 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
+| 1 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7488 | Rust | 2026-06-02 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 48972 | Python | 2026-06-02 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 3 | [2nd1st/api-log](https://github.com/2nd1st/api-log) | 3 | Go | 2026-06-02 | Transparent LLM gateway trace recorder · sub2api / CLIProxyAPI / new-api 的 LLM 网关流量录制器 |
-| 4 | [GaeaRuiW/kube-llmops](https://github.com/GaeaRuiW/kube-llmops) | 12 | Go | 2026-06-02 |  |
-| 5 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-02 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 6 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7487 | Rust | 2026-06-02 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-06-02 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
+| 6 | [GaeaRuiW/kube-llmops](https://github.com/GaeaRuiW/kube-llmops) | 12 | Go | 2026-06-02 |  |
+| 7 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-02 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
 | 8 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-06-02 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
 | 9 | [Arman7843/gemmachat-windows](https://github.com/Arman7843/gemmachat-windows) | 0 | — | 2026-06-02 | Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant. |
 | 10 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-02 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
