@@ -1,21 +1,57 @@
 [
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7488,
-    "updated_at": "2026-06-02T03:14:12Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
+    "description": "Stop agents from marking work done that isn't \u2014 a fail-closed completion gate + four-state machine: the worker only prop",
+    "id": "zhjai/agent-completion-gate",
+    "language": "Python",
+    "name": "zhjai/agent-completion-gate",
+    "stars": 1,
+    "updated_at": "2026-06-02T03:19:39Z",
+    "url": "https://github.com/zhjai/agent-completion-gate"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48972,
-    "updated_at": "2026-06-02T03:12:50Z",
+    "stars": 48973,
+    "updated_at": "2026-06-02T03:27:30Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7488,
+    "updated_at": "2026-06-02T03:23:31Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:13:45Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21789,
+    "updated_at": "2026-06-02T03:21:50Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Transparent LLM gateway trace recorder \u00b7 sub2api / CLIProxyAPI / new-api \u7684 LLM \u7f51\u5173\u6d41\u91cf\u5f55\u5236\u5668",
@@ -27,13 +63,13 @@
     "url": "https://github.com/2nd1st/api-log"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T03:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Open-source AI gateway for publishing multi-model workflows as OpenAI/Claude-compatible virtual model endpoints.",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 57,
+    "updated_at": "2026-06-02T03:00:59Z",
+    "url": "https://github.com/taichuy/1flowbase"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -126,6 +162,15 @@
     "url": "https://github.com/Prissieperoneal156/rig"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26240,
+    "updated_at": "2026-06-02T02:37:09Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
     "id": "kimtth/awesome-azure-openai-llm",
     "language": "Python",
@@ -133,15 +178,6 @@
     "stars": 402,
     "updated_at": "2026-06-02T02:36:31Z",
     "url": "https://github.com/kimtth/awesome-azure-openai-llm"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26239,
-    "updated_at": "2026-06-02T02:37:09Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -342,15 +378,6 @@
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21788,
-    "updated_at": "2026-06-02T03:07:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
     "id": "Trantu6570/LitPOS-Apps-Script",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T02:11:07Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-02T02:07:35Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
-    "id": "Netis/heron",
-    "language": "Rust",
-    "name": "Netis/heron",
-    "stars": 5,
-    "updated_at": "2026-06-02T02:05:46Z",
-    "url": "https://github.com/Netis/heron"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:05:42Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
   }
 ]
