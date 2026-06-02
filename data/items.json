@@ -1,11 +1,65 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 20,
+    "updated_at": "2026-06-02T21:44:11Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49064,
+    "updated_at": "2026-06-02T21:41:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-grade LLMOps platform for RAG-based AI assistants: LLM gateway, eval gates, observability, cost controls, fal",
+    "id": "narek-mosisian/llm-reliability-platform",
+    "language": "\u2014",
+    "name": "narek-mosisian/llm-reliability-platform",
+    "stars": 0,
+    "updated_at": "2026-06-02T21:36:50Z",
+    "url": "https://github.com/narek-mosisian/llm-reliability-platform"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9967,
+    "updated_at": "2026-06-02T21:36:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3355,
+    "updated_at": "2026-06-02T21:34:48Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T21:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
     "id": "Mindburn-Labs/helm-ai-kernel",
     "language": "Go",
     "name": "Mindburn-Labs/helm-ai-kernel",
     "stars": 9,
-    "updated_at": "2026-06-02T21:30:14Z",
+    "updated_at": "2026-06-02T21:44:18Z",
     "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
   },
   {
@@ -23,17 +77,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21812,
-    "updated_at": "2026-06-02T21:22:32Z",
+    "updated_at": "2026-06-02T21:45:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3355,
-    "updated_at": "2026-06-02T21:21:57Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "The workflow and governance layer for agent-driven software development.",
@@ -61,24 +106,6 @@
     "stars": 28386,
     "updated_at": "2026-06-02T21:26:32Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:15:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9967,
-    "updated_at": "2026-06-02T21:17:47Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Zero-config observability for AI agents. Auto-instruments OpenAI & Anthropic SDKs.",
@@ -175,7 +202,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26258,
+    "stars": 26257,
     "updated_at": "2026-06-02T20:48:26Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -302,26 +329,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5431,
-    "updated_at": "2026-06-02T20:35:40Z",
+    "updated_at": "2026-06-02T21:33:55Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 20,
-    "updated_at": "2026-06-02T20:35:18Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49068,
-    "updated_at": "2026-06-02T20:34:46Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T20:23:35Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-02T20:23:25Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
