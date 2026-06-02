@@ -1,12 +1,57 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-02T06:59:54Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Production-grade FastGPT / AIBuilder workflow JSON authoring, inspector and validator for AI agents",
+    "id": "myshkin451/fastgpt-json-authoring-skill",
+    "language": "Python",
+    "name": "myshkin451/fastgpt-json-authoring-skill",
+    "stars": 0,
+    "updated_at": "2026-06-02T06:55:22Z",
+    "url": "https://github.com/myshkin451/fastgpt-json-authoring-skill"
+  },
+  {
+    "description": "SkeinRank \u2014 Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows.",
+    "id": "SkeinRank/skeinrank",
+    "language": "Python",
+    "name": "SkeinRank/skeinrank",
+    "stars": 2,
+    "updated_at": "2026-06-02T06:53:16Z",
+    "url": "https://github.com/SkeinRank/skeinrank"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5411,
-    "updated_at": "2026-06-02T06:44:47Z",
+    "updated_at": "2026-06-02T06:59:03Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T06:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21794,
+    "updated_at": "2026-06-02T06:40:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -23,7 +68,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28574,
-    "updated_at": "2026-06-02T06:40:29Z",
+    "updated_at": "2026-06-02T06:47:06Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -112,18 +157,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 48991,
+    "stars": 48993,
     "updated_at": "2026-06-02T06:33:19Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T06:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
@@ -247,7 +283,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28340,
+    "stars": 28343,
     "updated_at": "2026-06-02T06:19:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -355,7 +391,7 @@
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1847,
+    "stars": 1849,
     "updated_at": "2026-06-02T06:07:51Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T06:04:25Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-02T06:04:15Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-02T06:04:15Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-02T06:04:02Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-02T06:02:23Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
