@@ -1,5 +1,23 @@
 [
   {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 8,
+    "updated_at": "2026-06-02T00:03:31Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T00:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Token cost and latency observability for LLM workloads.",
     "id": "TryKosm/llm-cost-tracker",
     "language": "TypeScript",
@@ -68,7 +86,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 1,
-    "updated_at": "2026-06-01T23:49:08Z",
+    "updated_at": "2026-06-02T00:02:58Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 26239,
     "updated_at": "2026-06-01T23:58:14Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T23:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 48952,
-    "updated_at": "2026-06-01T23:45:00Z",
+    "updated_at": "2026-06-02T00:08:58Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T23:11:45Z",
     "url": "https://github.com/kami-beep/kb-contracts"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-01T23:08:55Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
