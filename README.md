@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-03 04:15 UTC
+> ⏰ Last updated: 2026-06-03 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kalyan-venk/agentic-llmops](https://github.com/kalyan-venk/agentic-llmops) | 1 | TeX | 2026-06-03 | Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o |
-| 2 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1173 | Cuda | 2026-06-03 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [kalyan-venk/agentic-llmops](https://github.com/kalyan-venk/agentic-llmops) | 1 | TeX | 2026-06-03 | Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o |
+| 3 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1173 | Cuda | 2026-06-03 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
 | 4 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-03 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 5 | [phenomenoner/openclaw-mem](https://github.com/phenomenoner/openclaw-mem) | 28 | Python | 2026-06-03 | Local-first memory governance for OpenClaw: Store / Pack / Observe cited, inspectable, rollbackable agent context. |
 | 6 | [taichuy/1flowbase](https://github.com/taichuy/1flowbase) | 77 | Rust | 2026-06-03 | Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token |
@@ -67,7 +67,7 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [wordenneapolitan768/llm-pricing](https://github.com/wordenneapolitan768/llm-pricing) | 1 | — | 2026-06-03 | Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards |
 | 24 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-06-03 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
 | 25 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 1 | TypeScript | 2026-06-03 | Scan AI-generated code for security, performance, and code quality issues before they ship |
-| 26 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5437 | Go | 2026-06-03 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 26 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5438 | Go | 2026-06-03 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 27 | [Healthful-article791/rag-systems-production](https://github.com/Healthful-article791/rag-systems-production) | 1 | — | 2026-06-03 | Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo |
 | 28 | [Plumaged-dancing835/litellm_1.82.8_payload](https://github.com/Plumaged-dancing835/litellm_1.82.8_payload) | 0 | Python | 2026-06-03 | Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio |
 | 29 | [Orlyoxidized462/py-prompt-versioner](https://github.com/Orlyoxidized462/py-prompt-versioner) | 1 | Python | 2026-06-03 | Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL |
