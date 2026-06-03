@@ -1,12 +1,102 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49175,
+    "updated_at": "2026-06-03T18:14:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Evidra Bench runs live infrastructure scenarios for AI agents, MCP servers, and AI SRE tools, then shows pass/fail, unsa",
+    "id": "vitas/evidra-bench",
+    "language": "Go",
+    "name": "vitas/evidra-bench",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:13:57Z",
+    "url": "https://github.com/vitas/evidra-bench"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1006,
+    "updated_at": "2026-06-03T18:13:44Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 4,
+    "updated_at": "2026-06-03T18:12:26Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sy",
+    "id": "pathwaycom/llm-app",
+    "language": "Jupyter Notebook",
+    "name": "pathwaycom/llm-app",
+    "stars": 59456,
+    "updated_at": "2026-06-03T18:09:53Z",
+    "url": "https://github.com/pathwaycom/llm-app"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 1,
+    "updated_at": "2026-06-03T18:14:45Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Official Terraform provider for the Keel AI control plane",
+    "id": "keelapi/terraform-provider-keel",
+    "language": "Go",
+    "name": "keelapi/terraform-provider-keel",
+    "stars": 1,
+    "updated_at": "2026-06-03T18:02:41Z",
+    "url": "https://github.com/keelapi/terraform-provider-keel"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26279,
+    "updated_at": "2026-06-03T18:01:51Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 67,
-    "updated_at": "2026-06-03T18:00:17Z",
+    "updated_at": "2026-06-03T18:14:06Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21845,
+    "updated_at": "2026-06-03T18:13:38Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Zero-config observability for AI agents. Auto-instruments OpenAI & Anthropic SDKs.",
@@ -16,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-06-03T17:55:17Z",
     "url": "https://github.com/ashwanijha04/peekr"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 4,
-    "updated_at": "2026-06-03T17:53:26Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Make AI coding agents prove they're done. A fail-closed completion gate: the agent only proposes done; CI reads the real",
@@ -45,24 +126,6 @@
     "url": "https://github.com/ns408/agentic-lab"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21844,
-    "updated_at": "2026-06-03T17:59:44Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:45:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Wrap your AI provider client in one line to enforce per-tenant, per-agent, per-workflow spend budgets before the call go",
     "id": "bursora/sdk",
     "language": "TypeScript",
@@ -81,15 +144,6 @@
     "url": "https://github.com/bursora/core"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49174,
-    "updated_at": "2026-06-03T17:56:35Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The operations layer for your local LLM stack",
     "id": "ndom91/llama-dash",
     "language": "TypeScript",
@@ -104,7 +158,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28443,
-    "updated_at": "2026-06-03T17:49:03Z",
+    "updated_at": "2026-06-03T18:13:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5461,
-    "updated_at": "2026-06-03T17:21:55Z",
+    "updated_at": "2026-06-03T18:07:48Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -178,24 +232,6 @@
     "stars": 6566,
     "updated_at": "2026-06-03T17:10:29Z",
     "url": "https://github.com/katanemo/plano"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 1,
-    "updated_at": "2026-06-03T17:55:31Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26278,
-    "updated_at": "2026-06-03T17:02:08Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -284,7 +320,7 @@
     "language": "Ruby",
     "name": "sergey-homenko/llm_cost_tracker",
     "stars": 37,
-    "updated_at": "2026-06-03T16:43:19Z",
+    "updated_at": "2026-06-03T18:14:31Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 30,
     "updated_at": "2026-06-03T16:26:41Z",
     "url": "https://github.com/Arize-ai/arize-skills"
-  },
-  {
-    "description": "Diagnose and stop runaway OpenClaw heartbeat token usage",
-    "id": "JPKay-AI/openclaw-cost-airbag",
-    "language": "Shell",
-    "name": "JPKay-AI/openclaw-cost-airbag",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:25:18Z",
-    "url": "https://github.com/JPKay-AI/openclaw-cost-airbag"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:24:07Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-03T16:22:41Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:22:08Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
