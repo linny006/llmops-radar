@@ -1,5 +1,86 @@
 [
   {
+    "description": "Local web console for managing multiple Hermes-first AI agent profiles, runtimes, LLM engines, backups, and diagnostics.",
+    "id": "miter37/agent-runtime-manager",
+    "language": "Python",
+    "name": "miter37/agent-runtime-manager",
+    "stars": 1,
+    "updated_at": "2026-06-03T23:14:12Z",
+    "url": "https://github.com/miter37/agent-runtime-manager"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-06-03T23:13:27Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26285,
+    "updated_at": "2026-06-03T23:12:15Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 5,
+    "updated_at": "2026-06-03T23:09:46Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49191,
+    "updated_at": "2026-06-03T23:07:33Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-06-03T23:06:40Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-03T23:05:15Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-03T23:05:15Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -14,17 +95,8 @@
     "language": "Go",
     "name": "prashar32/riskkernel",
     "stars": 12,
-    "updated_at": "2026-06-03T22:52:49Z",
+    "updated_at": "2026-06-03T23:09:47Z",
     "url": "https://github.com/prashar32/riskkernel"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49190,
-    "updated_at": "2026-06-03T22:55:54Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -32,17 +104,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9971,
-    "updated_at": "2026-06-03T22:50:06Z",
+    "updated_at": "2026-06-03T23:07:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T22:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -58,7 +121,7 @@
     "id": "Netis/heron",
     "language": "Rust",
     "name": "Netis/heron",
-    "stars": 24,
+    "stars": 25,
     "updated_at": "2026-06-03T22:12:26Z",
     "url": "https://github.com/Netis/heron"
   },
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 31,
-    "updated_at": "2026-06-03T21:57:58Z",
+    "updated_at": "2026-06-03T23:15:19Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -113,7 +176,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5465,
-    "updated_at": "2026-06-03T21:50:56Z",
+    "updated_at": "2026-06-03T23:13:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 1,
-    "updated_at": "2026-06-03T21:22:50Z",
+    "updated_at": "2026-06-03T23:14:44Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -355,7 +418,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19427,
+    "stars": 19428,
     "updated_at": "2026-06-03T20:57:31Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T20:53:14Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-03T20:52:58Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-03T20:52:24Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-03T20:50:53Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-06-03T20:50:06Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-03T20:49:53Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-03T20:47:19Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-03T20:45:30Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
   }
 ]
