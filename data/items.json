@@ -4,9 +4,99 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49175,
-    "updated_at": "2026-06-03T18:14:18Z",
+    "stars": 49176,
+    "updated_at": "2026-06-03T18:29:56Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 37,
+    "updated_at": "2026-06-03T18:28:07Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 3,
+    "updated_at": "2026-06-03T18:27:18Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 1,
+    "updated_at": "2026-06-03T18:25:09Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:22:53Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21847,
+    "updated_at": "2026-06-03T18:22:36Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:21:04Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A lab exploring agentic AI for Cloud and DevOps, built as small, runnable demos. Work in progress.",
+    "id": "ns408/agentic-lab",
+    "language": "Shell",
+    "name": "ns408/agentic-lab",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:22:16Z",
+    "url": "https://github.com/ns408/agentic-lab"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 4,
+    "updated_at": "2026-06-03T18:16:04Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:15:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 67,
+    "updated_at": "2026-06-03T18:14:06Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Evidra Bench runs live infrastructure scenarios for AI agents, MCP servers, and AI SRE tools, then shows pass/fail, unsa",
@@ -18,6 +108,15 @@
     "url": "https://github.com/vitas/evidra-bench"
   },
   {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28444,
+    "updated_at": "2026-06-03T18:27:42Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -27,31 +126,13 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 4,
-    "updated_at": "2026-06-03T18:12:26Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sy",
     "id": "pathwaycom/llm-app",
     "language": "Jupyter Notebook",
     "name": "pathwaycom/llm-app",
-    "stars": 59456,
+    "stars": 59454,
     "updated_at": "2026-06-03T18:09:53Z",
     "url": "https://github.com/pathwaycom/llm-app"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 1,
-    "updated_at": "2026-06-03T18:14:45Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Official Terraform provider for the Keel AI control plane",
@@ -72,33 +153,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T18:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 67,
-    "updated_at": "2026-06-03T18:14:06Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21845,
-    "updated_at": "2026-06-03T18:13:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Zero-config observability for AI agents. Auto-instruments OpenAI & Anthropic SDKs.",
     "id": "ashwanijha04/peekr",
     "language": "Python",
@@ -115,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-03T17:51:09Z",
     "url": "https://github.com/zhjai/agent-completion-gate"
-  },
-  {
-    "description": "A lab exploring agentic AI for Cloud and DevOps, built as small, runnable demos. Work in progress.",
-    "id": "ns408/agentic-lab",
-    "language": "Shell",
-    "name": "ns408/agentic-lab",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:51:16Z",
-    "url": "https://github.com/ns408/agentic-lab"
   },
   {
     "description": "Wrap your AI provider client in one line to enforce per-tenant, per-agent, per-workflow spend budgets before the call go",
@@ -151,15 +196,6 @@
     "stars": 7,
     "updated_at": "2026-06-03T17:29:22Z",
     "url": "https://github.com/ndom91/llama-dash"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28443,
-    "updated_at": "2026-06-03T18:13:49Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9969,
-    "updated_at": "2026-06-03T17:00:23Z",
+    "updated_at": "2026-06-03T18:22:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T16:46:26Z",
     "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 37,
-    "updated_at": "2026-06-03T18:14:31Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
     "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-03T16:30:48Z",
     "url": "https://github.com/Moguifeng-9119/aperture"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:30:22Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
-    "id": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "language": "Python",
-    "name": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:29:51Z",
-    "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
-    "id": "Arize-ai/arize-skills",
-    "language": "Python",
-    "name": "Arize-ai/arize-skills",
-    "stars": 30,
-    "updated_at": "2026-06-03T16:26:41Z",
-    "url": "https://github.com/Arize-ai/arize-skills"
   }
 ]
