@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "description": "Context-health evaluator for AI agents: stale, conflicting, unsupported, and unsafe AI-facing context.",
+    "id": "ctxgov/ctxgov",
+    "language": "Python",
+    "name": "ctxgov/ctxgov",
     "stars": 0,
-    "updated_at": "2026-06-03T08:59:48Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+    "updated_at": "2026-06-03T09:15:22Z",
+    "url": "https://github.com/ctxgov/ctxgov"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28421,
+    "updated_at": "2026-06-03T09:09:43Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "qKnow is an open-source intelligent agent platform for enterprise knowledge and industry AI. It unifies documents and da",
+    "id": "qiantongtech/qKnow",
+    "language": "Java",
+    "name": "qiantongtech/qKnow",
+    "stars": 236,
+    "updated_at": "2026-06-03T09:09:14Z",
+    "url": "https://github.com/qiantongtech/qKnow"
   },
   {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "moiraweave-labs/moiraweave",
     "stars": 1,
-    "updated_at": "2026-06-03T08:59:45Z",
+    "updated_at": "2026-06-03T09:07:08Z",
     "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents",
+    "id": "guanbear/OctoClaw",
+    "language": "TypeScript",
+    "name": "guanbear/OctoClaw",
+    "stars": 1,
+    "updated_at": "2026-06-03T09:05:43Z",
+    "url": "https://github.com/guanbear/OctoClaw"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -23,8 +50,17 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2184,
-    "updated_at": "2026-06-03T08:59:18Z",
+    "updated_at": "2026-06-03T09:05:27Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T09:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
@@ -34,6 +70,15 @@
     "stars": 24,
     "updated_at": "2026-06-03T09:00:24Z",
     "url": "https://github.com/Netis/heron"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:59:48Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
@@ -63,15 +108,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28420,
-    "updated_at": "2026-06-03T08:48:25Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
@@ -81,22 +117,13 @@
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T08:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Context-health evaluator for AI agents: stale, conflicting, unsupported, and unsafe AI-facing context.",
-    "id": "ctxgov/ctxgov",
-    "language": "Python",
-    "name": "ctxgov/ctxgov",
-    "stars": 0,
-    "updated_at": "2026-06-03T08:44:33Z",
-    "url": "https://github.com/ctxgov/ctxgov"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5443,
+    "updated_at": "2026-06-03T08:42:38Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-03T08:47:54Z",
+    "updated_at": "2026-06-03T09:14:58Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -148,27 +175,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49132,
+    "stars": 49135,
     "updated_at": "2026-06-03T08:16:45Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5442,
-    "updated_at": "2026-06-03T08:42:38Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents",
-    "id": "guanbear/OctoClaw",
-    "language": "TypeScript",
-    "name": "guanbear/OctoClaw",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:57:38Z",
-    "url": "https://github.com/guanbear/OctoClaw"
   },
   {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
@@ -176,7 +185,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1174,
-    "updated_at": "2026-06-03T08:58:47Z",
+    "updated_at": "2026-06-03T09:10:58Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -223,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-03T07:45:26Z",
     "url": "https://github.com/miluxis/TokenVerify"
-  },
-  {
-    "description": "qKnow is an open-source intelligent agent platform for enterprise knowledge and industry AI. It unifies documents and da",
-    "id": "qiantongtech/qKnow",
-    "language": "Java",
-    "name": "qiantongtech/qKnow",
-    "stars": 236,
-    "updated_at": "2026-06-03T07:41:16Z",
-    "url": "https://github.com/qiantongtech/qKnow"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
