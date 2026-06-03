@@ -1,12 +1,75 @@
 [
   {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 7,
+    "updated_at": "2026-06-03T17:29:22Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-06-03T17:25:27Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:24:49Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
     "description": "Make AI coding agents prove they're done. A fail-closed completion gate: the agent only proposes done; CI reads the real",
     "id": "zhjai/agent-completion-gate",
     "language": "Python",
     "name": "zhjai/agent-completion-gate",
     "stars": 1,
-    "updated_at": "2026-06-03T17:15:00Z",
+    "updated_at": "2026-06-03T17:21:45Z",
     "url": "https://github.com/zhjai/agent-completion-gate"
+  },
+  {
+    "description": "Self-hostable AI cost and workflow observability. Find the prompt, customer, model, and workflow path behind every LLM c",
+    "id": "scopecall/scopecall",
+    "language": "TypeScript",
+    "name": "scopecall/scopecall",
+    "stars": 1,
+    "updated_at": "2026-06-03T17:20:52Z",
+    "url": "https://github.com/scopecall/scopecall"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49173,
+    "updated_at": "2026-06-03T17:26:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3284,
+    "updated_at": "2026-06-03T17:25:10Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:15:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19425,
-    "updated_at": "2026-06-03T17:14:09Z",
+    "updated_at": "2026-06-03T17:16:04Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -54,33 +117,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:01:45Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49173,
-    "updated_at": "2026-06-03T17:09:58Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:00:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21843,
-    "updated_at": "2026-06-03T17:15:31Z",
+    "updated_at": "2026-06-03T17:22:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5460,
-    "updated_at": "2026-06-03T17:05:31Z",
+    "updated_at": "2026-06-03T17:21:55Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T16:46:26Z",
     "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3284,
-    "updated_at": "2026-06-03T17:10:01Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
@@ -324,15 +351,6 @@
     "url": "https://github.com/Arize-ai/arize-skills"
   },
   {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 7,
-    "updated_at": "2026-06-03T16:25:42Z",
-    "url": "https://github.com/ndom91/llama-dash"
-  },
-  {
     "description": "Diagnose and stop runaway OpenClaw heartbeat token usage",
     "id": "JPKay-AI/openclaw-cost-airbag",
     "language": "Shell",
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28441,
-    "updated_at": "2026-06-03T16:55:14Z",
+    "updated_at": "2026-06-03T17:26:48Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:14:26Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:13:52Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
