@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-03 13:45 UTC
+> ⏰ Last updated: 2026-06-03 14:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Moguifeng-9119/aperture](https://github.com/Moguifeng-9119/aperture) | 1 | Go | 2026-06-03 | Intelligent multi-model LLM routing gateway — route each request to the optimal model, save 40-70% on API costs. Single  |
-| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28433 | TypeScript | 2026-06-03 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
-| 3 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 4 | Rust | 2026-06-03 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49151 | Python | 2026-06-03 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 5 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 37 | Ruby | 2026-06-03 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21836 | TypeScript | 2026-06-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 7 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 1 | Go | 2026-06-03 | The workflow and governance layer for agent-driven software development. |
-| 8 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3284 | TypeScript | 2026-06-03 | The platform for LLM evaluations and AI agent testing |
-| 9 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 20 | TypeScript | 2026-06-03 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 10 | [Mindburn-Labs/helm-ai-kernel](https://github.com/Mindburn-Labs/helm-ai-kernel) | 9 | Go | 2026-06-03 | Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip |
-| 11 | [open-ace/open-ace](https://github.com/open-ace/open-ace) | 4 | Python | 2026-06-03 | Self-hosted enterprise AI workspace and governance platform |
-| 12 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 13 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-03 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 14 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2184 | C++ | 2026-06-03 | Community maintained hardware plugin for vLLM on Ascend |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49153 | Python | 2026-06-03 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28434 | TypeScript | 2026-06-03 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
+| 3 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 20 | TypeScript | 2026-06-03 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21836 | TypeScript | 2026-06-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2184 | C++ | 2026-06-03 | Community maintained hardware plugin for vLLM on Ascend |
+| 6 | [Moguifeng-9119/aperture](https://github.com/Moguifeng-9119/aperture) | 1 | Go | 2026-06-03 | Intelligent multi-model LLM routing gateway — route each request to the optimal model, save 40-70% on API costs. Single  |
+| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 8 | [Mindburn-Labs/helm-ai-kernel](https://github.com/Mindburn-Labs/helm-ai-kernel) | 9 | Go | 2026-06-03 | Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip |
+| 9 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 4 | Rust | 2026-06-03 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 10 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 37 | Ruby | 2026-06-03 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
+| 11 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 1 | Go | 2026-06-03 | The workflow and governance layer for agent-driven software development. |
+| 12 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3284 | TypeScript | 2026-06-03 | The platform for LLM evaluations and AI agent testing |
+| 13 | [open-ace/open-ace](https://github.com/open-ace/open-ace) | 4 | Python | 2026-06-03 | Self-hosted enterprise AI workspace and governance platform |
+| 14 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-03 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 15 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5483 | Go | 2026-06-03 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
 | 16 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-03 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 17 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19425 | Python | 2026-06-03 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
