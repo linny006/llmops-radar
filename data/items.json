@@ -1,11 +1,146 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2184,
+    "updated_at": "2026-06-03T06:59:45Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
+    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "language": "Python",
+    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "stars": 3,
+    "updated_at": "2026-06-03T06:58:45Z",
+    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5440,
+    "updated_at": "2026-06-03T06:57:48Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-06-03T06:56:34Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-06-03T06:56:31Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
+    "id": "JFPastor09/rest-gateway-1771916756-4",
+    "language": "\u2014",
+    "name": "JFPastor09/rest-gateway-1771916756-4",
+    "stars": 0,
+    "updated_at": "2026-06-03T06:56:22Z",
+    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9972,
+    "updated_at": "2026-06-03T06:55:26Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-03T06:53:11Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-06-03T06:52:45Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-06-03T06:52:29Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
+    "id": "degen1322/agentic-template",
+    "language": "HTML",
+    "name": "degen1322/agentic-template",
+    "stars": 0,
+    "updated_at": "2026-06-03T06:51:11Z",
+    "url": "https://github.com/degen1322/agentic-template"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-03T06:50:26Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
+    "id": "bentoml/BentoML",
+    "language": "Python",
+    "name": "bentoml/BentoML",
+    "stars": 8661,
+    "updated_at": "2026-06-03T06:48:31Z",
+    "url": "https://github.com/bentoml/BentoML"
+  },
+  {
+    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
+    "id": "kami-beep/kb-contracts",
+    "language": "TypeScript",
+    "name": "kami-beep/kb-contracts",
+    "stars": 0,
+    "updated_at": "2026-06-03T06:47:54Z",
+    "url": "https://github.com/kami-beep/kb-contracts"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T06:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Demonstrate LLMOps in TypeScript",
     "id": "yu-iskw/llmops-demo-ts",
     "language": "TypeScript",
     "name": "yu-iskw/llmops-demo-ts",
     "stars": 6,
-    "updated_at": "2026-06-03T06:44:45Z",
+    "updated_at": "2026-06-03T06:46:00Z",
     "url": "https://github.com/yu-iskw/llmops-demo-ts"
   },
   {
@@ -50,17 +185,8 @@
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 67,
-    "updated_at": "2026-06-03T06:42:06Z",
+    "updated_at": "2026-06-03T06:52:55Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2183,
-    "updated_at": "2026-06-03T06:40:12Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
@@ -88,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T06:37:52Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-03T06:40:55Z",
-    "url": "https://github.com/open-ace/open-ace"
   },
   {
     "description": "\ud83d\udee0\ufe0f Enhance agentic development with tools for isolated environments and unused code detection in your stack.",
@@ -180,15 +297,6 @@
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T06:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
     "id": "KewalPra/agent-sdk",
     "language": "Python",
@@ -223,15 +331,6 @@
     "stars": 7,
     "updated_at": "2026-06-03T06:27:58Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5439,
-    "updated_at": "2026-06-03T06:24:22Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T06:14:35Z",
     "url": "https://github.com/saralabiswal/agentic-regulated-decisioning"
-  },
-  {
-    "description": "\ud83d\ude80 Build and scale reliable Retrieval-Augmented Generation (RAG) systems with this curated collection of tools, framework",
-    "id": "mowael07/Awesome-RAG-Production",
-    "language": "Python",
-    "name": "mowael07/Awesome-RAG-Production",
-    "stars": 3,
-    "updated_at": "2026-06-03T06:13:57Z",
-    "url": "https://github.com/mowael07/Awesome-RAG-Production"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 2,
-    "updated_at": "2026-06-03T06:12:39Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-06-03T06:12:10Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
-    "id": "azzan1235/agentic_rag_system",
-    "language": "Python",
-    "name": "azzan1235/agentic_rag_system",
-    "stars": 0,
-    "updated_at": "2026-06-03T06:11:19Z",
-    "url": "https://github.com/azzan1235/agentic_rag_system"
-  },
-  {
-    "description": "\ud83d\ude80 Build and deploy intelligent agents with the Agent Starter Pack, featuring simple templates and robust documentation f",
-    "id": "juana267/agent-starter-pack",
-    "language": "Java",
-    "name": "juana267/agent-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-03T06:09:19Z",
-    "url": "https://github.com/juana267/agent-starter-pack"
-  },
-  {
-    "description": "\ud83e\udde0 Monitor web app performance and detect anomalies with AI-driven insights, capturing key events and generating detailed",
-    "id": "LaurenceGab/ai-monitoring-layer",
-    "language": "JavaScript",
-    "name": "LaurenceGab/ai-monitoring-layer",
-    "stars": 0,
-    "updated_at": "2026-06-03T06:07:43Z",
-    "url": "https://github.com/LaurenceGab/ai-monitoring-layer"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Detect and remove spyware with SUPERAntiSpyware Professional X, ensuring your Windows system stays secure and your da",
-    "id": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "language": "\u2014",
-    "name": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "stars": 1,
-    "updated_at": "2026-06-03T06:07:11Z",
-    "url": "https://github.com/mshadan825/SUPERAntiSpyware-Professional-X-Activated"
-  },
-  {
-    "description": "\ud83c\udf10 Build and share your personal website with ease using mjsushanth.github.io, a simple and effective static site generat",
-    "id": "don12345673434/mjsushanth.github.io",
-    "language": "HTML",
-    "name": "don12345673434/mjsushanth.github.io",
-    "stars": 0,
-    "updated_at": "2026-06-03T06:04:29Z",
-    "url": "https://github.com/don12345673434/mjsushanth.github.io"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49107,
-    "updated_at": "2026-06-03T06:02:42Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Guide: Agentic AI Incident Response and Rollback Patterns | Published on omnithium.ai",
-    "id": "ApertaCodex/article-guide-agentic-ai-incident-response-and-rollback-patterns",
-    "language": "\u2014",
-    "name": "ApertaCodex/article-guide-agentic-ai-incident-response-and-rollback-patterns",
-    "stars": 0,
-    "updated_at": "2026-06-03T06:01:08Z",
-    "url": "https://github.com/ApertaCodex/article-guide-agentic-ai-incident-response-and-rollback-patterns"
-  },
-  {
-    "description": "\ud83d\udc14 Simplify AI orchestration by using agentic systems; spawn subagents like a hen with her chicks for seamless task manag",
-    "id": "iulieobraznic/agentic-ai-systems",
-    "language": "\u2014",
-    "name": "iulieobraznic/agentic-ai-systems",
-    "stars": 0,
-    "updated_at": "2026-06-03T05:59:51Z",
-    "url": "https://github.com/iulieobraznic/agentic-ai-systems"
   }
 ]
