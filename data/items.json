@@ -1,5 +1,113 @@
 [
   {
+    "description": "Context-health evaluator for AI agents: stale, conflicting, unsupported, and unsafe AI-facing context.",
+    "id": "ctxgov/ctxgov",
+    "language": "Python",
+    "name": "ctxgov/ctxgov",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:30:08Z",
+    "url": "https://github.com/ctxgov/ctxgov"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-03T23:27:57Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:25:19Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83d\udee0 Build enterprise-grade AI agents with MaxKB, an open-source platform designed for simplicity and performance.",
+    "id": "carglezfer/MaxKB",
+    "language": "Python",
+    "name": "carglezfer/MaxKB",
+    "stars": 1,
+    "updated_at": "2026-06-03T23:24:33Z",
+    "url": "https://github.com/carglezfer/MaxKB"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-06-03T23:24:30Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "\ud83c\udf10 Explore LLM agents and their ecosystems with this comprehensive handbook for understanding, developing, and implementi",
+    "id": "Herry259/LLM-Agents-Ecosystem-Handbook",
+    "language": "Python",
+    "name": "Herry259/LLM-Agents-Ecosystem-Handbook",
+    "stars": 2,
+    "updated_at": "2026-06-03T23:23:12Z",
+    "url": "https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook"
+  },
+  {
+    "description": "\ud83c\udf99\ufe0f Enhance customer interactions with a real-time AI voice agent, utilizing OpenAI's Realtime API and Twilio for smarter",
+    "id": "damn124/ai-calling-agent",
+    "language": "Python",
+    "name": "damn124/ai-calling-agent",
+    "stars": 2,
+    "updated_at": "2026-06-03T23:22:10Z",
+    "url": "https://github.com/damn124/ai-calling-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus",
+    "id": "Thiagoopro/AI-Agent-Framework",
+    "language": "Python",
+    "name": "Thiagoopro/AI-Agent-Framework",
+    "stars": 1,
+    "updated_at": "2026-06-03T23:20:50Z",
+    "url": "https://github.com/Thiagoopro/AI-Agent-Framework"
+  },
+  {
+    "description": "\ud83d\udcda Explore essential resources for learning Generative AI, covering foundational concepts to advanced topics with curated",
+    "id": "hwgdfkchw/Generative-AI-Essentials",
+    "language": "\u2014",
+    "name": "hwgdfkchw/Generative-AI-Essentials",
+    "stars": 2,
+    "updated_at": "2026-06-03T23:20:03Z",
+    "url": "https://github.com/hwgdfkchw/Generative-AI-Essentials"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-06-03T23:19:46Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "\ud83e\udd16 Discover AI tools and techniques to optimize DevOps processes through practical challenges and hands-on projects in th",
+    "id": "monim279/AI-Powered-DevOps",
+    "language": "Python",
+    "name": "monim279/AI-Powered-DevOps",
+    "stars": 4,
+    "updated_at": "2026-06-03T23:19:45Z",
+    "url": "https://github.com/monim279/AI-Powered-DevOps"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local web console for managing multiple Hermes-first AI agent profiles, runtimes, LLM engines, backups, and diagnostics.",
     "id": "miter37/agent-runtime-manager",
     "language": "Python",
@@ -41,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49191,
-    "updated_at": "2026-06-03T23:07:33Z",
+    "updated_at": "2026-06-03T23:28:16Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -72,21 +180,12 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T23:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3285,
-    "updated_at": "2026-06-03T22:55:58Z",
+    "updated_at": "2026-06-03T23:18:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -95,7 +194,7 @@
     "language": "Go",
     "name": "prashar32/riskkernel",
     "stars": 12,
-    "updated_at": "2026-06-03T23:09:47Z",
+    "updated_at": "2026-06-03T23:16:27Z",
     "url": "https://github.com/prashar32/riskkernel"
   },
   {
@@ -104,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9971,
-    "updated_at": "2026-06-03T23:07:55Z",
+    "updated_at": "2026-06-03T23:26:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -126,15 +225,6 @@
     "url": "https://github.com/Netis/heron"
   },
   {
-    "description": "Context-health evaluator for AI agents: stale, conflicting, unsupported, and unsafe AI-facing context.",
-    "id": "ctxgov/ctxgov",
-    "language": "Python",
-    "name": "ctxgov/ctxgov",
-    "stars": 0,
-    "updated_at": "2026-06-03T22:11:44Z",
-    "url": "https://github.com/ctxgov/ctxgov"
-  },
-  {
     "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
     "id": "katanemo/plano",
     "language": "Rust",
@@ -153,13 +243,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 31,
-    "updated_at": "2026-06-03T23:15:19Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 2974,
+    "updated_at": "2026-06-03T21:52:01Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -178,15 +268,6 @@
     "stars": 5465,
     "updated_at": "2026-06-03T23:13:54Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 2973,
-    "updated_at": "2026-06-03T21:52:01Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T21:04:50Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-06-03T21:04:31Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:04:17Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-06-03T21:03:30Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-06-03T21:01:11Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
-    "id": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "language": "Python",
-    "name": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:00:35Z",
-    "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19428,
-    "updated_at": "2026-06-03T20:57:31Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-03T20:55:04Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-03T20:53:36Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-03T20:53:14Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
