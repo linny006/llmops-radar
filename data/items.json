@@ -1,5 +1,86 @@
 [
   {
+    "description": "Make AI coding agents prove they're done. A fail-closed completion gate: the agent only proposes done; CI reads the real",
+    "id": "zhjai/agent-completion-gate",
+    "language": "Python",
+    "name": "zhjai/agent-completion-gate",
+    "stars": 1,
+    "updated_at": "2026-06-03T17:15:00Z",
+    "url": "https://github.com/zhjai/agent-completion-gate"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19425,
+    "updated_at": "2026-06-03T17:14:09Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A framework with a strict protocol core for governed, stateful AI work.",
+    "id": "maridlabsai/jini",
+    "language": "Python",
+    "name": "maridlabsai/jini",
+    "stars": 1,
+    "updated_at": "2026-06-03T17:10:51Z",
+    "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
+    "id": "katanemo/plano",
+    "language": "Rust",
+    "name": "katanemo/plano",
+    "stars": 6566,
+    "updated_at": "2026-06-03T17:10:29Z",
+    "url": "https://github.com/katanemo/plano"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 1,
+    "updated_at": "2026-06-03T17:04:53Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26278,
+    "updated_at": "2026-06-03T17:02:08Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:01:45Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49173,
+    "updated_at": "2026-06-03T17:09:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:00:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -14,26 +95,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21843,
-    "updated_at": "2026-06-03T16:59:30Z",
+    "updated_at": "2026-06-03T17:15:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49172,
-    "updated_at": "2026-06-03T16:56:43Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:59:34Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -59,7 +122,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5460,
-    "updated_at": "2026-06-03T16:52:32Z",
+    "updated_at": "2026-06-03T17:05:31Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -117,21 +180,12 @@
     "url": "https://github.com/Prissieperoneal156/rig"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:45:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3284,
-    "updated_at": "2026-06-03T17:00:16Z",
+    "updated_at": "2026-06-03T17:10:01Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T16:38:52Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "A framework with a strict protocol core for governed, stateful AI work.",
-    "id": "maridlabsai/jini",
-    "language": "Python",
-    "name": "maridlabsai/jini",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:34:15Z",
-    "url": "https://github.com/maridlabsai/jini"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T16:13:52Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:13:26Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:13:08Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:13:05Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:12:53Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:11:00Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
