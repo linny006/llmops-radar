@@ -1,12 +1,93 @@
 [
   {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-06-03T18:43:48Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9969,
+    "updated_at": "2026-06-03T18:44:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Observal is a unified platform for agent distribution, observability and insights. ",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1956,
+    "updated_at": "2026-06-03T18:41:07Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 5,
+    "updated_at": "2026-06-03T18:40:24Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49176,
-    "updated_at": "2026-06-03T18:29:56Z",
+    "stars": 49178,
+    "updated_at": "2026-06-03T18:44:25Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28445,
+    "updated_at": "2026-06-03T18:44:19Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-06-03T18:37:05Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-03T18:35:24Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Wrap your AI provider client in one line to enforce per-tenant, per-agent, per-workflow spend budgets before the call go",
+    "id": "bursora/sdk",
+    "language": "TypeScript",
+    "name": "bursora/sdk",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:31:05Z",
+    "url": "https://github.com/bursora/sdk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
@@ -50,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21847,
-    "updated_at": "2026-06-03T18:22:36Z",
+    "updated_at": "2026-06-03T18:40:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -81,15 +162,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T18:15:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T18:13:57Z",
     "url": "https://github.com/vitas/evidra-bench"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28444,
-    "updated_at": "2026-06-03T18:27:42Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -135,6 +198,15 @@
     "url": "https://github.com/pathwaycom/llm-app"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5462,
+    "updated_at": "2026-06-03T18:07:48Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Official Terraform provider for the Keel AI control plane",
     "id": "keelapi/terraform-provider-keel",
     "language": "Go",
@@ -153,6 +225,15 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 2971,
+    "updated_at": "2026-06-03T18:00:30Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
     "description": "Zero-config observability for AI agents. Auto-instruments OpenAI & Anthropic SDKs.",
     "id": "ashwanijha04/peekr",
     "language": "Python",
@@ -169,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-06-03T17:51:09Z",
     "url": "https://github.com/zhjai/agent-completion-gate"
-  },
-  {
-    "description": "Wrap your AI provider client in one line to enforce per-tenant, per-agent, per-workflow spend budgets before the call go",
-    "id": "bursora/sdk",
-    "language": "TypeScript",
-    "name": "bursora/sdk",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:41:48Z",
-    "url": "https://github.com/bursora/sdk"
   },
   {
     "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
@@ -216,15 +288,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5461,
-    "updated_at": "2026-06-03T18:07:48Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Self-hostable AI cost and workflow observability. Find the prompt, customer, model, and workflow path behind every LLM c",
     "id": "scopecall/scopecall",
     "language": "TypeScript",
@@ -239,7 +302,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3284,
-    "updated_at": "2026-06-03T17:25:10Z",
+    "updated_at": "2026-06-03T18:30:45Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -270,13 +333,13 @@
     "url": "https://github.com/katanemo/plano"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9969,
-    "updated_at": "2026-06-03T18:22:02Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1178,
+    "updated_at": "2026-06-03T17:01:39Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T16:40:02Z",
     "url": "https://github.com/ctxgov/ctxgov"
-  },
-  {
-    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
-    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "language": "\u2014",
-    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:38:52Z",
-    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
-    "id": "germanic-hwangho835/FolkLite",
-    "language": "\u2014",
-    "name": "germanic-hwangho835/FolkLite",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:34:07Z",
-    "url": "https://github.com/germanic-hwangho835/FolkLite"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:33:36Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:33:11Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:33:07Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:32:40Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Intelligent multi-model LLM routing gateway \u2014 route each request to the optimal model, save 40-70% on API costs. Single ",
-    "id": "Moguifeng-9119/aperture",
-    "language": "Go",
-    "name": "Moguifeng-9119/aperture",
-    "stars": 2,
-    "updated_at": "2026-06-03T16:30:48Z",
-    "url": "https://github.com/Moguifeng-9119/aperture"
   }
 ]
