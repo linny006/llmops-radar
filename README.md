@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-03 00:15 UTC
+> ⏰ Last updated: 2026-06-03 00:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [redd357magnum-ship-it/-SuperAgent-Hub](https://github.com/redd357magnum-ship-it/-SuperAgent-Hub) | 3 | Python | 2026-06-03 | Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f |
-| 2 | [Keyan-sm/pareto-router](https://github.com/Keyan-sm/pareto-router) | 0 | Python | 2026-06-03 | Cost-aware LLM router: predict each model's quality on a query, then route on the cost-quality frontier. Benchmarked on  |
-| 3 | [rvhn/rest-gateway-1771918257-5](https://github.com/rvhn/rest-gateway-1771918257-5) | 0 | — | 2026-06-03 | Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha |
-| 4 | [Firmancaaa/rest-gateway-1771916753-3](https://github.com/Firmancaaa/rest-gateway-1771916753-3) | 0 | — | 2026-06-03 | Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to |
-| 5 | [JFPastor09/rest-gateway-1771916756-4](https://github.com/JFPastor09/rest-gateway-1771916756-4) | 0 | — | 2026-06-03 | Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services. |
-| 6 | [manfromnowhere143/aweb-labs-public-proof](https://github.com/manfromnowhere143/aweb-labs-public-proof) | 0 | — | 2026-06-03 | Public proof surface for Aweb Labs: Mission Control Cloud for governed AI agent work. |
-| 7 | [FawwazAzka/openclaw-docs](https://github.com/FawwazAzka/openclaw-docs) | 0 | JavaScript | 2026-06-03 | Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and  |
-| 8 | [niyetbay0304/gateway](https://github.com/niyetbay0304/gateway) | 1 | Go | 2026-06-03 | Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a |
-| 9 | [degen1322/agentic-template](https://github.com/degen1322/agentic-template) | 0 | HTML | 2026-06-03 | Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens |
-| 10 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 3 | HTML | 2026-06-03 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
-| 11 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 9 | — | 2026-06-03 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
-| 12 | [kami-beep/kb-contracts](https://github.com/kami-beep/kb-contracts) | 0 | TypeScript | 2026-06-03 | 📚 Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM  |
-| 13 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49069 | Python | 2026-06-03 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 14 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [redd357magnum-ship-it/-SuperAgent-Hub](https://github.com/redd357magnum-ship-it/-SuperAgent-Hub) | 3 | Python | 2026-06-03 | Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f |
+| 3 | [Keyan-sm/pareto-router](https://github.com/Keyan-sm/pareto-router) | 0 | Python | 2026-06-03 | Cost-aware LLM router: predict each model's quality on a query, then route on the cost-quality frontier. Benchmarked on  |
+| 4 | [rvhn/rest-gateway-1771918257-5](https://github.com/rvhn/rest-gateway-1771918257-5) | 0 | — | 2026-06-03 | Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha |
+| 5 | [Firmancaaa/rest-gateway-1771916753-3](https://github.com/Firmancaaa/rest-gateway-1771916753-3) | 0 | — | 2026-06-03 | Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to |
+| 6 | [JFPastor09/rest-gateway-1771916756-4](https://github.com/JFPastor09/rest-gateway-1771916756-4) | 0 | — | 2026-06-03 | Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services. |
+| 7 | [manfromnowhere143/aweb-labs-public-proof](https://github.com/manfromnowhere143/aweb-labs-public-proof) | 0 | — | 2026-06-03 | Public proof surface for Aweb Labs: Mission Control Cloud for governed AI agent work. |
+| 8 | [FawwazAzka/openclaw-docs](https://github.com/FawwazAzka/openclaw-docs) | 0 | JavaScript | 2026-06-03 | Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and  |
+| 9 | [niyetbay0304/gateway](https://github.com/niyetbay0304/gateway) | 1 | Go | 2026-06-03 | Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a |
+| 10 | [degen1322/agentic-template](https://github.com/degen1322/agentic-template) | 0 | HTML | 2026-06-03 | Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens |
+| 11 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 3 | HTML | 2026-06-03 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
+| 12 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 9 | — | 2026-06-03 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
+| 13 | [kami-beep/kb-contracts](https://github.com/kami-beep/kb-contracts) | 0 | TypeScript | 2026-06-03 | 📚 Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM  |
+| 14 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49069 | Python | 2026-06-03 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 15 | [developersofik/greenprompt](https://github.com/developersofik/greenprompt) | 0 | TypeScript | 2026-06-03 | 🌿 Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights. |
 | 16 | [GaBySuGy/agent-guardrails](https://github.com/GaBySuGy/agent-guardrails) | 1 | Shell | 2026-06-02 | 🛡️ Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo |
 | 17 | [SkylineTZ/RagaliQ](https://github.com/SkylineTZ/RagaliQ) | 1 | Python | 2026-06-02 | 🏷️ Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f |
