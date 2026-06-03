@@ -1,5 +1,50 @@
 [
   {
+    "description": "A production-ready framework for composing AI agents from declarative TOML configuration, with MCP tool integration, RAG",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 78,
+    "updated_at": "2026-06-03T14:55:35Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21837,
+    "updated_at": "2026-06-03T14:49:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T14:45:41Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "",
+    "id": "ghaithmhmm/LLM-Training",
+    "language": "Python",
+    "name": "ghaithmhmm/LLM-Training",
+    "stars": 0,
+    "updated_at": "2026-06-03T14:43:57Z",
+    "url": "https://github.com/ghaithmhmm/LLM-Training"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19425,
+    "updated_at": "2026-06-03T14:59:32Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -9,12 +54,21 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
+    "description": "",
+    "id": "aekta113/ai-sre",
+    "language": "Python",
+    "name": "aekta113/ai-sre",
+    "stars": 1,
+    "updated_at": "2026-06-03T14:40:02Z",
+    "url": "https://github.com/aekta113/ai-sre"
+  },
+  {
     "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
     "id": "Mindburn-Labs/helm-ai-kernel",
     "language": "Go",
     "name": "Mindburn-Labs/helm-ai-kernel",
     "stars": 9,
-    "updated_at": "2026-06-03T14:42:07Z",
+    "updated_at": "2026-06-03T15:00:39Z",
     "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
   },
   {
@@ -22,8 +76,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28435,
-    "updated_at": "2026-06-03T14:38:44Z",
+    "stars": 28436,
+    "updated_at": "2026-06-03T14:59:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -54,6 +108,15 @@
     "url": "https://github.com/baishiqi45-dotcom/mmi-gateway"
   },
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2184,
+    "updated_at": "2026-06-03T14:33:02Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
     "id": "BrandonChT/ai-character-engine",
     "language": "Python",
@@ -61,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-06-03T14:31:12Z",
     "url": "https://github.com/BrandonChT/ai-character-engine"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T14:30:44Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -90,21 +144,12 @@
     "url": "https://github.com/tensorzero/tensorzero"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21837,
-    "updated_at": "2026-06-03T14:40:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3284,
-    "updated_at": "2026-06-03T14:22:13Z",
+    "updated_at": "2026-06-03T14:57:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -148,7 +193,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49154,
+    "stars": 49156,
     "updated_at": "2026-06-03T14:15:59Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -270,13 +315,13 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2184,
-    "updated_at": "2026-06-03T14:33:02Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 359,
+    "updated_at": "2026-06-03T13:56:03Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-03T14:29:07Z",
+    "updated_at": "2026-06-03T14:48:11Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -324,21 +369,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19425,
-    "updated_at": "2026-06-03T14:41:41Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 0,
-    "updated_at": "2026-06-03T13:13:46Z",
+    "updated_at": "2026-06-03T14:53:44Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -364,7 +400,7 @@
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
-    "stars": 7,
+    "stars": 8,
     "updated_at": "2026-06-03T13:06:57Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
@@ -401,7 +437,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4173,
-    "updated_at": "2026-06-03T14:00:15Z",
+    "updated_at": "2026-06-03T14:59:06Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 24,
     "updated_at": "2026-06-03T12:26:06Z",
     "url": "https://github.com/Netis/heron"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:25:07Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:23:47Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1052,
-    "updated_at": "2026-06-03T12:26:34Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-06-03T12:20:13Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
   }
 ]
