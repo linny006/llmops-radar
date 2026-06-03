@@ -1,12 +1,39 @@
 [
   {
-    "description": "Intelligent multi-model LLM routing gateway \u2014 route each request to the optimal model, save 40-70% on API costs. Single ",
-    "id": "Moguifeng-9119/aperture",
-    "language": "Go",
-    "name": "Moguifeng-9119/aperture",
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-03T12:56:34Z",
-    "url": "https://github.com/Moguifeng-9119/aperture"
+    "updated_at": "2026-06-03T13:15:28Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21839,
+    "updated_at": "2026-06-03T13:14:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-03T13:13:46Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19425,
+    "updated_at": "2026-06-03T13:13:41Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -14,8 +41,80 @@
     "language": "HTML",
     "name": "DYAI2025/Plumbline",
     "stars": 3,
-    "updated_at": "2026-06-03T12:55:24Z",
+    "updated_at": "2026-06-03T13:13:34Z",
     "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28431,
+    "updated_at": "2026-06-03T13:14:09Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Make AI coding agents prove they're done. A fail-closed completion gate: the agent only proposes done; CI reads the real",
+    "id": "zhjai/agent-completion-gate",
+    "language": "Python",
+    "name": "zhjai/agent-completion-gate",
+    "stars": 1,
+    "updated_at": "2026-06-03T13:11:21Z",
+    "url": "https://github.com/zhjai/agent-completion-gate"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 1,
+    "updated_at": "2026-06-03T13:11:14Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 7,
+    "updated_at": "2026-06-03T13:06:57Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Self-hosted AI reliability platform for RAG and agentic applications with observability, protection, evaluations, OpenTe",
+    "id": "glaborie/agentguard",
+    "language": "Python",
+    "name": "glaborie/agentguard",
+    "stars": 1,
+    "updated_at": "2026-06-03T13:05:11Z",
+    "url": "https://github.com/glaborie/agentguard"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1176,
+    "updated_at": "2026-06-03T13:00:44Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T13:00:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Intelligent multi-model LLM routing gateway \u2014 route each request to the optimal model, save 40-70% on API costs. Single ",
+    "id": "Moguifeng-9119/aperture",
+    "language": "Go",
+    "name": "Moguifeng-9119/aperture",
+    "stars": 0,
+    "updated_at": "2026-06-03T13:15:14Z",
+    "url": "https://github.com/Moguifeng-9119/aperture"
   },
   {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
@@ -32,35 +131,8 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4173,
-    "updated_at": "2026-06-03T12:59:15Z",
+    "updated_at": "2026-06-03T13:03:19Z",
     "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 7,
-    "updated_at": "2026-06-03T12:46:59Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:45:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 1,
-    "updated_at": "2026-06-03T12:42:32Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -135,15 +207,6 @@
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28430,
-    "updated_at": "2026-06-03T12:51:49Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
@@ -151,15 +214,6 @@
     "stars": 1052,
     "updated_at": "2026-06-03T12:26:34Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Make AI coding agents prove they're done. A fail-closed completion gate: the agent only proposes done; CI reads the real",
-    "id": "zhjai/agent-completion-gate",
-    "language": "Python",
-    "name": "zhjai/agent-completion-gate",
-    "stars": 1,
-    "updated_at": "2026-06-03T12:21:41Z",
-    "url": "https://github.com/zhjai/agent-completion-gate"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49150,
-    "updated_at": "2026-06-03T12:56:52Z",
+    "updated_at": "2026-06-03T13:10:09Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -286,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-06-03T12:05:41Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:32:42Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T11:51:37Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-03T11:49:17Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-03T11:47:33Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-03T11:46:52Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-03T11:46:15Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-03T11:46:10Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
