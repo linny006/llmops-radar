@@ -1,12 +1,30 @@
 [
   {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
+    "description": "Intelligent multi-model LLM routing gateway \u2014 route each request to the optimal model, save 40-70% on API costs. Single ",
+    "id": "Moguifeng-9119/aperture",
     "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 1,
-    "updated_at": "2026-06-03T12:42:32Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
+    "name": "Moguifeng-9119/aperture",
+    "stars": 0,
+    "updated_at": "2026-06-03T12:56:34Z",
+    "url": "https://github.com/Moguifeng-9119/aperture"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 3,
+    "updated_at": "2026-06-03T12:55:24Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 67,
+    "updated_at": "2026-06-03T12:53:43Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
@@ -14,8 +32,35 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4173,
-    "updated_at": "2026-06-03T12:42:19Z",
+    "updated_at": "2026-06-03T12:59:15Z",
     "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 7,
+    "updated_at": "2026-06-03T12:46:59Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T12:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 1,
+    "updated_at": "2026-06-03T12:42:32Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -34,15 +79,6 @@
     "stars": 5454,
     "updated_at": "2026-06-03T12:42:10Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Intelligent multi-model LLM routing gateway \u2014 route each request to the optimal model, save 40-70% on API costs. Single ",
-    "id": "Moguifeng-9119/aperture",
-    "language": "Go",
-    "name": "Moguifeng-9119/aperture",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:45:07Z",
-    "url": "https://github.com/Moguifeng-9119/aperture"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -70,15 +106,6 @@
     "stars": 20,
     "updated_at": "2026-06-03T12:30:35Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28430,
-    "updated_at": "2026-06-03T12:42:21Z",
+    "updated_at": "2026-06-03T12:51:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -162,24 +189,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 67,
-    "updated_at": "2026-06-03T12:29:50Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 3,
-    "updated_at": "2026-06-03T12:28:18Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49150,
-    "updated_at": "2026-06-03T12:42:13Z",
+    "updated_at": "2026-06-03T12:56:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T11:46:10Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-03T11:46:09Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
