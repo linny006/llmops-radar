@@ -1,5 +1,41 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-04T08:49:27Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 4,
+    "updated_at": "2026-06-04T08:46:37Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 4,
+    "updated_at": "2026-06-04T08:46:21Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T08:45:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -9,13 +45,13 @@
     "url": "https://github.com/liam8421/faster-llm"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 4,
-    "updated_at": "2026-06-04T08:43:22Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49243,
+    "updated_at": "2026-06-04T08:41:48Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
@@ -36,12 +72,21 @@
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28482,
+    "updated_at": "2026-06-04T08:47:26Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5477,
-    "updated_at": "2026-06-04T08:42:38Z",
+    "updated_at": "2026-06-04T08:46:32Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -49,7 +94,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2190,
+    "stars": 2191,
     "updated_at": "2026-06-04T08:32:09Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T08:31:16Z",
     "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T08:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udee0 Build enterprise-grade AI agents with MaxKB, an open-source platform designed for simplicity and performance.",
@@ -88,15 +124,6 @@
     "stars": 6,
     "updated_at": "2026-06-04T08:30:14Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-04T08:38:55Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\ud83c\udf10 Explore LLM agents and their ecosystems with this comprehensive handbook for understanding, developing, and implementi",
@@ -153,15 +180,6 @@
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49241,
-    "updated_at": "2026-06-04T08:41:48Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-04T08:39:50Z",
+    "updated_at": "2026-06-04T08:47:57Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-06-04T08:13:50Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28481,
-    "updated_at": "2026-06-04T08:33:58Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 360,
-    "updated_at": "2026-06-04T07:39:08Z",
+    "updated_at": "2026-06-04T08:48:26Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "arieradle/shekel",
     "stars": 16,
-    "updated_at": "2026-06-04T08:42:40Z",
+    "updated_at": "2026-06-04T08:50:15Z",
     "url": "https://github.com/arieradle/shekel"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T06:09:11Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-06-04T06:05:48Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
   }
 ]
