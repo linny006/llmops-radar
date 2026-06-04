@@ -1,5 +1,50 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-04T07:25:15Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49232,
+    "updated_at": "2026-06-04T07:21:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
+    "id": "zenml-io/mcp-zenml",
+    "language": "Python",
+    "name": "zenml-io/mcp-zenml",
+    "stars": 45,
+    "updated_at": "2026-06-04T07:17:29Z",
+    "url": "https://github.com/zenml-io/mcp-zenml"
+  },
+  {
+    "description": "A practical guide to deploy, serve, and monitor AI models using vLLM, Open WebUI, Prometheus and Grafana",
+    "id": "alexisuaguilaru/DeployWithvLLM",
+    "language": "\u2014",
+    "name": "alexisuaguilaru/DeployWithvLLM",
+    "stars": 0,
+    "updated_at": "2026-06-04T07:15:41Z",
+    "url": "https://github.com/alexisuaguilaru/DeployWithvLLM"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T07:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
     "id": "umutkeltek/switchback",
     "language": "Rust",
@@ -18,31 +63,13 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49231,
-    "updated_at": "2026-06-04T07:02:42Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2189,
+    "stars": 2190,
     "updated_at": "2026-06-04T07:00:51Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T07:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
@@ -63,15 +90,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "A practical guide to deploy, serve, and monitor AI models using vLLM, Open WebUI, Prometheus and Grafana",
-    "id": "alexisuaguilaru/DeployWithvLLM",
-    "language": "\u2014",
-    "name": "alexisuaguilaru/DeployWithvLLM",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:56:36Z",
-    "url": "https://github.com/alexisuaguilaru/DeployWithvLLM"
-  },
-  {
     "description": "LLM budget control and cost governance for AI agents. Python library for token budgets, usage limits and guardrails for ",
     "id": "arieradle/shekel",
     "language": "Python",
@@ -86,7 +104,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5475,
-    "updated_at": "2026-06-04T06:52:39Z",
+    "updated_at": "2026-06-04T07:29:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -252,15 +270,6 @@
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:00:16Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
     "id": "germanic-hwangho835/FolkLite",
     "language": "\u2014",
@@ -275,7 +284,7 @@
     "language": "Rust",
     "name": "Netis/heron",
     "stars": 25,
-    "updated_at": "2026-06-04T06:09:29Z",
+    "updated_at": "2026-06-04T07:30:22Z",
     "url": "https://github.com/Netis/heron"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T05:33:54Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-04T05:33:14Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
