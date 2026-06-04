@@ -1,5 +1,68 @@
 [
   {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 37,
+    "updated_at": "2026-06-04T06:59:47Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "A practical guide to deploy, serve, and monitor AI models using vLLM, Open WebUI, Prometheus and Grafana",
+    "id": "alexisuaguilaru/DeployWithvLLM",
+    "language": "\u2014",
+    "name": "alexisuaguilaru/DeployWithvLLM",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:56:36Z",
+    "url": "https://github.com/alexisuaguilaru/DeployWithvLLM"
+  },
+  {
+    "description": "LLM budget control and cost governance for AI agents. Python library for token budgets, usage limits and guardrails for ",
+    "id": "arieradle/shekel",
+    "language": "Python",
+    "name": "arieradle/shekel",
+    "stars": 15,
+    "updated_at": "2026-06-04T06:54:15Z",
+    "url": "https://github.com/arieradle/shekel"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5475,
+    "updated_at": "2026-06-04T06:52:39Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-06-04T06:52:44Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-04T06:49:29Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -9,40 +72,13 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5474,
-    "updated_at": "2026-06-04T06:40:25Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49229,
+    "stars": 49231,
     "updated_at": "2026-06-04T06:29:13Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 8,
-    "updated_at": "2026-06-04T06:26:06Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "HIPAA clinical NLP pipeline: Presidio PII scrubbing \u2192 BioBERT NER \u2192 LLMOps",
@@ -81,15 +117,6 @@
     "url": "https://github.com/shaikn6/evidently-llm-sentinel"
   },
   {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 37,
-    "updated_at": "2026-06-04T06:18:22Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -121,7 +148,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2188,
+    "stars": 2189,
     "updated_at": "2026-06-04T06:08:43Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T05:33:08Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-04T05:33:05Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 3,
-    "updated_at": "2026-06-04T05:32:46Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-04T05:31:14Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
