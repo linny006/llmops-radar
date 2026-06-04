@@ -5,7 +5,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-04T11:27:36Z",
+    "updated_at": "2026-06-04T11:45:17Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -13,9 +13,36 @@
     "id": "umutkeltek/switchback",
     "language": "Rust",
     "name": "umutkeltek/switchback",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:24:52Z",
+    "stars": 1,
+    "updated_at": "2026-06-04T11:40:14Z",
     "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19431,
+    "updated_at": "2026-06-04T11:45:21Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "High-scale LLM gateway, written in Rust. OpenTelemetry-based observability included",
+    "id": "traceloop/hub",
+    "language": "Rust",
+    "name": "traceloop/hub",
+    "stars": 205,
+    "updated_at": "2026-06-04T11:30:30Z",
+    "url": "https://github.com/traceloop/hub"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -32,7 +59,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1179,
-    "updated_at": "2026-06-04T11:20:26Z",
+    "updated_at": "2026-06-04T11:40:04Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T11:15:37Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -140,7 +158,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5480,
-    "updated_at": "2026-06-04T11:06:39Z",
+    "updated_at": "2026-06-04T11:38:40Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -265,8 +283,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28493,
-    "updated_at": "2026-06-04T10:48:30Z",
+    "stars": 28494,
+    "updated_at": "2026-06-04T11:37:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 360,
-    "updated_at": "2026-06-04T11:26:59Z",
+    "updated_at": "2026-06-04T11:41:32Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T10:34:08Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 37,
-    "updated_at": "2026-06-04T10:32:21Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-04T10:31:56Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
