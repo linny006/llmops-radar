@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-04T06:26:06Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "HIPAA clinical NLP pipeline: Presidio PII scrubbing \u2192 BioBERT NER \u2192 LLMOps",
+    "id": "shaikn6/clinical-note-llmops",
+    "language": "Python",
+    "name": "shaikn6/clinical-note-llmops",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:23:09Z",
+    "url": "https://github.com/shaikn6/clinical-note-llmops"
+  },
+  {
+    "description": "RAG over SEC 10-K filings + earnings calls: citation-grounded answers, hallucination detection, Evidently monitoring, ML",
+    "id": "shaikn6/finance-llmops-platform",
+    "language": "Python",
+    "name": "shaikn6/finance-llmops-platform",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:23:02Z",
+    "url": "https://github.com/shaikn6/finance-llmops-platform"
+  },
+  {
+    "description": "Git-style LLM prompt versioning & A/B testing platform \u2014 MLflow for prompts",
+    "id": "shaikn6/prompt-ops",
+    "language": "Python",
+    "name": "shaikn6/prompt-ops",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:23:01Z",
+    "url": "https://github.com/shaikn6/prompt-ops"
+  },
+  {
+    "description": "Production LLM monitoring: extends Evidently AI to track semantic drift, hallucination risk, and response quality degrad",
+    "id": "shaikn6/evidently-llm-sentinel",
+    "language": "Python",
+    "name": "shaikn6/evidently-llm-sentinel",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:23:00Z",
+    "url": "https://github.com/shaikn6/evidently-llm-sentinel"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 37,
+    "updated_at": "2026-06-04T06:18:22Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49228,
+    "updated_at": "2026-06-04T06:29:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -90,15 +162,6 @@
     "url": "https://github.com/acornops/control-plane"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T05:56:50Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 8,
-    "updated_at": "2026-06-04T05:54:59Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -214,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T05:48:44Z",
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49227,
-    "updated_at": "2026-06-04T05:46:49Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-04T05:26:25Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-04T05:24:07Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-04T05:24:03Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-04T05:23:49Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-04T05:20:07Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-04T05:19:43Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
