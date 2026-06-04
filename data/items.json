@@ -1,5 +1,59 @@
 [
   {
+    "description": "Self-hosted AI reliability platform for RAG and agentic applications with observability, protection, evaluations, OpenTe",
+    "id": "glaborie/agentguard",
+    "language": "Python",
+    "name": "glaborie/agentguard",
+    "stars": 1,
+    "updated_at": "2026-06-04T12:44:20Z",
+    "url": "https://github.com/glaborie/agentguard"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28495,
+    "updated_at": "2026-06-04T12:44:24Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2194,
+    "updated_at": "2026-06-04T12:38:23Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 67,
+    "updated_at": "2026-06-04T12:37:50Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49265,
+    "updated_at": "2026-06-04T12:43:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -14,17 +68,8 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 8,
-    "updated_at": "2026-06-04T12:30:24Z",
+    "updated_at": "2026-06-04T12:34:29Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
@@ -36,15 +81,6 @@
     "url": "https://github.com/Justin0504/federated-agent-audit"
   },
   {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 67,
-    "updated_at": "2026-06-04T12:25:59Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
     "id": "EffortlessMetrics/tokmd",
     "language": "Rust",
@@ -52,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-06-04T12:14:01Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49262,
-    "updated_at": "2026-06-04T12:19:21Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The workflow and governance layer for agent-driven software development.",
@@ -117,15 +144,6 @@
     "url": "https://github.com/bursora/core"
   },
   {
-    "description": "Self-hosted AI reliability platform for RAG and agentic applications with observability, protection, evaluations, OpenTe",
-    "id": "glaborie/agentguard",
-    "language": "Python",
-    "name": "glaborie/agentguard",
-    "stars": 1,
-    "updated_at": "2026-06-04T11:55:17Z",
-    "url": "https://github.com/glaborie/agentguard"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -140,8 +158,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3286,
-    "updated_at": "2026-06-04T12:29:31Z",
+    "updated_at": "2026-06-04T12:43:50Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11428,
+    "updated_at": "2026-06-04T11:46:45Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
@@ -167,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5481,
-    "updated_at": "2026-06-04T12:22:42Z",
+    "updated_at": "2026-06-04T12:33:06Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1179,
-    "updated_at": "2026-06-04T12:25:16Z",
+    "updated_at": "2026-06-04T12:45:15Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/Haohao-end/openagent"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28494,
-    "updated_at": "2026-06-04T12:29:10Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T10:43:37Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-04T10:42:44Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-04T10:41:16Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
