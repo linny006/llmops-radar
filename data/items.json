@@ -1,5 +1,23 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49258,
+    "updated_at": "2026-06-04T11:45:35Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -27,13 +45,13 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5481,
+    "updated_at": "2026-06-04T11:38:40Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "High-scale LLM gateway, written in Rust. OpenTelemetry-based observability included",
@@ -94,7 +112,7 @@
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-04T11:15:37Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
@@ -151,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T11:08:01Z",
     "url": "https://github.com/scopecall/scopecall"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5480,
-    "updated_at": "2026-06-04T11:38:40Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 360,
-    "updated_at": "2026-06-04T11:41:32Z",
+    "updated_at": "2026-06-04T11:49:12Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -373,7 +382,7 @@
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
-    "stars": 1984,
+    "stars": 1985,
     "updated_at": "2026-06-04T10:39:06Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T10:34:18Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-04T10:34:08Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
