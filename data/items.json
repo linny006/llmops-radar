@@ -1,12 +1,66 @@
 [
   {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "Observal is a unified platform for agent distribution, observability and insights. ",
+    "id": "BlazeUp-AI/Observal",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 67,
-    "updated_at": "2026-06-04T17:15:01Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "name": "BlazeUp-AI/Observal",
+    "stars": 1992,
+    "updated_at": "2026-06-04T17:29:12Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49288,
+    "updated_at": "2026-06-04T17:27:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source prompt management for teams shipping AI features in production. Prompt versioning, A/B testing, conversion f",
+    "id": "xirukmfc/xr2",
+    "language": "TypeScript",
+    "name": "xirukmfc/xr2",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:21:04Z",
+    "url": "https://github.com/xirukmfc/xr2"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28505,
+    "updated_at": "2026-06-04T17:21:58Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5489,
+    "updated_at": "2026-06-04T17:19:26Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Multi-repository workspace harness for AcornOps development, validation and contracts.",
+    "id": "acornops/acornops-workspace",
+    "language": "JavaScript",
+    "name": "acornops/acornops-workspace",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:18:16Z",
+    "url": "https://github.com/acornops/acornops-workspace"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:16:48Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
@@ -14,8 +68,35 @@
     "language": "TypeScript",
     "name": "bursora/core",
     "stars": 0,
-    "updated_at": "2026-06-04T17:14:49Z",
+    "updated_at": "2026-06-04T17:16:37Z",
     "url": "https://github.com/bursora/core"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19430,
+    "updated_at": "2026-06-04T17:23:56Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 67,
+    "updated_at": "2026-06-04T17:15:01Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Wrap your AI provider client in one line to enforce per-tenant, per-agent, per-workflow spend budgets before the call go",
@@ -32,17 +113,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 2,
-    "updated_at": "2026-06-04T17:11:55Z",
+    "updated_at": "2026-06-04T17:24:19Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Open source prompt management for teams shipping AI features in production. Prompt versioning, A/B testing, conversion f",
-    "id": "xirukmfc/xr2",
-    "language": "TypeScript",
-    "name": "xirukmfc/xr2",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:10:50Z",
-    "url": "https://github.com/xirukmfc/xr2"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1052,
-    "updated_at": "2026-06-04T17:15:11Z",
+    "updated_at": "2026-06-04T17:29:28Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -59,44 +131,8 @@
     "language": "Go",
     "name": "Mindburn-Labs/helm-ai-kernel",
     "stars": 9,
-    "updated_at": "2026-06-04T17:14:08Z",
+    "updated_at": "2026-06-04T17:29:48Z",
     "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49287,
-    "updated_at": "2026-06-04T17:11:06Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:05:34Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:00:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5488,
-    "updated_at": "2026-06-04T17:15:09Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -158,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3287,
-    "updated_at": "2026-06-04T17:14:37Z",
+    "updated_at": "2026-06-04T17:18:22Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -205,24 +241,6 @@
     "stars": 4,
     "updated_at": "2026-06-04T16:17:15Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28504,
-    "updated_at": "2026-06-04T17:09:17Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Observal is a unified platform for agent distribution, observability and insights. ",
-    "id": "BlazeUp-AI/Observal",
-    "language": "Python",
-    "name": "BlazeUp-AI/Observal",
-    "stars": 1991,
-    "updated_at": "2026-06-04T16:19:38Z",
-    "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
     "description": "whatif is an open experiment runner for LLM behavior changes. whatif forks production traces, replays them    with a pro",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T15:36:59Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-04T15:35:41Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:35:00Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
