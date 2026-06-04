@@ -1,5 +1,95 @@
 [
   {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4176,
+    "updated_at": "2026-06-04T14:59:37Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5486,
+    "updated_at": "2026-06-04T14:58:26Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21880,
+    "updated_at": "2026-06-04T14:58:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-04T14:56:11Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "whatif is an open experiment runner for LLM behavior changes. whatif forks production traces, replays them    with a pro",
+    "id": "victoralfred/whatifd",
+    "language": "Python",
+    "name": "victoralfred/whatifd",
+    "stars": 3,
+    "updated_at": "2026-06-04T14:55:54Z",
+    "url": "https://github.com/victoralfred/whatifd"
+  },
+  {
+    "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
+    "id": "SkylineTZ/RagaliQ",
+    "language": "Python",
+    "name": "SkylineTZ/RagaliQ",
+    "stars": 1,
+    "updated_at": "2026-06-04T14:55:47Z",
+    "url": "https://github.com/SkylineTZ/RagaliQ"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-06-04T14:55:03Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-04T14:54:07Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 67,
+    "updated_at": "2026-06-04T14:53:35Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T14:52:57Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -9,6 +99,15 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "\ud83d\udee0\ufe0f Enhance agentic development with tools for isolated environments and unused code detection in your stack.",
+    "id": "masterudon23/agent-tools",
+    "language": "TypeScript",
+    "name": "masterudon23/agent-tools",
+    "stars": 1,
+    "updated_at": "2026-06-04T14:51:40Z",
+    "url": "https://github.com/masterudon23/agent-tools"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
     "id": "Tearfullnex/SpecGuard",
     "language": "Python",
@@ -16,6 +115,24 @@
     "stars": 0,
     "updated_at": "2026-06-04T14:51:38Z",
     "url": "https://github.com/Tearfullnex/SpecGuard"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
+    "id": "Jitendra-kr-d/prompt-engineering-toolkit",
+    "language": "HTML",
+    "name": "Jitendra-kr-d/prompt-engineering-toolkit",
+    "stars": 1,
+    "updated_at": "2026-06-04T14:51:14Z",
+    "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5484,
+    "updated_at": "2026-06-04T14:56:16Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -43,6 +160,15 @@
     "stars": 1,
     "updated_at": "2026-06-04T14:49:49Z",
     "url": "https://github.com/rozario-1234/end2end_sample"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2195,
+    "updated_at": "2026-06-04T14:49:32Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83e\udde0 Explore Agentic AI and GeN AI solutions on AWS, GCP, and Azure to harness cloud power for advanced artificial intellig",
@@ -90,21 +216,12 @@
     "url": "https://github.com/KewalPra/agent-sdk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T14:45:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
     "id": "SynaLinks/synalinks",
     "language": "Python",
     "name": "SynaLinks/synalinks",
     "stars": 437,
-    "updated_at": "2026-06-04T14:46:22Z",
+    "updated_at": "2026-06-04T14:59:42Z",
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
@@ -117,15 +234,6 @@
     "url": "https://github.com/Kacper-ctrl-wq/AI-Tracker"
   },
   {
-    "description": "whatif is an open experiment runner for LLM behavior changes. whatif forks production traces, replays them    with a pro",
-    "id": "victoralfred/whatifd",
-    "language": "Python",
-    "name": "victoralfred/whatifd",
-    "stars": 3,
-    "updated_at": "2026-06-04T14:51:42Z",
-    "url": "https://github.com/victoralfred/whatifd"
-  },
-  {
     "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
     "id": "rsaudio/second-brain",
     "language": "\u2014",
@@ -135,31 +243,13 @@
     "url": "https://github.com/rsaudio/second-brain"
   },
   {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 8,
-    "updated_at": "2026-06-04T14:51:25Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28502,
-    "updated_at": "2026-06-04T14:43:40Z",
+    "stars": 28503,
+    "updated_at": "2026-06-04T14:58:07Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2195,
-    "updated_at": "2026-06-04T14:49:32Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -207,15 +297,6 @@
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   },
   {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 67,
-    "updated_at": "2026-06-04T14:36:17Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
     "id": "bharion1/analytics-dashboard",
     "language": "\u2014",
@@ -223,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T14:35:49Z",
     "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-04T14:50:46Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\ud83c\udfb6 Compose high-fidelity music effortlessly by transforming natural language commands into orchestral compositions using ",
@@ -320,7 +392,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 2,
-    "updated_at": "2026-06-04T14:47:23Z",
+    "updated_at": "2026-06-04T14:55:36Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T14:16:22Z",
     "url": "https://github.com/don12345673434/mjsushanth.github.io"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21878,
-    "updated_at": "2026-06-04T14:48:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\udc14 Simplify AI orchestration by using agentic systems; spawn subagents like a hen with her chicks for seamless task manag",
-    "id": "iulieobraznic/agentic-ai-systems",
-    "language": "\u2014",
-    "name": "iulieobraznic/agentic-ai-systems",
-    "stars": 0,
-    "updated_at": "2026-06-04T14:11:04Z",
-    "url": "https://github.com/iulieobraznic/agentic-ai-systems"
-  },
-  {
-    "description": "\ud83c\udf9b\ufe0f Build efficient workflows with Deevs' Agent System, a plugin marketplace for Claude Code featuring multi-session chai",
-    "id": "Shahzadaslam007799/agent-system",
-    "language": "\u2014",
-    "name": "Shahzadaslam007799/agent-system",
-    "stars": 1,
-    "updated_at": "2026-06-04T14:10:05Z",
-    "url": "https://github.com/Shahzadaslam007799/agent-system"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance customer support with an LLM-powered agent that smartly routes queries using FastAPI, Postgres, and Redis for ",
-    "id": "xjanex160/customer-support-agent",
-    "language": "Python",
-    "name": "xjanex160/customer-support-agent",
-    "stars": 2,
-    "updated_at": "2026-06-04T14:07:20Z",
-    "url": "https://github.com/xjanex160/customer-support-agent"
-  },
-  {
-    "description": "\ud83d\udecd\ufe0f Automate your sales process with an AI-driven multi-agent system that improves efficiency from product inquiries to p",
-    "id": "sway121/Agentes_IA",
-    "language": "Python",
-    "name": "sway121/Agentes_IA",
-    "stars": 4,
-    "updated_at": "2026-06-04T14:07:03Z",
-    "url": "https://github.com/sway121/Agentes_IA"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance your CAD, WMS, or CAM software with Vector\u2014an offline tool for seamless optimization without tuning or ongoing",
-    "id": "dewqasujbc/Vector",
-    "language": "\u2014",
-    "name": "dewqasujbc/Vector",
-    "stars": 0,
-    "updated_at": "2026-06-04T14:07:02Z",
-    "url": "https://github.com/dewqasujbc/Vector"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9980,
-    "updated_at": "2026-06-04T14:05:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-06-04T13:58:40Z",
-    "url": "https://github.com/richardpapiona9/llm"
   }
 ]
