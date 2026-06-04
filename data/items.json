@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 4,
+    "updated_at": "2026-06-04T18:25:41Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-04T18:25:03Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21884,
+    "updated_at": "2026-06-04T18:24:51Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-04T18:24:19Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49291,
+    "updated_at": "2026-06-04T18:30:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 2,
+    "updated_at": "2026-06-04T18:15:38Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T18:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -25,15 +88,6 @@
     "stars": 6,
     "updated_at": "2026-06-04T18:11:58Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-04T18:11:18Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\ud83c\udf10 Explore LLM agents and their ecosystems with this comprehensive handbook for understanding, developing, and implementi",
@@ -63,13 +117,13 @@
     "url": "https://github.com/Thiagoopro/AI-Agent-Framework"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49289,
-    "updated_at": "2026-06-04T18:07:22Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 67,
+    "updated_at": "2026-06-04T18:07:52Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "\ud83d\udcda Explore essential resources for learning Generative AI, covering foundational concepts to advanced topics with curated",
@@ -104,17 +158,8 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1052,
-    "updated_at": "2026-06-04T18:15:17Z",
+    "updated_at": "2026-06-04T18:17:23Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21885,
-    "updated_at": "2026-06-04T18:04:42Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -122,17 +167,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 361,
-    "updated_at": "2026-06-04T18:13:27Z",
+    "updated_at": "2026-06-04T18:21:25Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T18:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -189,15 +225,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 67,
-    "updated_at": "2026-06-04T18:07:52Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -214,15 +241,6 @@
     "stars": 9,
     "updated_at": "2026-06-04T17:41:27Z",
     "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 2,
-    "updated_at": "2026-06-04T17:58:45Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Observal is a unified platform for agent distribution, observability and insights. ",
@@ -288,6 +306,15 @@
     "url": "https://github.com/bursora/sdk"
   },
   {
+    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+    "id": "traceloop/openllmetry",
+    "language": "Python",
+    "name": "traceloop/openllmetry",
+    "stars": 7175,
+    "updated_at": "2026-06-04T17:02:01Z",
+    "url": "https://github.com/traceloop/openllmetry"
+  },
+  {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
     "id": "JoniMartin27/lookspan",
     "language": "TypeScript",
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3287,
-    "updated_at": "2026-06-04T17:58:43Z",
+    "updated_at": "2026-06-04T18:16:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "victoralfred/whatifd",
     "stars": 3,
-    "updated_at": "2026-06-04T18:06:20Z",
+    "updated_at": "2026-06-04T18:17:29Z",
     "url": "https://github.com/victoralfred/whatifd"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T15:59:28Z",
     "url": "https://github.com/Arman7843/gemmachat-windows"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-06-04T15:58:58Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-04T16:31:00Z",
-    "url": "https://github.com/open-ace/open-ace"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:57:58Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
   }
 ]
