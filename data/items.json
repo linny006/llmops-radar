@@ -1,12 +1,48 @@
 [
   {
+    "description": "Cost/latency/judgment-based model router \u2014 pluggable routing strategies, fallback chains, per-model cost telemetry, OTel",
+    "id": "reaatech/llm-router",
+    "language": "TypeScript",
+    "name": "reaatech/llm-router",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:42:07Z",
+    "url": "https://github.com/reaatech/llm-router"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49203,
-    "updated_at": "2026-06-04T02:27:29Z",
+    "stars": 49205,
+    "updated_at": "2026-06-04T02:40:33Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
+    "id": "KIM3310/enterprise-llm-adoption-kit",
+    "language": "Python",
+    "name": "KIM3310/enterprise-llm-adoption-kit",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:35:26Z",
+    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
+  },
+  {
+    "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
+    "id": "fangwendongcs/Auto-agent-factory",
+    "language": "JavaScript",
+    "name": "fangwendongcs/Auto-agent-factory",
+    "stars": 30,
+    "updated_at": "2026-06-04T02:32:27Z",
+    "url": "https://github.com/fangwendongcs/Auto-agent-factory"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -25,24 +61,6 @@
     "stars": 4,
     "updated_at": "2026-06-04T02:15:28Z",
     "url": "https://github.com/AgileSmagile/smagile-agentic-kanban-blueprint"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T02:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Cost/latency/judgment-based model router \u2014 pluggable routing strategies, fallback chains, per-model cost telemetry, OTel",
-    "id": "reaatech/llm-router",
-    "language": "TypeScript",
-    "name": "reaatech/llm-router",
-    "stars": 0,
-    "updated_at": "2026-06-04T02:09:38Z",
-    "url": "https://github.com/reaatech/llm-router"
   },
   {
     "description": "Small library wrapping provider SDKs to emit per-call cost spans, aggregate by tenant/feature/route, and export to Cloud",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 31,
-    "updated_at": "2026-06-04T01:56:51Z",
+    "updated_at": "2026-06-04T02:31:10Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 1,
-    "updated_at": "2026-06-04T01:36:42Z",
+    "updated_at": "2026-06-04T02:44:03Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T01:12:02Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:10:54Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:10:13Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
