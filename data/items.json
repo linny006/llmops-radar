@@ -1,21 +1,84 @@
 [
   {
+    "description": "Self-hosted LLM gateway: one OpenAI-compatible API for OpenAI, Anthropic, Gemini and Azure, with auth, budgets, metrics,",
+    "id": "sreekarp/omnillm",
+    "language": "Python",
+    "name": "sreekarp/omnillm",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:57:43Z",
+    "url": "https://github.com/sreekarp/omnillm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26285,
+    "updated_at": "2026-06-04T02:56:11Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Cost/latency/judgment-based model router \u2014 pluggable routing strategies, fallback chains, per-model cost telemetry, OTel",
     "id": "reaatech/llm-router",
     "language": "TypeScript",
     "name": "reaatech/llm-router",
     "stars": 0,
-    "updated_at": "2026-06-04T02:42:07Z",
+    "updated_at": "2026-06-04T02:56:50Z",
     "url": "https://github.com/reaatech/llm-router"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-06-04T02:55:34Z",
+    "url": "https://github.com/0xLazAI/alith"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49205,
-    "updated_at": "2026-06-04T02:40:33Z",
+    "stars": 49206,
+    "updated_at": "2026-06-04T02:53:52Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
+    "id": "fangwendongcs/Auto-agent-factory",
+    "language": "JavaScript",
+    "name": "fangwendongcs/Auto-agent-factory",
+    "stars": 30,
+    "updated_at": "2026-06-04T02:48:21Z",
+    "url": "https://github.com/fangwendongcs/Auto-agent-factory"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2187,
+    "updated_at": "2026-06-04T02:48:06Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A comprehensive 2026 AI-engineering guide \u2014 complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati",
+    "id": "tonyx1998/modern-ai-engineer-guide",
+    "language": "TypeScript",
+    "name": "tonyx1998/modern-ai-engineer-guide",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:51:28Z",
+    "url": "https://github.com/tonyx1998/modern-ai-engineer-guide"
   },
   {
     "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
@@ -25,33 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T02:35:26Z",
     "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
-  },
-  {
-    "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
-    "id": "fangwendongcs/Auto-agent-factory",
-    "language": "JavaScript",
-    "name": "fangwendongcs/Auto-agent-factory",
-    "stars": 30,
-    "updated_at": "2026-06-04T02:32:27Z",
-    "url": "https://github.com/fangwendongcs/Auto-agent-factory"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T02:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2187,
-    "updated_at": "2026-06-04T02:21:31Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "A working reference for running AI agents with Kanban discipline. Operating model, knowledge system, persona files, and ",
@@ -90,15 +126,6 @@
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26285,
-    "updated_at": "2026-06-04T02:07:53Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 80,
-    "updated_at": "2026-06-04T01:46:09Z",
+    "updated_at": "2026-06-04T02:55:32Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T01:12:19Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-04T01:12:12Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-04T01:12:07Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:12:02Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
