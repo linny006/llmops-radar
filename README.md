@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-04 17:43 UTC
+> ⏰ Last updated: 2026-06-04 17:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-04 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 2 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 67 | Python | 2026-06-04 | Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done. |
-| 3 | [Mindburn-Labs/helm-ai-kernel](https://github.com/Mindburn-Labs/helm-ai-kernel) | 9 | Go | 2026-06-04 | Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip |
-| 4 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 2 | Go | 2026-06-04 | The workflow and governance layer for agent-driven software development. |
-| 5 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1052 | Python | 2026-06-04 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1052 | Python | 2026-06-04 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-04 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 4 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 67 | Python | 2026-06-04 | Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done. |
+| 5 | [Mindburn-Labs/helm-ai-kernel](https://github.com/Mindburn-Labs/helm-ai-kernel) | 9 | Go | 2026-06-04 | Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip |
+| 6 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 2 | Go | 2026-06-04 | The workflow and governance layer for agent-driven software development. |
 | 7 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 1993 | Python | 2026-06-04 | Observal is a unified platform for agent distribution, observability and insights.  |
-| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49288 | Python | 2026-06-04 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49289 | Python | 2026-06-04 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 9 | [xirukmfc/xr2](https://github.com/xirukmfc/xr2) | 0 | TypeScript | 2026-06-04 | Open source prompt management for teams shipping AI features in production. Prompt versioning, A/B testing, conversion f |
 | 10 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28505 | TypeScript | 2026-06-04 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
 | 11 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5489 | Go | 2026-06-04 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
