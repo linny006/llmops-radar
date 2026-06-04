@@ -1,19 +1,73 @@
 [
   {
-    "description": "Self-hosted LLM gateway: one OpenAI-compatible API for OpenAI, Anthropic, Gemini and Azure, with auth, budgets, metrics,",
-    "id": "sreekarp/omnillm",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "sreekarp/omnillm",
+    "name": "BerriAI/litellm",
+    "stars": 49209,
+    "updated_at": "2026-06-04T03:10:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "OmniGate - a self-hosted LLM gateway: one OpenAI-compatible API for OpenAI, Anthropic, Gemini and Azure, with auth, budg",
+    "id": "sreekarp/omnigate",
+    "language": "Python",
+    "name": "sreekarp/omnigate",
     "stars": 0,
-    "updated_at": "2026-06-04T02:57:43Z",
-    "url": "https://github.com/sreekarp/omnillm"
+    "updated_at": "2026-06-04T03:09:26Z",
+    "url": "https://github.com/sreekarp/omnigate"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-04T03:09:23Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
+    "description": "A comprehensive 2026 AI-engineering guide \u2014 complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati",
+    "id": "tonyx1998/modern-ai-engineer-guide",
+    "language": "TypeScript",
+    "name": "tonyx1998/modern-ai-engineer-guide",
+    "stars": 0,
+    "updated_at": "2026-06-04T03:07:01Z",
+    "url": "https://github.com/tonyx1998/modern-ai-engineer-guide"
+  },
+  {
+    "description": "Bilingual AI solution architecture course, toolkit, assessments, and repository deep dives",
+    "id": "anhtnt90dev/ai-solution-architecture",
+    "language": "HTML",
+    "name": "anhtnt90dev/ai-solution-architecture",
+    "stars": 0,
+    "updated_at": "2026-06-04T03:06:58Z",
+    "url": "https://github.com/anhtnt90dev/ai-solution-architecture"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-04T03:13:50Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T03:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26285,
+    "stars": 26286,
     "updated_at": "2026-06-04T02:56:11Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -36,15 +90,6 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49206,
-    "updated_at": "2026-06-04T02:53:52Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
     "id": "fangwendongcs/Auto-agent-factory",
     "language": "JavaScript",
@@ -58,27 +103,9 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2187,
+    "stars": 2188,
     "updated_at": "2026-06-04T02:48:06Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T02:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "A comprehensive 2026 AI-engineering guide \u2014 complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati",
-    "id": "tonyx1998/modern-ai-engineer-guide",
-    "language": "TypeScript",
-    "name": "tonyx1998/modern-ai-engineer-guide",
-    "stars": 0,
-    "updated_at": "2026-06-04T02:51:28Z",
-    "url": "https://github.com/tonyx1998/modern-ai-engineer-guide"
   },
   {
     "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
@@ -158,17 +185,8 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 80,
-    "updated_at": "2026-06-04T02:55:32Z",
+    "updated_at": "2026-06-04T03:04:38Z",
     "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 31,
-    "updated_at": "2026-06-04T02:31:10Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -214,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-06-04T01:41:12Z",
     "url": "https://github.com/Prissieperoneal156/rig"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19429,
+    "updated_at": "2026-06-04T01:38:38Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The workflow and governance layer for agent-driven software development.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T01:13:23Z",
     "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 3,
-    "updated_at": "2026-06-04T01:13:14Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:12:49Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-04T01:12:19Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
