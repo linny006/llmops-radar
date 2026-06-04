@@ -1,12 +1,57 @@
 [
   {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-06-04T03:27:33Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-04T03:26:13Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49209,
-    "updated_at": "2026-06-04T03:10:49Z",
+    "stars": 49210,
+    "updated_at": "2026-06-04T03:26:12Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
+    "id": "fangwendongcs/Auto-agent-factory",
+    "language": "JavaScript",
+    "name": "fangwendongcs/Auto-agent-factory",
+    "stars": 30,
+    "updated_at": "2026-06-04T03:25:06Z",
+    "url": "https://github.com/fangwendongcs/Auto-agent-factory"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2188,
+    "updated_at": "2026-06-04T03:23:46Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
+    "id": "agentbreeder/agentbreeder",
+    "language": "Python",
+    "name": "agentbreeder/agentbreeder",
+    "stars": 4,
+    "updated_at": "2026-06-04T03:23:24Z",
+    "url": "https://github.com/agentbreeder/agentbreeder"
   },
   {
     "description": "OmniGate - a self-hosted LLM gateway: one OpenAI-compatible API for OpenAI, Anthropic, Gemini and Azure, with auth, budg",
@@ -14,8 +59,26 @@
     "language": "Python",
     "name": "sreekarp/omnigate",
     "stars": 0,
-    "updated_at": "2026-06-04T03:09:26Z",
+    "updated_at": "2026-06-04T03:19:37Z",
     "url": "https://github.com/sreekarp/omnigate"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5417,
+    "updated_at": "2026-06-04T03:19:39Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T03:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted enterprise AI workspace and governance platform",
@@ -54,15 +117,6 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T03:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -88,24 +142,6 @@
     "stars": 44,
     "updated_at": "2026-06-04T02:55:34Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
-    "id": "fangwendongcs/Auto-agent-factory",
-    "language": "JavaScript",
-    "name": "fangwendongcs/Auto-agent-factory",
-    "stars": 30,
-    "updated_at": "2026-06-04T02:48:21Z",
-    "url": "https://github.com/fangwendongcs/Auto-agent-factory"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2188,
-    "updated_at": "2026-06-04T02:48:06Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
@@ -333,15 +369,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5417,
-    "updated_at": "2026-06-04T01:41:30Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
     "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
     "id": "Plumaged-dancing835/litellm_1.82.8_payload",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T01:17:36Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:15:14Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 8 cloud providers + local models side-b",
-    "id": "lavellehatcherjr/Cli-Modelarium",
-    "language": "Python",
-    "name": "lavellehatcherjr/Cli-Modelarium",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:14:23Z",
-    "url": "https://github.com/lavellehatcherjr/Cli-Modelarium"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:13:23Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
   }
 ]
