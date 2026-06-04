@@ -1,5 +1,68 @@
 [
   {
+    "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
+    "id": "bursora/core",
+    "language": "TypeScript",
+    "name": "bursora/core",
+    "stars": 0,
+    "updated_at": "2026-06-04T16:59:49Z",
+    "url": "https://github.com/bursora/core"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5488,
+    "updated_at": "2026-06-04T16:59:23Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 2,
+    "updated_at": "2026-06-04T16:57:41Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1052,
+    "updated_at": "2026-06-04T16:59:58Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-04T16:54:02Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-04T16:50:56Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T16:45:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
     "id": "KIM3310/llm-onprem-deployment-kit",
     "language": "HCL",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "KIM3310/enterprise-llm-adoption-kit",
     "stars": 0,
-    "updated_at": "2026-06-04T16:45:04Z",
+    "updated_at": "2026-06-04T16:48:51Z",
     "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49286,
+    "updated_at": "2026-06-04T16:51:51Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Self-hosted AI reliability platform for RAG and agentic applications with observability, protection, evaluations, OpenTe",
@@ -25,51 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T16:36:56Z",
     "url": "https://github.com/glaborie/agentguard"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49285,
-    "updated_at": "2026-06-04T16:43:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:43:46Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5488,
-    "updated_at": "2026-06-04T16:33:40Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
-    "id": "bursora/core",
-    "language": "TypeScript",
-    "name": "bursora/core",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:31:13Z",
-    "url": "https://github.com/bursora/core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -88,15 +115,6 @@
     "stars": 3287,
     "updated_at": "2026-06-04T16:30:12Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1052,
-    "updated_at": "2026-06-04T16:38:31Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -126,6 +144,15 @@
     "url": "https://github.com/runcycles/cycles-spring-ai-starter"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21883,
+    "updated_at": "2026-06-04T16:21:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
     "id": "DYAI2025/Plumbline",
     "language": "HTML",
@@ -140,17 +167,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28504,
-    "updated_at": "2026-06-04T16:14:25Z",
+    "updated_at": "2026-06-04T17:00:36Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21882,
-    "updated_at": "2026-06-04T16:21:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Observal is a unified platform for agent distribution, observability and insights. ",
@@ -256,7 +274,7 @@
     "id": "tensorzero/tensorzero",
     "language": "Rust",
     "name": "tensorzero/tensorzero",
-    "stars": 11434,
+    "stars": 11435,
     "updated_at": "2026-06-04T15:56:24Z",
     "url": "https://github.com/tensorzero/tensorzero"
   },
@@ -428,25 +446,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 2,
-    "updated_at": "2026-06-04T15:33:54Z",
+    "updated_at": "2026-06-04T16:59:03Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents",
-    "id": "guanbear/OctoClaw",
-    "language": "TypeScript",
-    "name": "guanbear/OctoClaw",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:33:20Z",
-    "url": "https://github.com/guanbear/OctoClaw"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:32:57Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
