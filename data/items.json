@@ -1,12 +1,93 @@
 [
   {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 67,
+    "updated_at": "2026-06-04T17:15:01Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
     "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
     "id": "bursora/core",
     "language": "TypeScript",
     "name": "bursora/core",
     "stars": 0,
-    "updated_at": "2026-06-04T16:59:49Z",
+    "updated_at": "2026-06-04T17:14:49Z",
     "url": "https://github.com/bursora/core"
+  },
+  {
+    "description": "Wrap your AI provider client in one line to enforce per-tenant, per-agent, per-workflow spend budgets before the call go",
+    "id": "bursora/sdk",
+    "language": "TypeScript",
+    "name": "bursora/sdk",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:13:44Z",
+    "url": "https://github.com/bursora/sdk"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 2,
+    "updated_at": "2026-06-04T17:11:55Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open source prompt management for teams shipping AI features in production. Prompt versioning, A/B testing, conversion f",
+    "id": "xirukmfc/xr2",
+    "language": "TypeScript",
+    "name": "xirukmfc/xr2",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:10:50Z",
+    "url": "https://github.com/xirukmfc/xr2"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1052,
+    "updated_at": "2026-06-04T17:15:11Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
+    "id": "Mindburn-Labs/helm-ai-kernel",
+    "language": "Go",
+    "name": "Mindburn-Labs/helm-ai-kernel",
+    "stars": 9,
+    "updated_at": "2026-06-04T17:14:08Z",
+    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49287,
+    "updated_at": "2026-06-04T17:11:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:05:34Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:00:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -14,7 +95,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5488,
-    "updated_at": "2026-06-04T16:59:23Z",
+    "updated_at": "2026-06-04T17:15:09Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -27,15 +108,6 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1052,
-    "updated_at": "2026-06-04T16:59:58Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -43,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T16:54:02Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:50:56Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:45:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
@@ -81,15 +135,6 @@
     "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49286,
-    "updated_at": "2026-06-04T16:51:51Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted AI reliability platform for RAG and agentic applications with observability, protection, evaluations, OpenTe",
     "id": "glaborie/agentguard",
     "language": "Python",
@@ -103,7 +148,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9981,
+    "stars": 9982,
     "updated_at": "2026-06-04T16:31:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3287,
-    "updated_at": "2026-06-04T16:30:12Z",
+    "updated_at": "2026-06-04T17:14:37Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -148,7 +193,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21883,
+    "stars": 21884,
     "updated_at": "2026-06-04T16:21:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28504,
-    "updated_at": "2026-06-04T17:00:36Z",
+    "updated_at": "2026-06-04T17:09:17Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-06-04T16:09:07Z",
     "url": "https://github.com/victoralfred/whatifd"
-  },
-  {
-    "description": "Wrap your AI provider client in one line to enforce per-tenant, per-agent, per-workflow spend budgets before the call go",
-    "id": "bursora/sdk",
-    "language": "TypeScript",
-    "name": "bursora/sdk",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:07:07Z",
-    "url": "https://github.com/bursora/sdk"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -324,15 +360,6 @@
     "url": "https://github.com/germanic-hwangho835/FolkLite"
   },
   {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 67,
-    "updated_at": "2026-06-04T15:46:17Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
     "id": "harishu652/Class-AI-Agent",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T15:35:00Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-04T15:34:59Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-04T15:34:17Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 2,
-    "updated_at": "2026-06-04T16:59:03Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
