@@ -1,5 +1,68 @@
 [
   {
+    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
+    "id": "prashar32/riskkernel",
+    "language": "Go",
+    "name": "prashar32/riskkernel",
+    "stars": 12,
+    "updated_at": "2026-06-04T12:59:04Z",
+    "url": "https://github.com/prashar32/riskkernel"
+  },
+  {
+    "description": "Self-hosted quota dashboard for CLIProxyAPI-backed Codex OAuth pools, with NixOS module, agent recommendations, and Prom",
+    "id": "xsyxnx/codex-quota-monitor",
+    "language": "Python",
+    "name": "xsyxnx/codex-quota-monitor",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:57:36Z",
+    "url": "https://github.com/xsyxnx/codex-quota-monitor"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:52:54Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2194,
+    "updated_at": "2026-06-04T12:51:38Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5483,
+    "updated_at": "2026-06-04T12:48:34Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28497,
+    "updated_at": "2026-06-04T12:48:58Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted AI reliability platform for RAG and agentic applications with observability, protection, evaluations, OpenTe",
     "id": "glaborie/agentguard",
     "language": "Python",
@@ -9,22 +72,13 @@
     "url": "https://github.com/glaborie/agentguard"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28495,
-    "updated_at": "2026-06-04T12:44:24Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2194,
-    "updated_at": "2026-06-04T12:38:23Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49265,
+    "updated_at": "2026-06-04T12:55:42Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
@@ -34,24 +88,6 @@
     "stars": 67,
     "updated_at": "2026-06-04T12:37:50Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49265,
-    "updated_at": "2026-06-04T12:43:49Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -99,15 +135,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
-    "id": "prashar32/riskkernel",
-    "language": "Go",
-    "name": "prashar32/riskkernel",
-    "stars": 12,
-    "updated_at": "2026-06-04T12:25:38Z",
-    "url": "https://github.com/prashar32/riskkernel"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "victoralfred/whatifd",
     "stars": 3,
-    "updated_at": "2026-06-04T11:57:38Z",
+    "updated_at": "2026-06-04T13:00:04Z",
     "url": "https://github.com/victoralfred/whatifd"
   },
   {
@@ -131,7 +158,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-04T11:56:57Z",
+    "updated_at": "2026-06-04T12:56:59Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -158,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3286,
-    "updated_at": "2026-06-04T12:43:50Z",
+    "updated_at": "2026-06-04T12:59:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -185,17 +212,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19431,
-    "updated_at": "2026-06-04T12:22:22Z",
+    "updated_at": "2026-06-04T12:58:48Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5481,
-    "updated_at": "2026-06-04T12:33:06Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "High-scale LLM gateway, written in Rust. OpenTelemetry-based observability included",
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5485,
-    "updated_at": "2026-06-04T11:23:17Z",
+    "updated_at": "2026-06-04T12:49:57Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1179,
-    "updated_at": "2026-06-04T12:45:15Z",
+    "updated_at": "2026-06-04T12:57:16Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-04T10:44:22Z",
     "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-04T10:43:43Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-04T10:43:37Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
