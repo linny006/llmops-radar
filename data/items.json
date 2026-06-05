@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open source self-hostable LLM Security Gateway \u2014 prompt injection defense, jailbreak detection, PII scrubbing and real-t",
+    "id": "dhanushkumar-amk/GuardLayer",
+    "language": "TypeScript",
+    "name": "dhanushkumar-amk/GuardLayer",
+    "stars": 0,
+    "updated_at": "2026-06-05T03:28:56Z",
+    "url": "https://github.com/dhanushkumar-amk/GuardLayer"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49334,
+    "updated_at": "2026-06-05T03:28:01Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 81,
+    "updated_at": "2026-06-05T03:27:05Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-05T03:22:52Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-05T03:21:34Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-06-05T03:18:32Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T03:17:48Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
+    "id": "Arman7843/gemmachat-windows",
+    "language": "\u2014",
+    "name": "Arman7843/gemmachat-windows",
+    "stars": 0,
+    "updated_at": "2026-06-05T03:17:35Z",
+    "url": "https://github.com/Arman7843/gemmachat-windows"
+  },
+  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T03:10:41Z",
     "url": "https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer"
-  },
-  {
-    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 81,
-    "updated_at": "2026-06-05T03:17:42Z",
-    "url": "https://github.com/taichuy/1flowbase"
   },
   {
     "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
@@ -153,24 +216,6 @@
     "url": "https://github.com/Netis/heron"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T03:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open source self-hostable LLM Security Gateway \u2014 prompt injection defense, jailbreak detection, PII scrubbing and real-t",
-    "id": "dhanushkumar-amk/GuardLayer",
-    "language": "TypeScript",
-    "name": "dhanushkumar-amk/GuardLayer",
-    "stars": 0,
-    "updated_at": "2026-06-05T02:59:18Z",
-    "url": "https://github.com/dhanushkumar-amk/GuardLayer"
-  },
-  {
     "description": "GCP-aligned financial crime ML platform for fraud detection, AML risk scoring, anomaly detection, graph risk, NLP alert ",
     "id": "Ibraheemolasupogit/gcp-financial-crime-ml-intelligence-platform",
     "language": "Python",
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21892,
-    "updated_at": "2026-06-05T02:58:19Z",
+    "updated_at": "2026-06-05T03:25:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 30,
-    "updated_at": "2026-06-05T02:56:14Z",
+    "updated_at": "2026-06-05T03:24:26Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-05T02:37:36Z",
     "url": "https://github.com/open-ace/open-ace"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-05T02:35:36Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-05T02:35:15Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-06-05T02:34:09Z",
-    "url": "https://github.com/degen1322/agentic-template"
-  },
-  {
-    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
-    "id": "kami-beep/kb-contracts",
-    "language": "TypeScript",
-    "name": "kami-beep/kb-contracts",
-    "stars": 0,
-    "updated_at": "2026-06-05T02:31:11Z",
-    "url": "https://github.com/kami-beep/kb-contracts"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-05T02:28:15Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
