@@ -1,30 +1,39 @@
 [
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:58:37Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5500,
+    "updated_at": "2026-06-05T14:14:53Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
+    "description": "Black-box LLM endpoint audit CLI for provider/model authenticity and relay contract security signals.",
+    "id": "miluxis/TokenVerify",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49388,
-    "updated_at": "2026-06-05T13:57:19Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "miluxis/TokenVerify",
+    "stars": 1,
+    "updated_at": "2026-06-05T14:13:35Z",
+    "url": "https://github.com/miluxis/TokenVerify"
   },
   {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28547,
-    "updated_at": "2026-06-05T13:56:39Z",
+    "stars": 28551,
+    "updated_at": "2026-06-05T14:14:03Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:09:44Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -32,8 +41,53 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21919,
-    "updated_at": "2026-06-05T13:55:30Z",
+    "updated_at": "2026-06-05T14:08:36Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2201,
+    "updated_at": "2026-06-05T14:07:36Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 2,
+    "updated_at": "2026-06-05T14:05:58Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
+    "id": "bursora/core",
+    "language": "TypeScript",
+    "name": "bursora/core",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:03:53Z",
+    "url": "https://github.com/bursora/core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49390,
+    "updated_at": "2026-06-05T13:57:19Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19434,
-    "updated_at": "2026-06-05T13:59:24Z",
+    "updated_at": "2026-06-05T14:14:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -54,24 +108,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5499,
-    "updated_at": "2026-06-05T13:53:17Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:46:11Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -79,6 +115,15 @@
     "stars": 37,
     "updated_at": "2026-06-05T13:43:26Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9991,
+    "updated_at": "2026-06-05T13:40:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T13:33:49Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 2,
-    "updated_at": "2026-06-05T13:32:09Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "OmkarRayAI/wiki-trace",
     "stars": 0,
-    "updated_at": "2026-06-05T13:15:59Z",
+    "updated_at": "2026-06-05T14:14:39Z",
     "url": "https://github.com/OmkarRayAI/wiki-trace"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 361,
-    "updated_at": "2026-06-05T13:49:11Z",
+    "updated_at": "2026-06-05T14:13:14Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -392,7 +428,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 2980,
-    "updated_at": "2026-06-05T13:58:45Z",
+    "updated_at": "2026-06-05T14:14:59Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T12:56:18Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-05T12:56:16Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-05T12:56:13Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-05T12:54:29Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-05T12:53:45Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
