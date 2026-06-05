@@ -1,10 +1,118 @@
 [
   {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-06-05T09:44:26Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-06-05T09:44:03Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 12,
+    "updated_at": "2026-06-05T09:43:19Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28534,
+    "updated_at": "2026-06-05T09:43:39Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
+    "id": "degen1322/agentic-template",
+    "language": "HTML",
+    "name": "degen1322/agentic-template",
+    "stars": 0,
+    "updated_at": "2026-06-05T09:42:55Z",
+    "url": "https://github.com/degen1322/agentic-template"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-05T09:40:20Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
+    "id": "kami-beep/kb-contracts",
+    "language": "TypeScript",
+    "name": "kami-beep/kb-contracts",
+    "stars": 0,
+    "updated_at": "2026-06-05T09:39:52Z",
+    "url": "https://github.com/kami-beep/kb-contracts"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-06-05T09:37:00Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 1,
+    "updated_at": "2026-06-05T09:35:51Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
+    "id": "SkylineTZ/RagaliQ",
+    "language": "Python",
+    "name": "SkylineTZ/RagaliQ",
+    "stars": 1,
+    "updated_at": "2026-06-05T09:31:02Z",
+    "url": "https://github.com/SkylineTZ/RagaliQ"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T09:30:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-06-05T09:30:14Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2199,
+    "stars": 2200,
     "updated_at": "2026-06-05T09:27:52Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -95,7 +203,7 @@
     "language": "Go",
     "name": "Mindburn-Labs/helm-ai-kernel",
     "stars": 9,
-    "updated_at": "2026-06-05T09:22:16Z",
+    "updated_at": "2026-06-05T09:41:46Z",
     "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
   },
   {
@@ -160,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-06-05T09:15:45Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T09:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
@@ -288,15 +387,6 @@
     "url": "https://github.com/juana267/agent-starter-pack"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28533,
-    "updated_at": "2026-06-05T09:29:44Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\ud83e\udde0 Monitor web app performance and detect anomalies with AI-driven insights, capturing key events and generating detailed",
     "id": "LaurenceGab/ai-monitoring-layer",
     "language": "JavaScript",
@@ -310,8 +400,8 @@
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
-    "stars": 1182,
-    "updated_at": "2026-06-05T09:01:18Z",
+    "stars": 1183,
+    "updated_at": "2026-06-05T09:38:33Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 12,
     "updated_at": "2026-06-05T08:56:33Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "\ud83d\udc14 Simplify AI orchestration by using agentic systems; spawn subagents like a hen with her chicks for seamless task manag",
-    "id": "iulieobraznic/agentic-ai-systems",
-    "language": "\u2014",
-    "name": "iulieobraznic/agentic-ai-systems",
-    "stars": 0,
-    "updated_at": "2026-06-05T08:53:20Z",
-    "url": "https://github.com/iulieobraznic/agentic-ai-systems"
-  },
-  {
-    "description": "\ud83c\udf9b\ufe0f Build efficient workflows with Deevs' Agent System, a plugin marketplace for Claude Code featuring multi-session chai",
-    "id": "Shahzadaslam007799/agent-system",
-    "language": "\u2014",
-    "name": "Shahzadaslam007799/agent-system",
-    "stars": 1,
-    "updated_at": "2026-06-05T08:52:37Z",
-    "url": "https://github.com/Shahzadaslam007799/agent-system"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5497,
-    "updated_at": "2026-06-05T08:50:45Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83d\udecd\ufe0f Automate your sales process with an AI-driven multi-agent system that improves efficiency from product inquiries to p",
-    "id": "sway121/Agentes_IA",
-    "language": "Python",
-    "name": "sway121/Agentes_IA",
-    "stars": 4,
-    "updated_at": "2026-06-05T08:50:06Z",
-    "url": "https://github.com/sway121/Agentes_IA"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance customer support with an LLM-powered agent that smartly routes queries using FastAPI, Postgres, and Redis for ",
-    "id": "xjanex160/customer-support-agent",
-    "language": "Python",
-    "name": "xjanex160/customer-support-agent",
-    "stars": 2,
-    "updated_at": "2026-06-05T08:50:03Z",
-    "url": "https://github.com/xjanex160/customer-support-agent"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance your CAD, WMS, or CAM software with Vector\u2014an offline tool for seamless optimization without tuning or ongoing",
-    "id": "dewqasujbc/Vector",
-    "language": "\u2014",
-    "name": "dewqasujbc/Vector",
-    "stars": 0,
-    "updated_at": "2026-06-05T08:49:52Z",
-    "url": "https://github.com/dewqasujbc/Vector"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4176,
-    "updated_at": "2026-06-05T09:21:57Z",
-    "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-05T08:46:37Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-06-05T08:43:46Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 1,
-    "updated_at": "2026-06-05T08:42:24Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
   }
 ]
