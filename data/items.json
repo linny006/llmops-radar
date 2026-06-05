@@ -1,12 +1,75 @@
 [
   {
+    "description": "Self-hostable agentic OS \u2014 build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all ",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 13,
+    "updated_at": "2026-06-05T14:26:51Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21920,
+    "updated_at": "2026-06-05T14:23:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5500,
-    "updated_at": "2026-06-05T14:14:53Z",
+    "stars": 5502,
+    "updated_at": "2026-06-05T14:25:51Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-05T14:21:39Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:19:28Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49392,
+    "updated_at": "2026-06-05T14:27:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source observability for LLM apps: trace every request, cost, and agent step. Self-hosted, MIT.",
+    "id": "OmkarRayAI/wiki-trace",
+    "language": "TypeScript",
+    "name": "OmkarRayAI/wiki-trace",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:16:35Z",
+    "url": "https://github.com/OmkarRayAI/wiki-trace"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:15:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Black-box LLM endpoint audit CLI for provider/model authenticity and relay contract security signals.",
@@ -23,26 +86,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28551,
-    "updated_at": "2026-06-05T14:14:03Z",
+    "updated_at": "2026-06-05T14:29:16Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:09:44Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21919,
-    "updated_at": "2026-06-05T14:08:36Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -72,30 +117,12 @@
     "url": "https://github.com/bursora/core"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49390,
-    "updated_at": "2026-06-05T13:57:19Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19434,
-    "updated_at": "2026-06-05T14:14:29Z",
+    "updated_at": "2026-06-05T14:23:47Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 3,
-    "updated_at": "2026-06-05T13:52:24Z",
+    "updated_at": "2026-06-05T14:18:40Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9991,
-    "updated_at": "2026-06-05T13:40:04Z",
+    "updated_at": "2026-06-05T14:21:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T13:19:32Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Open-source observability for LLM apps: trace every request, cost, and agent step. Self-hosted, MIT.",
-    "id": "OmkarRayAI/wiki-trace",
-    "language": "TypeScript",
-    "name": "OmkarRayAI/wiki-trace",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:14:39Z",
-    "url": "https://github.com/OmkarRayAI/wiki-trace"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 2980,
-    "updated_at": "2026-06-05T14:14:59Z",
+    "updated_at": "2026-06-05T14:27:29Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-05T12:56:20Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-05T12:56:18Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
