@@ -1,12 +1,30 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:59:43Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49412,
-    "updated_at": "2026-06-05T18:44:10Z",
+    "updated_at": "2026-06-05T18:59:37Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 2,
+    "updated_at": "2026-06-05T18:51:45Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,8 +32,35 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-05T18:38:16Z",
+    "updated_at": "2026-06-05T18:51:14Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:51:07Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-05T18:45:50Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -23,7 +68,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5510,
-    "updated_at": "2026-06-05T18:32:49Z",
+    "updated_at": "2026-06-05T18:57:04Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -32,17 +77,8 @@
     "language": "Rust",
     "name": "mezmo/aura",
     "stars": 78,
-    "updated_at": "2026-06-05T18:44:58Z",
+    "updated_at": "2026-06-05T19:00:21Z",
     "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Ultra-low-latency reverse proxy that repairs truncated & malformed JSON in LLM streaming responses (OpenAI, Anthropic, V",
@@ -81,24 +117,6 @@
     "url": "https://github.com/xsyxnx/codex-quota-monitor"
   },
   {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 2,
-    "updated_at": "2026-06-05T18:14:46Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-05T18:39:40Z",
-    "url": "https://github.com/open-ace/open-ace"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -122,7 +140,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 3,
-    "updated_at": "2026-06-05T18:44:06Z",
+    "updated_at": "2026-06-05T18:56:41Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -140,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3289,
-    "updated_at": "2026-06-05T18:40:11Z",
+    "updated_at": "2026-06-05T18:54:06Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -207,15 +225,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:51:08Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9992,
-    "updated_at": "2026-06-05T18:41:06Z",
+    "updated_at": "2026-06-05T18:53:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 54,
     "updated_at": "2026-06-05T17:24:31Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:22:32Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
