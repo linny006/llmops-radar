@@ -1,5 +1,68 @@
 [
   {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5483,
+    "updated_at": "2026-06-05T08:26:03Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 4,
+    "updated_at": "2026-06-05T08:24:37Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-05T08:23:23Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-05T08:22:50Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
+    "id": "bursora/core",
+    "language": "TypeScript",
+    "name": "bursora/core",
+    "stars": 0,
+    "updated_at": "2026-06-05T08:22:45Z",
+    "url": "https://github.com/bursora/core"
+  },
+  {
+    "description": "Self-hostable agentic OS \u2014 build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all ",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 12,
+    "updated_at": "2026-06-05T08:21:00Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T08:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -99,15 +162,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 8,
-    "updated_at": "2026-06-05T08:04:48Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
     "id": "Lo3okSky/LLM_course",
     "language": "Jupyter Notebook",
@@ -115,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-06-05T08:01:20Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T08:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A dynamic-workflow engine for any agent, any model: concurrent leaves, cost-aware routing, schema enforcement, crash-res",
@@ -185,17 +230,8 @@
     "language": "Rust",
     "name": "bosun-ai/swiftide",
     "stars": 703,
-    "updated_at": "2026-06-05T08:10:31Z",
+    "updated_at": "2026-06-05T08:15:54Z",
     "url": "https://github.com/bosun-ai/swiftide"
-  },
-  {
-    "description": "Self-hostable agentic OS \u2014 build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all ",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 12,
-    "updated_at": "2026-06-05T08:01:18Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
@@ -221,7 +257,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28530,
-    "updated_at": "2026-06-05T07:47:14Z",
+    "updated_at": "2026-06-05T08:29:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -238,7 +274,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49369,
+    "stars": 49371,
     "updated_at": "2026-06-05T07:29:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -256,7 +292,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28630,
+    "stars": 28631,
     "updated_at": "2026-06-05T07:12:59Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T06:10:13Z",
     "url": "https://github.com/dhanushkumar-amk/GuardLayer"
-  },
-  {
-    "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
-    "id": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
-    "language": "\u2014",
-    "name": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:08:06Z",
-    "url": "https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:07:55Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
-    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "language": "\u2014",
-    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:07:20Z",
-    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9988,
-    "updated_at": "2026-06-05T07:55:21Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
