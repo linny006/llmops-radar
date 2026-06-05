@@ -1,20 +1,11 @@
 [
   {
-    "description": "Ultra-low-latency reverse proxy that repairs truncated & malformed JSON in LLM streaming responses (OpenAI, Anthropic, V",
-    "id": "tensorhq/suture-stream-repair",
-    "language": "Rust",
-    "name": "tensorhq/suture-stream-repair",
-    "stars": 3,
-    "updated_at": "2026-06-05T18:30:07Z",
-    "url": "https://github.com/tensorhq/suture-stream-repair"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49410,
-    "updated_at": "2026-06-05T18:25:48Z",
+    "stars": 49412,
+    "updated_at": "2026-06-05T18:44:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,8 +14,44 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-05T18:25:00Z",
+    "updated_at": "2026-06-05T18:38:16Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5510,
+    "updated_at": "2026-06-05T18:32:49Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "A production-ready framework for composing AI agents from declarative TOML configuration, with MCP tool integration, RAG",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 78,
+    "updated_at": "2026-06-05T18:44:58Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Ultra-low-latency reverse proxy that repairs truncated & malformed JSON in LLM streaming responses (OpenAI, Anthropic, V",
+    "id": "tensorhq/suture-stream-repair",
+    "language": "Rust",
+    "name": "tensorhq/suture-stream-repair",
+    "stars": 3,
+    "updated_at": "2026-06-05T18:30:07Z",
+    "url": "https://github.com/tensorhq/suture-stream-repair"
   },
   {
     "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor",
@@ -45,15 +72,6 @@
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted quota dashboard for CLIProxyAPI-backed Codex OAuth pools, with NixOS module, agent recommendations, and Prom",
     "id": "xsyxnx/codex-quota-monitor",
     "language": "Python",
@@ -72,21 +90,12 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5509,
-    "updated_at": "2026-06-05T18:27:18Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Self-hosted enterprise AI workspace and governance platform",
     "id": "open-ace/open-ace",
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-05T18:26:08Z",
+    "updated_at": "2026-06-05T18:39:40Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 3,
-    "updated_at": "2026-06-05T18:00:39Z",
+    "updated_at": "2026-06-05T18:44:06Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -131,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3289,
-    "updated_at": "2026-06-05T17:56:54Z",
+    "updated_at": "2026-06-05T18:40:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T17:54:41Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "A production-ready framework for composing AI agents from declarative TOML configuration, with MCP tool integration, RAG",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 78,
-    "updated_at": "2026-06-05T18:29:48Z",
-    "url": "https://github.com/mezmo/aura"
   },
   {
     "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9992,
-    "updated_at": "2026-06-05T17:42:13Z",
+    "updated_at": "2026-06-05T18:41:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -338,7 +338,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 2981,
-    "updated_at": "2026-06-05T17:34:37Z",
+    "updated_at": "2026-06-05T18:43:03Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
