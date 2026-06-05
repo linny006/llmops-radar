@@ -1,5 +1,158 @@
 [
   {
+    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
+    "id": "kami-beep/kb-contracts",
+    "language": "TypeScript",
+    "name": "kami-beep/kb-contracts",
+    "stars": 0,
+    "updated_at": "2026-06-05T05:28:59Z",
+    "url": "https://github.com/kami-beep/kb-contracts"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-06-05T05:25:38Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 1,
+    "updated_at": "2026-06-05T05:24:43Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7531,
+    "updated_at": "2026-06-05T05:24:00Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49344,
+    "updated_at": "2026-06-05T05:22:30Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 812,
+    "updated_at": "2026-06-05T05:21:47Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "Agent context health for stale, conflicting, unsupported, unsafe, and memory-risky AI-facing context.",
+    "id": "ctxgov/ctxgov",
+    "language": "Python",
+    "name": "ctxgov/ctxgov",
+    "stars": 0,
+    "updated_at": "2026-06-05T05:21:35Z",
+    "url": "https://github.com/ctxgov/ctxgov"
+  },
+  {
+    "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
+    "id": "SkylineTZ/RagaliQ",
+    "language": "Python",
+    "name": "SkylineTZ/RagaliQ",
+    "stars": 1,
+    "updated_at": "2026-06-05T05:19:54Z",
+    "url": "https://github.com/SkylineTZ/RagaliQ"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-06-05T05:19:21Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Enhance agentic development with tools for isolated environments and unused code detection in your stack.",
+    "id": "masterudon23/agent-tools",
+    "language": "TypeScript",
+    "name": "masterudon23/agent-tools",
+    "stars": 1,
+    "updated_at": "2026-06-05T05:16:47Z",
+    "url": "https://github.com/masterudon23/agent-tools"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
+    "id": "Tearfullnex/SpecGuard",
+    "language": "Python",
+    "name": "Tearfullnex/SpecGuard",
+    "stars": 0,
+    "updated_at": "2026-06-05T05:16:42Z",
+    "url": "https://github.com/Tearfullnex/SpecGuard"
+  },
+  {
+    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 81,
+    "updated_at": "2026-06-05T05:16:24Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
+    "id": "Jitendra-kr-d/prompt-engineering-toolkit",
+    "language": "HTML",
+    "name": "Jitendra-kr-d/prompt-engineering-toolkit",
+    "stars": 1,
+    "updated_at": "2026-06-05T05:16:23Z",
+    "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-05T05:15:51Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Configure Claude Code with settings and skills for enhanced web interaction, automation, and efficient code managemen",
+    "id": "Md0bR/claude-config",
+    "language": "Shell",
+    "name": "Md0bR/claude-config",
+    "stars": 0,
+    "updated_at": "2026-06-05T05:15:47Z",
+    "url": "https://github.com/Md0bR/claude-config"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T05:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
+    "id": "rozario-1234/end2end_sample",
+    "language": "TypeScript",
+    "name": "rozario-1234/end2end_sample",
+    "stars": 1,
+    "updated_at": "2026-06-05T05:15:23Z",
+    "url": "https://github.com/rozario-1234/end2end_sample"
+  },
+  {
     "description": "\ud83e\udde0 Explore Agentic AI and GeN AI solutions on AWS, GCP, and Azure to harness cloud power for advanced artificial intellig",
     "id": "johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure",
     "language": "\u2014",
@@ -25,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T05:13:15Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Agent context health for stale, conflicting, unsupported, unsafe, and memory-risky AI-facing context.",
-    "id": "ctxgov/ctxgov",
-    "language": "Python",
-    "name": "ctxgov/ctxgov",
-    "stars": 0,
-    "updated_at": "2026-06-05T05:13:53Z",
-    "url": "https://github.com/ctxgov/ctxgov"
   },
   {
     "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
@@ -151,15 +295,6 @@
     "stars": 26302,
     "updated_at": "2026-06-05T05:00:52Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T05:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
@@ -313,140 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-05T04:39:33Z",
     "url": "https://github.com/sway121/Agentes_IA"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21895,
-    "updated_at": "2026-06-05T05:04:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Inspect, annotate, and review AI agent trajectories and artifacts. Local-first, with CLI, TUI, and Web UI surfaces shari",
-    "id": "shizheng-rlfresh/skim",
-    "language": "Python",
-    "name": "shizheng-rlfresh/skim",
-    "stars": 1,
-    "updated_at": "2026-06-05T04:36:29Z",
-    "url": "https://github.com/shizheng-rlfresh/skim"
-  },
-  {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-05T04:35:47Z",
-    "url": "https://github.com/open-ace/open-ace"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-06-05T04:33:20Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 1,
-    "updated_at": "2026-06-05T04:32:08Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83e\udde9 Explore LLM essentials, build advanced models, and develop applications with this comprehensive course on large langua",
-    "id": "Gmail1995/llm-course",
-    "language": "\u2014",
-    "name": "Gmail1995/llm-course",
-    "stars": 1,
-    "updated_at": "2026-06-05T04:30:24Z",
-    "url": "https://github.com/Gmail1995/llm-course"
-  },
-  {
-    "description": "",
-    "id": "ghaithmhmm/LLM-Training",
-    "language": "Python",
-    "name": "ghaithmhmm/LLM-Training",
-    "stars": 0,
-    "updated_at": "2026-06-05T04:26:04Z",
-    "url": "https://github.com/ghaithmhmm/LLM-Training"
-  },
-  {
-    "description": "",
-    "id": "aekta113/ai-sre",
-    "language": "Python",
-    "name": "aekta113/ai-sre",
-    "stars": 1,
-    "updated_at": "2026-06-05T04:22:45Z",
-    "url": "https://github.com/aekta113/ai-sre"
-  },
-  {
-    "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 812,
-    "updated_at": "2026-06-05T04:22:31Z",
-    "url": "https://github.com/Haohao-end/openagent"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
-    "id": "BrandonChT/ai-character-engine",
-    "language": "Python",
-    "name": "BrandonChT/ai-character-engine",
-    "stars": 4,
-    "updated_at": "2026-06-05T04:14:44Z",
-    "url": "https://github.com/BrandonChT/ai-character-engine"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-06-05T04:13:28Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 81,
-    "updated_at": "2026-06-05T05:15:02Z",
-    "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49344,
-    "updated_at": "2026-06-05T04:08:58Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
-    "id": "Netis/heron",
-    "language": "Rust",
-    "name": "Netis/heron",
-    "stars": 27,
-    "updated_at": "2026-06-05T04:07:13Z",
-    "url": "https://github.com/Netis/heron"
-  },
-  {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 3,
-    "updated_at": "2026-06-05T04:08:45Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   }
 ]
