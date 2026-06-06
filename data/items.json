@@ -1,12 +1,21 @@
 [
   {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 3,
-    "updated_at": "2026-06-06T02:27:28Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-06T02:44:53Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7539,
+    "updated_at": "2026-06-06T02:43:38Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
@@ -14,8 +23,35 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 8,
-    "updated_at": "2026-06-06T02:26:26Z",
+    "updated_at": "2026-06-06T02:40:46Z",
     "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-06-06T02:30:48Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T02:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 3,
+    "updated_at": "2026-06-06T02:27:28Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -88,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-06T02:17:02Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T02:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-06T02:28:51Z",
+    "updated_at": "2026-06-06T02:43:20Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5523,
-    "updated_at": "2026-06-06T01:46:50Z",
+    "updated_at": "2026-06-06T02:45:12Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T01:38:30Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-06T01:38:15Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-06-06T01:37:00Z",
-    "url": "https://github.com/degen1322/agentic-template"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49432,
-    "updated_at": "2026-06-06T02:21:41Z",
-    "url": "https://github.com/BerriAI/litellm"
   }
 ]
