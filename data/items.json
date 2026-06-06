@@ -1,11 +1,38 @@
 [
   {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-06T05:58:00Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-06T05:48:17Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
+    "description": "Self-hostable agentic OS \u2014 build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all ",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 13,
+    "updated_at": "2026-06-06T05:56:08Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-06T05:40:38Z",
+    "updated_at": "2026-06-06T05:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 49443,
     "updated_at": "2026-06-06T05:29:59Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 8,
-    "updated_at": "2026-06-06T05:29:03Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T05:24:12Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Self-hostable agentic OS \u2014 build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all ",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 13,
-    "updated_at": "2026-06-06T05:42:55Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -148,7 +157,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2202,
+    "stars": 2203,
     "updated_at": "2026-06-06T05:07:14Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -259,6 +268,15 @@
     "stars": 2,
     "updated_at": "2026-06-06T04:57:03Z",
     "url": "https://github.com/pencaudal526/system-design-bible"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5526,
+    "updated_at": "2026-06-06T04:56:32Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T04:40:40Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-06T04:40:33Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-06T04:37:16Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
