@@ -1,12 +1,30 @@
 [
   {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 3,
+    "updated_at": "2026-06-06T20:55:54Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49494,
-    "updated_at": "2026-06-06T20:42:38Z",
+    "stars": 49495,
+    "updated_at": "2026-06-06T20:46:50Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T20:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "SauravSrivastav/ai-code-assistant",
     "stars": 2,
-    "updated_at": "2026-06-06T20:37:57Z",
+    "updated_at": "2026-06-06T21:00:20Z",
     "url": "https://github.com/SauravSrivastav/ai-code-assistant"
   },
   {
@@ -41,7 +59,7 @@
     "language": "Jupyter Notebook",
     "name": "SauravSrivastav/llama2-ai-toolkit",
     "stars": 9,
-    "updated_at": "2026-06-06T20:37:55Z",
+    "updated_at": "2026-06-06T21:00:19Z",
     "url": "https://github.com/SauravSrivastav/llama2-ai-toolkit"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-06T20:35:07Z",
     "url": "https://github.com/CharithaVadamala9/ml-inference-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T20:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -230,7 +239,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21958,
-    "updated_at": "2026-06-06T20:45:18Z",
+    "updated_at": "2026-06-06T20:45:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 14,
     "updated_at": "2026-06-06T19:57:33Z",
     "url": "https://github.com/prashar32/riskkernel"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-06T19:55:50Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
