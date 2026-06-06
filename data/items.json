@@ -1,11 +1,38 @@
 [
   {
+    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
+    "id": "prismal-ai/prismal",
+    "language": "Python",
+    "name": "prismal-ai/prismal",
+    "stars": 0,
+    "updated_at": "2026-06-06T17:21:56Z",
+    "url": "https://github.com/prismal-ai/prismal"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-06T17:16:43Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T17:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21952,
-    "updated_at": "2026-06-06T17:14:47Z",
+    "updated_at": "2026-06-06T17:26:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -45,15 +72,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T17:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The workflow and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -86,17 +104,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49486,
-    "updated_at": "2026-06-06T17:15:15Z",
+    "updated_at": "2026-06-06T17:29:32Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-06T17:11:42Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-06T15:43:19Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-06T15:43:07Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
