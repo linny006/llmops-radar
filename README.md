@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-06 05:40 UTC
+> ⏰ Last updated: 2026-06-06 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49442 | Python | 2026-06-06 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49443 | Python | 2026-06-06 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 3 | [spanlens/Spanlens](https://github.com/spanlens/Spanlens) | 8 | TypeScript | 2026-06-06 | Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing |
 | 4 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 3 | Python | 2026-06-06 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
 | 5 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-06 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
