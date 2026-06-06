@@ -1,5 +1,50 @@
 [
   {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 3,
+    "updated_at": "2026-06-06T16:55:14Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21951,
+    "updated_at": "2026-06-06T16:58:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2019,
+    "updated_at": "2026-06-06T16:55:48Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
+    "description": "Zero-config observability for AI agents. Auto-instruments OpenAI & Anthropic SDKs.",
+    "id": "ashwanijha04/peekr",
+    "language": "Python",
+    "name": "ashwanijha04/peekr",
+    "stars": 3,
+    "updated_at": "2026-06-06T16:49:30Z",
+    "url": "https://github.com/ashwanijha04/peekr"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T16:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -22,27 +67,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49484,
-    "updated_at": "2026-06-06T16:39:23Z",
+    "stars": 49485,
+    "updated_at": "2026-06-06T16:47:29Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Zero-config observability for AI agents. Auto-instruments OpenAI & Anthropic SDKs.",
-    "id": "ashwanijha04/peekr",
-    "language": "Python",
-    "name": "ashwanijha04/peekr",
-    "stars": 3,
-    "updated_at": "2026-06-06T16:38:57Z",
-    "url": "https://github.com/ashwanijha04/peekr"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T16:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T16:29:22Z",
     "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21950,
-    "updated_at": "2026-06-06T16:40:19Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T16:19:14Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 3,
-    "updated_at": "2026-06-06T16:39:31Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-06T15:36:42Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5535,
-    "updated_at": "2026-06-06T16:13:29Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
