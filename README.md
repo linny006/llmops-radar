@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-06 13:25 UTC
+> ⏰ Last updated: 2026-06-06 13:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-06 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 2 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 68 | Python | 2026-06-06 | Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done. |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-06 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 3 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 68 | Python | 2026-06-06 | Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done. |
 | 4 | [KIM3310/llm-onprem-deployment-kit](https://github.com/KIM3310/llm-onprem-deployment-kit) | 0 | HCL | 2026-06-06 | Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes. |
 | 5 | [KIM3310/enterprise-llm-adoption-kit](https://github.com/KIM3310/enterprise-llm-adoption-kit) | 0 | Python | 2026-06-06 | LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters. |
 | 6 | [miluxis/TokenVerify](https://github.com/miluxis/TokenVerify) | 1 | Python | 2026-06-06 | Black-box LLM endpoint audit CLI for provider/model authenticity and relay contract security signals. |
