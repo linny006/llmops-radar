@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-06 23:43 UTC
+> ⏰ Last updated: 2026-06-06 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -45,7 +45,7 @@ expired items removed — so you can rely on what you see being current.
 | 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
 | 2 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-06 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
 | 3 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-06 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49502 | Python | 2026-06-06 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49503 | Python | 2026-06-06 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 5 | [fluxionpartners/agentic-processing-platform](https://github.com/fluxionpartners/agentic-processing-platform) | 0 | Python | 2026-06-06 | Enterprise Azure AI Foundry agentic document processing reference platform. |
 | 6 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-06-06 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
 | 7 | [Arman7843/gemmachat-windows](https://github.com/Arman7843/gemmachat-windows) | 0 | — | 2026-06-06 | Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant. |
