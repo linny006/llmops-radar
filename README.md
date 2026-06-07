@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-07 10:45 UTC
+> ⏰ Last updated: 2026-06-07 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 361 | Python | 2026-06-07 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
-| 2 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 13 | TypeScript | 2026-06-07 | Self-hostable agentic OS — build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all  |
+| 1 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-07 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 2 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3291 | TypeScript | 2026-06-07 | The platform for LLM evaluations and AI agent testing |
 | 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-07 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-07 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 5 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-07 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 6 | [ictseoyoungmin/HADARA](https://github.com/ictseoyoungmin/HADARA) | 0 | TypeScript | 2026-06-07 | Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows. |
-| 7 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5550 | Go | 2026-06-07 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 8 | [songwookun/agent-eval-lab](https://github.com/songwookun/agent-eval-lab) | 0 | Python | 2026-06-07 | Framework-agnostic AI Agent 평가/관측 인프라 (4축 평가 + OpenTelemetry GenAI trace) |
-| 9 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 31 | Python | 2026-06-07 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
-| 10 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3291 | TypeScript | 2026-06-07 | The platform for LLM evaluations and AI agent testing |
+| 4 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 361 | Python | 2026-06-07 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
+| 5 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 13 | TypeScript | 2026-06-07 | Self-hostable agentic OS — build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all  |
+| 6 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-07 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 7 | [ictseoyoungmin/HADARA](https://github.com/ictseoyoungmin/HADARA) | 0 | TypeScript | 2026-06-07 | Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows. |
+| 8 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5550 | Go | 2026-06-07 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 9 | [songwookun/agent-eval-lab](https://github.com/songwookun/agent-eval-lab) | 0 | Python | 2026-06-07 | Framework-agnostic AI Agent 평가/관측 인프라 (4축 평가 + OpenTelemetry GenAI trace) |
+| 10 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 31 | Python | 2026-06-07 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
 | 11 | [runcycles/cycles-client-python](https://github.com/runcycles/cycles-client-python) | 0 | Python | 2026-06-07 | Python SDK for Cycles — reserve, commit, release budget and risk for AI agents |
 | 12 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-07 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
 | 13 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-07 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
