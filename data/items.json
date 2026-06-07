@@ -1,5 +1,68 @@
 [
   {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 54,
+    "updated_at": "2026-06-07T07:58:26Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Self-hostable agentic OS \u2014 build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all ",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 13,
+    "updated_at": "2026-06-07T07:58:26Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "",
+    "id": "aekta113/ai-sre",
+    "language": "Python",
+    "name": "aekta113/ai-sre",
+    "stars": 1,
+    "updated_at": "2026-06-07T07:57:09Z",
+    "url": "https://github.com/aekta113/ai-sre"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-07T07:53:52Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 5,
+    "updated_at": "2026-06-07T07:47:54Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-07T07:46:23Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T07:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -81,21 +144,12 @@
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T07:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 84,
-    "updated_at": "2026-06-07T07:44:52Z",
+    "updated_at": "2026-06-07T07:55:50Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -103,7 +157,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5545,
+    "stars": 5547,
     "updated_at": "2026-06-07T07:25:20Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -148,7 +202,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21965,
+    "stars": 21967,
     "updated_at": "2026-06-07T07:13:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49525,
-    "updated_at": "2026-06-07T06:47:19Z",
+    "updated_at": "2026-06-07T07:51:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -203,7 +257,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11436,
-    "updated_at": "2026-06-07T06:26:24Z",
+    "updated_at": "2026-06-07T07:54:07Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-07T05:39:57Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-06-07T05:39:52Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-06-07T05:39:17Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-06-07T05:37:37Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
-    "id": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "language": "Python",
-    "name": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "stars": 0,
-    "updated_at": "2026-06-07T05:37:13Z",
-    "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
-    "id": "jimyoshida/dx-devops-landscape",
-    "language": "JavaScript",
-    "name": "jimyoshida/dx-devops-landscape",
-    "stars": 5,
-    "updated_at": "2026-06-07T05:36:08Z",
-    "url": "https://github.com/jimyoshida/dx-devops-landscape"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-07T05:32:40Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
