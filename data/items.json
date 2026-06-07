@@ -1,12 +1,57 @@
 [
   {
+    "description": "A framework with a strict protocol core for governed, stateful AI work.",
+    "id": "maridlabsai/jini",
+    "language": "Go",
+    "name": "maridlabsai/jini",
+    "stars": 1,
+    "updated_at": "2026-06-07T06:25:38Z",
+    "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3291,
+    "updated_at": "2026-06-07T06:25:38Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 37,
+    "updated_at": "2026-06-07T06:23:14Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Zero-infra LLM cost attribution \u2014 track spend per feature, per agent-run & per user, no gateway. By Viprasol Tech.",
+    "id": "Viprasol-Tech/agentcost",
+    "language": "Python",
+    "name": "Viprasol-Tech/agentcost",
+    "stars": 0,
+    "updated_at": "2026-06-07T06:24:22Z",
+    "url": "https://github.com/Viprasol-Tech/agentcost"
+  },
+  {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
     "id": "runcycles/cycles-dashboard",
     "language": "TypeScript",
     "name": "runcycles/cycles-dashboard",
     "stars": 0,
-    "updated_at": "2026-06-07T06:14:26Z",
+    "updated_at": "2026-06-07T06:18:08Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T06:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Regression testing for AI agents \u2014 snapshot tool-calls, diff in CI, fail on regressions. A GitHub Action. By Viprasol Te",
@@ -22,18 +67,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49514,
+    "stars": 49516,
     "updated_at": "2026-06-07T06:05:39Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "A framework with a strict protocol core for governed, stateful AI work.",
-    "id": "maridlabsai/jini",
-    "language": "Go",
-    "name": "maridlabsai/jini",
-    "stars": 1,
-    "updated_at": "2026-06-07T06:03:36Z",
-    "url": "https://github.com/maridlabsai/jini"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -43,15 +79,6 @@
     "stars": 31,
     "updated_at": "2026-06-07T06:02:21Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T06:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T05:16:02Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-07T05:16:00Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-07T05:15:56Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Self-hostable agentic OS \u2014 build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all ",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 13,
-    "updated_at": "2026-06-07T05:31:11Z",
-    "url": "https://github.com/byte5ai/omadia"
   }
 ]
