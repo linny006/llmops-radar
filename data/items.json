@@ -1,11 +1,47 @@
 [
   {
+    "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
+    "id": "KIM3310/llm-onprem-deployment-kit",
+    "language": "HCL",
+    "name": "KIM3310/llm-onprem-deployment-kit",
+    "stars": 0,
+    "updated_at": "2026-06-07T03:25:39Z",
+    "url": "https://github.com/KIM3310/llm-onprem-deployment-kit"
+  },
+  {
+    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
+    "id": "KIM3310/enterprise-llm-adoption-kit",
+    "language": "Python",
+    "name": "KIM3310/enterprise-llm-adoption-kit",
+    "stars": 0,
+    "updated_at": "2026-06-07T03:25:31Z",
+    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T03:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49509,
+    "updated_at": "2026-06-07T03:23:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "SkeinRank \u2014 Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows.",
     "id": "SkeinRank/skeinrank",
     "language": "Python",
     "name": "SkeinRank/skeinrank",
     "stars": 2,
-    "updated_at": "2026-06-07T03:12:35Z",
+    "updated_at": "2026-06-07T03:16:22Z",
     "url": "https://github.com/SkeinRank/skeinrank"
   },
   {
@@ -90,15 +126,6 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T03:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
     "id": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
     "language": "\u2014",
@@ -124,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T02:59:25Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
-    "id": "KIM3310/llm-onprem-deployment-kit",
-    "language": "HCL",
-    "name": "KIM3310/llm-onprem-deployment-kit",
-    "stars": 0,
-    "updated_at": "2026-06-07T02:56:32Z",
-    "url": "https://github.com/KIM3310/llm-onprem-deployment-kit"
-  },
-  {
-    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
-    "id": "KIM3310/enterprise-llm-adoption-kit",
-    "language": "Python",
-    "name": "KIM3310/enterprise-llm-adoption-kit",
-    "stars": 0,
-    "updated_at": "2026-06-07T02:56:24Z",
-    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
@@ -223,15 +232,6 @@
     "stars": 44,
     "updated_at": "2026-06-07T02:49:49Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49508,
-    "updated_at": "2026-06-07T03:13:27Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Self-hostable RAG + agent serving platform for regulated, data-sovereign environments \u2014 pluggable LLM serving (vLLM/Bedr",
