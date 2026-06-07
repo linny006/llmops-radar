@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-07 06:26 UTC
+> ⏰ Last updated: 2026-06-07 06:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [maridlabsai/jini](https://github.com/maridlabsai/jini) | 1 | Go | 2026-06-07 | A framework with a strict protocol core for governed, stateful AI work. |
-| 2 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3291 | TypeScript | 2026-06-07 | The platform for LLM evaluations and AI agent testing |
-| 3 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 37 | Ruby | 2026-06-07 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
-| 4 | [Viprasol-Tech/agentcost](https://github.com/Viprasol-Tech/agentcost) | 0 | Python | 2026-06-07 | Zero-infra LLM cost attribution — track spend per feature, per agent-run & per user, no gateway. By Viprasol Tech. |
-| 5 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-06-07 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-07 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-07 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [maridlabsai/jini](https://github.com/maridlabsai/jini) | 1 | Go | 2026-06-07 | A framework with a strict protocol core for governed, stateful AI work. |
+| 3 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3291 | TypeScript | 2026-06-07 | The platform for LLM evaluations and AI agent testing |
+| 4 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 37 | Ruby | 2026-06-07 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
+| 5 | [Viprasol-Tech/agentcost](https://github.com/Viprasol-Tech/agentcost) | 0 | Python | 2026-06-07 | Zero-infra LLM cost attribution — track spend per feature, per agent-run & per user, no gateway. By Viprasol Tech. |
+| 6 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-06-07 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
 | 7 | [Viprasol-Tech/agentcheck](https://github.com/Viprasol-Tech/agentcheck) | 0 | TypeScript | 2026-06-07 | Regression testing for AI agents — snapshot tool-calls, diff in CI, fail on regressions. A GitHub Action. By Viprasol Te |
-| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49516 | Python | 2026-06-07 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49517 | Python | 2026-06-07 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 9 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 31 | Python | 2026-06-07 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
 | 10 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-07 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
 | 11 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-07 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
