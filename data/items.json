@@ -1,21 +1,48 @@
 [
   {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 2,
-    "updated_at": "2026-06-06T23:57:36Z",
-    "url": "https://github.com/admina-org/admina"
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-07T00:13:26Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49503,
-    "updated_at": "2026-06-06T23:54:47Z",
+    "stars": 49502,
+    "updated_at": "2026-06-07T00:15:02Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21959,
+    "updated_at": "2026-06-07T00:15:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-07T00:03:58Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 31,
+    "updated_at": "2026-06-07T00:01:15Z",
+    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-06T23:45:29Z",
+    "updated_at": "2026-06-07T00:00:23Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 2,
+    "updated_at": "2026-06-07T00:08:20Z",
+    "url": "https://github.com/admina-org/admina"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -288,15 +324,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-06T22:59:44Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
     "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
     "language": "\u2014",
@@ -360,6 +387,15 @@
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   },
   {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 2984,
+    "updated_at": "2026-06-06T22:55:29Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
     "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
     "id": "ashmedanraj/langfuse-eks-production",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T22:48:47Z",
     "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-06T22:45:38Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-06T22:45:19Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "A comprehensive 2026 AI-engineering guide \u2014 complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati",
-    "id": "tonyx1998/modern-ai-engineer-guide",
-    "language": "TypeScript",
-    "name": "tonyx1998/modern-ai-engineer-guide",
-    "stars": 0,
-    "updated_at": "2026-06-06T22:45:02Z",
-    "url": "https://github.com/tonyx1998/modern-ai-engineer-guide"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-06-06T22:44:15Z",
-    "url": "https://github.com/degen1322/agentic-template"
   }
 ]
