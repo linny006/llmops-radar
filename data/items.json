@@ -1,5 +1,68 @@
 [
   {
+    "description": "Context optimization for LLM apps. Ranks, dedups, and budgets retrieved chunks into a tighter prompt, with a full audit ",
+    "id": "Mario-Vishal/tokengate",
+    "language": "Python",
+    "name": "Mario-Vishal/tokengate",
+    "stars": 0,
+    "updated_at": "2026-06-07T19:14:30Z",
+    "url": "https://github.com/Mario-Vishal/tokengate"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-07T19:12:47Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 5,
+    "updated_at": "2026-06-07T19:09:38Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-07T19:08:41Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Local-first operating model and spec-driven workflow framework for agentic AI teams based on KCC operating model  https:",
+    "id": "TarekFawaz/kcc-agentic-framework",
+    "language": "PowerShell",
+    "name": "TarekFawaz/kcc-agentic-framework",
+    "stars": 0,
+    "updated_at": "2026-06-07T19:06:26Z",
+    "url": "https://github.com/TarekFawaz/kcc-agentic-framework"
+  },
+  {
+    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
+    "id": "prismal-ai/prismal",
+    "language": "Python",
+    "name": "prismal-ai/prismal",
+    "stars": 0,
+    "updated_at": "2026-06-07T19:04:09Z",
+    "url": "https://github.com/prismal-ai/prismal"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T19:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -90,15 +153,6 @@
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   },
   {
-    "description": "Local-first operating model and spec-driven workflow framework for agentic AI teams based on KCC operating model  https:",
-    "id": "TarekFawaz/kcc-agentic-framework",
-    "language": "PowerShell",
-    "name": "TarekFawaz/kcc-agentic-framework",
-    "stars": 0,
-    "updated_at": "2026-06-07T18:52:15Z",
-    "url": "https://github.com/TarekFawaz/kcc-agentic-framework"
-  },
-  {
     "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
     "id": "bursora/core",
     "language": "TypeScript",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 32,
-    "updated_at": "2026-06-07T18:49:44Z",
+    "updated_at": "2026-06-07T19:07:15Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -144,15 +198,6 @@
     "url": "https://github.com/fluiq-AI/fluiq-sdk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T18:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -160,15 +205,6 @@
     "stars": 5,
     "updated_at": "2026-06-07T18:44:50Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-07T18:43:40Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
@@ -205,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-06-07T18:37:12Z",
     "url": "https://github.com/eladser/seerlens"
-  },
-  {
-    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
-    "id": "prismal-ai/prismal",
-    "language": "Python",
-    "name": "prismal-ai/prismal",
-    "stars": 0,
-    "updated_at": "2026-06-07T18:53:59Z",
-    "url": "https://github.com/prismal-ai/prismal"
   },
   {
     "description": "Self-hostable agentic OS \u2014 build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all ",
@@ -256,8 +283,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5556,
-    "updated_at": "2026-06-07T17:56:48Z",
+    "stars": 5557,
+    "updated_at": "2026-06-07T19:06:02Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 14,
     "updated_at": "2026-06-07T17:04:17Z",
     "url": "https://github.com/jamjet-labs/jamjet"
-  },
-  {
-    "description": "Eval-first AI agent that triages property maintenance emails. The real work is the eval system around it: trace-driven e",
-    "id": "mohsinsheikhani/property-maintenance-agent",
-    "language": "Python",
-    "name": "mohsinsheikhani/property-maintenance-agent",
-    "stars": 4,
-    "updated_at": "2026-06-07T17:02:19Z",
-    "url": "https://github.com/mohsinsheikhani/property-maintenance-agent"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-06-07T17:01:26Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
-    "id": "Arman7843/gemmachat-windows",
-    "language": "\u2014",
-    "name": "Arman7843/gemmachat-windows",
-    "stars": 0,
-    "updated_at": "2026-06-07T17:00:36Z",
-    "url": "https://github.com/Arman7843/gemmachat-windows"
   }
 ]
