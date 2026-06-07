@@ -1,11 +1,29 @@
 [
   {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 2,
+    "updated_at": "2026-06-06T23:57:36Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49503,
+    "updated_at": "2026-06-06T23:54:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-06T23:43:06Z",
+    "updated_at": "2026-06-06T23:45:29Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T23:28:22Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49503,
-    "updated_at": "2026-06-06T23:44:47Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Enterprise Azure AI Foundry agentic document processing reference platform.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T22:44:15Z",
     "url": "https://github.com/degen1322/agentic-template"
-  },
-  {
-    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
-    "id": "kami-beep/kb-contracts",
-    "language": "TypeScript",
-    "name": "kami-beep/kb-contracts",
-    "stars": 0,
-    "updated_at": "2026-06-06T22:41:21Z",
-    "url": "https://github.com/kami-beep/kb-contracts"
   }
 ]
