@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49675 | Python | 2026-06-08 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 2 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 2043 | Python | 2026-06-08 | Observal is a unified agent registry and analytics platform.  |
-| 3 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-08 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-08 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-08 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49675 | Python | 2026-06-08 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 3 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 2043 | Python | 2026-06-08 | Observal is a unified agent registry and analytics platform.  |
+| 4 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-08 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 5 | [Mario-Vishal/tokengate](https://github.com/Mario-Vishal/tokengate) | 0 | Python | 2026-06-08 | Context optimization for LLM apps. Ranks, dedups, and budgets retrieved chunks into a tighter prompt, with a full audit  |
 | 6 | [KinSushi/secure-wealth-rag-assistant](https://github.com/KinSushi/secure-wealth-rag-assistant) | 0 | Python | 2026-06-08 | Secure RAG / LLMOps portfolio project using synthetic documents, retrieval evaluation, prompt-injection tests, privacy c |
 | 7 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 32 | TypeScript | 2026-06-08 | Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
