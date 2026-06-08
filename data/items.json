@@ -1,12 +1,48 @@
 [
   {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:05:59Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+    "name": "BerriAI/litellm",
+    "stars": 49674,
+    "updated_at": "2026-06-08T21:28:42Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Observal is a unified agent registry and analytics platform. ",
+    "id": "BlazeUp-AI/Observal",
+    "language": "Python",
+    "name": "BlazeUp-AI/Observal",
+    "stars": 2043,
+    "updated_at": "2026-06-08T21:24:42Z",
+    "url": "https://github.com/BlazeUp-AI/Observal"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28696,
+    "updated_at": "2026-06-08T21:20:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Enterprise Azure AI Foundry agentic document processing reference platform.",
+    "id": "fluxionpartners/agentic-processing-platform",
+    "language": "Python",
+    "name": "fluxionpartners/agentic-processing-platform",
+    "stars": 1,
+    "updated_at": "2026-06-08T21:19:22Z",
+    "url": "https://github.com/fluxionpartners/agentic-processing-platform"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 3,
+    "updated_at": "2026-06-08T21:18:18Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Deterministic metric-change ledger for AI observability, robotics telemetry, and industrial monitoring",
@@ -14,8 +50,26 @@
     "language": "Rust",
     "name": "chrono-metrics/metricchrono",
     "stars": 0,
-    "updated_at": "2026-06-08T21:07:37Z",
+    "updated_at": "2026-06-08T21:19:45Z",
     "url": "https://github.com/chrono-metrics/metricchrono"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:05:59Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -34,15 +88,6 @@
     "stars": 22021,
     "updated_at": "2026-06-08T21:04:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28694,
-    "updated_at": "2026-06-08T21:02:11Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -72,15 +117,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -99,15 +135,6 @@
     "url": "https://github.com/Prissieperoneal156/rig"
   },
   {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 3,
-    "updated_at": "2026-06-08T20:59:05Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Secure RAG / LLMOps portfolio project using synthetic documents, retrieval evaluation, prompt-injection tests, privacy c",
     "id": "KinSushi/secure-wealth-rag-assistant",
     "language": "Python",
@@ -117,24 +144,6 @@
     "url": "https://github.com/KinSushi/secure-wealth-rag-assistant"
   },
   {
-    "description": "Enterprise Azure AI Foundry agentic document processing reference platform.",
-    "id": "fluxionpartners/agentic-processing-platform",
-    "language": "Python",
-    "name": "fluxionpartners/agentic-processing-platform",
-    "stars": 1,
-    "updated_at": "2026-06-08T20:58:33Z",
-    "url": "https://github.com/fluxionpartners/agentic-processing-platform"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49674,
-    "updated_at": "2026-06-08T21:13:28Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
@@ -142,6 +151,24 @@
     "stars": 3,
     "updated_at": "2026-06-08T20:55:06Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19458,
+    "updated_at": "2026-06-08T20:55:01Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3293,
+    "updated_at": "2026-06-08T20:54:51Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -194,7 +221,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5594,
-    "updated_at": "2026-06-08T21:03:03Z",
+    "updated_at": "2026-06-08T21:28:50Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T20:32:58Z",
     "url": "https://github.com/cognis-digital/memorybank"
-  },
-  {
-    "description": "Offline LLM / agent eval harness with regression gates",
-    "id": "cognis-digital/evalbench",
-    "language": "Python",
-    "name": "cognis-digital/evalbench",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:32:56Z",
-    "url": "https://github.com/cognis-digital/evalbench"
-  },
-  {
-    "description": "Config-first scaffolding and orchestration for multi-agent workflows",
-    "id": "cognis-digital/agentsmith",
-    "language": "Python",
-    "name": "cognis-digital/agentsmith",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:32:54Z",
-    "url": "https://github.com/cognis-digital/agentsmith"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:31:21Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
   }
 ]
