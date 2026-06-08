@@ -1,12 +1,12 @@
 [
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Agent context health and ASCR-aligned memory governance for stale, conflicting, unsupported, unsafe, and memory-risky AI",
+    "id": "ctxgov/ctxgov",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19449,
-    "updated_at": "2026-06-08T07:30:17Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "ctxgov/ctxgov",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:42:30Z",
+    "url": "https://github.com/ctxgov/ctxgov"
   },
   {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
@@ -14,17 +14,44 @@
     "language": "Python",
     "name": "moiraweave-labs/moiraweave",
     "stars": 1,
-    "updated_at": "2026-06-08T07:29:51Z",
+    "updated_at": "2026-06-08T07:43:09Z",
     "url": "https://github.com/moiraweave-labs/moiraweave"
   },
   {
-    "description": "Local-first RAG and agent skills framework for source-traceable agent memory.",
-    "id": "sparkplug604/praxis",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "sparkplug604/praxis",
-    "stars": 19,
-    "updated_at": "2026-06-08T07:28:56Z",
-    "url": "https://github.com/sparkplug604/praxis"
+    "name": "BerriAI/litellm",
+    "stars": 49605,
+    "updated_at": "2026-06-08T07:42:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5572,
+    "updated_at": "2026-06-08T07:38:16Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28659,
+    "updated_at": "2026-06-08T07:37:29Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-08T07:36:12Z",
+    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -32,17 +59,44 @@
     "language": "JavaScript",
     "name": "Fast-Editor/Lynkr",
     "stars": 454,
-    "updated_at": "2026-06-08T07:25:11Z",
+    "updated_at": "2026-06-08T07:33:02Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
   },
   {
-    "description": "Agent context health and ASCR-aligned memory governance for stale, conflicting, unsupported, unsafe, and memory-risky AI",
-    "id": "ctxgov/ctxgov",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "ctxgov/ctxgov",
+    "name": "comet-ml/opik",
+    "stars": 19448,
+    "updated_at": "2026-06-08T07:37:35Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2504,
+    "updated_at": "2026-06-08T07:41:02Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-08T07:22:03Z",
-    "url": "https://github.com/ctxgov/ctxgov"
+    "updated_at": "2026-06-08T07:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Local-first RAG and agent skills framework for source-traceable agent memory.",
+    "id": "sparkplug604/praxis",
+    "language": "Python",
+    "name": "sparkplug604/praxis",
+    "stars": 19,
+    "updated_at": "2026-06-08T07:35:39Z",
+    "url": "https://github.com/sparkplug604/praxis"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -63,15 +117,6 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agent-harness structure auditor for Claude Code multi-agent systems. Checks whether the system your docs describe equals",
     "id": "Zane456/harness-check",
     "language": "\u2014",
@@ -81,58 +126,13 @@
     "url": "https://github.com/Zane456/harness-check"
   },
   {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 8,
-    "updated_at": "2026-06-08T07:11:27Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49602,
-    "updated_at": "2026-06-08T07:11:19Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3292,
-    "updated_at": "2026-06-08T07:28:23Z",
+    "updated_at": "2026-06-08T07:41:50Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2504,
-    "updated_at": "2026-06-08T06:54:47Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28657,
-    "updated_at": "2026-06-08T06:52:43Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5571,
-    "updated_at": "2026-06-08T07:22:02Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -196,6 +196,15 @@
     "stars": 0,
     "updated_at": "2026-06-08T06:15:23Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "qKnow is an open-source intelligent agent platform for enterprise knowledge and industry AI. It unifies documents and da",
+    "id": "qiantongtech/qKnow",
+    "language": "Java",
+    "name": "qiantongtech/qKnow",
+    "stars": 238,
+    "updated_at": "2026-06-08T06:13:35Z",
+    "url": "https://github.com/qiantongtech/qKnow"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-08T06:41:27Z",
+    "updated_at": "2026-06-08T07:40:25Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T05:46:11Z",
     "url": "https://github.com/maridlabsai/jini"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:46:00Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   }
 ]
