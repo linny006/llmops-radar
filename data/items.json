@@ -1,11 +1,65 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 4,
+    "updated_at": "2026-06-08T14:39:24Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-08T14:33:14Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Risk scoring for deciding how much supervision AI coding agents need.",
+    "id": "Aidan2111/agent-autonomy-score",
+    "language": "Python",
+    "name": "Aidan2111/agent-autonomy-score",
+    "stars": 0,
+    "updated_at": "2026-06-08T14:32:35Z",
+    "url": "https://github.com/Aidan2111/agent-autonomy-score"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49656,
+    "updated_at": "2026-06-08T14:31:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T14:30:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Deterministic metric-change ledger for AI observability, robotics telemetry, and industrial monitoring",
+    "id": "chrono-metrics/metricchrono",
+    "language": "Rust",
+    "name": "chrono-metrics/metricchrono",
+    "stars": 0,
+    "updated_at": "2026-06-08T14:29:13Z",
+    "url": "https://github.com/chrono-metrics/metricchrono"
+  },
+  {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
     "id": "OrlojHQ/orloj",
     "language": "Go",
     "name": "OrlojHQ/orloj",
     "stars": 103,
-    "updated_at": "2026-06-08T14:28:45Z",
+    "updated_at": "2026-06-08T14:32:38Z",
     "url": "https://github.com/OrlojHQ/orloj"
   },
   {
@@ -36,30 +90,12 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 8,
-    "updated_at": "2026-06-08T14:29:30Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:15:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 362,
-    "updated_at": "2026-06-08T14:18:36Z",
+    "updated_at": "2026-06-08T14:33:01Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19452,
-    "updated_at": "2026-06-08T14:24:57Z",
+    "updated_at": "2026-06-08T14:43:58Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T13:54:59Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49653,
-    "updated_at": "2026-06-08T13:51:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T13:31:08Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-08T13:30:11Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-08T13:26:36Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-08T13:24:36Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
   }
 ]
