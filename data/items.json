@@ -1,5 +1,158 @@
 [
   {
+    "description": "Runtime allowlist and policy for agent tool-calls",
+    "id": "cognis-digital/toolguard",
+    "language": "Python",
+    "name": "cognis-digital/toolguard",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:40:26Z",
+    "url": "https://github.com/cognis-digital/toolguard"
+  },
+  {
+    "description": "Batteries-included local RAG pipeline \u2014 ingest, index, serve",
+    "id": "cognis-digital/ragkit",
+    "language": "Python",
+    "name": "cognis-digital/ragkit",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:40:25Z",
+    "url": "https://github.com/cognis-digital/ragkit"
+  },
+  {
+    "description": "Versioned prompt / template registry with A/B and rollbacks",
+    "id": "cognis-digital/promptpack",
+    "language": "Python",
+    "name": "cognis-digital/promptpack",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:40:24Z",
+    "url": "https://github.com/cognis-digital/promptpack"
+  },
+  {
+    "description": "Local model router / proxy across Ollama, vLLM, and cloud with fallback",
+    "id": "cognis-digital/modelroute",
+    "language": "Python",
+    "name": "cognis-digital/modelroute",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:40:22Z",
+    "url": "https://github.com/cognis-digital/modelroute"
+  },
+  {
+    "description": "Portable long-term memory store for agents, exposed over MCP",
+    "id": "cognis-digital/memorybank",
+    "language": "Python",
+    "name": "cognis-digital/memorybank",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:40:21Z",
+    "url": "https://github.com/cognis-digital/memorybank"
+  },
+  {
+    "description": "Offline LLM / agent eval harness with regression gates",
+    "id": "cognis-digital/evalbench",
+    "language": "Python",
+    "name": "cognis-digital/evalbench",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:40:19Z",
+    "url": "https://github.com/cognis-digital/evalbench"
+  },
+  {
+    "description": "Config-first scaffolding and orchestration for multi-agent workflows",
+    "id": "cognis-digital/agentsmith",
+    "language": "Python",
+    "name": "cognis-digital/agentsmith",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:40:18Z",
+    "url": "https://github.com/cognis-digital/agentsmith"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:38:17Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83d\udee0 Build enterprise-grade AI agents with MaxKB, an open-source platform designed for simplicity and performance.",
+    "id": "carglezfer/MaxKB",
+    "language": "Python",
+    "name": "carglezfer/MaxKB",
+    "stars": 1,
+    "updated_at": "2026-06-08T22:37:34Z",
+    "url": "https://github.com/carglezfer/MaxKB"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-06-08T22:37:32Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "\ud83c\udf10 Explore LLM agents and their ecosystems with this comprehensive handbook for understanding, developing, and implementi",
+    "id": "Herry259/LLM-Agents-Ecosystem-Handbook",
+    "language": "Python",
+    "name": "Herry259/LLM-Agents-Ecosystem-Handbook",
+    "stars": 2,
+    "updated_at": "2026-06-08T22:36:31Z",
+    "url": "https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook"
+  },
+  {
+    "description": "\ud83c\udf99\ufe0f Enhance customer interactions with a real-time AI voice agent, utilizing OpenAI's Realtime API and Twilio for smarter",
+    "id": "damn124/ai-calling-agent",
+    "language": "Python",
+    "name": "damn124/ai-calling-agent",
+    "stars": 2,
+    "updated_at": "2026-06-08T22:35:46Z",
+    "url": "https://github.com/damn124/ai-calling-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus",
+    "id": "Thiagoopro/AI-Agent-Framework",
+    "language": "Python",
+    "name": "Thiagoopro/AI-Agent-Framework",
+    "stars": 1,
+    "updated_at": "2026-06-08T22:34:35Z",
+    "url": "https://github.com/Thiagoopro/AI-Agent-Framework"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-06-08T22:34:04Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "\ud83d\udcda Explore essential resources for learning Generative AI, covering foundational concepts to advanced topics with curated",
+    "id": "hwgdfkchw/Generative-AI-Essentials",
+    "language": "\u2014",
+    "name": "hwgdfkchw/Generative-AI-Essentials",
+    "stars": 2,
+    "updated_at": "2026-06-08T22:34:00Z",
+    "url": "https://github.com/hwgdfkchw/Generative-AI-Essentials"
+  },
+  {
+    "description": "\ud83e\udd16 Discover AI tools and techniques to optimize DevOps processes through practical challenges and hands-on projects in th",
+    "id": "monim279/AI-Powered-DevOps",
+    "language": "Python",
+    "name": "monim279/AI-Powered-DevOps",
+    "stars": 4,
+    "updated_at": "2026-06-08T22:33:52Z",
+    "url": "https://github.com/monim279/AI-Powered-DevOps"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
     "id": "Lo3okSky/LLM_course",
     "language": "Jupyter Notebook",
@@ -18,15 +171,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Runtime allowlist and policy for agent tool-calls",
-    "id": "cognis-digital/toolguard",
-    "language": "Python",
-    "name": "cognis-digital/toolguard",
-    "stars": 0,
-    "updated_at": "2026-06-08T22:26:34Z",
-    "url": "https://github.com/cognis-digital/toolguard"
-  },
-  {
     "description": "Local skill registry and installer for AI agents",
     "id": "cognis-digital/skillhub",
     "language": "Python",
@@ -34,60 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T22:26:32Z",
     "url": "https://github.com/cognis-digital/skillhub"
-  },
-  {
-    "description": "Batteries-included local RAG pipeline \u2014 ingest, index, serve",
-    "id": "cognis-digital/ragkit",
-    "language": "Python",
-    "name": "cognis-digital/ragkit",
-    "stars": 0,
-    "updated_at": "2026-06-08T22:26:24Z",
-    "url": "https://github.com/cognis-digital/ragkit"
-  },
-  {
-    "description": "Versioned prompt / template registry with A/B and rollbacks",
-    "id": "cognis-digital/promptpack",
-    "language": "Python",
-    "name": "cognis-digital/promptpack",
-    "stars": 0,
-    "updated_at": "2026-06-08T22:26:23Z",
-    "url": "https://github.com/cognis-digital/promptpack"
-  },
-  {
-    "description": "Local model router / proxy across Ollama, vLLM, and cloud with fallback",
-    "id": "cognis-digital/modelroute",
-    "language": "Python",
-    "name": "cognis-digital/modelroute",
-    "stars": 0,
-    "updated_at": "2026-06-08T22:26:20Z",
-    "url": "https://github.com/cognis-digital/modelroute"
-  },
-  {
-    "description": "Portable long-term memory store for agents, exposed over MCP",
-    "id": "cognis-digital/memorybank",
-    "language": "Python",
-    "name": "cognis-digital/memorybank",
-    "stars": 0,
-    "updated_at": "2026-06-08T22:26:19Z",
-    "url": "https://github.com/cognis-digital/memorybank"
-  },
-  {
-    "description": "Offline LLM / agent eval harness with regression gates",
-    "id": "cognis-digital/evalbench",
-    "language": "Python",
-    "name": "cognis-digital/evalbench",
-    "stars": 0,
-    "updated_at": "2026-06-08T22:26:17Z",
-    "url": "https://github.com/cognis-digital/evalbench"
-  },
-  {
-    "description": "Config-first scaffolding and orchestration for multi-agent workflows",
-    "id": "cognis-digital/agentsmith",
-    "language": "Python",
-    "name": "cognis-digital/agentsmith",
-    "stars": 0,
-    "updated_at": "2026-06-08T22:26:16Z",
-    "url": "https://github.com/cognis-digital/agentsmith"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -140,7 +230,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22022,
-    "updated_at": "2026-06-08T22:19:47Z",
+    "updated_at": "2026-06-08T22:40:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -149,7 +239,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 3,
-    "updated_at": "2026-06-08T22:19:21Z",
+    "updated_at": "2026-06-08T22:42:51Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -158,17 +248,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49677,
-    "updated_at": "2026-06-08T22:29:25Z",
+    "updated_at": "2026-06-08T22:45:11Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T22:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Observal is a unified agent registry and analytics platform. ",
@@ -265,7 +346,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5595,
+    "stars": 5596,
     "updated_at": "2026-06-08T21:37:21Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -292,7 +373,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28697,
+    "stars": 28698,
     "updated_at": "2026-06-08T21:20:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-08T20:55:06Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19468,
-    "updated_at": "2026-06-08T20:55:01Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3293,
-    "updated_at": "2026-06-08T21:49:39Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:54:13Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
-    "id": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
-    "language": "\u2014",
-    "name": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:54:13Z",
-    "url": "https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer"
-  },
-  {
-    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
-    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "language": "\u2014",
-    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:53:39Z",
-    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7561,
-    "updated_at": "2026-06-08T21:41:57Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10040,
-    "updated_at": "2026-06-08T22:19:19Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
-    "id": "germanic-hwangho835/FolkLite",
-    "language": "\u2014",
-    "name": "germanic-hwangho835/FolkLite",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:49:44Z",
-    "url": "https://github.com/germanic-hwangho835/FolkLite"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:49:17Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
   }
 ]
