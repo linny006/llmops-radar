@@ -1,12 +1,48 @@
 [
   {
+    "description": "Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 32,
+    "updated_at": "2026-06-08T08:28:10Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28664,
+    "updated_at": "2026-06-08T08:29:14Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-08T08:27:56Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
     "description": "The emergency brake for multi-agent systems. Stop runaway LangChain & CrewAI agents before they burn your budget.",
     "id": "marcoschulz7/agentbrake",
     "language": "Python",
     "name": "marcoschulz7/agentbrake",
     "stars": 0,
-    "updated_at": "2026-06-08T08:14:11Z",
+    "updated_at": "2026-06-08T08:18:15Z",
     "url": "https://github.com/marcoschulz7/agentbrake"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T08:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -18,6 +54,15 @@
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 54,
+    "updated_at": "2026-06-08T08:11:37Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
     "description": "Agent context health and ASCR-aligned memory governance for stale, conflicting, unsupported, unsafe, and memory-risky AI",
     "id": "ctxgov/ctxgov",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T08:10:09Z",
     "url": "https://github.com/ctxgov/ctxgov"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28662,
-    "updated_at": "2026-06-08T08:06:23Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -45,22 +81,13 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 32,
-    "updated_at": "2026-06-08T08:01:40Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5573,
+    "updated_at": "2026-06-08T08:01:20Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 361,
-    "updated_at": "2026-06-08T07:59:46Z",
+    "updated_at": "2026-06-08T08:18:17Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 13,
     "updated_at": "2026-06-08T07:56:28Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 8,
-    "updated_at": "2026-06-08T08:14:36Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "Tamper-evident action proofs for MCP agents \u2014 records what an agent did, on whose authority, and whether it stayed withi",
@@ -148,18 +166,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49608,
+    "stars": 49612,
     "updated_at": "2026-06-08T07:42:20Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5572,
-    "updated_at": "2026-06-08T08:01:20Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -184,7 +193,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26351,
+    "stars": 26352,
     "updated_at": "2026-06-08T07:21:23Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -265,7 +274,7 @@
     "id": "qiantongtech/qKnow",
     "language": "Java",
     "name": "qiantongtech/qKnow",
-    "stars": 238,
+    "stars": 239,
     "updated_at": "2026-06-08T06:13:35Z",
     "url": "https://github.com/qiantongtech/qKnow"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T05:50:25Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-08T08:12:18Z",
-    "url": "https://github.com/open-ace/open-ace"
   }
 ]
