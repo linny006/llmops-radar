@@ -1,5 +1,68 @@
 [
   {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 362,
+    "updated_at": "2026-06-08T15:27:42Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Deterministic metric-change ledger for AI observability, robotics telemetry, and industrial monitoring",
+    "id": "chrono-metrics/metricchrono",
+    "language": "Rust",
+    "name": "chrono-metrics/metricchrono",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:25:35Z",
+    "url": "https://github.com/chrono-metrics/metricchrono"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:25:14Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
+    "id": "techlab-innov/llmtrace",
+    "language": "Rust",
+    "name": "techlab-innov/llmtrace",
+    "stars": 50,
+    "updated_at": "2026-06-08T15:21:30Z",
+    "url": "https://github.com/techlab-innov/llmtrace"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 68,
+    "updated_at": "2026-06-08T15:21:07Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Say what you want to do \u2014 iPlus picks the right AI for you. Open-core AI orchestration desktop app (Tauri + FastAPI).",
+    "id": "yuneunmi814-cmyk/iplus",
+    "language": "Python",
+    "name": "yuneunmi814-cmyk/iplus",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:20:41Z",
+    "url": "https://github.com/yuneunmi814-cmyk/iplus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:15:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udded Awesome Enterprise AI \u2014 the CAIO list. An adoption-first index of open-source AI for the enterprise (license \u00b7 maturit",
     "id": "caiohome/awesome-caio",
     "language": "Python",
@@ -36,15 +99,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 68,
-    "updated_at": "2026-06-08T15:06:55Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Self-hosted enterprise AI workspace and governance platform",
     "id": "open-ace/open-ace",
     "language": "Python",
@@ -52,33 +106,6 @@
     "stars": 4,
     "updated_at": "2026-06-08T15:06:48Z",
     "url": "https://github.com/open-ace/open-ace"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 362,
-    "updated_at": "2026-06-08T15:15:19Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T15:00:42Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:56:22Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
@@ -157,18 +184,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49659,
+    "stars": 49661,
     "updated_at": "2026-06-08T14:31:04Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Deterministic metric-change ledger for AI observability, robotics telemetry, and industrial monitoring",
-    "id": "chrono-metrics/metricchrono",
-    "language": "Rust",
-    "name": "chrono-metrics/metricchrono",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:29:13Z",
-    "url": "https://github.com/chrono-metrics/metricchrono"
   },
   {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
@@ -180,21 +198,12 @@
     "url": "https://github.com/OrlojHQ/orloj"
   },
   {
-    "description": "Say what you want to do \u2014 iPlus picks the right AI for you. Open-core AI orchestration desktop app (Tauri + FastAPI).",
-    "id": "yuneunmi814-cmyk/iplus",
-    "language": "Python",
-    "name": "yuneunmi814-cmyk/iplus",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:28:26Z",
-    "url": "https://github.com/yuneunmi814-cmyk/iplus"
-  },
-  {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28685,
-    "updated_at": "2026-06-08T14:28:00Z",
+    "updated_at": "2026-06-08T15:26:30Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19452,
-    "updated_at": "2026-06-08T14:43:58Z",
+    "updated_at": "2026-06-08T15:22:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -286,6 +295,15 @@
     "stars": 1,
     "updated_at": "2026-06-08T14:01:24Z",
     "url": "https://github.com/valani9/vstack"
+  },
+  {
+    "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
+    "id": "langfuse/langfuse-workshop",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-workshop",
+    "stars": 11,
+    "updated_at": "2026-06-08T15:30:14Z",
+    "url": "https://github.com/langfuse/langfuse-workshop"
   },
   {
     "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T13:40:04Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-08T13:38:39Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-08T13:38:18Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   }
 ]
