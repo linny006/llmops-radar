@@ -1,12 +1,66 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3292,
+    "updated_at": "2026-06-08T08:00:16Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 361,
+    "updated_at": "2026-06-08T07:59:46Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19449,
+    "updated_at": "2026-06-08T07:59:24Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Agent context health and ASCR-aligned memory governance for stale, conflicting, unsupported, unsafe, and memory-risky AI",
     "id": "ctxgov/ctxgov",
     "language": "Python",
     "name": "ctxgov/ctxgov",
     "stars": 0,
-    "updated_at": "2026-06-08T07:42:30Z",
+    "updated_at": "2026-06-08T07:56:49Z",
     "url": "https://github.com/ctxgov/ctxgov"
+  },
+  {
+    "description": "Evidra Bench runs live infrastructure scenarios for AI agents, MCP servers, and AI SRE tools, then shows pass/fail, unsa",
+    "id": "vitas/evidra-bench",
+    "language": "Go",
+    "name": "vitas/evidra-bench",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:55:36Z",
+    "url": "https://github.com/vitas/evidra-bench"
+  },
+  {
+    "description": "Self-hostable agentic OS \u2014 build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all ",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 13,
+    "updated_at": "2026-06-08T07:56:28Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-08T07:54:14Z",
+    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
@@ -14,15 +68,33 @@
     "language": "Python",
     "name": "moiraweave-labs/moiraweave",
     "stars": 1,
-    "updated_at": "2026-06-08T07:43:09Z",
+    "updated_at": "2026-06-08T07:47:12Z",
     "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2504,
+    "updated_at": "2026-06-08T07:45:43Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49605,
+    "stars": 49607,
     "updated_at": "2026-06-08T07:42:20Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -32,7 +104,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5572,
-    "updated_at": "2026-06-08T07:38:16Z",
+    "updated_at": "2026-06-08T07:54:53Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -40,18 +112,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28659,
-    "updated_at": "2026-06-08T07:37:29Z",
+    "stars": 28661,
+    "updated_at": "2026-06-08T07:56:56Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 8,
-    "updated_at": "2026-06-08T07:36:12Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -61,33 +124,6 @@
     "stars": 454,
     "updated_at": "2026-06-08T07:33:02Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19448,
-    "updated_at": "2026-06-08T07:37:35Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2504,
-    "updated_at": "2026-06-08T07:41:02Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first RAG and agent skills framework for source-traceable agent memory.",
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T07:14:11Z",
     "url": "https://github.com/Zane456/harness-check"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3292,
-    "updated_at": "2026-06-08T07:41:50Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T05:48:34Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:48:06Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-08T05:46:45Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "A framework with a strict protocol core for governed, stateful AI work.",
-    "id": "maridlabsai/jini",
-    "language": "Go",
-    "name": "maridlabsai/jini",
-    "stars": 1,
-    "updated_at": "2026-06-08T05:46:11Z",
-    "url": "https://github.com/maridlabsai/jini"
   }
 ]
