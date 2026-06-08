@@ -1,5 +1,59 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5579,
+    "updated_at": "2026-06-08T11:57:47Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Zero-infra LLM cost attribution \u2014 track spend per feature, per agent-run & per user, no gateway. By Viprasol Tech.",
+    "id": "Viprasol-Tech/agentcost",
+    "language": "Python",
+    "name": "Viprasol-Tech/agentcost",
+    "stars": 0,
+    "updated_at": "2026-06-08T11:58:43Z",
+    "url": "https://github.com/Viprasol-Tech/agentcost"
+  },
+  {
+    "description": "AI agents fail like junior teammates\u2014looping on bad ideas, ignoring feedback, escalating commitment. vstack ports 34 of ",
+    "id": "valani9/vstack",
+    "language": "Python",
+    "name": "valani9/vstack",
+    "stars": 1,
+    "updated_at": "2026-06-08T11:55:43Z",
+    "url": "https://github.com/valani9/vstack"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 361,
+    "updated_at": "2026-06-08T11:56:55Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-08T11:55:11Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T11:55:07Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
     "id": "8pig/llm-ops",
     "language": "Python",
@@ -16,6 +70,24 @@
     "stars": 0,
     "updated_at": "2026-06-08T11:52:34Z",
     "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19451,
+    "updated_at": "2026-06-08T11:52:05Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49633,
+    "updated_at": "2026-06-08T12:00:25Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\udee0 Build enterprise-grade AI agents with MaxKB, an open-source platform designed for simplicity and performance.",
@@ -54,15 +126,6 @@
     "url": "https://github.com/damn124/ai-calling-agent"
   },
   {
-    "description": "AI agents fail like junior teammates\u2014looping on bad ideas, ignoring feedback, escalating commitment. vstack ports 34 of ",
-    "id": "valani9/vstack",
-    "language": "Python",
-    "name": "valani9/vstack",
-    "stars": 1,
-    "updated_at": "2026-06-08T11:49:18Z",
-    "url": "https://github.com/valani9/vstack"
-  },
-  {
     "description": "\ud83e\udd16 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus",
     "id": "Thiagoopro/AI-Agent-Framework",
     "language": "Python",
@@ -99,30 +162,12 @@
     "url": "https://github.com/monim279/AI-Powered-DevOps"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-08T11:47:19Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T11:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28678,
-    "updated_at": "2026-06-08T11:49:40Z",
+    "updated_at": "2026-06-08T11:58:33Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -149,17 +194,8 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 8,
-    "updated_at": "2026-06-08T11:46:58Z",
+    "updated_at": "2026-06-08T11:55:49Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5578,
-    "updated_at": "2026-06-08T11:43:18Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4183,
-    "updated_at": "2026-06-08T11:28:37Z",
+    "updated_at": "2026-06-08T11:57:46Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/Prissieperoneal156/rig"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49632,
-    "updated_at": "2026-06-08T11:51:55Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-08T11:02:30Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
-    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "language": "\u2014",
-    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "stars": 0,
-    "updated_at": "2026-06-08T11:02:23Z",
-    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-06-08T10:58:45Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-06-08T10:58:39Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
