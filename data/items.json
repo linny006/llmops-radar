@@ -1,12 +1,66 @@
 [
   {
+    "description": "Track Azure OpenAI cost per call and stop overspending with budgets, FastAPI middleware, and reporters.",
+    "id": "TemidireAdesiji/openai-cost-guard",
+    "language": "\u2014",
+    "name": "TemidireAdesiji/openai-cost-guard",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:28:18Z",
+    "url": "https://github.com/TemidireAdesiji/openai-cost-guard"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49672,
+    "updated_at": "2026-06-08T18:25:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22019,
+    "updated_at": "2026-06-08T18:23:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Budget and cost guardrails for AI agent sessions, with JSON, Markdown, JUnit reports, policy exits, model pricing, and C",
+    "id": "yanqr213/agent-cost-guardrail",
+    "language": "Python",
+    "name": "yanqr213/agent-cost-guardrail",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:21:51Z",
+    "url": "https://github.com/yanqr213/agent-cost-guardrail"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-08T18:14:28Z",
+    "updated_at": "2026-06-08T18:15:30Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-06-08T18:15:29Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19453,
+    "updated_at": "2026-06-08T18:14:46Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -54,15 +108,6 @@
     "url": "https://github.com/Arman7843/gemmachat-windows"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49672,
-    "updated_at": "2026-06-08T18:11:17Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -70,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-06-08T18:05:30Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10039,
+    "updated_at": "2026-06-08T18:05:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -121,7 +175,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28690,
+    "stars": 28691,
     "updated_at": "2026-06-08T17:59:03Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -131,7 +185,7 @@
     "language": "Go",
     "name": "Mindburn-Labs/helm-ai-kernel",
     "stars": 9,
-    "updated_at": "2026-06-08T18:00:16Z",
+    "updated_at": "2026-06-08T18:29:57Z",
     "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
   },
   {
@@ -162,22 +216,13 @@
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
     "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22018,
-    "updated_at": "2026-06-08T18:10:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-06-08T17:55:39Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
+    "name": "Agenta-AI/agenta",
+    "stars": 4185,
+    "updated_at": "2026-06-08T17:57:32Z",
+    "url": "https://github.com/Agenta-AI/agenta"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
@@ -277,15 +322,6 @@
     "stars": 3,
     "updated_at": "2026-06-08T17:47:02Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19452,
-    "updated_at": "2026-06-08T18:14:46Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T17:35:27Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-08T17:35:25Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-08T17:35:24Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:35:11Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:33:09Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
