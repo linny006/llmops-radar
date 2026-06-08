@@ -1,5 +1,176 @@
 [
   {
+    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 14,
+    "updated_at": "2026-06-08T17:28:43Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
+    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "language": "Python",
+    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "stars": 3,
+    "updated_at": "2026-06-08T17:28:27Z",
+    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:25:35Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:25:35Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
+    "id": "JFPastor09/rest-gateway-1771916756-4",
+    "language": "\u2014",
+    "name": "JFPastor09/rest-gateway-1771916756-4",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:25:21Z",
+    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
+  },
+  {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:21:45Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:20:53Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
+    "id": "degen1322/agentic-template",
+    "language": "HTML",
+    "name": "degen1322/agentic-template",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:20:22Z",
+    "url": "https://github.com/degen1322/agentic-template"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:18:28Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
+    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
+    "id": "kami-beep/kb-contracts",
+    "language": "TypeScript",
+    "name": "kami-beep/kb-contracts",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:17:06Z",
+    "url": "https://github.com/kami-beep/kb-contracts"
+  },
+  {
+    "description": "Runtime allowlist and policy for agent tool-calls",
+    "id": "cognis-digital/toolguard",
+    "language": "Python",
+    "name": "cognis-digital/toolguard",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:15:47Z",
+    "url": "https://github.com/cognis-digital/toolguard"
+  },
+  {
+    "description": "Local skill registry and installer for AI agents",
+    "id": "cognis-digital/skillhub",
+    "language": "Python",
+    "name": "cognis-digital/skillhub",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:15:45Z",
+    "url": "https://github.com/cognis-digital/skillhub"
+  },
+  {
+    "description": "Batteries-included local RAG pipeline \u2014 ingest, index, serve",
+    "id": "cognis-digital/ragkit",
+    "language": "Python",
+    "name": "cognis-digital/ragkit",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:15:44Z",
+    "url": "https://github.com/cognis-digital/ragkit"
+  },
+  {
+    "description": "Versioned prompt / template registry with A/B and rollbacks",
+    "id": "cognis-digital/promptpack",
+    "language": "Python",
+    "name": "cognis-digital/promptpack",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:15:42Z",
+    "url": "https://github.com/cognis-digital/promptpack"
+  },
+  {
+    "description": "Local model router / proxy across Ollama, vLLM, and cloud with fallback",
+    "id": "cognis-digital/modelroute",
+    "language": "Python",
+    "name": "cognis-digital/modelroute",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:15:41Z",
+    "url": "https://github.com/cognis-digital/modelroute"
+  },
+  {
+    "description": "Portable long-term memory store for agents, exposed over MCP",
+    "id": "cognis-digital/memorybank",
+    "language": "Python",
+    "name": "cognis-digital/memorybank",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:15:39Z",
+    "url": "https://github.com/cognis-digital/memorybank"
+  },
+  {
+    "description": "Offline LLM / agent eval harness with regression gates",
+    "id": "cognis-digital/evalbench",
+    "language": "Python",
+    "name": "cognis-digital/evalbench",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:15:38Z",
+    "url": "https://github.com/cognis-digital/evalbench"
+  },
+  {
+    "description": "Config-first scaffolding and orchestration for multi-agent workflows",
+    "id": "cognis-digital/agentsmith",
+    "language": "Python",
+    "name": "cognis-digital/agentsmith",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:15:36Z",
+    "url": "https://github.com/cognis-digital/agentsmith"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T17:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The workflow and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -9,15 +180,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 14,
-    "updated_at": "2026-06-08T17:14:32Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
     "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
     "id": "developersofik/greenprompt",
     "language": "TypeScript",
@@ -25,69 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T17:13:57Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "Versioned prompt / template registry with A/B and rollbacks",
-    "id": "cognis-digital/promptpack",
-    "language": "Python",
-    "name": "cognis-digital/promptpack",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:13:24Z",
-    "url": "https://github.com/cognis-digital/promptpack"
-  },
-  {
-    "description": "Portable long-term memory store for agents, exposed over MCP",
-    "id": "cognis-digital/memorybank",
-    "language": "Python",
-    "name": "cognis-digital/memorybank",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:13:22Z",
-    "url": "https://github.com/cognis-digital/memorybank"
-  },
-  {
-    "description": "Batteries-included local RAG pipeline \u2014 ingest, index, serve",
-    "id": "cognis-digital/ragkit",
-    "language": "Python",
-    "name": "cognis-digital/ragkit",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:13:21Z",
-    "url": "https://github.com/cognis-digital/ragkit"
-  },
-  {
-    "description": "Offline LLM / agent eval harness with regression gates",
-    "id": "cognis-digital/evalbench",
-    "language": "Python",
-    "name": "cognis-digital/evalbench",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:13:19Z",
-    "url": "https://github.com/cognis-digital/evalbench"
-  },
-  {
-    "description": "Runtime allowlist and policy for agent tool-calls",
-    "id": "cognis-digital/toolguard",
-    "language": "Python",
-    "name": "cognis-digital/toolguard",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:13:17Z",
-    "url": "https://github.com/cognis-digital/toolguard"
-  },
-  {
-    "description": "Local skill registry and installer for AI agents",
-    "id": "cognis-digital/skillhub",
-    "language": "Python",
-    "name": "cognis-digital/skillhub",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:13:16Z",
-    "url": "https://github.com/cognis-digital/skillhub"
-  },
-  {
-    "description": "Config-first scaffolding and orchestration for multi-agent workflows",
-    "id": "cognis-digital/agentsmith",
-    "language": "Python",
-    "name": "cognis-digital/agentsmith",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:13:14Z",
-    "url": "https://github.com/cognis-digital/agentsmith"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -104,7 +203,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 31,
-    "updated_at": "2026-06-08T17:12:16Z",
+    "updated_at": "2026-06-08T17:18:32Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -113,7 +212,7 @@
     "language": "Go",
     "name": "Mindburn-Labs/helm-ai-kernel",
     "stars": 9,
-    "updated_at": "2026-06-08T17:11:55Z",
+    "updated_at": "2026-06-08T17:24:27Z",
     "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
   },
   {
@@ -216,15 +315,6 @@
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
     "id": "KewalPra/agent-sdk",
     "language": "Python",
@@ -232,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T17:00:24Z",
     "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:00:23Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
     "description": "\ud83d\ude80 Explore how to optimize large language models through context engineering and the Model Context Protocol for improved ",
@@ -266,7 +347,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49669,
-    "updated_at": "2026-06-08T16:58:03Z",
+    "updated_at": "2026-06-08T17:23:00Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -284,7 +365,7 @@
     "language": "Ruby",
     "name": "homemade-software-inc/completion-kit",
     "stars": 1,
-    "updated_at": "2026-06-08T16:54:07Z",
+    "updated_at": "2026-06-08T17:17:33Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 13,
     "updated_at": "2026-06-08T16:50:10Z",
     "url": "https://github.com/InftyAI/alphatrion"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-06-08T16:47:20Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "\ud83d\ude80 Build and scale reliable Retrieval-Augmented Generation (RAG) systems with this curated collection of tools, framework",
-    "id": "mowael07/Awesome-RAG-Production",
-    "language": "Python",
-    "name": "mowael07/Awesome-RAG-Production",
-    "stars": 3,
-    "updated_at": "2026-06-08T16:45:20Z",
-    "url": "https://github.com/mowael07/Awesome-RAG-Production"
-  },
-  {
-    "description": "The open source runtime enforcement for AI agents. ",
-    "id": "EnforceGrid/steer",
-    "language": "Rust",
-    "name": "EnforceGrid/steer",
-    "stars": 2,
-    "updated_at": "2026-06-08T16:44:55Z",
-    "url": "https://github.com/EnforceGrid/steer"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 2,
-    "updated_at": "2026-06-08T16:44:02Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-06-08T16:43:37Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
-    "id": "azzan1235/agentic_rag_system",
-    "language": "Python",
-    "name": "azzan1235/agentic_rag_system",
-    "stars": 0,
-    "updated_at": "2026-06-08T16:42:46Z",
-    "url": "https://github.com/azzan1235/agentic_rag_system"
-  },
-  {
-    "description": "\ud83e\udde0 Build an offline RAG chatbot to answer questions from PDFs, adapting responses based on user experience levels with a ",
-    "id": "Limbertutelvt2004/RAG",
-    "language": "Python",
-    "name": "Limbertutelvt2004/RAG",
-    "stars": 2,
-    "updated_at": "2026-06-08T16:42:32Z",
-    "url": "https://github.com/Limbertutelvt2004/RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build and deploy intelligent agents with the Agent Starter Pack, featuring simple templates and robust documentation f",
-    "id": "juana267/agent-starter-pack",
-    "language": "Java",
-    "name": "juana267/agent-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-08T16:40:33Z",
-    "url": "https://github.com/juana267/agent-starter-pack"
-  },
-  {
-    "description": "\ud83e\udde0 Monitor web app performance and detect anomalies with AI-driven insights, capturing key events and generating detailed",
-    "id": "LaurenceGab/ai-monitoring-layer",
-    "language": "JavaScript",
-    "name": "LaurenceGab/ai-monitoring-layer",
-    "stars": 0,
-    "updated_at": "2026-06-08T16:38:46Z",
-    "url": "https://github.com/LaurenceGab/ai-monitoring-layer"
   }
 ]
