@@ -1,5 +1,167 @@
 [
   {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28667,
+    "updated_at": "2026-06-08T09:14:42Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1584,
+    "updated_at": "2026-06-08T09:14:24Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 32,
+    "updated_at": "2026-06-08T09:11:39Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Runtime allowlist and policy for agent tool-calls",
+    "id": "cognis-digital/toolguard",
+    "language": "Python",
+    "name": "cognis-digital/toolguard",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:09:18Z",
+    "url": "https://github.com/cognis-digital/toolguard"
+  },
+  {
+    "description": "Local skill registry and installer for AI agents",
+    "id": "cognis-digital/skillhub",
+    "language": "Python",
+    "name": "cognis-digital/skillhub",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:09:16Z",
+    "url": "https://github.com/cognis-digital/skillhub"
+  },
+  {
+    "description": "Batteries-included local RAG pipeline \u2014 ingest, index, serve",
+    "id": "cognis-digital/ragkit",
+    "language": "Python",
+    "name": "cognis-digital/ragkit",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:09:14Z",
+    "url": "https://github.com/cognis-digital/ragkit"
+  },
+  {
+    "description": "Versioned prompt / template registry with A/B and rollbacks",
+    "id": "cognis-digital/promptpack",
+    "language": "Python",
+    "name": "cognis-digital/promptpack",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:09:12Z",
+    "url": "https://github.com/cognis-digital/promptpack"
+  },
+  {
+    "description": "Local model router / proxy across Ollama, vLLM, and cloud with fallback",
+    "id": "cognis-digital/modelroute",
+    "language": "Python",
+    "name": "cognis-digital/modelroute",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:09:10Z",
+    "url": "https://github.com/cognis-digital/modelroute"
+  },
+  {
+    "description": "Portable long-term memory store for agents, exposed over MCP",
+    "id": "cognis-digital/memorybank",
+    "language": "Python",
+    "name": "cognis-digital/memorybank",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:09:08Z",
+    "url": "https://github.com/cognis-digital/memorybank"
+  },
+  {
+    "description": "Offline LLM / agent eval harness with regression gates",
+    "id": "cognis-digital/evalbench",
+    "language": "Python",
+    "name": "cognis-digital/evalbench",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:09:04Z",
+    "url": "https://github.com/cognis-digital/evalbench"
+  },
+  {
+    "description": "Config-first scaffolding and orchestration for multi-agent workflows",
+    "id": "cognis-digital/agentsmith",
+    "language": "Python",
+    "name": "cognis-digital/agentsmith",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:08:54Z",
+    "url": "https://github.com/cognis-digital/agentsmith"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 5,
+    "updated_at": "2026-06-08T09:08:35Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-08T09:07:38Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:07:32Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-08T09:05:13Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
+    "description": "The emergency brake for multi-agent systems. Stop runaway LangChain & CrewAI agents before they burn your budget.",
+    "id": "marcoschulz7/agentbrake",
+    "language": "Python",
+    "name": "marcoschulz7/agentbrake",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:04:51Z",
+    "url": "https://github.com/marcoschulz7/agentbrake"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:01:43Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T09:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Production-style LLM runtime gateway for reliable AI applications: provider abstraction, structured output, streaming, o",
     "id": "ruicore/llm-runtime-gateway",
     "language": "Python",
@@ -36,15 +198,6 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:56:44Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Self-hostable agentic OS \u2014 build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all ",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -67,18 +220,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26352,
+    "stars": 26353,
     "updated_at": "2026-06-08T08:55:22Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 8,
-    "updated_at": "2026-06-08T08:58:34Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -86,7 +230,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 361,
-    "updated_at": "2026-06-08T08:54:58Z",
+    "updated_at": "2026-06-08T09:14:07Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -153,15 +297,6 @@
     "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:45:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -169,15 +304,6 @@
     "stars": 5,
     "updated_at": "2026-06-08T08:44:04Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28665,
-    "updated_at": "2026-06-08T08:59:34Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
@@ -189,42 +315,6 @@
     "url": "https://github.com/bilal0399/learn-agentic-ai"
   },
   {
-    "description": "Runtime allowlist and policy for agent tool-calls",
-    "id": "cognis-digital/toolguard",
-    "language": "Python",
-    "name": "cognis-digital/toolguard",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:40:04Z",
-    "url": "https://github.com/cognis-digital/toolguard"
-  },
-  {
-    "description": "Local skill registry and installer for AI agents",
-    "id": "cognis-digital/skillhub",
-    "language": "Python",
-    "name": "cognis-digital/skillhub",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:40:02Z",
-    "url": "https://github.com/cognis-digital/skillhub"
-  },
-  {
-    "description": "Batteries-included local RAG pipeline \u2014 ingest, index, serve",
-    "id": "cognis-digital/ragkit",
-    "language": "Python",
-    "name": "cognis-digital/ragkit",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:40:00Z",
-    "url": "https://github.com/cognis-digital/ragkit"
-  },
-  {
-    "description": "Versioned prompt / template registry with A/B and rollbacks",
-    "id": "cognis-digital/promptpack",
-    "language": "Python",
-    "name": "cognis-digital/promptpack",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:39:58Z",
-    "url": "https://github.com/cognis-digital/promptpack"
-  },
-  {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
     "id": "tenemos/langwatch",
     "language": "TypeScript",
@@ -234,60 +324,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Local model router / proxy across Ollama, vLLM, and cloud with fallback",
-    "id": "cognis-digital/modelroute",
-    "language": "Python",
-    "name": "cognis-digital/modelroute",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:39:56Z",
-    "url": "https://github.com/cognis-digital/modelroute"
-  },
-  {
-    "description": "Portable long-term memory store for agents, exposed over MCP",
-    "id": "cognis-digital/memorybank",
-    "language": "Python",
-    "name": "cognis-digital/memorybank",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:39:55Z",
-    "url": "https://github.com/cognis-digital/memorybank"
-  },
-  {
-    "description": "Offline LLM / agent eval harness with regression gates",
-    "id": "cognis-digital/evalbench",
-    "language": "Python",
-    "name": "cognis-digital/evalbench",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:39:54Z",
-    "url": "https://github.com/cognis-digital/evalbench"
-  },
-  {
-    "description": "Config-first scaffolding and orchestration for multi-agent workflows",
-    "id": "cognis-digital/agentsmith",
-    "language": "Python",
-    "name": "cognis-digital/agentsmith",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:39:52Z",
-    "url": "https://github.com/cognis-digital/agentsmith"
-  },
-  {
-    "description": "Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 32,
-    "updated_at": "2026-06-08T08:40:04Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "The emergency brake for multi-agent systems. Stop runaway LangChain & CrewAI agents before they burn your budget.",
-    "id": "marcoschulz7/agentbrake",
-    "language": "Python",
-    "name": "marcoschulz7/agentbrake",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:39:28Z",
-    "url": "https://github.com/marcoschulz7/agentbrake"
-  },
-  {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
     "id": "GeiserX/LynxPrompt",
     "language": "TypeScript",
@@ -295,15 +331,6 @@
     "stars": 41,
     "updated_at": "2026-06-08T08:38:49Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-08T08:57:45Z",
-    "url": "https://github.com/open-ace/open-ace"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -320,7 +347,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11439,
-    "updated_at": "2026-06-08T08:54:47Z",
+    "updated_at": "2026-06-08T09:02:51Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -337,7 +364,7 @@
     "id": "Yigtwxx/awesome-rag-production",
     "language": "Python",
     "name": "Yigtwxx/awesome-rag-production",
-    "stars": 54,
+    "stars": 55,
     "updated_at": "2026-06-08T08:11:37Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
   },
@@ -356,7 +383,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5573,
-    "updated_at": "2026-06-08T08:56:01Z",
+    "updated_at": "2026-06-08T09:09:24Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19449,
-    "updated_at": "2026-06-08T08:15:16Z",
+    "updated_at": "2026-06-08T09:05:05Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -418,35 +445,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49616,
+    "stars": 49619,
     "updated_at": "2026-06-08T07:42:20Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
-    "id": "Fast-Editor/Lynkr",
-    "language": "JavaScript",
-    "name": "Fast-Editor/Lynkr",
-    "stars": 454,
-    "updated_at": "2026-06-08T07:33:02Z",
-    "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "Local-first RAG and agent skills framework for source-traceable agent memory.",
-    "id": "sparkplug604/praxis",
-    "language": "Python",
-    "name": "sparkplug604/praxis",
-    "stars": 19,
-    "updated_at": "2026-06-08T07:35:39Z",
-    "url": "https://github.com/sparkplug604/praxis"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5495,
-    "updated_at": "2026-06-08T08:35:53Z",
-    "url": "https://github.com/coze-dev/coze-loop"
   }
 ]
