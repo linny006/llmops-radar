@@ -1,12 +1,66 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-08T23:00:06Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "",
+    "id": "ghaithmhmm/LLM-Training",
+    "language": "Python",
+    "name": "ghaithmhmm/LLM-Training",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:59:27Z",
+    "url": "https://github.com/ghaithmhmm/LLM-Training"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28700,
+    "updated_at": "2026-06-08T22:56:55Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "",
+    "id": "aekta113/ai-sre",
+    "language": "Python",
+    "name": "aekta113/ai-sre",
+    "stars": 1,
+    "updated_at": "2026-06-08T22:56:34Z",
+    "url": "https://github.com/aekta113/ai-sre"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 3,
+    "updated_at": "2026-06-08T22:56:30Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "Runtime allowlist and policy for agent tool-calls",
     "id": "cognis-digital/toolguard",
     "language": "Python",
     "name": "cognis-digital/toolguard",
     "stars": 0,
-    "updated_at": "2026-06-08T22:40:26Z",
+    "updated_at": "2026-06-08T22:55:30Z",
     "url": "https://github.com/cognis-digital/toolguard"
+  },
+  {
+    "description": "Local skill registry and installer for AI agents",
+    "id": "cognis-digital/skillhub",
+    "language": "Python",
+    "name": "cognis-digital/skillhub",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:55:28Z",
+    "url": "https://github.com/cognis-digital/skillhub"
   },
   {
     "description": "Batteries-included local RAG pipeline \u2014 ingest, index, serve",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "cognis-digital/ragkit",
     "stars": 0,
-    "updated_at": "2026-06-08T22:40:25Z",
+    "updated_at": "2026-06-08T22:55:27Z",
     "url": "https://github.com/cognis-digital/ragkit"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "cognis-digital/promptpack",
     "stars": 0,
-    "updated_at": "2026-06-08T22:40:24Z",
+    "updated_at": "2026-06-08T22:55:26Z",
     "url": "https://github.com/cognis-digital/promptpack"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "cognis-digital/modelroute",
     "stars": 0,
-    "updated_at": "2026-06-08T22:40:22Z",
+    "updated_at": "2026-06-08T22:55:24Z",
     "url": "https://github.com/cognis-digital/modelroute"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "cognis-digital/memorybank",
     "stars": 0,
-    "updated_at": "2026-06-08T22:40:21Z",
+    "updated_at": "2026-06-08T22:55:23Z",
     "url": "https://github.com/cognis-digital/memorybank"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "cognis-digital/evalbench",
     "stars": 0,
-    "updated_at": "2026-06-08T22:40:19Z",
+    "updated_at": "2026-06-08T22:55:22Z",
     "url": "https://github.com/cognis-digital/evalbench"
   },
   {
@@ -59,8 +113,44 @@
     "language": "Python",
     "name": "cognis-digital/agentsmith",
     "stars": 0,
-    "updated_at": "2026-06-08T22:40:18Z",
+    "updated_at": "2026-06-08T22:55:20Z",
     "url": "https://github.com/cognis-digital/agentsmith"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49678,
+    "updated_at": "2026-06-08T22:56:39Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 5,
+    "updated_at": "2026-06-08T22:49:20Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:48:21Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -144,15 +234,6 @@
     "url": "https://github.com/monim279/AI-Powered-DevOps"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T22:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
     "id": "Lo3okSky/LLM_course",
     "language": "Jupyter Notebook",
@@ -169,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T22:26:49Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Local skill registry and installer for AI agents",
-    "id": "cognis-digital/skillhub",
-    "language": "Python",
-    "name": "cognis-digital/skillhub",
-    "stars": 0,
-    "updated_at": "2026-06-08T22:26:32Z",
-    "url": "https://github.com/cognis-digital/skillhub"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -230,26 +302,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22022,
-    "updated_at": "2026-06-08T22:40:02Z",
+    "updated_at": "2026-06-08T22:45:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 3,
-    "updated_at": "2026-06-08T22:42:51Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49677,
-    "updated_at": "2026-06-08T22:45:11Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Observal is a unified agent registry and analytics platform. ",
@@ -369,15 +423,6 @@
     "url": "https://github.com/gauravpsingh07/helpdesk-ai"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28698,
-    "updated_at": "2026-06-08T21:20:04Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T21:01:45Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
-    "id": "Arman7843/gemmachat-windows",
-    "language": "\u2014",
-    "name": "Arman7843/gemmachat-windows",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:01:06Z",
-    "url": "https://github.com/Arman7843/gemmachat-windows"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:00:34Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-06-08T20:59:40Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
-    "id": "Prissieperoneal156/rig",
-    "language": "\u2014",
-    "name": "Prissieperoneal156/rig",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:59:36Z",
-    "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 3,
-    "updated_at": "2026-06-08T20:55:06Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   }
 ]
