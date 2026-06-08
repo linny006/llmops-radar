@@ -1,12 +1,75 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2209,
+    "updated_at": "2026-06-08T03:43:11Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "A framework with a strict protocol core for governed, stateful AI work.",
+    "id": "maridlabsai/jini",
+    "language": "Go",
+    "name": "maridlabsai/jini",
+    "stars": 1,
+    "updated_at": "2026-06-08T03:41:42Z",
+    "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-08T03:40:16Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Retail AI benchmark for choosing the economically right LLM by workflow",
+    "id": "Novice-ninja/retail-merchbench",
+    "language": "Python",
+    "name": "Novice-ninja/retail-merchbench",
+    "stars": 1,
+    "updated_at": "2026-06-08T03:39:20Z",
+    "url": "https://github.com/Novice-ninja/retail-merchbench"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-08T03:38:34Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 8,
-    "updated_at": "2026-06-08T03:30:14Z",
+    "updated_at": "2026-06-08T03:37:51Z",
     "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 40,
+    "updated_at": "2026-06-08T03:34:42Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T03:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T03:29:51Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "A framework with a strict protocol core for governed, stateful AI work.",
-    "id": "maridlabsai/jini",
-    "language": "Go",
-    "name": "maridlabsai/jini",
-    "stars": 1,
-    "updated_at": "2026-06-08T03:29:16Z",
-    "url": "https://github.com/maridlabsai/jini"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -90,6 +144,15 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1196,
+    "updated_at": "2026-06-08T03:22:14Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -115,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T03:17:05Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 31,
-    "updated_at": "2026-06-08T03:24:21Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T03:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
@@ -214,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-06-08T03:03:49Z",
     "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1195,
-    "updated_at": "2026-06-08T03:22:14Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T02:48:47Z",
     "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-08T02:45:59Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-08T02:45:48Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-08T02:45:29Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5420,
-    "updated_at": "2026-06-08T02:45:01Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   }
 ]
