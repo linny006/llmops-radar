@@ -1,12 +1,30 @@
 [
   {
+    "description": "Agent-harness structure auditor for Claude Code multi-agent systems. Checks whether the system your docs describe equals",
+    "id": "Zane456/harness-check",
+    "language": "\u2014",
+    "name": "Zane456/harness-check",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:14:11Z",
+    "url": "https://github.com/Zane456/harness-check"
+  },
+  {
     "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 8,
-    "updated_at": "2026-06-08T06:58:38Z",
+    "updated_at": "2026-06-08T07:11:27Z",
     "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3292,
+    "updated_at": "2026-06-08T07:11:13Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Agent context health and ASCR-aligned memory governance for stale, conflicting, unsupported, unsafe, and memory-risky AI",
@@ -14,17 +32,8 @@
     "language": "Python",
     "name": "ctxgov/ctxgov",
     "stars": 0,
-    "updated_at": "2026-06-08T06:57:08Z",
+    "updated_at": "2026-06-08T07:11:02Z",
     "url": "https://github.com/ctxgov/ctxgov"
-  },
-  {
-    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
-    "id": "Fast-Editor/Lynkr",
-    "language": "JavaScript",
-    "name": "Fast-Editor/Lynkr",
-    "stars": 454,
-    "updated_at": "2026-06-08T06:56:36Z",
-    "url": "https://github.com/Fast-Editor/Lynkr"
   },
   {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
@@ -32,8 +41,26 @@
     "language": "Python",
     "name": "moiraweave-labs/moiraweave",
     "stars": 1,
-    "updated_at": "2026-06-08T06:57:30Z",
+    "updated_at": "2026-06-08T07:09:48Z",
     "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 454,
+    "updated_at": "2026-06-08T07:09:04Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49599,
+    "updated_at": "2026-06-08T07:11:19Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-08T06:55:22Z",
+    "updated_at": "2026-06-08T07:00:27Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -58,18 +85,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28655,
+    "stars": 28656,
     "updated_at": "2026-06-08T06:52:43Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49598,
-    "updated_at": "2026-06-08T06:59:25Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -77,7 +95,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5571,
-    "updated_at": "2026-06-08T07:00:01Z",
+    "updated_at": "2026-06-08T07:15:03Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-08T06:30:06Z",
     "url": "https://github.com/SkeinRank/skeinrank"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3292,
-    "updated_at": "2026-06-08T06:36:22Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T05:42:00Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-08T05:41:22Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
