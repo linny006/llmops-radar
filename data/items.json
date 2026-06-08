@@ -1,5 +1,104 @@
 [
   {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 2,
+    "updated_at": "2026-06-08T18:12:39Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:11:11Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:09:47Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-06-08T18:06:46Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
+    "id": "Arman7843/gemmachat-windows",
+    "language": "\u2014",
+    "name": "Arman7843/gemmachat-windows",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:05:58Z",
+    "url": "https://github.com/Arman7843/gemmachat-windows"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49672,
+    "updated_at": "2026-06-08T18:11:17Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:05:30Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-06-08T18:04:35Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
+  },
+  {
+    "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
+    "id": "Prissieperoneal156/rig",
+    "language": "\u2014",
+    "name": "Prissieperoneal156/rig",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:04:32Z",
+    "url": "https://github.com/Prissieperoneal156/rig"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3292,
+    "updated_at": "2026-06-08T18:05:06Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -16,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-06-08T17:59:56Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 28690,
+    "updated_at": "2026-06-08T17:59:03Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
@@ -59,7 +167,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22018,
-    "updated_at": "2026-06-08T17:57:02Z",
+    "updated_at": "2026-06-08T18:10:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -176,17 +284,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19452,
-    "updated_at": "2026-06-08T17:46:55Z",
+    "updated_at": "2026-06-08T18:10:01Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -241,6 +340,15 @@
     "stars": 1,
     "updated_at": "2026-06-08T17:41:34Z",
     "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5588,
+    "updated_at": "2026-06-08T17:41:02Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T17:33:09Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-08T17:32:10Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
-    "id": "bursora/core",
-    "language": "TypeScript",
-    "name": "bursora/core",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:31:25Z",
-    "url": "https://github.com/bursora/core"
-  },
-  {
-    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 14,
-    "updated_at": "2026-06-08T17:28:43Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-08T17:28:27Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:25:35Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:25:35Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:25:21Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49670,
-    "updated_at": "2026-06-08T17:46:56Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:21:45Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:20:53Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:20:22Z",
-    "url": "https://github.com/degen1322/agentic-template"
-  },
-  {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 0,
-    "updated_at": "2026-06-08T17:18:28Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   }
 ]
