@@ -1,11 +1,65 @@
 [
   {
+    "description": "Standalone self-improvement harness for agent traces, memory, skills, evaluation, and fine-tuning exports",
+    "id": "lamenting-hawthorn/skillloop",
+    "language": "Python",
+    "name": "lamenting-hawthorn/skillloop",
+    "stars": 0,
+    "updated_at": "2026-06-08T00:14:41Z",
+    "url": "https://github.com/lamenting-hawthorn/skillloop"
+  },
+  {
+    "description": "Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 32,
+    "updated_at": "2026-06-08T00:13:21Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-08T00:12:41Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 3,
+    "updated_at": "2026-06-08T00:10:42Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-08T00:05:49Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T00:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Observal is a unified agent registry and analytics platform. ",
     "id": "BlazeUp-AI/Observal",
     "language": "Python",
     "name": "BlazeUp-AI/Observal",
     "stars": 2037,
-    "updated_at": "2026-06-08T00:00:19Z",
+    "updated_at": "2026-06-08T00:11:41Z",
     "url": "https://github.com/BlazeUp-AI/Observal"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 31,
-    "updated_at": "2026-06-07T23:54:45Z",
+    "updated_at": "2026-06-08T00:09:58Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -25,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T23:53:46Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:51:49Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 3,
-    "updated_at": "2026-06-07T23:51:42Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -88,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-07T23:47:30Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T23:09:44Z",
     "url": "https://github.com/degen1322/agentic-template"
-  },
-  {
-    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
-    "id": "kami-beep/kb-contracts",
-    "language": "TypeScript",
-    "name": "kami-beep/kb-contracts",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:06:52Z",
-    "url": "https://github.com/kami-beep/kb-contracts"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-06-07T23:05:48Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-07T23:04:51Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   }
 ]
