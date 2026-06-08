@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-08 18:14 UTC
+> ⏰ Last updated: 2026-06-08 18:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 2 | TypeScript | 2026-06-08 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
-| 2 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-08 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
-| 3 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-08 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 4 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-06-08 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
-| 5 | [Arman7843/gemmachat-windows](https://github.com/Arman7843/gemmachat-windows) | 0 | — | 2026-06-08 | Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant. |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49672 | Python | 2026-06-08 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 7 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-08 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
-| 8 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-06-08 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
-| 9 | [Prissieperoneal156/rig](https://github.com/Prissieperoneal156/rig) | 0 | — | 2026-06-08 | Coordinate multiple AI coding agents from a single interface to streamline development workflows. |
-| 10 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3292 | TypeScript | 2026-06-08 | The platform for LLM evaluations and AI agent testing |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-08 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-08 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 2 | TypeScript | 2026-06-08 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
+| 3 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-08 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
+| 4 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-08 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
+| 5 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-06-08 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
+| 6 | [Arman7843/gemmachat-windows](https://github.com/Arman7843/gemmachat-windows) | 0 | — | 2026-06-08 | Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant. |
+| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49672 | Python | 2026-06-08 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 8 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-08 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
+| 9 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-06-08 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
+| 10 | [Prissieperoneal156/rig](https://github.com/Prissieperoneal156/rig) | 0 | — | 2026-06-08 | Coordinate multiple AI coding agents from a single interface to streamline development workflows. |
+| 11 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3292 | TypeScript | 2026-06-08 | The platform for LLM evaluations and AI agent testing |
 | 12 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 31 | Python | 2026-06-08 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
 | 13 | [malkreide/zh-education-mcp](https://github.com/malkreide/zh-education-mcp) | 0 | Python | 2026-06-08 | MCP server for education statistics of Canton and City of Zurich (BISTA) |
 | 14 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28690 | TypeScript | 2026-06-08 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
