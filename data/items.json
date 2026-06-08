@@ -1,5 +1,77 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19449,
+    "updated_at": "2026-06-08T07:30:17Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
+    "id": "moiraweave-labs/moiraweave",
+    "language": "Python",
+    "name": "moiraweave-labs/moiraweave",
+    "stars": 1,
+    "updated_at": "2026-06-08T07:29:51Z",
+    "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "Local-first RAG and agent skills framework for source-traceable agent memory.",
+    "id": "sparkplug604/praxis",
+    "language": "Python",
+    "name": "sparkplug604/praxis",
+    "stars": 19,
+    "updated_at": "2026-06-08T07:28:56Z",
+    "url": "https://github.com/sparkplug604/praxis"
+  },
+  {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 454,
+    "updated_at": "2026-06-08T07:25:11Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "Agent context health and ASCR-aligned memory governance for stale, conflicting, unsupported, unsafe, and memory-risky AI",
+    "id": "ctxgov/ctxgov",
+    "language": "Python",
+    "name": "ctxgov/ctxgov",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:22:03Z",
+    "url": "https://github.com/ctxgov/ctxgov"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26351,
+    "updated_at": "2026-06-08T07:21:23Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5495,
+    "updated_at": "2026-06-08T07:18:07Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agent-harness structure auditor for Claude Code multi-agent systems. Checks whether the system your docs describe equals",
     "id": "Zane456/harness-check",
     "language": "\u2014",
@@ -18,58 +90,22 @@
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49602,
+    "updated_at": "2026-06-08T07:11:19Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3292,
-    "updated_at": "2026-06-08T07:11:13Z",
+    "updated_at": "2026-06-08T07:28:23Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Agent context health and ASCR-aligned memory governance for stale, conflicting, unsupported, unsafe, and memory-risky AI",
-    "id": "ctxgov/ctxgov",
-    "language": "Python",
-    "name": "ctxgov/ctxgov",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:11:02Z",
-    "url": "https://github.com/ctxgov/ctxgov"
-  },
-  {
-    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
-    "id": "moiraweave-labs/moiraweave",
-    "language": "Python",
-    "name": "moiraweave-labs/moiraweave",
-    "stars": 1,
-    "updated_at": "2026-06-08T07:09:48Z",
-    "url": "https://github.com/moiraweave-labs/moiraweave"
-  },
-  {
-    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
-    "id": "Fast-Editor/Lynkr",
-    "language": "JavaScript",
-    "name": "Fast-Editor/Lynkr",
-    "stars": 454,
-    "updated_at": "2026-06-08T07:09:04Z",
-    "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49599,
-    "updated_at": "2026-06-08T07:11:19Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
@@ -85,7 +121,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28656,
+    "stars": 28657,
     "updated_at": "2026-06-08T06:52:43Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -95,7 +131,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5571,
-    "updated_at": "2026-06-08T07:15:03Z",
+    "updated_at": "2026-06-08T07:22:02Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T05:46:00Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:45:55Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:43:56Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:42:22Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:42:00Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
