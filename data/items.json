@@ -1,5 +1,131 @@
 [
   {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-08T11:29:02Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4182,
+    "updated_at": "2026-06-08T11:28:37Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
+    "description": "AI agents fail like junior teammates\u2014looping on bad ideas, ignoring feedback, escalating commitment. vstack ports 34 of ",
+    "id": "valani9/vstack",
+    "language": "Python",
+    "name": "valani9/vstack",
+    "stars": 1,
+    "updated_at": "2026-06-08T11:28:26Z",
+    "url": "https://github.com/valani9/vstack"
+  },
+  {
+    "description": "The emergency brake for multi-agent systems. Stop runaway LangChain & CrewAI agents before they burn your budget.",
+    "id": "marcoschulz7/agentbrake",
+    "language": "Python",
+    "name": "marcoschulz7/agentbrake",
+    "stars": 1,
+    "updated_at": "2026-06-08T11:28:15Z",
+    "url": "https://github.com/marcoschulz7/agentbrake"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-08T11:27:40Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Supplemental resources for the book Private Agent Systems by Daniele Ver\u00ec \u2014 reusable templates, source register, and com",
+    "id": "yuzushi-dev/Private-Agent-Systems",
+    "language": "\u2014",
+    "name": "yuzushi-dev/Private-Agent-Systems",
+    "stars": 0,
+    "updated_at": "2026-06-08T11:27:21Z",
+    "url": "https://github.com/yuzushi-dev/Private-Agent-Systems"
+  },
+  {
+    "description": "Say what you want to do \u2014 iPlus picks the right AI for you. Open-core AI orchestration desktop app (Tauri + FastAPI).",
+    "id": "yuneunmi814-cmyk/iplus",
+    "language": "Python",
+    "name": "yuneunmi814-cmyk/iplus",
+    "stars": 0,
+    "updated_at": "2026-06-08T11:26:54Z",
+    "url": "https://github.com/yuneunmi814-cmyk/iplus"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 38,
+    "updated_at": "2026-06-08T11:25:54Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28677,
+    "updated_at": "2026-06-08T11:29:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5577,
+    "updated_at": "2026-06-08T11:29:31Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-06-08T11:25:33Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 3,
+    "updated_at": "2026-06-08T11:24:38Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 32,
+    "updated_at": "2026-06-08T11:21:14Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T11:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -41,17 +167,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3292,
-    "updated_at": "2026-06-08T11:14:45Z",
+    "updated_at": "2026-06-08T11:25:13Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5577,
-    "updated_at": "2026-06-08T11:10:24Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
@@ -72,15 +189,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "Say what you want to do \u2014 iPlus picks the right AI for you. Open-core AI orchestration desktop app (Tauri + FastAPI).",
-    "id": "yuneunmi814-cmyk/iplus",
-    "language": "Python",
-    "name": "yuneunmi814-cmyk/iplus",
-    "stars": 0,
-    "updated_at": "2026-06-08T11:15:21Z",
-    "url": "https://github.com/yuneunmi814-cmyk/iplus"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -97,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T11:08:32Z",
     "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-08T11:07:55Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -162,15 +261,6 @@
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T11:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
     "id": "runcycles/cycles-docs",
     "language": "Vue",
@@ -216,15 +306,6 @@
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
   },
   {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4182,
-    "updated_at": "2026-06-08T11:15:20Z",
-    "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
     "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
     "id": "Rosalyndfaithful716/Guardrail",
     "language": "TypeScript",
@@ -259,33 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T10:55:09Z",
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28677,
-    "updated_at": "2026-06-08T10:54:36Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 3,
-    "updated_at": "2026-06-08T10:54:08Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Supplemental resources for the book Private Agent Systems by Daniele Ver\u00ec \u2014 reusable templates, source register, and com",
-    "id": "yuzushi-dev/Private-Agent-Systems",
-    "language": "\u2014",
-    "name": "yuzushi-dev/Private-Agent-Systems",
-    "stars": 0,
-    "updated_at": "2026-06-08T10:53:22Z",
-    "url": "https://github.com/yuzushi-dev/Private-Agent-Systems"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -387,15 +441,6 @@
     "url": "https://github.com/wangkevin2100-cell/memgov"
   },
   {
-    "description": "Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 32,
-    "updated_at": "2026-06-08T10:45:32Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
     "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T10:43:18Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22006,
-    "updated_at": "2026-06-08T10:42:05Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-08T10:41:42Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-08T10:41:20Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-08T10:40:37Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-08T10:40:35Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
