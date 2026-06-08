@@ -1,11 +1,47 @@
 [
   {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2503,
+    "updated_at": "2026-06-08T06:54:47Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49597,
+    "updated_at": "2026-06-08T06:49:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 454,
+    "updated_at": "2026-06-08T06:48:04Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5571,
-    "updated_at": "2026-06-08T06:42:28Z",
+    "updated_at": "2026-06-08T06:54:57Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 8,
-    "updated_at": "2026-06-08T06:41:21Z",
+    "updated_at": "2026-06-08T06:55:03Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
@@ -61,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T06:33:13Z",
     "url": "https://github.com/ctxgov/ctxgov"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49595,
-    "updated_at": "2026-06-08T06:41:40Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "SkeinRank \u2014 Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T05:41:18Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Agent-harness structure auditor for Claude Code multi-agent systems. Checks whether the system your docs describe equals",
-    "id": "Zane456/harness-check",
-    "language": "\u2014",
-    "name": "Zane456/harness-check",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:41:17Z",
-    "url": "https://github.com/Zane456/harness-check"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:41:13Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
