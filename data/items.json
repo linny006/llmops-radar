@@ -1,12 +1,84 @@
 [
   {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:05:59Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Deterministic metric-change ledger for AI observability, robotics telemetry, and industrial monitoring",
+    "id": "chrono-metrics/metricchrono",
+    "language": "Rust",
+    "name": "chrono-metrics/metricchrono",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:07:37Z",
+    "url": "https://github.com/chrono-metrics/metricchrono"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:04:48Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22020,
-    "updated_at": "2026-06-08T21:00:02Z",
+    "stars": 22021,
+    "updated_at": "2026-06-08T21:04:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28694,
+    "updated_at": "2026-06-08T21:02:11Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-06-08T21:01:45Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
+    "id": "Arman7843/gemmachat-windows",
+    "language": "\u2014",
+    "name": "Arman7843/gemmachat-windows",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:01:06Z",
+    "url": "https://github.com/Arman7843/gemmachat-windows"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:00:34Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49674,
-    "updated_at": "2026-06-08T21:00:07Z",
+    "updated_at": "2026-06-08T21:13:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -104,8 +176,17 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 7561,
-    "updated_at": "2026-06-08T20:52:08Z",
+    "updated_at": "2026-06-08T21:09:23Z",
     "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10040,
+    "updated_at": "2026-06-08T20:51:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -113,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5594,
-    "updated_at": "2026-06-08T20:56:41Z",
+    "updated_at": "2026-06-08T21:03:03Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -180,15 +261,6 @@
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -196,15 +268,6 @@
     "stars": 32,
     "updated_at": "2026-06-08T20:44:55Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Deterministic metric-change ledger for AI observability, robotics telemetry, and industrial monitoring",
-    "id": "chrono-metrics/metricchrono",
-    "language": "Rust",
-    "name": "chrono-metrics/metricchrono",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:45:01Z",
-    "url": "https://github.com/chrono-metrics/metricchrono"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T20:31:21Z",
     "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:30:57Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-08T20:30:42Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-08T20:30:19Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-08T20:30:16Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:30:04Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 14,
-    "updated_at": "2026-06-08T20:29:37Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:28:15Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
