@@ -1,5 +1,95 @@
 [
   {
+    "description": "Isolated AI workload execution with job execution built in",
+    "id": "las7/TakoVM",
+    "language": "Python",
+    "name": "las7/TakoVM",
+    "stars": 52,
+    "updated_at": "2026-06-09T23:44:58Z",
+    "url": "https://github.com/las7/TakoVM"
+  },
+  {
+    "description": "PolyHelper V4 \u2014 Cognitive AI Exoskeleton.    Multi-AI orchestration platform for safer human decisions",
+    "id": "PolyHelper/polyhelper",
+    "language": "JavaScript",
+    "name": "PolyHelper/polyhelper",
+    "stars": 1,
+    "updated_at": "2026-06-09T23:44:57Z",
+    "url": "https://github.com/PolyHelper/polyhelper"
+  },
+  {
+    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
+    "id": "runcycles/cycles-spring-ai-starter",
+    "language": "Java",
+    "name": "runcycles/cycles-spring-ai-starter",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:44:12Z",
+    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
+  },
+  {
+    "description": "A dynamic-workflow engine for any agent, any model: concurrent leaves, cost-aware routing, schema enforcement, crash-res",
+    "id": "Illuminfti/flow",
+    "language": "Python",
+    "name": "Illuminfti/flow",
+    "stars": 1,
+    "updated_at": "2026-06-09T23:43:09Z",
+    "url": "https://github.com/Illuminfti/flow"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 4,
+    "updated_at": "2026-06-09T23:42:27Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 3,
+    "updated_at": "2026-06-09T23:42:24Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "Helps ChatGPT keep uploaded files, chat history, instructions, hypotheses, drafts, and model assumptions separate in lon",
+    "id": "XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project",
+    "language": "Python",
+    "name": "XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:41:48Z",
+    "url": "https://github.com/XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project"
+  },
+  {
+    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
+    "id": "prismal-ai/prismal",
+    "language": "Python",
+    "name": "prismal-ai/prismal",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:43:32Z",
+    "url": "https://github.com/prismal-ai/prismal"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22060,
+    "updated_at": "2026-06-09T23:34:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic clinical variant interpretation copilot: drafts ACMG/AMP classifications with cited evidence, evaluated against ",
     "id": "eduramosalves/variantscribe",
     "language": "Python",
@@ -9,21 +99,12 @@
     "url": "https://github.com/eduramosalves/variantscribe"
   },
   {
-    "description": "Isolated AI workload execution with job execution built in",
-    "id": "las7/TakoVM",
-    "language": "Python",
-    "name": "las7/TakoVM",
-    "stars": 52,
-    "updated_at": "2026-06-09T23:30:10Z",
-    "url": "https://github.com/las7/TakoVM"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10066,
-    "updated_at": "2026-06-09T23:27:11Z",
+    "updated_at": "2026-06-09T23:36:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -43,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T23:20:37Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 3,
-    "updated_at": "2026-06-09T23:26:10Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -88,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-06-09T23:08:00Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28788,
+    "updated_at": "2026-06-09T23:07:18Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -135,13 +207,13 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "PolyHelper V4 \u2014 Cognitive AI Exoskeleton.    Multi-AI orchestration platform for safer human decisions",
-    "id": "PolyHelper/polyhelper",
-    "language": "JavaScript",
-    "name": "PolyHelper/polyhelper",
-    "stars": 1,
-    "updated_at": "2026-06-09T23:12:14Z",
-    "url": "https://github.com/PolyHelper/polyhelper"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19537,
+    "updated_at": "2026-06-09T22:59:49Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -261,15 +333,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22060,
-    "updated_at": "2026-06-09T22:44:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T22:34:15Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-09T22:34:13Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-09T22:34:10Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5632,
-    "updated_at": "2026-06-09T23:09:12Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-09T22:32:32Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-09T22:31:53Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 3,
-    "updated_at": "2026-06-09T22:31:43Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "A dynamic-workflow engine for any agent, any model: concurrent leaves, cost-aware routing, schema enforcement, crash-res",
-    "id": "Illuminfti/flow",
-    "language": "Python",
-    "name": "Illuminfti/flow",
-    "stars": 1,
-    "updated_at": "2026-06-09T22:28:38Z",
-    "url": "https://github.com/Illuminfti/flow"
   }
 ]
