@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T15:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1052,
+    "updated_at": "2026-06-09T15:29:36Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5625,
+    "updated_at": "2026-06-09T15:29:26Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-09T15:28:23Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -7,15 +43,6 @@
     "stars": 19520,
     "updated_at": "2026-06-09T15:24:52Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5624,
-    "updated_at": "2026-06-09T15:29:26Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "RAG-based PDF Chatbot built using LangChain, ChromaDB, Hugging Face Embeddings, Groq Llama 3.3, LangSmith Tracing, and G",
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28767,
-    "updated_at": "2026-06-09T15:20:55Z",
+    "updated_at": "2026-06-09T15:34:33Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -45,24 +72,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-09T15:28:23Z",
-    "url": "https://github.com/open-ace/open-ace"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T15:15:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The workflow and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -70,6 +79,15 @@
     "stars": 3,
     "updated_at": "2026-06-09T15:21:07Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-09T15:13:01Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -86,8 +104,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10061,
-    "updated_at": "2026-06-09T15:09:25Z",
+    "updated_at": "2026-06-09T15:34:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-06-09T15:08:16Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
     "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
@@ -99,6 +126,15 @@
     "url": "https://github.com/Arman7843/gemmachat-windows"
   },
   {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-06-09T15:06:31Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -108,11 +144,20 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
+    "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
+    "id": "Prissieperoneal156/rig",
+    "language": "\u2014",
+    "name": "Prissieperoneal156/rig",
+    "stars": 0,
+    "updated_at": "2026-06-09T15:05:23Z",
+    "url": "https://github.com/Prissieperoneal156/rig"
+  },
+  {
     "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-06-09T15:05:22Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
@@ -166,7 +211,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49787,
+    "stars": 49790,
     "updated_at": "2026-06-09T14:57:18Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -243,15 +288,6 @@
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
   },
   {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1052,
-    "updated_at": "2026-06-09T15:29:36Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
     "description": "Sovereign, compliance-by-design RAG accelerator \u2014 Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib",
     "id": "SeydinaBANE/sovereign-rag",
     "language": "Python",
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5437,
-    "updated_at": "2026-06-09T15:25:43Z",
+    "updated_at": "2026-06-09T15:35:44Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Go",
     "name": "Mindburn-Labs/helm-ai-kernel",
     "stars": 9,
-    "updated_at": "2026-06-09T14:46:13Z",
+    "updated_at": "2026-06-09T15:30:55Z",
     "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T14:35:31Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-09T14:35:24Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-09T14:35:06Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-09T14:33:29Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-09T14:32:39Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
