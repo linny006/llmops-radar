@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-09 04:45 UTC
+> ⏰ Last updated: 2026-06-09 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-09 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 2 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 32 | TypeScript | 2026-06-09 | Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-09 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [chyinan/AegisRAG](https://github.com/chyinan/AegisRAG) | 2 | Python | 2026-06-09 | AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit |
-| 5 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 3 | Go | 2026-06-09 | The workflow and governance layer for agent-driven software development. |
-| 6 | [eladser/seerlens](https://github.com/eladser/seerlens) | 4 | C# | 2026-06-09 | Local-first DevTools for AI calls. See every LLM call your app makes: prompt, cost, tokens, latency, tool calls. |
-| 7 | [las7/TakoVM](https://github.com/las7/TakoVM) | 45 | Python | 2026-06-09 | Isolated AI workload execution with job execution built in |
-| 8 | [SkeinRank/skeinrank](https://github.com/SkeinRank/skeinrank) | 2 | Python | 2026-06-09 | SkeinRank — Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows. |
-| 9 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1205 | Cuda | 2026-06-09 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
-| 10 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-09 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 11 | [maridlabsai/jini](https://github.com/maridlabsai/jini) | 1 | Go | 2026-06-09 | A framework with a strict protocol core for governed, stateful AI work. |
-| 12 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 31 | Python | 2026-06-09 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
+| 1 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 31 | Python | 2026-06-09 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-09 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-09 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 4 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 32 | TypeScript | 2026-06-09 | Open-source control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
+| 5 | [chyinan/AegisRAG](https://github.com/chyinan/AegisRAG) | 2 | Python | 2026-06-09 | AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit |
+| 6 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 3 | Go | 2026-06-09 | The workflow and governance layer for agent-driven software development. |
+| 7 | [eladser/seerlens](https://github.com/eladser/seerlens) | 4 | C# | 2026-06-09 | Local-first DevTools for AI calls. See every LLM call your app makes: prompt, cost, tokens, latency, tool calls. |
+| 8 | [las7/TakoVM](https://github.com/las7/TakoVM) | 45 | Python | 2026-06-09 | Isolated AI workload execution with job execution built in |
+| 9 | [SkeinRank/skeinrank](https://github.com/SkeinRank/skeinrank) | 2 | Python | 2026-06-09 | SkeinRank — Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows. |
+| 10 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1205 | Cuda | 2026-06-09 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
+| 11 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-09 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 12 | [maridlabsai/jini](https://github.com/maridlabsai/jini) | 1 | Go | 2026-06-09 | A framework with a strict protocol core for governed, stateful AI work. |
 | 13 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7562 | Rust | 2026-06-09 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 14 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-09 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
 | 15 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-09 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
