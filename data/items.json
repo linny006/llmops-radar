@@ -1,5 +1,50 @@
 [
   {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 2,
+    "updated_at": "2026-06-09T04:29:52Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 3,
+    "updated_at": "2026-06-09T04:25:16Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Local-first DevTools for AI calls. See every LLM call your app makes: prompt, cost, tokens, latency, tool calls.",
+    "id": "eladser/seerlens",
+    "language": "C#",
+    "name": "eladser/seerlens",
+    "stars": 4,
+    "updated_at": "2026-06-09T04:18:47Z",
+    "url": "https://github.com/eladser/seerlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Isolated AI workload execution with job execution built in",
+    "id": "las7/TakoVM",
+    "language": "Python",
+    "name": "las7/TakoVM",
+    "stars": 44,
+    "updated_at": "2026-06-09T04:09:03Z",
+    "url": "https://github.com/las7/TakoVM"
+  },
+  {
     "description": "SkeinRank \u2014 Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows.",
     "id": "SkeinRank/skeinrank",
     "language": "Python",
@@ -27,15 +72,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 3,
-    "updated_at": "2026-06-09T04:01:26Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "A framework with a strict protocol core for governed, stateful AI work.",
     "id": "maridlabsai/jini",
     "language": "Go",
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-09T04:00:39Z",
     "url": "https://github.com/maridlabsai/jini"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T04:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -70,24 +97,6 @@
     "stars": 7562,
     "updated_at": "2026-06-09T03:59:09Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Isolated AI workload execution with job execution built in",
-    "id": "las7/TakoVM",
-    "language": "Python",
-    "name": "las7/TakoVM",
-    "stars": 43,
-    "updated_at": "2026-06-09T04:09:03Z",
-    "url": "https://github.com/las7/TakoVM"
-  },
-  {
-    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
-    "id": "chyinan/AegisRAG",
-    "language": "Python",
-    "name": "chyinan/AegisRAG",
-    "stars": 2,
-    "updated_at": "2026-06-09T03:51:49Z",
-    "url": "https://github.com/chyinan/AegisRAG"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T03:12:18Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-09T03:12:15Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
