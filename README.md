@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Odiethebest/Tollgate](https://github.com/Odiethebest/Tollgate) | 2 | JavaScript | 2026-06-09 | Multi-Tenant LLM API Gateway |
-| 2 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-09 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
-| 3 | [carglezfer/MaxKB](https://github.com/carglezfer/MaxKB) | 1 | Python | 2026-06-09 | 🛠 Build enterprise-grade AI agents with MaxKB, an open-source platform designed for simplicity and performance. |
-| 4 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-06-09 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
-| 5 | [Herry259/LLM-Agents-Ecosystem-Handbook](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook) | 2 | Python | 2026-06-09 | 🌐 Explore LLM agents and their ecosystems with this comprehensive handbook for understanding, developing, and implementi |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49683 | Python | 2026-06-09 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 7 | [damn124/ai-calling-agent](https://github.com/damn124/ai-calling-agent) | 2 | Python | 2026-06-09 | 🎙️ Enhance customer interactions with a real-time AI voice agent, utilizing OpenAI's Realtime API and Twilio for smarter |
-| 8 | [Thiagoopro/AI-Agent-Framework](https://github.com/Thiagoopro/AI-Agent-Framework) | 1 | Python | 2026-06-09 | 🤖 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus |
-| 9 | [hwgdfkchw/Generative-AI-Essentials](https://github.com/hwgdfkchw/Generative-AI-Essentials) | 2 | — | 2026-06-09 | 📚 Explore essential resources for learning Generative AI, covering foundational concepts to advanced topics with curated |
-| 10 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-06-09 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
-| 11 | [monim279/AI-Powered-DevOps](https://github.com/monim279/AI-Powered-DevOps) | 4 | Python | 2026-06-09 | 🤖 Discover AI tools and techniques to optimize DevOps processes through practical challenges and hands-on projects in th |
-| 12 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 2044 | Python | 2026-06-09 | Observal is a unified agent registry and analytics platform.  |
-| 13 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19475 | Python | 2026-06-09 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 14 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10042 | Python | 2026-06-09 | AI Observability & Evaluation |
-| 15 | [spanlens/Spanlens](https://github.com/spanlens/Spanlens) | 8 | TypeScript | 2026-06-09 | Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing |
-| 16 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 2 | Jupyter Notebook | 2026-06-09 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
-| 17 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 5 | Python | 2026-06-09 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
-| 18 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 3 | Go | 2026-06-09 | The workflow and governance layer for agent-driven software development. |
-| 19 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-09 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-09 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [Odiethebest/Tollgate](https://github.com/Odiethebest/Tollgate) | 2 | JavaScript | 2026-06-09 | Multi-Tenant LLM API Gateway |
+| 3 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-09 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
+| 4 | [carglezfer/MaxKB](https://github.com/carglezfer/MaxKB) | 1 | Python | 2026-06-09 | 🛠 Build enterprise-grade AI agents with MaxKB, an open-source platform designed for simplicity and performance. |
+| 5 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-06-09 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
+| 6 | [Herry259/LLM-Agents-Ecosystem-Handbook](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook) | 2 | Python | 2026-06-09 | 🌐 Explore LLM agents and their ecosystems with this comprehensive handbook for understanding, developing, and implementi |
+| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49683 | Python | 2026-06-09 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 8 | [damn124/ai-calling-agent](https://github.com/damn124/ai-calling-agent) | 2 | Python | 2026-06-09 | 🎙️ Enhance customer interactions with a real-time AI voice agent, utilizing OpenAI's Realtime API and Twilio for smarter |
+| 9 | [Thiagoopro/AI-Agent-Framework](https://github.com/Thiagoopro/AI-Agent-Framework) | 1 | Python | 2026-06-09 | 🤖 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus |
+| 10 | [hwgdfkchw/Generative-AI-Essentials](https://github.com/hwgdfkchw/Generative-AI-Essentials) | 2 | — | 2026-06-09 | 📚 Explore essential resources for learning Generative AI, covering foundational concepts to advanced topics with curated |
+| 11 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-06-09 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
+| 12 | [monim279/AI-Powered-DevOps](https://github.com/monim279/AI-Powered-DevOps) | 4 | Python | 2026-06-09 | 🤖 Discover AI tools and techniques to optimize DevOps processes through practical challenges and hands-on projects in th |
+| 13 | [BlazeUp-AI/Observal](https://github.com/BlazeUp-AI/Observal) | 2044 | Python | 2026-06-09 | Observal is a unified agent registry and analytics platform.  |
+| 14 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19475 | Python | 2026-06-09 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 15 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10042 | Python | 2026-06-09 | AI Observability & Evaluation |
+| 16 | [spanlens/Spanlens](https://github.com/spanlens/Spanlens) | 8 | TypeScript | 2026-06-09 | Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing |
+| 17 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 2 | Jupyter Notebook | 2026-06-09 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
+| 18 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 5 | Python | 2026-06-09 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
+| 19 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 3 | Go | 2026-06-09 | The workflow and governance layer for agent-driven software development. |
 | 20 | [bilal0399/learn-agentic-ai](https://github.com/bilal0399/learn-agentic-ai) | 8 | — | 2026-06-09 | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent |
 | 21 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-06-09 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
 | 22 | [cognis-digital/toolguard](https://github.com/cognis-digital/toolguard) | 0 | Python | 2026-06-09 | Runtime allowlist and policy for agent tool-calls |
