@@ -1,11 +1,65 @@
 [
   {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 1,
+    "updated_at": "2026-06-09T01:43:08Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10043,
+    "updated_at": "2026-06-09T01:42:34Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49687,
+    "updated_at": "2026-06-09T01:44:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 5,
+    "updated_at": "2026-06-09T01:40:29Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-09T01:39:21Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 3,
+    "updated_at": "2026-06-09T01:33:08Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-09T01:30:24Z",
+    "updated_at": "2026-06-09T01:30:56Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-09T01:27:40Z",
     "url": "https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49683,
-    "updated_at": "2026-06-09T01:27:07Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83c\udf99\ufe0f Enhance customer interactions with a real-time AI voice agent, utilizing OpenAI's Realtime API and Twilio for smarter",
@@ -121,18 +166,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19475,
+    "stars": 19476,
     "updated_at": "2026-06-09T01:22:44Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10042,
-    "updated_at": "2026-06-09T01:20:35Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
@@ -140,8 +176,17 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 8,
-    "updated_at": "2026-06-09T01:22:09Z",
+    "updated_at": "2026-06-09T01:43:37Z",
     "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26366,
+    "updated_at": "2026-06-09T01:19:18Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -160,15 +205,6 @@
     "stars": 5,
     "updated_at": "2026-06-09T01:16:07Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 3,
-    "updated_at": "2026-06-09T01:30:18Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
@@ -324,15 +360,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26365,
-    "updated_at": "2026-06-09T01:19:18Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
     "id": "Prissieperoneal156/rig",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T00:40:44Z",
     "url": "https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer"
-  },
-  {
-    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
-    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "language": "\u2014",
-    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:40:09Z",
-    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Say what you want to do \u2014 iPlus picks the right AI for you. Open-core AI orchestration desktop app (Tauri + FastAPI).",
-    "id": "yuneunmi814-cmyk/iplus",
-    "language": "Python",
-    "name": "yuneunmi814-cmyk/iplus",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:37:38Z",
-    "url": "https://github.com/yuneunmi814-cmyk/iplus"
-  },
-  {
-    "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
-    "id": "germanic-hwangho835/FolkLite",
-    "language": "\u2014",
-    "name": "germanic-hwangho835/FolkLite",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:36:22Z",
-    "url": "https://github.com/germanic-hwangho835/FolkLite"
   }
 ]
