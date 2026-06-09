@@ -1,12 +1,48 @@
 [
   {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:13:56Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49806,
+    "updated_at": "2026-06-09T20:10:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Project-based AI engineering roadmap for experienced software engineers learning LLM apps, RAG, agents, evals, system de",
     "id": "iamsatar/ai-engineering-roadmap-for-software-engineers",
     "language": "\u2014",
     "name": "iamsatar/ai-engineering-roadmap-for-software-engineers",
     "stars": 0,
-    "updated_at": "2026-06-09T19:58:29Z",
+    "updated_at": "2026-06-09T20:08:14Z",
     "url": "https://github.com/iamsatar/ai-engineering-roadmap-for-software-engineers"
+  },
+  {
+    "description": "A framework with a strict protocol core for governed, stateful AI work.",
+    "id": "maridlabsai/jini",
+    "language": "Go",
+    "name": "maridlabsai/jini",
+    "stars": 1,
+    "updated_at": "2026-06-09T20:06:20Z",
+    "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
+    "id": "bosun-ai/swiftide",
+    "language": "Rust",
+    "name": "bosun-ai/swiftide",
+    "stars": 705,
+    "updated_at": "2026-06-09T20:08:51Z",
+    "url": "https://github.com/bosun-ai/swiftide"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-09T19:48:12Z",
+    "updated_at": "2026-06-09T20:00:29Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -45,6 +81,15 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28780,
+    "updated_at": "2026-06-09T19:40:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "",
     "id": "briancl2/CustomerNewsletter",
     "language": "Python",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19528,
-    "updated_at": "2026-06-09T19:59:50Z",
+    "updated_at": "2026-06-09T20:14:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 10123,
     "updated_at": "2026-06-09T19:36:26Z",
     "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49806,
-    "updated_at": "2026-06-09T19:59:04Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "RAG-based PDF Chatbot built using LangChain, ChromaDB, Hugging Face Embeddings, Groq Llama 3.3, LangSmith Tracing, and G",
@@ -97,15 +133,6 @@
     "stars": 54,
     "updated_at": "2026-06-09T19:35:38Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "A framework with a strict protocol core for governed, stateful AI work.",
-    "id": "maridlabsai/jini",
-    "language": "Go",
-    "name": "maridlabsai/jini",
-    "stars": 1,
-    "updated_at": "2026-06-09T19:25:20Z",
-    "url": "https://github.com/maridlabsai/jini"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T18:33:52Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Local-first operating model and spec-driven workflow framework for agentic AI teams based on KCC operating model  https:",
-    "id": "TarekFawaz/kcc-agentic-framework",
-    "language": "PowerShell",
-    "name": "TarekFawaz/kcc-agentic-framework",
-    "stars": 0,
-    "updated_at": "2026-06-09T18:32:14Z",
-    "url": "https://github.com/TarekFawaz/kcc-agentic-framework"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-09T18:32:13Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-06-09T18:31:14Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   }
 ]
