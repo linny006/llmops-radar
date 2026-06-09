@@ -1,5 +1,68 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49795,
+    "updated_at": "2026-06-09T16:23:05Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 0,
+    "updated_at": "2026-06-09T16:19:36Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
+    "description": "Langfuse tracing + Prometheus SLOs + Streamlit cohort drilldown for production LangGraph agents \u2014 token cost, p95 latenc",
+    "id": "rahul-alhan/llm-observability-stack",
+    "language": "Python",
+    "name": "rahul-alhan/llm-observability-stack",
+    "stars": 1,
+    "updated_at": "2026-06-09T16:18:57Z",
+    "url": "https://github.com/rahul-alhan/llm-observability-stack"
+  },
+  {
+    "description": "Automated LLM evaluation with RAGAS, hallucination checks, prompt versioning, and Streamlit dashboards",
+    "id": "rahul-alhan/llm-evaluation-harness",
+    "language": "Python",
+    "name": "rahul-alhan/llm-evaluation-harness",
+    "stars": 0,
+    "updated_at": "2026-06-09T16:18:42Z",
+    "url": "https://github.com/rahul-alhan/llm-evaluation-harness"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1052,
+    "updated_at": "2026-06-09T16:29:41Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "The workflow and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 3,
+    "updated_at": "2026-06-09T16:16:45Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T16:15:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A token-efficiency meter + playbook for agentic coding: measure where your tokens and dollars go per stage, catch silent",
     "id": "Jott2121/agent-cost-attribution",
     "language": "Python",
@@ -14,8 +77,17 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28770,
-    "updated_at": "2026-06-09T16:12:58Z",
+    "updated_at": "2026-06-09T16:27:55Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 5,
+    "updated_at": "2026-06-09T16:12:25Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -23,8 +95,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3296,
-    "updated_at": "2026-06-09T16:10:59Z",
+    "updated_at": "2026-06-09T16:28:52Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-09T16:07:16Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Bounded context for long-horizon LLM agents: carry a small re-grounded signal instead of replaying the transcript, so a ",
@@ -41,8 +122,17 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5627,
-    "updated_at": "2026-06-09T16:13:59Z",
+    "updated_at": "2026-06-09T16:30:21Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
+    "id": "Mindburn-Labs/helm-ai-kernel",
+    "language": "Go",
+    "name": "Mindburn-Labs/helm-ai-kernel",
+    "stars": 9,
+    "updated_at": "2026-06-09T16:17:59Z",
+    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
   },
   {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
@@ -50,17 +140,8 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4189,
-    "updated_at": "2026-06-09T16:03:29Z",
+    "updated_at": "2026-06-09T16:17:00Z",
     "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T16:00:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -79,6 +160,15 @@
     "stars": 6,
     "updated_at": "2026-06-09T15:59:02Z",
     "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "\ud83d\udee0 Build enterprise-grade AI agents with MaxKB, an open-source platform designed for simplicity and performance.",
+    "id": "carglezfer/MaxKB",
+    "language": "Python",
+    "name": "carglezfer/MaxKB",
+    "stars": 1,
+    "updated_at": "2026-06-09T15:58:46Z",
+    "url": "https://github.com/carglezfer/MaxKB"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -167,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10063,
-    "updated_at": "2026-06-09T15:54:05Z",
+    "updated_at": "2026-06-09T16:20:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -180,31 +270,13 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49794,
-    "updated_at": "2026-06-09T15:52:50Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22045,
-    "updated_at": "2026-06-09T15:49:46Z",
+    "stars": 22046,
+    "updated_at": "2026-06-09T16:20:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1052,
-    "updated_at": "2026-06-09T16:14:53Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -214,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-06-09T15:47:41Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
-    "id": "Mindburn-Labs/helm-ai-kernel",
-    "language": "Go",
-    "name": "Mindburn-Labs/helm-ai-kernel",
-    "stars": 9,
-    "updated_at": "2026-06-09T16:04:35Z",
-    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
   },
   {
     "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
@@ -261,15 +324,6 @@
     "url": "https://github.com/bilal0399/learn-agentic-ai"
   },
   {
-    "description": "The workflow and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 3,
-    "updated_at": "2026-06-09T16:14:19Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
     "id": "tenemos/langwatch",
     "language": "TypeScript",
@@ -302,7 +356,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19520,
-    "updated_at": "2026-06-09T16:11:02Z",
+    "updated_at": "2026-06-09T16:26:18Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2216,
     "updated_at": "2026-06-09T15:04:59Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "TypeScript",
-    "name": "dataelement/bisheng",
-    "stars": 11445,
-    "updated_at": "2026-06-09T15:01:46Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-09T15:00:11Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
-    "id": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
-    "language": "\u2014",
-    "name": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
-    "stars": 0,
-    "updated_at": "2026-06-09T14:59:32Z",
-    "url": "https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-06-09T14:59:31Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
-    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "language": "\u2014",
-    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "stars": 0,
-    "updated_at": "2026-06-09T14:58:45Z",
-    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Your agent proposes. Orca verifies. You decide. A drop-in verification layer for LLM/agent outputs: grounding, schema, P",
-    "id": "aisona-lab/OrcaI",
-    "language": "Python",
-    "name": "aisona-lab/OrcaI",
-    "stars": 1,
-    "updated_at": "2026-06-09T14:56:36Z",
-    "url": "https://github.com/aisona-lab/OrcaI"
   }
 ]
