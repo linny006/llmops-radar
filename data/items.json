@@ -1,12 +1,30 @@
 [
   {
-    "description": "Standalone self-improvement harness for agent traces, memory, skills, evaluation, and fine-tuning exports",
-    "id": "lamenting-hawthorn/skillloop",
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-09T12:24:43Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "AI agents fail like junior teammates, looping on bad ideas, ignoring feedback, and escalating commitment. vstack ports 3",
+    "id": "valani9/vstack",
     "language": "Python",
-    "name": "lamenting-hawthorn/skillloop",
+    "name": "valani9/vstack",
     "stars": 1,
-    "updated_at": "2026-06-09T12:14:05Z",
-    "url": "https://github.com/lamenting-hawthorn/skillloop"
+    "updated_at": "2026-06-09T12:22:13Z",
+    "url": "https://github.com/valani9/vstack"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-09T12:20:33Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -14,8 +32,44 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5613,
-    "updated_at": "2026-06-09T12:13:48Z",
+    "updated_at": "2026-06-09T12:21:33Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Standalone self-improvement harness for agent traces, memory, skills, evaluation, and fine-tuning exports",
+    "id": "lamenting-hawthorn/skillloop",
+    "language": "Python",
+    "name": "lamenting-hawthorn/skillloop",
+    "stars": 1,
+    "updated_at": "2026-06-09T12:19:38Z",
+    "url": "https://github.com/lamenting-hawthorn/skillloop"
+  },
+  {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 7,
+    "updated_at": "2026-06-09T12:19:29Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T12:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49767,
+    "updated_at": "2026-06-09T12:15:11Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -25,24 +79,6 @@
     "stars": 4,
     "updated_at": "2026-06-09T12:13:36Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "AI agents fail like junior teammates, looping on bad ideas, ignoring feedback, and escalating commitment. vstack ports 3",
-    "id": "valani9/vstack",
-    "language": "Python",
-    "name": "valani9/vstack",
-    "stars": 1,
-    "updated_at": "2026-06-09T12:12:14Z",
-    "url": "https://github.com/valani9/vstack"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49764,
-    "updated_at": "2026-06-09T12:15:11Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -58,8 +94,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28756,
-    "updated_at": "2026-06-09T12:08:12Z",
+    "stars": 28755,
+    "updated_at": "2026-06-09T12:24:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -77,17 +113,8 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 8,
-    "updated_at": "2026-06-09T12:02:46Z",
+    "updated_at": "2026-06-09T12:22:54Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T12:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -99,31 +126,13 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
-    "id": "8pig/llm-ops",
-    "language": "Python",
-    "name": "8pig/llm-ops",
-    "stars": 7,
-    "updated_at": "2026-06-09T11:54:28Z",
-    "url": "https://github.com/8pig/llm-ops"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19506,
-    "updated_at": "2026-06-09T11:52:17Z",
+    "updated_at": "2026-06-09T12:22:29Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:44:52Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -133,6 +142,15 @@
     "stars": 2216,
     "updated_at": "2026-06-09T11:41:39Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5498,
+    "updated_at": "2026-06-09T11:39:13Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 362,
-    "updated_at": "2026-06-09T12:08:00Z",
+    "updated_at": "2026-06-09T12:17:15Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T10:22:52Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-09T10:21:36Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:20:48Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   }
 ]
