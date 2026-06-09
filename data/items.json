@@ -1,12 +1,102 @@
 [
   {
+    "description": "Standalone self-improvement harness for agent traces, memory, skills, evaluation, and fine-tuning exports",
+    "id": "lamenting-hawthorn/skillloop",
+    "language": "Python",
+    "name": "lamenting-hawthorn/skillloop",
+    "stars": 1,
+    "updated_at": "2026-06-09T12:14:05Z",
+    "url": "https://github.com/lamenting-hawthorn/skillloop"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5613,
+    "updated_at": "2026-06-09T12:13:48Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 4,
-    "updated_at": "2026-06-09T11:57:38Z",
+    "updated_at": "2026-06-09T12:13:36Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "AI agents fail like junior teammates, looping on bad ideas, ignoring feedback, and escalating commitment. vstack ports 3",
+    "id": "valani9/vstack",
+    "language": "Python",
+    "name": "valani9/vstack",
+    "stars": 1,
+    "updated_at": "2026-06-09T12:12:14Z",
+    "url": "https://github.com/valani9/vstack"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49764,
+    "updated_at": "2026-06-09T12:15:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-09T12:08:51Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28756,
+    "updated_at": "2026-06-09T12:08:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-09T12:06:35Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-09T12:02:46Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T12:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3295,
+    "updated_at": "2026-06-09T12:11:57Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -18,42 +108,6 @@
     "url": "https://github.com/8pig/llm-ops"
   },
   {
-    "description": "AI agents fail like junior teammates, looping on bad ideas, ignoring feedback, and escalating commitment. vstack ports 3",
-    "id": "valani9/vstack",
-    "language": "Python",
-    "name": "valani9/vstack",
-    "stars": 1,
-    "updated_at": "2026-06-09T11:52:34Z",
-    "url": "https://github.com/valani9/vstack"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28755,
-    "updated_at": "2026-06-09T11:58:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49760,
-    "updated_at": "2026-06-09T11:50:29Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5613,
-    "updated_at": "2026-06-09T11:59:51Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -61,24 +115,6 @@
     "stars": 19506,
     "updated_at": "2026-06-09T11:52:17Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Standalone self-improvement harness for agent traces, memory, skills, evaluation, and fine-tuning exports",
-    "id": "lamenting-hawthorn/skillloop",
-    "language": "Python",
-    "name": "lamenting-hawthorn/skillloop",
-    "stars": 1,
-    "updated_at": "2026-06-09T11:48:02Z",
-    "url": "https://github.com/lamenting-hawthorn/skillloop"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -99,15 +135,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 8,
-    "updated_at": "2026-06-09T11:55:06Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
     "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
     "id": "zenml-io/mcp-zenml",
     "language": "Python",
@@ -122,24 +149,15 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 31,
-    "updated_at": "2026-06-09T11:43:48Z",
+    "updated_at": "2026-06-09T12:04:32Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3295,
-    "updated_at": "2026-06-09T12:00:24Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
     "id": "w8123/EnterpriseAgentFramework",
     "language": "Java",
     "name": "w8123/EnterpriseAgentFramework",
-    "stars": 278,
+    "stars": 280,
     "updated_at": "2026-06-09T11:29:04Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
   },
@@ -187,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T10:59:26Z",
     "url": "https://github.com/arpon-kapuria/betterdb-rag-observability"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:52:36Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   },
   {
     "description": "The workflow and governance layer for agent-driven software development.",
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 362,
-    "updated_at": "2026-06-09T11:57:54Z",
+    "updated_at": "2026-06-09T12:08:00Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T10:20:48Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:20:38Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   }
 ]
