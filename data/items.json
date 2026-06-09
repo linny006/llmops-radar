@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 4,
+    "updated_at": "2026-06-09T11:57:38Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 7,
+    "updated_at": "2026-06-09T11:54:28Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "AI agents fail like junior teammates, looping on bad ideas, ignoring feedback, and escalating commitment. vstack ports 3",
+    "id": "valani9/vstack",
+    "language": "Python",
+    "name": "valani9/vstack",
+    "stars": 1,
+    "updated_at": "2026-06-09T11:52:34Z",
+    "url": "https://github.com/valani9/vstack"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28755,
+    "updated_at": "2026-06-09T11:58:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49760,
+    "updated_at": "2026-06-09T11:50:29Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5613,
+    "updated_at": "2026-06-09T11:59:51Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19506,
+    "updated_at": "2026-06-09T11:52:17Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Standalone self-improvement harness for agent traces, memory, skills, evaluation, and fine-tuning exports",
+    "id": "lamenting-hawthorn/skillloop",
+    "language": "Python",
+    "name": "lamenting-hawthorn/skillloop",
+    "stars": 1,
+    "updated_at": "2026-06-09T11:48:02Z",
+    "url": "https://github.com/lamenting-hawthorn/skillloop"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
     "id": "ictseoyoungmin/HADARA",
     "language": "TypeScript",
@@ -18,31 +99,13 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19505,
-    "updated_at": "2026-06-09T11:40:54Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 8,
-    "updated_at": "2026-06-09T11:39:40Z",
+    "updated_at": "2026-06-09T11:55:06Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49758,
-    "updated_at": "2026-06-09T11:39:02Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
@@ -54,15 +117,6 @@
     "url": "https://github.com/zenml-io/mcp-zenml"
   },
   {
-    "description": "AI agents fail like junior teammates, looping on bad ideas, ignoring feedback, and escalating commitment. vstack ports 3",
-    "id": "valani9/vstack",
-    "language": "Python",
-    "name": "valani9/vstack",
-    "stars": 1,
-    "updated_at": "2026-06-09T11:35:14Z",
-    "url": "https://github.com/valani9/vstack"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -72,21 +126,12 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3295,
-    "updated_at": "2026-06-09T11:44:38Z",
+    "updated_at": "2026-06-09T12:00:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "alinafe82/persistent-cognitive-infrastructure",
     "stars": 1,
-    "updated_at": "2026-06-09T11:12:49Z",
+    "updated_at": "2026-06-09T11:59:12Z",
     "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-06-09T11:11:25Z",
     "url": "https://github.com/kingfs/llm-tracelab"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5612,
-    "updated_at": "2026-06-09T11:37:05Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\udcca  A FastAPI RAG pipeline exploring Redis/Valkey observability with BetterDB \u2014 semantic caching, rate limiting, and late",
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 362,
-    "updated_at": "2026-06-09T11:35:24Z",
+    "updated_at": "2026-06-09T11:57:54Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T10:20:38Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:18:59Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:18:19Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:16:25Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:15:54Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
