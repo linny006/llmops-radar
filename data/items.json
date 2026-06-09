@@ -1,11 +1,92 @@
 [
   {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:44:52Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2216,
+    "updated_at": "2026-06-09T11:41:39Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19505,
+    "updated_at": "2026-06-09T11:40:54Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-09T11:39:40Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49758,
+    "updated_at": "2026-06-09T11:39:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
+    "id": "zenml-io/mcp-zenml",
+    "language": "Python",
+    "name": "zenml-io/mcp-zenml",
+    "stars": 45,
+    "updated_at": "2026-06-09T11:37:42Z",
+    "url": "https://github.com/zenml-io/mcp-zenml"
+  },
+  {
+    "description": "AI agents fail like junior teammates, looping on bad ideas, ignoring feedback, and escalating commitment. vstack ports 3",
+    "id": "valani9/vstack",
+    "language": "Python",
+    "name": "valani9/vstack",
+    "stars": 1,
+    "updated_at": "2026-06-09T11:35:14Z",
+    "url": "https://github.com/valani9/vstack"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-09T11:43:48Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3295,
-    "updated_at": "2026-06-09T11:29:14Z",
+    "updated_at": "2026-06-09T11:44:38Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -18,24 +99,6 @@
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
   },
   {
-    "description": "AI agents fail like junior teammates\u2014looping on bad ideas, ignoring feedback, escalating commitment. vstack ports 34 of ",
-    "id": "valani9/vstack",
-    "language": "Python",
-    "name": "valani9/vstack",
-    "stars": 1,
-    "updated_at": "2026-06-09T11:27:14Z",
-    "url": "https://github.com/valani9/vstack"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49757,
-    "updated_at": "2026-06-09T11:22:43Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
     "id": "Yigtwxx/awesome-rag-production",
     "language": "Python",
@@ -43,24 +106,6 @@
     "stars": 67,
     "updated_at": "2026-06-09T11:18:48Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19504,
-    "updated_at": "2026-06-09T11:14:37Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\udcd6 The Book of Spells: a curated, enchanted index of real LLM tooling \u2014 and a pipeline that gathers SKILL.md skills from ",
@@ -95,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5612,
-    "updated_at": "2026-06-09T11:28:40Z",
+    "updated_at": "2026-06-09T11:37:05Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T10:59:26Z",
     "url": "https://github.com/arpon-kapuria/betterdb-rag-observability"
-  },
-  {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:56:10Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -225,15 +261,6 @@
     "url": "https://github.com/xinglun/ai-cockpit-template"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2216,
-    "updated_at": "2026-06-09T10:37:17Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
     "id": "germanic-hwangho835/FolkLite",
     "language": "\u2014",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 362,
-    "updated_at": "2026-06-09T11:12:20Z",
+    "updated_at": "2026-06-09T11:35:24Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T10:15:54Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-09T10:15:21Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-09T10:15:07Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-09T10:15:01Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
