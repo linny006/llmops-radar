@@ -1,5 +1,122 @@
 [
   {
+    "description": "Bounded context for long-horizon LLM agents: carry a small re-grounded signal instead of replaying the transcript, so a ",
+    "id": "aimerdoux/plateau",
+    "language": "Python",
+    "name": "aimerdoux/plateau",
+    "stars": 1,
+    "updated_at": "2026-06-09T17:00:03Z",
+    "url": "https://github.com/aimerdoux/plateau"
+  },
+  {
+    "description": "\ud83e\udde0 Monitor web app performance and detect anomalies with AI-driven insights, capturing key events and generating detailed",
+    "id": "LaurenceGab/ai-monitoring-layer",
+    "language": "JavaScript",
+    "name": "LaurenceGab/ai-monitoring-layer",
+    "stars": 0,
+    "updated_at": "2026-06-09T16:59:57Z",
+    "url": "https://github.com/LaurenceGab/ai-monitoring-layer"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49798,
+    "updated_at": "2026-06-09T16:55:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 2,
+    "updated_at": "2026-06-09T16:51:07Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28771,
+    "updated_at": "2026-06-09T16:48:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\udc14 Simplify AI orchestration by using agentic systems; spawn subagents like a hen with her chicks for seamless task manag",
+    "id": "iulieobraznic/agentic-ai-systems",
+    "language": "\u2014",
+    "name": "iulieobraznic/agentic-ai-systems",
+    "stars": 0,
+    "updated_at": "2026-06-09T16:48:31Z",
+    "url": "https://github.com/iulieobraznic/agentic-ai-systems"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T16:45:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance customer support with an LLM-powered agent that smartly routes queries using FastAPI, Postgres, and Redis for ",
+    "id": "xjanex160/customer-support-agent",
+    "language": "Python",
+    "name": "xjanex160/customer-support-agent",
+    "stars": 2,
+    "updated_at": "2026-06-09T16:44:17Z",
+    "url": "https://github.com/xjanex160/customer-support-agent"
+  },
+  {
+    "description": "\ud83d\udecd\ufe0f Automate your sales process with an AI-driven multi-agent system that improves efficiency from product inquiries to p",
+    "id": "sway121/Agentes_IA",
+    "language": "Python",
+    "name": "sway121/Agentes_IA",
+    "stars": 4,
+    "updated_at": "2026-06-09T16:44:01Z",
+    "url": "https://github.com/sway121/Agentes_IA"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance your CAD, WMS, or CAM software with Vector\u2014an offline tool for seamless optimization without tuning or ongoing",
+    "id": "dewqasujbc/Vector",
+    "language": "\u2014",
+    "name": "dewqasujbc/Vector",
+    "stars": 0,
+    "updated_at": "2026-06-09T16:43:58Z",
+    "url": "https://github.com/dewqasujbc/Vector"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22047,
+    "updated_at": "2026-06-09T16:51:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
+    "id": "Mindburn-Labs/helm-ai-kernel",
+    "language": "Go",
+    "name": "Mindburn-Labs/helm-ai-kernel",
+    "stars": 9,
+    "updated_at": "2026-06-09T17:00:10Z",
+    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5628,
+    "updated_at": "2026-06-09T16:59:55Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
     "id": "richardpapiona9/llm",
     "language": "JavaScript",
@@ -27,40 +144,13 @@
     "url": "https://github.com/Gmail1995/llm-course"
   },
   {
-    "description": "Bounded context for long-horizon LLM agents: carry a small re-grounded signal instead of replaying the transcript, so a ",
-    "id": "aimerdoux/plateau",
-    "language": "Python",
-    "name": "aimerdoux/plateau",
-    "stars": 1,
-    "updated_at": "2026-06-09T16:45:24Z",
-    "url": "https://github.com/aimerdoux/plateau"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3296,
-    "updated_at": "2026-06-09T16:31:34Z",
+    "updated_at": "2026-06-09T16:57:48Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28771,
-    "updated_at": "2026-06-09T16:43:16Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T16:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "",
@@ -81,15 +171,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49797,
-    "updated_at": "2026-06-09T16:42:53Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "",
     "id": "aekta113/ai-sre",
     "language": "Python",
@@ -99,21 +180,12 @@
     "url": "https://github.com/aekta113/ai-sre"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22047,
-    "updated_at": "2026-06-09T16:41:44Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
     "id": "Bobcatsfan33/AI-Security-Platform",
     "language": "Python",
     "name": "Bobcatsfan33/AI-Security-Platform",
     "stars": 0,
-    "updated_at": "2026-06-09T16:19:36Z",
+    "updated_at": "2026-06-09T17:00:26Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
@@ -198,30 +270,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5627,
-    "updated_at": "2026-06-09T16:38:04Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
-    "id": "Mindburn-Labs/helm-ai-kernel",
-    "language": "Go",
-    "name": "Mindburn-Labs/helm-ai-kernel",
-    "stars": 9,
-    "updated_at": "2026-06-09T16:41:03Z",
-    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
-  },
-  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4189,
-    "updated_at": "2026-06-09T16:17:00Z",
+    "updated_at": "2026-06-09T16:53:05Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-06-09T15:58:46Z",
     "url": "https://github.com/carglezfer/MaxKB"
-  },
-  {
-    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
-    "id": "chyinan/AegisRAG",
-    "language": "Python",
-    "name": "chyinan/AegisRAG",
-    "stars": 2,
-    "updated_at": "2026-06-09T15:58:28Z",
-    "url": "https://github.com/chyinan/AegisRAG"
   },
   {
     "description": "\ud83c\udf10 Explore LLM agents and their ecosystems with this comprehensive handbook for understanding, developing, and implementi",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-09T15:36:53Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-06-09T15:36:31Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-09T15:48:45Z",
-    "url": "https://github.com/open-ace/open-ace"
-  },
-  {
-    "description": "RAG-based PDF Chatbot built using LangChain, ChromaDB, Hugging Face Embeddings, Groq Llama 3.3, LangSmith Tracing, and G",
-    "id": "VamshiKrishnaMacha/rag-llmops-pdf-chatbot",
-    "language": "Jupyter Notebook",
-    "name": "VamshiKrishnaMacha/rag-llmops-pdf-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-09T15:21:27Z",
-    "url": "https://github.com/VamshiKrishnaMacha/rag-llmops-pdf-chatbot"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-06-09T15:13:01Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-06-09T15:11:16Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   }
 ]
