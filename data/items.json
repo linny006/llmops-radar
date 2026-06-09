@@ -1,12 +1,84 @@
 [
   {
+    "description": "Sovereign, compliance-by-design RAG accelerator \u2014 Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib",
+    "id": "SeydinaBANE/sovereign-rag",
+    "language": "Python",
+    "name": "SeydinaBANE/sovereign-rag",
+    "stars": 0,
+    "updated_at": "2026-06-09T14:27:49Z",
+    "url": "https://github.com/SeydinaBANE/sovereign-rag"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26382,
+    "updated_at": "2026-06-09T14:21:55Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 143,
+    "updated_at": "2026-06-09T14:21:20Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1052,
+    "updated_at": "2026-06-09T14:27:25Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T14:16:04Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
+    "id": "Mindburn-Labs/helm-ai-kernel",
+    "language": "Go",
+    "name": "Mindburn-Labs/helm-ai-kernel",
+    "stars": 9,
+    "updated_at": "2026-06-09T14:19:24Z",
+    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5618,
-    "updated_at": "2026-06-09T14:14:27Z",
+    "updated_at": "2026-06-09T14:28:02Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49785,
+    "updated_at": "2026-06-09T14:12:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 8,
+    "updated_at": "2026-06-09T14:29:39Z",
+    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "The workflow and governance layer for agent-driven software development.",
@@ -14,17 +86,62 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 3,
-    "updated_at": "2026-06-09T14:12:01Z",
+    "updated_at": "2026-06-09T14:27:47Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-06-09T14:11:51Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 1,
+    "updated_at": "2026-06-09T14:10:53Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5500,
+    "updated_at": "2026-06-09T14:08:59Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19512,
-    "updated_at": "2026-06-09T14:08:02Z",
+    "stars": 19513,
+    "updated_at": "2026-06-09T14:20:07Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
+    "id": "SkylineTZ/RagaliQ",
+    "language": "Python",
+    "name": "SkylineTZ/RagaliQ",
+    "stars": 1,
+    "updated_at": "2026-06-09T14:05:34Z",
+    "url": "https://github.com/SkylineTZ/RagaliQ"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-06-09T14:05:06Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
   },
   {
     "description": "\ud83d\udee0\ufe0f Enhance agentic development with tools for isolated environments and unused code detection in your stack.",
@@ -34,6 +151,24 @@
     "stars": 1,
     "updated_at": "2026-06-09T14:02:17Z",
     "url": "https://github.com/masterudon23/agent-tools"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
+    "id": "Tearfullnex/SpecGuard",
+    "language": "Python",
+    "name": "Tearfullnex/SpecGuard",
+    "stars": 0,
+    "updated_at": "2026-06-09T14:02:13Z",
+    "url": "https://github.com/Tearfullnex/SpecGuard"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
+    "id": "Jitendra-kr-d/prompt-engineering-toolkit",
+    "language": "HTML",
+    "name": "Jitendra-kr-d/prompt-engineering-toolkit",
+    "stars": 1,
+    "updated_at": "2026-06-09T14:01:55Z",
+    "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
   },
   {
     "description": "\ud83d\udee0\ufe0f Configure Claude Code with settings and skills for enhanced web interaction, automation, and efficient code managemen",
@@ -54,31 +189,13 @@
     "url": "https://github.com/rozario-1234/end2end_sample"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T14:00:41Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28764,
-    "updated_at": "2026-06-09T14:00:27Z",
+    "updated_at": "2026-06-09T14:23:12Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26382,
-    "updated_at": "2026-06-09T14:14:02Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\ud83e\udde0 Explore Agentic AI and GeN AI solutions on AWS, GCP, and Azure to harness cloud power for advanced artificial intellig",
@@ -162,15 +279,6 @@
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   },
   {
-    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
-    "id": "Mindburn-Labs/helm-ai-kernel",
-    "language": "Go",
-    "name": "Mindburn-Labs/helm-ai-kernel",
-    "stars": 9,
-    "updated_at": "2026-06-09T14:14:29Z",
-    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
-  },
-  {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
     "id": "8pig/llm-ops",
     "language": "Python",
@@ -221,7 +329,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 31,
-    "updated_at": "2026-06-09T14:04:11Z",
+    "updated_at": "2026-06-09T14:26:57Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -248,7 +356,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-09T13:48:29Z",
+    "updated_at": "2026-06-09T14:27:12Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -268,15 +376,6 @@
     "stars": 3,
     "updated_at": "2026-06-09T13:47:22Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Open-source LLM observability - drop-in proxy for cost tracking, request logging, and agent tracing",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 8,
-    "updated_at": "2026-06-09T14:12:10Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
@@ -349,104 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-09T13:37:02Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "\ud83d\ude80 Build and deploy intelligent agents with the Agent Starter Pack, featuring simple templates and robust documentation f",
-    "id": "juana267/agent-starter-pack",
-    "language": "Java",
-    "name": "juana267/agent-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:36:02Z",
-    "url": "https://github.com/juana267/agent-starter-pack"
-  },
-  {
-    "description": "\ud83e\udde0 Monitor web app performance and detect anomalies with AI-driven insights, capturing key events and generating detailed",
-    "id": "LaurenceGab/ai-monitoring-layer",
-    "language": "JavaScript",
-    "name": "LaurenceGab/ai-monitoring-layer",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:34:10Z",
-    "url": "https://github.com/LaurenceGab/ai-monitoring-layer"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Detect and remove spyware with SUPERAntiSpyware Professional X, ensuring your Windows system stays secure and your da",
-    "id": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "language": "\u2014",
-    "name": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "stars": 1,
-    "updated_at": "2026-06-09T13:33:35Z",
-    "url": "https://github.com/mshadan825/SUPERAntiSpyware-Professional-X-Activated"
-  },
-  {
-    "description": "\ud83c\udf10 Build and share your personal website with ease using mjsushanth.github.io, a simple and effective static site generat",
-    "id": "don12345673434/mjsushanth.github.io",
-    "language": "HTML",
-    "name": "don12345673434/mjsushanth.github.io",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:30:51Z",
-    "url": "https://github.com/don12345673434/mjsushanth.github.io"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1207,
-    "updated_at": "2026-06-09T13:30:20Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "\ud83d\udc14 Simplify AI orchestration by using agentic systems; spawn subagents like a hen with her chicks for seamless task manag",
-    "id": "iulieobraznic/agentic-ai-systems",
-    "language": "\u2014",
-    "name": "iulieobraznic/agentic-ai-systems",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:26:22Z",
-    "url": "https://github.com/iulieobraznic/agentic-ai-systems"
-  },
-  {
-    "description": "\ud83c\udf9b\ufe0f Build efficient workflows with Deevs' Agent System, a plugin marketplace for Claude Code featuring multi-session chai",
-    "id": "Shahzadaslam007799/agent-system",
-    "language": "\u2014",
-    "name": "Shahzadaslam007799/agent-system",
-    "stars": 1,
-    "updated_at": "2026-06-09T13:25:38Z",
-    "url": "https://github.com/Shahzadaslam007799/agent-system"
-  },
-  {
-    "description": "\ud83d\udecd\ufe0f Automate your sales process with an AI-driven multi-agent system that improves efficiency from product inquiries to p",
-    "id": "sway121/Agentes_IA",
-    "language": "Python",
-    "name": "sway121/Agentes_IA",
-    "stars": 4,
-    "updated_at": "2026-06-09T13:23:06Z",
-    "url": "https://github.com/sway121/Agentes_IA"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance your CAD, WMS, or CAM software with Vector\u2014an offline tool for seamless optimization without tuning or ongoing",
-    "id": "dewqasujbc/Vector",
-    "language": "\u2014",
-    "name": "dewqasujbc/Vector",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:23:02Z",
-    "url": "https://github.com/dewqasujbc/Vector"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance customer support with an LLM-powered agent that smartly routes queries using FastAPI, Postgres, and Redis for ",
-    "id": "xjanex160/customer-support-agent",
-    "language": "Python",
-    "name": "xjanex160/customer-support-agent",
-    "stars": 2,
-    "updated_at": "2026-06-09T13:23:00Z",
-    "url": "https://github.com/xjanex160/customer-support-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:16:30Z",
-    "url": "https://github.com/richardpapiona9/llm"
   }
 ]
