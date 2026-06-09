@@ -1,5 +1,149 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5628,
+    "updated_at": "2026-06-09T18:30:13Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
+    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
+    "language": "\u2014",
+    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:28:22Z",
+    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:28:34Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Local-first, framework-agnostic debugger for LLM agents \u2014 see, replay, and diff what your agent did.",
+    "id": "Rostanic20/replai",
+    "language": "Python",
+    "name": "Rostanic20/replai",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:26:55Z",
+    "url": "https://github.com/Rostanic20/replai"
+  },
+  {
+    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
+    "id": "Trantu6570/LitPOS-Apps-Script",
+    "language": "HTML",
+    "name": "Trantu6570/LitPOS-Apps-Script",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:26:23Z",
+    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
+  },
+  {
+    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
+    "id": "ydavidcm9-wq/vigil",
+    "language": "JavaScript",
+    "name": "ydavidcm9-wq/vigil",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:25:47Z",
+    "url": "https://github.com/ydavidcm9-wq/vigil"
+  },
+  {
+    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
+    "id": "kawaiirashi/llm-retry",
+    "language": "C++",
+    "name": "kawaiirashi/llm-retry",
+    "stars": 1,
+    "updated_at": "2026-06-09T18:25:03Z",
+    "url": "https://github.com/kawaiirashi/llm-retry"
+  },
+  {
+    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
+    "id": "islaagnet27/llm-cost",
+    "language": "C++",
+    "name": "islaagnet27/llm-cost",
+    "stars": 1,
+    "updated_at": "2026-06-09T18:24:57Z",
+    "url": "https://github.com/islaagnet27/llm-cost"
+  },
+  {
+    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
+    "id": "wahhyun/llm-eval",
+    "language": "C++",
+    "name": "wahhyun/llm-eval",
+    "stars": 1,
+    "updated_at": "2026-06-09T18:24:57Z",
+    "url": "https://github.com/wahhyun/llm-eval"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 3,
+    "updated_at": "2026-06-09T18:24:50Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
+    "id": "Anbumani08/agentic-coding-workflow",
+    "language": "HTML",
+    "name": "Anbumani08/agentic-coding-workflow",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:24:44Z",
+    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
+  },
+  {
+    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
+    "id": "ashmedanraj/langfuse-eks-production",
+    "language": "\u2014",
+    "name": "ashmedanraj/langfuse-eks-production",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:22:38Z",
+    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
+  },
+  {
+    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
+    "id": "sarrahw23/deploy-guide",
+    "language": "\u2014",
+    "name": "sarrahw23/deploy-guide",
+    "stars": 1,
+    "updated_at": "2026-06-09T18:21:35Z",
+    "url": "https://github.com/sarrahw23/deploy-guide"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1052,
+    "updated_at": "2026-06-09T18:22:55Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
+    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "language": "Python",
+    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "stars": 3,
+    "updated_at": "2026-06-09T18:16:22Z",
+    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
     "id": "rvhn/rest-gateway-1771918257-5",
     "language": "\u2014",
@@ -68,7 +212,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10063,
-    "updated_at": "2026-06-09T18:07:33Z",
+    "updated_at": "2026-06-09T18:29:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -86,7 +230,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49805,
-    "updated_at": "2026-06-09T18:05:15Z",
+    "updated_at": "2026-06-09T18:26:21Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -106,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T18:01:39Z",
     "url": "https://github.com/kami-beep/kb-contracts"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T18:00:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -142,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-06-09T17:55:17Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 3,
-    "updated_at": "2026-06-09T18:06:24Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T17:23:40Z",
     "url": "https://github.com/DynamicExploit/runtm"
-  },
-  {
-    "description": "Offline RAG evaluation workbench with retrieval metrics, grounding traces, and static dashboards",
-    "id": "sameer2191/rag-eval-workbench",
-    "language": "Python",
-    "name": "sameer2191/rag-eval-workbench",
-    "stars": 0,
-    "updated_at": "2026-06-09T17:23:27Z",
-    "url": "https://github.com/sameer2191/rag-eval-workbench"
-  },
-  {
-    "description": "Deterministic multi-agent reliability lab with safety gates, eval scenarios, budgets, and trace viewer",
-    "id": "sameer2191/agent-reliability-lab",
-    "language": "Python",
-    "name": "sameer2191/agent-reliability-lab",
-    "stars": 0,
-    "updated_at": "2026-06-09T17:23:27Z",
-    "url": "https://github.com/sameer2191/agent-reliability-lab"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 1,
-    "updated_at": "2026-06-09T17:23:23Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-06-09T17:23:01Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-06-09T17:21:44Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1014,
-    "updated_at": "2026-06-09T17:19:56Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "\ud83c\udfb6 Compose high-fidelity music effortlessly by transforming natural language commands into orchestral compositions using ",
-    "id": "aswath1313/GenAI-Music-Composer",
-    "language": "Python",
-    "name": "aswath1313/GenAI-Music-Composer",
-    "stars": 3,
-    "updated_at": "2026-06-09T17:19:54Z",
-    "url": "https://github.com/aswath1313/GenAI-Music-Composer"
-  },
-  {
-    "description": "A token-efficiency meter + playbook for agentic coding: measure where your tokens and dollars go per stage, catch silent",
-    "id": "Jott2121/agent-cost-attribution",
-    "language": "Python",
-    "name": "Jott2121/agent-cost-attribution",
-    "stars": 0,
-    "updated_at": "2026-06-09T17:18:46Z",
-    "url": "https://github.com/Jott2121/agent-cost-attribution"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-06-09T17:18:42Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5628,
-    "updated_at": "2026-06-09T18:05:10Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Local-first, framework-agnostic debugger for LLM agents \u2014 see, replay, and diff what your agent did.",
-    "id": "Rostanic20/replai",
-    "language": "Python",
-    "name": "Rostanic20/replai",
-    "stars": 0,
-    "updated_at": "2026-06-09T17:17:04Z",
-    "url": "https://github.com/Rostanic20/replai"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-06-09T17:13:47Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 0,
-    "updated_at": "2026-06-09T17:11:11Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
-    "description": "Open-source, self-hostable AI cost & workflow observability. Find the prompt, customer, model, and workflow path behind ",
-    "id": "scopecall/scopecall",
-    "language": "TypeScript",
-    "name": "scopecall/scopecall",
-    "stars": 3,
-    "updated_at": "2026-06-09T17:12:18Z",
-    "url": "https://github.com/scopecall/scopecall"
   }
 ]
