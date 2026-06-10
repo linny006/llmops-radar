@@ -1,12 +1,66 @@
 [
   {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 362,
+    "updated_at": "2026-06-10T20:11:40Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10088,
+    "updated_at": "2026-06-10T20:11:43Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "A production-ready framework for composing AI agents from declarative TOML configuration, with MCP tool integration, RAG",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 81,
+    "updated_at": "2026-06-10T20:09:11Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22086,
+    "updated_at": "2026-06-10T20:07:41Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28863,
+    "updated_at": "2026-06-10T20:06:01Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-10T19:57:42Z",
+    "updated_at": "2026-06-10T20:00:30Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19564,
+    "updated_at": "2026-06-10T19:55:59Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Agents change faster than audits. Ancilis discovers what agents can do, classifies the data they touch, activates the ri",
@@ -117,24 +171,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28861,
-    "updated_at": "2026-06-10T19:47:42Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 362,
-    "updated_at": "2026-06-10T19:16:19Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Warmth-aware load balancer and reverse proxy for self-hosted LLM inference \u2014 routes each request to the Ollama or vLLM b",
     "id": "mageshkrishna/loxy-router",
     "language": "Go",
@@ -178,15 +214,6 @@
     "stars": 5652,
     "updated_at": "2026-06-10T20:00:15Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22086,
-    "updated_at": "2026-06-10T19:02:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -248,17 +275,8 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 11,
-    "updated_at": "2026-06-10T19:53:55Z",
+    "updated_at": "2026-06-10T20:10:28Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10088,
-    "updated_at": "2026-06-10T19:50:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -306,6 +324,15 @@
     "url": "https://github.com/germanic-hwangho835/FolkLite"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26411,
+    "updated_at": "2026-06-10T18:16:31Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
     "id": "harishu652/Class-AI-Agent",
     "language": "\u2014",
@@ -340,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-06-10T18:14:59Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26410,
-    "updated_at": "2026-06-10T18:16:31Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Evidra Bench runs live infrastructure scenarios for AI agents, MCP servers, and AI SRE tools, then shows pass/fail, unsa",
@@ -396,15 +414,6 @@
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19563,
-    "updated_at": "2026-06-10T19:55:59Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -419,7 +428,7 @@
     "language": "Rust",
     "name": "intentee/paddler",
     "stars": 1592,
-    "updated_at": "2026-06-10T18:02:28Z",
+    "updated_at": "2026-06-10T20:08:04Z",
     "url": "https://github.com/intentee/paddler"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T18:01:23Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:01:22Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
