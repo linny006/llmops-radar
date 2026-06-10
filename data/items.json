@@ -1,11 +1,47 @@
 [
   {
+    "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
+    "id": "dativo-io/talon",
+    "language": "Go",
+    "name": "dativo-io/talon",
+    "stars": 9,
+    "updated_at": "2026-06-10T20:41:35Z",
+    "url": "https://github.com/dativo-io/talon"
+  },
+  {
+    "description": "Isolated AI workload execution with job execution built in",
+    "id": "las7/TakoVM",
+    "language": "Python",
+    "name": "las7/TakoVM",
+    "stars": 54,
+    "updated_at": "2026-06-10T20:41:54Z",
+    "url": "https://github.com/las7/TakoVM"
+  },
+  {
+    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
+    "id": "Mindburn-Labs/helm-ai-kernel",
+    "language": "Go",
+    "name": "Mindburn-Labs/helm-ai-kernel",
+    "stars": 9,
+    "updated_at": "2026-06-10T20:42:03Z",
+    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T20:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10088,
-    "updated_at": "2026-06-10T20:30:19Z",
+    "updated_at": "2026-06-10T20:34:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -54,21 +90,12 @@
     "url": "https://github.com/grepture/proxy"
   },
   {
-    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
-    "id": "Mindburn-Labs/helm-ai-kernel",
-    "language": "Go",
-    "name": "Mindburn-Labs/helm-ai-kernel",
-    "stars": 9,
-    "updated_at": "2026-06-10T20:27:42Z",
-    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19564,
-    "updated_at": "2026-06-10T20:29:27Z",
+    "updated_at": "2026-06-10T20:35:30Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -90,21 +117,12 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T20:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 362,
-    "updated_at": "2026-06-10T20:11:40Z",
+    "updated_at": "2026-06-10T20:34:35Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Rust",
     "name": "mezmo/aura",
     "stars": 81,
-    "updated_at": "2026-06-10T20:09:11Z",
+    "updated_at": "2026-06-10T20:45:13Z",
     "url": "https://github.com/mezmo/aura"
   },
   {
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22086,
-    "updated_at": "2026-06-10T20:07:41Z",
+    "updated_at": "2026-06-10T20:43:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49936,
-    "updated_at": "2026-06-10T20:17:51Z",
+    "updated_at": "2026-06-10T20:38:59Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-10T18:51:26Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 54,
-    "updated_at": "2026-06-10T18:13:01Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:12:49Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
   }
 ]
