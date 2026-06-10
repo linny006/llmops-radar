@@ -1,12 +1,12 @@
 [
   {
-    "description": "Isolated AI workload execution with job execution built in",
-    "id": "las7/TakoVM",
-    "language": "Python",
-    "name": "las7/TakoVM",
-    "stars": 52,
-    "updated_at": "2026-06-10T00:30:11Z",
-    "url": "https://github.com/las7/TakoVM"
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:41:08Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Personal Agent OS for coding, creator workflows, mastery learning, memory, and safe automation",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "luckyLo99/Cathay-Agent",
     "stars": 0,
-    "updated_at": "2026-06-10T00:20:56Z",
+    "updated_at": "2026-06-10T00:38:49Z",
     "url": "https://github.com/luckyLo99/Cathay-Agent"
+  },
+  {
+    "description": "Risk-sensitive LLM output review and trust-report generation system.",
+    "id": "benben951/agent-trust-lab",
+    "language": "Python",
+    "name": "benben951/agent-trust-lab",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:38:38Z",
+    "url": "https://github.com/benben951/agent-trust-lab"
+  },
+  {
+    "description": "PolyHelper V4 \u2014 Cognitive AI Exoskeleton.    Multi-AI orchestration platform for safer human decisions",
+    "id": "PolyHelper/polyhelper",
+    "language": "JavaScript",
+    "name": "PolyHelper/polyhelper",
+    "stars": 1,
+    "updated_at": "2026-06-10T00:37:30Z",
+    "url": "https://github.com/PolyHelper/polyhelper"
+  },
+  {
+    "description": "Isolated AI workload execution with job execution built in",
+    "id": "las7/TakoVM",
+    "language": "Python",
+    "name": "las7/TakoVM",
+    "stars": 52,
+    "updated_at": "2026-06-10T00:37:53Z",
+    "url": "https://github.com/las7/TakoVM"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-10T00:15:23Z",
+    "updated_at": "2026-06-10T00:30:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49819,
-    "updated_at": "2026-06-10T00:14:45Z",
+    "updated_at": "2026-06-10T00:37:25Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -63,12 +90,21 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10067,
+    "updated_at": "2026-06-10T00:11:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22061,
-    "updated_at": "2026-06-10T00:13:00Z",
+    "updated_at": "2026-06-10T00:33:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -108,15 +144,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-10T00:30:16Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Agentic clinical variant interpretation copilot: drafts ACMG/AMP classifications with cited evidence, evaluated against ",
     "id": "eduramosalves/variantscribe",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T23:54:34Z",
     "url": "https://github.com/eduramosalves/variantscribe"
-  },
-  {
-    "description": "PolyHelper V4 \u2014 Cognitive AI Exoskeleton.    Multi-AI orchestration platform for safer human decisions",
-    "id": "PolyHelper/polyhelper",
-    "language": "JavaScript",
-    "name": "PolyHelper/polyhelper",
-    "stars": 1,
-    "updated_at": "2026-06-09T23:53:12Z",
-    "url": "https://github.com/PolyHelper/polyhelper"
   },
   {
     "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T23:43:32Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10066,
-    "updated_at": "2026-06-10T00:11:41Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T22:41:42Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-09T22:41:38Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
