@@ -1,5 +1,104 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2221,
+    "updated_at": "2026-06-10T07:59:47Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 54,
+    "updated_at": "2026-06-10T07:59:46Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-10T07:54:56Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-10T07:54:44Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-10T07:53:56Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "\ud83e\udde9 Explore LLM essentials, build advanced models, and develop applications with this comprehensive course on large langua",
+    "id": "Gmail1995/llm-course",
+    "language": "\u2014",
+    "name": "Gmail1995/llm-course",
+    "stars": 1,
+    "updated_at": "2026-06-10T07:52:09Z",
+    "url": "https://github.com/Gmail1995/llm-course"
+  },
+  {
+    "description": "Open-source, self-hostable AI cost & workflow observability. Find the prompt, customer, model, and workflow path behind ",
+    "id": "scopecall/scopecall",
+    "language": "TypeScript",
+    "name": "scopecall/scopecall",
+    "stars": 3,
+    "updated_at": "2026-06-10T07:50:17Z",
+    "url": "https://github.com/scopecall/scopecall"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22071,
+    "updated_at": "2026-06-10T07:51:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "",
+    "id": "ghaithmhmm/LLM-Training",
+    "language": "Python",
+    "name": "ghaithmhmm/LLM-Training",
+    "stars": 0,
+    "updated_at": "2026-06-10T07:47:43Z",
+    "url": "https://github.com/ghaithmhmm/LLM-Training"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5425,
+    "updated_at": "2026-06-10T07:46:27Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T07:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "",
     "id": "aekta113/ai-sre",
     "language": "Python",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 69,
-    "updated_at": "2026-06-10T07:37:24Z",
+    "updated_at": "2026-06-10T07:49:49Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -45,15 +144,6 @@
     "url": "https://github.com/liam8421/faster-llm"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2221,
-    "updated_at": "2026-06-10T07:35:29Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
     "id": "moiraweave-labs/moiraweave",
     "language": "Python",
@@ -63,30 +153,12 @@
     "url": "https://github.com/moiraweave-labs/moiraweave"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T07:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source, self-hostable AI cost & workflow observability. Find the prompt, customer, model, and workflow path behind ",
-    "id": "scopecall/scopecall",
-    "language": "TypeScript",
-    "name": "scopecall/scopecall",
-    "stars": 3,
-    "updated_at": "2026-06-10T07:29:42Z",
-    "url": "https://github.com/scopecall/scopecall"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5634,
-    "updated_at": "2026-06-10T07:30:58Z",
+    "updated_at": "2026-06-10T07:46:40Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -142,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-06-10T07:23:43Z",
     "url": "https://github.com/damn124/ai-calling-agent"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 54,
-    "updated_at": "2026-06-10T07:39:15Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "\ud83e\udd16 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus",
@@ -243,20 +306,11 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-10T07:26:39Z",
-    "url": "https://github.com/open-ace/open-ace"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49866,
+    "stars": 49870,
     "updated_at": "2026-06-10T06:58:13Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19550,
-    "updated_at": "2026-06-10T06:43:23Z",
+    "updated_at": "2026-06-10T07:57:38Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -284,7 +338,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1208,
-    "updated_at": "2026-06-10T07:39:43Z",
+    "updated_at": "2026-06-10T07:58:07Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -311,7 +365,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26399,
-    "updated_at": "2026-06-10T06:31:49Z",
+    "updated_at": "2026-06-10T07:51:06Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T05:52:37Z",
     "url": "https://github.com/Arman7843/gemmachat-windows"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:52:10Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-06-10T05:51:11Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
-    "id": "Prissieperoneal156/rig",
-    "language": "\u2014",
-    "name": "Prissieperoneal156/rig",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:51:10Z",
-    "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
-    "id": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
-    "language": "\u2014",
-    "name": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:45:52Z",
-    "url": "https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:45:50Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
-    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "language": "\u2014",
-    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:45:12Z",
-    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
   }
 ]
