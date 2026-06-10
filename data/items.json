@@ -1,12 +1,48 @@
 [
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
+    "description": "\ud83e\udd16 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus",
+    "id": "Thiagoopro/AI-Agent-Framework",
+    "language": "Python",
+    "name": "Thiagoopro/AI-Agent-Framework",
+    "stars": 1,
+    "updated_at": "2026-06-10T14:40:19Z",
+    "url": "https://github.com/Thiagoopro/AI-Agent-Framework"
+  },
+  {
+    "description": "\ud83d\udcda Explore essential resources for learning Generative AI, covering foundational concepts to advanced topics with curated",
+    "id": "hwgdfkchw/Generative-AI-Essentials",
+    "language": "\u2014",
+    "name": "hwgdfkchw/Generative-AI-Essentials",
+    "stars": 2,
+    "updated_at": "2026-06-10T14:38:15Z",
+    "url": "https://github.com/hwgdfkchw/Generative-AI-Essentials"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-06-10T14:37:50Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "\ud83e\udd16 Discover AI tools and techniques to optimize DevOps processes through practical challenges and hands-on projects in th",
+    "id": "monim279/AI-Powered-DevOps",
+    "language": "Python",
+    "name": "monim279/AI-Powered-DevOps",
+    "stars": 4,
+    "updated_at": "2026-06-10T14:37:49Z",
+    "url": "https://github.com/monim279/AI-Powered-DevOps"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3298,
-    "updated_at": "2026-06-10T14:27:56Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "name": "langfuse/langfuse",
+    "stars": 28852,
+    "updated_at": "2026-06-10T14:37:24Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Self-hosted enterprise AI workspace and governance platform",
@@ -14,17 +50,53 @@
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-10T14:26:31Z",
+    "updated_at": "2026-06-10T14:33:33Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26409,
+    "updated_at": "2026-06-10T14:32:05Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:30:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19560,
+    "updated_at": "2026-06-10T14:43:38Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28850,
-    "updated_at": "2026-06-10T14:23:40Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "langwatch/langwatch",
+    "stars": 3298,
+    "updated_at": "2026-06-10T14:44:19Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-06-10T14:27:43Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -45,21 +117,12 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19559,
-    "updated_at": "2026-06-10T14:28:32Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5643,
-    "updated_at": "2026-06-10T14:20:14Z",
+    "updated_at": "2026-06-10T14:45:06Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -76,8 +139,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22081,
-    "updated_at": "2026-06-10T14:18:22Z",
+    "stars": 22082,
+    "updated_at": "2026-06-10T14:43:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -95,7 +158,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-10T14:17:40Z",
+    "updated_at": "2026-06-10T14:38:44Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-06-10T14:16:08Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:15:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -130,7 +184,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10081,
+    "stars": 10082,
     "updated_at": "2026-06-10T14:13:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -151,15 +205,6 @@
     "stars": 2223,
     "updated_at": "2026-06-10T14:08:33Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26409,
-    "updated_at": "2026-06-10T14:29:59Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Risk-sensitive LLM output review and trust-report generation system.",
@@ -310,7 +355,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49911,
+    "stars": 49912,
     "updated_at": "2026-06-10T12:46:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:20:25Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
-    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "language": "\u2014",
-    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:19:36Z",
-    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
-    "id": "germanic-hwangho835/FolkLite",
-    "language": "\u2014",
-    "name": "germanic-hwangho835/FolkLite",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:15:32Z",
-    "url": "https://github.com/germanic-hwangho835/FolkLite"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:15:06Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-06-10T12:14:44Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:14:34Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
