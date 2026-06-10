@@ -1,5 +1,77 @@
 [
   {
+    "description": "Drop-in proxy for OpenAI, Anthropic, and other LLM APIs. Logging, PII redaction, prompt versioning, and evals out of the",
+    "id": "grepture/proxy",
+    "language": "TypeScript",
+    "name": "grepture/proxy",
+    "stars": 5,
+    "updated_at": "2026-06-10T19:30:13Z",
+    "url": "https://github.com/grepture/proxy"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:29:59Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:22:34Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:21:25Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:20:12Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 4,
+    "updated_at": "2026-06-10T19:17:41Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 362,
+    "updated_at": "2026-06-10T19:16:19Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Warmth-aware load balancer and reverse proxy for self-hosted LLM inference \u2014 routes each request to the Ollama or vLLM b",
     "id": "mageshkrishna/loxy-router",
     "language": "Go",
@@ -22,8 +94,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49934,
-    "updated_at": "2026-06-10T19:11:05Z",
+    "stars": 49935,
+    "updated_at": "2026-06-10T19:28:25Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -49,36 +121,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28861,
-    "updated_at": "2026-06-10T19:01:44Z",
+    "stars": 28862,
+    "updated_at": "2026-06-10T19:17:14Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:56:56Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 362,
-    "updated_at": "2026-06-10T19:14:07Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -115,15 +160,6 @@
     "stars": 5651,
     "updated_at": "2026-06-10T19:00:19Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 4,
-    "updated_at": "2026-06-10T19:10:47Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19563,
-    "updated_at": "2026-06-10T18:17:17Z",
+    "updated_at": "2026-06-10T19:16:41Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T17:57:14Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-10T17:53:35Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Infrastructure-as-code for AI agent workflows",
-    "id": "hensu-project/hensu",
-    "language": "Java",
-    "name": "hensu-project/hensu",
-    "stars": 9,
-    "updated_at": "2026-06-10T17:51:28Z",
-    "url": "https://github.com/hensu-project/hensu"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-10T17:51:01Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-10T17:50:18Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
