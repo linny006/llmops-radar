@@ -1,12 +1,39 @@
 [
   {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:24:23Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26398,
+    "updated_at": "2026-06-10T06:24:24Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "A dynamic-workflow engine for any agent, any model: concurrent leaves, cost-aware routing, schema enforcement, crash-res",
+    "id": "Illuminfti/flow",
+    "language": "Python",
+    "name": "Illuminfti/flow",
     "stars": 1,
-    "updated_at": "2026-06-10T06:07:55Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
+    "updated_at": "2026-06-10T06:20:16Z",
+    "url": "https://github.com/Illuminfti/flow"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:15:57Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-10T06:06:46Z",
+    "updated_at": "2026-06-10T06:15:29Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-06-10T06:07:55Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-10T06:02:43Z",
+    "updated_at": "2026-06-10T06:27:42Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -207,15 +243,6 @@
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26398,
-    "updated_at": "2026-06-10T05:33:00Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
     "id": "pencaudal526/system-design-bible",
     "language": "\u2014",
@@ -229,7 +256,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49855,
+    "stars": 49858,
     "updated_at": "2026-06-10T05:31:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T05:16:42Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:16:02Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:16:02Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:15:48Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
   }
 ]
