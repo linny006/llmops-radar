@@ -1,5 +1,68 @@
 [
   {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 4,
+    "updated_at": "2026-06-10T20:58:35Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-06-10T20:54:49Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 362,
+    "updated_at": "2026-06-10T20:52:51Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49936,
+    "updated_at": "2026-06-10T20:52:29Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
+    "id": "Mindburn-Labs/helm-ai-kernel",
+    "language": "Go",
+    "name": "Mindburn-Labs/helm-ai-kernel",
+    "stars": 9,
+    "updated_at": "2026-06-10T20:57:10Z",
+    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
+  },
+  {
+    "description": "Isolated AI workload execution with job execution built in",
+    "id": "las7/TakoVM",
+    "language": "Python",
+    "name": "las7/TakoVM",
+    "stars": 54,
+    "updated_at": "2026-06-10T20:55:34Z",
+    "url": "https://github.com/las7/TakoVM"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T20:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
     "id": "dativo-io/talon",
     "language": "Go",
@@ -9,31 +72,13 @@
     "url": "https://github.com/dativo-io/talon"
   },
   {
-    "description": "Isolated AI workload execution with job execution built in",
-    "id": "las7/TakoVM",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "las7/TakoVM",
-    "stars": 54,
-    "updated_at": "2026-06-10T20:41:54Z",
-    "url": "https://github.com/las7/TakoVM"
-  },
-  {
-    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
-    "id": "Mindburn-Labs/helm-ai-kernel",
-    "language": "Go",
-    "name": "Mindburn-Labs/helm-ai-kernel",
-    "stars": 9,
-    "updated_at": "2026-06-10T20:42:03Z",
-    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T20:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "comet-ml/opik",
+    "stars": 19565,
+    "updated_at": "2026-06-10T20:35:30Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10088,
-    "updated_at": "2026-06-10T20:34:24Z",
+    "updated_at": "2026-06-10T20:46:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -90,15 +135,6 @@
     "url": "https://github.com/grepture/proxy"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19564,
-    "updated_at": "2026-06-10T20:35:30Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
@@ -113,17 +149,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5653,
-    "updated_at": "2026-06-10T20:20:08Z",
+    "updated_at": "2026-06-10T20:55:27Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 362,
-    "updated_at": "2026-06-10T20:34:35Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "A production-ready framework for composing AI agents from declarative TOML configuration, with MCP tool integration, RAG",
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "mezmo/aura",
     "stars": 81,
-    "updated_at": "2026-06-10T20:45:13Z",
+    "updated_at": "2026-06-10T20:52:37Z",
     "url": "https://github.com/mezmo/aura"
   },
   {
@@ -140,7 +167,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22086,
-    "updated_at": "2026-06-10T20:43:07Z",
+    "updated_at": "2026-06-10T20:52:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28864,
-    "updated_at": "2026-06-10T20:28:15Z",
+    "updated_at": "2026-06-10T20:54:37Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-06-10T19:49:29Z",
     "url": "https://github.com/ancilis/ancilis"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49936,
-    "updated_at": "2026-06-10T20:38:59Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T19:20:12Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 4,
-    "updated_at": "2026-06-10T19:17:41Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Warmth-aware load balancer and reverse proxy for self-hosted LLM inference \u2014 routes each request to the Ollama or vLLM b",
@@ -391,7 +400,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26411,
+    "stars": 26413,
     "updated_at": "2026-06-10T18:16:31Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T18:14:45Z",
     "url": "https://github.com/vitas/evidra-bench"
-  },
-  {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 3,
-    "updated_at": "2026-06-10T18:51:26Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   }
 ]
