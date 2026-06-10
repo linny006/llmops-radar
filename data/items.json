@@ -1,5 +1,32 @@
 [
   {
+    "description": "Isolated AI workload execution with job execution built in",
+    "id": "las7/TakoVM",
+    "language": "Python",
+    "name": "las7/TakoVM",
+    "stars": 52,
+    "updated_at": "2026-06-10T00:30:11Z",
+    "url": "https://github.com/las7/TakoVM"
+  },
+  {
+    "description": "Personal Agent OS for coding, creator workflows, mastery learning, memory, and safe automation",
+    "id": "luckyLo99/Cathay-Agent",
+    "language": "Python",
+    "name": "luckyLo99/Cathay-Agent",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:20:56Z",
+    "url": "https://github.com/luckyLo99/Cathay-Agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A token-efficiency meter + playbook for agentic coding: measure where your tokens and dollars go per stage, catch silent",
     "id": "Jott2121/agent-cost-attribution",
     "language": "Python",
@@ -7,6 +34,15 @@
     "stars": 0,
     "updated_at": "2026-06-10T00:15:06Z",
     "url": "https://github.com/Jott2121/agent-cost-attribution"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49819,
+    "updated_at": "2026-06-10T00:14:45Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -45,15 +81,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Isolated AI workload execution with job execution built in",
-    "id": "las7/TakoVM",
-    "language": "Python",
-    "name": "las7/TakoVM",
-    "stars": 52,
-    "updated_at": "2026-06-10T00:09:52Z",
-    "url": "https://github.com/las7/TakoVM"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -72,15 +99,6 @@
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T00:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -95,7 +113,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-09T23:55:51Z",
+    "updated_at": "2026-06-10T00:30:16Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -283,7 +301,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19537,
+    "stars": 19536,
     "updated_at": "2026-06-09T22:59:49Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -396,15 +414,6 @@
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49818,
-    "updated_at": "2026-06-10T00:14:45Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T22:41:38Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-09T22:41:07Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
