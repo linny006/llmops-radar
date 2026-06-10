@@ -1,11 +1,110 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28847,
+    "updated_at": "2026-06-10T12:57:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-10T12:56:37Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3298,
+    "updated_at": "2026-06-10T12:58:35Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2517,
+    "updated_at": "2026-06-10T12:55:38Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-10T12:54:20Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-10T12:54:08Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5641,
+    "updated_at": "2026-06-10T12:56:06Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sy",
+    "id": "pathwaycom/llm-app",
+    "language": "Jupyter Notebook",
+    "name": "pathwaycom/llm-app",
+    "stars": 59368,
+    "updated_at": "2026-06-10T12:49:56Z",
+    "url": "https://github.com/pathwaycom/llm-app"
+  },
+  {
+    "description": "Self-hosted AI reliability platform for RAG and agentic applications with observability, protection, evaluations, OpenTe",
+    "id": "glaborie/agentguard",
+    "language": "Python",
+    "name": "glaborie/agentguard",
+    "stars": 1,
+    "updated_at": "2026-06-10T12:49:53Z",
+    "url": "https://github.com/glaborie/agentguard"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-06-10T12:48:57Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T12:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 49904,
-    "updated_at": "2026-06-10T12:39:22Z",
+    "updated_at": "2026-06-10T12:46:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -41,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19556,
-    "updated_at": "2026-06-10T12:45:00Z",
+    "updated_at": "2026-06-10T12:52:50Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 31,
-    "updated_at": "2026-06-10T12:32:26Z",
+    "updated_at": "2026-06-10T12:59:23Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -61,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:31:42Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source runtime enforcement for AI agents. ",
@@ -88,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-10T12:28:28Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:27:55Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
@@ -135,21 +216,12 @@
     "url": "https://github.com/Prissieperoneal156/rig"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28846,
-    "updated_at": "2026-06-10T12:29:00Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Self-hosted enterprise AI workspace and governance platform",
     "id": "open-ace/open-ace",
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-10T12:24:23Z",
+    "updated_at": "2026-06-10T12:55:14Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:20:25Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-06-10T12:40:46Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
@@ -223,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:14:34Z",
     "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:14:15Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
@@ -295,6 +349,15 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:05:02Z",
     "url": "https://github.com/Impure-platen433/crabllm"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 16,
+    "updated_at": "2026-06-10T12:04:54Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T11:57:17Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-10T11:57:15Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-10T11:57:03Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-10T11:55:28Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-10T11:54:44Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Production-ready deploy template for LLM applications with token tracking, cost monitoring, rate limiting, streaming SSE",
-    "id": "luannamorim/deployer",
-    "language": "Python",
-    "name": "luannamorim/deployer",
-    "stars": 0,
-    "updated_at": "2026-06-10T11:53:58Z",
-    "url": "https://github.com/luannamorim/deployer"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2222,
-    "updated_at": "2026-06-10T11:53:54Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-10T11:50:57Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
   }
 ]
