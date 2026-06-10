@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "ancilis/ancilis",
     "stars": 4,
-    "updated_at": "2026-06-10T19:44:43Z",
+    "updated_at": "2026-06-10T19:49:29Z",
     "url": "https://github.com/ancilis/ancilis"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49936,
+    "updated_at": "2026-06-10T19:48:27Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:45:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -52,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T19:32:08Z",
     "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49935,
-    "updated_at": "2026-06-10T19:42:42Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Drop-in proxy for OpenAI, Anthropic, and other LLM APIs. Logging, PII redaction, prompt versioning, and evals out of the",
@@ -122,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28861,
-    "updated_at": "2026-06-10T19:17:14Z",
+    "updated_at": "2026-06-10T19:47:42Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -171,6 +171,15 @@
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5652,
+    "updated_at": "2026-06-10T19:00:19Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -196,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T18:42:58Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5651,
-    "updated_at": "2026-06-10T19:00:19Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -248,7 +248,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 11,
-    "updated_at": "2026-06-10T18:33:50Z",
+    "updated_at": "2026-06-10T19:53:55Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10088,
-    "updated_at": "2026-06-10T19:37:56Z",
+    "updated_at": "2026-06-10T19:50:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19563,
-    "updated_at": "2026-06-10T19:16:41Z",
+    "updated_at": "2026-06-10T19:55:59Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
