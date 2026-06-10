@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-10 19:57 UTC
+> ⏰ Last updated: 2026-06-10 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ancilis/ancilis](https://github.com/ancilis/ancilis) | 4 | Python | 2026-06-10 | Agents change faster than audits. Ancilis discovers what agents can do, classifies the data they touch, activates the ri |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49936 | Python | 2026-06-10 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [ancilis/ancilis](https://github.com/ancilis/ancilis) | 4 | Python | 2026-06-10 | Agents change faster than audits. Ancilis discovers what agents can do, classifies the data they touch, activates the ri |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49936 | Python | 2026-06-10 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 4 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-10 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 5 | [Bobcatsfan33/AI-Security-Platform](https://github.com/Bobcatsfan33/AI-Security-Platform) | 0 | Python | 2026-06-10 | Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass |
 | 6 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-10 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
