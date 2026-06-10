@@ -1,12 +1,102 @@
 [
   {
+    "description": "Risk-sensitive LLM output review and trust-report generation system.",
+    "id": "benben951/agent-trust-lab",
+    "language": "Python",
+    "name": "benben951/agent-trust-lab",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:59:44Z",
+    "url": "https://github.com/benben951/agent-trust-lab"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19558,
+    "updated_at": "2026-06-10T14:00:21Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2223,
+    "updated_at": "2026-06-10T13:56:44Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:55:59Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-10T13:55:48Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28848,
+    "updated_at": "2026-06-10T13:55:34Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22080,
-    "updated_at": "2026-06-10T13:43:13Z",
+    "stars": 22081,
+    "updated_at": "2026-06-10T13:51:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
+    "id": "Mindburn-Labs/helm-ai-kernel",
+    "language": "Go",
+    "name": "Mindburn-Labs/helm-ai-kernel",
+    "stars": 9,
+    "updated_at": "2026-06-10T13:47:16Z",
+    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
+  },
+  {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4188,
+    "updated_at": "2026-06-10T13:51:51Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-10T14:00:15Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -14,7 +104,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5641,
-    "updated_at": "2026-06-10T13:43:46Z",
+    "updated_at": "2026-06-10T13:55:40Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -27,21 +117,12 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2223,
-    "updated_at": "2026-06-10T13:43:58Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 362,
-    "updated_at": "2026-06-10T13:38:35Z",
+    "updated_at": "2026-06-10T13:46:10Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28848,
-    "updated_at": "2026-06-10T13:34:39Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "A token-efficiency meter + playbook for agentic coding: measure where your tokens and dollars go per stage, catch silent",
     "id": "Jott2121/agent-cost-attribution",
     "language": "Python",
@@ -70,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T13:34:15Z",
     "url": "https://github.com/Jott2121/agent-cost-attribution"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "MCP server to gate AI-agent work: fail-closed checks + tamper-evident honest receipts. Fleet Mode as a tool.",
@@ -90,24 +153,6 @@
     "url": "https://github.com/Jott2121/agent-gate"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:27:57Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-10T13:41:01Z",
-    "url": "https://github.com/open-ace/open-ace"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -115,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-06-10T13:20:52Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Risk-sensitive LLM output review and trust-report generation system.",
-    "id": "benben951/agent-trust-lab",
-    "language": "Python",
-    "name": "benben951/agent-trust-lab",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:20:07Z",
-    "url": "https://github.com/benben951/agent-trust-lab"
   },
   {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3298,
-    "updated_at": "2026-06-10T13:37:57Z",
+    "updated_at": "2026-06-10T13:57:46Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26406,
-    "updated_at": "2026-06-10T13:14:24Z",
+    "updated_at": "2026-06-10T14:00:13Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 54,
     "updated_at": "2026-06-10T13:32:47Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19556,
-    "updated_at": "2026-06-10T13:43:02Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "glaborie/agentguard",
     "stars": 1,
-    "updated_at": "2026-06-10T13:41:31Z",
+    "updated_at": "2026-06-10T13:48:51Z",
     "url": "https://github.com/glaborie/agentguard"
   },
   {
@@ -229,7 +256,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49906,
+    "stars": 49907,
     "updated_at": "2026-06-10T12:46:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:33:02Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 31,
-    "updated_at": "2026-06-10T13:40:34Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T12:05:02Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:05:02Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 16,
-    "updated_at": "2026-06-10T12:04:54Z",
-    "url": "https://github.com/byte5ai/omadia"
   }
 ]
