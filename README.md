@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-10 15:45 UTC
+> ⏰ Last updated: 2026-06-10 16:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [richardpapiona9/llm](https://github.com/richardpapiona9/llm) | 0 | JavaScript | 2026-06-10 | 🤖 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver |
-| 2 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19560 | Python | 2026-06-10 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28852 | TypeScript | 2026-06-10 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 4 | [paarth6011/loupe](https://github.com/paarth6011/loupe) | 0 | Python | 2026-06-10 | 🔎 Open-source observability for LLM apps — track latency, tokens, and cost per call, with explainable alerts and plain-E |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26409 | Python | 2026-06-10 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 7 | [PolyHelper/polyhelper](https://github.com/PolyHelper/polyhelper) | 4 | JavaScript | 2026-06-10 | PolyHelper V4 — Cognitive AI Exoskeleton.    Multi-AI orchestration platform for safer human decisions |
-| 8 | [ghaithmhmm/LLM-Training](https://github.com/ghaithmhmm/LLM-Training) | 0 | Python | 2026-06-10 |  |
-| 9 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-10 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 10 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | 4188 | TypeScript | 2026-06-10 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one  |
-| 11 | [alexzhu0/agent-ready-skills](https://github.com/alexzhu0/agent-ready-skills) | 0 | Python | 2026-06-10 | Ten practical AI-agent skills for turning messy work into clear context, evals, reviews, and launch-ready artifacts. |
-| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10086 | Python | 2026-06-10 | AI Observability & Evaluation |
-| 13 | [aekta113/ai-sre](https://github.com/aekta113/ai-sre) | 1 | Python | 2026-06-10 |  |
-| 14 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5647 | Go | 2026-06-10 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 1 | [alexzhu0/agent-ready-skills](https://github.com/alexzhu0/agent-ready-skills) | 0 | Python | 2026-06-10 | Ten practical AI-agent skills for turning messy work into clear context, evals, reviews, and launch-ready artifacts. |
+| 2 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26409 | Python | 2026-06-10 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [richardpapiona9/llm](https://github.com/richardpapiona9/llm) | 0 | JavaScript | 2026-06-10 | 🤖 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver |
+| 5 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19560 | Python | 2026-06-10 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 6 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5648 | Go | 2026-06-10 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28852 | TypeScript | 2026-06-10 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 8 | [paarth6011/loupe](https://github.com/paarth6011/loupe) | 0 | Python | 2026-06-10 | 🔎 Open-source observability for LLM apps — track latency, tokens, and cost per call, with explainable alerts and plain-E |
+| 9 | [PolyHelper/polyhelper](https://github.com/PolyHelper/polyhelper) | 4 | JavaScript | 2026-06-10 | PolyHelper V4 — Cognitive AI Exoskeleton.    Multi-AI orchestration platform for safer human decisions |
+| 10 | [ghaithmhmm/LLM-Training](https://github.com/ghaithmhmm/LLM-Training) | 0 | Python | 2026-06-10 |  |
+| 11 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-10 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 12 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | 4188 | TypeScript | 2026-06-10 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one  |
+| 13 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10086 | Python | 2026-06-10 | AI Observability & Evaluation |
+| 14 | [aekta113/ai-sre](https://github.com/aekta113/ai-sre) | 1 | Python | 2026-06-10 |  |
 | 15 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-06-10 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
 | 16 | [Jott2121/agent-gate](https://github.com/Jott2121/agent-gate) | 0 | Python | 2026-06-10 | MCP server that adds a fail-closed quality gate and hash-chained receipt ledger to any AI agent workflow. |
 | 17 | [iblai/os](https://github.com/iblai/os) | 11 | TypeScript | 2026-06-10 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
