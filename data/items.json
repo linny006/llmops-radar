@@ -1,12 +1,39 @@
 [
   {
-    "description": "MCP server to gate AI-agent work: fail-closed checks + tamper-evident honest receipts. Fleet Mode as a tool.",
-    "id": "Jott2121/agent-gate",
-    "language": "Python",
-    "name": "Jott2121/agent-gate",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:29:37Z",
-    "url": "https://github.com/Jott2121/agent-gate"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22080,
+    "updated_at": "2026-06-10T13:43:13Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5641,
+    "updated_at": "2026-06-10T13:43:46Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 11,
+    "updated_at": "2026-06-10T13:39:40Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2223,
+    "updated_at": "2026-06-10T13:43:58Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -14,8 +41,53 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 362,
-    "updated_at": "2026-06-10T13:28:43Z",
+    "updated_at": "2026-06-10T13:38:35Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:36:45Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28848,
+    "updated_at": "2026-06-10T13:34:39Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A token-efficiency meter + playbook for agentic coding: measure where your tokens and dollars go per stage, catch silent",
+    "id": "Jott2121/agent-cost-attribution",
+    "language": "Python",
+    "name": "Jott2121/agent-cost-attribution",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:34:15Z",
+    "url": "https://github.com/Jott2121/agent-cost-attribution"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "MCP server to gate AI-agent work: fail-closed checks + tamper-evident honest receipts. Fleet Mode as a tool.",
+    "id": "Jott2121/agent-gate",
+    "language": "Python",
+    "name": "Jott2121/agent-gate",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:29:37Z",
+    "url": "https://github.com/Jott2121/agent-gate"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -27,21 +99,12 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2223,
-    "updated_at": "2026-06-10T13:28:57Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Self-hosted enterprise AI workspace and governance platform",
     "id": "open-ace/open-ace",
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-10T13:25:50Z",
+    "updated_at": "2026-06-10T13:41:01Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -63,33 +126,6 @@
     "url": "https://github.com/benben951/agent-trust-lab"
   },
   {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 11,
-    "updated_at": "2026-06-10T13:30:12Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22080,
-    "updated_at": "2026-06-10T13:17:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28847,
-    "updated_at": "2026-06-10T13:28:05Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
@@ -99,21 +135,12 @@
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:15:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3298,
-    "updated_at": "2026-06-10T13:17:16Z",
+    "updated_at": "2026-06-10T13:37:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 54,
-    "updated_at": "2026-06-10T13:04:51Z",
+    "updated_at": "2026-06-10T13:32:47Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19556,
-    "updated_at": "2026-06-10T13:29:00Z",
+    "updated_at": "2026-06-10T13:43:02Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -180,20 +207,11 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5641,
-    "updated_at": "2026-06-10T13:07:45Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sy",
     "id": "pathwaycom/llm-app",
     "language": "Jupyter Notebook",
     "name": "pathwaycom/llm-app",
-    "stars": 59368,
+    "stars": 59366,
     "updated_at": "2026-06-10T12:49:56Z",
     "url": "https://github.com/pathwaycom/llm-app"
   },
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "glaborie/agentguard",
     "stars": 1,
-    "updated_at": "2026-06-10T12:49:53Z",
+    "updated_at": "2026-06-10T13:41:31Z",
     "url": "https://github.com/glaborie/agentguard"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 31,
-    "updated_at": "2026-06-10T12:59:23Z",
+    "updated_at": "2026-06-10T13:40:34Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 16,
     "updated_at": "2026-06-10T12:04:54Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:04:18Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-10T12:03:07Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
