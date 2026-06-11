@@ -1,5 +1,77 @@
 [
   {
+    "description": "Self-evolving cognitive AI exoskeleton. 10+ frontier models, 245 consensus methods, governed autonomous agents. Automoti",
+    "id": "PolyHelper/polyhelper",
+    "language": "JavaScript",
+    "name": "PolyHelper/polyhelper",
+    "stars": 9,
+    "updated_at": "2026-06-11T05:29:53Z",
+    "url": "https://github.com/PolyHelper/polyhelper"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-11T05:27:25Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "",
+    "id": "aekta113/ai-sre",
+    "language": "Python",
+    "name": "aekta113/ai-sre",
+    "stars": 1,
+    "updated_at": "2026-06-11T05:27:19Z",
+    "url": "https://github.com/aekta113/ai-sre"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5662,
+    "updated_at": "2026-06-11T05:21:48Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49975,
+    "updated_at": "2026-06-11T05:19:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 5,
+    "updated_at": "2026-06-11T05:15:39Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-11T05:15:36Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T05:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -9,13 +81,13 @@
     "url": "https://github.com/liam8421/faster-llm"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5662,
-    "updated_at": "2026-06-11T05:13:50Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "Reusable Codex skill for vLLM-backed code review, patch generation, verification, and PR preparation",
+    "id": "spyroot/vllm-skill",
+    "language": "Python",
+    "name": "spyroot/vllm-skill",
+    "stars": 0,
+    "updated_at": "2026-06-11T05:11:39Z",
+    "url": "https://github.com/spyroot/vllm-skill"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -25,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T05:07:17Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49972,
-    "updated_at": "2026-06-11T05:03:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T05:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -252,15 +306,6 @@
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 31,
-    "updated_at": "2026-06-11T05:02:18Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
     "id": "intentee/paddler",
     "language": "Rust",
@@ -274,7 +319,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28884,
+    "stars": 28885,
     "updated_at": "2026-06-11T04:16:17Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-11T05:12:03Z",
+    "updated_at": "2026-06-11T05:29:13Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -333,15 +378,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Self-evolving cognitive AI exoskeleton. 10+ frontier models, 245 consensus methods, governed autonomous agents. Automoti",
-    "id": "PolyHelper/polyhelper",
-    "language": "JavaScript",
-    "name": "PolyHelper/polyhelper",
-    "stars": 9,
-    "updated_at": "2026-06-11T03:32:14Z",
-    "url": "https://github.com/PolyHelper/polyhelper"
-  },
-  {
     "description": "Open-source observability for LLM apps \u2014 track latency, tokens & cost with explainable alerts and a public status page. ",
     "id": "paarth6011/loupe",
     "language": "Python",
@@ -365,7 +401,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1215,
-    "updated_at": "2026-06-11T04:19:33Z",
+    "updated_at": "2026-06-11T05:18:12Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T02:54:37Z",
     "url": "https://github.com/shubhampandey-11x/FinSage-LLMOps-FinTech-Risk-Analyzer"
-  },
-  {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 42,
-    "updated_at": "2026-06-11T02:53:00Z",
-    "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "TypeScript",
-    "name": "dataelement/bisheng",
-    "stars": 11447,
-    "updated_at": "2026-06-11T04:00:46Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "A framework for governing how organisations manage AI context. Vendor-neutral.",
-    "id": "kannanokannan/ContextOps",
-    "language": "\u2014",
-    "name": "kannanokannan/ContextOps",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:34:51Z",
-    "url": "https://github.com/kannanokannan/ContextOps"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2225,
-    "updated_at": "2026-06-11T02:07:59Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
