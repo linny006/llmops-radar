@@ -1,11 +1,65 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28913,
+    "updated_at": "2026-06-11T15:44:21Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
+    "id": "langfuse/langfuse-workshop",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-workshop",
+    "stars": 11,
+    "updated_at": "2026-06-11T15:43:50Z",
+    "url": "https://github.com/langfuse/langfuse-workshop"
+  },
+  {
+    "description": "AI Stack roadmap and public course artifacts by XiaoShuai AI Lab",
+    "id": "XiaoShuai-AI-Lab/ai-stack-roadmap",
+    "language": "Shell",
+    "name": "XiaoShuai-AI-Lab/ai-stack-roadmap",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:34:32Z",
+    "url": "https://github.com/XiaoShuai-AI-Lab/ai-stack-roadmap"
+  },
+  {
+    "description": "Self-evolving cognitive AI exoskeleton. 10+ frontier models, 245 consensus methods, governed autonomous agents. Automoti",
+    "id": "PolyHelper/polyhelper",
+    "language": "JavaScript",
+    "name": "PolyHelper/polyhelper",
+    "stars": 12,
+    "updated_at": "2026-06-11T15:31:43Z",
+    "url": "https://github.com/PolyHelper/polyhelper"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22110,
+    "updated_at": "2026-06-11T15:35:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
     "id": "bosun-ai/swiftide",
     "language": "Rust",
     "name": "bosun-ai/swiftide",
     "stars": 707,
-    "updated_at": "2026-06-11T15:26:11Z",
+    "updated_at": "2026-06-11T15:33:43Z",
     "url": "https://github.com/bosun-ai/swiftide"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 362,
-    "updated_at": "2026-06-11T15:25:32Z",
+    "updated_at": "2026-06-11T15:33:35Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -27,22 +81,13 @@
     "url": "https://github.com/Netis/heron"
   },
   {
-    "description": "Self-evolving cognitive AI exoskeleton. 10+ frontier models, 245 consensus methods, governed autonomous agents. Automoti",
-    "id": "PolyHelper/polyhelper",
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
     "language": "JavaScript",
-    "name": "PolyHelper/polyhelper",
-    "stars": 12,
-    "updated_at": "2026-06-11T15:18:49Z",
-    "url": "https://github.com/PolyHelper/polyhelper"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
+    "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-11T15:15:46Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-06-11T15:18:57Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
@@ -52,15 +97,6 @@
     "stars": 83,
     "updated_at": "2026-06-11T15:13:24Z",
     "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28913,
-    "updated_at": "2026-06-11T15:29:59Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Risk-sensitive LLM output review and trust-report generation system.",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T15:05:38Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:18:57Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -167,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5676,
-    "updated_at": "2026-06-11T15:21:07Z",
+    "updated_at": "2026-06-11T15:41:11Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -337,8 +364,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50060,
-    "updated_at": "2026-06-11T14:29:05Z",
+    "stars": 50062,
+    "updated_at": "2026-06-11T15:39:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -410,17 +437,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 4,
-    "updated_at": "2026-06-11T15:21:02Z",
+    "updated_at": "2026-06-11T15:41:30Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22110,
-    "updated_at": "2026-06-11T15:28:40Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:18:21Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:15:59Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:15:17Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
