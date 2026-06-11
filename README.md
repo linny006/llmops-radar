@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-11 03:37 UTC
+> ⏰ Last updated: 2026-06-11 03:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-11 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 2 | [PolyHelper/polyhelper](https://github.com/PolyHelper/polyhelper) | 9 | JavaScript | 2026-06-11 | Self-evolving cognitive AI exoskeleton. 10+ frontier models, 245 consensus methods, governed autonomous agents. Automoti |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49966 | Python | 2026-06-11 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-11 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 3 | [PolyHelper/polyhelper](https://github.com/PolyHelper/polyhelper) | 9 | JavaScript | 2026-06-11 | Self-evolving cognitive AI exoskeleton. 10+ frontier models, 245 consensus methods, governed autonomous agents. Automoti |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 49967 | Python | 2026-06-11 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 5 | [paarth6011/loupe](https://github.com/paarth6011/loupe) | 0 | Python | 2026-06-11 | Open-source observability for LLM apps — track latency, tokens & cost with explainable alerts and a public status page.  |
 | 6 | [chyinan/AegisRAG](https://github.com/chyinan/AegisRAG) | 2 | Python | 2026-06-11 | AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit |
 | 7 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-06-11 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
@@ -85,7 +85,7 @@ expired items removed — so you can rely on what you see being current.
 | 41 | [Healthful-article791/rag-systems-production](https://github.com/Healthful-article791/rag-systems-production) | 1 | — | 2026-06-11 | Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo |
 | 42 | [Orlyoxidized462/py-prompt-versioner](https://github.com/Orlyoxidized462/py-prompt-versioner) | 1 | Python | 2026-06-11 | Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL |
 | 43 | [pencaudal526/system-design-bible](https://github.com/pencaudal526/system-design-bible) | 2 | — | 2026-06-11 | Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer |
-| 44 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10089 | Python | 2026-06-11 | AI Observability & Evaluation |
+| 44 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10090 | Python | 2026-06-11 | AI Observability & Evaluation |
 | 45 | [Impure-platen433/crabllm](https://github.com/Impure-platen433/crabllm) | 0 | Rust | 2026-06-11 | Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway |
 | 46 | [recordrnase224/brix-protocol](https://github.com/recordrnase224/brix-protocol) | 1 | Python | 2026-06-11 | Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ |
 | 47 | [Ghostfactory-art/spanchain](https://github.com/Ghostfactory-art/spanchain) | 1 | Elixir | 2026-06-11 | Cryptographic, tamper-evident audit trails for production AI agents - SHA-256 hash-chain observability. Built for EU AI  |
