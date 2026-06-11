@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-11 10:00 UTC
+> ⏰ Last updated: 2026-06-11 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 362 | Python | 2026-06-11 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
-| 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-11 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 3 | [8pig/llm-ops](https://github.com/8pig/llm-ops) | 7 | Python | 2026-06-11 | 学习大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）  丐版dify. 立即上线你的agent 应用. |
-| 4 | [paarth6011/loupe](https://github.com/paarth6011/loupe) | 0 | Python | 2026-06-11 | Open-source observability for LLM apps — track latency, tokens & cost with explainable alerts and a public status page.  |
-| 5 | [Netis/heron](https://github.com/Netis/heron) | 28 | Rust | 2026-06-11 | Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep |
-| 6 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28905 | TypeScript | 2026-06-11 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 7 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3299 | TypeScript | 2026-06-11 | The platform for LLM evaluations and AI agent testing |
-| 8 | [Mindburn-Labs/helm-ai-kernel](https://github.com/Mindburn-Labs/helm-ai-kernel) | 9 | Go | 2026-06-11 | Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 10 | [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) | 438 | Python | 2026-06-11 | From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM  |
-| 11 | [open-ace/open-ace](https://github.com/open-ace/open-ace) | 4 | Python | 2026-06-11 | Self-hosted enterprise AI workspace and governance platform |
-| 12 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5509 | Go | 2026-06-11 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
-| 13 | [outskirtslabs/llx](https://github.com/outskirtslabs/llx) | 15 | Clojure | 2026-06-11 | Unified LLM API and agent runtime for Clojure, ClojureScript (and soon Clojure Dart) |
-| 14 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26421 | Python | 2026-06-11 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 15 | [zenml-io/zenml](https://github.com/zenml-io/zenml) | 5439 | Python | 2026-06-11 | ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io. |
-| 16 | [luckyLo99/Cathay-Agent](https://github.com/luckyLo99/Cathay-Agent) | 0 | Python | 2026-06-11 | Personal Agent OS for coding, creator workflows, mastery learning, memory, and safe automation |
-| 17 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19573 | Python | 2026-06-11 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 1 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-11 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 2 | [Netis/heron](https://github.com/Netis/heron) | 28 | Rust | 2026-06-11 | Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep |
+| 3 | [Mindburn-Labs/helm-ai-kernel](https://github.com/Mindburn-Labs/helm-ai-kernel) | 9 | Go | 2026-06-11 | Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 362 | Python | 2026-06-11 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
+| 6 | [8pig/llm-ops](https://github.com/8pig/llm-ops) | 7 | Python | 2026-06-11 | 学习大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）  丐版dify. 立即上线你的agent 应用. |
+| 7 | [paarth6011/loupe](https://github.com/paarth6011/loupe) | 0 | Python | 2026-06-11 | Open-source observability for LLM apps — track latency, tokens & cost with explainable alerts and a public status page.  |
+| 8 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19574 | Python | 2026-06-11 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28905 | TypeScript | 2026-06-11 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 10 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3299 | TypeScript | 2026-06-11 | The platform for LLM evaluations and AI agent testing |
+| 11 | [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) | 438 | Python | 2026-06-11 | From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM  |
+| 12 | [open-ace/open-ace](https://github.com/open-ace/open-ace) | 4 | Python | 2026-06-11 | Self-hosted enterprise AI workspace and governance platform |
+| 13 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5509 | Go | 2026-06-11 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
+| 14 | [outskirtslabs/llx](https://github.com/outskirtslabs/llx) | 15 | Clojure | 2026-06-11 | Unified LLM API and agent runtime for Clojure, ClojureScript (and soon Clojure Dart) |
+| 15 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26421 | Python | 2026-06-11 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 16 | [zenml-io/zenml](https://github.com/zenml-io/zenml) | 5439 | Python | 2026-06-11 | ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io. |
+| 17 | [luckyLo99/Cathay-Agent](https://github.com/luckyLo99/Cathay-Agent) | 0 | Python | 2026-06-11 | Personal Agent OS for coding, creator workflows, mastery learning, memory, and safe automation |
 | 18 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2227 | C++ | 2026-06-11 | Community maintained hardware plugin for vLLM on Ascend |
 | 19 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-11 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
 | 20 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5668 | Go | 2026-06-11 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
