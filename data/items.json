@@ -1,12 +1,66 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50031,
+    "updated_at": "2026-06-11T10:28:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-11T10:30:09Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
+    "description": "See what your AI agents do, whether it's worth it, and what it costs - a manager-readable report + local dashboard from ",
+    "id": "Idank96/agent-panorama",
+    "language": "Python",
+    "name": "Idank96/agent-panorama",
+    "stars": 0,
+    "updated_at": "2026-06-11T10:21:29Z",
+    "url": "https://github.com/Idank96/agent-panorama"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-11T10:21:24Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 13,
+    "updated_at": "2026-06-11T10:20:11Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-11T10:13:24Z",
+    "updated_at": "2026-06-11T10:15:34Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T10:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
@@ -23,17 +77,8 @@
     "language": "Go",
     "name": "Mindburn-Labs/helm-ai-kernel",
     "stars": 9,
-    "updated_at": "2026-06-11T10:07:20Z",
+    "updated_at": "2026-06-11T10:28:00Z",
     "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19574,
-    "updated_at": "2026-06-11T09:50:18Z",
+    "updated_at": "2026-06-11T10:26:40Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -99,20 +144,11 @@
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-11T09:26:37Z",
-    "url": "https://github.com/open-ace/open-ace"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
     "name": "coze-dev/coze-loop",
-    "stars": 5509,
+    "stars": 5510,
     "updated_at": "2026-06-11T09:14:44Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
@@ -130,7 +166,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26421,
+    "stars": 26422,
     "updated_at": "2026-06-11T09:10:06Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -176,7 +212,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5668,
-    "updated_at": "2026-06-11T09:55:02Z",
+    "updated_at": "2026-06-11T10:24:23Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -207,15 +243,6 @@
     "url": "https://github.com/lisn0/tidal"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50030,
-    "updated_at": "2026-06-11T10:10:53Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
     "id": "ictseoyoungmin/HADARA",
     "language": "TypeScript",
@@ -239,7 +266,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1215,
-    "updated_at": "2026-06-11T09:58:15Z",
+    "updated_at": "2026-06-11T10:29:49Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T08:21:38Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "See what your AI agents do, whether it's worth it, and what it costs - a manager-readable report + local dashboard from ",
-    "id": "Idank96/agent-panorama",
-    "language": "Python",
-    "name": "Idank96/agent-panorama",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:19:34Z",
-    "url": "https://github.com/Idank96/agent-panorama"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11450,
-    "updated_at": "2026-06-11T09:58:13Z",
+    "updated_at": "2026-06-11T10:30:10Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:45:30Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-06-11T07:58:55Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
   }
 ]
