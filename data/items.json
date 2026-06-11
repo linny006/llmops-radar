@@ -1,11 +1,20 @@
 [
   {
+    "description": "The unified, open-source LLM + MCP gateway. One Rust binary, embedded dashboard, exact cost tracking, agent-first.",
+    "id": "OximyHQ/gateway",
+    "language": "Rust",
+    "name": "OximyHQ/gateway",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:42:12Z",
+    "url": "https://github.com/OximyHQ/gateway"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10102,
-    "updated_at": "2026-06-11T22:28:16Z",
+    "updated_at": "2026-06-11T22:44:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "Keven1894/AgentLoom",
     "stars": 5,
-    "updated_at": "2026-06-11T22:21:14Z",
+    "updated_at": "2026-06-11T22:39:56Z",
     "url": "https://github.com/Keven1894/AgentLoom"
+  },
+  {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:39:39Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 4,
+    "updated_at": "2026-06-11T22:31:39Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -27,21 +63,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T22:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
     "stars": 4,
-    "updated_at": "2026-06-11T22:27:29Z",
+    "updated_at": "2026-06-11T22:42:52Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
@@ -72,21 +99,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The unified, open-source LLM + MCP gateway. One Rust binary, embedded dashboard, exact cost tracking, agent-first.",
-    "id": "OximyHQ/gateway",
-    "language": "Rust",
-    "name": "OximyHQ/gateway",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:59:49Z",
-    "url": "https://github.com/OximyHQ/gateway"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22123,
-    "updated_at": "2026-06-11T21:46:59Z",
+    "updated_at": "2026-06-11T22:34:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -342,15 +360,6 @@
     "url": "https://github.com/Impure-platen433/crabllm"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 4,
-    "updated_at": "2026-06-11T22:14:32Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
     "id": "Citrous-districtline59/agent-trace",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T20:55:01Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-11T20:54:51Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
