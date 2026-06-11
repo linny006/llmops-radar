@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-11 21:34 UTC
+> ⏰ Last updated: 2026-06-11 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,7 +44,7 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
 | 2 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-11 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50080 | Python | 2026-06-11 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50082 | Python | 2026-06-11 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 4 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-11 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
 | 5 | [axon011/llmops-dashboard](https://github.com/axon011/llmops-dashboard) | 0 | TypeScript | 2026-06-11 | LLMOps observability dashboard — Langfuse tracing middleware + FastAPI backend + React/TypeScript frontend for real-time |
 | 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22122 | TypeScript | 2026-06-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
