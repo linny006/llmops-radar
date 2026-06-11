@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10099,
+    "updated_at": "2026-06-11T16:35:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:34:47Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1019,
+    "updated_at": "2026-06-11T16:35:34Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
     "description": "Detect when Claude silently falls back from Fable 5 to Opus 4.8, log it to a local tamper-evident ledger, and keep your ",
     "id": "pinalmdave/Switchyard",
     "language": "Python",
     "name": "pinalmdave/Switchyard",
     "stars": 1,
-    "updated_at": "2026-06-11T16:27:56Z",
+    "updated_at": "2026-06-11T16:33:25Z",
     "url": "https://github.com/pinalmdave/Switchyard"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-06-11T16:33:10Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "A framework with a strict protocol core for governed, stateful AI work.",
+    "id": "maridlabsai/jini",
+    "language": "Go",
+    "name": "maridlabsai/jini",
+    "stars": 1,
+    "updated_at": "2026-06-11T16:31:25Z",
+    "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:30:43Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -22,18 +76,9 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5676,
+    "stars": 5677,
     "updated_at": "2026-06-11T16:26:47Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:22:13Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -58,7 +103,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22112,
+    "stars": 22113,
     "updated_at": "2026-06-11T16:18:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -72,21 +117,12 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:15:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "End-to-end Dynatrace observability for agentic AI workloads - services, agents, tools, prompts, models, topology, FinOps",
     "id": "dberanjr/AIObservability3.0",
     "language": "TypeScript",
     "name": "dberanjr/AIObservability3.0",
     "stars": 0,
-    "updated_at": "2026-06-11T16:12:13Z",
+    "updated_at": "2026-06-11T16:34:49Z",
     "url": "https://github.com/dberanjr/AIObservability3.0"
   },
   {
@@ -104,7 +140,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28915,
-    "updated_at": "2026-06-11T16:30:35Z",
+    "updated_at": "2026-06-11T16:35:24Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T15:10:33Z",
     "url": "https://github.com/iamalimaybe/requirements-intelligence-assistant"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10098,
-    "updated_at": "2026-06-11T15:08:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-11T14:26:39Z",
     "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:25:47Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:25:45Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:25:22Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
