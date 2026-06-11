@@ -1,5 +1,95 @@
 [
   {
+    "description": "Risk-sensitive LLM output review and trust-report generation system.",
+    "id": "benben951/agent-trust-lab",
+    "language": "Python",
+    "name": "benben951/agent-trust-lab",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:44:16Z",
+    "url": "https://github.com/benben951/agent-trust-lab"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7583,
+    "updated_at": "2026-06-11T04:41:08Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-06-11T04:40:29Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 137 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 1,
+    "updated_at": "2026-06-11T04:40:02Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26415,
+    "updated_at": "2026-06-11T04:44:46Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
+    "id": "hwdsl2/docker-litellm",
+    "language": "Shell",
+    "name": "hwdsl2/docker-litellm",
+    "stars": 8,
+    "updated_at": "2026-06-11T04:35:57Z",
+    "url": "https://github.com/hwdsl2/docker-litellm"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 5,
+    "updated_at": "2026-06-11T04:35:54Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-06-11T04:31:49Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49968,
+    "updated_at": "2026-06-11T04:44:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
     "id": "tenemos/langwatch",
     "language": "TypeScript",
@@ -9,21 +99,12 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49968,
-    "updated_at": "2026-06-11T04:26:38Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 92,
-    "updated_at": "2026-06-11T04:25:31Z",
+    "updated_at": "2026-06-11T04:39:23Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 31,
-    "updated_at": "2026-06-11T04:25:28Z",
+    "updated_at": "2026-06-11T04:38:58Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -45,31 +126,13 @@
     "url": "https://github.com/intentee/paddler"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T04:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted enterprise AI workspace and governance platform",
     "id": "open-ace/open-ace",
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-11T04:19:51Z",
+    "updated_at": "2026-06-11T04:40:42Z",
     "url": "https://github.com/open-ace/open-ace"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 137 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 1,
-    "updated_at": "2026-06-11T04:12:27Z",
-    "url": "https://github.com/bj-qizhi/trigix"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -88,15 +151,6 @@
     "stars": 28,
     "updated_at": "2026-06-11T04:20:04Z",
     "url": "https://github.com/Netis/heron"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26415,
-    "updated_at": "2026-06-11T04:15:43Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10090,
-    "updated_at": "2026-06-11T04:20:23Z",
+    "updated_at": "2026-06-11T04:31:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-06-11T04:23:32Z",
+    "updated_at": "2026-06-11T04:41:14Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T01:14:58Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:14:44Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:13:46Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
-    "id": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "language": "Python",
-    "name": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:11:17Z",
-    "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:11:15Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:04:06Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-11T01:01:56Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
   }
 ]
