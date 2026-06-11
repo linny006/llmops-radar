@@ -1,5 +1,95 @@
 [
   {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1019,
+    "updated_at": "2026-06-11T17:12:39Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "End-to-end Dynatrace observability for agentic AI workloads - services, agents, tools, prompts, models, topology, FinOps",
+    "id": "dberanjr/AIObservability3.0",
+    "language": "TypeScript",
+    "name": "dberanjr/AIObservability3.0",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:12:01Z",
+    "url": "https://github.com/dberanjr/AIObservability3.0"
+  },
+  {
+    "description": "A reactive runtime for building durable AI agents",
+    "id": "ThousandBirdsInc/chidori",
+    "language": "Rust",
+    "name": "ThousandBirdsInc/chidori",
+    "stars": 1349,
+    "updated_at": "2026-06-11T17:09:44Z",
+    "url": "https://github.com/ThousandBirdsInc/chidori"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 83,
+    "updated_at": "2026-06-11T17:09:35Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19577,
+    "updated_at": "2026-06-11T17:09:15Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28918,
+    "updated_at": "2026-06-11T17:08:03Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
+    "id": "mwigge/rs-llmctl",
+    "language": "Rust",
+    "name": "mwigge/rs-llmctl",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:08:01Z",
+    "url": "https://github.com/mwigge/rs-llmctl"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10100,
+    "updated_at": "2026-06-11T17:03:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:00:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50073,
+    "updated_at": "2026-06-11T17:13:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
     "id": "SynaLinks/synalinks",
     "language": "Python",
@@ -45,15 +135,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50073,
-    "updated_at": "2026-06-11T17:00:26Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
     "id": "dativo-io/talon",
     "language": "Go",
@@ -72,15 +153,6 @@
     "url": "https://github.com/maridlabsai/jini"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -88,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-06-11T16:45:27Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28916,
-    "updated_at": "2026-06-11T16:58:48Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Out-Of-Tree Llama Stack Eval Provider for Red Teaming LLM Systems with Garak",
@@ -115,24 +178,6 @@
     "stars": 28,
     "updated_at": "2026-06-11T16:36:36Z",
     "url": "https://github.com/phenomenoner/openclaw-mem"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10099,
-    "updated_at": "2026-06-11T16:57:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1019,
-    "updated_at": "2026-06-11T16:57:38Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Detect when Claude silently falls back from Fable 5 to Opus 4.8, log it to a local tamper-evident ledger, and keep your ",
@@ -157,7 +202,7 @@
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
-    "stars": 2994,
+    "stars": 2995,
     "updated_at": "2026-06-11T16:32:00Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
@@ -176,7 +221,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5677,
-    "updated_at": "2026-06-11T16:57:49Z",
+    "updated_at": "2026-06-11T17:11:49Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -193,27 +238,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22115,
+    "stars": 22116,
     "updated_at": "2026-06-11T16:18:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19576,
-    "updated_at": "2026-06-11T16:59:45Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "End-to-end Dynatrace observability for agentic AI workloads - services, agents, tools, prompts, models, topology, FinOps",
-    "id": "dberanjr/AIObservability3.0",
-    "language": "TypeScript",
-    "name": "dberanjr/AIObservability3.0",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:50:10Z",
-    "url": "https://github.com/dberanjr/AIObservability3.0"
   },
   {
     "description": "Risk-sensitive LLM output review and trust-report generation system.",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T16:11:21Z",
     "url": "https://github.com/benben951/agent-trust-lab"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 83,
-    "updated_at": "2026-06-11T16:26:15Z",
-    "url": "https://github.com/mezmo/aura"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-11T15:13:16Z",
+    "updated_at": "2026-06-11T17:04:08Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:41:14Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:41:01Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:40:41Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
   }
 ]
