@@ -1,21 +1,147 @@
 [
   {
-    "description": "Reusable Codex skill for vLLM-backed code review, patch generation, verification, and PR preparation",
-    "id": "spyroot/vllm-skill",
-    "language": "Python",
-    "name": "spyroot/vllm-skill",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:15:22Z",
-    "url": "https://github.com/spyroot/vllm-skill"
-  },
-  {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
     "id": "moiraweave-labs/moiraweave",
     "language": "Python",
     "name": "moiraweave-labs/moiraweave",
     "stars": 1,
-    "updated_at": "2026-06-11T07:15:14Z",
+    "updated_at": "2026-06-11T07:30:03Z",
     "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
+    "id": "ashmedanraj/langfuse-eks-production",
+    "language": "\u2014",
+    "name": "ashmedanraj/langfuse-eks-production",
+    "stars": 0,
+    "updated_at": "2026-06-11T07:29:50Z",
+    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3298,
+    "updated_at": "2026-06-11T07:29:45Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5666,
+    "updated_at": "2026-06-11T07:29:49Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
+    "id": "sarrahw23/deploy-guide",
+    "language": "\u2014",
+    "name": "sarrahw23/deploy-guide",
+    "stars": 1,
+    "updated_at": "2026-06-11T07:27:52Z",
+    "url": "https://github.com/sarrahw23/deploy-guide"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 4,
+    "updated_at": "2026-06-11T07:26:41Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49992,
+    "updated_at": "2026-06-11T07:24:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source observability for LLM apps \u2014 track latency, tokens & cost with explainable alerts and a public status page. ",
+    "id": "paarth6011/loupe",
+    "language": "Python",
+    "name": "paarth6011/loupe",
+    "stars": 0,
+    "updated_at": "2026-06-11T07:28:23Z",
+    "url": "https://github.com/paarth6011/loupe"
+  },
+  {
+    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
+    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "language": "Python",
+    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "stars": 3,
+    "updated_at": "2026-06-11T07:21:31Z",
+    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-11T07:21:05Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
+    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
+    "id": "techlab-innov/llmtrace",
+    "language": "Rust",
+    "name": "techlab-innov/llmtrace",
+    "stars": 52,
+    "updated_at": "2026-06-11T07:19:29Z",
+    "url": "https://github.com/techlab-innov/llmtrace"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-06-11T07:19:00Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "Reusable Codex skill for vLLM-backed code review, patch generation, verification, and PR preparation",
+    "id": "spyroot/vllm-skill",
+    "language": "Python",
+    "name": "spyroot/vllm-skill",
+    "stars": 0,
+    "updated_at": "2026-06-11T07:18:24Z",
+    "url": "https://github.com/spyroot/vllm-skill"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-06-11T07:18:24Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
+  },
+  {
+    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
+    "id": "JFPastor09/rest-gateway-1771916756-4",
+    "language": "\u2014",
+    "name": "JFPastor09/rest-gateway-1771916756-4",
+    "stars": 0,
+    "updated_at": "2026-06-11T07:18:02Z",
+    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T07:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
@@ -54,15 +180,6 @@
     "url": "https://github.com/degen1322/agentic-template"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5666,
-    "updated_at": "2026-06-11T07:07:15Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
     "id": "chyinan/AegisRAG",
     "language": "Python",
@@ -88,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T07:05:47Z",
     "url": "https://github.com/kami-beep/kb-contracts"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -130,7 +238,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26417,
+    "stars": 26418,
     "updated_at": "2026-06-11T06:52:25Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -184,7 +292,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28891,
+    "stars": 28892,
     "updated_at": "2026-06-11T06:47:27Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -279,15 +387,6 @@
     "url": "https://github.com/rsaudio/second-brain"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49987,
-    "updated_at": "2026-06-11T06:39:01Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A lab exploring agentic AI for Cloud and DevOps, built as small, runnable demos. Work in progress.",
     "id": "ns408/agentic-lab",
     "language": "Shell",
@@ -349,104 +448,5 @@
     "stars": 10127,
     "updated_at": "2026-06-11T06:29:48Z",
     "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-06-11T06:29:09Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83c\udfb6 Compose high-fidelity music effortlessly by transforming natural language commands into orchestral compositions using ",
-    "id": "aswath1313/GenAI-Music-Composer",
-    "language": "Python",
-    "name": "aswath1313/GenAI-Music-Composer",
-    "stars": 3,
-    "updated_at": "2026-06-11T06:27:25Z",
-    "url": "https://github.com/aswath1313/GenAI-Music-Composer"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-06-11T06:26:22Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7586,
-    "updated_at": "2026-06-11T06:23:12Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-06-11T06:21:41Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "\ud83d\ude80 Build and scale reliable Retrieval-Augmented Generation (RAG) systems with this curated collection of tools, framework",
-    "id": "mowael07/Awesome-RAG-Production",
-    "language": "Python",
-    "name": "mowael07/Awesome-RAG-Production",
-    "stars": 3,
-    "updated_at": "2026-06-11T06:18:56Z",
-    "url": "https://github.com/mowael07/Awesome-RAG-Production"
-  },
-  {
-    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 14,
-    "updated_at": "2026-06-11T06:17:08Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 2,
-    "updated_at": "2026-06-11T06:17:07Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-06-11T06:16:55Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19570,
-    "updated_at": "2026-06-11T06:16:33Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udde0 Build an offline RAG chatbot to answer questions from PDFs, adapting responses based on user experience levels with a ",
-    "id": "Limbertutelvt2004/RAG",
-    "language": "Python",
-    "name": "Limbertutelvt2004/RAG",
-    "stars": 2,
-    "updated_at": "2026-06-11T06:15:17Z",
-    "url": "https://github.com/Limbertutelvt2004/RAG"
   }
 ]
