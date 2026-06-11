@@ -1,5 +1,41 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5679,
+    "updated_at": "2026-06-11T19:29:47Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Multi-provider LLM proxy on ECS Fargate routing OpenAI and Anthropic by cost, latency, or quality, with DynamoDB caching",
+    "id": "jordann6/llm-gateway",
+    "language": "HCL",
+    "name": "jordann6/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-11T19:24:34Z",
+    "url": "https://github.com/jordann6/llm-gateway"
+  },
+  {
+    "description": "A framework with a strict protocol core for governed, stateful AI work.",
+    "id": "maridlabsai/jini",
+    "language": "Go",
+    "name": "maridlabsai/jini",
+    "stars": 1,
+    "updated_at": "2026-06-11T19:24:20Z",
+    "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T19:23:20Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
     "id": "richardpapiona9/llm",
     "language": "JavaScript",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T19:23:12Z",
     "url": "https://github.com/mizcausevic-dev/rate-limit-shield"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5679,
-    "updated_at": "2026-06-11T19:21:33Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
@@ -72,15 +99,6 @@
     "url": "https://github.com/ctxgov/ctxgov"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T19:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50073,
-    "updated_at": "2026-06-11T19:21:21Z",
+    "updated_at": "2026-06-11T19:29:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19579,
-    "updated_at": "2026-06-11T18:55:01Z",
+    "updated_at": "2026-06-11T19:25:56Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 4,
-    "updated_at": "2026-06-11T18:49:26Z",
+    "updated_at": "2026-06-11T19:23:57Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10100,
-    "updated_at": "2026-06-11T19:09:45Z",
+    "updated_at": "2026-06-11T19:28:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -283,7 +301,7 @@
     "id": "mezmo/aura",
     "language": "Rust",
     "name": "mezmo/aura",
-    "stars": 83,
+    "stars": 84,
     "updated_at": "2026-06-11T18:26:08Z",
     "url": "https://github.com/mezmo/aura"
   },
@@ -292,7 +310,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22118,
+    "stars": 22119,
     "updated_at": "2026-06-11T18:20:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4193,
-    "updated_at": "2026-06-11T19:00:57Z",
+    "updated_at": "2026-06-11T19:24:46Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T17:12:01Z",
     "url": "https://github.com/dberanjr/AIObservability3.0"
-  },
-  {
-    "description": "A reactive runtime for building durable AI agents",
-    "id": "ThousandBirdsInc/chidori",
-    "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1349,
-    "updated_at": "2026-06-11T17:09:44Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28923,
-    "updated_at": "2026-06-11T17:08:03Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
