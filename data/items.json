@@ -1,5 +1,95 @@
 [
   {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-11T01:27:11Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
+    "id": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
+    "language": "\u2014",
+    "name": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
+    "stars": 0,
+    "updated_at": "2026-06-11T01:23:11Z",
+    "url": "https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer"
+  },
+  {
+    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
+    "id": "retardingforcerightbank635/dm-gateway-bot",
+    "language": "Python",
+    "name": "retardingforcerightbank635/dm-gateway-bot",
+    "stars": 0,
+    "updated_at": "2026-06-11T01:23:02Z",
+    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
+  },
+  {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 73,
+    "updated_at": "2026-06-11T01:22:18Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
+    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
+    "language": "\u2014",
+    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
+    "stars": 0,
+    "updated_at": "2026-06-11T01:22:05Z",
+    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49950,
+    "updated_at": "2026-06-11T01:28:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2225,
+    "updated_at": "2026-06-11T01:18:29Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
+    "id": "germanic-hwangho835/FolkLite",
+    "language": "\u2014",
+    "name": "germanic-hwangho835/FolkLite",
+    "stars": 0,
+    "updated_at": "2026-06-11T01:16:02Z",
+    "url": "https://github.com/germanic-hwangho835/FolkLite"
+  },
+  {
+    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
+    "id": "harishu652/Class-AI-Agent",
+    "language": "\u2014",
+    "name": "harishu652/Class-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-06-11T01:15:26Z",
+    "url": "https://github.com/harishu652/Class-AI-Agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T01:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
     "id": "wordenneapolitan768/llm-pricing",
     "language": "\u2014",
@@ -54,15 +144,6 @@
     "url": "https://github.com/open-ace/open-ace"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2224,
-    "updated_at": "2026-06-11T01:06:32Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T01:00:51Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Cryptographic, tamper-evident audit trails for production AI agents - SHA-256 hash-chain observability. Built for EU AI ",
@@ -178,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T00:52:55Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49947,
-    "updated_at": "2026-06-11T01:15:18Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
@@ -369,15 +432,6 @@
     "url": "https://github.com/degen1322/agentic-template"
   },
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 31,
-    "updated_at": "2026-06-11T01:06:35Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
     "id": "kami-beep/kb-contracts",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 1349,
     "updated_at": "2026-06-11T00:21:46Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-11T00:21:12Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
-    "id": "traceloop/openllmetry",
-    "language": "Python",
-    "name": "traceloop/openllmetry",
-    "stars": 7185,
-    "updated_at": "2026-06-11T00:19:42Z",
-    "url": "https://github.com/traceloop/openllmetry"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-11T00:18:19Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26413,
-    "updated_at": "2026-06-11T00:17:17Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-11T00:16:58Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22088,
-    "updated_at": "2026-06-11T00:15:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
