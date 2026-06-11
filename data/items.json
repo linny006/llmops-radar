@@ -1,21 +1,66 @@
 [
   {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
     "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-11T02:58:13Z",
-    "url": "https://github.com/open-ace/open-ace"
+    "name": "chyinan/AegisRAG",
+    "stars": 2,
+    "updated_at": "2026-06-11T03:14:24Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "Enterprise Azure AI Foundry agentic document processing reference platform.",
+    "id": "fluxionpartners/agentic-processing-platform",
+    "language": "Python",
+    "name": "fluxionpartners/agentic-processing-platform",
+    "stars": 1,
+    "updated_at": "2026-06-11T03:13:59Z",
+    "url": "https://github.com/fluxionpartners/agentic-processing-platform"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49962,
-    "updated_at": "2026-06-11T03:00:17Z",
+    "stars": 49963,
+    "updated_at": "2026-06-11T03:14:37Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-11T03:07:40Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 7,
+    "updated_at": "2026-06-11T03:00:59Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T03:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-11T03:01:25Z",
+    "url": "https://github.com/open-ace/open-ace"
   },
   {
     "description": "LLMOps-based FinTech risk analysis system using Ollama and RAG",
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "Netis/heron",
     "stars": 28,
-    "updated_at": "2026-06-11T02:45:48Z",
+    "updated_at": "2026-06-11T03:10:53Z",
     "url": "https://github.com/Netis/heron"
   },
   {
@@ -45,21 +90,12 @@
     "url": "https://github.com/sxueck/llm-gateway"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11447,
-    "updated_at": "2026-06-11T02:43:54Z",
+    "updated_at": "2026-06-11T03:08:33Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -79,6 +115,15 @@
     "stars": 1215,
     "updated_at": "2026-06-11T02:28:04Z",
     "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22091,
+    "updated_at": "2026-06-11T02:15:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T01:31:32Z",
     "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 31,
-    "updated_at": "2026-06-11T02:20:17Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T00:49:46Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19568,
-    "updated_at": "2026-06-11T00:49:25Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-11T00:49:16Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-11T00:48:42Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-11T00:48:38Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
