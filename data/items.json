@@ -1,11 +1,65 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-11T04:29:17Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49968,
+    "updated_at": "2026-06-11T04:26:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 92,
+    "updated_at": "2026-06-11T04:25:31Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-11T04:25:28Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
+    "id": "intentee/paddler",
+    "language": "Rust",
+    "name": "intentee/paddler",
+    "stars": 1593,
+    "updated_at": "2026-06-11T04:18:58Z",
+    "url": "https://github.com/intentee/paddler"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted enterprise AI workspace and governance platform",
     "id": "open-ace/open-ace",
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-11T04:12:31Z",
+    "updated_at": "2026-06-11T04:19:51Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -32,17 +86,8 @@
     "language": "Rust",
     "name": "Netis/heron",
     "stars": 28,
-    "updated_at": "2026-06-11T04:06:33Z",
+    "updated_at": "2026-06-11T04:20:04Z",
     "url": "https://github.com/Netis/heron"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49968,
-    "updated_at": "2026-06-11T04:15:10Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -50,17 +95,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26415,
-    "updated_at": "2026-06-11T04:06:06Z",
+    "updated_at": "2026-06-11T04:15:43Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T04:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -70,6 +106,15 @@
     "stars": 1,
     "updated_at": "2026-06-11T03:59:56Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22094,
+    "updated_at": "2026-06-11T03:55:44Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10090,
-    "updated_at": "2026-06-11T03:28:40Z",
+    "updated_at": "2026-06-11T04:20:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-06-11T04:13:23Z",
+    "updated_at": "2026-06-11T04:23:32Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -131,17 +176,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1215,
-    "updated_at": "2026-06-11T03:59:34Z",
+    "updated_at": "2026-06-11T04:19:33Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22093,
-    "updated_at": "2026-06-11T03:55:44Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI-first operating system for running a one-person company: Markdown source of truth, agent prompts, and an agent contro",
@@ -160,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T03:13:59Z",
     "url": "https://github.com/fluxionpartners/agentic-processing-platform"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 31,
-    "updated_at": "2026-06-11T03:18:11Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-11T01:01:56Z",
     "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:01:02Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:00:51Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Cryptographic, tamper-evident audit trails for production AI agents - SHA-256 hash-chain observability. Built for EU AI ",
-    "id": "Ghostfactory-art/spanchain",
-    "language": "Elixir",
-    "name": "Ghostfactory-art/spanchain",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:00:05Z",
-    "url": "https://github.com/Ghostfactory-art/spanchain"
   }
 ]
