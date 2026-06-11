@@ -1,5 +1,113 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2227,
+    "updated_at": "2026-06-11T08:44:23Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:42:51Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28899,
+    "updated_at": "2026-06-11T08:42:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "HTML",
+    "name": "lisn0/tidal",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:41:04Z",
+    "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26419,
+    "updated_at": "2026-06-11T08:40:48Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 73,
+    "updated_at": "2026-06-11T08:35:39Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5667,
+    "updated_at": "2026-06-11T08:37:32Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50008,
+    "updated_at": "2026-06-11T08:34:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3299,
+    "updated_at": "2026-06-11T08:33:59Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:31:14Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
+    "id": "ahmeedatm/infer-router",
+    "language": "Python",
+    "name": "ahmeedatm/infer-router",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:29:50Z",
+    "url": "https://github.com/ahmeedatm/infer-router"
+  },
+  {
     "description": "Open-source observability for LLM apps \u2014 track latency, tokens & cost with explainable alerts and a public status page. ",
     "id": "paarth6011/loupe",
     "language": "Python",
@@ -18,40 +126,13 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:27:54Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28897,
-    "updated_at": "2026-06-11T08:26:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1215,
-    "updated_at": "2026-06-11T08:25:17Z",
+    "updated_at": "2026-06-11T08:33:36Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:24:17Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19572,
-    "updated_at": "2026-06-11T08:23:59Z",
+    "updated_at": "2026-06-11T08:41:59Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T08:19:34Z",
     "url": "https://github.com/Idank96/agent-panorama"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3299,
-    "updated_at": "2026-06-11T08:18:57Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -261,21 +333,12 @@
     "url": "https://github.com/glaborie/agentguard"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5667,
-    "updated_at": "2026-06-11T08:21:38Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11450,
-    "updated_at": "2026-06-11T08:17:33Z",
+    "updated_at": "2026-06-11T08:43:44Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T07:32:53Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:31:33Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:31:20Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:31:20Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2519,
-    "updated_at": "2026-06-11T07:31:14Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:31:10Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
-    "id": "moiraweave-labs/moiraweave",
-    "language": "Python",
-    "name": "moiraweave-labs/moiraweave",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:30:03Z",
-    "url": "https://github.com/moiraweave-labs/moiraweave"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:29:50Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
