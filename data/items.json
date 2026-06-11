@@ -1,12 +1,138 @@
 [
   {
+    "description": "\u26a1 Curated list of AI gateways & LLM proxies \u2014 LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api\u2026 compared by cost, co",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "Python",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:44:09Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:42:36Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83d\udc14 Simplify AI orchestration by using agentic systems; spawn subagents like a hen with her chicks for seamless task manag",
+    "id": "iulieobraznic/agentic-ai-systems",
+    "language": "\u2014",
+    "name": "iulieobraznic/agentic-ai-systems",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:40:22Z",
+    "url": "https://github.com/iulieobraznic/agentic-ai-systems"
+  },
+  {
+    "description": "\ud83c\udf9b\ufe0f Build efficient workflows with Deevs' Agent System, a plugin marketplace for Claude Code featuring multi-session chai",
+    "id": "Shahzadaslam007799/agent-system",
+    "language": "\u2014",
+    "name": "Shahzadaslam007799/agent-system",
+    "stars": 1,
+    "updated_at": "2026-06-11T12:40:02Z",
+    "url": "https://github.com/Shahzadaslam007799/agent-system"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 142,
+    "updated_at": "2026-06-11T12:40:34Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28908,
+    "updated_at": "2026-06-11T12:42:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\udecd\ufe0f Automate your sales process with an AI-driven multi-agent system that improves efficiency from product inquiries to p",
+    "id": "sway121/Agentes_IA",
+    "language": "Python",
+    "name": "sway121/Agentes_IA",
+    "stars": 5,
+    "updated_at": "2026-06-11T12:36:23Z",
+    "url": "https://github.com/sway121/Agentes_IA"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance customer support with an LLM-powered agent that smartly routes queries using FastAPI, Postgres, and Redis for ",
+    "id": "xjanex160/customer-support-agent",
+    "language": "Python",
+    "name": "xjanex160/customer-support-agent",
+    "stars": 2,
+    "updated_at": "2026-06-11T12:35:40Z",
+    "url": "https://github.com/xjanex160/customer-support-agent"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance your CAD, WMS, or CAM software with Vector\u2014an offline tool for seamless optimization without tuning or ongoing",
+    "id": "dewqasujbc/Vector",
+    "language": "\u2014",
+    "name": "dewqasujbc/Vector",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:35:37Z",
+    "url": "https://github.com/dewqasujbc/Vector"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:44:12Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-11T12:33:07Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 362,
+    "updated_at": "2026-06-11T12:31:01Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Zero-config observability for AI agents. Auto-instruments OpenAI & Anthropic SDKs.",
+    "id": "ashwanijha04/peekr",
+    "language": "Python",
+    "name": "ashwanijha04/peekr",
+    "stars": 3,
+    "updated_at": "2026-06-11T12:30:46Z",
+    "url": "https://github.com/ashwanijha04/peekr"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-11T12:26:53Z",
+    "updated_at": "2026-06-11T12:30:32Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5670,
+    "updated_at": "2026-06-11T12:30:28Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
@@ -18,21 +144,12 @@
     "url": "https://github.com/richardpapiona9/llm"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28908,
-    "updated_at": "2026-06-11T12:28:04Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Self-hosted AI reliability platform for RAG and agentic applications with observability, protection, evaluations, OpenTe",
     "id": "glaborie/agentguard",
     "language": "Python",
     "name": "glaborie/agentguard",
     "stars": 1,
-    "updated_at": "2026-06-11T12:25:44Z",
+    "updated_at": "2026-06-11T12:42:40Z",
     "url": "https://github.com/glaborie/agentguard"
   },
   {
@@ -54,21 +171,12 @@
     "url": "https://github.com/Gmail1995/llm-course"
   },
   {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 362,
-    "updated_at": "2026-06-11T12:27:56Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50043,
-    "updated_at": "2026-06-11T12:19:26Z",
+    "updated_at": "2026-06-11T12:40:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -81,21 +189,12 @@
     "url": "https://github.com/ghaithmhmm/LLM-Training"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-11T12:15:20Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19574,
-    "updated_at": "2026-06-11T12:27:34Z",
+    "updated_at": "2026-06-11T12:31:30Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -158,7 +257,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11449,
-    "updated_at": "2026-06-11T11:44:50Z",
+    "updated_at": "2026-06-11T12:45:02Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -257,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3299,
-    "updated_at": "2026-06-11T12:01:21Z",
+    "updated_at": "2026-06-11T12:40:46Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 297,
     "updated_at": "2026-06-11T11:05:32Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-06-11T11:04:13Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5669,
-    "updated_at": "2026-06-11T12:30:28Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 4,
-    "updated_at": "2026-06-11T10:56:45Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:47:11Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Local-first RAG and agent skills framework for source-traceable agent memory.",
-    "id": "sparkplug604/praxis",
-    "language": "Python",
-    "name": "sparkplug604/praxis",
-    "stars": 22,
-    "updated_at": "2026-06-11T10:45:59Z",
-    "url": "https://github.com/sparkplug604/praxis"
-  },
-  {
-    "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receip",
-    "id": "Mindburn-Labs/helm-ai-kernel",
-    "language": "Go",
-    "name": "Mindburn-Labs/helm-ai-kernel",
-    "stars": 9,
-    "updated_at": "2026-06-11T10:59:36Z",
-    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel"
-  },
-  {
-    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
-    "id": "8pig/llm-ops",
-    "language": "Python",
-    "name": "8pig/llm-ops",
-    "stars": 7,
-    "updated_at": "2026-06-11T10:32:09Z",
-    "url": "https://github.com/8pig/llm-ops"
-  },
-  {
-    "description": "See what your AI agents do, whether it's worth it, and what it costs - a manager-readable report + local dashboard from ",
-    "id": "Idank96/agent-panorama",
-    "language": "Python",
-    "name": "Idank96/agent-panorama",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:21:29Z",
-    "url": "https://github.com/Idank96/agent-panorama"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:21:24Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 13,
-    "updated_at": "2026-06-11T10:20:11Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Open-source observability for LLM apps \u2014 track latency, tokens & cost with explainable alerts and a public status page. ",
-    "id": "paarth6011/loupe",
-    "language": "Python",
-    "name": "paarth6011/loupe",
-    "stars": 0,
-    "updated_at": "2026-06-11T09:54:10Z",
-    "url": "https://github.com/paarth6011/loupe"
   }
 ]
