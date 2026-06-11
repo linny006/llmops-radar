@@ -1,5 +1,32 @@
 [
   {
+    "description": "A framework for governing how organisations manage AI context. Vendor-neutral.",
+    "id": "kannanokannan/ContextOps",
+    "language": "\u2014",
+    "name": "kannanokannan/ContextOps",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:24:08Z",
+    "url": "https://github.com/kannanokannan/ContextOps"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 49957,
+    "updated_at": "2026-06-11T02:30:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
     "id": "Netis/heron",
     "language": "Rust",
@@ -27,15 +54,6 @@
     "url": "https://github.com/umutkeltek/switchback"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Multimodal LLM inference gateway with KV-cache-aware routing and LMCache offload. OpenAI-compatible, benchmarked on GPUs",
     "id": "rishika7006/kvgate",
     "language": "Python",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T01:42:10Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 49954,
-    "updated_at": "2026-06-11T02:10:09Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 31,
-    "updated_at": "2026-06-11T01:46:43Z",
+    "updated_at": "2026-06-11T02:20:17Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -373,7 +382,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19567,
+    "stars": 19568,
     "updated_at": "2026-06-11T00:49:25Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T00:44:49Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5661,
-    "updated_at": "2026-06-11T00:44:05Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
