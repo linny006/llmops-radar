@@ -1,12 +1,66 @@
 [
   {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-11T02:58:13Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 49960,
-    "updated_at": "2026-06-11T02:45:15Z",
+    "stars": 49962,
+    "updated_at": "2026-06-11T03:00:17Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LLMOps-based FinTech risk analysis system using Ollama and RAG",
+    "id": "shubhampandey-11x/FinSage-LLMOps-FinTech-Risk-Analyzer",
+    "language": "Python",
+    "name": "shubhampandey-11x/FinSage-LLMOps-FinTech-Risk-Analyzer",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:54:37Z",
+    "url": "https://github.com/shubhampandey-11x/FinSage-LLMOps-FinTech-Risk-Analyzer"
+  },
+  {
+    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
+    "id": "Netis/heron",
+    "language": "Rust",
+    "name": "Netis/heron",
+    "stars": 28,
+    "updated_at": "2026-06-11T02:45:48Z",
+    "url": "https://github.com/Netis/heron"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 42,
+    "updated_at": "2026-06-11T02:53:00Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11447,
+    "updated_at": "2026-06-11T02:43:54Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "A framework for governing how organisations manage AI context. Vendor-neutral.",
@@ -18,15 +72,6 @@
     "url": "https://github.com/kannanokannan/ContextOps"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
@@ -34,15 +79,6 @@
     "stars": 1215,
     "updated_at": "2026-06-11T02:28:04Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
-    "id": "Netis/heron",
-    "language": "Rust",
-    "name": "Netis/heron",
-    "stars": 28,
-    "updated_at": "2026-06-11T02:36:19Z",
-    "url": "https://github.com/Netis/heron"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -252,15 +288,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-11T02:06:48Z",
-    "url": "https://github.com/open-ace/open-ace"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T00:48:38Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-11T00:48:30Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1016,
-    "updated_at": "2026-06-11T00:48:03Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-11T00:45:57Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
