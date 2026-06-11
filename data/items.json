@@ -1,11 +1,47 @@
 [
   {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-11T04:00:17Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-11T03:59:56Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26414,
+    "updated_at": "2026-06-11T03:58:19Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 137 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 1,
+    "updated_at": "2026-06-11T04:00:22Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-11T03:37:18Z",
+    "updated_at": "2026-06-11T03:45:27Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -54,6 +90,15 @@
     "url": "https://github.com/chyinan/AegisRAG"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10090,
+    "updated_at": "2026-06-11T03:28:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
     "id": "EffortlessMetrics/tokmd",
     "language": "Rust",
@@ -68,7 +113,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1215,
-    "updated_at": "2026-06-11T03:39:26Z",
+    "updated_at": "2026-06-11T03:59:34Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -76,8 +121,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22092,
-    "updated_at": "2026-06-11T03:19:15Z",
+    "stars": 22093,
+    "updated_at": "2026-06-11T03:55:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 7,
     "updated_at": "2026-06-11T03:00:59Z",
     "url": "https://github.com/8pig/llm-ops"
-  },
-  {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-11T03:22:42Z",
-    "url": "https://github.com/open-ace/open-ace"
   },
   {
     "description": "LLMOps-based FinTech risk analysis system using Ollama and RAG",
@@ -223,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T01:42:53Z",
     "url": "https://github.com/SkeinRank/skeinrank"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26414,
-    "updated_at": "2026-06-11T02:42:37Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -387,15 +414,6 @@
     "url": "https://github.com/pencaudal526/system-design-bible"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10090,
-    "updated_at": "2026-06-11T03:28:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
     "id": "Impure-platen433/crabllm",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T00:59:52Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-11T00:57:47Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-06-11T00:57:07Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   }
 ]
