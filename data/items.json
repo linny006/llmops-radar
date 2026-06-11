@@ -1,12 +1,75 @@
 [
   {
+    "description": "Validation-first local LLM workflow for software requirements analysis.",
+    "id": "iamalimaybe/requirements-intelligence-assistant",
+    "language": "Python",
+    "name": "iamalimaybe/requirements-intelligence-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:57:17Z",
+    "url": "https://github.com/iamalimaybe/requirements-intelligence-assistant"
+  },
+  {
+    "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
+    "id": "Prissieperoneal156/rig",
+    "language": "\u2014",
+    "name": "Prissieperoneal156/rig",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:56:45Z",
+    "url": "https://github.com/Prissieperoneal156/rig"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5676,
+    "updated_at": "2026-06-11T14:53:52Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Framework-agnostic AI Agent \ud3c9\uac00/\uad00\uce21 \uc778\ud504\ub77c (4\ucd95 \ud3c9\uac00 + OpenTelemetry GenAI trace)",
+    "id": "songwookun/agent-eval-lab",
+    "language": "Python",
+    "name": "songwookun/agent-eval-lab",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:50:22Z",
+    "url": "https://github.com/songwookun/agent-eval-lab"
+  },
+  {
+    "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
+    "id": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
+    "language": "\u2014",
+    "name": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:48:48Z",
+    "url": "https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:57:32Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28909,
-    "updated_at": "2026-06-11T14:44:14Z",
+    "stars": 28910,
+    "updated_at": "2026-06-11T14:59:36Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2228,
+    "updated_at": "2026-06-11T14:46:32Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "CI-friendly RAG evaluation: retrieval metrics, LLM-as-judge faithfulness, and a regression gate that fails your build wh",
@@ -14,8 +77,44 @@
     "language": "Python",
     "name": "camposvinicius/rag-evals",
     "stars": 0,
-    "updated_at": "2026-06-11T14:41:38Z",
+    "updated_at": "2026-06-11T14:46:05Z",
     "url": "https://github.com/camposvinicius/rag-evals"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-06-11T14:45:38Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:43:21Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
+    "id": "germanic-hwangho835/FolkLite",
+    "language": "\u2014",
+    "name": "germanic-hwangho835/FolkLite",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:41:50Z",
+    "url": "https://github.com/germanic-hwangho835/FolkLite"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -25,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:41:14Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
+  },
+  {
+    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
+    "id": "effecterelectricalplant87/LLM",
+    "language": "\u2014",
+    "name": "effecterelectricalplant87/LLM",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:41:01Z",
+    "url": "https://github.com/effecterelectricalplant87/LLM"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -50,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3299,
-    "updated_at": "2026-06-11T14:38:54Z",
+    "updated_at": "2026-06-11T14:55:00Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -70,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:34:43Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable, self-contained snapshot of a complete Claude Code setup \u2014 35 specialist agents, 115 skills, plugins, MCP serve",
@@ -103,7 +202,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50057,
+    "stars": 50058,
     "updated_at": "2026-06-11T14:29:05Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -142,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:25:22Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:44:18Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Validation-first local LLM workflow for software requirements analysis.",
-    "id": "iamalimaybe/requirements-intelligence-assistant",
-    "language": "Python",
-    "name": "iamalimaybe/requirements-intelligence-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:23:07Z",
-    "url": "https://github.com/iamalimaybe/requirements-intelligence-assistant"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -274,7 +355,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26430,
+    "stars": 26431,
     "updated_at": "2026-06-11T14:12:49Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -302,7 +383,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4190,
-    "updated_at": "2026-06-11T14:44:54Z",
+    "updated_at": "2026-06-11T15:00:06Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T13:56:16Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-06-11T13:54:50Z",
-    "url": "https://github.com/degen1322/agentic-template"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5674,
-    "updated_at": "2026-06-11T14:36:34Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-11T13:44:33Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-11T13:43:07Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\u26a1 Curated list of AI gateways & LLM proxies \u2014 LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api\u2026 compared by cost, co",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "Python",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 1,
-    "updated_at": "2026-06-11T13:40:42Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-06-11T13:40:22Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 142,
-    "updated_at": "2026-06-11T13:43:27Z",
-    "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
-    "id": "SkylineTZ/RagaliQ",
-    "language": "Python",
-    "name": "SkylineTZ/RagaliQ",
-    "stars": 1,
-    "updated_at": "2026-06-11T13:35:51Z",
-    "url": "https://github.com/SkylineTZ/RagaliQ"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-06-11T13:35:01Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
   }
 ]
