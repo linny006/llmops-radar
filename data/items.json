@@ -1,11 +1,83 @@
 [
   {
+    "description": "The unified, open-source LLM + MCP gateway. One Rust binary, embedded dashboard, exact cost tracking, agent-first.",
+    "id": "OximyHQ/gateway",
+    "language": "Rust",
+    "name": "OximyHQ/gateway",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:57:46Z",
+    "url": "https://github.com/OximyHQ/gateway"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26437,
+    "updated_at": "2026-06-11T18:55:04Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
+    "id": "BrandonChT/ai-character-engine",
+    "language": "Python",
+    "name": "BrandonChT/ai-character-engine",
+    "stars": 5,
+    "updated_at": "2026-06-11T18:53:52Z",
+    "url": "https://github.com/BrandonChT/ai-character-engine"
+  },
+  {
+    "description": "LLMOps observability dashboard \u2014 Langfuse tracing middleware + FastAPI backend + React/TypeScript frontend for real-time",
+    "id": "axon011/llmops-dashboard",
+    "language": "TypeScript",
+    "name": "axon011/llmops-dashboard",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:52:19Z",
+    "url": "https://github.com/axon011/llmops-dashboard"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:52:14Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:52:00Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 4,
+    "updated_at": "2026-06-11T18:49:26Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10100,
-    "updated_at": "2026-06-11T18:44:58Z",
+    "updated_at": "2026-06-11T18:51:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T18:41:44Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "The unified, open-source LLM + MCP gateway. One Rust binary, embedded dashboard, exact cost tracking, agent-first.",
-    "id": "OximyHQ/gateway",
-    "language": "Rust",
-    "name": "OximyHQ/gateway",
-    "stars": 0,
-    "updated_at": "2026-06-11T18:41:24Z",
-    "url": "https://github.com/OximyHQ/gateway"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -77,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5678,
-    "updated_at": "2026-06-11T18:33:11Z",
+    "updated_at": "2026-06-11T18:58:49Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -97,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T18:30:36Z",
     "url": "https://github.com/hwgdfkchw/Generative-AI-Essentials"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T18:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udd16 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-11T18:19:26Z",
+    "updated_at": "2026-06-11T18:50:52Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50073,
-    "updated_at": "2026-06-11T18:24:25Z",
+    "updated_at": "2026-06-11T18:54:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 362,
     "updated_at": "2026-06-11T17:53:25Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 4,
-    "updated_at": "2026-06-11T18:42:14Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19578,
-    "updated_at": "2026-06-11T18:36:39Z",
+    "updated_at": "2026-06-11T18:55:01Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:56:38Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 28,
     "updated_at": "2026-06-11T16:36:36Z",
     "url": "https://github.com/phenomenoner/openclaw-mem"
-  },
-  {
-    "description": "Detect when Claude silently falls back from Fable 5 to Opus 4.8, log it to a local tamper-evident ledger, and keep your ",
-    "id": "pinalmdave/Switchyard",
-    "language": "Python",
-    "name": "pinalmdave/Switchyard",
-    "stars": 1,
-    "updated_at": "2026-06-11T16:33:25Z",
-    "url": "https://github.com/pinalmdave/Switchyard"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-06-11T16:33:10Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 2995,
-    "updated_at": "2026-06-11T18:30:11Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Risk-sensitive LLM output review and trust-report generation system.",
-    "id": "benben951/agent-trust-lab",
-    "language": "Python",
-    "name": "benben951/agent-trust-lab",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:11:21Z",
-    "url": "https://github.com/benben951/agent-trust-lab"
   }
 ]
