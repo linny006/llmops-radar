@@ -1,12 +1,111 @@
 [
   {
+    "description": "A production-ready framework for composing AI agents from declarative TOML configuration, with MCP tool integration, RAG",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 83,
+    "updated_at": "2026-06-11T15:13:24Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28913,
+    "updated_at": "2026-06-11T15:15:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Risk-sensitive LLM output review and trust-report generation system.",
+    "id": "benben951/agent-trust-lab",
+    "language": "Python",
+    "name": "benben951/agent-trust-lab",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:10:50Z",
+    "url": "https://github.com/benben951/agent-trust-lab"
+  },
+  {
     "description": "Validation-first local LLM workflow for software requirements analysis.",
     "id": "iamalimaybe/requirements-intelligence-assistant",
     "language": "Python",
     "name": "iamalimaybe/requirements-intelligence-assistant",
     "stars": 0,
-    "updated_at": "2026-06-11T14:57:17Z",
+    "updated_at": "2026-06-11T15:10:33Z",
     "url": "https://github.com/iamalimaybe/requirements-intelligence-assistant"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:07:05Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-11T15:13:16Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:05:38Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:03:44Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:00:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-06-11T15:00:12Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
+    "id": "Arman7843/gemmachat-windows",
+    "language": "\u2014",
+    "name": "Arman7843/gemmachat-windows",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:58:55Z",
+    "url": "https://github.com/Arman7843/gemmachat-windows"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-06-11T14:56:49Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
     "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
@@ -23,7 +122,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5676,
-    "updated_at": "2026-06-11T14:53:52Z",
+    "updated_at": "2026-06-11T15:02:30Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -45,22 +144,13 @@
     "url": "https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
+    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
+    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
+    "language": "\u2014",
+    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
     "stars": 0,
-    "updated_at": "2026-06-11T14:57:32Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28910,
-    "updated_at": "2026-06-11T14:59:36Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "updated_at": "2026-06-11T14:47:44Z",
+    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -88,15 +178,6 @@
     "stars": 9,
     "updated_at": "2026-06-11T14:45:38Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -158,8 +239,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3299,
-    "updated_at": "2026-06-11T14:55:00Z",
+    "updated_at": "2026-06-11T15:15:11Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
+    "id": "Healthful-article791/rag-systems-production",
+    "language": "\u2014",
+    "name": "Healthful-article791/rag-systems-production",
+    "stars": 1,
+    "updated_at": "2026-06-11T14:36:50Z",
+    "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
     "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
@@ -202,7 +292,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50058,
+    "stars": 50060,
     "updated_at": "2026-06-11T14:29:05Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -275,7 +365,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 4,
-    "updated_at": "2026-06-11T14:20:27Z",
+    "updated_at": "2026-06-11T15:10:51Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 26431,
     "updated_at": "2026-06-11T14:12:49Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:11:35Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:10:30Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4190,
-    "updated_at": "2026-06-11T15:00:06Z",
-    "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:05:08Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-11T14:05:06Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:01:56Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:01:52Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:01:36Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-11T13:56:40Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-11T13:56:16Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
