@@ -1,5 +1,149 @@
 [
   {
+    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
+    "id": "runcycles/cycles-server",
+    "language": "Java",
+    "name": "runcycles/cycles-server",
+    "stars": 2,
+    "updated_at": "2026-06-12T18:00:15Z",
+    "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
+    "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
+    "id": "bursora/core",
+    "language": "TypeScript",
+    "name": "bursora/core",
+    "stars": 1,
+    "updated_at": "2026-06-12T17:56:53Z",
+    "url": "https://github.com/bursora/core"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 13,
+    "updated_at": "2026-06-12T17:55:43Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-12T17:54:04Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-12T17:52:58Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-12T17:51:56Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 15,
+    "updated_at": "2026-06-12T17:51:46Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-06-12T17:49:22Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
+    "id": "Arman7843/gemmachat-windows",
+    "language": "\u2014",
+    "name": "Arman7843/gemmachat-windows",
+    "stars": 0,
+    "updated_at": "2026-06-12T17:48:33Z",
+    "url": "https://github.com/Arman7843/gemmachat-windows"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-06-12T17:48:25Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-06-12T17:47:03Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
+  },
+  {
+    "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
+    "id": "Prissieperoneal156/rig",
+    "language": "\u2014",
+    "name": "Prissieperoneal156/rig",
+    "stars": 0,
+    "updated_at": "2026-06-12T17:46:59Z",
+    "url": "https://github.com/Prissieperoneal156/rig"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 4,
+    "updated_at": "2026-06-12T17:46:39Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
+    "id": "dgenio/intentflow",
+    "language": "Python",
+    "name": "dgenio/intentflow",
+    "stars": 1,
+    "updated_at": "2026-06-12T17:45:45Z",
+    "url": "https://github.com/dgenio/intentflow"
+  },
+  {
+    "description": "Open protocol for runtime budget and action authority over AI agents",
+    "id": "runcycles/cycles-protocol",
+    "language": "Python",
+    "name": "runcycles/cycles-protocol",
+    "stars": 3,
+    "updated_at": "2026-06-12T17:45:31Z",
+    "url": "https://github.com/runcycles/cycles-protocol"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-12T17:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
     "id": "Arize-ai/arize-skills",
     "language": "Python",
@@ -9,15 +153,6 @@
     "url": "https://github.com/Arize-ai/arize-skills"
   },
   {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 13,
-    "updated_at": "2026-06-12T17:43:47Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
     "id": "umutkeltek/switchback",
     "language": "Rust",
@@ -25,6 +160,15 @@
     "stars": 1,
     "updated_at": "2026-06-12T17:43:07Z",
     "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19589,
+    "updated_at": "2026-06-12T17:42:23Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -117,15 +261,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Open protocol for runtime budget and action authority over AI agents",
-    "id": "runcycles/cycles-protocol",
-    "language": "Python",
-    "name": "runcycles/cycles-protocol",
-    "stars": 3,
-    "updated_at": "2026-06-12T17:40:57Z",
-    "url": "https://github.com/runcycles/cycles-protocol"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -169,15 +304,6 @@
     "stars": 87,
     "updated_at": "2026-06-12T17:36:30Z",
     "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T17:15:42Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Evidra Bench runs live infrastructure scenarios for AI agents, MCP servers, and AI SRE tools, then shows pass/fail, unsa",
-    "id": "vitas/evidra-bench",
-    "language": "Go",
-    "name": "vitas/evidra-bench",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:15:01Z",
-    "url": "https://github.com/vitas/evidra-bench"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:14:49Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-12T17:11:02Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
-    "id": "prashar32/riskkernel",
-    "language": "Go",
-    "name": "prashar32/riskkernel",
-    "stars": 18,
-    "updated_at": "2026-06-12T17:23:28Z",
-    "url": "https://github.com/prashar32/riskkernel"
-  },
-  {
-    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
-    "id": "dgenio/intentflow",
-    "language": "Python",
-    "name": "dgenio/intentflow",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:34:28Z",
-    "url": "https://github.com/dgenio/intentflow"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:08:47Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:08:46Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:08:39Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:07:12Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 4,
-    "updated_at": "2026-06-12T17:39:26Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:05:15Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:04:40Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:03:32Z",
-    "url": "https://github.com/degen1322/agentic-template"
-  },
-  {
-    "description": "Deterministic metric-change ledger for AI observability, robotics telemetry, and industrial monitoring",
-    "id": "chrono-metrics/metricchrono",
-    "language": "Rust",
-    "name": "chrono-metrics/metricchrono",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:02:54Z",
-    "url": "https://github.com/chrono-metrics/metricchrono"
   }
 ]
