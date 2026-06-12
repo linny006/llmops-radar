@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10114,
+    "updated_at": "2026-06-12T18:15:15Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:15:14Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19589,
+    "updated_at": "2026-06-12T18:14:41Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\u2692\ufe0f The open-source framework for LLM experiments and agent orchestration.",
+    "id": "InftyAI/alphatrion",
+    "language": "Python",
+    "name": "InftyAI/alphatrion",
+    "stars": 13,
+    "updated_at": "2026-06-12T18:11:52Z",
+    "url": "https://github.com/InftyAI/alphatrion"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50177,
+    "updated_at": "2026-06-12T18:10:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
     "id": "runcycles/cycles-server",
     "language": "Java",
     "name": "runcycles/cycles-server",
     "stars": 2,
-    "updated_at": "2026-06-12T18:00:15Z",
+    "updated_at": "2026-06-12T18:11:40Z",
     "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5711,
+    "updated_at": "2026-06-12T18:06:14Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26472,
+    "updated_at": "2026-06-12T18:04:48Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 13,
-    "updated_at": "2026-06-12T17:55:43Z",
+    "updated_at": "2026-06-12T18:09:58Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T17:52:58Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:51:56Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
@@ -113,7 +176,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 4,
-    "updated_at": "2026-06-12T17:46:39Z",
+    "updated_at": "2026-06-12T18:14:55Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/runcycles/cycles-protocol"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
     "id": "Arize-ai/arize-skills",
     "language": "Python",
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-12T17:43:07Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19589,
-    "updated_at": "2026-06-12T17:42:23Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T17:18:13Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:17:46Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:17:32Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:17:29Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:17:18Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:15:42Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
