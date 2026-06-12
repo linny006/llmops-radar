@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-12 18:30 UTC
+> ⏰ Last updated: 2026-06-12 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 0 | Python | 2026-06-12 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
-| 2 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-06-12 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
-| 3 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 2 | Java | 2026-06-12 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
-| 4 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 4 | Go | 2026-06-12 | The opinionated workflow engine and governance layer for agent-driven software development. |
-| 5 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19589 | Python | 2026-06-12 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50177 | Python | 2026-06-12 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 7 | [ancilis/ancilis](https://github.com/ancilis/ancilis) | 5 | Python | 2026-06-12 | Agents change faster than audits. Ancilis discovers what agents can do, classifies the data they touch, activates the ri |
-| 8 | [mageshkrishna/loxy-router](https://github.com/mageshkrishna/loxy-router) | 0 | Go | 2026-06-12 | Warmth-aware load balancer and reverse proxy for self-hosted LLM inference — routes each request to the Ollama or vLLM b |
-| 9 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-06-12 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10114 | Python | 2026-06-12 | AI Observability & Evaluation |
+| 1 | [mageshkrishna/loxy-router](https://github.com/mageshkrishna/loxy-router) | 0 | Go | 2026-06-12 | Warmth-aware load balancer and reverse proxy for self-hosted LLM inference — routes each request to the Ollama or vLLM b |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10115 | Python | 2026-06-12 | AI Observability & Evaluation |
+| 4 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 0 | Python | 2026-06-12 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
+| 5 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-06-12 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
+| 6 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 2 | Java | 2026-06-12 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
+| 7 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 4 | Go | 2026-06-12 | The opinionated workflow engine and governance layer for agent-driven software development. |
+| 8 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19589 | Python | 2026-06-12 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 9 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50177 | Python | 2026-06-12 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 10 | [ancilis/ancilis](https://github.com/ancilis/ancilis) | 5 | Python | 2026-06-12 | Agents change faster than audits. Ancilis discovers what agents can do, classifies the data they touch, activates the ri |
+| 11 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-06-12 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
 | 12 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-12 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 13 | [InftyAI/alphatrion](https://github.com/InftyAI/alphatrion) | 13 | Python | 2026-06-12 | ⚒️ The open-source framework for LLM experiments and agent orchestration. |
-| 14 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5712 | Go | 2026-06-12 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 15 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26473 | Python | 2026-06-12 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 14 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5714 | Go | 2026-06-12 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 15 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26474 | Python | 2026-06-12 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 16 | [bursora/core](https://github.com/bursora/core) | 1 | TypeScript | 2026-06-12 | Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js) |
 | 17 | [iblai/os](https://github.com/iblai/os) | 13 | TypeScript | 2026-06-12 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
 | 18 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-12 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
