@@ -1,11 +1,47 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26445,
+    "updated_at": "2026-06-12T01:44:28Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "LLM Brain \u2014 Source-grounded engineering knowledge compiler. Turns repositories, docs, incidents, ADRs, and security note",
+    "id": "Radeonares32/LLMBrain",
+    "language": "Python",
+    "name": "Radeonares32/LLMBrain",
+    "stars": 0,
+    "updated_at": "2026-06-12T01:42:48Z",
+    "url": "https://github.com/Radeonares32/LLMBrain"
+  },
+  {
+    "description": "Multi-provider LLM proxy on ECS Fargate routing OpenAI and Anthropic by cost, latency, or quality, with DynamoDB caching",
+    "id": "jordann6/llm-gateway",
+    "language": "HCL",
+    "name": "jordann6/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-12T01:40:36Z",
+    "url": "https://github.com/jordann6/llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-12T01:39:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
     "id": "KIM3310/enterprise-llm-adoption-kit",
     "language": "Python",
     "name": "KIM3310/enterprise-llm-adoption-kit",
     "stars": 0,
-    "updated_at": "2026-06-12T01:39:17Z",
+    "updated_at": "2026-06-12T01:44:12Z",
     "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
   },
   {
@@ -58,7 +94,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50088,
+    "stars": 50089,
     "updated_at": "2026-06-12T01:35:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -108,21 +144,12 @@
     "url": "https://github.com/Prissieperoneal156/rig"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-12T01:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
     "id": "KIM3310/llm-onprem-deployment-kit",
     "language": "HCL",
     "name": "KIM3310/llm-onprem-deployment-kit",
     "stars": 0,
-    "updated_at": "2026-06-12T01:35:43Z",
+    "updated_at": "2026-06-12T01:42:46Z",
     "url": "https://github.com/KIM3310/llm-onprem-deployment-kit"
   },
   {
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T01:25:31Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "LLM Brain \u2014 Source-grounded engineering knowledge compiler. Turns repositories, docs, incidents, ADRs, and security note",
-    "id": "Radeonares32/LLMBrain",
-    "language": "Python",
-    "name": "Radeonares32/LLMBrain",
-    "stars": 0,
-    "updated_at": "2026-06-12T01:25:07Z",
-    "url": "https://github.com/Radeonares32/LLMBrain"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -243,13 +261,13 @@
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26445,
-    "updated_at": "2026-06-12T01:14:59Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5682,
+    "updated_at": "2026-06-12T01:15:14Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T01:00:12Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5426,
-    "updated_at": "2026-06-12T00:59:31Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7590,
-    "updated_at": "2026-06-12T01:13:46Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   }
 ]
