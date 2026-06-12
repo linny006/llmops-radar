@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-12 04:45 UTC
+> ⏰ Last updated: 2026-06-12 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 12 | Python | 2026-06-12 | ⚡ Curated list of AI gateways & LLM proxies — LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api… compared by cost, co |
-| 2 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-12 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 3 | [ictseoyoungmin/HADARA](https://github.com/ictseoyoungmin/HADARA) | 0 | TypeScript | 2026-06-12 | Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows. |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10106 | Python | 2026-06-12 | AI Observability & Evaluation |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50103 | Python | 2026-06-12 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 3 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26451 | Python | 2026-06-12 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 0 | Python | 2026-06-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50102 | Python | 2026-06-12 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 6 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 4 | Python | 2026-06-12 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
-| 7 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-12 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
-| 8 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-12 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 9 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-06-12 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
-| 10 | [Arman7843/gemmachat-windows](https://github.com/Arman7843/gemmachat-windows) | 0 | — | 2026-06-12 | Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant. |
-| 11 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-12 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
-| 12 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-06-12 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
-| 13 | [Prissieperoneal156/rig](https://github.com/Prissieperoneal156/rig) | 0 | — | 2026-06-12 | Coordinate multiple AI coding agents from a single interface to streamline development workflows. |
-| 14 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10106 | Python | 2026-06-12 | AI Observability & Evaluation |
-| 15 | [sauravbhattacharya001/prompt](https://github.com/sauravbhattacharya001/prompt) | 1 | C# | 2026-06-12 | .NET 8 prompt engineering toolkit — Azure OpenAI client, template engine, prompt chaining, injection detection, bias det |
-| 16 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26450 | Python | 2026-06-12 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 5 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 12 | Python | 2026-06-12 | ⚡ Curated list of AI gateways & LLM proxies — LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api… compared by cost, co |
+| 6 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-12 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 7 | [ictseoyoungmin/HADARA](https://github.com/ictseoyoungmin/HADARA) | 0 | TypeScript | 2026-06-12 | Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows. |
+| 8 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 4 | Python | 2026-06-12 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
+| 9 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-12 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
+| 10 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-12 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
+| 11 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-06-12 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
+| 12 | [Arman7843/gemmachat-windows](https://github.com/Arman7843/gemmachat-windows) | 0 | — | 2026-06-12 | Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant. |
+| 13 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-12 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
+| 14 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-06-12 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
+| 15 | [Prissieperoneal156/rig](https://github.com/Prissieperoneal156/rig) | 0 | — | 2026-06-12 | Coordinate multiple AI coding agents from a single interface to streamline development workflows. |
+| 16 | [sauravbhattacharya001/prompt](https://github.com/sauravbhattacharya001/prompt) | 1 | C# | 2026-06-12 | .NET 8 prompt engineering toolkit — Azure OpenAI client, template engine, prompt chaining, injection detection, bias det |
 | 17 | [weensy-overutilisation690/SuperStation-SD-Card-Installer](https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer) | 0 | — | 2026-06-12 | Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA |
 | 18 | [retardingforcerightbank635/dm-gateway-bot](https://github.com/retardingforcerightbank635/dm-gateway-bot) | 0 | Python | 2026-06-12 | Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k |
 | 19 | [Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework](https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework) | 0 | — | 2026-06-12 | Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and  |
