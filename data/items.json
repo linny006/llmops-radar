@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83d\udcb8 Cut ~66% off your LLM bill. Drop-in proxy compresses input, output, and cache: any provider, answers unchanged, no ext",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 1,
-    "updated_at": "2026-06-12T11:24:42Z",
-    "url": "https://github.com/fkiene/llmtrim"
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-12T11:44:56Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,8 +14,44 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28975,
-    "updated_at": "2026-06-12T11:26:40Z",
+    "updated_at": "2026-06-12T11:44:42Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19585,
+    "updated_at": "2026-06-12T11:44:08Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83d\udcb8 Cut ~66% off your LLM bill. Drop-in proxy compresses input, output, and cache: any provider, answers unchanged, no ext",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 1,
+    "updated_at": "2026-06-12T11:32:58Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50154,
+    "updated_at": "2026-06-12T11:44:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -23,7 +59,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5701,
-    "updated_at": "2026-06-12T11:21:20Z",
+    "updated_at": "2026-06-12T11:44:22Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -32,26 +68,8 @@
     "language": "Rust",
     "name": "jamjet-labs/jamjet",
     "stars": 14,
-    "updated_at": "2026-06-12T11:16:41Z",
+    "updated_at": "2026-06-12T11:45:16Z",
     "url": "https://github.com/jamjet-labs/jamjet"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:15:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 31,
-    "updated_at": "2026-06-12T11:27:19Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
@@ -63,21 +81,12 @@
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50153,
-    "updated_at": "2026-06-12T11:28:35Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
     "id": "zenml-io/zenml",
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5440,
-    "updated_at": "2026-06-12T11:07:30Z",
+    "updated_at": "2026-06-12T11:33:47Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -86,7 +95,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2235,
-    "updated_at": "2026-06-12T11:04:52Z",
+    "updated_at": "2026-06-12T11:33:01Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T10:59:33Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19585,
-    "updated_at": "2026-06-12T11:29:07Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -311,7 +311,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4197,
-    "updated_at": "2026-06-12T11:29:06Z",
+    "updated_at": "2026-06-12T11:34:46Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
