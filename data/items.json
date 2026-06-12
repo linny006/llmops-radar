@@ -1,12 +1,39 @@
 [
   {
-    "description": "Warmth-aware load balancer and reverse proxy for self-hosted LLM inference \u2014 routes each request to the Ollama or vLLM b",
-    "id": "mageshkrishna/loxy-router",
-    "language": "Go",
-    "name": "mageshkrishna/loxy-router",
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-06-12T18:59:07Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-12T18:32:50Z",
-    "url": "https://github.com/mageshkrishna/loxy-router"
+    "updated_at": "2026-06-12T18:57:20Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A reactive runtime for building durable AI agents",
+    "id": "ThousandBirdsInc/chidori",
+    "language": "Rust",
+    "name": "ThousandBirdsInc/chidori",
+    "stars": 1349,
+    "updated_at": "2026-06-12T18:53:31Z",
+    "url": "https://github.com/ThousandBirdsInc/chidori"
+  },
+  {
+    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 34,
+    "updated_at": "2026-06-12T18:53:17Z",
+    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 0,
-    "updated_at": "2026-06-12T18:30:30Z",
+    "updated_at": "2026-06-12T18:45:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Warmth-aware load balancer and reverse proxy for self-hosted LLM inference \u2014 routes each request to the Ollama or vLLM b",
+    "id": "mageshkrishna/loxy-router",
+    "language": "Go",
+    "name": "mageshkrishna/loxy-router",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:32:50Z",
+    "url": "https://github.com/mageshkrishna/loxy-router"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -36,21 +72,12 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-06-12T18:31:24Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
     "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
     "id": "runcycles/cycles-server",
     "language": "Java",
     "name": "runcycles/cycles-server",
     "stars": 2,
-    "updated_at": "2026-06-12T18:27:23Z",
+    "updated_at": "2026-06-12T18:46:31Z",
     "url": "https://github.com/runcycles/cycles-server"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 4,
-    "updated_at": "2026-06-12T18:22:42Z",
+    "updated_at": "2026-06-12T18:46:06Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50177,
-    "updated_at": "2026-06-12T18:42:48Z",
+    "updated_at": "2026-06-12T18:51:41Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-12T18:16:28Z",
     "url": "https://github.com/runcycles/cycles-server-events"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-12T18:15:14Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\u2692\ufe0f The open-source framework for LLM experiments and agent orchestration.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T17:25:46Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:25:04Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:23:53Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
