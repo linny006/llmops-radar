@@ -1,12 +1,57 @@
 [
   {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-13T07:57:34Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-13T07:44:45Z",
+    "updated_at": "2026-06-13T07:51:34Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 92,
+    "updated_at": "2026-06-13T07:51:21Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2237,
+    "updated_at": "2026-06-13T07:45:23Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-13T07:45:23Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 1,
+    "updated_at": "2026-06-13T07:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T07:34:23Z",
     "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 1,
-    "updated_at": "2026-06-13T07:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -198,20 +234,11 @@
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
   },
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 31,
-    "updated_at": "2026-06-13T07:29:49Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50219,
+    "stars": 50221,
     "updated_at": "2026-06-13T07:09:26Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T06:44:52Z",
     "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-13T06:40:26Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-13T06:40:04Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-06-13T06:38:44Z",
-    "url": "https://github.com/degen1322/agentic-template"
   }
 ]
