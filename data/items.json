@@ -1,5 +1,23 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50260,
+    "updated_at": "2026-06-13T18:42:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 1,
+    "updated_at": "2026-06-13T18:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Java",
     "name": "runcycles/cycles-spring-boot-starter",
     "stars": 1,
-    "updated_at": "2026-06-13T18:28:25Z",
+    "updated_at": "2026-06-13T18:44:29Z",
     "url": "https://github.com/runcycles/cycles-spring-boot-starter"
   },
   {
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T18:28:08Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50260,
-    "updated_at": "2026-06-13T18:27:06Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -77,7 +86,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 4,
-    "updated_at": "2026-06-13T18:23:15Z",
+    "updated_at": "2026-06-13T18:40:37Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -131,17 +140,8 @@
     "language": "Go",
     "name": "prashar32/riskkernel",
     "stars": 18,
-    "updated_at": "2026-06-13T18:30:29Z",
+    "updated_at": "2026-06-13T18:41:49Z",
     "url": "https://github.com/prashar32/riskkernel"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 1,
-    "updated_at": "2026-06-13T18:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -360,6 +360,15 @@
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29018,
+    "updated_at": "2026-06-13T17:53:24Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
     "id": "ashmedanraj/langfuse-eks-production",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T17:43:06Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-13T17:42:46Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
