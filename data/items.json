@@ -1,11 +1,20 @@
 [
   {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 26,
+    "updated_at": "2026-06-13T21:59:40Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
     "description": "whatif is an open experiment runner for LLM behavior changes. whatif forks production traces, replays them    with a pro",
     "id": "victoralfred/whatifd",
     "language": "Python",
     "name": "victoralfred/whatifd",
     "stars": 3,
-    "updated_at": "2026-06-13T21:40:38Z",
+    "updated_at": "2026-06-13T21:54:29Z",
     "url": "https://github.com/victoralfred/whatifd"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50265,
-    "updated_at": "2026-06-13T21:39:31Z",
+    "updated_at": "2026-06-13T22:00:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 1,
-    "updated_at": "2026-06-13T21:30:30Z",
+    "updated_at": "2026-06-13T21:45:22Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T21:06:13Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 26,
-    "updated_at": "2026-06-13T21:32:48Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
