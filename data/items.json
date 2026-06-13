@@ -1,12 +1,39 @@
 [
   {
+    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
+    "id": "prashar32/riskkernel",
+    "language": "Go",
+    "name": "prashar32/riskkernel",
+    "stars": 18,
+    "updated_at": "2026-06-13T00:45:17Z",
+    "url": "https://github.com/prashar32/riskkernel"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50192,
-    "updated_at": "2026-06-13T00:29:49Z",
+    "stars": 50193,
+    "updated_at": "2026-06-13T00:44:48Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Build, Manage and Deploy AI/ML Systems",
+    "id": "Netflix/metaflow",
+    "language": "Python",
+    "name": "Netflix/metaflow",
+    "stars": 10129,
+    "updated_at": "2026-06-13T00:39:16Z",
+    "url": "https://github.com/Netflix/metaflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-13T00:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -81,15 +108,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
-    "id": "prashar32/riskkernel",
-    "language": "Go",
-    "name": "prashar32/riskkernel",
-    "stars": 18,
-    "updated_at": "2026-06-13T00:19:26Z",
-    "url": "https://github.com/prashar32/riskkernel"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T00:18:01Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:18:00Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "prismal-ai/prismal",
     "stars": 0,
-    "updated_at": "2026-06-13T00:15:13Z",
+    "updated_at": "2026-06-13T00:36:18Z",
     "url": "https://github.com/prismal-ai/prismal"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
     "stars": 4,
-    "updated_at": "2026-06-13T00:25:55Z",
+    "updated_at": "2026-06-13T00:44:54Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
@@ -250,6 +259,15 @@
     "stars": 10,
     "updated_at": "2026-06-13T00:03:50Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "adrielnava/llm-systems-manager",
+    "language": "Python",
+    "name": "adrielnava/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-13T00:03:33Z",
+    "url": "https://github.com/adrielnava/llm-systems-manager"
   },
   {
     "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T23:47:38Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-12T23:47:30Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "\ud83d\udcb8 Cut ~66% off your LLM bill. Drop-in proxy compresses input, output, and cache: any provider, answers unchanged, no ext",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 20,
-    "updated_at": "2026-06-12T23:46:19Z",
-    "url": "https://github.com/fkiene/llmtrim"
   }
 ]
