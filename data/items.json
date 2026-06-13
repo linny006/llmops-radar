@@ -1,21 +1,39 @@
 [
   {
-    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
-    "id": "prashar32/riskkernel",
-    "language": "Go",
-    "name": "prashar32/riskkernel",
-    "stars": 18,
-    "updated_at": "2026-06-13T00:45:17Z",
-    "url": "https://github.com/prashar32/riskkernel"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50193,
-    "updated_at": "2026-06-13T00:44:48Z",
+    "updated_at": "2026-06-13T00:59:56Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22155,
+    "updated_at": "2026-06-13T00:54:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
+    "id": "prashar32/riskkernel",
+    "language": "Go",
+    "name": "prashar32/riskkernel",
+    "stars": 18,
+    "updated_at": "2026-06-13T00:58:48Z",
+    "url": "https://github.com/prashar32/riskkernel"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 0,
+    "updated_at": "2026-06-13T00:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build, Manage and Deploy AI/ML Systems",
@@ -25,15 +43,6 @@
     "stars": 10129,
     "updated_at": "2026-06-13T00:39:16Z",
     "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
     "stars": 4,
-    "updated_at": "2026-06-13T00:44:54Z",
+    "updated_at": "2026-06-13T01:00:16Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T23:47:43Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-12T23:47:38Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
