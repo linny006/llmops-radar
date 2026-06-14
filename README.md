@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-14 17:45 UTC
+> ⏰ Last updated: 2026-06-14 17:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [XiaoShuai-AI-Lab/ai-stack-roadmap](https://github.com/XiaoShuai-AI-Lab/ai-stack-roadmap) | 0 | — | 2026-06-14 | AI Stack roadmap and public course artifacts by XiaoShuai AI Lab |
-| 2 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 3 | Java | 2026-06-14 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50346 | Python | 2026-06-14 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 4 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-06-14 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
-| 5 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-06-14 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
-| 6 | [runcycles/cycles-protocol](https://github.com/runcycles/cycles-protocol) | 3 | Python | 2026-06-14 | Open protocol for runtime budget and action authority over AI agents |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [XiaoShuai-AI-Lab/ai-stack-roadmap](https://github.com/XiaoShuai-AI-Lab/ai-stack-roadmap) | 0 | — | 2026-06-14 | AI Stack roadmap and public course artifacts by XiaoShuai AI Lab |
+| 3 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 3 | Java | 2026-06-14 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50346 | Python | 2026-06-14 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 5 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-06-14 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
+| 6 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-06-14 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
+| 7 | [runcycles/cycles-protocol](https://github.com/runcycles/cycles-protocol) | 3 | Python | 2026-06-14 | Open protocol for runtime budget and action authority over AI agents |
 | 8 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-14 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 9 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 30 | Python | 2026-06-14 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
 | 10 | [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) | 1349 | Rust | 2026-06-14 | A reactive runtime for building durable AI agents |
