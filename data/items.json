@@ -1,12 +1,39 @@
 [
   {
+    "description": "A framework for governing how organisations manage AI context. Vendor-neutral.",
+    "id": "kannanokannan/ContextOps",
+    "language": "\u2014",
+    "name": "kannanokannan/ContextOps",
+    "stars": 0,
+    "updated_at": "2026-06-14T04:14:22Z",
+    "url": "https://github.com/kannanokannan/ContextOps"
+  },
+  {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
     "stars": 4,
-    "updated_at": "2026-06-14T03:59:22Z",
+    "updated_at": "2026-06-14T04:12:36Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50287,
+    "updated_at": "2026-06-14T04:14:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 1,
+    "updated_at": "2026-06-14T04:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -25,15 +52,6 @@
     "stars": 349,
     "updated_at": "2026-06-14T03:47:28Z",
     "url": "https://github.com/starbaser/ccproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -369,15 +387,6 @@
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   },
   {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:07:26Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -385,6 +394,15 @@
     "stars": 26501,
     "updated_at": "2026-06-14T03:08:04Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
+    "id": "sarrahw23/deploy-guide",
+    "language": "\u2014",
+    "name": "sarrahw23/deploy-guide",
+    "stars": 1,
+    "updated_at": "2026-06-14T03:07:26Z",
+    "url": "https://github.com/sarrahw23/deploy-guide"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T03:01:57Z",
     "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
-  },
-  {
-    "description": "Portable long-term memory store for agents, exposed over MCP",
-    "id": "cognis-digital/memorybank",
-    "language": "Python",
-    "name": "cognis-digital/memorybank",
-    "stars": 0,
-    "updated_at": "2026-06-14T02:59:03Z",
-    "url": "https://github.com/cognis-digital/memorybank"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-14T02:58:47Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
