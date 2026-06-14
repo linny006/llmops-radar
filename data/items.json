@@ -1,12 +1,39 @@
 [
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-06-14T04:59:07Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2238,
+    "updated_at": "2026-06-14T04:57:44Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-14T04:57:42Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Framework-agnostic AI Agent \ud3c9\uac00/\uad00\uce21 \uc778\ud504\ub77c (4\ucd95 \ud3c9\uac00 + OpenTelemetry GenAI trace)",
+    "id": "songwookun/agent-eval-lab",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50288,
-    "updated_at": "2026-06-14T04:32:07Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "songwookun/agent-eval-lab",
+    "stars": 0,
+    "updated_at": "2026-06-14T04:45:52Z",
+    "url": "https://github.com/songwookun/agent-eval-lab"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 1,
-    "updated_at": "2026-06-14T04:30:30Z",
+    "updated_at": "2026-06-14T04:45:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50290,
+    "updated_at": "2026-06-14T04:32:07Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -45,13 +81,13 @@
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2238,
-    "updated_at": "2026-06-14T03:50:33Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 93,
+    "updated_at": "2026-06-14T03:49:51Z",
+    "url": "https://github.com/taichuy/1flowbase"
   },
   {
     "description": "Build mods for Claude Code: Hook any request, modify any response, /model \"with-your-custom-model\", intelligent model ro",
@@ -378,15 +414,6 @@
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   },
   {
-    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 92,
-    "updated_at": "2026-06-14T03:49:51Z",
-    "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
     "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
     "id": "ashmedanraj/langfuse-eks-production",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-14T03:04:07Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Offline LLM / agent eval harness with regression gates",
-    "id": "cognis-digital/evalbench",
-    "language": "Python",
-    "name": "cognis-digital/evalbench",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:03:20Z",
-    "url": "https://github.com/cognis-digital/evalbench"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:02:20Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:02:07Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   }
 ]
