@@ -1,5 +1,59 @@
 [
   {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-06-14T18:29:53Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-14T18:28:33Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "AI Stack roadmap and public course artifacts by XiaoShuai AI Lab",
+    "id": "XiaoShuai-AI-Lab/ai-stack-roadmap",
+    "language": "\u2014",
+    "name": "XiaoShuai-AI-Lab/ai-stack-roadmap",
+    "stars": 0,
+    "updated_at": "2026-06-14T18:28:01Z",
+    "url": "https://github.com/XiaoShuai-AI-Lab/ai-stack-roadmap"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-06-14T18:26:41Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 17,
+    "updated_at": "2026-06-14T18:20:00Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-14T18:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -45,24 +99,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-14T18:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI Stack roadmap and public course artifacts by XiaoShuai AI Lab",
-    "id": "XiaoShuai-AI-Lab/ai-stack-roadmap",
-    "language": "\u2014",
-    "name": "XiaoShuai-AI-Lab/ai-stack-roadmap",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:53:30Z",
-    "url": "https://github.com/XiaoShuai-AI-Lab/ai-stack-roadmap"
-  },
-  {
     "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
     "id": "prismal-ai/prismal",
     "language": "Python",
@@ -85,7 +121,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50347,
+    "stars": 50348,
     "updated_at": "2026-06-14T17:35:16Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T17:33:44Z",
     "url": "https://github.com/runcycles/cycles-server-events"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-06-14T17:33:37Z",
-    "url": "https://github.com/runcycles/cycles-docs"
   },
   {
     "description": "Open protocol for runtime budget and action authority over AI agents",
@@ -178,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-06-14T17:19:39Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 17,
-    "updated_at": "2026-06-14T18:10:40Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T16:32:24Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Deterministic metric-change ledger for AI observability, robotics telemetry, and industrial monitoring",
-    "id": "chrono-metrics/metricchrono",
-    "language": "Rust",
-    "name": "chrono-metrics/metricchrono",
-    "stars": 0,
-    "updated_at": "2026-06-14T16:32:13Z",
-    "url": "https://github.com/chrono-metrics/metricchrono"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-14T16:30:10Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   }
 ]
