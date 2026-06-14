@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-14 04:30 UTC
+> ⏰ Last updated: 2026-06-14 04:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5738 | Go | 2026-06-14 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50288 | Python | 2026-06-14 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 1 | Python | 2026-06-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 3 | [kannanokannan/ContextOps](https://github.com/kannanokannan/ContextOps) | 0 | — | 2026-06-14 | A framework for governing how organisations manage AI context. Vendor-neutral. |
-| 4 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 4 | Python | 2026-06-14 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
-| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50287 | Python | 2026-06-14 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 3 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5738 | Go | 2026-06-14 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 4 | [kannanokannan/ContextOps](https://github.com/kannanokannan/ContextOps) | 0 | — | 2026-06-14 | A framework for governing how organisations manage AI context. Vendor-neutral. |
+| 5 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 4 | Python | 2026-06-14 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
 | 6 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2238 | C++ | 2026-06-14 | Community maintained hardware plugin for vLLM on Ascend |
 | 7 | [starbaser/ccproxy](https://github.com/starbaser/ccproxy) | 349 | Python | 2026-06-14 | Build mods for Claude Code: Hook any request, modify any response, /model "with-your-custom-model", intelligent model ro |
 | 8 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-14 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
