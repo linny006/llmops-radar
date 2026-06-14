@@ -1,5 +1,32 @@
 [
   {
+    "description": "Cycles budget and action guard for OpenClaw agents",
+    "id": "runcycles/cycles-openclaw-budget-guard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-openclaw-budget-guard",
+    "stars": 7,
+    "updated_at": "2026-06-14T10:22:53Z",
+    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-06-14T10:20:29Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 1,
+    "updated_at": "2026-06-14T10:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -108,21 +135,12 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 1,
-    "updated_at": "2026-06-14T10:01:56Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
     "id": "runcycles/cycles-server",
     "language": "Java",
     "name": "runcycles/cycles-server",
     "stars": 3,
-    "updated_at": "2026-06-14T10:01:50Z",
+    "updated_at": "2026-06-14T10:20:02Z",
     "url": "https://github.com/runcycles/cycles-server"
   },
   {
@@ -238,9 +256,18 @@
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
-    "stars": 108,
+    "stars": 110,
     "updated_at": "2026-06-14T09:50:12Z",
     "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22180,
+    "updated_at": "2026-06-14T09:49:33Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T09:33:31Z",
     "url": "https://github.com/acornops/acornops-workspace"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-14T09:33:23Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-14T09:31:56Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-14T09:31:19Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
