@@ -1,11 +1,74 @@
 [
   {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 26,
+    "updated_at": "2026-06-14T11:14:49Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "A reactive runtime for building durable AI agents",
+    "id": "ThousandBirdsInc/chidori",
+    "language": "Rust",
+    "name": "ThousandBirdsInc/chidori",
+    "stars": 1349,
+    "updated_at": "2026-06-14T11:12:15Z",
+    "url": "https://github.com/ThousandBirdsInc/chidori"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-14T11:08:00Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
+    "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
+    "id": "jimyoshida/dx-devops-landscape",
+    "language": "JavaScript",
+    "name": "jimyoshida/dx-devops-landscape",
+    "stars": 5,
+    "updated_at": "2026-06-14T11:05:53Z",
+    "url": "https://github.com/jimyoshida/dx-devops-landscape"
+  },
+  {
+    "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 824,
+    "updated_at": "2026-06-14T11:02:17Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 17,
+    "updated_at": "2026-06-14T11:01:46Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 8,
+    "updated_at": "2026-06-14T11:01:09Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 1,
-    "updated_at": "2026-06-14T10:45:25Z",
+    "updated_at": "2026-06-14T11:00:28Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -25,15 +88,6 @@
     "stars": 5744,
     "updated_at": "2026-06-14T10:36:18Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "A reactive runtime for building durable AI agents",
-    "id": "ThousandBirdsInc/chidori",
-    "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1349,
-    "updated_at": "2026-06-14T10:49:47Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
   },
   {
     "description": "Cycles budget and action guard for OpenClaw agents",
@@ -180,15 +234,6 @@
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
   },
   {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 26,
-    "updated_at": "2026-06-14T10:00:49Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
     "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
     "id": "JonyKarmakar/vision-command-ai",
     "language": "TypeScript",
@@ -274,7 +319,7 @@
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
-    "stars": 110,
+    "stars": 111,
     "updated_at": "2026-06-14T09:50:12Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-14T09:39:34Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-14T09:39:32Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-14T09:39:31Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-14T09:39:21Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-14T09:37:39Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-14T09:36:59Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
