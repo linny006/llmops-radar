@@ -1,5 +1,77 @@
 [
   {
+    "description": "Interactive 3D knowledge graph of 793 open-source AI harnesses \u2014 governance, agent, evaluation, red-team, routing \u2014 plus",
+    "id": "Benjamin-KY/open-harness-atlas",
+    "language": "Python",
+    "name": "Benjamin-KY/open-harness-atlas",
+    "stars": 2,
+    "updated_at": "2026-06-14T14:13:51Z",
+    "url": "https://github.com/Benjamin-KY/open-harness-atlas"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-14T14:08:27Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-14T14:05:19Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-14T14:04:11Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-14T14:04:00Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-14T14:02:43Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-06-14T14:00:55Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 1,
+    "updated_at": "2026-06-14T14:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
     "id": "Arman7843/gemmachat-windows",
     "language": "\u2014",
@@ -41,7 +113,7 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 9,
-    "updated_at": "2026-06-14T13:55:32Z",
+    "updated_at": "2026-06-14T14:08:51Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
@@ -70,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-06-14T13:53:09Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5746,
+    "updated_at": "2026-06-14T13:52:37Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
@@ -133,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T13:45:28Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 1,
-    "updated_at": "2026-06-14T13:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source observability for LLM apps \u2014 track latency, tokens & cost with explainable alerts and a public status page. ",
@@ -221,7 +293,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 4,
-    "updated_at": "2026-06-14T13:57:03Z",
+    "updated_at": "2026-06-14T14:10:08Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-14T13:18:35Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-14T13:18:23Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
-    "id": "degen1322/agentic-template",
-    "language": "HTML",
-    "name": "degen1322/agentic-template",
-    "stars": 0,
-    "updated_at": "2026-06-14T13:17:24Z",
-    "url": "https://github.com/degen1322/agentic-template"
-  },
-  {
-    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
-    "id": "kami-beep/kb-contracts",
-    "language": "TypeScript",
-    "name": "kami-beep/kb-contracts",
-    "stars": 0,
-    "updated_at": "2026-06-14T13:14:10Z",
-    "url": "https://github.com/kami-beep/kb-contracts"
-  },
-  {
-    "description": "Interactive 3D knowledge graph of 793 open-source AI harnesses \u2014 governance, agent, evaluation, red-team, routing \u2014 plus",
-    "id": "Benjamin-KY/open-harness-atlas",
-    "language": "Python",
-    "name": "Benjamin-KY/open-harness-atlas",
-    "stars": 2,
-    "updated_at": "2026-06-14T13:11:52Z",
-    "url": "https://github.com/Benjamin-KY/open-harness-atlas"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-14T13:10:54Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-14T13:09:58Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22185,
-    "updated_at": "2026-06-14T13:09:01Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
-    "id": "SkylineTZ/RagaliQ",
-    "language": "Python",
-    "name": "SkylineTZ/RagaliQ",
-    "stars": 1,
-    "updated_at": "2026-06-14T13:05:10Z",
-    "url": "https://github.com/SkylineTZ/RagaliQ"
   }
 ]
