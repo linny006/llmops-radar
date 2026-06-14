@@ -1,5 +1,149 @@
 [
   {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:27:49Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-06-14T09:27:32Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
+    "id": "degen1322/agentic-template",
+    "language": "HTML",
+    "name": "degen1322/agentic-template",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:26:24Z",
+    "url": "https://github.com/degen1322/agentic-template"
+  },
+  {
+    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
+    "id": "kami-beep/kb-contracts",
+    "language": "TypeScript",
+    "name": "kami-beep/kb-contracts",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:23:22Z",
+    "url": "https://github.com/kami-beep/kb-contracts"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:22:05Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
+    "id": "acornops/vm-agent",
+    "language": "TypeScript",
+    "name": "acornops/vm-agent",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:22:05Z",
+    "url": "https://github.com/acornops/vm-agent"
+  },
+  {
+    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
+    "id": "acornops/execution-engine",
+    "language": "Python",
+    "name": "acornops/execution-engine",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:22:05Z",
+    "url": "https://github.com/acornops/execution-engine"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:22:04Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:22:04Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
+    "id": "acornops/k8s-agent",
+    "language": "TypeScript",
+    "name": "acornops/k8s-agent",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:22:04Z",
+    "url": "https://github.com/acornops/k8s-agent"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:22:04Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Multi-repository workspace harness for AcornOps development, validation and contracts.",
+    "id": "acornops/acornops-workspace",
+    "language": "JavaScript",
+    "name": "acornops/acornops-workspace",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:22:04Z",
+    "url": "https://github.com/acornops/acornops-workspace"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:22:04Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-06-14T09:20:08Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 1,
+    "updated_at": "2026-06-14T09:19:18Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 1,
+    "updated_at": "2026-06-14T09:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83c\udff7\ufe0f Automate PR metadata generation by inferring labels, assignees, and milestones from branch names and commit history f",
     "id": "SkylineTZ/RagaliQ",
     "language": "Python",
@@ -124,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T09:01:06Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 1,
-    "updated_at": "2026-06-14T09:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
@@ -302,7 +437,7 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 26,
-    "updated_at": "2026-06-14T08:42:55Z",
+    "updated_at": "2026-06-14T09:27:12Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T08:38:28Z",
     "url": "https://github.com/iulieobraznic/agentic-ai-systems"
-  },
-  {
-    "description": "\ud83c\udf9b\ufe0f Build efficient workflows with Deevs' Agent System, a plugin marketplace for Claude Code featuring multi-session chai",
-    "id": "Shahzadaslam007799/agent-system",
-    "language": "\u2014",
-    "name": "Shahzadaslam007799/agent-system",
-    "stars": 1,
-    "updated_at": "2026-06-14T08:38:07Z",
-    "url": "https://github.com/Shahzadaslam007799/agent-system"
-  },
-  {
-    "description": "\ud83d\udecd\ufe0f Automate your sales process with an AI-driven multi-agent system that improves efficiency from product inquiries to p",
-    "id": "sway121/Agentes_IA",
-    "language": "Python",
-    "name": "sway121/Agentes_IA",
-    "stars": 5,
-    "updated_at": "2026-06-14T08:35:42Z",
-    "url": "https://github.com/sway121/Agentes_IA"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance customer support with an LLM-powered agent that smartly routes queries using FastAPI, Postgres, and Redis for ",
-    "id": "xjanex160/customer-support-agent",
-    "language": "Python",
-    "name": "xjanex160/customer-support-agent",
-    "stars": 2,
-    "updated_at": "2026-06-14T08:35:37Z",
-    "url": "https://github.com/xjanex160/customer-support-agent"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance your CAD, WMS, or CAM software with Vector\u2014an offline tool for seamless optimization without tuning or ongoing",
-    "id": "dewqasujbc/Vector",
-    "language": "\u2014",
-    "name": "dewqasujbc/Vector",
-    "stars": 0,
-    "updated_at": "2026-06-14T08:35:34Z",
-    "url": "https://github.com/dewqasujbc/Vector"
-  },
-  {
-    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
-    "id": "dgenio/intentflow",
-    "language": "Python",
-    "name": "dgenio/intentflow",
-    "stars": 1,
-    "updated_at": "2026-06-14T08:32:59Z",
-    "url": "https://github.com/dgenio/intentflow"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-06-14T08:29:36Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-06-14T08:28:35Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "An interactive 3D knowledge graph of 816 open-source AI harnesses \u2014 governance, agent, evaluation, red-team, routing \u2014 w",
-    "id": "Benjamin-KY/open-harness-atlas",
-    "language": "Python",
-    "name": "Benjamin-KY/open-harness-atlas",
-    "stars": 1,
-    "updated_at": "2026-06-14T08:27:48Z",
-    "url": "https://github.com/Benjamin-KY/open-harness-atlas"
-  },
-  {
-    "description": "\ud83e\udde9 Explore LLM essentials, build advanced models, and develop applications with this comprehensive course on large langua",
-    "id": "Gmail1995/llm-course",
-    "language": "\u2014",
-    "name": "Gmail1995/llm-course",
-    "stars": 1,
-    "updated_at": "2026-06-14T08:26:51Z",
-    "url": "https://github.com/Gmail1995/llm-course"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2238,
-    "updated_at": "2026-06-14T08:22:26Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "",
-    "id": "ghaithmhmm/LLM-Training",
-    "language": "Python",
-    "name": "ghaithmhmm/LLM-Training",
-    "stars": 0,
-    "updated_at": "2026-06-14T08:22:16Z",
-    "url": "https://github.com/ghaithmhmm/LLM-Training"
-  },
-  {
-    "description": "K8sGPT + Ollama in-cluster Kubernetes diagnostics runbook",
-    "id": "Vickyavh7/k8sgpt-ollama-aops",
-    "language": "Shell",
-    "name": "Vickyavh7/k8sgpt-ollama-aops",
-    "stars": 0,
-    "updated_at": "2026-06-14T08:19:46Z",
-    "url": "https://github.com/Vickyavh7/k8sgpt-ollama-aops"
-  },
-  {
-    "description": "",
-    "id": "aekta113/ai-sre",
-    "language": "Python",
-    "name": "aekta113/ai-sre",
-    "stars": 1,
-    "updated_at": "2026-06-14T08:19:14Z",
-    "url": "https://github.com/aekta113/ai-sre"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-14T08:13:02Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
-    "id": "BrandonChT/ai-character-engine",
-    "language": "Python",
-    "name": "BrandonChT/ai-character-engine",
-    "stars": 5,
-    "updated_at": "2026-06-14T08:11:58Z",
-    "url": "https://github.com/BrandonChT/ai-character-engine"
   }
 ]
