@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-14 10:45 UTC
+> ⏰ Last updated: 2026-06-14 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-06-14 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
-| 2 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5743 | Go | 2026-06-14 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 3 | [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) | 1349 | Rust | 2026-06-14 | A reactive runtime for building durable AI agents |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 1 | Python | 2026-06-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 1 | Python | 2026-06-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-06-14 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
+| 3 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5744 | Go | 2026-06-14 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 4 | [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) | 1349 | Rust | 2026-06-14 | A reactive runtime for building durable AI agents |
 | 5 | [runcycles/cycles-openclaw-budget-guard](https://github.com/runcycles/cycles-openclaw-budget-guard) | 7 | TypeScript | 2026-06-14 | Cycles budget and action guard for OpenClaw agents |
 | 6 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-06-14 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
 | 7 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-14 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
