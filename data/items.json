@@ -1,5 +1,41 @@
 [
   {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 4,
+    "updated_at": "2026-06-14T03:59:22Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2238,
+    "updated_at": "2026-06-14T03:50:33Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Build mods for Claude Code: Hook any request, modify any response, /model \"with-your-custom-model\", intelligent model ro",
+    "id": "starbaser/ccproxy",
+    "language": "Python",
+    "name": "starbaser/ccproxy",
+    "stars": 349,
+    "updated_at": "2026-06-14T03:47:28Z",
+    "url": "https://github.com/starbaser/ccproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 1,
+    "updated_at": "2026-06-14T03:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T03:39:42Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2238,
-    "updated_at": "2026-06-14T03:38:39Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T03:30:57Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
@@ -338,7 +356,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 92,
-    "updated_at": "2026-06-14T03:09:13Z",
+    "updated_at": "2026-06-14T03:49:51Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T02:58:47Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-14T02:58:32Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Self-evolving cognitive AI exoskeleton. 10+ frontier models, 245 consensus methods, governed autonomous agents. Automoti",
-    "id": "PolyHelper/polyhelper",
-    "language": "JavaScript",
-    "name": "PolyHelper/polyhelper",
-    "stars": 64,
-    "updated_at": "2026-06-14T02:57:55Z",
-    "url": "https://github.com/PolyHelper/polyhelper"
   }
 ]
