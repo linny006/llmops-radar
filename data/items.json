@@ -5,8 +5,53 @@
     "language": "\u2014",
     "name": "karailker/llm-coding-guardrails",
     "stars": 0,
-    "updated_at": "2026-06-15T13:29:45Z",
+    "updated_at": "2026-06-15T13:39:20Z",
     "url": "https://github.com/karailker/llm-coding-guardrails"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50455,
+    "updated_at": "2026-06-15T13:35:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29112,
+    "updated_at": "2026-06-15T13:35:52Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AnchorPrune governs agent memory with anchors, pruning, quarantine, and benchmarked state retention.",
+    "id": "aida-solat/anchorPrune",
+    "language": "Python",
+    "name": "aida-solat/anchorPrune",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:35:26Z",
+    "url": "https://github.com/aida-solat/anchorPrune"
+  },
+  {
+    "description": "Multi-agent research synthesis system using LangGraph, Gemini, LlamaIndex, and Pinecone with full LLMOps instrumentation",
+    "id": "daveshenal/aegis",
+    "language": "Python",
+    "name": "daveshenal/aegis",
+    "stars": 1,
+    "updated_at": "2026-06-15T13:31:38Z",
+    "url": "https://github.com/daveshenal/aegis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-15T13:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -23,17 +68,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5799,
-    "updated_at": "2026-06-15T13:27:55Z",
+    "updated_at": "2026-06-15T13:38:04Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29112,
-    "updated_at": "2026-06-15T13:26:13Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
@@ -50,7 +86,7 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 38,
-    "updated_at": "2026-06-15T13:23:51Z",
+    "updated_at": "2026-06-15T13:30:33Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19657,
-    "updated_at": "2026-06-15T13:29:25Z",
+    "updated_at": "2026-06-15T13:35:54Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22221,
-    "updated_at": "2026-06-15T13:20:22Z",
+    "updated_at": "2026-06-15T13:35:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 311,
     "updated_at": "2026-06-15T13:18:42Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-15T13:15:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -144,6 +171,15 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1224,
+    "updated_at": "2026-06-15T13:09:58Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -153,15 +189,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "AnchorPrune governs agent memory with anchors, pruning, quarantine, and benchmarked state retention.",
-    "id": "aida-solat/anchorPrune",
-    "language": "Python",
-    "name": "aida-solat/anchorPrune",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:58:54Z",
-    "url": "https://github.com/aida-solat/anchorPrune"
-  },
-  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T12:54:22Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50454,
-    "updated_at": "2026-06-15T13:26:51Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -374,7 +392,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4204,
-    "updated_at": "2026-06-15T12:33:21Z",
+    "updated_at": "2026-06-15T13:37:41Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-15T12:26:56Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:26:20Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-15T12:25:02Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
