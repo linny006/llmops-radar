@@ -1,5 +1,176 @@
 [
   {
+    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
+    "id": "runtm-ai/runtm",
+    "language": "Python",
+    "name": "runtm-ai/runtm",
+    "stars": 273,
+    "updated_at": "2026-06-15T23:00:09Z",
+    "url": "https://github.com/runtm-ai/runtm"
+  },
+  {
+    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
+    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
+    "language": "\u2014",
+    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-15T22:59:36Z",
+    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-15T22:58:25Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
+    "id": "Trantu6570/LitPOS-Apps-Script",
+    "language": "HTML",
+    "name": "Trantu6570/LitPOS-Apps-Script",
+    "stars": 0,
+    "updated_at": "2026-06-15T22:58:01Z",
+    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
+  },
+  {
+    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
+    "id": "ydavidcm9-wq/vigil",
+    "language": "JavaScript",
+    "name": "ydavidcm9-wq/vigil",
+    "stars": 0,
+    "updated_at": "2026-06-15T22:57:39Z",
+    "url": "https://github.com/ydavidcm9-wq/vigil"
+  },
+  {
+    "description": "Evidently AI APIs.json profile for API Evangelist catalog",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-06-15T22:57:33Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
+    "id": "islaagnet27/llm-cost",
+    "language": "C++",
+    "name": "islaagnet27/llm-cost",
+    "stars": 1,
+    "updated_at": "2026-06-15T22:57:00Z",
+    "url": "https://github.com/islaagnet27/llm-cost"
+  },
+  {
+    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
+    "id": "kawaiirashi/llm-retry",
+    "language": "C++",
+    "name": "kawaiirashi/llm-retry",
+    "stars": 1,
+    "updated_at": "2026-06-15T22:56:59Z",
+    "url": "https://github.com/kawaiirashi/llm-retry"
+  },
+  {
+    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
+    "id": "wahhyun/llm-eval",
+    "language": "C++",
+    "name": "wahhyun/llm-eval",
+    "stars": 1,
+    "updated_at": "2026-06-15T22:56:56Z",
+    "url": "https://github.com/wahhyun/llm-eval"
+  },
+  {
+    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
+    "id": "Anbumani08/agentic-coding-workflow",
+    "language": "HTML",
+    "name": "Anbumani08/agentic-coding-workflow",
+    "stars": 0,
+    "updated_at": "2026-06-15T22:56:53Z",
+    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29132,
+    "updated_at": "2026-06-15T22:56:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
+    "id": "api-evangelist/dify",
+    "language": "\u2014",
+    "name": "api-evangelist/dify",
+    "stars": 0,
+    "updated_at": "2026-06-15T22:55:15Z",
+    "url": "https://github.com/api-evangelist/dify"
+  },
+  {
+    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
+    "id": "ashmedanraj/langfuse-eks-production",
+    "language": "\u2014",
+    "name": "ashmedanraj/langfuse-eks-production",
+    "stars": 0,
+    "updated_at": "2026-06-15T22:55:11Z",
+    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
+  },
+  {
+    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
+    "id": "sarrahw23/deploy-guide",
+    "language": "\u2014",
+    "name": "sarrahw23/deploy-guide",
+    "stars": 1,
+    "updated_at": "2026-06-15T22:54:59Z",
+    "url": "https://github.com/sarrahw23/deploy-guide"
+  },
+  {
+    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
+    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "language": "Python",
+    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "stars": 3,
+    "updated_at": "2026-06-15T22:50:55Z",
+    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-06-15T22:48:47Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-06-15T22:48:47Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
+    "id": "JFPastor09/rest-gateway-1771916756-4",
+    "language": "\u2014",
+    "name": "JFPastor09/rest-gateway-1771916756-4",
+    "stars": 0,
+    "updated_at": "2026-06-15T22:48:38Z",
+    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-15T22:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
     "id": "FawwazAzka/openclaw-docs",
     "language": "JavaScript",
@@ -54,15 +225,6 @@
     "url": "https://github.com/GaBySuGy/agent-guardrails"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-15T22:36:41Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
     "id": "JonyKarmakar/vision-command-ai",
     "language": "TypeScript",
@@ -85,7 +247,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50492,
+    "stars": 50493,
     "updated_at": "2026-06-15T22:35:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -106,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T22:32:06Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-15T22:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udee0\ufe0f Enhance agentic development with tools for isolated environments and unused code detection in your stack.",
@@ -238,7 +391,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26539,
+    "stars": 26540,
     "updated_at": "2026-06-15T22:19:32Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -295,158 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-15T22:16:26Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-06-15T22:13:47Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "\ud83d\ude80 Build and scale reliable Retrieval-Augmented Generation (RAG) systems with this curated collection of tools, framework",
-    "id": "mowael07/Awesome-RAG-Production",
-    "language": "Python",
-    "name": "mowael07/Awesome-RAG-Production",
-    "stars": 3,
-    "updated_at": "2026-06-15T22:11:55Z",
-    "url": "https://github.com/mowael07/Awesome-RAG-Production"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 28786,
-    "updated_at": "2026-06-15T22:11:40Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 2,
-    "updated_at": "2026-06-15T22:10:46Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-06-15T22:10:24Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
-    "id": "azzan1235/agentic_rag_system",
-    "language": "Python",
-    "name": "azzan1235/agentic_rag_system",
-    "stars": 0,
-    "updated_at": "2026-06-15T22:09:31Z",
-    "url": "https://github.com/azzan1235/agentic_rag_system"
-  },
-  {
-    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 17,
-    "updated_at": "2026-06-15T22:09:24Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "\ud83d\ude80 Build and deploy intelligent agents with the Agent Starter Pack, featuring simple templates and robust documentation f",
-    "id": "juana267/agent-starter-pack",
-    "language": "Java",
-    "name": "juana267/agent-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-15T22:07:38Z",
-    "url": "https://github.com/juana267/agent-starter-pack"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Detect and remove spyware with SUPERAntiSpyware Professional X, ensuring your Windows system stays secure and your da",
-    "id": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "language": "\u2014",
-    "name": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "stars": 1,
-    "updated_at": "2026-06-15T22:05:31Z",
-    "url": "https://github.com/mshadan825/SUPERAntiSpyware-Professional-X-Activated"
-  },
-  {
-    "description": "\ud83c\udf10 Build and share your personal website with ease using mjsushanth.github.io, a simple and effective static site generat",
-    "id": "don12345673434/mjsushanth.github.io",
-    "language": "HTML",
-    "name": "don12345673434/mjsushanth.github.io",
-    "stars": 0,
-    "updated_at": "2026-06-15T22:02:54Z",
-    "url": "https://github.com/don12345673434/mjsushanth.github.io"
-  },
-  {
-    "description": "\ud83d\udc14 Simplify AI orchestration by using agentic systems; spawn subagents like a hen with her chicks for seamless task manag",
-    "id": "iulieobraznic/agentic-ai-systems",
-    "language": "\u2014",
-    "name": "iulieobraznic/agentic-ai-systems",
-    "stars": 0,
-    "updated_at": "2026-06-15T21:58:46Z",
-    "url": "https://github.com/iulieobraznic/agentic-ai-systems"
-  },
-  {
-    "description": "\ud83c\udf9b\ufe0f Build efficient workflows with Deevs' Agent System, a plugin marketplace for Claude Code featuring multi-session chai",
-    "id": "Shahzadaslam007799/agent-system",
-    "language": "\u2014",
-    "name": "Shahzadaslam007799/agent-system",
-    "stars": 1,
-    "updated_at": "2026-06-15T21:58:22Z",
-    "url": "https://github.com/Shahzadaslam007799/agent-system"
-  },
-  {
-    "description": "Token cost and latency observability for LLM workloads.",
-    "id": "NotPBShaw/llm-cost-tracker",
-    "language": "TypeScript",
-    "name": "NotPBShaw/llm-cost-tracker",
-    "stars": 0,
-    "updated_at": "2026-06-15T21:57:43Z",
-    "url": "https://github.com/NotPBShaw/llm-cost-tracker"
-  },
-  {
-    "description": "\ud83d\udecd\ufe0f Automate your sales process with an AI-driven multi-agent system that improves efficiency from product inquiries to p",
-    "id": "sway121/Agentes_IA",
-    "language": "Python",
-    "name": "sway121/Agentes_IA",
-    "stars": 5,
-    "updated_at": "2026-06-15T21:56:11Z",
-    "url": "https://github.com/sway121/Agentes_IA"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance customer support with an LLM-powered agent that smartly routes queries using FastAPI, Postgres, and Redis for ",
-    "id": "xjanex160/customer-support-agent",
-    "language": "Python",
-    "name": "xjanex160/customer-support-agent",
-    "stars": 2,
-    "updated_at": "2026-06-15T21:56:05Z",
-    "url": "https://github.com/xjanex160/customer-support-agent"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance your CAD, WMS, or CAM software with Vector\u2014an offline tool for seamless optimization without tuning or ongoing",
-    "id": "dewqasujbc/Vector",
-    "language": "\u2014",
-    "name": "dewqasujbc/Vector",
-    "stars": 0,
-    "updated_at": "2026-06-15T21:56:01Z",
-    "url": "https://github.com/dewqasujbc/Vector"
-  },
-  {
-    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 35,
-    "updated_at": "2026-06-15T21:54:31Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   }
 ]
