@@ -1,5 +1,41 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22237,
+    "updated_at": "2026-06-15T20:59:06Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 366,
+    "updated_at": "2026-06-15T20:58:25Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-15T20:53:31Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-15T20:45:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
     "id": "multivon-ai/multivon-eval",
     "language": "Python",
@@ -23,35 +59,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10152,
-    "updated_at": "2026-06-15T20:38:47Z",
+    "updated_at": "2026-06-15T20:59:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 366,
-    "updated_at": "2026-06-15T20:32:51Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-15T20:30:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-06-15T20:44:47Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29132,
+    "updated_at": "2026-06-15T20:50:39Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -72,15 +90,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29131,
-    "updated_at": "2026-06-15T20:35:14Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
     "id": "prashar32/riskkernel",
     "language": "Go",
@@ -88,15 +97,6 @@
     "stars": 18,
     "updated_at": "2026-06-15T20:17:51Z",
     "url": "https://github.com/prashar32/riskkernel"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22236,
-    "updated_at": "2026-06-15T20:35:04Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "pprof for your LLM context - see where every token and dollar goes.",
@@ -122,7 +122,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-15T20:10:58Z",
+    "updated_at": "2026-06-15T20:56:55Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -139,7 +139,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50483,
+    "stars": 50484,
     "updated_at": "2026-06-15T20:00:16Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -428,7 +428,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5812,
-    "updated_at": "2026-06-15T20:45:31Z",
+    "updated_at": "2026-06-15T20:52:05Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
