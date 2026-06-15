@@ -1,12 +1,57 @@
 [
   {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-15T20:25:05Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-15T20:23:20Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29131,
+    "updated_at": "2026-06-15T20:22:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
     "id": "prashar32/riskkernel",
     "language": "Go",
     "name": "prashar32/riskkernel",
     "stars": 18,
-    "updated_at": "2026-06-15T20:15:11Z",
+    "updated_at": "2026-06-15T20:17:51Z",
     "url": "https://github.com/prashar32/riskkernel"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-15T20:17:15Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-15T20:15:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22236,
-    "updated_at": "2026-06-15T20:15:32Z",
+    "updated_at": "2026-06-15T20:19:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -45,6 +90,15 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10152,
+    "updated_at": "2026-06-15T20:09:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
     "id": "JonyKarmakar/vision-command-ai",
     "language": "TypeScript",
@@ -54,13 +108,13 @@
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-15T20:00:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "BerriAI/litellm",
+    "stars": 50483,
+    "updated_at": "2026-06-15T20:00:16Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-06-15T19:58:38Z",
+    "updated_at": "2026-06-15T20:30:30Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-06-15T19:57:11Z",
     "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-15T19:43:57Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T19:42:28Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29128,
-    "updated_at": "2026-06-15T20:06:56Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T19:36:43Z",
     "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10151,
-    "updated_at": "2026-06-15T20:09:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -392,7 +419,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5812,
-    "updated_at": "2026-06-15T20:01:39Z",
+    "updated_at": "2026-06-15T20:27:22Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-15T19:07:51Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-15T19:07:48Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-15T19:07:45Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-15T19:07:37Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
