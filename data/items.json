@@ -1,11 +1,101 @@
 [
   {
+    "description": "Behavioral guidelines and guardrails to eliminate common LLM coding mistakes and over-engineering.",
+    "id": "karailker/llm-coding-guardrails",
+    "language": "\u2014",
+    "name": "karailker/llm-coding-guardrails",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:14:48Z",
+    "url": "https://github.com/karailker/llm-coding-guardrails"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 4,
+    "updated_at": "2026-06-15T13:14:01Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot.",
+    "id": "shinjaehyun20/ai-workflow-kits",
+    "language": "Python",
+    "name": "shinjaehyun20/ai-workflow-kits",
+    "stars": 1,
+    "updated_at": "2026-06-15T13:12:31Z",
+    "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:11:56Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2243,
+    "updated_at": "2026-06-15T13:10:55Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29112,
+    "updated_at": "2026-06-15T13:10:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:09:16Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
+    "id": "KIM3310/enterprise-llm-adoption-kit",
+    "language": "Python",
+    "name": "KIM3310/enterprise-llm-adoption-kit",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:04:50Z",
+    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 36,
+    "updated_at": "2026-06-15T13:00:31Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-15T13:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 13,
-    "updated_at": "2026-06-15T12:59:37Z",
+    "updated_at": "2026-06-15T13:01:01Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -18,15 +108,6 @@
     "url": "https://github.com/aida-solat/anchorPrune"
   },
   {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 36,
-    "updated_at": "2026-06-15T12:58:39Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -36,21 +117,12 @@
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   },
   {
-    "description": "Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot.",
-    "id": "shinjaehyun20/ai-workflow-kits",
-    "language": "Python",
-    "name": "shinjaehyun20/ai-workflow-kits",
-    "stars": 1,
-    "updated_at": "2026-06-15T12:53:57Z",
-    "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50454,
-    "updated_at": "2026-06-15T12:53:44Z",
+    "updated_at": "2026-06-15T13:12:12Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T12:52:52Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29112,
-    "updated_at": "2026-06-15T13:00:22Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -144,24 +207,6 @@
     "url": "https://github.com/Prissieperoneal156/rig"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 4,
-    "updated_at": "2026-06-15T12:46:27Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-15T12:45:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open protocol for runtime budget and action authority over AI agents",
     "id": "runcycles/cycles-protocol",
     "language": "Python",
@@ -169,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-06-15T12:42:40Z",
     "url": "https://github.com/runcycles/cycles-protocol"
-  },
-  {
-    "description": "Behavioral guidelines and guardrails to eliminate common LLM coding mistakes and over-engineering.",
-    "id": "karailker/llm-coding-guardrails",
-    "language": "\u2014",
-    "name": "karailker/llm-coding-guardrails",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:42:00Z",
-    "url": "https://github.com/karailker/llm-coding-guardrails"
   },
   {
     "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T12:37:14Z",
     "url": "https://github.com/germanic-hwangho835/FolkLite"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:37:05Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -329,7 +356,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5797,
-    "updated_at": "2026-06-15T12:58:06Z",
+    "updated_at": "2026-06-15T13:06:58Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T12:26:57Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
-    "id": "KIM3310/enterprise-llm-adoption-kit",
-    "language": "Python",
-    "name": "KIM3310/enterprise-llm-adoption-kit",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:29:19Z",
-    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
   },
   {
     "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T12:22:00Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Interactive 3D knowledge graph of 793 open-source AI harnesses \u2014 governance, agent, evaluation, red-team, routing \u2014 plus",
-    "id": "Benjamin-KY/open-harness-atlas",
-    "language": "Python",
-    "name": "Benjamin-KY/open-harness-atlas",
-    "stars": 3,
-    "updated_at": "2026-06-15T12:58:52Z",
-    "url": "https://github.com/Benjamin-KY/open-harness-atlas"
-  },
-  {
-    "description": "Manage retail sales, inventory, and transactions using this mobile-first POS system built on Google Apps Script and Goog",
-    "id": "Trantu6570/LitPOS-Apps-Script",
-    "language": "HTML",
-    "name": "Trantu6570/LitPOS-Apps-Script",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:20:28Z",
-    "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
   }
 ]
