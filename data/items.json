@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-15T23:44:04Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26540,
+    "updated_at": "2026-06-15T23:43:25Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "careAI: local-first enterprise MLOps and LLMOps platform demo for synthetic healthcare workflows, deployable to Azure Co",
+    "id": "gpatwa/careai-platform",
+    "language": "Python",
+    "name": "gpatwa/careai-platform",
+    "stars": 1,
+    "updated_at": "2026-06-15T23:35:44Z",
+    "url": "https://github.com/gpatwa/careai-platform"
+  },
+  {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-06-15T23:35:35Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "Seldon APIs.json profile for API Evangelist catalog",
+    "id": "api-evangelist/seldon",
+    "language": "\u2014",
+    "name": "api-evangelist/seldon",
+    "stars": 0,
+    "updated_at": "2026-06-15T23:34:52Z",
+    "url": "https://github.com/api-evangelist/seldon"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-15T23:34:47Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-15T23:30:48Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-15T23:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -63,15 +135,6 @@
     "url": "https://github.com/api-evangelist/phoenix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-15T23:20:06Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Opik APIs.json profile for API Evangelist catalog",
     "id": "api-evangelist/opik",
     "language": "\u2014",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T23:18:07Z",
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-06-15T23:17:22Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
@@ -185,8 +239,17 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50493,
-    "updated_at": "2026-06-15T23:20:50Z",
+    "updated_at": "2026-06-15T23:44:26Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent research synthesis system using LangGraph, Gemini, LlamaIndex, and Pinecone with full LLMOps instrumentation",
+    "id": "daveshenal/aegis",
+    "language": "Python",
+    "name": "daveshenal/aegis",
+    "stars": 1,
+    "updated_at": "2026-06-15T23:11:17Z",
+    "url": "https://github.com/daveshenal/aegis"
   },
   {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
@@ -205,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T23:10:57Z",
     "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "careAI: local-first enterprise MLOps and LLMOps platform demo for synthetic healthcare workflows, deployable to Azure Co",
-    "id": "gpatwa/careai-platform",
-    "language": "Python",
-    "name": "gpatwa/careai-platform",
-    "stars": 1,
-    "updated_at": "2026-06-15T23:10:46Z",
-    "url": "https://github.com/gpatwa/careai-platform"
   },
   {
     "description": "Log10 APIs.json profile for API Evangelist catalog",
@@ -338,7 +392,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-15T22:58:25Z",
+    "updated_at": "2026-06-15T23:39:48Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-15T22:56:56Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-15T22:56:53Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29132,
-    "updated_at": "2026-06-15T23:06:31Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-06-15T22:55:15Z",
-    "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-15T22:55:11Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-15T22:54:59Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-15T22:50:55Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
   }
 ]
