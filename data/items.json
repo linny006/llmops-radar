@@ -1,12 +1,111 @@
 [
   {
+    "description": "\ud83e\udde9 Explore LLM essentials, build advanced models, and develop applications with this comprehensive course on large langua",
+    "id": "Gmail1995/llm-course",
+    "language": "\u2014",
+    "name": "Gmail1995/llm-course",
+    "stars": 1,
+    "updated_at": "2026-06-15T14:57:50Z",
+    "url": "https://github.com/Gmail1995/llm-course"
+  },
+  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 366,
-    "updated_at": "2026-06-15T14:43:27Z",
+    "updated_at": "2026-06-15T15:00:09Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+    "id": "traceloop/openllmetry",
+    "language": "Python",
+    "name": "traceloop/openllmetry",
+    "stars": 7199,
+    "updated_at": "2026-06-15T14:56:36Z",
+    "url": "https://github.com/traceloop/openllmetry"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 4,
+    "updated_at": "2026-06-15T14:56:42Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "",
+    "id": "ghaithmhmm/LLM-Training",
+    "language": "Python",
+    "name": "ghaithmhmm/LLM-Training",
+    "stars": 0,
+    "updated_at": "2026-06-15T14:53:02Z",
+    "url": "https://github.com/ghaithmhmm/LLM-Training"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29116,
+    "updated_at": "2026-06-15T14:57:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "",
+    "id": "aekta113/ai-sre",
+    "language": "Python",
+    "name": "aekta113/ai-sre",
+    "stars": 1,
+    "updated_at": "2026-06-15T14:49:54Z",
+    "url": "https://github.com/aekta113/ai-sre"
+  },
+  {
+    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
+    "id": "runcycles/cycles-server-events",
+    "language": "Java",
+    "name": "runcycles/cycles-server-events",
+    "stars": 1,
+    "updated_at": "2026-06-15T14:47:55Z",
+    "url": "https://github.com/runcycles/cycles-server-events"
+  },
+  {
+    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
+    "id": "runcycles/cycles-server",
+    "language": "Java",
+    "name": "runcycles/cycles-server",
+    "stars": 3,
+    "updated_at": "2026-06-15T14:46:53Z",
+    "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-15T14:45:44Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-06-15T14:43:23Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 17,
+    "updated_at": "2026-06-15T14:42:43Z",
+    "url": "https://github.com/solomon2773/nora"
   },
   {
     "description": "\ud83e\udd16 Enhance your games by transforming NPCs into distinctive characters with evolving personalities and memories using the",
@@ -28,12 +127,12 @@
   },
   {
     "description": "AnchorPrune governs agent memory with anchors, pruning, quarantine, and benchmarked state retention.",
-    "id": "aida-solat/anchorPrune",
+    "id": "aida-solat/anchorprune",
     "language": "Python",
-    "name": "aida-solat/anchorPrune",
+    "name": "aida-solat/anchorprune",
     "stars": 0,
     "updated_at": "2026-06-15T14:40:11Z",
-    "url": "https://github.com/aida-solat/anchorPrune"
+    "url": "https://github.com/aida-solat/anchorprune"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -54,15 +153,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 4,
-    "updated_at": "2026-06-15T14:39:16Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -81,15 +171,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29115,
-    "updated_at": "2026-06-15T14:31:42Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -99,20 +180,11 @@
     "url": "https://github.com/recetariodmix/garak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-15T14:30:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
-    "stars": 42,
+    "stars": 43,
     "updated_at": "2026-06-15T14:30:35Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
@@ -133,15 +205,6 @@
     "stars": 6,
     "updated_at": "2026-06-15T14:30:30Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-06-15T14:43:23Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "\ud83c\udf10 Explore LLM agents and their ecosystems with this comprehensive handbook for understanding, developing, and implementi",
@@ -189,15 +252,6 @@
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   },
   {
-    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 17,
-    "updated_at": "2026-06-15T14:42:43Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
     "description": "\ud83e\udd16 Discover AI tools and techniques to optimize DevOps processes through practical challenges and hands-on projects in th",
     "id": "monim279/AI-Powered-DevOps",
     "language": "Python",
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 120,
-    "updated_at": "2026-06-15T14:25:34Z",
+    "updated_at": "2026-06-15T14:57:14Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -220,8 +274,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5801,
-    "updated_at": "2026-06-15T14:23:54Z",
+    "stars": 5802,
+    "updated_at": "2026-06-15T15:00:24Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19657,
-    "updated_at": "2026-06-15T14:45:40Z",
+    "updated_at": "2026-06-15T14:51:51Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -275,7 +329,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3003,
-    "updated_at": "2026-06-15T14:44:09Z",
+    "updated_at": "2026-06-15T14:55:34Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -302,7 +356,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4205,
-    "updated_at": "2026-06-15T14:42:49Z",
+    "updated_at": "2026-06-15T14:45:53Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -319,7 +373,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50465,
+    "stars": 50466,
     "updated_at": "2026-06-15T13:54:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -360,15 +414,6 @@
     "url": "https://github.com/daveshenal/aegis"
   },
   {
-    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
-    "id": "runcycles/cycles-server",
-    "language": "Java",
-    "name": "runcycles/cycles-server",
-    "stars": 3,
-    "updated_at": "2026-06-15T13:45:15Z",
-    "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
     "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
     "id": "KIM3310/llm-onprem-deployment-kit",
     "language": "HCL",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T13:11:56Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1224,
-    "updated_at": "2026-06-15T14:13:03Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 13,
-    "updated_at": "2026-06-15T14:04:15Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:54:22Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:52:52Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:50:32Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
   }
 ]
