@@ -1,5 +1,122 @@
 [
   {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 17,
+    "updated_at": "2026-06-15T04:45:17Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5770,
+    "updated_at": "2026-06-15T04:44:42Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83d\udc14 Simplify AI orchestration by using agentic systems; spawn subagents like a hen with her chicks for seamless task manag",
+    "id": "iulieobraznic/agentic-ai-systems",
+    "language": "\u2014",
+    "name": "iulieobraznic/agentic-ai-systems",
+    "stars": 0,
+    "updated_at": "2026-06-15T04:44:29Z",
+    "url": "https://github.com/iulieobraznic/agentic-ai-systems"
+  },
+  {
+    "description": "\ud83c\udf9b\ufe0f Build efficient workflows with Deevs' Agent System, a plugin marketplace for Claude Code featuring multi-session chai",
+    "id": "Shahzadaslam007799/agent-system",
+    "language": "\u2014",
+    "name": "Shahzadaslam007799/agent-system",
+    "stars": 1,
+    "updated_at": "2026-06-15T04:44:00Z",
+    "url": "https://github.com/Shahzadaslam007799/agent-system"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance customer support with an LLM-powered agent that smartly routes queries using FastAPI, Postgres, and Redis for ",
+    "id": "xjanex160/customer-support-agent",
+    "language": "Python",
+    "name": "xjanex160/customer-support-agent",
+    "stars": 2,
+    "updated_at": "2026-06-15T04:41:50Z",
+    "url": "https://github.com/xjanex160/customer-support-agent"
+  },
+  {
+    "description": "\ud83d\udecd\ufe0f Automate your sales process with an AI-driven multi-agent system that improves efficiency from product inquiries to p",
+    "id": "sway121/Agentes_IA",
+    "language": "Python",
+    "name": "sway121/Agentes_IA",
+    "stars": 5,
+    "updated_at": "2026-06-15T04:41:40Z",
+    "url": "https://github.com/sway121/Agentes_IA"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance your CAD, WMS, or CAM software with Vector\u2014an offline tool for seamless optimization without tuning or ongoing",
+    "id": "dewqasujbc/Vector",
+    "language": "\u2014",
+    "name": "dewqasujbc/Vector",
+    "stars": 0,
+    "updated_at": "2026-06-15T04:41:35Z",
+    "url": "https://github.com/dewqasujbc/Vector"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-15T04:35:44Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 30,
+    "updated_at": "2026-06-15T04:35:13Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-15T04:34:42Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "\ud83e\udde9 Explore LLM essentials, build advanced models, and develop applications with this comprehensive course on large langua",
+    "id": "Gmail1995/llm-course",
+    "language": "\u2014",
+    "name": "Gmail1995/llm-course",
+    "stars": 1,
+    "updated_at": "2026-06-15T04:33:09Z",
+    "url": "https://github.com/Gmail1995/llm-course"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26529,
+    "updated_at": "2026-06-15T04:31:19Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-15T04:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "",
     "id": "ghaithmhmm/LLM-Training",
     "language": "Python",
@@ -72,15 +189,6 @@
     "url": "https://github.com/liam8421/faster-llm"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26529,
-    "updated_at": "2026-06-15T04:16:49Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
     "id": "sauravbhattacharya001/prompt",
     "language": "C#",
@@ -88,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-15T04:17:19Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-15T04:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source observability for LLM apps \u2014 track latency, tokens & cost with explainable alerts and a public status page. ",
@@ -171,15 +270,6 @@
     "url": "https://github.com/Benjamin-KY/open-harness-atlas"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5770,
-    "updated_at": "2026-06-15T04:24:05Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "\ud83c\udf99\ufe0f Enhance customer interactions with a real-time AI voice agent, utilizing OpenAI's Realtime API and Twilio for smarter",
     "id": "damn124/ai-calling-agent",
     "language": "Python",
@@ -187,6 +277,15 @@
     "stars": 2,
     "updated_at": "2026-06-15T04:05:11Z",
     "url": "https://github.com/damn124/ai-calling-agent"
+  },
+  {
+    "description": "Production-grade LLMOps platform \u2014 Git-style prompt versioning, A/B experiments with LLM-as-Judge scoring, drift detecti",
+    "id": "0DevDutt0/NeuralOps",
+    "language": "Python",
+    "name": "0DevDutt0/NeuralOps",
+    "stars": 0,
+    "updated_at": "2026-06-15T04:04:27Z",
+    "url": "https://github.com/0DevDutt0/NeuralOps"
   },
   {
     "description": "\u26a1 Curated list of AI gateways & LLM proxies \u2014 LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api\u2026 compared by cost, co",
@@ -221,7 +320,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22204,
-    "updated_at": "2026-06-15T04:26:24Z",
+    "updated_at": "2026-06-15T04:44:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -302,7 +401,7 @@
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-15T03:33:57Z",
+    "updated_at": "2026-06-15T04:35:06Z",
     "url": "https://github.com/open-ace/open-ace"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T03:26:00Z",
     "url": "https://github.com/Arman7843/gemmachat-windows"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-06-15T03:25:34Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-06-15T03:24:42Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Coordinate multiple AI coding agents from a single interface to streamline development workflows.",
-    "id": "Prissieperoneal156/rig",
-    "language": "\u2014",
-    "name": "Prissieperoneal156/rig",
-    "stars": 0,
-    "updated_at": "2026-06-15T03:24:41Z",
-    "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "Ansible playbooks for automated personal-use Ubuntu 26.04 agent environment setup with Grafana LGTM stack",
-    "id": "jimyoshida/ubuntu2604_on_macmini2014",
-    "language": "Shell",
-    "name": "jimyoshida/ubuntu2604_on_macmini2014",
-    "stars": 1,
-    "updated_at": "2026-06-15T03:22:01Z",
-    "url": "https://github.com/jimyoshida/ubuntu2604_on_macmini2014"
-  },
-  {
-    "description": "Install ready-to-flash SD card images for SuperStation One and boot straight into MiSTer FPGA",
-    "id": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
-    "language": "\u2014",
-    "name": "weensy-overutilisation690/SuperStation-SD-Card-Installer",
-    "stars": 0,
-    "updated_at": "2026-06-15T03:19:26Z",
-    "url": "https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-06-15T03:19:22Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Build a persona-driven AI agency framework for spec-driven development, from strategy to production, with 13 agents and ",
-    "id": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "language": "\u2014",
-    "name": "Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework",
-    "stars": 0,
-    "updated_at": "2026-06-15T03:18:56Z",
-    "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
-  },
-  {
-    "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
-    "id": "germanic-hwangho835/FolkLite",
-    "language": "\u2014",
-    "name": "germanic-hwangho835/FolkLite",
-    "stars": 0,
-    "updated_at": "2026-06-15T03:14:59Z",
-    "url": "https://github.com/germanic-hwangho835/FolkLite"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3304,
-    "updated_at": "2026-06-15T03:14:53Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-15T03:14:34Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-06-15T03:14:09Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
   }
 ]
