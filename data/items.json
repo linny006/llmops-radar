@@ -1,12 +1,39 @@
 [
   {
+    "description": "Interactive 3D knowledge graph of 793 open-source AI harnesses \u2014 governance, agent, evaluation, red-team, routing \u2014 plus",
+    "id": "Benjamin-KY/open-harness-atlas",
+    "language": "Python",
+    "name": "Benjamin-KY/open-harness-atlas",
+    "stars": 0,
+    "updated_at": "2026-06-15T00:25:34Z",
+    "url": "https://github.com/Benjamin-KY/open-harness-atlas"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-15T00:14:06Z",
+    "updated_at": "2026-06-15T00:23:53Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 4,
+    "updated_at": "2026-06-15T00:20:41Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-15T00:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,17 +41,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26520,
-    "updated_at": "2026-06-15T00:12:17Z",
+    "updated_at": "2026-06-15T00:29:57Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Interactive 3D knowledge graph of 793 open-source AI harnesses \u2014 governance, agent, evaluation, red-team, routing \u2014 plus",
-    "id": "Benjamin-KY/open-harness-atlas",
-    "language": "Python",
-    "name": "Benjamin-KY/open-harness-atlas",
-    "stars": 0,
-    "updated_at": "2026-06-15T00:10:23Z",
-    "url": "https://github.com/Benjamin-KY/open-harness-atlas"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -63,6 +81,15 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
+    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 116,
+    "updated_at": "2026-06-15T00:04:06Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -70,15 +97,6 @@
     "stars": 30,
     "updated_at": "2026-06-15T00:11:00Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-15T00:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Azure AI Foundry + Azure AI Search RAG workflow for answering security questionnaire from synthetic evidence documents, ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T23:11:17Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-14T23:11:00Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
-    "id": "JFPastor09/rest-gateway-1771916756-4",
-    "language": "\u2014",
-    "name": "JFPastor09/rest-gateway-1771916756-4",
-    "stars": 0,
-    "updated_at": "2026-06-14T23:10:49Z",
-    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
   }
 ]
