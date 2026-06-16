@@ -1,5 +1,86 @@
 [
   {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-06-16T07:43:38Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-06-16T07:43:33Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29158,
+    "updated_at": "2026-06-16T07:44:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Provide secure RESTful API access with authentication and rate limiting to control traffic and protect backend services.",
+    "id": "JFPastor09/rest-gateway-1771916756-4",
+    "language": "\u2014",
+    "name": "JFPastor09/rest-gateway-1771916756-4",
+    "stars": 0,
+    "updated_at": "2026-06-16T07:43:25Z",
+    "url": "https://github.com/JFPastor09/rest-gateway-1771916756-4"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3305,
+    "updated_at": "2026-06-16T07:43:10Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50535,
+    "updated_at": "2026-06-16T07:45:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5824,
+    "updated_at": "2026-06-16T07:45:19Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The open source runtime enforcement for AI agents. ",
+    "id": "EnforceGrid/steer",
+    "language": "Rust",
+    "name": "EnforceGrid/steer",
+    "stars": 4,
+    "updated_at": "2026-06-16T07:42:37Z",
+    "url": "https://github.com/EnforceGrid/steer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-16T07:42:12Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
     "id": "FawwazAzka/openclaw-docs",
     "language": "JavaScript",
@@ -16,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T07:39:59Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29156,
-    "updated_at": "2026-06-16T07:39:21Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Kickstart your AI-first development with this template, providing essential scaffolding for agents like Claude Code, ens",
@@ -72,15 +144,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "The open source runtime enforcement for AI agents. ",
-    "id": "EnforceGrid/steer",
-    "language": "Rust",
-    "name": "EnforceGrid/steer",
-    "stars": 4,
-    "updated_at": "2026-06-16T07:35:01Z",
-    "url": "https://github.com/EnforceGrid/steer"
-  },
-  {
     "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
     "id": "developersofik/greenprompt",
     "language": "TypeScript",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19664,
-    "updated_at": "2026-06-16T07:31:51Z",
+    "updated_at": "2026-06-16T07:42:46Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -133,24 +196,6 @@
     "stars": 5,
     "updated_at": "2026-06-16T07:31:20Z",
     "url": "https://github.com/beyhangl/evalcraft"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-16T07:30:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50532,
-    "updated_at": "2026-06-16T07:39:08Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents",
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T07:26:47Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5824,
-    "updated_at": "2026-06-16T07:37:48Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\udee0\ufe0f Enhance agentic development with tools for isolated environments and unused code detection in your stack.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T07:04:48Z",
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
-    "id": "azzan1235/agentic_rag_system",
-    "language": "Python",
-    "name": "azzan1235/agentic_rag_system",
-    "stars": 0,
-    "updated_at": "2026-06-16T07:04:00Z",
-    "url": "https://github.com/azzan1235/agentic_rag_system"
-  },
-  {
-    "description": "\ud83d\ude80 Build and deploy intelligent agents with the Agent Starter Pack, featuring simple templates and robust documentation f",
-    "id": "juana267/agent-starter-pack",
-    "language": "Java",
-    "name": "juana267/agent-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-16T07:02:02Z",
-    "url": "https://github.com/juana267/agent-starter-pack"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Detect and remove spyware with SUPERAntiSpyware Professional X, ensuring your Windows system stays secure and your da",
-    "id": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "language": "\u2014",
-    "name": "mshadan825/SUPERAntiSpyware-Professional-X-Activated",
-    "stars": 1,
-    "updated_at": "2026-06-16T06:59:49Z",
-    "url": "https://github.com/mshadan825/SUPERAntiSpyware-Professional-X-Activated"
-  },
-  {
-    "description": "\ud83c\udf10 Build and share your personal website with ease using mjsushanth.github.io, a simple and effective static site generat",
-    "id": "don12345673434/mjsushanth.github.io",
-    "language": "HTML",
-    "name": "don12345673434/mjsushanth.github.io",
-    "stars": 0,
-    "updated_at": "2026-06-16T06:57:14Z",
-    "url": "https://github.com/don12345673434/mjsushanth.github.io"
   }
 ]
