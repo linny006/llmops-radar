@@ -1,5 +1,77 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:26:26Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 13,
+    "updated_at": "2026-06-16T23:26:05Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-16T23:23:42Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50615,
+    "updated_at": "2026-06-16T23:26:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 35,
+    "updated_at": "2026-06-16T23:18:11Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:17:33Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10166,
+    "updated_at": "2026-06-16T23:25:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-16T23:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
     "id": "shaikn6/llm-gateway",
     "language": "Python",
@@ -27,15 +99,6 @@
     "url": "https://github.com/mezmo/aura"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:03:28Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Framework-agnostic LLM agent observability \u2014 intercept every call, detect failure patterns (loops, token storms, goal dr",
     "id": "shaikn6/agent-autopsy",
     "language": "Python",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T23:00:48Z",
     "url": "https://github.com/shaikn6/agent-autopsy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-16T23:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -68,7 +122,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5845,
-    "updated_at": "2026-06-16T23:12:20Z",
+    "updated_at": "2026-06-16T23:25:59Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T22:49:24Z",
     "url": "https://github.com/kidoz/trace-weft"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50615,
-    "updated_at": "2026-06-16T22:45:42Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
@@ -108,15 +153,6 @@
     "url": "https://github.com/ThousandBirdsInc/chidori"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10166,
-    "updated_at": "2026-06-16T22:33:07Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T22:10:15Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:08:25Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "An immune system against AI-agent sprawl: a real $224 failure dataset, 10 operating rules, a three-zone governance model",
@@ -214,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T21:23:47Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-16T21:14:46Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T16:28:29Z",
     "url": "https://github.com/shizheng-rlfresh/skim"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1226,
-    "updated_at": "2026-06-16T22:32:37Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 134,
-    "updated_at": "2026-06-16T16:34:48Z",
-    "url": "https://github.com/taichuy/1flowbase"
   }
 ]
