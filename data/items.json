@@ -1,11 +1,38 @@
 [
   {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:42:37Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Operational doctrine for practical AI systems design.",
+    "id": "Stunspot/stunspots-guide-to-ai-systems",
+    "language": "\u2014",
+    "name": "Stunspot/stunspots-guide-to-ai-systems",
+    "stars": 11,
+    "updated_at": "2026-06-16T17:31:31Z",
+    "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-16T17:30:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22276,
-    "updated_at": "2026-06-16T17:30:00Z",
+    "updated_at": "2026-06-16T17:36:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10167,
-    "updated_at": "2026-06-16T17:29:43Z",
+    "updated_at": "2026-06-16T17:39:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -27,31 +54,22 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:27:50Z",
-    "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50604,
+    "stars": 50606,
     "updated_at": "2026-06-16T17:21:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-16T17:15:41Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mlflow/mlflow",
+    "stars": 26557,
+    "updated_at": "2026-06-16T17:16:50Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -99,20 +117,11 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "Operational doctrine for practical AI systems design.",
-    "id": "Stunspot/stunspots-guide-to-ai-systems",
-    "language": "\u2014",
-    "name": "Stunspot/stunspots-guide-to-ai-systems",
-    "stars": 10,
-    "updated_at": "2026-06-16T17:01:09Z",
-    "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29202,
+    "stars": 29203,
     "updated_at": "2026-06-16T17:00:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "daveshenal/aegis",
     "stars": 1,
-    "updated_at": "2026-06-16T17:06:54Z",
+    "updated_at": "2026-06-16T17:44:04Z",
     "url": "https://github.com/daveshenal/aegis"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5841,
-    "updated_at": "2026-06-16T16:39:19Z",
+    "updated_at": "2026-06-16T17:39:10Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5450,
-    "updated_at": "2026-06-16T17:28:18Z",
+    "updated_at": "2026-06-16T17:43:07Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -311,7 +320,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3007,
-    "updated_at": "2026-06-16T16:38:51Z",
+    "updated_at": "2026-06-16T17:40:41Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:30:41Z",
     "url": "https://github.com/Prissieperoneal156/rig"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:30:40Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
   }
 ]
