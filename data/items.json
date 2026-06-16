@@ -1,5 +1,86 @@
 [
   {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 367,
+    "updated_at": "2026-06-16T15:42:49Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3307,
+    "updated_at": "2026-06-16T15:43:20Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 137 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 2,
+    "updated_at": "2026-06-16T15:40:10Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29201,
+    "updated_at": "2026-06-16T15:40:07Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Self-hosted LLM inference on Azure AKS: Terraform + vLLM + KEDA scale-to-zero + GitOps (Argo CD & Flux) + APIM.",
+    "id": "adminless-io/aks-llm-platform",
+    "language": "HCL",
+    "name": "adminless-io/aks-llm-platform",
+    "stars": 0,
+    "updated_at": "2026-06-16T15:40:03Z",
+    "url": "https://github.com/adminless-io/aks-llm-platform"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22274,
+    "updated_at": "2026-06-16T15:42:53Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production.",
+    "id": "TravelXML/GenAIScope",
+    "language": "Python",
+    "name": "TravelXML/GenAIScope",
+    "stars": 1,
+    "updated_at": "2026-06-16T15:39:31Z",
+    "url": "https://github.com/TravelXML/GenAIScope"
+  },
+  {
+    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
+    "id": "morning-verlu/KAI",
+    "language": "Kotlin",
+    "name": "morning-verlu/KAI",
+    "stars": 0,
+    "updated_at": "2026-06-16T15:33:31Z",
+    "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-16T15:30:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Scan coding-agent instructions, MCP config, and repo context into a CI-friendly readiness report.",
     "id": "alexzhu0/agent-context-lab",
     "language": "Python",
@@ -9,13 +90,13 @@
     "url": "https://github.com/alexzhu0/agent-context-lab"
   },
   {
-    "description": "Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production.",
-    "id": "TravelXML/GenAIScope",
-    "language": "Python",
-    "name": "TravelXML/GenAIScope",
+    "description": "Ansible playbooks for automated personal-use Ubuntu 26.04 agent environment setup with Grafana LGTM stack",
+    "id": "jimyoshida/ubuntu2604_on_macmini2014",
+    "language": "Shell",
+    "name": "jimyoshida/ubuntu2604_on_macmini2014",
     "stars": 0,
-    "updated_at": "2026-06-16T15:24:43Z",
-    "url": "https://github.com/TravelXML/GenAIScope"
+    "updated_at": "2026-06-16T15:29:30Z",
+    "url": "https://github.com/jimyoshida/ubuntu2604_on_macmini2014"
   },
   {
     "description": "AI Agent hooks for LLM Observability.",
@@ -36,40 +117,13 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-16T15:15:41Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50591,
-    "updated_at": "2026-06-16T15:13:46Z",
+    "stars": 50592,
+    "updated_at": "2026-06-16T15:36:39Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29198,
-    "updated_at": "2026-06-16T15:26:23Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22273,
-    "updated_at": "2026-06-16T15:29:27Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T15:09:35Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 137 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 2,
-    "updated_at": "2026-06-16T15:08:02Z",
-    "url": "https://github.com/bj-qizhi/trigix"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -104,17 +149,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19666,
-    "updated_at": "2026-06-16T15:01:34Z",
+    "updated_at": "2026-06-16T15:42:49Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
-    "id": "morning-verlu/KAI",
-    "language": "Kotlin",
-    "name": "morning-verlu/KAI",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:01:09Z",
-    "url": "https://github.com/morning-verlu/KAI"
   },
   {
     "description": "Agent reliability methodology for false-green testing of AI coding agents \u2014 claim, evidence, repeated trials, zero-LLM v",
@@ -153,15 +189,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 367,
-    "updated_at": "2026-06-16T15:09:36Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
     "id": "intentee/paddler",
     "language": "Rust",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "traceloop/openllmetry",
     "stars": 7203,
-    "updated_at": "2026-06-16T15:19:02Z",
+    "updated_at": "2026-06-16T15:31:06Z",
     "url": "https://github.com/traceloop/openllmetry"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-16T14:30:39Z",
+    "updated_at": "2026-06-16T15:44:29Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10166,
-    "updated_at": "2026-06-16T15:29:48Z",
+    "updated_at": "2026-06-16T15:43:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -301,7 +328,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26555,
+    "stars": 26556,
     "updated_at": "2026-06-16T14:22:48Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -421,32 +448,5 @@
     "stars": 11454,
     "updated_at": "2026-06-16T15:22:53Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:09:37Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:09:27Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:07:37Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
