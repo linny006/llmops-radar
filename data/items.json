@@ -1,12 +1,84 @@
 [
   {
+    "description": "Reference implementation for metadata-enriched, policy-aware RAG on enterprise data platforms.",
+    "id": "suneelkumarveluru/metadata-enriched-enterprise-rag",
+    "language": "\u2014",
+    "name": "suneelkumarveluru/metadata-enriched-enterprise-rag",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:45:19Z",
+    "url": "https://github.com/suneelkumarveluru/metadata-enriched-enterprise-rag"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-16T21:29:32Z",
+    "updated_at": "2026-06-16T21:43:26Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Framework-agnostic LLM agent observability \u2014 intercept every call, detect failure patterns (loops, token storms, goal dr",
+    "id": "shaikn6/agent-autopsy",
+    "language": "Python",
+    "name": "shaikn6/agent-autopsy",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:34:45Z",
+    "url": "https://github.com/shaikn6/agent-autopsy"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10166,
+    "updated_at": "2026-06-16T21:42:30Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
+    "id": "shaikn6/llmops-eval-platform",
+    "language": "Python",
+    "name": "shaikn6/llmops-eval-platform",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:33:49Z",
+    "url": "https://github.com/shaikn6/llmops-eval-platform"
+  },
+  {
+    "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
+    "id": "shaikn6/llm-gateway",
+    "language": "Python",
+    "name": "shaikn6/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:33:46Z",
+    "url": "https://github.com/shaikn6/llm-gateway"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-16T21:33:14Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-16T21:30:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 21,
+    "updated_at": "2026-06-16T21:29:29Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -22,7 +94,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50614,
+    "stars": 50615,
     "updated_at": "2026-06-16T21:18:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -32,17 +104,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26561,
-    "updated_at": "2026-06-16T21:16:08Z",
+    "updated_at": "2026-06-16T21:41:38Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-16T21:15:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -52,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T21:14:46Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 20,
-    "updated_at": "2026-06-16T21:29:29Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
-    "description": "",
-    "id": "shaikn6/agent-autopsy",
-    "language": "Python",
-    "name": "shaikn6/agent-autopsy",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:14:18Z",
-    "url": "https://github.com/shaikn6/agent-autopsy"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -86,7 +131,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5844,
-    "updated_at": "2026-06-16T21:21:44Z",
+    "updated_at": "2026-06-16T21:42:08Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10166,
-    "updated_at": "2026-06-16T21:05:56Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
     "id": "MattJackson/busbarAI",
     "language": "Rust",
@@ -115,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-06-16T20:52:09Z",
     "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-16T21:23:47Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "See what your AI agents do, whether it's worth it, and what it costs - a manager-readable report + local dashboard from ",
@@ -252,21 +279,12 @@
     "url": "https://github.com/acornops/acornops-deployment"
   },
   {
-    "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
-    "id": "shaikn6/llm-gateway",
-    "language": "Python",
-    "name": "shaikn6/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:48:51Z",
-    "url": "https://github.com/shaikn6/llm-gateway"
-  },
-  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1053,
-    "updated_at": "2026-06-16T20:47:23Z",
+    "updated_at": "2026-06-16T21:43:52Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -286,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T20:49:16Z",
     "url": "https://github.com/daveshenal/aegis"
-  },
-  {
-    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
-    "id": "shaikn6/llmops-eval-platform",
-    "language": "Python",
-    "name": "shaikn6/llmops-eval-platform",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:21:04Z",
-    "url": "https://github.com/shaikn6/llmops-eval-platform"
   },
   {
     "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T15:40:03Z",
     "url": "https://github.com/adminless-io/aks-llm-platform"
-  },
-  {
-    "description": "Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production.",
-    "id": "TravelXML/GenAIScope",
-    "language": "Python",
-    "name": "TravelXML/GenAIScope",
-    "stars": 1,
-    "updated_at": "2026-06-16T15:39:31Z",
-    "url": "https://github.com/TravelXML/GenAIScope"
   }
 ]
