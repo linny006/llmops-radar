@@ -1,12 +1,84 @@
 [
   {
+    "description": "Multi-agent research synthesis system using LangGraph, Gemini, LlamaIndex, and Pinecone with full LLMOps instrumentation",
+    "id": "daveshenal/aegis",
+    "language": "Python",
+    "name": "daveshenal/aegis",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:29:56Z",
+    "url": "https://github.com/daveshenal/aegis"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:29:09Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-16T18:12:31Z",
+    "updated_at": "2026-06-16T18:28:17Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 4,
+    "updated_at": "2026-06-16T18:27:22Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 17,
+    "updated_at": "2026-06-16T18:21:40Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
+    "id": "shaikn6/llmops-eval-platform",
+    "language": "Python",
+    "name": "shaikn6/llmops-eval-platform",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:21:04Z",
+    "url": "https://github.com/shaikn6/llmops-eval-platform"
+  },
+  {
+    "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
+    "id": "shaikn6/llm-gateway",
+    "language": "Python",
+    "name": "shaikn6/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:19:12Z",
+    "url": "https://github.com/shaikn6/llm-gateway"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50611,
+    "updated_at": "2026-06-16T18:23:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-16T18:15:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
@@ -16,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-06-16T18:14:35Z",
     "url": "https://github.com/agentbreeder/agentbreeder"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50609,
-    "updated_at": "2026-06-16T18:06:28Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -45,39 +108,12 @@
     "url": "https://github.com/acornops/control-plane"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-16T18:00:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 16,
-    "updated_at": "2026-06-16T18:13:24Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:52:11Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22276,
-    "updated_at": "2026-06-16T18:09:15Z",
+    "updated_at": "2026-06-16T18:27:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "mezmo/aura",
     "stars": 93,
-    "updated_at": "2026-06-16T18:14:48Z",
+    "updated_at": "2026-06-16T18:22:09Z",
     "url": "https://github.com/mezmo/aura"
   },
   {
@@ -184,7 +220,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29205,
+    "stars": 29206,
     "updated_at": "2026-06-16T17:00:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -198,15 +234,6 @@
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "Multi-agent research synthesis system using LangGraph, Gemini, LlamaIndex, and Pinecone with full LLMOps instrumentation",
-    "id": "daveshenal/aegis",
-    "language": "Python",
-    "name": "daveshenal/aegis",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:14:39Z",
-    "url": "https://github.com/daveshenal/aegis"
-  },
-  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -214,24 +241,6 @@
     "stars": 367,
     "updated_at": "2026-06-16T16:47:22Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
-    "id": "shaikn6/llm-gateway",
-    "language": "Python",
-    "name": "shaikn6/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:45:43Z",
-    "url": "https://github.com/shaikn6/llm-gateway"
-  },
-  {
-    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
-    "id": "shaikn6/llmops-eval-platform",
-    "language": "Python",
-    "name": "shaikn6/llmops-eval-platform",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:45:18Z",
-    "url": "https://github.com/shaikn6/llmops-eval-platform"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -248,7 +257,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5841,
-    "updated_at": "2026-06-16T17:39:10Z",
+    "updated_at": "2026-06-16T18:15:33Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -374,7 +383,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3007,
-    "updated_at": "2026-06-16T18:11:14Z",
+    "updated_at": "2026-06-16T18:28:04Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-16T14:50:30Z",
     "url": "https://github.com/open-ace/open-ace"
-  },
-  {
-    "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
-    "id": "intentee/paddler",
-    "language": "Rust",
-    "name": "intentee/paddler",
-    "stars": 1599,
-    "updated_at": "2026-06-16T14:38:34Z",
-    "url": "https://github.com/intentee/paddler"
   }
 ]
