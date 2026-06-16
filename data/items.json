@@ -1,12 +1,84 @@
 [
   {
+    "description": "Operational doctrine for practical AI systems design.",
+    "id": "Stunspot/stunspots-guide-to-ai-systems",
+    "language": "\u2014",
+    "name": "Stunspot/stunspots-guide-to-ai-systems",
+    "stars": 9,
+    "updated_at": "2026-06-16T15:58:45Z",
+    "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
+  },
+  {
+    "description": "Ansible playbooks for automated personal-use Ubuntu 26.04 agent environment setup with Grafana LGTM stack",
+    "id": "jimyoshida/ubuntu2604_on_macmini2014",
+    "language": "Shell",
+    "name": "jimyoshida/ubuntu2604_on_macmini2014",
+    "stars": 0,
+    "updated_at": "2026-06-16T15:56:28Z",
+    "url": "https://github.com/jimyoshida/ubuntu2604_on_macmini2014"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 18,
+    "updated_at": "2026-06-16T15:53:11Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 367,
-    "updated_at": "2026-06-16T15:42:49Z",
+    "updated_at": "2026-06-16T15:53:11Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 0,
+    "updated_at": "2026-06-16T15:51:15Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 137 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 2,
+    "updated_at": "2026-06-16T15:49:41Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 59,
+    "updated_at": "2026-06-16T15:47:46Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-16T15:45:42Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 1,
+    "updated_at": "2026-06-16T15:41:13Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -18,21 +90,12 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 137 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 2,
-    "updated_at": "2026-06-16T15:40:10Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29201,
-    "updated_at": "2026-06-16T15:40:07Z",
+    "stars": 29200,
+    "updated_at": "2026-06-16T15:53:03Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22274,
-    "updated_at": "2026-06-16T15:42:53Z",
+    "updated_at": "2026-06-16T15:48:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -63,6 +126,24 @@
     "url": "https://github.com/TravelXML/GenAIScope"
   },
   {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 145,
+    "updated_at": "2026-06-16T15:38:41Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50595,
+    "updated_at": "2026-06-16T15:36:39Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
     "id": "morning-verlu/KAI",
     "language": "Kotlin",
@@ -72,13 +153,13 @@
     "url": "https://github.com/morning-verlu/KAI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-16T15:30:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3007,
+    "updated_at": "2026-06-16T15:32:05Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Scan coding-agent instructions, MCP config, and repo context into a CI-friendly readiness report.",
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T15:30:03Z",
     "url": "https://github.com/alexzhu0/agent-context-lab"
-  },
-  {
-    "description": "Ansible playbooks for automated personal-use Ubuntu 26.04 agent environment setup with Grafana LGTM stack",
-    "id": "jimyoshida/ubuntu2604_on_macmini2014",
-    "language": "Shell",
-    "name": "jimyoshida/ubuntu2604_on_macmini2014",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:29:30Z",
-    "url": "https://github.com/jimyoshida/ubuntu2604_on_macmini2014"
   },
   {
     "description": "AI Agent hooks for LLM Observability.",
@@ -115,15 +187,6 @@
     "stars": 5840,
     "updated_at": "2026-06-16T15:20:08Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50592,
-    "updated_at": "2026-06-16T15:36:39Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19666,
-    "updated_at": "2026-06-16T15:42:49Z",
+    "updated_at": "2026-06-16T15:57:27Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -160,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:56:45Z",
     "url": "https://github.com/boyam01/probity"
+  },
+  {
+    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 133,
+    "updated_at": "2026-06-16T15:56:52Z",
+    "url": "https://github.com/taichuy/1flowbase"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:19:23Z",
     "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:18:44Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:16:54Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Defanged Litellm 1.82.8 malware stages for analysis, showing payload flow, credential theft, persistence, and C2 behavio",
-    "id": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "language": "Python",
-    "name": "Plumaged-dancing835/litellm_1.82.8_payload",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:16:38Z",
-    "url": "https://github.com/Plumaged-dancing835/litellm_1.82.8_payload"
-  },
-  {
-    "description": "Local-first evaluation workbench for prompts, tools, and agents with regression tracking, experiment history, and deploy",
-    "id": "IgnazioDS/evalops-workbench",
-    "language": "TypeScript",
-    "name": "IgnazioDS/evalops-workbench",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:15:57Z",
-    "url": "https://github.com/IgnazioDS/evalops-workbench"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:13:31Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:11:23Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-16T14:10:20Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "TypeScript",
-    "name": "dataelement/bisheng",
-    "stars": 11454,
-    "updated_at": "2026-06-16T15:22:53Z",
-    "url": "https://github.com/dataelement/bisheng"
   }
 ]
