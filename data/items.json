@@ -1,5 +1,77 @@
 [
   {
+    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
+    "id": "agentbreeder/agentbreeder",
+    "language": "Python",
+    "name": "agentbreeder/agentbreeder",
+    "stars": 4,
+    "updated_at": "2026-06-16T22:14:40Z",
+    "url": "https://github.com/agentbreeder/agentbreeder"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 22,
+    "updated_at": "2026-06-16T22:12:48Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:10:15Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:09:32Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5845,
+    "updated_at": "2026-06-16T22:09:09Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:08:25Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
+    "id": "shaikn6/llm-gateway",
+    "language": "Python",
+    "name": "shaikn6/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:01:25Z",
+    "url": "https://github.com/shaikn6/llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-16T22:00:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Rust-first, local-first observability & debugging for LLM agents: capture, inspect, replay, diff, and export traces (Ope",
     "id": "kidoz/trace-weft",
     "language": "Rust",
@@ -27,13 +99,13 @@
     "url": "https://github.com/suneelkumarveluru/metadata-enriched-enterprise-rag"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
+    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
+    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "language": "\u2014",
+    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "stars": 0,
-    "updated_at": "2026-06-16T21:57:09Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "updated_at": "2026-06-16T21:56:23Z",
+    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -63,31 +135,22 @@
     "url": "https://github.com/shaikn6/llmops-eval-platform"
   },
   {
-    "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
-    "id": "shaikn6/llm-gateway",
-    "language": "Python",
-    "name": "shaikn6/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:48:29Z",
-    "url": "https://github.com/shaikn6/llm-gateway"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26561,
-    "updated_at": "2026-06-16T21:58:26Z",
+    "updated_at": "2026-06-16T22:01:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-16T21:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "comet-ml/opik",
+    "stars": 19669,
+    "updated_at": "2026-06-16T21:46:12Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Framework-agnostic LLM agent observability \u2014 intercept every call, detect failure patterns (loops, token storms, goal dr",
@@ -117,15 +180,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 21,
-    "updated_at": "2026-06-16T21:59:51Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -142,24 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T21:14:46Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:09:15Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5844,
-    "updated_at": "2026-06-16T21:59:23Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -225,15 +261,6 @@
     "url": "https://github.com/pop123-ux/promptlint"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:34:12Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
     "id": "acornops/llm-gateway",
     "language": "Python",
@@ -247,18 +274,9 @@
     "id": "Yigtwxx/awesome-rag-production",
     "language": "Python",
     "name": "Yigtwxx/awesome-rag-production",
-    "stars": 104,
+    "stars": 105,
     "updated_at": "2026-06-16T19:20:39Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
-    "id": "agentbreeder/agentbreeder",
-    "language": "Python",
-    "name": "agentbreeder/agentbreeder",
-    "stars": 4,
-    "updated_at": "2026-06-16T19:15:29Z",
-    "url": "https://github.com/agentbreeder/agentbreeder"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -340,15 +358,6 @@
     "stars": 19,
     "updated_at": "2026-06-16T17:31:31Z",
     "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19668,
-    "updated_at": "2026-06-16T21:46:12Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Agent reliability methodology for false-green testing of AI coding agents \u2014 claim, evidence, repeated trials, zero-LLM v",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T15:56:28Z",
     "url": "https://github.com/jimyoshida/ubuntu2604_on_macmini2014"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 18,
-    "updated_at": "2026-06-16T15:53:11Z",
-    "url": "https://github.com/byte5ai/omadia"
   }
 ]
