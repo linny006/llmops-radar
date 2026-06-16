@@ -1,39 +1,39 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29200,
-    "updated_at": "2026-06-16T16:16:51Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Inspect, annotate, and review AI agent trajectories and artifacts. Local-first, with CLI, TUI, and Web UI surfaces shari",
+    "id": "shizheng-rlfresh/skim",
+    "language": "Python",
+    "name": "shizheng-rlfresh/skim",
+    "stars": 1,
+    "updated_at": "2026-06-16T16:28:29Z",
+    "url": "https://github.com/shizheng-rlfresh/skim"
   },
   {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 137 node types, visual canvas",
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-16T16:27:28Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
     "id": "bj-qizhi/trigix",
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 2,
-    "updated_at": "2026-06-16T16:12:17Z",
+    "updated_at": "2026-06-16T16:25:41Z",
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22276,
-    "updated_at": "2026-06-16T16:11:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50598,
-    "updated_at": "2026-06-16T16:17:31Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "langfuse/langfuse",
+    "stars": 29201,
+    "updated_at": "2026-06-16T16:26:45Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -41,8 +41,44 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-16T16:00:53Z",
+    "updated_at": "2026-06-16T16:19:44Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50600,
+    "updated_at": "2026-06-16T16:29:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5450,
+    "updated_at": "2026-06-16T16:14:42Z",
+    "url": "https://github.com/zenml-io/zenml"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22277,
+    "updated_at": "2026-06-16T16:11:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1226,
+    "updated_at": "2026-06-16T16:23:09Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Operational doctrine for practical AI systems design.",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3307,
-    "updated_at": "2026-06-16T16:09:50Z",
+    "updated_at": "2026-06-16T16:20:45Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3007,
-    "updated_at": "2026-06-16T15:32:05Z",
+    "updated_at": "2026-06-16T16:29:26Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5840,
-    "updated_at": "2026-06-16T15:20:08Z",
+    "updated_at": "2026-06-16T16:20:01Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -277,15 +313,6 @@
     "stars": 1599,
     "updated_at": "2026-06-16T14:38:34Z",
     "url": "https://github.com/intentee/paddler"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1225,
-    "updated_at": "2026-06-16T16:05:07Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:20:17Z",
     "url": "https://github.com/germanic-hwangho835/FolkLite"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:19:53Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:19:31Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:19:23Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
