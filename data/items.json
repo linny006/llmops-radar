@@ -1,11 +1,56 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50614,
+    "updated_at": "2026-06-16T21:00:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10166,
+    "updated_at": "2026-06-16T20:58:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26561,
+    "updated_at": "2026-06-16T20:59:54Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 4,
+    "updated_at": "2026-06-16T20:52:09Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-16T20:48:24Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-16T20:45:43Z",
+    "updated_at": "2026-06-16T20:46:42Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -18,20 +63,11 @@
     "url": "https://github.com/Idank96/agent-panorama"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 4,
-    "updated_at": "2026-06-16T20:39:38Z",
-    "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22282,
+    "stars": 22283,
     "updated_at": "2026-06-16T20:38:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -45,13 +81,13 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50613,
-    "updated_at": "2026-06-16T20:45:46Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 20,
+    "updated_at": "2026-06-16T20:53:09Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -59,7 +95,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5842,
-    "updated_at": "2026-06-16T20:37:06Z",
+    "updated_at": "2026-06-16T20:56:59Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -72,24 +108,6 @@
     "url": "https://github.com/abhilashsblai/ctxlayer-release"
   },
   {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 19,
-    "updated_at": "2026-06-16T20:35:32Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26561,
-    "updated_at": "2026-06-16T20:43:13Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -99,15 +117,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-16T20:37:25Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
     "id": "anejakartik/evalstack",
     "language": "Python",
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T20:00:10Z",
     "url": "https://github.com/anejakartik/evalstack"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10166,
-    "updated_at": "2026-06-16T20:42:55Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "ESLint for your LLM prompts \u2014 catch prompt-injection risks, missing token limits & prompt anti-patterns before you ship.",
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1053,
-    "updated_at": "2026-06-16T18:55:44Z",
+    "updated_at": "2026-06-16T20:47:23Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -248,7 +248,7 @@
     "language": "Python",
     "name": "daveshenal/aegis",
     "stars": 1,
-    "updated_at": "2026-06-16T18:29:56Z",
+    "updated_at": "2026-06-16T20:49:16Z",
     "url": "https://github.com/daveshenal/aegis"
   },
   {
@@ -338,7 +338,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29213,
-    "updated_at": "2026-06-16T17:00:28Z",
+    "updated_at": "2026-06-16T20:50:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
