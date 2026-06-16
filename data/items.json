@@ -1,12 +1,30 @@
 [
   {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-06-16T02:59:12Z",
-    "url": "https://github.com/0xLazAI/alith"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50510,
+    "updated_at": "2026-06-16T03:08:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Ansible playbooks for automated personal-use Ubuntu 26.04 agent environment setup with Grafana LGTM stack",
+    "id": "jimyoshida/ubuntu2604_on_macmini2014",
+    "language": "Shell",
+    "name": "jimyoshida/ubuntu2604_on_macmini2014",
+    "stars": 0,
+    "updated_at": "2026-06-16T03:05:42Z",
+    "url": "https://github.com/jimyoshida/ubuntu2604_on_macmini2014"
+  },
+  {
+    "description": "Local-first Evidence OS for AI agents in Kotlin",
+    "id": "morning-verlu/KAI",
+    "language": "Kotlin",
+    "name": "morning-verlu/KAI",
+    "stars": 0,
+    "updated_at": "2026-06-16T03:05:20Z",
+    "url": "https://github.com/morning-verlu/KAI"
   },
   {
     "description": "Self-hosted enterprise AI workspace and governance platform",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "open-ace/open-ace",
     "stars": 4,
-    "updated_at": "2026-06-16T02:58:14Z",
+    "updated_at": "2026-06-16T03:11:08Z",
     "url": "https://github.com/open-ace/open-ace"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-16T03:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-06-16T02:59:12Z",
+    "url": "https://github.com/0xLazAI/alith"
   },
   {
     "description": "\ud83e\udded Awesome Enterprise AI \u2014 the CAIO list. An adoption-first index of open-source AI for the enterprise (license \u00b7 maturit",
@@ -36,15 +72,6 @@
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50508,
-    "updated_at": "2026-06-16T02:56:39Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83e\uddef Kubernetes coverage for fault awareness and recovery, works for any LLMOps, MLOps, AI workloads.",
     "id": "BaizeAI/kcover",
     "language": "Go",
@@ -54,13 +81,13 @@
     "url": "https://github.com/BaizeAI/kcover"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-16T02:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 124,
+    "updated_at": "2026-06-16T02:48:57Z",
+    "url": "https://github.com/taichuy/1flowbase"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -207,15 +234,6 @@
     "url": "https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework"
   },
   {
-    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 123,
-    "updated_at": "2026-06-16T02:48:57Z",
-    "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
     "description": "Manage MIUIX root tools with a lightweight FolkPatch build that keeps core features and adds a native MIUI/HyperOS UI",
     "id": "germanic-hwangho835/FolkLite",
     "language": "\u2014",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10156,
-    "updated_at": "2026-06-16T01:54:52Z",
+    "updated_at": "2026-06-16T03:13:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T01:40:27Z",
     "url": "https://github.com/Trantu6570/LitPOS-Apps-Script"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-16T01:40:01Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-16T01:39:26Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
