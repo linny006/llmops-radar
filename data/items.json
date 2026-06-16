@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
+    "id": "anejakartik/evalstack",
+    "language": "Python",
+    "name": "anejakartik/evalstack",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:00:10Z",
+    "url": "https://github.com/anejakartik/evalstack"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 18,
+    "updated_at": "2026-06-16T19:57:00Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22278,
+    "updated_at": "2026-06-16T19:56:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:47:26Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-16T19:45:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "ESLint for your LLM prompts \u2014 catch prompt-injection risks, missing token limits & prompt anti-patterns before you ship.",
     "id": "pop123-ux/promptlint",
     "language": "Python",
@@ -36,24 +81,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-16T19:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:25:44Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
     "id": "Yigtwxx/awesome-rag-production",
     "language": "Python",
@@ -68,7 +95,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5842,
-    "updated_at": "2026-06-16T19:39:11Z",
+    "updated_at": "2026-06-16T19:55:53Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50612,
-    "updated_at": "2026-06-16T19:41:34Z",
+    "updated_at": "2026-06-16T19:47:08Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -95,17 +122,8 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-06-16T19:08:13Z",
+    "updated_at": "2026-06-16T19:52:37Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 18,
-    "updated_at": "2026-06-16T19:07:49Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10167,
-    "updated_at": "2026-06-16T19:43:41Z",
+    "updated_at": "2026-06-16T19:58:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -121,7 +139,7 @@
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
-    "stars": 60,
+    "stars": 61,
     "updated_at": "2026-06-16T19:05:53Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
@@ -133,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-06-16T19:00:53Z",
     "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26561,
+    "updated_at": "2026-06-16T18:56:03Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Parse agent/LLM trace files (JSONL, OTLP-JSON) and find failures, cost and latency. Rust core, polars API.",
@@ -194,17 +221,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-16T19:20:13Z",
+    "updated_at": "2026-06-16T19:52:33Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22278,
-    "updated_at": "2026-06-16T19:37:33Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5451,
-    "updated_at": "2026-06-16T18:58:50Z",
+    "updated_at": "2026-06-16T19:46:40Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T17:29:39Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26560,
-    "updated_at": "2026-06-16T18:56:03Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -310,7 +319,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29210,
+    "stars": 29211,
     "updated_at": "2026-06-16T17:00:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 3007,
     "updated_at": "2026-06-16T19:32:28Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
-    "id": "traceloop/openllmetry",
-    "language": "Python",
-    "name": "traceloop/openllmetry",
-    "stars": 7202,
-    "updated_at": "2026-06-16T15:31:06Z",
-    "url": "https://github.com/traceloop/openllmetry"
   }
 ]
