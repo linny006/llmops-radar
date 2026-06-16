@@ -1,11 +1,65 @@
 [
   {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-16T18:12:31Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
+    "id": "agentbreeder/agentbreeder",
+    "language": "Python",
+    "name": "agentbreeder/agentbreeder",
+    "stars": 4,
+    "updated_at": "2026-06-16T18:14:35Z",
+    "url": "https://github.com/agentbreeder/agentbreeder"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50609,
+    "updated_at": "2026-06-16T18:06:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:04:11Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:03:18Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-16T18:00:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
     "stars": 16,
-    "updated_at": "2026-06-16T17:52:32Z",
+    "updated_at": "2026-06-16T18:13:24Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
@@ -18,21 +72,12 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-16T17:48:51Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22276,
-    "updated_at": "2026-06-16T17:53:15Z",
+    "updated_at": "2026-06-16T18:09:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -49,7 +94,7 @@
     "id": "Stunspot/stunspots-guide-to-ai-systems",
     "language": "\u2014",
     "name": "Stunspot/stunspots-guide-to-ai-systems",
-    "stars": 13,
+    "stars": 14,
     "updated_at": "2026-06-16T17:31:31Z",
     "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
   },
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10167,
-    "updated_at": "2026-06-16T17:55:39Z",
+    "updated_at": "2026-06-16T18:10:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -72,20 +117,11 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50607,
-    "updated_at": "2026-06-16T17:21:03Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26556,
+    "stars": 26559,
     "updated_at": "2026-06-16T17:16:50Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -126,6 +162,15 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 93,
+    "updated_at": "2026-06-16T18:14:48Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -139,7 +184,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29203,
+    "stars": 29205,
     "updated_at": "2026-06-16T17:00:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "daveshenal/aegis",
     "stars": 1,
-    "updated_at": "2026-06-16T17:59:59Z",
+    "updated_at": "2026-06-16T18:14:39Z",
     "url": "https://github.com/daveshenal/aegis"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1226,
-    "updated_at": "2026-06-16T16:23:09Z",
+    "updated_at": "2026-06-16T18:09:58Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 18,
     "updated_at": "2026-06-16T15:53:11Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:51:15Z",
-    "url": "https://github.com/acornops/control-plane"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -338,7 +374,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3007,
-    "updated_at": "2026-06-16T17:50:55Z",
+    "updated_at": "2026-06-16T18:11:14Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1599,
     "updated_at": "2026-06-16T14:38:34Z",
     "url": "https://github.com/intentee/paddler"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:37:25Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:36:08Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:32:54Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Run local AI chat and build web projects on Windows 11 with this Ollama-powered desktop assistant.",
-    "id": "Arman7843/gemmachat-windows",
-    "language": "\u2014",
-    "name": "Arman7843/gemmachat-windows",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:32:03Z",
-    "url": "https://github.com/Arman7843/gemmachat-windows"
   }
 ]
