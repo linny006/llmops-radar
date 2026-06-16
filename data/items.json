@@ -1,11 +1,47 @@
 [
   {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-16T23:00:03Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
+    "id": "shaikn6/llm-gateway",
+    "language": "Python",
+    "name": "shaikn6/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:56:31Z",
+    "url": "https://github.com/shaikn6/llm-gateway"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:55:26Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-16T22:51:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5845,
-    "updated_at": "2026-06-16T22:49:33Z",
+    "updated_at": "2026-06-16T22:59:59Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -16,24 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T22:49:24Z",
     "url": "https://github.com/kidoz/trace-weft"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-16T22:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:42:53Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
@@ -50,7 +68,7 @@
     "language": "Rust",
     "name": "ThousandBirdsInc/chidori",
     "stars": 1349,
-    "updated_at": "2026-06-16T22:19:01Z",
+    "updated_at": "2026-06-16T22:53:59Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T22:08:25Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
-    "id": "shaikn6/llm-gateway",
-    "language": "Python",
-    "name": "shaikn6/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:01:25Z",
-    "url": "https://github.com/shaikn6/llm-gateway"
   },
   {
     "description": "An immune system against AI-agent sprawl: a real $224 failure dataset, 10 operating rules, a three-zone governance model",
@@ -140,7 +149,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29216,
-    "updated_at": "2026-06-16T22:48:37Z",
+    "updated_at": "2026-06-16T22:56:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T21:34:45Z",
     "url": "https://github.com/shaikn6/agent-autopsy"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-16T22:49:55Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -364,7 +364,7 @@
     "id": "Stunspot/stunspots-guide-to-ai-systems",
     "language": "\u2014",
     "name": "Stunspot/stunspots-guide-to-ai-systems",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-06-16T17:31:31Z",
     "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
   },
@@ -383,7 +383,7 @@
     "language": "Rust",
     "name": "mezmo/aura",
     "stars": 93,
-    "updated_at": "2026-06-16T22:28:35Z",
+    "updated_at": "2026-06-16T22:52:56Z",
     "url": "https://github.com/mezmo/aura"
   },
   {
