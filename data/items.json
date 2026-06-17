@@ -1,5 +1,68 @@
 [
   {
+    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
+    "id": "mwigge/rs-llmctl",
+    "language": "Rust",
+    "name": "mwigge/rs-llmctl",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:00:06Z",
+    "url": "https://github.com/mwigge/rs-llmctl"
+  },
+  {
+    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
+    "id": "moiraweave-labs/moiraweave",
+    "language": "Python",
+    "name": "moiraweave-labs/moiraweave",
+    "stars": 1,
+    "updated_at": "2026-06-17T06:59:59Z",
+    "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+    "id": "traceloop/openllmetry",
+    "language": "Python",
+    "name": "traceloop/openllmetry",
+    "stars": 7202,
+    "updated_at": "2026-06-17T06:55:05Z",
+    "url": "https://github.com/traceloop/openllmetry"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29235,
+    "updated_at": "2026-06-17T06:54:09Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50651,
+    "updated_at": "2026-06-17T06:50:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted Prometheus exporter for LLM usage, token, request, and USD cost telemetry across OpenAI, Azure OpenAI, Anthr",
+    "id": "xops-labs/llm-usage-exporter",
+    "language": "C#",
+    "name": "xops-labs/llm-usage-exporter",
+    "stars": 5,
+    "updated_at": "2026-06-17T06:47:53Z",
+    "url": "https://github.com/xops-labs/llm-usage-exporter"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T06:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
     "id": "admina-org/admina",
     "language": "Python",
@@ -27,15 +90,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50650,
-    "updated_at": "2026-06-17T06:34:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
     "id": "VamsiSudhakaran1/release-gate",
     "language": "Python",
@@ -43,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T06:30:47Z",
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise-grade sovereign AI for organizations where SaaS AI isn\u2019t an option.",
@@ -86,7 +131,7 @@
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 2,
-    "updated_at": "2026-06-17T06:14:46Z",
+    "updated_at": "2026-06-17T07:00:16Z",
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "traceloop/openllmetry-js",
     "stars": 403,
-    "updated_at": "2026-06-17T05:08:57Z",
+    "updated_at": "2026-06-17T07:00:24Z",
     "url": "https://github.com/traceloop/openllmetry-js"
   },
   {
@@ -229,7 +274,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26567,
+    "stars": 26568,
     "updated_at": "2026-06-17T05:01:46Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -403,50 +448,5 @@
     "stars": 18,
     "updated_at": "2026-06-17T01:36:25Z",
     "url": "https://github.com/prashar32/riskkernel"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 93,
-    "updated_at": "2026-06-17T01:35:59Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 28815,
-    "updated_at": "2026-06-17T01:07:00Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-17T01:05:16Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Production-grade RAG pipeline evaluation framework \u2014 hallucination detection, faithfulness scoring & LLMOps dashboard po",
-    "id": "spicynick111/rag-hallucination-detector",
-    "language": "Python",
-    "name": "spicynick111/rag-hallucination-detector",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:02:16Z",
-    "url": "https://github.com/spicynick111/rag-hallucination-detector"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4212,
-    "updated_at": "2026-06-17T00:56:38Z",
-    "url": "https://github.com/Agenta-AI/agenta"
   }
 ]
