@@ -1,5 +1,50 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22320,
+    "updated_at": "2026-06-17T19:59:52Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 107,
+    "updated_at": "2026-06-17T19:57:56Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 93,
+    "updated_at": "2026-06-17T19:54:09Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
+    "id": "runtm-ai/runtm",
+    "language": "Python",
+    "name": "runtm-ai/runtm",
+    "stars": 275,
+    "updated_at": "2026-06-17T19:49:57Z",
+    "url": "https://github.com/runtm-ai/runtm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T19:45:43Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50718,
-    "updated_at": "2026-06-17T19:44:45Z",
+    "updated_at": "2026-06-17T19:58:21Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T19:42:12Z",
     "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T19:34:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -95,17 +131,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10177,
-    "updated_at": "2026-06-17T19:41:11Z",
+    "updated_at": "2026-06-17T19:49:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 93,
-    "updated_at": "2026-06-17T19:44:58Z",
-    "url": "https://github.com/mezmo/aura"
   },
   {
     "description": "Datadog for LLM apps, for indie devs. Drop-in Python SDK + free self-host. Latency, cost, hallucination patterns out of ",
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T19:12:59Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22318,
-    "updated_at": "2026-06-17T19:42:07Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-17T19:36:03Z",
+    "updated_at": "2026-06-17T20:00:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -360,15 +378,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
-    "id": "runtm-ai/runtm",
-    "language": "Python",
-    "name": "runtm-ai/runtm",
-    "stars": 275,
-    "updated_at": "2026-06-17T19:09:50Z",
-    "url": "https://github.com/runtm-ai/runtm"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 5528,
     "updated_at": "2026-06-17T17:11:52Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 41,
-    "updated_at": "2026-06-17T14:45:50Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
