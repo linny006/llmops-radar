@@ -1,5 +1,68 @@
 [
   {
+    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
+    "id": "tmusser/ai-engineering-skills",
+    "language": "Python",
+    "name": "tmusser/ai-engineering-skills",
+    "stars": 1,
+    "updated_at": "2026-06-17T00:43:25Z",
+    "url": "https://github.com/tmusser/ai-engineering-skills"
+  },
+  {
+    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
+    "id": "acornops/k8s-agent",
+    "language": "TypeScript",
+    "name": "acornops/k8s-agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:41:31Z",
+    "url": "https://github.com/acornops/k8s-agent"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:41:10Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": " A lightweight, drop-in wrapper for profiling MCP server traffic and token usage.",
+    "id": "thschroeter/contextprof",
+    "language": "Rust",
+    "name": "thschroeter/contextprof",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:37:15Z",
+    "url": "https://github.com/thschroeter/contextprof"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50616,
+    "updated_at": "2026-06-17T00:43:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-grade RAG pipeline evaluation framework \u2014 hallucination detection, faithfulness scoring & LLMOps dashboard po",
+    "id": "spicynick111/rag-hallucination-detector",
+    "language": "Python",
+    "name": "spicynick111/rag-hallucination-detector",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:33:47Z",
+    "url": "https://github.com/spicynick111/rag-hallucination-detector"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T00:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -9,33 +72,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50615,
-    "updated_at": "2026-06-17T00:29:50Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": " A lightweight, drop-in wrapper for profiling MCP server traffic and token usage.",
-    "id": "thschroeter/contextprof",
-    "language": "Rust",
-    "name": "thschroeter/contextprof",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:22:14Z",
-    "url": "https://github.com/thschroeter/contextprof"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T00:15:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T00:15:10Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Production-grade RAG pipeline evaluation framework \u2014 hallucination detection, faithfulness scoring & LLMOps dashboard po",
-    "id": "spicynick111/rag-hallucination-detector",
-    "language": "Python",
-    "name": "spicynick111/rag-hallucination-detector",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:13:23Z",
-    "url": "https://github.com/spicynick111/rag-hallucination-detector"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -103,7 +130,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26560,
+    "stars": 26561,
     "updated_at": "2026-06-16T23:45:39Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -130,9 +157,18 @@
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 23,
+    "stars": 24,
     "updated_at": "2026-06-16T23:35:45Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5846,
+    "updated_at": "2026-06-16T23:31:40Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T23:42:11Z",
     "url": "https://github.com/shaikn6/agent-autopsy"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5845,
-    "updated_at": "2026-06-16T23:31:40Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Rust-first, local-first observability & debugging for LLM agents: capture, inspect, replay, diff, and export traces (Ope",
@@ -378,15 +405,6 @@
     "url": "https://github.com/aryanjp1/tracelift"
   },
   {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:49:15Z",
-    "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 21,
     "updated_at": "2026-06-16T17:31:31Z",
     "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
-  },
-  {
-    "description": "Agent reliability methodology for false-green testing of AI coding agents \u2014 claim, evidence, repeated trials, zero-LLM v",
-    "id": "boyam01/probity",
-    "language": "Python",
-    "name": "boyam01/probity",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:11:40Z",
-    "url": "https://github.com/boyam01/probity"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 40,
-    "updated_at": "2026-06-16T17:02:35Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
