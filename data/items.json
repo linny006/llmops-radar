@@ -1,12 +1,21 @@
 [
   {
-    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 135,
-    "updated_at": "2026-06-17T08:41:16Z",
-    "url": "https://github.com/taichuy/1flowbase"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19673,
+    "updated_at": "2026-06-17T08:59:58Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29246,
+    "updated_at": "2026-06-17T08:59:26Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -14,26 +23,8 @@
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 2,
-    "updated_at": "2026-06-17T08:41:06Z",
+    "updated_at": "2026-06-17T08:57:57Z",
     "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T08:40:36Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2255,
-    "updated_at": "2026-06-17T08:40:00Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
@@ -41,8 +32,44 @@
     "language": "Python",
     "name": "moiraweave-labs/moiraweave",
     "stars": 1,
-    "updated_at": "2026-06-17T08:39:13Z",
+    "updated_at": "2026-06-17T08:58:31Z",
     "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T08:45:46Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T08:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 135,
+    "updated_at": "2026-06-17T08:53:51Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2256,
+    "updated_at": "2026-06-17T08:40:00Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -54,24 +81,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19673,
-    "updated_at": "2026-06-17T08:43:24Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29242,
-    "updated_at": "2026-06-17T08:41:37Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Local-first RAG and agent skills framework for source-traceable agent memory.",
     "id": "sparkplug604/praxis",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 24,
     "updated_at": "2026-06-17T08:36:09Z",
     "url": "https://github.com/sparkplug604/praxis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T08:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -131,7 +131,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1228,
-    "updated_at": "2026-06-17T08:44:59Z",
+    "updated_at": "2026-06-17T08:46:30Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -142,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-06-17T08:11:28Z",
     "url": "https://github.com/aisona-lab/OrcaI"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5452,
+    "updated_at": "2026-06-17T08:54:19Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
@@ -193,7 +202,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50663,
+    "stars": 50664,
     "updated_at": "2026-06-17T07:35:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -212,7 +221,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11455,
-    "updated_at": "2026-06-17T08:25:16Z",
+    "updated_at": "2026-06-17T08:50:52Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -241,6 +250,15 @@
     "stars": 5435,
     "updated_at": "2026-06-17T07:01:50Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
+    "id": "traceloop/openllmetry-js",
+    "language": "TypeScript",
+    "name": "traceloop/openllmetry-js",
+    "stars": 403,
+    "updated_at": "2026-06-17T07:00:24Z",
+    "url": "https://github.com/traceloop/openllmetry-js"
   },
   {
     "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
@@ -292,7 +310,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10171,
+    "stars": 10172,
     "updated_at": "2026-06-17T06:18:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -391,18 +409,9 @@
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
-    "stars": 3010,
+    "stars": 3011,
     "updated_at": "2026-06-17T05:11:31Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
-    "id": "traceloop/openllmetry-js",
-    "language": "TypeScript",
-    "name": "traceloop/openllmetry-js",
-    "stars": 403,
-    "updated_at": "2026-06-17T07:00:24Z",
-    "url": "https://github.com/traceloop/openllmetry-js"
   },
   {
     "description": "The agent framework where every run is durable, replayable, and resumable by default.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T04:34:37Z",
     "url": "https://github.com/shaikn6/llmops-eval-platform"
-  },
-  {
-    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 35,
-    "updated_at": "2026-06-17T04:20:45Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   }
 ]
