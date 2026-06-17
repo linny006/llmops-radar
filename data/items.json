@@ -1,21 +1,30 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10167,
-    "updated_at": "2026-06-17T02:27:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50621,
-    "updated_at": "2026-06-17T02:30:22Z",
+    "stars": 50624,
+    "updated_at": "2026-06-17T02:41:00Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26561,
+    "updated_at": "2026-06-17T02:42:04Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 1,
+    "updated_at": "2026-06-17T02:39:00Z",
+    "url": "https://github.com/umutkeltek/switchback"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -23,7 +32,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2255,
-    "updated_at": "2026-06-17T02:16:02Z",
+    "updated_at": "2026-06-17T02:37:08Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -32,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-17T02:15:27Z",
+    "updated_at": "2026-06-17T02:30:33Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10167,
+    "updated_at": "2026-06-17T02:43:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -88,15 +106,6 @@
     "stars": 93,
     "updated_at": "2026-06-17T01:35:59Z",
     "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26561,
-    "updated_at": "2026-06-17T02:25:29Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
@@ -355,7 +364,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22288,
+    "stars": 22289,
     "updated_at": "2026-06-16T21:30:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 62,
     "updated_at": "2026-06-16T19:05:53Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:00:53Z",
-    "url": "https://github.com/acornops/control-plane"
   }
 ]
