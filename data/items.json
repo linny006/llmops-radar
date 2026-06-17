@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T03:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50626,
-    "updated_at": "2026-06-17T03:00:14Z",
+    "updated_at": "2026-06-17T03:12:25Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 2255,
     "updated_at": "2026-06-17T02:48:14Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T02:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -50,7 +50,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26561,
-    "updated_at": "2026-06-17T02:57:57Z",
+    "updated_at": "2026-06-17T03:08:45Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -112,7 +112,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19670,
+    "stars": 19671,
     "updated_at": "2026-06-17T01:36:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -133,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-06-17T01:29:50Z",
     "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 28809,
+    "updated_at": "2026-06-17T01:07:00Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "ThousandBirdsInc/chidori",
     "stars": 1349,
-    "updated_at": "2026-06-17T00:11:20Z",
+    "updated_at": "2026-06-17T03:15:00Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
   },
   {
@@ -223,6 +232,15 @@
     "stars": 10,
     "updated_at": "2026-06-17T00:03:41Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3008,
+    "updated_at": "2026-06-16T23:55:21Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -319,7 +337,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29219,
+    "stars": 29221,
     "updated_at": "2026-06-16T23:06:01Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -383,7 +401,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22291,
-    "updated_at": "2026-06-16T21:30:23Z",
+    "updated_at": "2026-06-17T03:10:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T20:00:10Z",
     "url": "https://github.com/anejakartik/evalstack"
-  },
-  {
-    "description": "ESLint for your LLM prompts \u2014 catch prompt-injection risks, missing token limits & prompt anti-patterns before you ship.",
-    "id": "pop123-ux/promptlint",
-    "language": "Python",
-    "name": "pop123-ux/promptlint",
-    "stars": 1,
-    "updated_at": "2026-06-16T19:36:17Z",
-    "url": "https://github.com/pop123-ux/promptlint"
-  },
-  {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:40:14Z",
-    "url": "https://github.com/acornops/llm-gateway"
   }
 ]
