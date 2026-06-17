@@ -1,12 +1,30 @@
 [
   {
-    "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
-    "id": "mzlin2020/linming_llmops",
+    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
+    "id": "moiraweave-labs/moiraweave",
     "language": "Python",
-    "name": "mzlin2020/linming_llmops",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:43:41Z",
-    "url": "https://github.com/mzlin2020/linming_llmops"
+    "name": "moiraweave-labs/moiraweave",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:59:52Z",
+    "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19673,
+    "updated_at": "2026-06-17T08:00:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:56:02Z",
+    "url": "https://github.com/bj-qizhi/trigix"
   },
   {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "admina-org/admina",
     "stars": 3,
-    "updated_at": "2026-06-17T07:40:30Z",
+    "updated_at": "2026-06-17T08:00:29Z",
     "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2255,
+    "updated_at": "2026-06-17T07:54:58Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:54:26Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
+    "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:54:24Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
+    "id": "mzlin2020/linming_llmops",
+    "language": "Python",
+    "name": "mzlin2020/linming_llmops",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:46:21Z",
+    "url": "https://github.com/mzlin2020/linming_llmops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -23,17 +86,26 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29239,
-    "updated_at": "2026-06-17T07:43:26Z",
+    "updated_at": "2026-06-17T07:57:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
-    "id": "moiraweave-labs/moiraweave",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "moiraweave-labs/moiraweave",
-    "stars": 1,
-    "updated_at": "2026-06-17T07:36:38Z",
-    "url": "https://github.com/moiraweave-labs/moiraweave"
+    "name": "BerriAI/litellm",
+    "stars": 50659,
+    "updated_at": "2026-06-17T07:35:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5851,
+    "updated_at": "2026-06-17T07:55:04Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "LLM budget control and cost governance for AI agents. Python library for token budgets, usage limits and guardrails for ",
@@ -45,58 +117,13 @@
     "url": "https://github.com/arieradle/shekel"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T07:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 2,
-    "updated_at": "2026-06-17T07:30:08Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11455,
-    "updated_at": "2026-06-17T07:43:40Z",
+    "updated_at": "2026-06-17T07:47:21Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19673,
-    "updated_at": "2026-06-17T07:24:44Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50654,
-    "updated_at": "2026-06-17T07:35:48Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:18:24Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
@@ -113,7 +140,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1228,
-    "updated_at": "2026-06-17T07:39:11Z",
+    "updated_at": "2026-06-17T07:58:54Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T07:04:30Z",
     "url": "https://github.com/mwigge/rs-llmctl"
-  },
-  {
-    "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:55:09Z",
-    "url": "https://github.com/thequantumfalcon/kry"
   },
   {
     "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
@@ -151,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-06-17T06:47:53Z",
     "url": "https://github.com/xops-labs/llm-usage-exporter"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2255,
-    "updated_at": "2026-06-17T06:36:25Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
@@ -187,6 +196,15 @@
     "stars": 4,
     "updated_at": "2026-06-17T06:20:47Z",
     "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10170,
+    "updated_at": "2026-06-17T06:18:52Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -230,7 +248,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 18,
-    "updated_at": "2026-06-17T07:24:46Z",
+    "updated_at": "2026-06-17T07:57:17Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 17,
     "updated_at": "2026-06-17T05:52:06Z",
     "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5850,
-    "updated_at": "2026-06-17T07:34:43Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor",
@@ -401,7 +410,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5524,
-    "updated_at": "2026-06-17T07:15:57Z",
+    "updated_at": "2026-06-17T07:57:14Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 44,
     "updated_at": "2026-06-17T02:56:18Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-17T02:45:50Z",
-    "url": "https://github.com/Ohswedd/vincio"
   }
 ]
