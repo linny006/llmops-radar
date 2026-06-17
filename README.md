@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 05:15 UTC
+> ⏰ Last updated: 2026-06-17 05:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SpaceArmour/qxli-sovereign-ai-engine](https://github.com/SpaceArmour/qxli-sovereign-ai-engine) | 0 | — | 2026-06-17 | Enterprise-grade sovereign AI for organizations where SaaS AI isn’t an option. |
-| 2 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5848 | Go | 2026-06-17 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 3 | [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) | 403 | TypeScript | 2026-06-17 | Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem |
-| 4 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26565 | Python | 2026-06-17 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [SpaceArmour/qxli-sovereign-ai-engine](https://github.com/SpaceArmour/qxli-sovereign-ai-engine) | 0 | — | 2026-06-17 | Enterprise-grade sovereign AI for organizations where SaaS AI isn’t an option. |
+| 3 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5848 | Go | 2026-06-17 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 4 | [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) | 403 | TypeScript | 2026-06-17 | Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem |
+| 5 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26565 | Python | 2026-06-17 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50639 | Python | 2026-06-17 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 7 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 30 | Python | 2026-06-17 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
 | 8 | [agentbreeder/agentbreeder](https://github.com/agentbreeder/agentbreeder) | 4 | Python | 2026-06-17 | Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI  |
