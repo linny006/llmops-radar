@@ -1,11 +1,74 @@
 [
   {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1228,
+    "updated_at": "2026-06-17T08:14:39Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5852,
+    "updated_at": "2026-06-17T08:14:50Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Your agent proposes. Orca verifies. You decide. A drop-in verification layer for LLM/agent outputs: grounding, schema, P",
+    "id": "aisona-lab/OrcaI",
+    "language": "Python",
+    "name": "aisona-lab/OrcaI",
+    "stars": 1,
+    "updated_at": "2026-06-17T08:11:28Z",
+    "url": "https://github.com/aisona-lab/OrcaI"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29240,
+    "updated_at": "2026-06-17T08:13:58Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T08:06:48Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2255,
+    "updated_at": "2026-06-17T08:03:05Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T08:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
     "id": "moiraweave-labs/moiraweave",
     "language": "Python",
     "name": "moiraweave-labs/moiraweave",
     "stars": 1,
-    "updated_at": "2026-06-17T07:59:52Z",
+    "updated_at": "2026-06-17T08:00:57Z",
     "url": "https://github.com/moiraweave-labs/moiraweave"
   },
   {
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19673,
-    "updated_at": "2026-06-17T08:00:12Z",
+    "updated_at": "2026-06-17T08:06:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -36,15 +99,6 @@
     "url": "https://github.com/admina-org/admina"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2255,
-    "updated_at": "2026-06-17T07:54:58Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
     "id": "ictseoyoungmin/HADARA",
     "language": "TypeScript",
@@ -58,7 +112,7 @@
     "id": "thequantumfalcon/kry",
     "language": "Python",
     "name": "thequantumfalcon/kry",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-17T07:54:24Z",
     "url": "https://github.com/thequantumfalcon/kry"
   },
@@ -72,40 +126,13 @@
     "url": "https://github.com/mzlin2020/linming_llmops"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T07:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29239,
-    "updated_at": "2026-06-17T07:57:34Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50659,
+    "stars": 50660,
     "updated_at": "2026-06-17T07:35:48Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5851,
-    "updated_at": "2026-06-17T07:55:04Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "LLM budget control and cost governance for AI agents. Python library for token budgets, usage limits and guardrails for ",
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11455,
-    "updated_at": "2026-06-17T07:47:21Z",
+    "updated_at": "2026-06-17T08:04:01Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -130,18 +157,9 @@
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 30,
+    "stars": 31,
     "updated_at": "2026-06-17T07:11:07Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1228,
-    "updated_at": "2026-06-17T07:58:54Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
@@ -205,15 +223,6 @@
     "stars": 10170,
     "updated_at": "2026-06-17T06:18:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:12:57Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -410,7 +419,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5524,
-    "updated_at": "2026-06-17T07:57:14Z",
+    "updated_at": "2026-06-17T08:15:17Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 314,
     "updated_at": "2026-06-17T03:18:12Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-06-17T02:56:18Z",
-    "url": "https://github.com/0xLazAI/alith"
   }
 ]
