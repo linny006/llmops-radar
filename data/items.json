@@ -1,5 +1,41 @@
 [
   {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-17T00:25:14Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50615,
+    "updated_at": "2026-06-17T00:29:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": " A lightweight, drop-in wrapper for profiling MCP server traffic and token usage.",
+    "id": "thschroeter/contextprof",
+    "language": "Rust",
+    "name": "thschroeter/contextprof",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:22:14Z",
+    "url": "https://github.com/thschroeter/contextprof"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T00:15:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -27,15 +63,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T00:13:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A reactive runtime for building durable AI agents",
     "id": "ThousandBirdsInc/chidori",
     "language": "Rust",
@@ -43,15 +70,6 @@
     "stars": 1349,
     "updated_at": "2026-06-17T00:11:20Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50615,
-    "updated_at": "2026-06-17T00:11:56Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -68,7 +86,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 13,
-    "updated_at": "2026-06-16T23:55:06Z",
+    "updated_at": "2026-06-17T00:15:34Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T23:42:11Z",
     "url": "https://github.com/shaikn6/agent-autopsy"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-17T00:14:34Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5451,
-    "updated_at": "2026-06-16T19:46:40Z",
+    "updated_at": "2026-06-17T00:22:32Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -418,7 +427,7 @@
     "id": "Stunspot/stunspots-guide-to-ai-systems",
     "language": "\u2014",
     "name": "Stunspot/stunspots-guide-to-ai-systems",
-    "stars": 20,
+    "stars": 21,
     "updated_at": "2026-06-16T17:31:31Z",
     "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
   },
@@ -439,14 +448,5 @@
     "stars": 40,
     "updated_at": "2026-06-16T17:02:35Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 2,
-    "updated_at": "2026-06-16T16:53:14Z",
-    "url": "https://github.com/bj-qizhi/trigix"
   }
 ]
