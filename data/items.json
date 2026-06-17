@@ -1,12 +1,75 @@
 [
   {
+    "description": "ESLint for your LLM prompts \u2014 catch prompt-injection risks, missing token limits & prompt anti-patterns before you ship.",
+    "id": "pop123-ux/promptlint",
+    "language": "Python",
+    "name": "pop123-ux/promptlint",
+    "stars": 1,
+    "updated_at": "2026-06-17T22:11:49Z",
+    "url": "https://github.com/pop123-ux/promptlint"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50720,
+    "updated_at": "2026-06-17T22:12:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:09:02Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-17T21:57:56Z",
+    "updated_at": "2026-06-17T22:05:43Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:05:25Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 98,
+    "updated_at": "2026-06-17T22:02:24Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-17T22:00:44Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T22:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -23,42 +86,15 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10178,
-    "updated_at": "2026-06-17T21:55:25Z",
+    "updated_at": "2026-06-17T22:05:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T21:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 97,
-    "updated_at": "2026-06-17T21:39:16Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50720,
-    "updated_at": "2026-06-17T21:53:22Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29280,
+    "stars": 29281,
     "updated_at": "2026-06-17T21:31:56Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "Netflix/metaflow",
     "stars": 10132,
-    "updated_at": "2026-06-17T21:57:39Z",
+    "updated_at": "2026-06-17T22:15:00Z",
     "url": "https://github.com/Netflix/metaflow"
   },
   {
@@ -126,24 +162,6 @@
     "url": "https://github.com/adel-saoud/guardian-rag"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-17T21:01:57Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-06-17T20:54:19Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
     "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
     "id": "phenomenoner/openclaw-mem",
     "language": "Python",
@@ -176,7 +194,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1229,
-    "updated_at": "2026-06-17T20:31:34Z",
+    "updated_at": "2026-06-17T22:14:39Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -229,7 +247,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 7658,
+    "stars": 7659,
     "updated_at": "2026-06-17T19:28:56Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -241,15 +259,6 @@
     "stars": 5,
     "updated_at": "2026-06-17T21:39:52Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-17T19:25:07Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-17T17:25:11Z",
     "url": "https://github.com/agentbreeder/agentbreeder"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "TypeScript",
-    "name": "dataelement/bisheng",
-    "stars": 11455,
-    "updated_at": "2026-06-17T19:30:08Z",
-    "url": "https://github.com/dataelement/bisheng"
   }
 ]
