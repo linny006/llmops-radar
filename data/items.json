@@ -1,5 +1,41 @@
 [
   {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 65,
+    "updated_at": "2026-06-17T10:09:57Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29255,
+    "updated_at": "2026-06-17T10:07:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
+    "id": "runcycles/cycles-mcp-server",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-17T10:01:27Z",
+    "url": "https://github.com/runcycles/cycles-mcp-server"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T10:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
     "id": "runcycles/cycles-spring-ai-starter",
     "language": "Java",
@@ -18,24 +54,6 @@
     "url": "https://github.com/runcycles/cycles-client-typescript"
   },
   {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:58:45Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29254,
-    "updated_at": "2026-06-17T10:00:19Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -43,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-06-17T09:53:35Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Production-grade AI anime recommender | RAG pipeline with ChromaDB + Groq (Llama 3.1) + LangChain | Dockerized, deployed",
+    "id": "Anand-Velpuri/AI-Anime-Recommender",
+    "language": "Python",
+    "name": "Anand-Velpuri/AI-Anime-Recommender",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:51:53Z",
+    "url": "https://github.com/Anand-Velpuri/AI-Anime-Recommender"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -61,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T09:50:35Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T09:45:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Tiny, provider-agnostic LLM-as-judge: weighted rubric scoring + multi-model panel voting. Zero deps, fully tested.",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26571,
-    "updated_at": "2026-06-17T09:28:50Z",
+    "updated_at": "2026-06-17T10:06:45Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -121,7 +139,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5854,
+    "stars": 5855,
     "updated_at": "2026-06-17T09:23:26Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4212,
-    "updated_at": "2026-06-17T09:37:46Z",
+    "updated_at": "2026-06-17T10:01:45Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3307,
-    "updated_at": "2026-06-17T09:56:00Z",
+    "updated_at": "2026-06-17T10:06:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1228,
-    "updated_at": "2026-06-17T09:57:55Z",
+    "updated_at": "2026-06-17T10:09:31Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5452,
-    "updated_at": "2026-06-17T09:59:04Z",
+    "updated_at": "2026-06-17T10:12:55Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -310,7 +328,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50670,
+    "stars": 50673,
     "updated_at": "2026-06-17T07:35:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -337,7 +355,7 @@
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 33,
+    "stars": 34,
     "updated_at": "2026-06-17T07:11:07Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 4,
-    "updated_at": "2026-06-17T09:33:09Z",
+    "updated_at": "2026-06-17T10:12:08Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:09:43Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Production-style AI delivery harness with planner-generator-evaluator orchestration, policy gates, provenance tracking, ",
-    "id": "kamicheung/agent-workflow-demo",
-    "language": "Python",
-    "name": "kamicheung/agent-workflow-demo",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:09:14Z",
-    "url": "https://github.com/kamicheung/agent-workflow-demo"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 18,
-    "updated_at": "2026-06-17T09:32:15Z",
-    "url": "https://github.com/byte5ai/omadia"
   }
 ]
