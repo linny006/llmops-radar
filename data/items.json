@@ -1,5 +1,77 @@
 [
   {
+    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
+    "id": "runcycles/cycles-spring-ai-starter",
+    "language": "Java",
+    "name": "runcycles/cycles-spring-ai-starter",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:59:34Z",
+    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
+  },
+  {
+    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
+    "id": "runcycles/cycles-client-typescript",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-client-typescript",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:58:57Z",
+    "url": "https://github.com/runcycles/cycles-client-typescript"
+  },
+  {
+    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
+    "id": "runcycles/cycles-mcp-server",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:58:45Z",
+    "url": "https://github.com/runcycles/cycles-mcp-server"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29254,
+    "updated_at": "2026-06-17T10:00:19Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:53:35Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-17T09:51:46Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-17T09:50:35Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T09:45:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Tiny, provider-agnostic LLM-as-judge: weighted rubric scoring + multi-model panel voting. Zero deps, fully tested.",
     "id": "feelmetttt/llm-judge",
     "language": "Python",
@@ -27,21 +99,12 @@
     "url": "https://github.com/ctxgov/ctxgov"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T09:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19674,
-    "updated_at": "2026-06-17T09:30:37Z",
+    "updated_at": "2026-06-17T09:54:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -54,6 +117,15 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5854,
+    "updated_at": "2026-06-17T09:23:26Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -61,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T09:22:03Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29254,
-    "updated_at": "2026-06-17T09:41:33Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -99,6 +162,15 @@
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 368,
+    "updated_at": "2026-06-17T09:05:56Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
     "id": "sauravbhattacharya001/prompt",
     "language": "C#",
@@ -126,21 +198,12 @@
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5853,
-    "updated_at": "2026-06-17T09:23:26Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 135,
-    "updated_at": "2026-06-17T09:23:16Z",
+    "updated_at": "2026-06-17T09:47:46Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -158,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3307,
-    "updated_at": "2026-06-17T09:31:41Z",
+    "updated_at": "2026-06-17T09:56:00Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1228,
-    "updated_at": "2026-06-17T09:37:39Z",
+    "updated_at": "2026-06-17T09:57:55Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5452,
-    "updated_at": "2026-06-17T09:36:36Z",
+    "updated_at": "2026-06-17T09:59:04Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -247,7 +310,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50668,
+    "stars": 50670,
     "updated_at": "2026-06-17T07:35:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -266,7 +329,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11455,
-    "updated_at": "2026-06-17T08:50:52Z",
+    "updated_at": "2026-06-17T09:54:10Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -293,7 +356,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5435,
-    "updated_at": "2026-06-17T07:01:50Z",
+    "updated_at": "2026-06-17T09:54:00Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -378,15 +441,6 @@
     "url": "https://github.com/kamicheung/agent-workflow-demo"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:07:07Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 18,
     "updated_at": "2026-06-17T09:32:15Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode li",
-    "id": "apache/hamilton",
-    "language": "Jupyter Notebook",
-    "name": "apache/hamilton",
-    "stars": 2528,
-    "updated_at": "2026-06-17T05:55:53Z",
-    "url": "https://github.com/apache/hamilton"
-  },
-  {
-    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 17,
-    "updated_at": "2026-06-17T05:52:06Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 825,
-    "updated_at": "2026-06-17T05:40:23Z",
-    "url": "https://github.com/Haohao-end/openagent"
-  },
-  {
-    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
-    "id": "morning-verlu/KAI",
-    "language": "Kotlin",
-    "name": "morning-verlu/KAI",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:31:17Z",
-    "url": "https://github.com/morning-verlu/KAI"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-06-17T05:22:45Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 139,
-    "updated_at": "2026-06-17T05:15:52Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
   }
 ]
