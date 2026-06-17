@@ -1,12 +1,39 @@
 [
   {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 4,
+    "updated_at": "2026-06-17T01:29:55Z",
+    "url": "https://github.com/open-ace/open-ace"
+  },
+  {
     "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
     "id": "morning-verlu/KAI",
     "language": "Kotlin",
     "name": "morning-verlu/KAI",
     "stars": 0,
-    "updated_at": "2026-06-17T01:09:42Z",
+    "updated_at": "2026-06-17T01:29:50Z",
     "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50616,
+    "updated_at": "2026-06-17T01:28:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T01:15:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -54,15 +81,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T01:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
     "id": "tmusser/ai-engineering-skills",
     "language": "Python",
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T00:37:15Z",
     "url": "https://github.com/thschroeter/contextprof"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50616,
-    "updated_at": "2026-06-17T01:13:59Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -184,7 +193,7 @@
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 24,
+    "stars": 25,
     "updated_at": "2026-06-16T23:35:45Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T18:36:38Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Multi-agent research synthesis system using LangGraph, Gemini, LlamaIndex, and Pinecone with full LLMOps instrumentation",
-    "id": "daveshenal/aegis",
-    "language": "Python",
-    "name": "daveshenal/aegis",
-    "stars": 1,
-    "updated_at": "2026-06-16T20:49:16Z",
-    "url": "https://github.com/daveshenal/aegis"
   }
 ]
