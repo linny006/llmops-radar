@@ -1,5 +1,23 @@
 [
   {
+    "description": "OpenClaw agent safety skill for action review, workflow verification, and optional PIC diagnostics",
+    "id": "kadubon/pic-openclaw-skill",
+    "language": "Python",
+    "name": "kadubon/pic-openclaw-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:12:19Z",
+    "url": "https://github.com/kadubon/pic-openclaw-skill"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T23:07:42Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -9,6 +27,15 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50722,
+    "updated_at": "2026-06-17T23:12:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T23:02:10Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T23:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
@@ -68,7 +86,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-17T22:40:08Z",
+    "updated_at": "2026-06-17T23:13:30Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-06-17T22:38:51Z",
     "url": "https://github.com/sadbeto/multi-agent-graph-memory"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50721,
-    "updated_at": "2026-06-17T23:04:21Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T16:50:54Z",
     "url": "https://github.com/acornops/execution-engine"
-  },
-  {
-    "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
-    "id": "renezander030/draftcat",
-    "language": "Go",
-    "name": "renezander030/draftcat",
-    "stars": 6,
-    "updated_at": "2026-06-17T16:25:22Z",
-    "url": "https://github.com/renezander030/draftcat"
   }
 ]
