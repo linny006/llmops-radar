@@ -1,5 +1,95 @@
 [
   {
+    "description": "Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
+    "id": "Neeeophytee/awesome-ai-workflows",
+    "language": "Shell",
+    "name": "Neeeophytee/awesome-ai-workflows",
+    "stars": 1,
+    "updated_at": "2026-06-17T14:57:34Z",
+    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5528,
+    "updated_at": "2026-06-17T14:50:52Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:47:34Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 41,
+    "updated_at": "2026-06-17T14:45:50Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T14:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
+    "id": "jimyoshida/dx-devops-landscape",
+    "language": "JavaScript",
+    "name": "jimyoshida/dx-devops-landscape",
+    "stars": 5,
+    "updated_at": "2026-06-17T14:45:28Z",
+    "url": "https://github.com/jimyoshida/dx-devops-landscape"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22310,
+    "updated_at": "2026-06-17T14:53:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4212,
+    "updated_at": "2026-06-17T14:56:48Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50704,
+    "updated_at": "2026-06-17T14:44:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
+    "id": "erjonb19/Security-Constrained-Agent-Runtime",
+    "language": "Python",
+    "name": "erjonb19/Security-Constrained-Agent-Runtime",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:43:08Z",
+    "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
+  },
+  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19675,
-    "updated_at": "2026-06-17T14:42:26Z",
+    "updated_at": "2026-06-17T14:51:54Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -45,15 +135,6 @@
     "url": "https://github.com/akbar-yusupov/ContextGate"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22310,
-    "updated_at": "2026-06-17T14:44:56Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -63,15 +144,6 @@
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T14:30:46Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -79,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T14:30:33Z",
     "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50705,
-    "updated_at": "2026-06-17T14:44:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T14:12:22Z",
     "url": "https://github.com/xsyxnx/codex-quota-monitor"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:40:48Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
@@ -185,7 +239,7 @@
     "language": "Vue",
     "name": "runcycles/cycles-docs",
     "stars": 4,
-    "updated_at": "2026-06-17T13:50:31Z",
+    "updated_at": "2026-06-17T14:56:15Z",
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
@@ -270,21 +324,12 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5527,
-    "updated_at": "2026-06-17T13:12:20Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
     "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 136,
-    "updated_at": "2026-06-17T14:30:40Z",
+    "updated_at": "2026-06-17T15:00:09Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5451,
-    "updated_at": "2026-06-17T14:42:08Z",
+    "updated_at": "2026-06-17T14:59:30Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -302,7 +347,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11454,
-    "updated_at": "2026-06-17T14:21:48Z",
+    "updated_at": "2026-06-17T14:57:31Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -320,7 +365,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3308,
-    "updated_at": "2026-06-17T14:32:29Z",
+    "updated_at": "2026-06-17T14:56:49Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -331,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T12:21:21Z",
     "url": "https://github.com/xinglun/ai-cockpit-template"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4213,
-    "updated_at": "2026-06-17T14:44:05Z",
-    "url": "https://github.com/Agenta-AI/agenta"
   },
   {
     "description": "Your agent proposes. Orca verifies. You decide. A drop-in verification layer for LLM/agent outputs: grounding, schema, P",
@@ -383,7 +419,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3012,
-    "updated_at": "2026-06-17T13:20:18Z",
+    "updated_at": "2026-06-17T14:52:54Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 13,
     "updated_at": "2026-06-17T10:51:52Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:18:28Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
-    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
-    "id": "runcycles/cycles-spring-ai-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-ai-starter",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:29:13Z",
-    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
-  },
-  {
-    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
-    "id": "runcycles/cycles-client-typescript",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-client-typescript",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:58:57Z",
-    "url": "https://github.com/runcycles/cycles-client-typescript"
-  },
-  {
-    "description": "Production-grade AI anime recommender | RAG pipeline with ChromaDB + Groq (Llama 3.1) + LangChain | Dockerized, deployed",
-    "id": "Anand-Velpuri/AI-Anime-Recommender",
-    "language": "Python",
-    "name": "Anand-Velpuri/AI-Anime-Recommender",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:51:53Z",
-    "url": "https://github.com/Anand-Velpuri/AI-Anime-Recommender"
   }
 ]
