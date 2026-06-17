@@ -1,11 +1,74 @@
 [
   {
+    "description": "Audit AGENTS.md, CLAUDE.md, and SKILL.md files for prompt bloat, conflicting rules, and agent instruction drift.",
+    "id": "inbusiness23/agent-immune-system",
+    "language": "HTML",
+    "name": "inbusiness23/agent-immune-system",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:59:55Z",
+    "url": "https://github.com/inbusiness23/agent-immune-system"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50696,
+    "updated_at": "2026-06-17T12:57:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Framework-agnostic AI Agent \ud3c9\uac00/\uad00\uce21 \uc778\ud504\ub77c (4\ucd95 \ud3c9\uac00 + OpenTelemetry GenAI trace)",
+    "id": "songwookun/agent-eval-lab",
+    "language": "Python",
+    "name": "songwookun/agent-eval-lab",
+    "stars": 1,
+    "updated_at": "2026-06-17T12:56:43Z",
+    "url": "https://github.com/songwookun/agent-eval-lab"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5451,
+    "updated_at": "2026-06-17T12:54:42Z",
+    "url": "https://github.com/zenml-io/zenml"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:52:45Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 4,
+    "updated_at": "2026-06-17T12:46:53Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T12:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5859,
-    "updated_at": "2026-06-17T12:44:31Z",
+    "updated_at": "2026-06-17T12:58:16Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T12:43:52Z",
     "url": "https://github.com/ictseoyoungmin/HADARA"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T12:43:04Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
@@ -45,15 +99,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Audit AGENTS.md, CLAUDE.md, and SKILL.md files for prompt bloat, conflicting rules, and agent instruction drift.",
-    "id": "inbusiness23/agent-immune-system",
-    "language": "HTML",
-    "name": "inbusiness23/agent-immune-system",
-    "stars": 0,
-    "updated_at": "2026-06-17T12:39:56Z",
-    "url": "https://github.com/inbusiness23/agent-immune-system"
-  },
-  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -68,26 +113,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3308,
-    "updated_at": "2026-06-17T12:38:34Z",
+    "updated_at": "2026-06-17T12:51:19Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Framework-agnostic AI Agent \ud3c9\uac00/\uad00\uce21 \uc778\ud504\ub77c (4\ucd95 \ud3c9\uac00 + OpenTelemetry GenAI trace)",
-    "id": "songwookun/agent-eval-lab",
-    "language": "Python",
-    "name": "songwookun/agent-eval-lab",
-    "stars": 1,
-    "updated_at": "2026-06-17T12:33:21Z",
-    "url": "https://github.com/songwookun/agent-eval-lab"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T12:30:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -95,17 +122,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29264,
-    "updated_at": "2026-06-17T12:27:37Z",
+    "updated_at": "2026-06-17T12:47:34Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50696,
-    "updated_at": "2026-06-17T12:40:25Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 66,
-    "updated_at": "2026-06-17T12:44:20Z",
+    "updated_at": "2026-06-17T12:53:12Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19675,
-    "updated_at": "2026-06-17T12:44:20Z",
+    "updated_at": "2026-06-17T13:00:17Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -319,7 +337,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5436,
+    "stars": 5435,
     "updated_at": "2026-06-17T09:54:00Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -430,23 +448,5 @@
     "stars": 1228,
     "updated_at": "2026-06-17T12:37:08Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5452,
-    "updated_at": "2026-06-17T12:41:19Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 3,
-    "updated_at": "2026-06-17T08:00:29Z",
-    "url": "https://github.com/admina-org/admina"
   }
 ]
