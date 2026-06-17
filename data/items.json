@@ -1,21 +1,39 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22320,
-    "updated_at": "2026-06-17T19:59:52Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
     "id": "Yigtwxx/awesome-rag-production",
     "language": "Python",
     "name": "Yigtwxx/awesome-rag-production",
     "stars": 107,
-    "updated_at": "2026-06-17T19:57:56Z",
+    "updated_at": "2026-06-17T20:11:02Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22321,
+    "updated_at": "2026-06-17T20:04:52Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T20:00:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50718,
+    "updated_at": "2026-06-17T20:07:50Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "mezmo/aura",
     "stars": 93,
-    "updated_at": "2026-06-17T19:54:09Z",
+    "updated_at": "2026-06-17T20:06:56Z",
     "url": "https://github.com/mezmo/aura"
   },
   {
@@ -32,17 +50,8 @@
     "language": "Python",
     "name": "runtm-ai/runtm",
     "stars": 275,
-    "updated_at": "2026-06-17T19:49:57Z",
+    "updated_at": "2026-06-17T20:00:43Z",
     "url": "https://github.com/runtm-ai/runtm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T19:45:43Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
@@ -54,15 +63,6 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50718,
-    "updated_at": "2026-06-17T19:58:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -70,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-06-17T19:42:12Z",
     "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29277,
+    "updated_at": "2026-06-17T19:36:51Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T19:28:19Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29275,
-    "updated_at": "2026-06-17T19:36:51Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -184,8 +184,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5867,
-    "updated_at": "2026-06-17T19:04:40Z",
+    "stars": 5868,
+    "updated_at": "2026-06-17T20:15:08Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -284,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-17T20:00:05Z",
+    "updated_at": "2026-06-17T20:11:15Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -392,7 +392,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 12,
-    "updated_at": "2026-06-17T19:21:42Z",
+    "updated_at": "2026-06-17T20:08:15Z",
     "url": "https://github.com/iblai/os"
   },
   {
