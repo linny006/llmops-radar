@@ -1,21 +1,111 @@
 [
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7657,
-    "updated_at": "2026-06-17T19:15:09Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-17T19:15:02Z",
+    "updated_at": "2026-06-17T19:29:03Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:28:19Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29275,
+    "updated_at": "2026-06-17T19:28:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-17T19:27:17Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-17T19:25:07Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
+    "id": "tmusser/ai-engineering-skills",
+    "language": "Python",
+    "name": "tmusser/ai-engineering-skills",
+    "stars": 2,
+    "updated_at": "2026-06-17T19:23:04Z",
+    "url": "https://github.com/tmusser/ai-engineering-skills"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10177,
+    "updated_at": "2026-06-17T19:28:34Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 93,
+    "updated_at": "2026-06-17T19:20:40Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Datadog for LLM apps, for indie devs. Drop-in Python SDK + free self-host. Latency, cost, hallucination patterns out of ",
+    "id": "anejakartik/tracelens",
+    "language": "Python",
+    "name": "anejakartik/tracelens",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:19:30Z",
+    "url": "https://github.com/anejakartik/tracelens"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 4,
+    "updated_at": "2026-06-17T19:19:14Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T19:15:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7657,
+    "updated_at": "2026-06-17T19:28:56Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -27,24 +117,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10177,
-    "updated_at": "2026-06-17T19:10:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 4,
-    "updated_at": "2026-06-17T19:09:13Z",
-    "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -54,22 +126,13 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29274,
-    "updated_at": "2026-06-17T19:05:12Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T19:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5867,
+    "updated_at": "2026-06-17T19:04:40Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals.",
@@ -86,7 +149,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 0,
-    "updated_at": "2026-06-17T18:47:55Z",
+    "updated_at": "2026-06-17T19:19:53Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50717,
-    "updated_at": "2026-06-17T19:07:52Z",
+    "updated_at": "2026-06-17T19:29:59Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -122,7 +185,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4215,
-    "updated_at": "2026-06-17T18:47:53Z",
+    "updated_at": "2026-06-17T19:18:49Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-17T19:15:14Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:14:31Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:12:19Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-17T18:57:18Z",
+    "updated_at": "2026-06-17T19:25:30Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 28822,
     "updated_at": "2026-06-17T16:59:12Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-17T16:54:07Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -338,7 +374,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11455,
-    "updated_at": "2026-06-17T17:44:47Z",
+    "updated_at": "2026-06-17T19:30:08Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 12,
-    "updated_at": "2026-06-17T18:19:04Z",
+    "updated_at": "2026-06-17T19:21:42Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 41,
     "updated_at": "2026-06-17T14:45:50Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
-    "id": "jimyoshida/dx-devops-landscape",
-    "language": "JavaScript",
-    "name": "jimyoshida/dx-devops-landscape",
-    "stars": 5,
-    "updated_at": "2026-06-17T14:45:28Z",
-    "url": "https://github.com/jimyoshida/dx-devops-landscape"
-  },
-  {
-    "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
-    "id": "erjonb19/Security-Constrained-Agent-Runtime",
-    "language": "Python",
-    "name": "erjonb19/Security-Constrained-Agent-Runtime",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:43:08Z",
-    "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26581,
-    "updated_at": "2026-06-17T14:37:51Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Evidence-gated RAG infrastructure for grounded, cited answers or structured abstentions - with hybrid retrieval, OpenAI-",
-    "id": "akbar-yusupov/ContextGate",
-    "language": "Python",
-    "name": "akbar-yusupov/ContextGate",
-    "stars": 1,
-    "updated_at": "2026-06-17T14:34:37Z",
-    "url": "https://github.com/akbar-yusupov/ContextGate"
   }
 ]
