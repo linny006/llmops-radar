@@ -1,11 +1,38 @@
 [
   {
+    "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:45:10Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50718,
+    "updated_at": "2026-06-17T19:44:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-17T19:42:12Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-17T19:30:33Z",
+    "updated_at": "2026-06-17T19:34:40Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29275,
-    "updated_at": "2026-06-17T19:28:12Z",
+    "updated_at": "2026-06-17T19:36:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10177,
-    "updated_at": "2026-06-17T19:28:34Z",
+    "updated_at": "2026-06-17T19:41:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Rust",
     "name": "mezmo/aura",
     "stars": 93,
-    "updated_at": "2026-06-17T19:20:40Z",
+    "updated_at": "2026-06-17T19:44:58Z",
     "url": "https://github.com/mezmo/aura"
   },
   {
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22318,
-    "updated_at": "2026-06-17T19:09:37Z",
+    "updated_at": "2026-06-17T19:42:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -130,7 +157,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19678,
+    "stars": 19679,
     "updated_at": "2026-06-17T19:04:42Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -153,15 +180,6 @@
     "url": "https://github.com/EvanAI0331/aigit"
   },
   {
-    "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:19:53Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
     "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
     "id": "shaikn6/llmops-eval-platform",
     "language": "Python",
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:44:09Z",
     "url": "https://github.com/shaikn6/llmops-eval-platform"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50717,
-    "updated_at": "2026-06-17T19:29:59Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:14:31Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-17T17:52:47Z",
-    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
@@ -266,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-17T19:25:30Z",
+    "updated_at": "2026-06-17T19:36:03Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
