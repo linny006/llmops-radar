@@ -1,12 +1,84 @@
 [
   {
+    "description": "Build, Manage and Deploy AI/ML Systems",
+    "id": "Netflix/metaflow",
+    "language": "Python",
+    "name": "Netflix/metaflow",
+    "stars": 10132,
+    "updated_at": "2026-06-17T21:14:05Z",
+    "url": "https://github.com/Netflix/metaflow"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22322,
+    "updated_at": "2026-06-17T21:11:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-17T20:58:50Z",
+    "updated_at": "2026-06-17T21:08:37Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-17T21:04:32Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Two-stage LLM request router \u2014 classifies complexity with embedding similarity + DeBERTa zero-shot, routes to the cheape",
+    "id": "adel-saoud/llm-cost-autopilot",
+    "language": "Python",
+    "name": "adel-saoud/llm-cost-autopilot",
+    "stars": 0,
+    "updated_at": "2026-06-17T21:03:52Z",
+    "url": "https://github.com/adel-saoud/llm-cost-autopilot"
+  },
+  {
+    "description": "Stop personal data leaking through your RAG pipeline. Detects and redacts PII at ingestion, audits every generated answe",
+    "id": "adel-saoud/guardian-rag",
+    "language": "Python",
+    "name": "adel-saoud/guardian-rag",
+    "stars": 0,
+    "updated_at": "2026-06-17T21:03:36Z",
+    "url": "https://github.com/adel-saoud/guardian-rag"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-17T21:01:57Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50719,
+    "updated_at": "2026-06-17T21:01:17Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T21:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
@@ -27,24 +99,6 @@
     "url": "https://github.com/phenomenoner/openclaw-mem"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50718,
-    "updated_at": "2026-06-17T20:57:06Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T20:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
     "id": "dgenio/intentflow",
     "language": "Python",
@@ -58,7 +112,7 @@
     "id": "mezmo/aura",
     "language": "Rust",
     "name": "mezmo/aura",
-    "stars": 95,
+    "stars": 96,
     "updated_at": "2026-06-17T20:41:03Z",
     "url": "https://github.com/mezmo/aura"
   },
@@ -90,6 +144,15 @@
     "url": "https://github.com/iblai/os"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5869,
+    "updated_at": "2026-06-17T21:11:21Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
     "id": "Yigtwxx/awesome-rag-production",
     "language": "Python",
@@ -97,15 +160,6 @@
     "stars": 108,
     "updated_at": "2026-06-17T20:11:02Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22321,
-    "updated_at": "2026-06-17T20:51:11Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10178,
-    "updated_at": "2026-06-17T20:48:58Z",
+    "updated_at": "2026-06-17T21:06:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -149,17 +203,17 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29277,
-    "updated_at": "2026-06-17T20:32:38Z",
+    "updated_at": "2026-06-17T21:13:42Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:28:19Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7658,
+    "updated_at": "2026-06-17T19:28:56Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -167,7 +221,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-17T19:27:17Z",
+    "updated_at": "2026-06-17T21:06:33Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -207,15 +261,6 @@
     "url": "https://github.com/MattJackson/busbarAI"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7657,
-    "updated_at": "2026-06-17T19:28:56Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -232,15 +277,6 @@
     "stars": 19678,
     "updated_at": "2026-06-17T19:04:42Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5868,
-    "updated_at": "2026-06-17T20:15:08Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals.",
@@ -288,15 +324,6 @@
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:14:31Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
     "id": "Traigent/tvl",
     "language": "Python",
@@ -304,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T17:37:58Z",
     "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10132,
-    "updated_at": "2026-06-17T18:54:05Z",
-    "url": "https://github.com/Netflix/metaflow"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -414,15 +432,6 @@
     "url": "https://github.com/agentbreeder/agentbreeder"
   },
   {
-    "description": "Stop personal data leaking through your RAG pipeline. Detects and redacts PII at ingestion, audits every generated answe",
-    "id": "adel-saoud/guardian-rag",
-    "language": "Python",
-    "name": "adel-saoud/guardian-rag",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:11:47Z",
-    "url": "https://github.com/adel-saoud/guardian-rag"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-17T15:47:54Z",
     "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Portable, self-contained snapshot of a complete Claude Code setup \u2014 35 specialist agents, 115 skills, plugins, MCP serve",
-    "id": "build-with-dhiraj/ai-workflow-framework-portability-kit",
-    "language": "Python",
-    "name": "build-with-dhiraj/ai-workflow-framework-portability-kit",
-    "stars": 3,
-    "updated_at": "2026-06-17T15:24:36Z",
-    "url": "https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit"
   }
 ]
