@@ -1,12 +1,39 @@
 [
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
+    "description": "Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals.",
+    "id": "EvanAI0331/aigit",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50717,
-    "updated_at": "2026-06-17T18:30:06Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "EvanAI0331/aigit",
+    "stars": 0,
+    "updated_at": "2026-06-17T18:45:35Z",
+    "url": "https://github.com/EvanAI0331/aigit"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10177,
+    "updated_at": "2026-06-17T18:44:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
+    "id": "shaikn6/llmops-eval-platform",
+    "language": "Python",
+    "name": "shaikn6/llmops-eval-platform",
+    "stars": 0,
+    "updated_at": "2026-06-17T18:44:09Z",
+    "url": "https://github.com/shaikn6/llmops-eval-platform"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 4,
+    "updated_at": "2026-06-17T18:39:20Z",
+    "url": "https://github.com/MattJackson/busbarAI"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,8 +41,26 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-17T18:26:34Z",
+    "updated_at": "2026-06-17T18:37:29Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T18:30:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50717,
+    "updated_at": "2026-06-17T18:45:18Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
@@ -54,24 +99,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 4,
-    "updated_at": "2026-06-17T18:16:35Z",
-    "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T18:15:43Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29274,
-    "updated_at": "2026-06-17T18:27:43Z",
+    "updated_at": "2026-06-17T18:38:18Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22316,
-    "updated_at": "2026-06-17T18:04:25Z",
+    "updated_at": "2026-06-17T18:35:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-06-17T17:42:41Z",
+    "updated_at": "2026-06-17T18:42:49Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -162,21 +189,12 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10176,
-    "updated_at": "2026-06-17T17:46:03Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 0,
-    "updated_at": "2026-06-17T17:15:38Z",
+    "updated_at": "2026-06-17T18:45:38Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-17T17:00:20Z",
+    "updated_at": "2026-06-17T18:37:40Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19677,
-    "updated_at": "2026-06-17T18:25:27Z",
+    "updated_at": "2026-06-17T18:44:53Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T14:32:01Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5865,
-    "updated_at": "2026-06-17T17:27:45Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:24:07Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
   }
 ]
