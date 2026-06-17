@@ -1,12 +1,48 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50618,
+    "updated_at": "2026-06-17T01:56:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
+    "id": "prismal-ai/prismal",
+    "language": "Python",
+    "name": "prismal-ai/prismal",
+    "stars": 0,
+    "updated_at": "2026-06-17T01:57:19Z",
+    "url": "https://github.com/prismal-ai/prismal"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2255,
-    "updated_at": "2026-06-17T01:40:18Z",
+    "updated_at": "2026-06-17T01:51:20Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T01:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10167,
+    "updated_at": "2026-06-17T01:41:21Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
@@ -32,17 +68,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26561,
-    "updated_at": "2026-06-17T01:36:07Z",
+    "updated_at": "2026-06-17T01:57:10Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T01:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T01:29:50Z",
     "url": "https://github.com/morning-verlu/KAI"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50617,
-    "updated_at": "2026-06-17T01:40:02Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -225,15 +243,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10166,
-    "updated_at": "2026-06-17T01:41:21Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
     "id": "shaikn6/llm-gateway",
     "language": "Python",
@@ -328,7 +337,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22287,
+    "stars": 22288,
     "updated_at": "2026-06-16T21:30:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 1053,
     "updated_at": "2026-06-17T01:15:07Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:36:38Z",
-    "url": "https://github.com/acornops/management-console"
   }
 ]
