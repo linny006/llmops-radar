@@ -1,11 +1,47 @@
 [
   {
+    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 17,
+    "updated_at": "2026-06-17T04:22:00Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 35,
+    "updated_at": "2026-06-17T04:20:45Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
+    "id": "shaikn6/llmops-eval-platform",
+    "language": "Python",
+    "name": "shaikn6/llmops-eval-platform",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:19:47Z",
+    "url": "https://github.com/shaikn6/llmops-eval-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T04:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
     "stars": 28,
-    "updated_at": "2026-06-17T04:11:02Z",
+    "updated_at": "2026-06-17T04:23:59Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
@@ -23,17 +59,8 @@
     "language": "Rust",
     "name": "ThousandBirdsInc/chidori",
     "stars": 1349,
-    "updated_at": "2026-06-17T04:15:21Z",
+    "updated_at": "2026-06-17T04:22:04Z",
     "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T04:00:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -49,7 +76,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50632,
+    "stars": 50634,
     "updated_at": "2026-06-17T03:51:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -63,15 +90,6 @@
     "url": "https://github.com/mzlin2020/linming_llmops"
   },
   {
-    "description": "Framework-agnostic LLM agent observability \u2014 intercept every call, detect failure patterns (loops, token storms, goal dr",
-    "id": "shaikn6/agent-autopsy",
-    "language": "Python",
-    "name": "shaikn6/agent-autopsy",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:37:53Z",
-    "url": "https://github.com/shaikn6/agent-autopsy"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -79,15 +97,6 @@
     "stars": 2255,
     "updated_at": "2026-06-17T03:37:29Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
-    "id": "shaikn6/llm-gateway",
-    "language": "Python",
-    "name": "shaikn6/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:37:12Z",
-    "url": "https://github.com/shaikn6/llm-gateway"
   },
   {
     "description": "\u26a1 Curated list of AI gateways & LLM proxies \u2014 LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api\u2026 compared by cost, co",
@@ -193,7 +202,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19670,
+    "stars": 19671,
     "updated_at": "2026-06-17T01:36:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -220,7 +229,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28810,
+    "stars": 28813,
     "updated_at": "2026-06-17T01:07:00Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -342,15 +351,6 @@
     "url": "https://github.com/runcycles/cycles-spring-ai-starter"
   },
   {
-    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 35,
-    "updated_at": "2026-06-16T23:37:26Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -369,20 +369,11 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
-    "id": "shaikn6/llmops-eval-platform",
-    "language": "Python",
-    "name": "shaikn6/llmops-eval-platform",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:43:00Z",
-    "url": "https://github.com/shaikn6/llmops-eval-platform"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29225,
+    "stars": 29226,
     "updated_at": "2026-06-16T23:06:01Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -448,5 +439,14 @@
     "stars": 4,
     "updated_at": "2026-06-16T20:52:09Z",
     "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "See what your AI agents do, whether it's worth it, and what it costs - a manager-readable report + local dashboard from ",
+    "id": "Idank96/agent-panorama",
+    "language": "Python",
+    "name": "Idank96/agent-panorama",
+    "stars": 5,
+    "updated_at": "2026-06-16T20:43:06Z",
+    "url": "https://github.com/Idank96/agent-panorama"
   }
 ]
