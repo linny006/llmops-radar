@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 02:15 UTC
+> ⏰ Last updated: 2026-06-17 02:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 2 | Rust | 2026-06-17 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
-| 2 | [kensterinvest/tidus](https://github.com/kensterinvest/tidus) | 1 | Python | 2026-06-17 | Enterprise AI Router and Governance System — the AI that governs all AIs |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50621 | Python | 2026-06-17 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 5 | [prismal-ai/prismal](https://github.com/prismal-ai/prismal) | 0 | Python | 2026-06-17 | Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable. |
-| 6 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2255 | C++ | 2026-06-17 | Community maintained hardware plugin for vLLM on Ascend |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10167 | Python | 2026-06-17 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10167 | Python | 2026-06-17 | AI Observability & Evaluation |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50621 | Python | 2026-06-17 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2255 | C++ | 2026-06-17 | Community maintained hardware plugin for vLLM on Ascend |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 2 | Rust | 2026-06-17 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
+| 6 | [kensterinvest/tidus](https://github.com/kensterinvest/tidus) | 1 | Python | 2026-06-17 | Enterprise AI Router and Governance System — the AI that governs all AIs |
+| 7 | [prismal-ai/prismal](https://github.com/prismal-ai/prismal) | 0 | Python | 2026-06-17 | Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable. |
 | 8 | [prashar32/riskkernel](https://github.com/prashar32/riskkernel) | 18 | Go | 2026-06-17 | Deterministic cost / loop / time budgets · full observability · crash-resumable runs · human-approval gates · a memory y |
 | 9 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19670 | Python | 2026-06-17 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 10 | [mezmo/aura](https://github.com/mezmo/aura) | 93 | Rust | 2026-06-17 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
@@ -68,15 +68,15 @@ expired items removed — so you can rely on what you see being current.
 | 24 | [abhilashsblai/ctxlayer-release](https://github.com/abhilashsblai/ctxlayer-release) | 0 | — | 2026-06-16 | CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex. |
 | 25 | [runcycles/cycles-spring-ai-starter](https://github.com/runcycles/cycles-spring-ai-starter) | 0 | Java | 2026-06-16 | Spring AI starter for Cycles — runtime budget and action authority for Spring AI agents |
 | 26 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 35 | TypeScript | 2026-06-16 | The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
-| 27 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 26 | Python | 2026-06-16 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
+| 27 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 27 | Python | 2026-06-16 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
 | 28 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5848 | Go | 2026-06-16 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 29 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-16 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
 | 30 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-16 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 31 | [shaikn6/llm-gateway](https://github.com/shaikn6/llm-gateway) | 0 | Python | 2026-06-16 | Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a |
 | 32 | [shaikn6/llmops-eval-platform](https://github.com/shaikn6/llmops-eval-platform) | 0 | Python | 2026-06-16 | LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard. |
-| 33 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29217 | TypeScript | 2026-06-16 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 33 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29218 | TypeScript | 2026-06-16 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 34 | [shaikn6/agent-autopsy](https://github.com/shaikn6/agent-autopsy) | 0 | Python | 2026-06-16 | Framework-agnostic LLM agent observability — intercept every call, detect failure patterns (loops, token storms, goal dr |
-| 35 | [kidoz/trace-weft](https://github.com/kidoz/trace-weft) | 0 | Rust | 2026-06-16 | Rust-first, local-first observability & debugging for LLM agents: capture, inspect, replay, diff, and export traces (Ope |
+| 35 | [kidoz/trace-weft](https://github.com/kidoz/trace-weft) | 1 | Rust | 2026-06-16 | Rust-first, local-first observability & debugging for LLM agents: capture, inspect, replay, diff, and export traces (Ope |
 | 36 | [agentbreeder/agentbreeder](https://github.com/agentbreeder/agentbreeder) | 4 | Python | 2026-06-16 | Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI  |
 | 37 | [verluna/subtraction-rules](https://github.com/verluna/subtraction-rules) | 0 | — | 2026-06-16 | An immune system against AI-agent sprawl: a real $224 failure dataset, 10 operating rules, a three-zone governance model |
 | 38 | [suneelkumarveluru/metadata-enriched-enterprise-rag](https://github.com/suneelkumarveluru/metadata-enriched-enterprise-rag) | 0 | Python | 2026-06-16 | Reference implementation for metadata-enriched, policy-aware RAG on enterprise data platforms. |
