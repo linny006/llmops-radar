@@ -1,12 +1,12 @@
 [
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
     "stars": 0,
-    "updated_at": "2026-06-17T11:29:12Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "updated_at": "2026-06-17T11:44:32Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -14,17 +14,71 @@
     "language": "TypeScript",
     "name": "ictseoyoungmin/HADARA",
     "stars": 0,
-    "updated_at": "2026-06-17T11:26:35Z",
+    "updated_at": "2026-06-17T11:42:52Z",
     "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50684,
+    "updated_at": "2026-06-17T11:41:19Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29258,
-    "updated_at": "2026-06-17T11:25:32Z",
+    "stars": 29259,
+    "updated_at": "2026-06-17T11:45:34Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T11:38:13Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 9,
+    "updated_at": "2026-06-17T11:38:12Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19674,
+    "updated_at": "2026-06-17T11:44:36Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Audit AGENTS.md, CLAUDE.md, and SKILL.md files for prompt bloat, conflicting rules, and agent instruction drift.",
+    "id": "inbusiness23/agent-immune-system",
+    "language": "HTML",
+    "name": "inbusiness23/agent-immune-system",
+    "stars": 0,
+    "updated_at": "2026-06-17T11:34:24Z",
+    "url": "https://github.com/inbusiness23/agent-immune-system"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T11:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -41,7 +95,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5526,
-    "updated_at": "2026-06-17T11:20:55Z",
+    "updated_at": "2026-06-17T11:30:36Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -72,15 +126,6 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T11:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
     "id": "JoniMartin27/lookspan",
     "language": "TypeScript",
@@ -99,21 +144,12 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50681,
-    "updated_at": "2026-06-17T11:30:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3307,
-    "updated_at": "2026-06-17T11:24:02Z",
+    "updated_at": "2026-06-17T11:43:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T10:42:00Z",
     "url": "https://github.com/aisona-lab/OrcaI"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19674,
-    "updated_at": "2026-06-17T11:22:04Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 65,
-    "updated_at": "2026-06-17T10:09:57Z",
+    "updated_at": "2026-06-17T11:39:29Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 5436,
     "updated_at": "2026-06-17T09:54:00Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:53:35Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Production-grade AI anime recommender | RAG pipeline with ChromaDB + Groq (Llama 3.1) + LangChain | Dockerized, deployed",
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11455,
-    "updated_at": "2026-06-17T11:25:39Z",
+    "updated_at": "2026-06-17T11:42:15Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T07:04:30Z",
     "url": "https://github.com/mwigge/rs-llmctl"
-  },
-  {
-    "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
-    "id": "traceloop/openllmetry-js",
-    "language": "TypeScript",
-    "name": "traceloop/openllmetry-js",
-    "stars": 403,
-    "updated_at": "2026-06-17T07:00:24Z",
-    "url": "https://github.com/traceloop/openllmetry-js"
-  },
-  {
-    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
-    "id": "traceloop/openllmetry",
-    "language": "Python",
-    "name": "traceloop/openllmetry",
-    "stars": 7202,
-    "updated_at": "2026-06-17T06:55:05Z",
-    "url": "https://github.com/traceloop/openllmetry"
   }
 ]
