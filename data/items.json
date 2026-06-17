@@ -1,21 +1,21 @@
 [
   {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 107,
-    "updated_at": "2026-06-17T20:11:02Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:28:34Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
     "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22321,
-    "updated_at": "2026-06-17T20:04:52Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "name": "iblai/os",
+    "stars": 12,
+    "updated_at": "2026-06-17T20:28:28Z",
+    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,17 +23,35 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-17T20:00:39Z",
+    "updated_at": "2026-06-17T20:15:37Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 108,
+    "updated_at": "2026-06-17T20:11:02Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50718,
-    "updated_at": "2026-06-17T20:07:50Z",
+    "stars": 50719,
+    "updated_at": "2026-06-17T20:29:09Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22321,
+    "updated_at": "2026-06-17T20:28:37Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
@@ -52,6 +70,15 @@
     "stars": 275,
     "updated_at": "2026-06-17T20:00:43Z",
     "url": "https://github.com/runtm-ai/runtm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10178,
+    "updated_at": "2026-06-17T20:27:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
@@ -79,15 +106,6 @@
     "stars": 29277,
     "updated_at": "2026-06-17T19:36:51Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:34:24Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -124,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T19:23:04Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10177,
-    "updated_at": "2026-06-17T19:49:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Datadog for LLM apps, for indie devs. Drop-in Python SDK + free self-host. Latency, cost, hallucination patterns out of ",
@@ -175,7 +184,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19679,
+    "stars": 19678,
     "updated_at": "2026-06-17T19:04:42Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -385,15 +394,6 @@
     "stars": 11455,
     "updated_at": "2026-06-17T19:30:08Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 12,
-    "updated_at": "2026-06-17T20:08:15Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
