@@ -1,12 +1,75 @@
 [
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7657,
+    "updated_at": "2026-06-17T19:15:09Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:15:02Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-17T19:12:59Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10177,
-    "updated_at": "2026-06-17T18:58:50Z",
+    "updated_at": "2026-06-17T19:10:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 4,
+    "updated_at": "2026-06-17T19:09:13Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22318,
+    "updated_at": "2026-06-17T19:09:37Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29274,
+    "updated_at": "2026-06-17T19:05:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T19:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals.",
@@ -18,15 +81,6 @@
     "url": "https://github.com/EvanAI0331/aigit"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22317,
-    "updated_at": "2026-06-17T18:50:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:47:55Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T18:45:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
@@ -54,30 +99,12 @@
     "url": "https://github.com/shaikn6/llmops-eval-platform"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 4,
-    "updated_at": "2026-06-17T18:39:20Z",
-    "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:37:29Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50717,
-    "updated_at": "2026-06-17T18:49:36Z",
+    "updated_at": "2026-06-17T19:07:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-17T18:16:37Z",
+    "updated_at": "2026-06-17T19:15:14Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -135,15 +162,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29274,
-    "updated_at": "2026-06-17T18:59:29Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -151,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T17:52:47Z",
     "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-06-17T18:59:45Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19677,
-    "updated_at": "2026-06-17T18:53:54Z",
+    "updated_at": "2026-06-17T19:04:42Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "runtm-ai/runtm",
     "stars": 275,
-    "updated_at": "2026-06-17T16:13:30Z",
+    "updated_at": "2026-06-17T19:09:50Z",
     "url": "https://github.com/runtm-ai/runtm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T14:34:37Z",
     "url": "https://github.com/akbar-yusupov/ContextGate"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:32:01Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   }
 ]
