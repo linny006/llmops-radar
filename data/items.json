@@ -1,21 +1,57 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19674,
+    "updated_at": "2026-06-17T09:30:03Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26570,
+    "updated_at": "2026-06-17T09:28:50Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:22:03Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29252,
+    "updated_at": "2026-06-17T09:20:03Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2256,
-    "updated_at": "2026-06-17T09:14:08Z",
+    "updated_at": "2026-06-17T09:17:04Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19673,
-    "updated_at": "2026-06-17T09:14:15Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T09:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -32,7 +68,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4212,
-    "updated_at": "2026-06-17T09:13:43Z",
+    "updated_at": "2026-06-17T09:27:16Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -45,15 +81,6 @@
     "url": "https://github.com/sauravbhattacharya001/prompt"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29249,
-    "updated_at": "2026-06-17T09:13:08Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
     "id": "moiraweave-labs/moiraweave",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T09:02:46Z",
     "url": "https://github.com/moiraweave-labs/moiraweave"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T09:00:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -81,21 +99,12 @@
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T08:45:46Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5853,
-    "updated_at": "2026-06-17T08:43:46Z",
+    "updated_at": "2026-06-17T09:23:26Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -104,17 +113,8 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 135,
-    "updated_at": "2026-06-17T08:53:51Z",
+    "updated_at": "2026-06-17T09:23:16Z",
     "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26570,
-    "updated_at": "2026-06-17T09:01:17Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Local-first RAG and agent skills framework for source-traceable agent memory.",
@@ -158,7 +158,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1228,
-    "updated_at": "2026-06-17T09:03:33Z",
+    "updated_at": "2026-06-17T09:23:16Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5452,
-    "updated_at": "2026-06-17T08:54:19Z",
+    "updated_at": "2026-06-17T09:25:46Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -320,7 +320,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 4,
-    "updated_at": "2026-06-17T06:20:47Z",
+    "updated_at": "2026-06-17T09:18:00Z",
     "url": "https://github.com/api7/aisix"
   },
   {
