@@ -1,11 +1,47 @@
 [
   {
+    "description": "Tiny, provider-agnostic LLM-as-judge: weighted rubric scoring + multi-model panel voting. Zero deps, fully tested.",
+    "id": "feelmetttt/llm-judge",
+    "language": "Python",
+    "name": "feelmetttt/llm-judge",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:35:08Z",
+    "url": "https://github.com/feelmetttt/llm-judge"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5524,
+    "updated_at": "2026-06-17T09:32:20Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Agent context health and ASCR-aligned memory governance for stale, conflicting, unsupported, unsafe, and memory-risky AI",
+    "id": "ctxgov/ctxgov",
+    "language": "Python",
+    "name": "ctxgov/ctxgov",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:31:06Z",
+    "url": "https://github.com/ctxgov/ctxgov"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T09:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19674,
-    "updated_at": "2026-06-17T09:30:03Z",
+    "updated_at": "2026-06-17T09:30:37Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -13,7 +49,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26570,
+    "stars": 26571,
     "updated_at": "2026-06-17T09:28:50Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -31,8 +67,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29252,
-    "updated_at": "2026-06-17T09:20:03Z",
+    "stars": 29254,
+    "updated_at": "2026-06-17T09:41:33Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -41,17 +77,8 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2256,
-    "updated_at": "2026-06-17T09:17:04Z",
+    "updated_at": "2026-06-17T09:41:22Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T09:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4212,
-    "updated_at": "2026-06-17T09:27:16Z",
+    "updated_at": "2026-06-17T09:37:46Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -131,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3307,
-    "updated_at": "2026-06-17T08:36:37Z",
+    "updated_at": "2026-06-17T09:31:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1228,
-    "updated_at": "2026-06-17T09:23:16Z",
+    "updated_at": "2026-06-17T09:37:39Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5452,
-    "updated_at": "2026-06-17T09:25:46Z",
+    "updated_at": "2026-06-17T09:36:36Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -220,7 +247,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50665,
+    "stars": 50668,
     "updated_at": "2026-06-17T07:35:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 4,
-    "updated_at": "2026-06-17T09:18:00Z",
+    "updated_at": "2026-06-17T09:33:09Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 18,
-    "updated_at": "2026-06-17T09:01:21Z",
+    "updated_at": "2026-06-17T09:32:15Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 139,
     "updated_at": "2026-06-17T05:15:52Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3011,
-    "updated_at": "2026-06-17T05:11:31Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "The agent framework where every run is durable, replayable, and resumable by default.",
-    "id": "ThousandBirdsInc/chidori",
-    "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1349,
-    "updated_at": "2026-06-17T04:52:57Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 30,
-    "updated_at": "2026-06-17T05:41:46Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
