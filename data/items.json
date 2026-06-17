@@ -1,30 +1,39 @@
 [
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50720,
-    "updated_at": "2026-06-17T21:34:12Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29278,
-    "updated_at": "2026-06-17T21:31:56Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-17T21:31:16Z",
+    "updated_at": "2026-06-17T21:41:01Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 97,
+    "updated_at": "2026-06-17T21:39:16Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10178,
+    "updated_at": "2026-06-17T21:40:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50720,
+    "updated_at": "2026-06-17T21:41:29Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-17T21:30:28Z",
+    "updated_at": "2026-06-17T21:34:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29279,
+    "updated_at": "2026-06-17T21:31:56Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
@@ -68,7 +86,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5870,
-    "updated_at": "2026-06-17T21:11:21Z",
+    "updated_at": "2026-06-17T21:39:59Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -135,15 +153,6 @@
     "url": "https://github.com/dgenio/intentflow"
   },
   {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 96,
-    "updated_at": "2026-06-17T20:41:03Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -185,17 +194,8 @@
     "language": "Python",
     "name": "runtm-ai/runtm",
     "stars": 275,
-    "updated_at": "2026-06-17T20:49:16Z",
+    "updated_at": "2026-06-17T21:43:55Z",
     "url": "https://github.com/runtm-ai/runtm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10178,
-    "updated_at": "2026-06-17T21:25:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
@@ -230,7 +230,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-17T21:06:33Z",
+    "updated_at": "2026-06-17T21:39:52Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -328,7 +328,7 @@
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
-    "stars": 1053,
+    "stars": 1054,
     "updated_at": "2026-06-17T18:20:00Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
@@ -365,7 +365,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-17T21:29:38Z",
+    "updated_at": "2026-06-17T21:44:58Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
