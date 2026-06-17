@@ -1,21 +1,75 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T15:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-17T15:28:48Z",
+    "updated_at": "2026-06-17T15:57:15Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50709,
+    "updated_at": "2026-06-17T15:55:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29268,
+    "updated_at": "2026-06-17T15:53:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-17T15:51:29Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 12,
+    "updated_at": "2026-06-17T15:59:55Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 2,
+    "updated_at": "2026-06-17T15:47:54Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T15:45:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2257,
+    "updated_at": "2026-06-17T15:43:05Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -63,49 +117,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 12,
-    "updated_at": "2026-06-17T15:36:38Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22312,
-    "updated_at": "2026-06-17T15:38:21Z",
+    "updated_at": "2026-06-17T16:00:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 2,
-    "updated_at": "2026-06-17T15:16:30Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50708,
-    "updated_at": "2026-06-17T15:26:49Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2257,
-    "updated_at": "2026-06-17T15:43:05Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5451,
-    "updated_at": "2026-06-17T15:28:38Z",
+    "updated_at": "2026-06-17T15:56:07Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-17T15:05:42Z",
+    "updated_at": "2026-06-17T15:58:21Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10176,
-    "updated_at": "2026-06-17T15:38:59Z",
+    "updated_at": "2026-06-17T15:57:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -202,18 +220,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26575,
+    "stars": 26577,
     "updated_at": "2026-06-17T14:37:51Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29267,
-    "updated_at": "2026-06-17T14:35:29Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Evidence-gated RAG infrastructure for grounded, cited answers or structured abstentions - with hybrid retrieval, OpenAI-",
@@ -232,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T14:32:01Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-17T14:30:33Z",
-    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -301,7 +301,7 @@
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
-    "stars": 67,
+    "stars": 68,
     "updated_at": "2026-06-17T13:52:45Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
@@ -392,7 +392,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11454,
-    "updated_at": "2026-06-17T14:57:31Z",
+    "updated_at": "2026-06-17T15:56:26Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -410,7 +410,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3308,
-    "updated_at": "2026-06-17T15:27:56Z",
+    "updated_at": "2026-06-17T15:48:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
