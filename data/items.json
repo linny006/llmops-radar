@@ -1,12 +1,48 @@
 [
   {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 4,
+    "updated_at": "2026-06-17T11:14:56Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50677,
-    "updated_at": "2026-06-17T10:59:23Z",
+    "stars": 50681,
+    "updated_at": "2026-06-17T11:12:14Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3307,
+    "updated_at": "2026-06-17T11:10:35Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T11:00:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T11:00:29Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -14,7 +50,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5857,
-    "updated_at": "2026-06-17T10:54:38Z",
+    "updated_at": "2026-06-17T11:14:33Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29258,
-    "updated_at": "2026-06-17T10:52:46Z",
+    "updated_at": "2026-06-17T11:09:13Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 13,
     "updated_at": "2026-06-17T10:51:52Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T10:45:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Your agent proposes. Orca verifies. You decide. A drop-in verification layer for LLM/agent outputs: grounding, schema, P",
@@ -81,15 +108,6 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3307,
-    "updated_at": "2026-06-17T10:58:42Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "xinglun/ai-cockpit-template",
     "language": "Python",
@@ -103,7 +121,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26571,
+    "stars": 26570,
     "updated_at": "2026-06-17T10:22:05Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "Ohswedd/vincio",
     "stars": 1,
-    "updated_at": "2026-06-17T09:51:46Z",
+    "updated_at": "2026-06-17T11:14:07Z",
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
@@ -225,15 +243,6 @@
     "url": "https://github.com/ctxgov/ctxgov"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:00:29Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -248,7 +257,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4212,
-    "updated_at": "2026-06-17T10:31:31Z",
+    "updated_at": "2026-06-17T11:14:40Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1228,
-    "updated_at": "2026-06-17T10:41:56Z",
+    "updated_at": "2026-06-17T11:12:15Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -383,7 +392,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11455,
-    "updated_at": "2026-06-17T10:54:49Z",
+    "updated_at": "2026-06-17T11:15:18Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T06:30:47Z",
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "Enterprise-grade sovereign AI for organizations where SaaS AI isn\u2019t an option.",
-    "id": "SpaceArmour/qxli-sovereign-ai-engine",
-    "language": "\u2014",
-    "name": "SpaceArmour/qxli-sovereign-ai-engine",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:29:47Z",
-    "url": "https://github.com/SpaceArmour/qxli-sovereign-ai-engine"
   }
 ]
