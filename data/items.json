@@ -1,21 +1,48 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10176,
-    "updated_at": "2026-06-17T17:21:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-17T17:15:56Z",
+    "updated_at": "2026-06-17T17:28:18Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-06-17T17:27:49Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1032,
+    "updated_at": "2026-06-17T17:25:00Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T17:22:56Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10176,
+    "updated_at": "2026-06-17T17:24:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
@@ -27,21 +54,12 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T17:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22314,
-    "updated_at": "2026-06-17T17:14:53Z",
+    "updated_at": "2026-06-17T17:24:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-17T17:10:20Z",
+    "updated_at": "2026-06-17T17:24:02Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -63,11 +81,20 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29271,
+    "updated_at": "2026-06-17T17:30:18Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50711,
+    "stars": 50713,
     "updated_at": "2026-06-17T17:00:24Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -106,15 +133,6 @@
     "stars": 2258,
     "updated_at": "2026-06-17T16:47:35Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29270,
-    "updated_at": "2026-06-17T17:00:47Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -180,21 +198,12 @@
     "url": "https://github.com/acornops/llm-gateway"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1032,
-    "updated_at": "2026-06-17T16:19:19Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
     "id": "agentbreeder/agentbreeder",
     "language": "Python",
     "name": "agentbreeder/agentbreeder",
     "stars": 4,
-    "updated_at": "2026-06-17T16:12:20Z",
+    "updated_at": "2026-06-17T17:25:11Z",
     "url": "https://github.com/agentbreeder/agentbreeder"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1053,
-    "updated_at": "2026-06-17T16:16:21Z",
+    "updated_at": "2026-06-17T17:26:32Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5451,
-    "updated_at": "2026-06-17T16:30:36Z",
+    "updated_at": "2026-06-17T17:26:28Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5865,
-    "updated_at": "2026-06-17T14:28:54Z",
+    "updated_at": "2026-06-17T17:27:45Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 69,
     "updated_at": "2026-06-17T13:52:45Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-06-17T14:56:15Z",
-    "url": "https://github.com/runcycles/cycles-docs"
   }
 ]
