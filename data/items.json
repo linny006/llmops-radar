@@ -1,12 +1,102 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2258,
+    "updated_at": "2026-06-17T16:26:09Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
+    "id": "renezander030/draftcat",
+    "language": "Go",
+    "name": "renezander030/draftcat",
+    "stars": 6,
+    "updated_at": "2026-06-17T16:25:22Z",
+    "url": "https://github.com/renezander030/draftcat"
+  },
+  {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 0,
-    "updated_at": "2026-06-17T16:14:10Z",
+    "updated_at": "2026-06-17T16:24:05Z",
     "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-17T16:25:07Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22313,
+    "updated_at": "2026-06-17T16:27:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:21:44Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:21:28Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:21:07Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1032,
+    "updated_at": "2026-06-17T16:19:19Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50709,
+    "updated_at": "2026-06-17T16:17:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T16:15:41Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1053,
-    "updated_at": "2026-06-17T16:14:50Z",
+    "updated_at": "2026-06-17T16:16:21Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -54,15 +144,6 @@
     "url": "https://github.com/runtm-ai/runtm"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:09:47Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -72,24 +153,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T16:00:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22313,
-    "updated_at": "2026-06-17T16:15:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "TypeScript",
@@ -97,15 +160,6 @@
     "stars": 11455,
     "updated_at": "2026-06-17T15:56:26Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50709,
-    "updated_at": "2026-06-17T16:14:31Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 12,
-    "updated_at": "2026-06-17T16:09:43Z",
+    "updated_at": "2026-06-17T16:30:20Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T15:47:54Z",
     "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2258,
-    "updated_at": "2026-06-17T15:43:05Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19677,
-    "updated_at": "2026-06-17T16:13:31Z",
+    "updated_at": "2026-06-17T16:28:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5451,
-    "updated_at": "2026-06-17T16:07:38Z",
+    "updated_at": "2026-06-17T16:16:51Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10176,
-    "updated_at": "2026-06-17T16:12:11Z",
+    "updated_at": "2026-06-17T16:29:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -310,7 +355,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5861,
+    "stars": 5862,
     "updated_at": "2026-06-17T14:28:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T13:34:02Z",
     "url": "https://github.com/songwookun/agent-eval-lab"
-  },
-  {
-    "description": "Audit AGENTS.md, CLAUDE.md, and SKILL.md files for prompt bloat, conflicting rules, and agent instruction drift.",
-    "id": "inbusiness23/agent-immune-system",
-    "language": "HTML",
-    "name": "inbusiness23/agent-immune-system",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:32:18Z",
-    "url": "https://github.com/inbusiness23/agent-immune-system"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 368,
-    "updated_at": "2026-06-17T13:32:11Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 1,
-    "updated_at": "2026-06-17T13:21:05Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5435,
-    "updated_at": "2026-06-17T13:34:40Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 136,
-    "updated_at": "2026-06-17T15:08:17Z",
-    "url": "https://github.com/taichuy/1flowbase"
   }
 ]
