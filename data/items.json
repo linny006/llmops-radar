@@ -1,11 +1,47 @@
 [
   {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 28,
+    "updated_at": "2026-06-17T04:11:02Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-17T04:09:14Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "A reactive runtime for building durable AI agents",
+    "id": "ThousandBirdsInc/chidori",
+    "language": "Rust",
+    "name": "ThousandBirdsInc/chidori",
+    "stars": 1349,
+    "updated_at": "2026-06-17T04:15:21Z",
+    "url": "https://github.com/ThousandBirdsInc/chidori"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T04:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26564,
-    "updated_at": "2026-06-17T03:54:34Z",
+    "updated_at": "2026-06-17T04:05:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -13,7 +49,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50631,
+    "stars": 50632,
     "updated_at": "2026-06-17T03:51:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T03:49:02Z",
     "url": "https://github.com/mzlin2020/linming_llmops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T03:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Framework-agnostic LLM agent observability \u2014 intercept every call, detect failure patterns (loops, token storms, goal dr",
@@ -76,7 +103,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22293,
+    "stars": 22294,
     "updated_at": "2026-06-17T03:37:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -270,15 +297,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "A reactive runtime for building durable AI agents",
-    "id": "ThousandBirdsInc/chidori",
-    "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1349,
-    "updated_at": "2026-06-17T03:15:00Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -333,15 +351,6 @@
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 27,
-    "updated_at": "2026-06-17T03:57:43Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -349,15 +358,6 @@
     "stars": 5848,
     "updated_at": "2026-06-16T23:31:40Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-16T23:23:42Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -382,7 +382,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29224,
+    "stars": 29225,
     "updated_at": "2026-06-16T23:06:01Z",
     "url": "https://github.com/langfuse/langfuse"
   },
