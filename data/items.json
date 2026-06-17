@@ -1,5 +1,59 @@
 [
   {
+    "description": "Enterprise-grade sovereign AI for organizations where SaaS AI isn\u2019t an option.",
+    "id": "SpaceArmour/qxli-sovereign-ai-engine",
+    "language": "\u2014",
+    "name": "SpaceArmour/qxli-sovereign-ai-engine",
+    "stars": 0,
+    "updated_at": "2026-06-17T05:12:24Z",
+    "url": "https://github.com/SpaceArmour/qxli-sovereign-ai-engine"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5848,
+    "updated_at": "2026-06-17T05:06:19Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
+    "id": "traceloop/openllmetry-js",
+    "language": "TypeScript",
+    "name": "traceloop/openllmetry-js",
+    "stars": 403,
+    "updated_at": "2026-06-17T05:08:57Z",
+    "url": "https://github.com/traceloop/openllmetry-js"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26565,
+    "updated_at": "2026-06-17T05:01:46Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T05:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50639,
+    "updated_at": "2026-06-17T05:12:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -25,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T04:46:01Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50638,
-    "updated_at": "2026-06-17T04:59:28Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T04:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A reactive runtime for building durable AI agents",
@@ -77,7 +113,7 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 17,
-    "updated_at": "2026-06-17T04:22:00Z",
+    "updated_at": "2026-06-17T05:11:53Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T04:09:14Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26565,
-    "updated_at": "2026-06-17T04:59:38Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
@@ -274,7 +301,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28813,
+    "stars": 28814,
     "updated_at": "2026-06-17T01:07:00Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -356,7 +383,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3008,
-    "updated_at": "2026-06-16T23:55:21Z",
+    "updated_at": "2026-06-17T05:11:31Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/runcycles/cycles-spring-ai-starter"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5848,
-    "updated_at": "2026-06-17T04:57:16Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -409,7 +427,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29226,
+    "stars": 29227,
     "updated_at": "2026-06-16T23:06:01Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T21:59:43Z",
     "url": "https://github.com/verluna/subtraction-rules"
-  },
-  {
-    "description": "Reference implementation for metadata-enriched, policy-aware RAG on enterprise data platforms.",
-    "id": "suneelkumarveluru/metadata-enriched-enterprise-rag",
-    "language": "Python",
-    "name": "suneelkumarveluru/metadata-enriched-enterprise-rag",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:58:02Z",
-    "url": "https://github.com/suneelkumarveluru/metadata-enriched-enterprise-rag"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:56:23Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   }
 ]
