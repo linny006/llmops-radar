@@ -1,19 +1,100 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5859,
+    "updated_at": "2026-06-17T12:44:31Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:43:52Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-17T12:28:08Z",
+    "updated_at": "2026-06-17T12:43:04Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:41:43Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-17T12:41:19Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Audit AGENTS.md, CLAUDE.md, and SKILL.md files for prompt bloat, conflicting rules, and agent instruction drift.",
+    "id": "inbusiness23/agent-immune-system",
+    "language": "HTML",
+    "name": "inbusiness23/agent-immune-system",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:39:56Z",
+    "url": "https://github.com/inbusiness23/agent-immune-system"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 368,
+    "updated_at": "2026-06-17T12:38:21Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3308,
+    "updated_at": "2026-06-17T12:38:34Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Framework-agnostic AI Agent \ud3c9\uac00/\uad00\uce21 \uc778\ud504\ub77c (4\ucd95 \ud3c9\uac00 + OpenTelemetry GenAI trace)",
+    "id": "songwookun/agent-eval-lab",
+    "language": "Python",
+    "name": "songwookun/agent-eval-lab",
+    "stars": 1,
+    "updated_at": "2026-06-17T12:33:21Z",
+    "url": "https://github.com/songwookun/agent-eval-lab"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T12:30:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29263,
+    "stars": 29264,
     "updated_at": "2026-06-17T12:27:37Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -23,17 +104,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50696,
-    "updated_at": "2026-06-17T12:26:31Z",
+    "updated_at": "2026-06-17T12:40:25Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3308,
-    "updated_at": "2026-06-17T12:26:09Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -54,40 +126,13 @@
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T12:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Framework-agnostic AI Agent \ud3c9\uac00/\uad00\uce21 \uc778\ud504\ub77c (4\ucd95 \ud3c9\uac00 + OpenTelemetry GenAI trace)",
-    "id": "songwookun/agent-eval-lab",
-    "language": "Python",
-    "name": "songwookun/agent-eval-lab",
-    "stars": 1,
-    "updated_at": "2026-06-17T12:15:05Z",
-    "url": "https://github.com/songwookun/agent-eval-lab"
-  },
-  {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 66,
-    "updated_at": "2026-06-17T12:08:26Z",
+    "updated_at": "2026-06-17T12:44:20Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5858,
-    "updated_at": "2026-06-17T12:29:13Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Your agent proposes. Orca verifies. You decide. A drop-in verification layer for LLM/agent outputs: grounding, schema, P",
@@ -126,15 +171,6 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "Audit AGENTS.md, CLAUDE.md, and SKILL.md files for prompt bloat, conflicting rules, and agent instruction drift.",
-    "id": "inbusiness23/agent-immune-system",
-    "language": "HTML",
-    "name": "inbusiness23/agent-immune-system",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:55:23Z",
-    "url": "https://github.com/inbusiness23/agent-immune-system"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19675,
-    "updated_at": "2026-06-17T12:19:57Z",
+    "updated_at": "2026-06-17T12:44:20Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T11:44:32Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:42:52Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09  \u4e10\u7248dify. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3012,
-    "updated_at": "2026-06-17T11:22:37Z",
+    "updated_at": "2026-06-17T12:39:44Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T11:20:29Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-17T12:29:55Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -342,15 +360,6 @@
     "url": "https://github.com/ctxgov/ctxgov"
   },
   {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 368,
-    "updated_at": "2026-06-17T09:05:56Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
     "id": "sauravbhattacharya001/prompt",
     "language": "C#",
@@ -419,7 +428,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1228,
-    "updated_at": "2026-06-17T12:05:00Z",
+    "updated_at": "2026-06-17T12:37:08Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5452,
-    "updated_at": "2026-06-17T12:30:20Z",
+    "updated_at": "2026-06-17T12:41:19Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-17T08:00:29Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-06-17T07:54:24Z",
-    "url": "https://github.com/thequantumfalcon/kry"
   }
 ]
