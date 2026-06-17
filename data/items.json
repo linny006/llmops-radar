@@ -1,5 +1,59 @@
 [
   {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 3,
+    "updated_at": "2026-06-17T06:41:57Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19672,
+    "updated_at": "2026-06-17T06:40:52Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2255,
+    "updated_at": "2026-06-17T06:36:25Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50650,
+    "updated_at": "2026-06-17T06:34:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 1,
+    "updated_at": "2026-06-17T06:30:47Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T06:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enterprise-grade sovereign AI for organizations where SaaS AI isn\u2019t an option.",
     "id": "SpaceArmour/qxli-sovereign-ai-engine",
     "language": "\u2014",
@@ -25,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-06-17T06:20:47Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -81,21 +126,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 3,
-    "updated_at": "2026-06-17T06:08:17Z",
-    "url": "https://github.com/admina-org/admina"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 18,
-    "updated_at": "2026-06-17T06:29:34Z",
+    "updated_at": "2026-06-17T06:34:59Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 5849,
     "updated_at": "2026-06-17T05:45:20Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50646,
-    "updated_at": "2026-06-17T06:24:22Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor",
@@ -202,7 +229,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26566,
+    "stars": 26567,
     "updated_at": "2026-06-17T05:01:46Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -286,15 +313,6 @@
     "stars": 5524,
     "updated_at": "2026-06-17T03:42:00Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2255,
-    "updated_at": "2026-06-17T03:37:29Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\u26a1 Curated list of AI gateways & LLM proxies \u2014 LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api\u2026 compared by cost, co",
@@ -387,15 +405,6 @@
     "url": "https://github.com/prashar32/riskkernel"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19671,
-    "updated_at": "2026-06-17T06:14:29Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
     "id": "mezmo/aura",
     "language": "Rust",
@@ -409,7 +418,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28814,
+    "stars": 28815,
     "updated_at": "2026-06-17T01:07:00Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -436,17 +445,8 @@
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
-    "stars": 4211,
+    "stars": 4212,
     "updated_at": "2026-06-17T00:56:38Z",
     "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T00:43:25Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
   }
 ]
