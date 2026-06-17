@@ -1,12 +1,21 @@
 [
   {
-    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
-    "id": "mwigge/rs-llmctl",
-    "language": "Rust",
-    "name": "mwigge/rs-llmctl",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:00:06Z",
-    "url": "https://github.com/mwigge/rs-llmctl"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19672,
+    "updated_at": "2026-06-17T07:15:14Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 30,
+    "updated_at": "2026-06-17T07:11:07Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "moiraweave-labs/moiraweave",
     "stars": 1,
-    "updated_at": "2026-06-17T06:59:59Z",
+    "updated_at": "2026-06-17T07:04:37Z",
     "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
+    "id": "mwigge/rs-llmctl",
+    "language": "Rust",
+    "name": "mwigge/rs-llmctl",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:04:30Z",
+    "url": "https://github.com/mwigge/rs-llmctl"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:00:16Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1227,
+    "updated_at": "2026-06-17T07:11:07Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
@@ -31,7 +76,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29235,
+    "stars": 29236,
     "updated_at": "2026-06-17T06:54:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -40,8 +85,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50651,
-    "updated_at": "2026-06-17T06:50:03Z",
+    "stars": 50652,
+    "updated_at": "2026-06-17T07:07:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -54,15 +99,6 @@
     "url": "https://github.com/xops-labs/llm-usage-exporter"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
     "id": "admina-org/admina",
     "language": "Python",
@@ -70,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-06-17T06:41:57Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19672,
-    "updated_at": "2026-06-17T06:40:52Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -126,15 +153,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 2,
-    "updated_at": "2026-06-17T07:00:16Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 18,
-    "updated_at": "2026-06-17T06:34:59Z",
+    "updated_at": "2026-06-17T07:07:24Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -202,8 +220,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5849,
-    "updated_at": "2026-06-17T05:45:20Z",
+    "stars": 5850,
+    "updated_at": "2026-06-17T07:08:08Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5434,
-    "updated_at": "2026-06-17T05:39:38Z",
+    "updated_at": "2026-06-17T07:01:50Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "agentbreeder/agentbreeder",
     "stars": 4,
-    "updated_at": "2026-06-17T04:47:42Z",
+    "updated_at": "2026-06-17T07:05:01Z",
     "url": "https://github.com/agentbreeder/agentbreeder"
   },
   {
@@ -313,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T04:34:37Z",
     "url": "https://github.com/shaikn6/llmops-eval-platform"
-  },
-  {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 30,
-    "updated_at": "2026-06-17T06:06:33Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
     "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T01:57:19Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
-    "id": "prashar32/riskkernel",
-    "language": "Go",
-    "name": "prashar32/riskkernel",
-    "stars": 18,
-    "updated_at": "2026-06-17T01:36:25Z",
-    "url": "https://github.com/prashar32/riskkernel"
   }
 ]
