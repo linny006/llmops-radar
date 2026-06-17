@@ -1,5 +1,41 @@
 [
   {
+    "description": "A reactive runtime for building durable AI agents",
+    "id": "ThousandBirdsInc/chidori",
+    "language": "Rust",
+    "name": "ThousandBirdsInc/chidori",
+    "stars": 1349,
+    "updated_at": "2026-06-17T04:39:32Z",
+    "url": "https://github.com/ThousandBirdsInc/chidori"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 18,
+    "updated_at": "2026-06-17T04:38:50Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
+    "id": "shaikn6/llmops-eval-platform",
+    "language": "Python",
+    "name": "shaikn6/llmops-eval-platform",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:34:37Z",
+    "url": "https://github.com/shaikn6/llmops-eval-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T04:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
     "id": "solomon2773/nora",
     "language": "TypeScript",
@@ -16,24 +52,6 @@
     "stars": 35,
     "updated_at": "2026-06-17T04:20:45Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
-    "id": "shaikn6/llmops-eval-platform",
-    "language": "Python",
-    "name": "shaikn6/llmops-eval-platform",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:19:47Z",
-    "url": "https://github.com/shaikn6/llmops-eval-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T04:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
@@ -54,20 +72,11 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "A reactive runtime for building durable AI agents",
-    "id": "ThousandBirdsInc/chidori",
-    "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1349,
-    "updated_at": "2026-06-17T04:22:04Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26564,
+    "stars": 26565,
     "updated_at": "2026-06-17T04:05:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -76,7 +85,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50634,
+    "stars": 50637,
     "updated_at": "2026-06-17T03:51:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -88,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-06-17T03:49:02Z",
     "url": "https://github.com/mzlin2020/linming_llmops"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5524,
+    "updated_at": "2026-06-17T03:42:00Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-16T21:23:47Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 4,
-    "updated_at": "2026-06-16T20:52:09Z",
-    "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
-    "description": "See what your AI agents do, whether it's worth it, and what it costs - a manager-readable report + local dashboard from ",
-    "id": "Idank96/agent-panorama",
-    "language": "Python",
-    "name": "Idank96/agent-panorama",
-    "stars": 5,
-    "updated_at": "2026-06-16T20:43:06Z",
-    "url": "https://github.com/Idank96/agent-panorama"
   }
 ]
