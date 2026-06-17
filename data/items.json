@@ -1,5 +1,86 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T11:29:12Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-17T11:26:35Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29258,
+    "updated_at": "2026-06-17T11:25:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2256,
+    "updated_at": "2026-06-17T11:25:00Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5526,
+    "updated_at": "2026-06-17T11:20:55Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-06-17T11:20:29Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-17T11:16:14Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-17T11:16:00Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T11:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
     "id": "JoniMartin27/lookspan",
     "language": "TypeScript",
@@ -9,12 +90,21 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5858,
+    "updated_at": "2026-06-17T11:29:37Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50681,
-    "updated_at": "2026-06-17T11:12:14Z",
+    "updated_at": "2026-06-17T11:30:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,44 +113,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3307,
-    "updated_at": "2026-06-17T11:10:35Z",
+    "updated_at": "2026-06-17T11:24:02Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T11:00:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:00:29Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5857,
-    "updated_at": "2026-06-17T11:14:33Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29258,
-    "updated_at": "2026-06-17T11:09:13Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -86,17 +140,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19674,
-    "updated_at": "2026-06-17T10:58:00Z",
+    "updated_at": "2026-06-17T11:22:04Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:29:53Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 30,
-    "updated_at": "2026-06-17T10:27:00Z",
+    "updated_at": "2026-06-17T11:23:30Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -198,15 +243,6 @@
     "url": "https://github.com/Anand-Velpuri/AI-Anime-Recommender"
   },
   {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-17T11:14:07Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -225,15 +261,6 @@
     "url": "https://github.com/feelmetttt/llm-judge"
   },
   {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5525,
-    "updated_at": "2026-06-17T09:32:20Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
     "description": "Agent context health and ASCR-aligned memory governance for stale, conflicting, unsupported, unsafe, and memory-risky AI",
     "id": "ctxgov/ctxgov",
     "language": "Python",
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T09:31:06Z",
     "url": "https://github.com/ctxgov/ctxgov"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2256,
-    "updated_at": "2026-06-17T09:41:22Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5452,
-    "updated_at": "2026-06-17T10:24:19Z",
+    "updated_at": "2026-06-17T11:26:23Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -392,7 +410,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11455,
-    "updated_at": "2026-06-17T11:15:18Z",
+    "updated_at": "2026-06-17T11:25:39Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 7202,
     "updated_at": "2026-06-17T06:55:05Z",
     "url": "https://github.com/traceloop/openllmetry"
-  },
-  {
-    "description": "Self-hosted Prometheus exporter for LLM usage, token, request, and USD cost telemetry across OpenAI, Azure OpenAI, Anthr",
-    "id": "xops-labs/llm-usage-exporter",
-    "language": "C#",
-    "name": "xops-labs/llm-usage-exporter",
-    "stars": 5,
-    "updated_at": "2026-06-17T06:47:53Z",
-    "url": "https://github.com/xops-labs/llm-usage-exporter"
-  },
-  {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 1,
-    "updated_at": "2026-06-17T06:30:47Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
   }
 ]
