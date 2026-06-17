@@ -1,12 +1,48 @@
 [
   {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2255,
+    "updated_at": "2026-06-17T01:40:18Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
+    "id": "prashar32/riskkernel",
+    "language": "Go",
+    "name": "prashar32/riskkernel",
+    "stars": 18,
+    "updated_at": "2026-06-17T01:36:25Z",
+    "url": "https://github.com/prashar32/riskkernel"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 93,
+    "updated_at": "2026-06-17T01:35:59Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 4,
-    "updated_at": "2026-06-17T01:29:55Z",
-    "url": "https://github.com/open-ace/open-ace"
+    "name": "mlflow/mlflow",
+    "stars": 26561,
+    "updated_at": "2026-06-17T01:36:07Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T01:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
@@ -22,18 +58,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50616,
-    "updated_at": "2026-06-17T01:28:53Z",
+    "stars": 50617,
+    "updated_at": "2026-06-17T01:40:02Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T01:15:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -45,15 +72,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2255,
-    "updated_at": "2026-06-17T01:04:15Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Production-grade RAG pipeline evaluation framework \u2014 hallucination detection, faithfulness scoring & LLMOps dashboard po",
     "id": "spicynick111/rag-hallucination-detector",
     "language": "Python",
@@ -61,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T01:02:16Z",
     "url": "https://github.com/spicynick111/rag-hallucination-detector"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 93,
-    "updated_at": "2026-06-17T01:07:00Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26561,
-    "updated_at": "2026-06-17T01:02:01Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10166,
-    "updated_at": "2026-06-16T23:25:29Z",
+    "updated_at": "2026-06-17T01:41:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -320,7 +320,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19669,
-    "updated_at": "2026-06-16T21:46:12Z",
+    "updated_at": "2026-06-17T01:36:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {

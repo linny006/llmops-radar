@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 01:30 UTC
+> ⏰ Last updated: 2026-06-17 01:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [open-ace/open-ace](https://github.com/open-ace/open-ace) | 4 | Python | 2026-06-17 | Self-hosted enterprise AI workspace and governance platform |
-| 2 | [morning-verlu/KAI](https://github.com/morning-verlu/KAI) | 0 | Kotlin | 2026-06-17 | Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50616 | Python | 2026-06-17 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-17 | The opinionated workflow engine and governance layer for agent-driven software development. |
-| 6 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2255 | C++ | 2026-06-17 | Community maintained hardware plugin for vLLM on Ascend |
-| 7 | [spicynick111/rag-hallucination-detector](https://github.com/spicynick111/rag-hallucination-detector) | 0 | Python | 2026-06-17 | Production-grade RAG pipeline evaluation framework — hallucination detection, faithfulness scoring & LLMOps dashboard po |
-| 8 | [mezmo/aura](https://github.com/mezmo/aura) | 93 | Rust | 2026-06-17 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
-| 9 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26561 | Python | 2026-06-17 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 1 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2255 | C++ | 2026-06-17 | Community maintained hardware plugin for vLLM on Ascend |
+| 2 | [prashar32/riskkernel](https://github.com/prashar32/riskkernel) | 18 | Go | 2026-06-17 | Deterministic cost / loop / time budgets · full observability · crash-resumable runs · human-approval gates · a memory y |
+| 3 | [mezmo/aura](https://github.com/mezmo/aura) | 93 | Rust | 2026-06-17 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
+| 4 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26561 | Python | 2026-06-17 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [morning-verlu/KAI](https://github.com/morning-verlu/KAI) | 0 | Kotlin | 2026-06-17 | Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates |
+| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50617 | Python | 2026-06-17 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 8 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-17 | The opinionated workflow engine and governance layer for agent-driven software development. |
+| 9 | [spicynick111/rag-hallucination-detector](https://github.com/spicynick111/rag-hallucination-detector) | 0 | Python | 2026-06-17 | Production-grade RAG pipeline evaluation framework — hallucination detection, faithfulness scoring & LLMOps dashboard po |
 | 10 | [tmusser/ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills) | 1 | Python | 2026-06-17 | Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve |
 | 11 | [acornops/k8s-agent](https://github.com/acornops/k8s-agent) | 0 | TypeScript | 2026-06-17 | Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi |
 | 12 | [acornops/acornops-deployment](https://github.com/acornops/acornops-deployment) | 0 | JavaScript | 2026-06-17 | Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper |
@@ -67,7 +67,7 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5847 | Go | 2026-06-16 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 24 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-16 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
 | 25 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-16 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 26 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10166 | Python | 2026-06-16 | AI Observability & Evaluation |
+| 26 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10166 | Python | 2026-06-17 | AI Observability & Evaluation |
 | 27 | [shaikn6/llm-gateway](https://github.com/shaikn6/llm-gateway) | 0 | Python | 2026-06-16 | Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a |
 | 28 | [shaikn6/llmops-eval-platform](https://github.com/shaikn6/llmops-eval-platform) | 0 | Python | 2026-06-16 | LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard. |
 | 29 | [shaikn6/agent-autopsy](https://github.com/shaikn6/agent-autopsy) | 0 | Python | 2026-06-16 | Framework-agnostic LLM agent observability — intercept every call, detect failure patterns (loops, token storms, goal dr |
@@ -77,7 +77,7 @@ expired items removed — so you can rely on what you see being current.
 | 33 | [suneelkumarveluru/metadata-enriched-enterprise-rag](https://github.com/suneelkumarveluru/metadata-enriched-enterprise-rag) | 0 | Python | 2026-06-16 | Reference implementation for metadata-enriched, policy-aware RAG on enterprise data platforms. |
 | 34 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 0 | — | 2026-06-16 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
 | 35 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29216 | TypeScript | 2026-06-16 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 36 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19669 | Python | 2026-06-16 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 36 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19669 | Python | 2026-06-17 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 37 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22287 | TypeScript | 2026-06-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 38 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-16 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
 | 39 | [MattJackson/busbarAI](https://github.com/MattJackson/busbarAI) | 4 | Rust | 2026-06-16 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
