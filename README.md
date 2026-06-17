@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 10:13 UTC
+> ⏰ Last updated: 2026-06-17 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 65 | Rust | 2026-06-17 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
-| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29255 | TypeScript | 2026-06-17 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 3 | [runcycles/cycles-mcp-server](https://github.com/runcycles/cycles-mcp-server) | 0 | TypeScript | 2026-06-17 | MCP budget and risk authority for Cycles — runtime governance for Claude, Cursor, and Windsurf |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 65 | Rust | 2026-06-17 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
+| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29255 | TypeScript | 2026-06-17 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 4 | [runcycles/cycles-mcp-server](https://github.com/runcycles/cycles-mcp-server) | 0 | TypeScript | 2026-06-17 | MCP budget and risk authority for Cycles — runtime governance for Claude, Cursor, and Windsurf |
 | 5 | [runcycles/cycles-spring-ai-starter](https://github.com/runcycles/cycles-spring-ai-starter) | 0 | Java | 2026-06-17 | Spring AI starter for Cycles — runtime budget and action authority for Spring AI agents |
 | 6 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-06-17 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
 | 7 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-17 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
