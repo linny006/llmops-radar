@@ -1,12 +1,21 @@
 [
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
+    "description": "Local-first RAG and agent skills framework for source-traceable agent memory.",
+    "id": "sparkplug604/praxis",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50641,
-    "updated_at": "2026-06-17T05:43:12Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "sparkplug604/praxis",
+    "stars": 24,
+    "updated_at": "2026-06-17T05:57:27Z",
+    "url": "https://github.com/sparkplug604/praxis"
+  },
+  {
+    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 17,
+    "updated_at": "2026-06-17T05:52:06Z",
+    "url": "https://github.com/solomon2773/nora"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -14,8 +23,35 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 4,
-    "updated_at": "2026-06-17T05:43:04Z",
+    "updated_at": "2026-06-17T05:46:28Z",
     "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-17T05:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5849,
+    "updated_at": "2026-06-17T05:45:20Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50643,
+    "updated_at": "2026-06-17T05:43:12Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor",
@@ -54,15 +90,6 @@
     "url": "https://github.com/morning-verlu/KAI"
   },
   {
-    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 17,
-    "updated_at": "2026-06-17T05:44:58Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
     "description": "Enterprise-grade sovereign AI for organizations where SaaS AI isn\u2019t an option.",
     "id": "SpaceArmour/qxli-sovereign-ai-engine",
     "language": "\u2014",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T05:30:50Z",
     "url": "https://github.com/SpaceArmour/qxli-sovereign-ai-engine"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-17T05:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -90,13 +108,13 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5848,
-    "updated_at": "2026-06-17T05:45:20Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3009,
+    "updated_at": "2026-06-17T05:11:31Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 18,
-    "updated_at": "2026-06-17T04:38:50Z",
+    "updated_at": "2026-06-17T05:57:48Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -175,7 +193,7 @@
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 29,
+    "stars": 30,
     "updated_at": "2026-06-17T04:23:59Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19671,
-    "updated_at": "2026-06-17T01:36:03Z",
+    "updated_at": "2026-06-17T05:57:58Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-06-17T00:03:41Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3008,
-    "updated_at": "2026-06-17T05:11:31Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 13,
-    "updated_at": "2026-06-17T00:15:34Z",
-    "url": "https://github.com/iblai/os"
   }
 ]
