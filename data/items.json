@@ -1,5 +1,68 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:28:20Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
+    "id": "runcycles/cycles-server",
+    "language": "Java",
+    "name": "runcycles/cycles-server",
+    "stars": 3,
+    "updated_at": "2026-06-18T14:23:15Z",
+    "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-18T14:23:01Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-18T14:20:12Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:18:03Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29330,
+    "updated_at": "2026-06-18T14:28:17Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T14:15:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -9,31 +72,22 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:13:26Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29329,
-    "updated_at": "2026-06-18T14:10:18Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T14:08:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "BerriAI/litellm",
+    "stars": 50794,
+    "updated_at": "2026-06-18T14:11:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5886,
+    "updated_at": "2026-06-18T14:23:29Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-18T14:09:19Z",
+    "updated_at": "2026-06-18T14:19:37Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -54,20 +108,11 @@
     "url": "https://github.com/mwigge/rs-llmctl"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50793,
-    "updated_at": "2026-06-18T14:11:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26602,
+    "stars": 26603,
     "updated_at": "2026-06-18T13:59:28Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T13:39:44Z",
     "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5885,
-    "updated_at": "2026-06-18T14:06:55Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Evidence-gated RAG infrastructure for grounded, cited answers or structured abstentions - with hybrid retrieval, OpenAI-",
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse-js",
     "stars": 145,
-    "updated_at": "2026-06-18T14:13:28Z",
+    "updated_at": "2026-06-18T14:21:10Z",
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T12:53:58Z",
     "url": "https://github.com/mihaibc/ai-production-readiness-kit"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-18T13:48:01Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Framework-agnostic AI Agent \ud3c9\uac00/\uad00\uce21 \uc778\ud504\ub77c (4\ucd95 \ud3c9\uac00 + OpenTelemetry GenAI trace)",
@@ -342,21 +369,12 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:12:30Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11456,
-    "updated_at": "2026-06-18T14:12:32Z",
+    "updated_at": "2026-06-18T14:25:02Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -391,8 +409,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22350,
-    "updated_at": "2026-06-18T10:14:49Z",
+    "stars": 22351,
+    "updated_at": "2026-06-18T14:29:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3015,
-    "updated_at": "2026-06-18T13:59:23Z",
+    "updated_at": "2026-06-18T14:30:26Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 116,
     "updated_at": "2026-06-18T09:56:31Z",
     "url": "https://github.com/Portkey-AI/portkey-python-sdk"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5530,
-    "updated_at": "2026-06-18T09:52:57Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents",
-    "id": "guanbear/OctoClaw",
-    "language": "TypeScript",
-    "name": "guanbear/OctoClaw",
-    "stars": 61,
-    "updated_at": "2026-06-18T09:21:39Z",
-    "url": "https://github.com/guanbear/OctoClaw"
   }
 ]
