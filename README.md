@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 14:00 UTC
+> ⏰ Last updated: 2026-06-18 14:08 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26602 | Python | 2026-06-18 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 2 | [DiogoRibeiro7/llm-data-platform](https://github.com/DiogoRibeiro7/llm-data-platform) | 0 | Python | 2026-06-18 | Python monorepo for the LLM data lifecycle: contract-linked ingestion, dataset curation, and observability. |
-| 3 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19688 | Python | 2026-06-18 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 1 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3309 | TypeScript | 2026-06-18 | The platform for LLM evaluations and AI agent testing |
+| 2 | [mwigge/rs-llmctl](https://github.com/mwigge/rs-llmctl) | 0 | Rust | 2026-06-18 | Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50792 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 4 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-18 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29328 | TypeScript | 2026-06-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 7 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 1 | Python | 2026-06-18 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
-| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50791 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 9 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5885 | Go | 2026-06-18 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 10 | [akbar-yusupov/ContextGate](https://github.com/akbar-yusupov/ContextGate) | 1 | Python | 2026-06-18 | Evidence-gated RAG infrastructure for grounded, cited answers or structured abstentions - with hybrid retrieval, OpenAI- |
-| 11 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 369 | Python | 2026-06-18 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
-| 12 | [mwigge/rs-llmctl](https://github.com/mwigge/rs-llmctl) | 0 | Rust | 2026-06-18 | Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev |
-| 13 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | 4218 | TypeScript | 2026-06-18 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one  |
-| 14 | [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) | 145 | TypeScript | 2026-06-18 | 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework |
-| 15 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3309 | TypeScript | 2026-06-18 | The platform for LLM evaluations and AI agent testing |
+| 6 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26602 | Python | 2026-06-18 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 7 | [DiogoRibeiro7/llm-data-platform](https://github.com/DiogoRibeiro7/llm-data-platform) | 0 | Python | 2026-06-18 | Python monorepo for the LLM data lifecycle: contract-linked ingestion, dataset curation, and observability. |
+| 8 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19688 | Python | 2026-06-18 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29328 | TypeScript | 2026-06-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 10 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 1 | Python | 2026-06-18 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
+| 11 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5885 | Go | 2026-06-18 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 12 | [akbar-yusupov/ContextGate](https://github.com/akbar-yusupov/ContextGate) | 2 | Python | 2026-06-18 | Evidence-gated RAG infrastructure for grounded, cited answers or structured abstentions - with hybrid retrieval, OpenAI- |
+| 13 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 369 | Python | 2026-06-18 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
+| 14 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | 4218 | TypeScript | 2026-06-18 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one  |
+| 15 | [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) | 145 | TypeScript | 2026-06-18 | 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework |
 | 16 | [mihaibc/ai-production-readiness-kit](https://github.com/mihaibc/ai-production-readiness-kit) | 0 | Python | 2026-06-18 | Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ |
 | 17 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-18 | The opinionated workflow engine and governance layer for agent-driven software development. |
 | 18 | [songwookun/agent-eval-lab](https://github.com/songwookun/agent-eval-lab) | 1 | Python | 2026-06-18 | Framework-agnostic AI Agent 평가/관측 인프라 (4축 평가 + OpenTelemetry GenAI trace) |
@@ -85,7 +85,7 @@ expired items removed — so you can rely on what you see being current.
 | 41 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2263 | C++ | 2026-06-18 | Community maintained hardware plugin for vLLM on Ascend |
 | 42 | [renezander030/processbench](https://github.com/renezander030/processbench) | 1 | JavaScript | 2026-06-18 | Business-specific AI benchmark packs for repeatable workflow regression checks. |
 | 43 | [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape) | 13 | Python | 2026-06-18 | A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails |
-| 44 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22348 | TypeScript | 2026-06-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 44 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22349 | TypeScript | 2026-06-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 45 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3015 | TypeScript | 2026-06-18 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
 | 46 | [langfuse/langfuse-workshop](https://github.com/langfuse/langfuse-workshop) | 12 | TypeScript | 2026-06-18 | End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni |
 | 47 | [api7/aisix](https://github.com/api7/aisix) | 4 | Rust | 2026-06-18 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |

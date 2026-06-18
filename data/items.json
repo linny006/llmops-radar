@@ -1,5 +1,50 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-18T14:04:42Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
+    "id": "mwigge/rs-llmctl",
+    "language": "Rust",
+    "name": "mwigge/rs-llmctl",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:03:08Z",
+    "url": "https://github.com/mwigge/rs-llmctl"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50792,
+    "updated_at": "2026-06-18T14:02:39Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:02:29Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T14:00:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -27,30 +72,12 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:46:49Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T13:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29328,
-    "updated_at": "2026-06-18T14:00:26Z",
+    "updated_at": "2026-06-18T14:02:40Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -63,21 +90,12 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50791,
-    "updated_at": "2026-06-18T13:55:31Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5885,
-    "updated_at": "2026-06-18T13:36:01Z",
+    "updated_at": "2026-06-18T14:06:55Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -85,7 +103,7 @@
     "id": "akbar-yusupov/ContextGate",
     "language": "Python",
     "name": "akbar-yusupov/ContextGate",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-18T13:36:00Z",
     "url": "https://github.com/akbar-yusupov/ContextGate"
   },
@@ -97,15 +115,6 @@
     "stars": 369,
     "updated_at": "2026-06-18T13:31:45Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
-    "id": "mwigge/rs-llmctl",
-    "language": "Rust",
-    "name": "mwigge/rs-llmctl",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:31:08Z",
-    "url": "https://github.com/mwigge/rs-llmctl"
   },
   {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
@@ -122,17 +131,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse-js",
     "stars": 145,
-    "updated_at": "2026-06-18T13:24:21Z",
+    "updated_at": "2026-06-18T14:07:42Z",
     "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-18T14:00:16Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ",
@@ -194,7 +194,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 12,
-    "updated_at": "2026-06-18T12:53:29Z",
+    "updated_at": "2026-06-18T14:06:35Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -356,7 +356,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11456,
-    "updated_at": "2026-06-18T13:56:45Z",
+    "updated_at": "2026-06-18T14:05:01Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -391,7 +391,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22348,
+    "stars": 22349,
     "updated_at": "2026-06-18T10:14:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
