@@ -1,5 +1,86 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22328,
+    "updated_at": "2026-06-18T04:15:13Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50740,
+    "updated_at": "2026-06-18T04:12:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-06-18T04:09:48Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
+    "id": "mzlin2020/linming_llmops",
+    "language": "Python",
+    "name": "mzlin2020/linming_llmops",
+    "stars": 0,
+    "updated_at": "2026-06-18T04:09:44Z",
+    "url": "https://github.com/mzlin2020/linming_llmops"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 1,
+    "updated_at": "2026-06-18T04:09:41Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-06-18T04:03:43Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
+    "id": "phenomenoner/openclaw-mem",
+    "language": "Python",
+    "name": "phenomenoner/openclaw-mem",
+    "stars": 28,
+    "updated_at": "2026-06-18T04:02:28Z",
+    "url": "https://github.com/phenomenoner/openclaw-mem"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T04:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10180,
+    "updated_at": "2026-06-18T04:05:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2258,
-    "updated_at": "2026-06-18T03:59:26Z",
+    "updated_at": "2026-06-18T04:00:38Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -25,15 +106,6 @@
     "stars": 472,
     "updated_at": "2026-06-18T03:59:25Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50739,
-    "updated_at": "2026-06-18T03:59:26Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -52,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T03:50:50Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10180,
-    "updated_at": "2026-06-18T04:00:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T03:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
@@ -121,7 +175,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26591,
+    "stars": 26592,
     "updated_at": "2026-06-18T02:40:34Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -153,15 +207,6 @@
     "url": "https://github.com/abhilashsblai/ctxlayer-release"
   },
   {
-    "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
-    "id": "phenomenoner/openclaw-mem",
-    "language": "Python",
-    "name": "phenomenoner/openclaw-mem",
-    "stars": 28,
-    "updated_at": "2026-06-18T02:19:29Z",
-    "url": "https://github.com/phenomenoner/openclaw-mem"
-  },
-  {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T02:04:50Z",
     "url": "https://github.com/Radeonares32/LLMBrain"
-  },
-  {
-    "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-06-18T01:59:05Z",
-    "url": "https://github.com/thequantumfalcon/kry"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -275,7 +311,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1230,
-    "updated_at": "2026-06-18T03:39:00Z",
+    "updated_at": "2026-06-18T04:04:31Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -310,7 +346,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29296,
+    "stars": 29295,
     "updated_at": "2026-06-17T23:06:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -355,7 +391,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5873,
+    "stars": 5874,
     "updated_at": "2026-06-17T22:34:40Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -367,6 +403,15 @@
     "stars": 35,
     "updated_at": "2026-06-17T22:22:24Z",
     "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Build, Manage and Deploy AI/ML Systems",
+    "id": "Netflix/metaflow",
+    "language": "Python",
+    "name": "Netflix/metaflow",
+    "stars": 10133,
+    "updated_at": "2026-06-17T22:15:00Z",
+    "url": "https://github.com/Netflix/metaflow"
   },
   {
     "description": "ESLint for your LLM prompts \u2014 catch prompt-injection risks, missing token limits & prompt anti-patterns before you ship.",
@@ -387,24 +432,6 @@
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10132,
-    "updated_at": "2026-06-17T22:15:00Z",
-    "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22328,
-    "updated_at": "2026-06-17T21:11:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Two-stage LLM request router \u2014 classifies complexity with embedding similarity + DeBERTa zero-shot, routes to the cheape",
     "id": "adel-saoud/llm-cost-autopilot",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T21:03:36Z",
     "url": "https://github.com/adel-saoud/guardian-rag"
-  },
-  {
-    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
-    "id": "dgenio/intentflow",
-    "language": "Python",
-    "name": "dgenio/intentflow",
-    "stars": 1,
-    "updated_at": "2026-06-17T20:44:34Z",
-    "url": "https://github.com/dgenio/intentflow"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-06-17T20:34:00Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 108,
-    "updated_at": "2026-06-17T20:11:02Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
   }
 ]
