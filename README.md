@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 17:45 UTC
+> ⏰ Last updated: 2026-06-18 18:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [EvanAI0331/aigit](https://github.com/EvanAI0331/aigit) | 0 | Python | 2026-06-18 | Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals. |
-| 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-18 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 3 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-06-18 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 4 | [mihaibc/ai-production-readiness-kit](https://github.com/mihaibc/ai-production-readiness-kit) | 0 | Python | 2026-06-18 | Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ |
-| 5 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-18 | The opinionated workflow engine and governance layer for agent-driven software development. |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50802 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [runcycles/.github](https://github.com/runcycles/.github) | 0 | Shell | 2026-06-18 | GitHub org config, CI workflows, and community health files for Cycles |
-| 9 | [melaya-labs/melaya](https://github.com/melaya-labs/melaya) | 3 | C# | 2026-06-18 | AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust |
-| 10 | [JonyKarmakar/vision-command-ai](https://github.com/JonyKarmakar/vision-command-ai) | 0 | TypeScript | 2026-06-18 | End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock |
-| 11 | [hiwasham/loopbreaker](https://github.com/hiwasham/loopbreaker) | 0 | Python | 2026-06-18 | A 60-line, zero-dependency guard that stops a runaway AI agent from burning your money in a loop. Step budget + loop det |
-| 12 | [iblai/os](https://github.com/iblai/os) | 12 | TypeScript | 2026-06-18 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
-| 13 | [agentbreeder/agentbreeder](https://github.com/agentbreeder/agentbreeder) | 4 | Python | 2026-06-18 | Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI  |
-| 14 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1055 | Python | 2026-06-18 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
-| 15 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29336 | TypeScript | 2026-06-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 1 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-18 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29336 | TypeScript | 2026-06-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 3 | [EvanAI0331/aigit](https://github.com/EvanAI0331/aigit) | 0 | Python | 2026-06-18 | Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals. |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50803 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 6 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-06-18 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 7 | [mihaibc/ai-production-readiness-kit](https://github.com/mihaibc/ai-production-readiness-kit) | 0 | Python | 2026-06-18 | Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ |
+| 8 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-18 | The opinionated workflow engine and governance layer for agent-driven software development. |
+| 9 | [runcycles/.github](https://github.com/runcycles/.github) | 0 | Shell | 2026-06-18 | GitHub org config, CI workflows, and community health files for Cycles |
+| 10 | [melaya-labs/melaya](https://github.com/melaya-labs/melaya) | 3 | C# | 2026-06-18 | AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust |
+| 11 | [JonyKarmakar/vision-command-ai](https://github.com/JonyKarmakar/vision-command-ai) | 0 | TypeScript | 2026-06-18 | End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock |
+| 12 | [hiwasham/loopbreaker](https://github.com/hiwasham/loopbreaker) | 0 | Python | 2026-06-18 | A 60-line, zero-dependency guard that stops a runaway AI agent from burning your money in a loop. Step budget + loop det |
+| 13 | [iblai/os](https://github.com/iblai/os) | 12 | TypeScript | 2026-06-18 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
+| 14 | [agentbreeder/agentbreeder](https://github.com/agentbreeder/agentbreeder) | 4 | Python | 2026-06-18 | Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI  |
+| 15 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1055 | Python | 2026-06-18 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
 | 16 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 3 | Java | 2026-06-18 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
 | 17 | [runcycles/cycles-spring-boot-starter](https://github.com/runcycles/cycles-spring-boot-starter) | 2 | Java | 2026-06-18 | Spring Boot starter for Cycles — runtime budget authority for AI agents |
-| 18 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28832 | TypeScript | 2026-06-18 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 18 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28833 | TypeScript | 2026-06-18 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 19 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22353 | TypeScript | 2026-06-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 20 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11458 | TypeScript | 2026-06-18 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
 | 21 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-18 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
