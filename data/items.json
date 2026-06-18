@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
+    "id": "mzlin2020/linming_llmops",
+    "language": "Python",
+    "name": "mzlin2020/linming_llmops",
+    "stars": 0,
+    "updated_at": "2026-06-18T10:55:22Z",
+    "url": "https://github.com/mzlin2020/linming_llmops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T10:55:12Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -41,7 +59,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29323,
-    "updated_at": "2026-06-18T10:51:25Z",
+    "updated_at": "2026-06-18T10:59:48Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -86,17 +104,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-18T10:52:22Z",
+    "updated_at": "2026-06-18T10:55:19Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T10:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -131,8 +140,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19687,
-    "updated_at": "2026-06-18T10:49:29Z",
+    "updated_at": "2026-06-18T10:58:46Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5882,
+    "updated_at": "2026-06-18T10:35:11Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -243,24 +261,6 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5881,
-    "updated_at": "2026-06-18T10:35:11Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
-    "id": "mzlin2020/linming_llmops",
-    "language": "Python",
-    "name": "mzlin2020/linming_llmops",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:40:17Z",
-    "url": "https://github.com/mzlin2020/linming_llmops"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -365,7 +365,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 139,
-    "updated_at": "2026-06-18T10:41:12Z",
+    "updated_at": "2026-06-18T10:59:51Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
