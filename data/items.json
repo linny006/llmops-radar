@@ -1,12 +1,66 @@
 [
   {
+    "description": "Agentic orchestration playground dedicated but not limited to trading",
+    "id": "melaya-labs/melaya",
+    "language": "\u2014",
+    "name": "melaya-labs/melaya",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:59:39Z",
+    "url": "https://github.com/melaya-labs/melaya"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:58:00Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 139,
+    "updated_at": "2026-06-18T14:55:24Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 18,
+    "updated_at": "2026-06-18T14:55:05Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-18T14:45:11Z",
+    "updated_at": "2026-06-18T15:00:22Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
+    "id": "traceloop/openllmetry-js",
+    "language": "TypeScript",
+    "name": "traceloop/openllmetry-js",
+    "stars": 404,
+    "updated_at": "2026-06-18T14:49:18Z",
+    "url": "https://github.com/traceloop/openllmetry-js"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T14:45:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise Agentic AI Platform for autonomous pipeline monitoring, root cause analysis, incident retrieval, data quality",
@@ -27,31 +81,13 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:36:21Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29330,
-    "updated_at": "2026-06-18T14:42:11Z",
+    "updated_at": "2026-06-18T14:57:55Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T14:30:42Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-06-18T14:23:01Z",
+    "updated_at": "2026-06-18T14:58:49Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-18T14:20:12Z",
+    "updated_at": "2026-06-18T15:00:05Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -103,7 +139,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50795,
+    "stars": 50796,
     "updated_at": "2026-06-18T14:11:34Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -130,7 +166,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26604,
+    "stars": 26605,
     "updated_at": "2026-06-18T13:59:28Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19688,
-    "updated_at": "2026-06-18T14:39:24Z",
+    "updated_at": "2026-06-18T14:56:39Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 369,
-    "updated_at": "2026-06-18T13:31:45Z",
+    "updated_at": "2026-06-18T14:53:15Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28829,
-    "updated_at": "2026-06-18T14:00:10Z",
+    "updated_at": "2026-06-18T14:56:21Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -288,15 +324,6 @@
     "url": "https://github.com/jpoindexter/winnow"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 18,
-    "updated_at": "2026-06-18T13:53:17Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "xinglun/ai-cockpit-template",
     "language": "Python",
@@ -311,7 +338,7 @@
     "language": "TypeScript",
     "name": "ictseoyoungmin/HADARA",
     "stars": 0,
-    "updated_at": "2026-06-18T12:13:30Z",
+    "updated_at": "2026-06-18T14:59:32Z",
     "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T10:23:04Z",
     "url": "https://github.com/renezander030/processbench"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 13,
-    "updated_at": "2026-06-18T10:18:10Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3015,
-    "updated_at": "2026-06-18T14:43:10Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
-    "id": "langfuse/langfuse-workshop",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-workshop",
-    "stars": 12,
-    "updated_at": "2026-06-18T10:09:27Z",
-    "url": "https://github.com/langfuse/langfuse-workshop"
   }
 ]
