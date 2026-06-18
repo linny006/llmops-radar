@@ -1,12 +1,48 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26602,
+    "updated_at": "2026-06-18T13:59:28Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Python monorepo for the LLM data lifecycle: contract-linked ingestion, dataset curation, and observability.",
+    "id": "DiogoRibeiro7/llm-data-platform",
+    "language": "Python",
+    "name": "DiogoRibeiro7/llm-data-platform",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:53:47Z",
+    "url": "https://github.com/DiogoRibeiro7/llm-data-platform"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19688,
-    "updated_at": "2026-06-18T13:44:50Z",
+    "updated_at": "2026-06-18T13:57:50Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:46:49Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T13:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29328,
-    "updated_at": "2026-06-18T13:42:53Z",
+    "updated_at": "2026-06-18T14:00:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,24 +68,15 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50791,
-    "updated_at": "2026-06-18T13:37:22Z",
+    "updated_at": "2026-06-18T13:55:31Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:36:38Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5884,
+    "stars": 5885,
     "updated_at": "2026-06-18T13:36:01Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -70,15 +97,6 @@
     "stars": 369,
     "updated_at": "2026-06-18T13:31:45Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T13:31:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-18T13:38:53Z",
+    "updated_at": "2026-06-18T14:00:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-18T13:32:04Z",
+    "updated_at": "2026-06-18T13:48:01Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28829,
-    "updated_at": "2026-06-18T13:35:48Z",
+    "updated_at": "2026-06-18T14:00:10Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -221,17 +239,8 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 18,
-    "updated_at": "2026-06-18T13:28:48Z",
+    "updated_at": "2026-06-18T13:53:17Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26602,
-    "updated_at": "2026-06-18T12:21:08Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -347,7 +356,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11456,
-    "updated_at": "2026-06-18T13:27:00Z",
+    "updated_at": "2026-06-18T13:56:45Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -355,7 +364,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2262,
+    "stars": 2263,
     "updated_at": "2026-06-18T10:32:28Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -382,7 +391,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22347,
+    "stars": 22348,
     "updated_at": "2026-06-18T10:14:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3015,
-    "updated_at": "2026-06-18T10:04:46Z",
+    "updated_at": "2026-06-18T13:59:23Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 61,
     "updated_at": "2026-06-18T09:21:39Z",
     "url": "https://github.com/guanbear/OctoClaw"
-  },
-  {
-    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
-    "id": "dgenio/intentflow",
-    "language": "Python",
-    "name": "dgenio/intentflow",
-    "stars": 1,
-    "updated_at": "2026-06-18T09:01:52Z",
-    "url": "https://github.com/dgenio/intentflow"
   }
 ]
