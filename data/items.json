@@ -1,5 +1,86 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:43:40Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29335,
+    "updated_at": "2026-06-18T16:44:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 28831,
+    "updated_at": "2026-06-18T16:39:59Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
+    "id": "melaya-labs/melaya",
+    "language": "C#",
+    "name": "melaya-labs/melaya",
+    "stars": 3,
+    "updated_at": "2026-06-18T16:44:35Z",
+    "url": "https://github.com/melaya-labs/melaya"
+  },
+  {
+    "description": "Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals.",
+    "id": "EvanAI0331/aigit",
+    "language": "Python",
+    "name": "EvanAI0331/aigit",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:33:58Z",
+    "url": "https://github.com/EvanAI0331/aigit"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11458,
+    "updated_at": "2026-06-18T16:33:25Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-18T16:32:29Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-18T16:31:51Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T16:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -14,26 +95,8 @@
     "language": "Java",
     "name": "runcycles/cycles-server",
     "stars": 3,
-    "updated_at": "2026-06-18T16:29:52Z",
+    "updated_at": "2026-06-18T16:32:58Z",
     "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29333,
-    "updated_at": "2026-06-18T16:28:56Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:27:41Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50798,
-    "updated_at": "2026-06-18T16:24:47Z",
+    "updated_at": "2026-06-18T16:36:53Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T16:17:00Z",
     "url": "https://github.com/gaurav-bhadane/Enterprise_Agentic_AI_Operations_Platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T16:15:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
@@ -90,30 +144,12 @@
     "url": "https://github.com/Josepavese/matrix"
   },
   {
-    "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
-    "id": "melaya-labs/melaya",
-    "language": "C#",
-    "name": "melaya-labs/melaya",
-    "stars": 3,
-    "updated_at": "2026-06-18T16:12:10Z",
-    "url": "https://github.com/melaya-labs/melaya"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 28831,
-    "updated_at": "2026-06-18T16:25:17Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22352,
-    "updated_at": "2026-06-18T16:05:22Z",
+    "updated_at": "2026-06-18T16:40:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -139,7 +175,7 @@
     "id": "mezmo/aura",
     "language": "Rust",
     "name": "mezmo/aura",
-    "stars": 112,
+    "stars": 113,
     "updated_at": "2026-06-18T16:01:30Z",
     "url": "https://github.com/mezmo/aura"
   },
@@ -193,7 +229,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5888,
+    "stars": 5890,
     "updated_at": "2026-06-18T15:50:53Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -243,15 +279,6 @@
     "url": "https://github.com/DiogoRibeiro7/llm-data-platform"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "TypeScript",
-    "name": "dataelement/bisheng",
-    "stars": 11457,
-    "updated_at": "2026-06-18T15:44:19Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -259,15 +286,6 @@
     "stars": 3309,
     "updated_at": "2026-06-18T16:30:21Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-18T16:25:17Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4218,
-    "updated_at": "2026-06-18T15:57:24Z",
+    "updated_at": "2026-06-18T16:44:35Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-18T12:26:49Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "Local-first context compression for AI agents \u2014 content-aware, reversible, zero runtime deps. Cuts agent token usage 40-",
     "id": "jpoindexter/winnow",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T12:17:07Z",
     "url": "https://github.com/xinglun/ai-cockpit-template"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5452,
-    "updated_at": "2026-06-18T15:28:29Z",
-    "url": "https://github.com/zenml-io/zenml"
   }
 ]
