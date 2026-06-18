@@ -1,10 +1,46 @@
 [
   {
+    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
+    "id": "morning-verlu/KAI",
+    "language": "Kotlin",
+    "name": "morning-verlu/KAI",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:56:36Z",
+    "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5877,
+    "updated_at": "2026-06-18T06:47:24Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 137,
+    "updated_at": "2026-06-18T06:45:35Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T06:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50754,
+    "stars": 50756,
     "updated_at": "2026-06-18T06:36:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -16,15 +52,6 @@
     "stars": 2258,
     "updated_at": "2026-06-18T06:30:43Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T06:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T06:12:18Z",
     "url": "https://github.com/nexus-lab-zen/ai-operator-guard"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5877,
-    "updated_at": "2026-06-18T06:38:46Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
@@ -166,7 +184,7 @@
     "id": "mezmo/aura",
     "language": "Rust",
     "name": "mezmo/aura",
-    "stars": 104,
+    "stars": 105,
     "updated_at": "2026-06-18T05:11:58Z",
     "url": "https://github.com/mezmo/aura"
   },
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11456,
-    "updated_at": "2026-06-18T06:40:46Z",
+    "updated_at": "2026-06-18T06:46:42Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -342,15 +360,6 @@
     "url": "https://github.com/kalyan-venk/agentic-llmops"
   },
   {
-    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
-    "id": "morning-verlu/KAI",
-    "language": "Kotlin",
-    "name": "morning-verlu/KAI",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:30:06Z",
-    "url": "https://github.com/morning-verlu/KAI"
-  },
-  {
     "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
     "id": "abhilashsblai/ctxlayer-release",
     "language": "\u2014",
@@ -382,7 +391,7 @@
     "id": "clearml/clearml",
     "language": "Python",
     "name": "clearml/clearml",
-    "stars": 6735,
+    "stars": 6736,
     "updated_at": "2026-06-18T01:38:11Z",
     "url": "https://github.com/clearml/clearml"
   },
@@ -437,16 +446,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1230,
-    "updated_at": "2026-06-18T06:45:02Z",
+    "updated_at": "2026-06-18T06:50:06Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 10,
-    "updated_at": "2026-06-18T00:02:28Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
   }
 ]
