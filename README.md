@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 03:00 UTC
+> ⏰ Last updated: 2026-06-18 03:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2258 | C++ | 2026-06-18 | Community maintained hardware plugin for vLLM on Ascend |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50734 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 3 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-06-18 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50736 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2258 | C++ | 2026-06-18 | Community maintained hardware plugin for vLLM on Ascend |
+| 4 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-06-18 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
 | 5 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 20 | Python | 2026-06-18 | ⚡ Curated list of AI gateways & LLM proxies — LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api… compared by cost, co |
-| 6 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26588 | Python | 2026-06-18 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 6 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26589 | Python | 2026-06-18 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 7 | [kalyan-venk/agentic-llmops](https://github.com/kalyan-venk/agentic-llmops) | 1 | TeX | 2026-06-18 | Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o |
 | 8 | [morning-verlu/KAI](https://github.com/morning-verlu/KAI) | 0 | Kotlin | 2026-06-18 | Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates |
 | 9 | [abhilashsblai/ctxlayer-release](https://github.com/abhilashsblai/ctxlayer-release) | 0 | — | 2026-06-18 | CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex. |
@@ -68,10 +68,10 @@ expired items removed — so you can rely on what you see being current.
 | 24 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-18 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 25 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1230 | Cuda | 2026-06-18 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
 | 26 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 10 | — | 2026-06-18 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
-| 27 | [iblai/os](https://github.com/iblai/os) | 12 | TypeScript | 2026-06-17 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
+| 27 | [iblai/os](https://github.com/iblai/os) | 12 | TypeScript | 2026-06-18 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
 | 28 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-17 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
 | 29 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-17 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 30 | [mezmo/aura](https://github.com/mezmo/aura) | 100 | Rust | 2026-06-17 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
+| 30 | [mezmo/aura](https://github.com/mezmo/aura) | 100 | Rust | 2026-06-18 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
 | 31 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29292 | TypeScript | 2026-06-17 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 32 | [crewhaus/factory](https://github.com/crewhaus/factory) | 1 | TypeScript | 2026-06-17 | Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew,  |
 | 33 | [runtm-ai/runtm](https://github.com/runtm-ai/runtm) | 276 | Python | 2026-06-17 | Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and |
