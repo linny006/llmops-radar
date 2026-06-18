@@ -1,12 +1,48 @@
 [
   {
+    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
+    "id": "morning-verlu/KAI",
+    "language": "Kotlin",
+    "name": "morning-verlu/KAI",
+    "stars": 0,
+    "updated_at": "2026-06-18T02:30:06Z",
+    "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50731,
-    "updated_at": "2026-06-18T02:13:18Z",
+    "stars": 50732,
+    "updated_at": "2026-06-18T02:25:29Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
+    "id": "abhilashsblai/ctxlayer-release",
+    "language": "\u2014",
+    "name": "abhilashsblai/ctxlayer-release",
+    "stars": 0,
+    "updated_at": "2026-06-18T02:20:03Z",
+    "url": "https://github.com/abhilashsblai/ctxlayer-release"
+  },
+  {
+    "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
+    "id": "phenomenoner/openclaw-mem",
+    "language": "Python",
+    "name": "phenomenoner/openclaw-mem",
+    "stars": 28,
+    "updated_at": "2026-06-18T02:19:29Z",
+    "url": "https://github.com/phenomenoner/openclaw-mem"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T02:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T02:04:50Z",
     "url": "https://github.com/Radeonares32/LLMBrain"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T02:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
@@ -167,7 +194,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1230,
-    "updated_at": "2026-06-18T02:09:17Z",
+    "updated_at": "2026-06-18T02:25:04Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -229,7 +256,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29291,
+    "stars": 29292,
     "updated_at": "2026-06-17T23:06:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -241,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T23:02:10Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
-    "id": "phenomenoner/openclaw-mem",
-    "language": "Python",
-    "name": "phenomenoner/openclaw-mem",
-    "stars": 28,
-    "updated_at": "2026-06-17T22:56:34Z",
-    "url": "https://github.com/phenomenoner/openclaw-mem"
   },
   {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
@@ -391,7 +409,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 7661,
+    "stars": 7663,
     "updated_at": "2026-06-17T19:28:56Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T01:52:04Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals.",
-    "id": "EvanAI0331/aigit",
-    "language": "Python",
-    "name": "EvanAI0331/aigit",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:58:41Z",
-    "url": "https://github.com/EvanAI0331/aigit"
-  },
-  {
-    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
-    "id": "shaikn6/llmops-eval-platform",
-    "language": "Python",
-    "name": "shaikn6/llmops-eval-platform",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:44:09Z",
-    "url": "https://github.com/shaikn6/llmops-eval-platform"
   }
 ]
