@@ -1,11 +1,29 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50754,
+    "updated_at": "2026-06-18T06:36:17Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2258,
+    "updated_at": "2026-06-18T06:30:43Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-18T06:28:27Z",
+    "updated_at": "2026-06-18T06:30:27Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5877,
-    "updated_at": "2026-06-18T06:11:11Z",
+    "updated_at": "2026-06-18T06:38:46Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T06:09:56Z",
     "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50753,
-    "updated_at": "2026-06-18T06:09:40Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Production-grade FastGPT / AIBuilder workflow JSON authoring, inspector and validator for AI agents",
@@ -153,6 +162,15 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 104,
+    "updated_at": "2026-06-18T05:11:58Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
     "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11456,
-    "updated_at": "2026-06-18T06:26:17Z",
+    "updated_at": "2026-06-18T06:40:46Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -202,7 +220,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22334,
+    "stars": 22335,
     "updated_at": "2026-06-18T04:15:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -241,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T03:59:55Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2258,
-    "updated_at": "2026-06-18T06:07:47Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -313,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T03:35:44Z",
     "url": "https://github.com/melaya-labs/melaya"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 103,
-    "updated_at": "2026-06-18T05:11:58Z",
-    "url": "https://github.com/mezmo/aura"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -437,7 +437,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1230,
-    "updated_at": "2026-06-18T06:15:49Z",
+    "updated_at": "2026-06-18T06:45:02Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
