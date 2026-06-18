@@ -1,21 +1,57 @@
 [
   {
+    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
+    "id": "mwigge/rs-llmctl",
+    "language": "Rust",
+    "name": "mwigge/rs-llmctl",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:31:08Z",
+    "url": "https://github.com/mwigge/rs-llmctl"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 369,
+    "updated_at": "2026-06-18T13:27:46Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-18T13:14:04Z",
+    "updated_at": "2026-06-18T13:24:50Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 145,
+    "updated_at": "2026-06-18T13:24:21Z",
+    "url": "https://github.com/langfuse/langfuse-js"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50787,
-    "updated_at": "2026-06-18T13:07:02Z",
+    "stars": 50790,
+    "updated_at": "2026-06-18T13:29:54Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Evidence-gated RAG infrastructure for grounded, cited answers or structured abstentions - with hybrid retrieval, OpenAI-",
+    "id": "akbar-yusupov/ContextGate",
+    "language": "Python",
+    "name": "akbar-yusupov/ContextGate",
+    "stars": 1,
+    "updated_at": "2026-06-18T13:17:04Z",
+    "url": "https://github.com/akbar-yusupov/ContextGate"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-18T13:00:33Z",
+    "updated_at": "2026-06-18T13:15:32Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-18T13:29:51Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -32,7 +77,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29328,
-    "updated_at": "2026-06-18T13:14:42Z",
+    "updated_at": "2026-06-18T13:25:57Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -61,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T12:51:20Z",
     "url": "https://github.com/songwookun/agent-eval-lab"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-18T13:15:16Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Build, Manage and Deploy AI/ML Systems",
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 18,
-    "updated_at": "2026-06-18T12:21:23Z",
+    "updated_at": "2026-06-18T13:28:48Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -157,18 +193,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26601,
+    "stars": 26602,
     "updated_at": "2026-06-18T12:21:08Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 145,
-    "updated_at": "2026-06-18T12:23:24Z",
-    "url": "https://github.com/langfuse/langfuse-js"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -187,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T12:17:07Z",
     "url": "https://github.com/xinglun/ai-cockpit-template"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 369,
-    "updated_at": "2026-06-18T12:18:29Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -266,17 +284,8 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4218,
-    "updated_at": "2026-06-18T11:59:37Z",
+    "updated_at": "2026-06-18T13:29:32Z",
     "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
-    "id": "mwigge/rs-llmctl",
-    "language": "Rust",
-    "name": "mwigge/rs-llmctl",
-    "stars": 0,
-    "updated_at": "2026-06-18T11:14:23Z",
-    "url": "https://github.com/mwigge/rs-llmctl"
   },
   {
     "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
@@ -338,7 +347,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11456,
-    "updated_at": "2026-06-18T12:56:24Z",
+    "updated_at": "2026-06-18T13:27:00Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -418,7 +427,7 @@
     "id": "coze-dev/coze-loop",
     "language": "Go",
     "name": "coze-dev/coze-loop",
-    "stars": 5529,
+    "stars": 5530,
     "updated_at": "2026-06-18T09:52:57Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T09:01:52Z",
     "url": "https://github.com/dgenio/intentflow"
-  },
-  {
-    "description": "Your agent proposes. Orca verifies. You decide. A drop-in verification layer for LLM/agent outputs: grounding, schema, P",
-    "id": "aisona-lab/OrcaI",
-    "language": "Python",
-    "name": "aisona-lab/OrcaI",
-    "stars": 1,
-    "updated_at": "2026-06-18T08:54:49Z",
-    "url": "https://github.com/aisona-lab/OrcaI"
   }
 ]
