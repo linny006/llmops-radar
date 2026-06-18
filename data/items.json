@@ -2,11 +2,29 @@
   {
     "description": "Agentic orchestration playground dedicated but not limited to trading",
     "id": "melaya-labs/melaya",
-    "language": "\u2014",
+    "language": "C#",
     "name": "melaya-labs/melaya",
     "stars": 0,
-    "updated_at": "2026-06-18T14:59:39Z",
+    "updated_at": "2026-06-18T15:13:02Z",
     "url": "https://github.com/melaya-labs/melaya"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 369,
+    "updated_at": "2026-06-18T15:11:35Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-18T15:13:21Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,8 +32,44 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-18T14:58:00Z",
+    "updated_at": "2026-06-18T15:15:25Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-18T15:07:55Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 28829,
+    "updated_at": "2026-06-18T15:02:51Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T15:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:59:32Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
     "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
@@ -36,15 +90,6 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-18T15:00:22Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
     "id": "traceloop/openllmetry-js",
     "language": "TypeScript",
@@ -52,15 +97,6 @@
     "stars": 404,
     "updated_at": "2026-06-18T14:49:18Z",
     "url": "https://github.com/traceloop/openllmetry-js"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T14:45:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise Agentic AI Platform for autonomous pipeline monitoring, root cause analysis, incident retrieval, data quality",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29330,
-    "updated_at": "2026-06-18T14:57:55Z",
+    "updated_at": "2026-06-18T15:07:58Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T14:58:49Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-18T15:00:05Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19688,
-    "updated_at": "2026-06-18T14:56:39Z",
+    "updated_at": "2026-06-18T15:05:15Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -207,21 +234,12 @@
     "url": "https://github.com/akbar-yusupov/ContextGate"
   },
   {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 369,
-    "updated_at": "2026-06-18T14:53:15Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4218,
-    "updated_at": "2026-06-18T14:38:57Z",
+    "updated_at": "2026-06-18T15:14:01Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -230,7 +248,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse-js",
     "stars": 145,
-    "updated_at": "2026-06-18T14:21:10Z",
+    "updated_at": "2026-06-18T15:03:32Z",
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
@@ -270,15 +288,6 @@
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 28829,
-    "updated_at": "2026-06-18T14:56:21Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
     "id": "dativo-io/talon",
     "language": "Go",
@@ -293,7 +302,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 12,
-    "updated_at": "2026-06-18T14:10:10Z",
+    "updated_at": "2026-06-18T15:09:41Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T12:17:07Z",
     "url": "https://github.com/xinglun/ai-cockpit-template"
-  },
-  {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:59:32Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
     "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
@@ -428,7 +428,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11456,
-    "updated_at": "2026-06-18T14:38:04Z",
+    "updated_at": "2026-06-18T15:14:19Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
