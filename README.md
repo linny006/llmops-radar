@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 01:30 UTC
+> ⏰ Last updated: 2026-06-18 01:41 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50726 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 2 | [clearml/clearml](https://github.com/clearml/clearml) | 6734 | Python | 2026-06-18 | ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra |
-| 3 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-06-18 | Verifiable proof-of-efficiency compute credit for LLM spend — prove your inference savings instead of trusting a dashboa |
-| 4 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2258 | C++ | 2026-06-18 | Community maintained hardware plugin for vLLM on Ascend |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 1 | Python | 2026-06-18 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
+| 1 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 1 | Python | 2026-06-18 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50727 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 4 | [clearml/clearml](https://github.com/clearml/clearml) | 6734 | Python | 2026-06-18 | ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra |
+| 5 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-06-18 | Verifiable proof-of-efficiency compute credit for LLM spend — prove your inference savings instead of trusting a dashboa |
+| 6 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2258 | C++ | 2026-06-18 | Community maintained hardware plugin for vLLM on Ascend |
 | 7 | [kadubon/pic-openclaw-skill](https://github.com/kadubon/pic-openclaw-skill) | 0 | Python | 2026-06-18 | OpenClaw agent safety skill for action review, workflow verification, and optional PIC diagnostics |
 | 8 | [JonyKarmakar/vision-command-ai](https://github.com/JonyKarmakar/vision-command-ai) | 0 | TypeScript | 2026-06-18 | End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock |
 | 9 | [kalyan-venk/agentic-llmops](https://github.com/kalyan-venk/agentic-llmops) | 1 | TeX | 2026-06-18 | Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o |
@@ -57,7 +57,7 @@ expired items removed — so you can rely on what you see being current.
 | 13 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-18 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 14 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 10 | — | 2026-06-18 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
 | 15 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10179 | Python | 2026-06-18 | AI Observability & Evaluation |
-| 16 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19680 | Python | 2026-06-17 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 16 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19680 | Python | 2026-06-18 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 17 | [iblai/os](https://github.com/iblai/os) | 12 | TypeScript | 2026-06-17 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
 | 18 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26585 | Python | 2026-06-17 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 19 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-17 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
@@ -75,7 +75,7 @@ expired items removed — so you can rely on what you see being current.
 | 31 | [pop123-ux/promptlint](https://github.com/pop123-ux/promptlint) | 1 | Python | 2026-06-17 | ESLint for your LLM prompts — catch prompt-injection risks, missing token limits & prompt anti-patterns before you ship. |
 | 32 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 36 | Python | 2026-06-17 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
 | 33 | [Netflix/metaflow](https://github.com/Netflix/metaflow) | 10132 | Python | 2026-06-17 | Build, Manage and Deploy AI/ML Systems |
-| 34 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22327 | TypeScript | 2026-06-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 34 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22328 | TypeScript | 2026-06-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 35 | [adel-saoud/llm-cost-autopilot](https://github.com/adel-saoud/llm-cost-autopilot) | 0 | Python | 2026-06-17 | Two-stage LLM request router — classifies complexity with embedding similarity + DeBERTa zero-shot, routes to the cheape |
 | 36 | [adel-saoud/guardian-rag](https://github.com/adel-saoud/guardian-rag) | 0 | Python | 2026-06-17 | Stop personal data leaking through your RAG pipeline. Detects and redacts PII at ingestion, audits every generated answe |
 | 37 | [dgenio/intentflow](https://github.com/dgenio/intentflow) | 1 | Python | 2026-06-17 | An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int |
@@ -87,7 +87,7 @@ expired items removed — so you can rely on what you see being current.
 | 43 | [tmusser/ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills) | 2 | Python | 2026-06-17 | Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve |
 | 44 | [anejakartik/tracelens](https://github.com/anejakartik/tracelens) | 0 | Python | 2026-06-17 | Datadog for LLM apps, for indie devs. Drop-in Python SDK + free self-host. Latency, cost, hallucination patterns out of  |
 | 45 | [MattJackson/busbarAI](https://github.com/MattJackson/busbarAI) | 4 | Rust | 2026-06-17 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
-| 46 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-06-17 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 46 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-06-18 | LLM Systems Manager — real-time observability and control for LLM systems |
 | 47 | [EvanAI0331/aigit](https://github.com/EvanAI0331/aigit) | 0 | Python | 2026-06-17 | Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals. |
 | 48 | [shaikn6/llmops-eval-platform](https://github.com/shaikn6/llmops-eval-platform) | 0 | Python | 2026-06-17 | LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard. |
 | 49 | [katanemo/plano](https://github.com/katanemo/plano) | 6593 | Rust | 2026-06-17 | Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and sm |
