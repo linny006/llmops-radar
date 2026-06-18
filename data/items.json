@@ -1,5 +1,50 @@
 [
   {
+    "description": "Compact Knowledge Graph MCP server \u2014 42\u00d7 more efficient than RAG on structural queries",
+    "id": "Yarmoluk/ckg-mcp",
+    "language": "Python",
+    "name": "Yarmoluk/ckg-mcp",
+    "stars": 3,
+    "updated_at": "2026-06-18T19:11:32Z",
+    "url": "https://github.com/Yarmoluk/ckg-mcp"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10190,
+    "updated_at": "2026-06-18T19:10:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29339,
+    "updated_at": "2026-06-18T19:13:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A decision framework for agent boundary selection: when to extend an existing LLM agent vs. create a new agent or pod. C",
+    "id": "vasundras/cleave",
+    "language": "Python",
+    "name": "vasundras/cleave",
+    "stars": 0,
+    "updated_at": "2026-06-18T19:02:39Z",
+    "url": "https://github.com/vasundras/cleave"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T19:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
     "id": "SynaLinks/synalinks",
     "language": "Python",
@@ -18,15 +63,6 @@
     "url": "https://github.com/mezmo/aura"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T18:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A 60-line, zero-dependency guard that stops a runaway AI agent from burning your money in a loop. Step budget + loop det",
     "id": "hiwasham/loopbreaker",
     "language": "Python",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T18:44:26Z",
     "url": "https://github.com/hiwasham/loopbreaker"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29339,
-    "updated_at": "2026-06-18T18:34:46Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Cost-bounded autonomy for LLM agent fleets: runtime budget enforcement, per-agent/per-task attribution, and statistical ",
@@ -59,7 +86,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-18T18:29:35Z",
+    "updated_at": "2026-06-18T19:08:10Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50807,
-    "updated_at": "2026-06-18T19:00:21Z",
+    "updated_at": "2026-06-18T19:09:06Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-06-18T17:40:15Z",
+    "updated_at": "2026-06-18T19:07:51Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -142,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T17:40:06Z",
     "url": "https://github.com/mihaibc/ai-production-readiness-kit"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5891,
+    "updated_at": "2026-06-18T17:39:39Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "GitHub org config, CI workflows, and community health files for Cycles",
@@ -351,15 +387,6 @@
     "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5890,
-    "updated_at": "2026-06-18T17:39:39Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress,",
     "id": "cuihuan/awesome-ai-gateway",
     "language": "Python",
@@ -367,15 +394,6 @@
     "stars": 20,
     "updated_at": "2026-06-18T15:49:38Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10190,
-    "updated_at": "2026-06-18T18:55:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T14:59:32Z",
     "url": "https://github.com/ictseoyoungmin/HADARA"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 18,
-    "updated_at": "2026-06-18T14:55:05Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelem",
-    "id": "traceloop/openllmetry-js",
-    "language": "TypeScript",
-    "name": "traceloop/openllmetry-js",
-    "stars": 404,
-    "updated_at": "2026-06-18T14:49:18Z",
-    "url": "https://github.com/traceloop/openllmetry-js"
   }
 ]
