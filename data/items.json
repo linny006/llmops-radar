@@ -1,12 +1,57 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:59:15Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-06-18T05:52:15Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10182,
+    "updated_at": "2026-06-18T05:50:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50750,
+    "updated_at": "2026-06-18T05:48:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-18T05:30:33Z",
+    "updated_at": "2026-06-18T05:45:24Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 139,
+    "updated_at": "2026-06-18T05:29:45Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -45,15 +90,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50749,
-    "updated_at": "2026-06-18T05:13:24Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11456,
-    "updated_at": "2026-06-18T04:41:13Z",
+    "updated_at": "2026-06-18T05:57:47Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -99,20 +135,11 @@
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10181,
-    "updated_at": "2026-06-18T05:43:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22330,
+    "stars": 22332,
     "updated_at": "2026-06-18T04:15:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -243,15 +270,6 @@
     "url": "https://github.com/melaya-labs/melaya"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-18T03:35:13Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
     "id": "mezmo/aura",
     "language": "Rust",
@@ -304,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T02:20:03Z",
     "url": "https://github.com/abhilashsblai/ctxlayer-release"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-06-18T02:30:34Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "LLM Brain \u2014 Source-grounded engineering knowledge compiler. Turns repositories, docs, incidents, ADRs, and security note",
@@ -410,7 +419,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3013,
-    "updated_at": "2026-06-18T05:39:52Z",
+    "updated_at": "2026-06-18T05:50:37Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T23:02:10Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
-    "id": "runtm-ai/runtm",
-    "language": "Python",
-    "name": "runtm-ai/runtm",
-    "stars": 277,
-    "updated_at": "2026-06-17T22:59:32Z",
-    "url": "https://github.com/runtm-ai/runtm"
   }
 ]
