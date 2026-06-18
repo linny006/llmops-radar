@@ -5,8 +5,44 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-18T23:27:13Z",
+    "updated_at": "2026-06-18T23:37:18Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7671,
+    "updated_at": "2026-06-18T23:34:02Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-18T23:31:33Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
+    "id": "manojmallick/skillweave",
+    "language": "TypeScript",
+    "name": "manojmallick/skillweave",
+    "stars": 0,
+    "updated_at": "2026-06-18T23:35:05Z",
+    "url": "https://github.com/manojmallick/skillweave"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T23:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
@@ -23,17 +59,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10190,
-    "updated_at": "2026-06-18T23:20:38Z",
+    "updated_at": "2026-06-18T23:38:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T23:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50817,
-    "updated_at": "2026-06-18T23:27:42Z",
+    "updated_at": "2026-06-18T23:37:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T23:05:05Z",
     "url": "https://github.com/runcycles/cycles-spring-boot-starter"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7671,
-    "updated_at": "2026-06-18T23:08:26Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Python monorepo for the LLM data lifecycle: contract-linked ingestion, dataset curation, and observability.",
@@ -81,15 +99,6 @@
     "url": "https://github.com/xinglun/ai-cockpit-template"
   },
   {
-    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
-    "id": "manojmallick/skillweave",
-    "language": "TypeScript",
-    "name": "manojmallick/skillweave",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:26:18Z",
-    "url": "https://github.com/manojmallick/skillweave"
-  },
-  {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
     "id": "fkiene/llmtrim",
     "language": "Rust",
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T22:24:20Z",
     "url": "https://github.com/Aidan2111/agent-autonomy-score"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-18T22:49:41Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -274,7 +274,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22354,
+    "stars": 22356,
     "updated_at": "2026-06-18T19:24:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -401,7 +401,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 141,
-    "updated_at": "2026-06-18T22:32:12Z",
+    "updated_at": "2026-06-18T23:38:43Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
