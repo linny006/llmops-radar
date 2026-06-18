@@ -1,12 +1,102 @@
 [
   {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 30,
+    "updated_at": "2026-06-18T10:54:10Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-06-18T10:53:09Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-18T10:52:04Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T10:51:47Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29323,
+    "updated_at": "2026-06-18T10:51:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-18T10:50:36Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
+    "description": "Local-first context compression for AI agents \u2014 content-aware, reversible, zero runtime deps. Cuts agent token usage 40-",
+    "id": "jpoindexter/winnow",
+    "language": "TypeScript",
+    "name": "jpoindexter/winnow",
+    "stars": 0,
+    "updated_at": "2026-06-18T10:50:09Z",
+    "url": "https://github.com/jpoindexter/winnow"
+  },
+  {
+    "description": "Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ",
+    "id": "mihaibc/ai-production-readiness-kit",
+    "language": "Python",
+    "name": "mihaibc/ai-production-readiness-kit",
+    "stars": 0,
+    "updated_at": "2026-06-18T10:49:11Z",
+    "url": "https://github.com/mihaibc/ai-production-readiness-kit"
+  },
+  {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 71,
-    "updated_at": "2026-06-18T10:45:17Z",
+    "updated_at": "2026-06-18T10:48:05Z",
     "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-18T10:52:22Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T10:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -41,17 +131,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19687,
-    "updated_at": "2026-06-18T10:43:03Z",
+    "updated_at": "2026-06-18T10:49:29Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T10:41:59Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -59,7 +140,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11456,
-    "updated_at": "2026-06-18T10:44:55Z",
+    "updated_at": "2026-06-18T10:52:18Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -72,15 +153,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T10:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
     "id": "chyinan/AegisRAG",
     "language": "Python",
@@ -88,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T10:30:11Z",
     "url": "https://github.com/chyinan/AegisRAG"
-  },
-  {
-    "description": "Local-first context compression for AI agents \u2014 content-aware, reversible, zero runtime deps. Cuts agent token usage 40-",
-    "id": "jpoindexter/winnow",
-    "language": "TypeScript",
-    "name": "jpoindexter/winnow",
-    "stars": 0,
-    "updated_at": "2026-06-18T10:29:41Z",
-    "url": "https://github.com/jpoindexter/winnow"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -117,15 +180,6 @@
     "url": "https://github.com/renezander030/processbench"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29323,
-    "updated_at": "2026-06-18T10:22:05Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
     "id": "dyronrh/awesome-agentops-landscape",
     "language": "Python",
@@ -133,15 +187,6 @@
     "stars": 13,
     "updated_at": "2026-06-18T10:18:10Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ",
-    "id": "mihaibc/ai-production-readiness-kit",
-    "language": "\u2014",
-    "name": "mihaibc/ai-production-readiness-kit",
-    "stars": 0,
-    "updated_at": "2026-06-18T10:16:02Z",
-    "url": "https://github.com/mihaibc/ai-production-readiness-kit"
   },
   {
     "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
@@ -180,15 +225,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-18T10:43:31Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Build reliable, secure, and production-ready AI apps easily.",
     "id": "Portkey-AI/portkey-python-sdk",
     "language": "Python",
@@ -205,15 +241,6 @@
     "stars": 5529,
     "updated_at": "2026-06-18T09:52:57Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-18T10:34:58Z",
-    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -266,7 +293,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28827,
-    "updated_at": "2026-06-18T09:03:36Z",
+    "updated_at": "2026-06-18T10:48:16Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T08:30:32Z",
     "url": "https://github.com/anejakartik/evalstack"
-  },
-  {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-18T08:18:27Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
     "description": "Turn hard-won human experience into knowledge your AI agents can act on \u2014 a methodology (routing + Book-to-Skill + gover",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T06:12:18Z",
     "url": "https://github.com/nexus-lab-zen/ai-operator-guard"
-  },
-  {
-    "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-06-18T06:09:56Z",
-    "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "Production-grade FastGPT / AIBuilder workflow JSON authoring, inspector and validator for AI agents",
-    "id": "myshkin451/fastgpt-json-authoring-skill",
-    "language": "Python",
-    "name": "myshkin451/fastgpt-json-authoring-skill",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:08:26Z",
-    "url": "https://github.com/myshkin451/fastgpt-json-authoring-skill"
   }
 ]
