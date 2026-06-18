@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 13:00 UTC
+> ⏰ Last updated: 2026-06-18 13:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29327 | TypeScript | 2026-06-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-18 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 3 | [mihaibc/ai-production-readiness-kit](https://github.com/mihaibc/ai-production-readiness-kit) | 0 | Python | 2026-06-18 | Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ |
-| 4 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-18 | The opinionated workflow engine and governance layer for agent-driven software development. |
-| 5 | [songwookun/agent-eval-lab](https://github.com/songwookun/agent-eval-lab) | 1 | Python | 2026-06-18 | Framework-agnostic AI Agent 평가/관측 인프라 (4축 평가 + OpenTelemetry GenAI trace) |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50786 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 1 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-18 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50787 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29328 | TypeScript | 2026-06-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 5 | [mihaibc/ai-production-readiness-kit](https://github.com/mihaibc/ai-production-readiness-kit) | 0 | Python | 2026-06-18 | Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ |
+| 6 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-18 | The opinionated workflow engine and governance layer for agent-driven software development. |
+| 7 | [songwookun/agent-eval-lab](https://github.com/songwookun/agent-eval-lab) | 1 | Python | 2026-06-18 | Framework-agnostic AI Agent 평가/관측 인프라 (4축 평가 + OpenTelemetry GenAI trace) |
 | 8 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3309 | TypeScript | 2026-06-18 | The platform for LLM evaluations and AI agent testing |
 | 9 | [Netflix/metaflow](https://github.com/Netflix/metaflow) | 10134 | Python | 2026-06-18 | Build, Manage and Deploy AI/ML Systems |
 | 10 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28829 | TypeScript | 2026-06-18 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
@@ -84,14 +84,14 @@ expired items removed — so you can rely on what you see being current.
 | 40 | [renezander030/processbench](https://github.com/renezander030/processbench) | 1 | JavaScript | 2026-06-18 | Business-specific AI benchmark packs for repeatable workflow regression checks. |
 | 41 | [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape) | 13 | Python | 2026-06-18 | A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails |
 | 42 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22347 | TypeScript | 2026-06-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 43 | [langfuse/langfuse-workshop](https://github.com/langfuse/langfuse-workshop) | 12 | TypeScript | 2026-06-18 | End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni |
-| 44 | [api7/aisix](https://github.com/api7/aisix) | 4 | Rust | 2026-06-18 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
-| 45 | [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) | 116 | Python | 2026-06-18 | Build reliable, secure, and production-ready AI apps easily. |
-| 46 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5529 | Go | 2026-06-18 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
-| 47 | [guanbear/OctoClaw](https://github.com/guanbear/OctoClaw) | 61 | TypeScript | 2026-06-18 | Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents |
-| 48 | [dgenio/intentflow](https://github.com/dgenio/intentflow) | 1 | Python | 2026-06-18 | An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int |
-| 49 | [aisona-lab/OrcaI](https://github.com/aisona-lab/OrcaI) | 1 | Python | 2026-06-18 | Your agent proposes. Orca verifies. You decide. A drop-in verification layer for LLM/agent outputs: grounding, schema, P |
-| 50 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7668 | Rust | 2026-06-18 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 43 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3015 | TypeScript | 2026-06-18 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
+| 44 | [langfuse/langfuse-workshop](https://github.com/langfuse/langfuse-workshop) | 12 | TypeScript | 2026-06-18 | End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni |
+| 45 | [api7/aisix](https://github.com/api7/aisix) | 4 | Rust | 2026-06-18 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
+| 46 | [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) | 116 | Python | 2026-06-18 | Build reliable, secure, and production-ready AI apps easily. |
+| 47 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5529 | Go | 2026-06-18 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
+| 48 | [guanbear/OctoClaw](https://github.com/guanbear/OctoClaw) | 61 | TypeScript | 2026-06-18 | Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents |
+| 49 | [dgenio/intentflow](https://github.com/dgenio/intentflow) | 1 | Python | 2026-06-18 | An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int |
+| 50 | [aisona-lab/OrcaI](https://github.com/aisona-lab/OrcaI) | 1 | Python | 2026-06-18 | Your agent proposes. Orca verifies. You decide. A drop-in verification layer for LLM/agent outputs: grounding, schema, P |
 <!-- TRACKER_TABLE_END -->
 
 ---
