@@ -5,17 +5,44 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-18T21:59:24Z",
+    "updated_at": "2026-06-18T22:14:59Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
+    "description": "Python monorepo for the LLM data lifecycle: contract-linked ingestion, dataset curation, and observability.",
+    "id": "DiogoRibeiro7/llm-data-platform",
+    "language": "Python",
+    "name": "DiogoRibeiro7/llm-data-platform",
+    "stars": 0,
+    "updated_at": "2026-06-18T22:13:23Z",
+    "url": "https://github.com/DiogoRibeiro7/llm-data-platform"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-18T22:08:14Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-18T21:55:43Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-18T22:06:40Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-18T22:03:54Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +50,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-18T21:50:06Z",
+    "updated_at": "2026-06-18T22:00:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 73,
+    "updated_at": "2026-06-18T22:08:24Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-18T22:06:20Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10190,
-    "updated_at": "2026-06-18T21:59:23Z",
+    "updated_at": "2026-06-18T22:09:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -59,17 +104,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50815,
-    "updated_at": "2026-06-18T21:51:14Z",
+    "updated_at": "2026-06-18T22:06:15Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-18T21:23:27Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -180,30 +216,12 @@
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-18T19:28:16Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:26:49Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-18T19:24:45Z",
+    "updated_at": "2026-06-18T22:14:16Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 145,
     "updated_at": "2026-06-18T16:17:25Z",
     "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
-    "id": "Josepavese/matrix",
-    "language": "Go",
-    "name": "Josepavese/matrix",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:16:22Z",
-    "url": "https://github.com/Josepavese/matrix"
-  },
-  {
-    "description": "Production-grade MLOps/LLMOps Lab \u2014 LLM Gateway, RAG Pipeline, AI Security, Monitoring. Built for DevSecOps AI-Ready rol",
-    "id": "DerbSwag/llmops-platform-lab",
-    "language": "Python",
-    "name": "DerbSwag/llmops-platform-lab",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:04:44Z",
-    "url": "https://github.com/DerbSwag/llmops-platform-lab"
   }
 ]
