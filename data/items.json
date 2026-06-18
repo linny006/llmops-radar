@@ -1,5 +1,41 @@
 [
   {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 114,
+    "updated_at": "2026-06-18T18:30:05Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-18T18:29:35Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
+    "id": "SynaLinks/synalinks",
+    "language": "Python",
+    "name": "SynaLinks/synalinks",
+    "stars": 440,
+    "updated_at": "2026-06-18T18:27:57Z",
+    "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T18:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Cost-bounded autonomy for LLM agent fleets: runtime budget enforcement, per-agent/per-task attribution, and statistical ",
     "id": "vasundras/fleet-caliper",
     "language": "Python",
@@ -9,13 +45,13 @@
     "url": "https://github.com/vasundras/fleet-caliper"
   },
   {
-    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
-    "id": "SynaLinks/synalinks",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 440,
-    "updated_at": "2026-06-18T18:10:17Z",
-    "url": "https://github.com/SynaLinks/synalinks"
+    "name": "BerriAI/litellm",
+    "stars": 50806,
+    "updated_at": "2026-06-18T18:11:23Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -54,24 +90,6 @@
     "url": "https://github.com/chyinan/AegisRAG"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T18:00:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50805,
-    "updated_at": "2026-06-18T18:11:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T17:40:06Z",
     "url": "https://github.com/mihaibc/ai-production-readiness-kit"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-18T17:37:42Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "GitHub org config, CI workflows, and community health files for Cycles",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1055,
-    "updated_at": "2026-06-18T17:53:20Z",
+    "updated_at": "2026-06-18T18:30:04Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -202,7 +211,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28833,
+    "stars": 28834,
     "updated_at": "2026-06-18T16:52:47Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -211,7 +220,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22353,
+    "stars": 22355,
     "updated_at": "2026-06-18T16:40:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -247,7 +256,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19691,
+    "stars": 19692,
     "updated_at": "2026-06-18T16:19:50Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -295,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T16:04:15Z",
     "url": "https://github.com/DerbSwag/devops-assistant-agent"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 114,
-    "updated_at": "2026-06-18T18:07:52Z",
-    "url": "https://github.com/mezmo/aura"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
