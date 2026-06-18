@@ -1,5 +1,32 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5875,
+    "updated_at": "2026-06-18T05:26:50Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:20:09Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T05:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -13,18 +40,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50746,
+    "stars": 50748,
     "updated_at": "2026-06-18T05:13:24Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T05:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26592,
-    "updated_at": "2026-06-18T05:11:26Z",
+    "updated_at": "2026-06-18T05:28:19Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -342,15 +360,6 @@
     "url": "https://github.com/prismal-ai/prismal"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:37:01Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "\ud83e\udded Awesome Enterprise AI \u2014 the CAIO list. An adoption-first index of open-source AI for the enterprise (license \u00b7 maturit",
     "id": "caiohome/awesome-caio",
     "language": "Python",
@@ -383,7 +392,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3013,
-    "updated_at": "2026-06-17T23:38:44Z",
+    "updated_at": "2026-06-18T05:28:03Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -400,7 +409,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29300,
+    "stars": 29302,
     "updated_at": "2026-06-17T23:06:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-17T22:38:51Z",
     "url": "https://github.com/sadbeto/multi-agent-graph-memory"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5875,
-    "updated_at": "2026-06-17T22:34:40Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
