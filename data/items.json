@@ -1,12 +1,57 @@
 [
   {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 2,
+    "updated_at": "2026-06-18T07:28:01Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19685,
+    "updated_at": "2026-06-18T07:27:07Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-18T07:15:03Z",
+    "updated_at": "2026-06-18T07:23:27Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29308,
+    "updated_at": "2026-06-18T07:20:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Measurement harness for benchmarking whether Codex instruction packages reduce token use without degrading task quality.",
+    "id": "MacSteini/scaldex",
+    "language": "Python",
+    "name": "MacSteini/scaldex",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:19:47Z",
+    "url": "https://github.com/MacSteini/scaldex"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T07:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
@@ -23,7 +68,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5879,
-    "updated_at": "2026-06-18T07:12:50Z",
+    "updated_at": "2026-06-18T07:21:09Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -31,7 +76,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50759,
+    "stars": 50761,
     "updated_at": "2026-06-18T07:09:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -45,21 +90,12 @@
     "url": "https://github.com/morning-verlu/KAI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T07:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token",
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 137,
-    "updated_at": "2026-06-18T06:45:35Z",
+    "updated_at": "2026-06-18T07:27:07Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -67,7 +103,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2258,
+    "stars": 2260,
     "updated_at": "2026-06-18T06:30:43Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -166,7 +202,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26593,
+    "stars": 26595,
     "updated_at": "2026-06-18T05:28:19Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11456,
-    "updated_at": "2026-06-18T07:03:09Z",
+    "updated_at": "2026-06-18T07:28:23Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 472,
     "updated_at": "2026-06-18T03:59:25Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19685,
-    "updated_at": "2026-06-18T03:57:22Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T00:57:55Z",
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
-    "id": "prismal-ai/prismal",
-    "language": "Python",
-    "name": "prismal-ai/prismal",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:52:31Z",
-    "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "\ud83e\udded Awesome Enterprise AI \u2014 the CAIO list. An adoption-first index of open-source AI for the enterprise (license \u00b7 maturit",
-    "id": "caiohome/awesome-caio",
-    "language": "Python",
-    "name": "caiohome/awesome-caio",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:35:58Z",
-    "url": "https://github.com/caiohome/awesome-caio"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1230,
-    "updated_at": "2026-06-18T06:50:06Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   }
 ]
