@@ -1,5 +1,50 @@
 [
   {
+    "description": "Compact Knowledge Graph MCP server \u2014 42\u00d7 more efficient than RAG on structural queries",
+    "id": "Yarmoluk/ckg-mcp",
+    "language": "Python",
+    "name": "Yarmoluk/ckg-mcp",
+    "stars": 3,
+    "updated_at": "2026-06-18T20:15:08Z",
+    "url": "https://github.com/Yarmoluk/ckg-mcp"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T20:08:53Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
+    "id": "tmusser/ai-engineering-skills",
+    "language": "Python",
+    "name": "tmusser/ai-engineering-skills",
+    "stars": 2,
+    "updated_at": "2026-06-18T20:07:02Z",
+    "url": "https://github.com/tmusser/ai-engineering-skills"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T20:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29342,
+    "updated_at": "2026-06-18T19:57:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
     "id": "prashar32/riskkernel",
     "language": "Go",
@@ -14,35 +59,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5894,
-    "updated_at": "2026-06-18T19:53:50Z",
+    "updated_at": "2026-06-18T20:08:59Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 2,
-    "updated_at": "2026-06-18T19:52:28Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T19:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:43:59Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
@@ -52,15 +70,6 @@
     "stars": 4218,
     "updated_at": "2026-06-18T19:50:21Z",
     "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Compact Knowledge Graph MCP server \u2014 42\u00d7 more efficient than RAG on structural queries",
-    "id": "Yarmoluk/ckg-mcp",
-    "language": "Python",
-    "name": "Yarmoluk/ckg-mcp",
-    "stars": 3,
-    "updated_at": "2026-06-18T19:34:35Z",
-    "url": "https://github.com/Yarmoluk/ckg-mcp"
   },
   {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50813,
-    "updated_at": "2026-06-18T19:25:41Z",
+    "updated_at": "2026-06-18T20:05:24Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -151,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T19:15:45Z",
     "url": "https://github.com/rishika7006/kvgate"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29341,
-    "updated_at": "2026-06-18T19:57:44Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -364,7 +364,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19693,
+    "stars": 19694,
     "updated_at": "2026-06-18T16:19:50Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -437,7 +437,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 369,
-    "updated_at": "2026-06-18T19:56:09Z",
+    "updated_at": "2026-06-18T20:07:02Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {

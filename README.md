@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 20:00 UTC
+> ⏰ Last updated: 2026-06-18 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [prashar32/riskkernel](https://github.com/prashar32/riskkernel) | 18 | Go | 2026-06-18 | Deterministic cost / loop / time budgets · full observability · crash-resumable runs · human-approval gates · a memory y |
-| 2 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5894 | Go | 2026-06-18 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 1 | [Yarmoluk/ckg-mcp](https://github.com/Yarmoluk/ckg-mcp) | 3 | Python | 2026-06-18 | Compact Knowledge Graph MCP server — 42× more efficient than RAG on structural queries |
+| 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-18 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 3 | [tmusser/ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills) | 2 | Python | 2026-06-18 | Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve |
 | 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-18 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 6 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | 4218 | TypeScript | 2026-06-18 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one  |
-| 7 | [Yarmoluk/ckg-mcp](https://github.com/Yarmoluk/ckg-mcp) | 3 | Python | 2026-06-18 | Compact Knowledge Graph MCP server — 42× more efficient than RAG on structural queries |
-| 8 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 40 | Python | 2026-06-18 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
-| 9 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-18 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 10 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-18 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 11 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50813 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 12 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-18 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 13 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-18 | The opinionated workflow engine and governance layer for agent-driven software development. |
-| 14 | [mezmo/aura](https://github.com/mezmo/aura) | 115 | Rust | 2026-06-18 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
-| 15 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22355 | TypeScript | 2026-06-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 16 | [vanreece/figure-grounded-eval](https://github.com/vanreece/figure-grounded-eval) | 0 | Python | 2026-06-18 | A judge-free figure-presence check for LLM evals on fact-heavy tasks — grounded recall as a cheap complement to LLM-as-j |
-| 17 | [rishika7006/kvgate](https://github.com/rishika7006/kvgate) | 0 | Python | 2026-06-18 | Multimodal LLM inference gateway with KV-cache-aware routing and LMCache offload. OpenAI-compatible, benchmarked on GPUs |
-| 18 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29341 | TypeScript | 2026-06-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 5 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29342 | TypeScript | 2026-06-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 6 | [prashar32/riskkernel](https://github.com/prashar32/riskkernel) | 18 | Go | 2026-06-18 | Deterministic cost / loop / time budgets · full observability · crash-resumable runs · human-approval gates · a memory y |
+| 7 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5894 | Go | 2026-06-18 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 8 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | 4218 | TypeScript | 2026-06-18 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one  |
+| 9 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 40 | Python | 2026-06-18 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
+| 10 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-18 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 11 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-18 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 12 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50813 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 13 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-18 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 14 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-18 | The opinionated workflow engine and governance layer for agent-driven software development. |
+| 15 | [mezmo/aura](https://github.com/mezmo/aura) | 115 | Rust | 2026-06-18 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
+| 16 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22355 | TypeScript | 2026-06-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 17 | [vanreece/figure-grounded-eval](https://github.com/vanreece/figure-grounded-eval) | 0 | Python | 2026-06-18 | A judge-free figure-presence check for LLM evals on fact-heavy tasks — grounded recall as a cheap complement to LLM-as-j |
+| 18 | [rishika7006/kvgate](https://github.com/rishika7006/kvgate) | 0 | Python | 2026-06-18 | Multimodal LLM inference gateway with KV-cache-aware routing and LMCache offload. OpenAI-compatible, benchmarked on GPUs |
 | 19 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10190 | Python | 2026-06-18 | AI Observability & Evaluation |
 | 20 | [vasundras/cleave](https://github.com/vasundras/cleave) | 0 | Python | 2026-06-18 | A decision framework for agent boundary selection: when to extend an existing LLM agent vs. create a new agent or pod. C |
 | 21 | [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) | 440 | Python | 2026-06-18 | From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM  |
@@ -82,7 +82,7 @@ expired items removed — so you can rely on what you see being current.
 | 38 | [runcycles/cycles-spring-boot-starter](https://github.com/runcycles/cycles-spring-boot-starter) | 2 | Java | 2026-06-18 | Spring Boot starter for Cycles — runtime budget authority for AI agents |
 | 39 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28834 | TypeScript | 2026-06-18 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 40 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11458 | TypeScript | 2026-06-18 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
-| 41 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19693 | Python | 2026-06-18 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 41 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19694 | Python | 2026-06-18 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 42 | [gaurav-bhadane/Enterprise_Agentic_AI_Operations_Platform](https://github.com/gaurav-bhadane/Enterprise_Agentic_AI_Operations_Platform) | 0 | Python | 2026-06-18 | Enterprise Agentic AI Platform for autonomous pipeline monitoring, root cause analysis, incident retrieval, data quality |
 | 43 | [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) | 145 | TypeScript | 2026-06-18 | 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework |
 | 44 | [Josepavese/matrix](https://github.com/Josepavese/matrix) | 0 | Go | 2026-06-18 | Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent |
