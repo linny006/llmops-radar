@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 23:42 UTC
+> ⏰ Last updated: 2026-06-18 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-18 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 2 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7671 | Rust | 2026-06-18 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 3 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-18 | The opinionated workflow engine and governance layer for agent-driven software development. |
-| 4 | [manojmallick/skillweave](https://github.com/manojmallick/skillweave) | 0 | TypeScript | 2026-06-18 | An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills — orchestration, schema  |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-18 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 3 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7671 | Rust | 2026-06-18 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 4 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-18 | The opinionated workflow engine and governance layer for agent-driven software development. |
+| 5 | [manojmallick/skillweave](https://github.com/manojmallick/skillweave) | 0 | TypeScript | 2026-06-18 | An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills — orchestration, schema  |
 | 6 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 35 | TypeScript | 2026-06-18 | The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
 | 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10190 | Python | 2026-06-18 | AI Observability & Evaluation |
 | 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50817 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
