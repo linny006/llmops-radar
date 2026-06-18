@@ -1,10 +1,37 @@
 [
   {
+    "description": "Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals.",
+    "id": "EvanAI0331/aigit",
+    "language": "Python",
+    "name": "EvanAI0331/aigit",
+    "stars": 0,
+    "updated_at": "2026-06-18T17:29:21Z",
+    "url": "https://github.com/EvanAI0331/aigit"
+  },
+  {
+    "description": "GitHub org config, CI workflows, and community health files for Cycles",
+    "id": "runcycles/.github",
+    "language": "Shell",
+    "name": "runcycles/.github",
+    "stars": 0,
+    "updated_at": "2026-06-18T17:28:48Z",
+    "url": "https://github.com/runcycles/.github"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T17:28:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50800,
+    "stars": 50801,
     "updated_at": "2026-06-18T17:28:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -54,15 +81,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T17:15:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
     "id": "agentbreeder/agentbreeder",
     "language": "Python",
@@ -106,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T17:21:17Z",
     "url": "https://github.com/runcycles/cycles-spring-boot-starter"
-  },
-  {
-    "description": "Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals.",
-    "id": "EvanAI0331/aigit",
-    "language": "Python",
-    "name": "EvanAI0331/aigit",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:59:47Z",
-    "url": "https://github.com/EvanAI0331/aigit"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -284,7 +293,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5890,
-    "updated_at": "2026-06-18T17:25:32Z",
+    "updated_at": "2026-06-18T17:29:09Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-06-18T15:44:17Z",
+    "updated_at": "2026-06-18T17:29:01Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 139,
-    "updated_at": "2026-06-18T15:41:53Z",
+    "updated_at": "2026-06-18T17:28:45Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 10134,
     "updated_at": "2026-06-18T12:37:17Z",
     "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 137,
-    "updated_at": "2026-06-18T12:32:09Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
   }
 ]
