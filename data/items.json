@@ -1,12 +1,93 @@
 [
   {
+    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
+    "id": "mwigge/rs-llmctl",
+    "language": "Rust",
+    "name": "mwigge/rs-llmctl",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:15:14Z",
+    "url": "https://github.com/mwigge/rs-llmctl"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29311,
-    "updated_at": "2026-06-18T07:58:19Z",
+    "stars": 29310,
+    "updated_at": "2026-06-18T08:14:41Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Your agent proposes. Orca verifies. You decide. A drop-in verification layer for LLM/agent outputs: grounding, schema, P",
+    "id": "aisona-lab/OrcaI",
+    "language": "Python",
+    "name": "aisona-lab/OrcaI",
+    "stars": 1,
+    "updated_at": "2026-06-18T08:11:53Z",
+    "url": "https://github.com/aisona-lab/OrcaI"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5880,
+    "updated_at": "2026-06-18T08:09:30Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19687,
+    "updated_at": "2026-06-18T08:14:33Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Turn hard-won human experience into knowledge your AI agents can act on \u2014 a methodology (routing + Book-to-Skill + gover",
+    "id": "rafcip/lore",
+    "language": "Python",
+    "name": "rafcip/lore",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:07:41Z",
+    "url": "https://github.com/rafcip/lore"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2260,
+    "updated_at": "2026-06-18T08:07:34Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-18T08:15:19Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 2,
+    "updated_at": "2026-06-18T08:07:04Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T08:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -22,7 +103,7 @@
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
-    "stars": 138,
+    "stars": 139,
     "updated_at": "2026-06-18T07:56:53Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
@@ -45,15 +126,6 @@
     "url": "https://github.com/abhilashsblai/ctxlayer-release"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T07:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -72,24 +144,6 @@
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
-    "id": "chyinan/AegisRAG",
-    "language": "Python",
-    "name": "chyinan/AegisRAG",
-    "stars": 2,
-    "updated_at": "2026-06-18T07:28:01Z",
-    "url": "https://github.com/chyinan/AegisRAG"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19685,
-    "updated_at": "2026-06-18T07:55:31Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Measurement harness for benchmarking whether Codex instruction packages reduce token use without degrading task quality.",
     "id": "MacSteini/scaldex",
     "language": "Python",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T07:19:47Z",
     "url": "https://github.com/MacSteini/scaldex"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5879,
-    "updated_at": "2026-06-18T07:41:40Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T07:00:35Z",
     "url": "https://github.com/morning-verlu/KAI"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2260,
-    "updated_at": "2026-06-18T06:30:43Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
@@ -292,7 +328,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22340,
+    "stars": 22341,
     "updated_at": "2026-06-18T04:15:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T02:04:50Z",
     "url": "https://github.com/Radeonares32/LLMBrain"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-18T01:58:24Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
-    "id": "clearml/clearml",
-    "language": "Python",
-    "name": "clearml/clearml",
-    "stars": 6736,
-    "updated_at": "2026-06-18T01:38:11Z",
-    "url": "https://github.com/clearml/clearml"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-18T01:31:12Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "OpenClaw agent safety skill for action review, workflow verification, and optional PIC diagnostics",
-    "id": "kadubon/pic-openclaw-skill",
-    "language": "Python",
-    "name": "kadubon/pic-openclaw-skill",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:05:30Z",
-    "url": "https://github.com/kadubon/pic-openclaw-skill"
   }
 ]
