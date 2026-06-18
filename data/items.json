@@ -1,5 +1,32 @@
 [
   {
+    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
+    "id": "mwigge/rs-llmctl",
+    "language": "Rust",
+    "name": "mwigge/rs-llmctl",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:06:30Z",
+    "url": "https://github.com/mwigge/rs-llmctl"
+  },
+  {
+    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
+    "id": "dgenio/intentflow",
+    "language": "Python",
+    "name": "dgenio/intentflow",
+    "stars": 1,
+    "updated_at": "2026-06-18T09:01:52Z",
+    "url": "https://github.com/dgenio/intentflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T09:00:46Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
     "id": "mzlin2020/linming_llmops",
     "language": "Python",
@@ -36,15 +63,6 @@
     "url": "https://github.com/aisona-lab/OrcaI"
   },
   {
-    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
-    "id": "mwigge/rs-llmctl",
-    "language": "Rust",
-    "name": "mwigge/rs-llmctl",
-    "stars": 0,
-    "updated_at": "2026-06-18T08:47:51Z",
-    "url": "https://github.com/mwigge/rs-llmctl"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -63,15 +81,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T08:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -85,8 +94,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29315,
-    "updated_at": "2026-06-18T08:42:41Z",
+    "stars": 29316,
+    "updated_at": "2026-06-18T09:10:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19687,
-    "updated_at": "2026-06-18T08:57:33Z",
+    "updated_at": "2026-06-18T09:14:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -104,7 +113,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28827,
-    "updated_at": "2026-06-18T08:35:32Z",
+    "updated_at": "2026-06-18T09:03:36Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -149,7 +158,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5880,
-    "updated_at": "2026-06-18T08:54:42Z",
+    "updated_at": "2026-06-18T09:06:24Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -167,7 +176,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2260,
-    "updated_at": "2026-06-18T08:07:34Z",
+    "updated_at": "2026-06-18T09:03:02Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -176,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-18T09:00:42Z",
+    "updated_at": "2026-06-18T09:13:01Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -230,7 +239,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11457,
-    "updated_at": "2026-06-18T08:46:30Z",
+    "updated_at": "2026-06-18T09:13:15Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -247,7 +256,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50766,
+    "stars": 50768,
     "updated_at": "2026-06-18T07:09:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -439,14 +448,5 @@
     "stars": 472,
     "updated_at": "2026-06-18T03:59:25Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5436,
-    "updated_at": "2026-06-18T03:50:58Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   }
 ]
