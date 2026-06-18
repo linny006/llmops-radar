@@ -1,5 +1,77 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-18T09:57:59Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Build reliable, secure, and production-ready AI apps easily.",
+    "id": "Portkey-AI/portkey-python-sdk",
+    "language": "Python",
+    "name": "Portkey-AI/portkey-python-sdk",
+    "stars": 116,
+    "updated_at": "2026-06-18T09:56:31Z",
+    "url": "https://github.com/Portkey-AI/portkey-python-sdk"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29320,
+    "updated_at": "2026-06-18T09:58:47Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5529,
+    "updated_at": "2026-06-18T09:52:57Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2260,
+    "updated_at": "2026-06-18T09:49:27Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-18T09:47:07Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5881,
+    "updated_at": "2026-06-18T09:56:28Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T09:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19687,
-    "updated_at": "2026-06-18T09:44:43Z",
+    "updated_at": "2026-06-18T09:55:37Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -36,33 +108,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T09:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5880,
-    "updated_at": "2026-06-18T09:26:59Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-18T09:44:59Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
     "description": "Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents",
     "id": "guanbear/OctoClaw",
     "language": "TypeScript",
@@ -70,15 +115,6 @@
     "stars": 61,
     "updated_at": "2026-06-18T09:21:39Z",
     "url": "https://github.com/guanbear/OctoClaw"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29319,
-    "updated_at": "2026-06-18T09:43:46Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 369,
-    "updated_at": "2026-06-18T09:30:01Z",
+    "updated_at": "2026-06-18T09:53:22Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -171,15 +207,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5528,
-    "updated_at": "2026-06-18T09:33:16Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
     "id": "ictseoyoungmin/HADARA",
     "language": "TypeScript",
@@ -198,24 +225,6 @@
     "url": "https://github.com/rafcip/lore"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2260,
-    "updated_at": "2026-06-18T09:03:02Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-18T09:40:33Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
     "id": "chyinan/AegisRAG",
     "language": "Python",
@@ -230,7 +239,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 139,
-    "updated_at": "2026-06-18T08:41:27Z",
+    "updated_at": "2026-06-18T09:50:29Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -257,7 +266,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11457,
-    "updated_at": "2026-06-18T09:20:12Z",
+    "updated_at": "2026-06-18T09:53:12Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -283,7 +292,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50771,
+    "stars": 50772,
     "updated_at": "2026-06-18T07:09:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -439,14 +448,5 @@
     "stars": 22346,
     "updated_at": "2026-06-18T04:15:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-06-18T04:09:48Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
   }
 ]
