@@ -1,11 +1,83 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T11:45:05Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-18T11:44:06Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Local-first context compression for AI agents \u2014 content-aware, reversible, zero runtime deps. Cuts agent token usage 40-",
+    "id": "jpoindexter/winnow",
+    "language": "TypeScript",
+    "name": "jpoindexter/winnow",
+    "stars": 0,
+    "updated_at": "2026-06-18T11:39:26Z",
+    "url": "https://github.com/jpoindexter/winnow"
+  },
+  {
+    "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
+    "id": "jimyoshida/dx-devops-landscape",
+    "language": "JavaScript",
+    "name": "jimyoshida/dx-devops-landscape",
+    "stars": 5,
+    "updated_at": "2026-06-18T11:39:17Z",
+    "url": "https://github.com/jimyoshida/dx-devops-landscape"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-18T11:37:07Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
+    "id": "Josepavese/matrix",
+    "language": "Go",
+    "name": "Josepavese/matrix",
+    "stars": 0,
+    "updated_at": "2026-06-18T11:37:42Z",
+    "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29326,
+    "updated_at": "2026-06-18T11:32:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T11:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5882,
-    "updated_at": "2026-06-18T11:26:16Z",
+    "updated_at": "2026-06-18T11:31:46Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -14,17 +86,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19687,
-    "updated_at": "2026-06-18T11:25:20Z",
+    "updated_at": "2026-06-18T11:39:13Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T11:23:41Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Build, Manage and Deploy AI/ML Systems",
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28829,
-    "updated_at": "2026-06-18T11:29:37Z",
+    "updated_at": "2026-06-18T11:33:18Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/chyinan/AegisRAG"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T11:15:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -88,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T11:14:23Z",
     "url": "https://github.com/mwigge/rs-llmctl"
-  },
-  {
-    "description": "Local-first context compression for AI agents \u2014 content-aware, reversible, zero runtime deps. Cuts agent token usage 40-",
-    "id": "jpoindexter/winnow",
-    "language": "TypeScript",
-    "name": "jpoindexter/winnow",
-    "stars": 0,
-    "updated_at": "2026-06-18T11:08:11Z",
-    "url": "https://github.com/jpoindexter/winnow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29325,
-    "updated_at": "2026-06-18T11:26:32Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
@@ -135,15 +171,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-18T10:52:04Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
     "id": "ictseoyoungmin/HADARA",
     "language": "TypeScript",
@@ -160,15 +187,6 @@
     "stars": 71,
     "updated_at": "2026-06-18T10:48:05Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-18T11:27:59Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 369,
-    "updated_at": "2026-06-18T11:24:58Z",
+    "updated_at": "2026-06-18T11:33:24Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 13,
     "updated_at": "2026-06-18T10:18:10Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
-    "id": "Josepavese/matrix",
-    "language": "Go",
-    "name": "Josepavese/matrix",
-    "stars": 0,
-    "updated_at": "2026-06-18T10:14:44Z",
-    "url": "https://github.com/Josepavese/matrix"
   },
   {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
@@ -427,7 +436,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50778,
+    "stars": 50783,
     "updated_at": "2026-06-18T07:09:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T07:00:35Z",
     "url": "https://github.com/morning-verlu/KAI"
-  },
-  {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 38,
-    "updated_at": "2026-06-18T06:23:11Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   }
 ]
