@@ -5,8 +5,62 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-18T22:14:59Z",
+    "updated_at": "2026-06-18T22:25:58Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Risk scoring for deciding how much supervision AI coding agents need.",
+    "id": "Aidan2111/agent-autonomy-score",
+    "language": "Python",
+    "name": "Aidan2111/agent-autonomy-score",
+    "stars": 0,
+    "updated_at": "2026-06-18T22:24:20Z",
+    "url": "https://github.com/Aidan2111/agent-autonomy-score"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-18T22:21:31Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 73,
+    "updated_at": "2026-06-18T22:21:22Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50816,
+    "updated_at": "2026-06-18T22:26:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10190,
+    "updated_at": "2026-06-18T22:28:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T22:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Python monorepo for the LLM data lifecycle: contract-linked ingestion, dataset curation, and observability.",
@@ -45,24 +99,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T22:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 73,
-    "updated_at": "2026-06-18T22:08:24Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
     "id": "DYAI2025/Plumbline",
     "language": "HTML",
@@ -70,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-06-18T22:06:20Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10190,
-    "updated_at": "2026-06-18T22:09:09Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -97,15 +124,6 @@
     "stars": 29345,
     "updated_at": "2026-06-18T21:33:35Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50815,
-    "updated_at": "2026-06-18T22:06:15Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -214,15 +232,6 @@
     "stars": 40,
     "updated_at": "2026-06-18T19:32:23Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-18T22:14:16Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
@@ -355,7 +364,7 @@
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
-    "stars": 140,
+    "stars": 141,
     "updated_at": "2026-06-18T17:28:45Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T16:17:00Z",
     "url": "https://github.com/gaurav-bhadane/Enterprise_Agentic_AI_Operations_Platform"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 145,
-    "updated_at": "2026-06-18T16:17:25Z",
-    "url": "https://github.com/langfuse/langfuse-js"
   }
 ]
