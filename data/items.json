@@ -1,21 +1,48 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19687,
+    "updated_at": "2026-06-18T12:00:06Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 2,
+    "updated_at": "2026-06-18T11:59:22Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-18T11:45:05Z",
+    "updated_at": "2026-06-18T11:59:14Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50784,
+    "updated_at": "2026-06-18T11:55:30Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-18T11:44:06Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "name": "langfuse/langfuse",
+    "stars": 29326,
+    "updated_at": "2026-06-18T11:59:34Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Local-first context compression for AI agents \u2014 content-aware, reversible, zero runtime deps. Cuts agent token usage 40-",
@@ -23,8 +50,26 @@
     "language": "TypeScript",
     "name": "jpoindexter/winnow",
     "stars": 0,
-    "updated_at": "2026-06-18T11:39:26Z",
+    "updated_at": "2026-06-18T11:46:34Z",
     "url": "https://github.com/jpoindexter/winnow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T11:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-18T11:57:12Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
@@ -54,40 +99,13 @@
     "url": "https://github.com/Josepavese/matrix"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29326,
-    "updated_at": "2026-06-18T11:32:49Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T11:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5882,
-    "updated_at": "2026-06-18T11:31:46Z",
+    "updated_at": "2026-06-18T11:55:51Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19687,
-    "updated_at": "2026-06-18T11:39:13Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Build, Manage and Deploy AI/ML Systems",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "Netflix/metaflow",
     "stars": 10134,
-    "updated_at": "2026-06-18T11:23:29Z",
+    "updated_at": "2026-06-18T11:45:25Z",
     "url": "https://github.com/Netflix/metaflow"
   },
   {
@@ -117,13 +135,13 @@
     "url": "https://github.com/mihaibc/ai-production-readiness-kit"
   },
   {
-    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
-    "id": "chyinan/AegisRAG",
-    "language": "Python",
-    "name": "chyinan/AegisRAG",
-    "stars": 2,
-    "updated_at": "2026-06-18T11:16:07Z",
-    "url": "https://github.com/chyinan/AegisRAG"
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4218,
+    "updated_at": "2026-06-18T11:59:37Z",
+    "url": "https://github.com/Agenta-AI/agenta"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -131,7 +149,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 18,
-    "updated_at": "2026-06-18T11:14:50Z",
+    "updated_at": "2026-06-18T11:58:16Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11456,
-    "updated_at": "2026-06-18T11:01:41Z",
+    "updated_at": "2026-06-18T11:59:10Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 369,
-    "updated_at": "2026-06-18T11:33:24Z",
+    "updated_at": "2026-06-18T11:53:11Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 13,
     "updated_at": "2026-06-18T10:18:10Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4217,
-    "updated_at": "2026-06-18T11:16:43Z",
-    "url": "https://github.com/Agenta-AI/agenta"
   },
   {
     "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
@@ -310,7 +319,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26598,
+    "stars": 26600,
     "updated_at": "2026-06-18T09:34:06Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -364,7 +373,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 7666,
+    "stars": 7667,
     "updated_at": "2026-06-18T08:38:16Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -392,7 +401,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 139,
-    "updated_at": "2026-06-18T11:25:31Z",
+    "updated_at": "2026-06-18T11:47:49Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -430,15 +439,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T07:19:47Z",
     "url": "https://github.com/MacSteini/scaldex"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50783,
-    "updated_at": "2026-06-18T07:09:07Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
