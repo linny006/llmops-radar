@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 01:41 UTC
+> ⏰ Last updated: 2026-06-18 01:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 1 | Python | 2026-06-18 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
-| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50727 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50728 | Python | 2026-06-18 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 3 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 1 | Python | 2026-06-18 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
 | 4 | [clearml/clearml](https://github.com/clearml/clearml) | 6734 | Python | 2026-06-18 | ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra |
 | 5 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-06-18 | Verifiable proof-of-efficiency compute credit for LLM spend — prove your inference savings instead of trusting a dashboa |
 | 6 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2258 | C++ | 2026-06-18 | Community maintained hardware plugin for vLLM on Ascend |
