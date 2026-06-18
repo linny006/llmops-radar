@@ -1,5 +1,32 @@
 [
   {
+    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
+    "id": "SynaLinks/synalinks",
+    "language": "Python",
+    "name": "SynaLinks/synalinks",
+    "stars": 440,
+    "updated_at": "2026-06-18T18:52:57Z",
+    "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 115,
+    "updated_at": "2026-06-18T18:51:34Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-18T18:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A 60-line, zero-dependency guard that stops a runaway AI agent from burning your money in a loop. Step budget + loop det",
     "id": "hiwasham/loopbreaker",
     "language": "Python",
@@ -9,13 +36,13 @@
     "url": "https://github.com/hiwasham/loopbreaker"
   },
   {
-    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 440,
-    "updated_at": "2026-06-18T18:39:24Z",
-    "url": "https://github.com/SynaLinks/synalinks"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29339,
+    "updated_at": "2026-06-18T18:34:46Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Cost-bounded autonomy for LLM agent fleets: runtime budget enforcement, per-agent/per-task attribution, and statistical ",
@@ -25,24 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T18:31:34Z",
     "url": "https://github.com/vasundras/fleet-caliper"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T18:30:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 114,
-    "updated_at": "2026-06-18T18:30:05Z",
-    "url": "https://github.com/mezmo/aura"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50807,
-    "updated_at": "2026-06-18T18:11:23Z",
+    "updated_at": "2026-06-18T19:00:21Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -81,15 +90,6 @@
     "url": "https://github.com/starbaser/ccproxy"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29339,
-    "updated_at": "2026-06-18T18:34:46Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
     "id": "chyinan/AegisRAG",
     "language": "Python",
@@ -106,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T17:55:52Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26607,
+    "updated_at": "2026-06-18T17:54:23Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals.",
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1055,
-    "updated_at": "2026-06-18T18:33:55Z",
+    "updated_at": "2026-06-18T18:58:11Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -256,7 +265,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19692,
+    "stars": 19693,
     "updated_at": "2026-06-18T16:19:50Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10190,
-    "updated_at": "2026-06-18T18:44:50Z",
+    "updated_at": "2026-06-18T18:55:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 404,
     "updated_at": "2026-06-18T14:49:18Z",
     "url": "https://github.com/traceloop/openllmetry-js"
-  },
-  {
-    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
-    "id": "mwigge/rs-llmctl",
-    "language": "Rust",
-    "name": "mwigge/rs-llmctl",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:03:08Z",
-    "url": "https://github.com/mwigge/rs-llmctl"
   }
 ]
