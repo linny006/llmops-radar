@@ -1,12 +1,21 @@
 [
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-06-18T20:25:32Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
+    "name": "BerriAI/litellm",
+    "stars": 50814,
+    "updated_at": "2026-06-18T20:44:05Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-06-18T20:42:53Z",
+    "url": "https://github.com/vivek-541/vivek-541"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,16 +23,25 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-18T20:24:43Z",
+    "updated_at": "2026-06-18T20:39:54Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Compact Knowledge Graph MCP server \u2014 42\u00d7 more efficient than RAG on structural queries",
+    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 35,
+    "updated_at": "2026-06-18T20:38:29Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Compressed Knowledge Graph MCP server \u2014 42\u00d7 more efficient than RAG on structural queries",
     "id": "Yarmoluk/ckg-mcp",
     "language": "Python",
     "name": "Yarmoluk/ckg-mcp",
     "stars": 3,
-    "updated_at": "2026-06-18T20:22:26Z",
+    "updated_at": "2026-06-18T20:34:17Z",
     "url": "https://github.com/Yarmoluk/ckg-mcp"
   },
   {
@@ -32,8 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-18T20:15:29Z",
+    "updated_at": "2026-06-18T20:30:29Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-18T20:37:46Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -50,7 +77,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29342,
-    "updated_at": "2026-06-18T19:57:44Z",
+    "updated_at": "2026-06-18T20:44:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T19:26:49Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50813,
-    "updated_at": "2026-06-18T20:18:13Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -414,15 +432,6 @@
     "url": "https://github.com/DerbSwag/devops-assistant-agent"
   },
   {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-06-18T15:58:29Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
     "description": "Open protocol for runtime budget and action authority over AI agents",
     "id": "runcycles/cycles-protocol",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 369,
     "updated_at": "2026-06-18T20:07:02Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:14:25Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
   }
 ]
