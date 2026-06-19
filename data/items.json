@@ -1,12 +1,66 @@
 [
   {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 138,
+    "updated_at": "2026-06-19T08:26:43Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
+    "id": "manojmallick/skillweave",
+    "language": "TypeScript",
+    "name": "manojmallick/skillweave",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:25:27Z",
+    "url": "https://github.com/manojmallick/skillweave"
+  },
+  {
+    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
+    "id": "w8123/EnterpriseAgentFramework",
+    "language": "Java",
+    "name": "w8123/EnterpriseAgentFramework",
+    "stars": 314,
+    "updated_at": "2026-06-19T08:24:42Z",
+    "url": "https://github.com/w8123/EnterpriseAgentFramework"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29363,
-    "updated_at": "2026-06-19T08:18:47Z",
+    "updated_at": "2026-06-19T08:28:07Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Free, open-source, self-hostable LLM gateway. One OpenAI- & Anthropic-compatible endpoint, 8 providers, automatic failov",
+    "id": "eruo005-dev/gatewayforai-com",
+    "language": "TypeScript",
+    "name": "eruo005-dev/gatewayforai-com",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:21:06Z",
+    "url": "https://github.com/eruo005-dev/gatewayforai-com"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-06-19T08:19:47Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T08:18:56Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -18,21 +72,12 @@
     "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T08:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19694,
-    "updated_at": "2026-06-19T08:13:48Z",
+    "updated_at": "2026-06-19T08:20:21Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -45,30 +90,12 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 138,
-    "updated_at": "2026-06-19T08:17:37Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-06-19T08:11:42Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5898,
-    "updated_at": "2026-06-19T08:00:55Z",
+    "updated_at": "2026-06-19T08:29:31Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -79,6 +106,15 @@
     "stars": 18,
     "updated_at": "2026-06-19T07:48:06Z",
     "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Framework-agnostic testing for AI agents \u2014 define pass/fail in plain English, run multi-turn tests, turn failures into a",
+    "id": "dinanjana/test-agent",
+    "language": "TypeScript",
+    "name": "dinanjana/test-agent",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:30:07Z",
+    "url": "https://github.com/dinanjana/test-agent"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5453,
-    "updated_at": "2026-06-19T08:17:30Z",
+    "updated_at": "2026-06-19T08:27:43Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -130,7 +166,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28846,
+    "stars": 28848,
     "updated_at": "2026-06-19T06:44:35Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "openlit/openlit",
     "stars": 2534,
-    "updated_at": "2026-06-19T06:01:11Z",
+    "updated_at": "2026-06-19T08:19:50Z",
     "url": "https://github.com/openlit/openlit"
   },
   {
@@ -256,7 +292,7 @@
     "id": "melaya-labs/melaya",
     "language": "C#",
     "name": "melaya-labs/melaya",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-06-19T05:38:28Z",
     "url": "https://github.com/melaya-labs/melaya"
   },
@@ -328,7 +364,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22367,
+    "stars": 22368,
     "updated_at": "2026-06-19T03:48:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5438,
-    "updated_at": "2026-06-19T08:09:26Z",
+    "updated_at": "2026-06-19T08:19:00Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6484,
     "updated_at": "2026-06-19T01:53:26Z",
     "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10191,
-    "updated_at": "2026-06-19T01:45:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
-    "id": "manojmallick/skillweave",
-    "language": "TypeScript",
-    "name": "manojmallick/skillweave",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:36:49Z",
-    "url": "https://github.com/manojmallick/skillweave"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-19T01:05:07Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
-    "id": "w8123/EnterpriseAgentFramework",
-    "language": "Java",
-    "name": "w8123/EnterpriseAgentFramework",
-    "stars": 314,
-    "updated_at": "2026-06-19T00:54:56Z",
-    "url": "https://github.com/w8123/EnterpriseAgentFramework"
   }
 ]
