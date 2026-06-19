@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 20:45 UTC
+> ⏰ Last updated: 2026-06-19 20:57 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-19 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 2 | [forjd/agentprov](https://github.com/forjd/agentprov) | 1 | Rust | 2026-06-19 | Signed, tamper-evident provenance records for AI agent runs |
-| 3 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1037 | Python | 2026-06-19 | OpenTelemetry Instrumentation for AI Observability |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [forjd/agentprov](https://github.com/forjd/agentprov) | 1 | Rust | 2026-06-19 | Signed, tamper-evident provenance records for AI agent runs |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-19 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 4 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1037 | Python | 2026-06-19 | OpenTelemetry Instrumentation for AI Observability |
 | 5 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5905 | Go | 2026-06-19 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 6 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28861 | TypeScript | 2026-06-19 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 7 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-19 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
@@ -81,17 +81,17 @@ expired items removed — so you can rely on what you see being current.
 | 37 | [iblai/os](https://github.com/iblai/os) | 12 | TypeScript | 2026-06-19 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
 | 38 | [akbar-yusupov/ContextGate](https://github.com/akbar-yusupov/ContextGate) | 2 | Python | 2026-06-19 | Evidence-gated RAG infrastructure for grounded, cited answers or structured abstentions - with hybrid retrieval, OpenAI- |
 | 39 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10197 | Python | 2026-06-19 | AI Observability & Evaluation |
-| 40 | [Yarmoluk/ckg-mcp](https://github.com/Yarmoluk/ckg-mcp) | 3 | Python | 2026-06-19 | Compressed Knowledge Graph MCP server — 42× more efficient than RAG on structural queries |
-| 41 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 370 | Python | 2026-06-19 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
-| 42 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 3 | Java | 2026-06-19 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
-| 43 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3018 | TypeScript | 2026-06-19 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
-| 44 | [runcycles/cycles-protocol](https://github.com/runcycles/cycles-protocol) | 3 | Python | 2026-06-19 | Open protocol for runtime budget and action authority over AI agents |
-| 45 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26634 | Python | 2026-06-19 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 46 | [mezmo/aura](https://github.com/mezmo/aura) | 118 | Rust | 2026-06-19 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
-| 47 | [amikumar91/ai-systems-engineering](https://github.com/amikumar91/ai-systems-engineering) | 2 | JavaScript | 2026-06-19 | A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps — built for engineers shipping AI syst |
-| 48 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 31 | Python | 2026-06-19 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
-| 49 | [langfuse/langfuse-workshop](https://github.com/langfuse/langfuse-workshop) | 13 | TypeScript | 2026-06-19 | End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni |
-| 50 | [abhilashsblai/ctxlayer-release](https://github.com/abhilashsblai/ctxlayer-release) | 0 | — | 2026-06-19 | CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex. |
+| 40 | [zenml-io/zenml](https://github.com/zenml-io/zenml) | 5454 | Python | 2026-06-19 | ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io. |
+| 41 | [Yarmoluk/ckg-mcp](https://github.com/Yarmoluk/ckg-mcp) | 3 | Python | 2026-06-19 | Compressed Knowledge Graph MCP server — 42× more efficient than RAG on structural queries |
+| 42 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 370 | Python | 2026-06-19 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
+| 43 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 3 | Java | 2026-06-19 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
+| 44 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3018 | TypeScript | 2026-06-19 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
+| 45 | [runcycles/cycles-protocol](https://github.com/runcycles/cycles-protocol) | 3 | Python | 2026-06-19 | Open protocol for runtime budget and action authority over AI agents |
+| 46 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26634 | Python | 2026-06-19 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 47 | [mezmo/aura](https://github.com/mezmo/aura) | 118 | Rust | 2026-06-19 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
+| 48 | [amikumar91/ai-systems-engineering](https://github.com/amikumar91/ai-systems-engineering) | 2 | JavaScript | 2026-06-19 | A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps — built for engineers shipping AI syst |
+| 49 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 31 | Python | 2026-06-19 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
+| 50 | [langfuse/langfuse-workshop](https://github.com/langfuse/langfuse-workshop) | 13 | TypeScript | 2026-06-19 | End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni |
 <!-- TRACKER_TABLE_END -->
 
 ---

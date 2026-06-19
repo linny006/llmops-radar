@@ -1,5 +1,23 @@
 [
   {
+    "description": "Signed, tamper-evident provenance records for AI agent runs",
+    "id": "forjd/agentprov",
+    "language": "Rust",
+    "name": "forjd/agentprov",
+    "stars": 1,
+    "updated_at": "2026-06-19T20:52:53Z",
+    "url": "https://github.com/forjd/agentprov"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T20:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -9,15 +27,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Signed, tamper-evident provenance records for AI agent runs",
-    "id": "forjd/agentprov",
-    "language": "Rust",
-    "name": "forjd/agentprov",
-    "stars": 1,
-    "updated_at": "2026-06-19T20:36:21Z",
-    "url": "https://github.com/forjd/agentprov"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 1037,
     "updated_at": "2026-06-19T20:31:18Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T20:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -113,7 +113,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-19T20:42:12Z",
+    "updated_at": "2026-06-19T20:56:51Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -140,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-19T20:37:51Z",
+    "updated_at": "2026-06-19T20:53:10Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -158,7 +158,7 @@
     "language": "TypeScript",
     "name": "JonyKarmakar/vision-command-ai",
     "stars": 0,
-    "updated_at": "2026-06-19T18:44:09Z",
+    "updated_at": "2026-06-19T20:51:37Z",
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
   },
   {
@@ -293,7 +293,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19698,
-    "updated_at": "2026-06-19T17:09:03Z",
+    "updated_at": "2026-06-19T20:55:22Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -349,6 +349,15 @@
     "stars": 10197,
     "updated_at": "2026-06-19T18:55:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5454,
+    "updated_at": "2026-06-19T15:48:50Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "Compressed Knowledge Graph MCP server \u2014 42\u00d7 more efficient than RAG on structural queries",
@@ -439,14 +448,5 @@
     "stars": 13,
     "updated_at": "2026-06-19T14:54:18Z",
     "url": "https://github.com/langfuse/langfuse-workshop"
-  },
-  {
-    "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
-    "id": "abhilashsblai/ctxlayer-release",
-    "language": "\u2014",
-    "name": "abhilashsblai/ctxlayer-release",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:43:13Z",
-    "url": "https://github.com/abhilashsblai/ctxlayer-release"
   }
 ]
