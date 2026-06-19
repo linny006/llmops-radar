@@ -1,5 +1,59 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:14:12Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
+    "id": "shaikn6/llmops-eval-platform",
+    "language": "Python",
+    "name": "shaikn6/llmops-eval-platform",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:10:37Z",
+    "url": "https://github.com/shaikn6/llmops-eval-platform"
+  },
+  {
+    "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
+    "id": "shaikn6/llm-gateway",
+    "language": "Python",
+    "name": "shaikn6/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:10:13Z",
+    "url": "https://github.com/shaikn6/llm-gateway"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 2,
+    "updated_at": "2026-06-19T06:10:06Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T06:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50843,
+    "updated_at": "2026-06-19T06:00:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -18,49 +72,13 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 2,
-    "updated_at": "2026-06-19T05:55:59Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 9,
-    "updated_at": "2026-06-19T05:55:59Z",
+    "updated_at": "2026-06-19T06:12:03Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
-    "id": "shaikn6/llm-gateway",
-    "language": "Python",
-    "name": "shaikn6/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:53:00Z",
-    "url": "https://github.com/shaikn6/llm-gateway"
-  },
-  {
-    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
-    "id": "shaikn6/llmops-eval-platform",
-    "language": "Python",
-    "name": "shaikn6/llmops-eval-platform",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:54:59Z",
-    "url": "https://github.com/shaikn6/llmops-eval-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T05:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
@@ -108,15 +126,6 @@
     "url": "https://github.com/mezmo/aura"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:58:07Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "A reliability harness for LLM features: datasets, scorers (incl. execution-based SQL + LLM-as-judge), guardrails, and a ",
     "id": "sani-savaliya/evalops",
     "language": "Python",
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T04:51:34Z",
     "url": "https://github.com/sani-savaliya/evalops"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50842,
-    "updated_at": "2026-06-19T06:00:16Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -310,7 +310,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28841,
+    "stars": 28842,
     "updated_at": "2026-06-19T00:33:20Z",
     "url": "https://github.com/ComposioHQ/composio"
   },

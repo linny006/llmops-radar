@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 06:00 UTC
+> ⏰ Last updated: 2026-06-19 06:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26612 | Python | 2026-06-19 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 2 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-06-19 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 3 | [VamsiSudhakaran1/release-gate](https://github.com/VamsiSudhakaran1/release-gate) | 2 | Python | 2026-06-19 | 🚪 Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity |
-| 4 | [spanlens/Spanlens](https://github.com/spanlens/Spanlens) | 9 | TypeScript | 2026-06-19 | Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost |
-| 5 | [shaikn6/llm-gateway](https://github.com/shaikn6/llm-gateway) | 0 | Python | 2026-06-19 | Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a |
-| 6 | [shaikn6/llmops-eval-platform](https://github.com/shaikn6/llmops-eval-platform) | 0 | Python | 2026-06-19 | LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard. |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [melaya-labs/melaya](https://github.com/melaya-labs/melaya) | 3 | C# | 2026-06-19 | AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust |
-| 9 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-19 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 10 | [prasad-kavuri/prasad-portfolio](https://github.com/prasad-kavuri/prasad-portfolio) | 0 | TypeScript | 2026-06-19 | VP / Head of AI Engineering portfolio — 14 production AI demos, governance-first architecture. prasadkavuri.com |
-| 11 | [Neeeophytee/awesome-ai-workflows](https://github.com/Neeeophytee/awesome-ai-workflows) | 6 | Shell | 2026-06-19 | 75+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks. |
-| 12 | [mezmo/aura](https://github.com/mezmo/aura) | 115 | Rust | 2026-06-19 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
-| 13 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-19 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 14 | [sani-savaliya/evalops](https://github.com/sani-savaliya/evalops) | 0 | Python | 2026-06-19 | A reliability harness for LLM features: datasets, scorers (incl. execution-based SQL + LLM-as-judge), guardrails, and a  |
-| 15 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50842 | Python | 2026-06-19 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-19 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 2 | [shaikn6/llmops-eval-platform](https://github.com/shaikn6/llmops-eval-platform) | 0 | Python | 2026-06-19 | LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard. |
+| 3 | [shaikn6/llm-gateway](https://github.com/shaikn6/llm-gateway) | 0 | Python | 2026-06-19 | Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a |
+| 4 | [VamsiSudhakaran1/release-gate](https://github.com/VamsiSudhakaran1/release-gate) | 2 | Python | 2026-06-19 | 🚪 Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50843 | Python | 2026-06-19 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 7 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26612 | Python | 2026-06-19 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 8 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-06-19 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 9 | [spanlens/Spanlens](https://github.com/spanlens/Spanlens) | 9 | TypeScript | 2026-06-19 | Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost |
+| 10 | [melaya-labs/melaya](https://github.com/melaya-labs/melaya) | 3 | C# | 2026-06-19 | AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust |
+| 11 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-19 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 12 | [prasad-kavuri/prasad-portfolio](https://github.com/prasad-kavuri/prasad-portfolio) | 0 | TypeScript | 2026-06-19 | VP / Head of AI Engineering portfolio — 14 production AI demos, governance-first architecture. prasadkavuri.com |
+| 13 | [Neeeophytee/awesome-ai-workflows](https://github.com/Neeeophytee/awesome-ai-workflows) | 6 | Shell | 2026-06-19 | 75+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks. |
+| 14 | [mezmo/aura](https://github.com/mezmo/aura) | 115 | Rust | 2026-06-19 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
+| 15 | [sani-savaliya/evalops](https://github.com/sani-savaliya/evalops) | 0 | Python | 2026-06-19 | A reliability harness for LLM features: datasets, scorers (incl. execution-based SQL + LLM-as-judge), guardrails, and a  |
 | 16 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-19 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 17 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5896 | Go | 2026-06-19 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 18 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 35 | TypeScript | 2026-06-19 | The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
@@ -76,7 +76,7 @@ expired items removed — so you can rely on what you see being current.
 | 32 | [manojmallick/skillweave](https://github.com/manojmallick/skillweave) | 0 | TypeScript | 2026-06-19 | An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills — orchestration, schema  |
 | 33 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-19 | The opinionated workflow engine and governance layer for agent-driven software development. |
 | 34 | [w8123/EnterpriseAgentFramework](https://github.com/w8123/EnterpriseAgentFramework) | 314 | Java | 2026-06-19 | Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen |
-| 35 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28841 | TypeScript | 2026-06-19 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 35 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28842 | TypeScript | 2026-06-19 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 36 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-19 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
 | 37 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-19 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 38 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 10 | — | 2026-06-19 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
