@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 03:45 UTC
+> ⏰ Last updated: 2026-06-19 04:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26611 | Python | 2026-06-19 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 2 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 20 | Python | 2026-06-19 | ⚡ Awesome AI Gateway — curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress, |
-| 3 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-06-19 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
-| 4 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7673 | Rust | 2026-06-19 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50831 | Python | 2026-06-19 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 1 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7673 | Rust | 2026-06-19 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 2 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26611 | Python | 2026-06-19 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 20 | Python | 2026-06-19 | ⚡ Awesome AI Gateway — curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress, |
+| 5 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-06-19 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
+| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50833 | Python | 2026-06-19 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 7 | [spanlens/Spanlens](https://github.com/spanlens/Spanlens) | 9 | TypeScript | 2026-06-19 | Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost |
 | 8 | [kalyan-venk/agentic-llmops](https://github.com/kalyan-venk/agentic-llmops) | 1 | TeX | 2026-06-19 | Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o |
 | 9 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 35 | TypeScript | 2026-06-19 | The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
@@ -78,7 +78,7 @@ expired items removed — so you can rely on what you see being current.
 | 34 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | 4220 | TypeScript | 2026-06-18 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one  |
 | 35 | [iblai/os](https://github.com/iblai/os) | 12 | TypeScript | 2026-06-18 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
 | 36 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-06-19 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 37 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3015 | TypeScript | 2026-06-18 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
+| 37 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3015 | TypeScript | 2026-06-19 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
 | 38 | [prashar32/riskkernel](https://github.com/prashar32/riskkernel) | 18 | Go | 2026-06-18 | Deterministic cost / loop / time budgets · full observability · crash-resumable runs · human-approval gates · a memory y |
 | 39 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-18 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
 | 40 | [Yarmoluk/ckg-mcp](https://github.com/Yarmoluk/ckg-mcp) | 3 | Python | 2026-06-18 | Compressed Knowledge Graph MCP server — 42× more efficient than RAG on structural queries |
