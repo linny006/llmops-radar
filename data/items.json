@@ -1,11 +1,83 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29363,
+    "updated_at": "2026-06-19T08:44:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:42:32Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
+    "id": "abhilashsblai/ctxlayer-release",
+    "language": "\u2014",
+    "name": "abhilashsblai/ctxlayer-release",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:41:05Z",
+    "url": "https://github.com/abhilashsblai/ctxlayer-release"
+  },
+  {
+    "description": "Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ",
+    "id": "mihaibc/ai-production-readiness-kit",
+    "language": "Python",
+    "name": "mihaibc/ai-production-readiness-kit",
+    "stars": 2,
+    "updated_at": "2026-06-19T08:39:03Z",
+    "url": "https://github.com/mihaibc/ai-production-readiness-kit"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19694,
+    "updated_at": "2026-06-19T08:44:51Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1055,
+    "updated_at": "2026-06-19T08:40:26Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
+    "id": "w8123/EnterpriseAgentFramework",
+    "language": "Java",
+    "name": "w8123/EnterpriseAgentFramework",
+    "stars": 314,
+    "updated_at": "2026-06-19T08:31:34Z",
+    "url": "https://github.com/w8123/EnterpriseAgentFramework"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T08:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
     "id": "ferro-labs/ai-gateway",
     "language": "Go",
     "name": "ferro-labs/ai-gateway",
     "stars": 138,
-    "updated_at": "2026-06-19T08:26:43Z",
+    "updated_at": "2026-06-19T08:33:02Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
@@ -16,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T08:25:27Z",
     "url": "https://github.com/manojmallick/skillweave"
-  },
-  {
-    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
-    "id": "w8123/EnterpriseAgentFramework",
-    "language": "Java",
-    "name": "w8123/EnterpriseAgentFramework",
-    "stars": 314,
-    "updated_at": "2026-06-19T08:24:42Z",
-    "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29363,
-    "updated_at": "2026-06-19T08:28:07Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Free, open-source, self-hostable LLM gateway. One OpenAI- & Anthropic-compatible endpoint, 8 providers, automatic failov",
@@ -54,15 +108,6 @@
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T08:18:56Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
     "id": "ictseoyoungmin/HADARA",
     "language": "TypeScript",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T08:16:23Z",
     "url": "https://github.com/ictseoyoungmin/HADARA"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19694,
-    "updated_at": "2026-06-19T08:20:21Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -108,6 +144,15 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
+    "description": "A fast, local-first AI gateway in Rust \u2014 route any coding CLI (Claude Code, Codex, Cursor\u2026) to 40+ LLM providers, save t",
+    "id": "merido-dev/merido",
+    "language": "Rust",
+    "name": "merido-dev/merido",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:43:41Z",
+    "url": "https://github.com/merido-dev/merido"
+  },
+  {
     "description": "Framework-agnostic testing for AI agents \u2014 define pass/fail in plain English, run multi-turn tests, turn failures into a",
     "id": "dinanjana/test-agent",
     "language": "TypeScript",
@@ -117,13 +162,13 @@
     "url": "https://github.com/dinanjana/test-agent"
   },
   {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:27:08Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7675,
+    "updated_at": "2026-06-19T07:14:39Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals.",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5453,
-    "updated_at": "2026-06-19T08:27:43Z",
+    "updated_at": "2026-06-19T08:38:41Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -166,18 +211,18 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28848,
+    "stars": 28849,
     "updated_at": "2026-06-19T06:44:35Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7674,
-    "updated_at": "2026-06-19T07:14:39Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1231,
+    "updated_at": "2026-06-19T06:35:00Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -283,7 +328,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26613,
+    "stars": 26614,
     "updated_at": "2026-06-19T05:59:44Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -340,15 +385,6 @@
     "stars": 35,
     "updated_at": "2026-06-19T04:36:46Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
-    "id": "abhilashsblai/ctxlayer-release",
-    "language": "\u2014",
-    "name": "abhilashsblai/ctxlayer-release",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:33:54Z",
-    "url": "https://github.com/abhilashsblai/ctxlayer-release"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -412,41 +448,5 @@
     "stars": 21,
     "updated_at": "2026-06-19T03:05:53Z",
     "url": "https://github.com/zendev-sh/zenflow"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 31,
-    "updated_at": "2026-06-19T06:25:56Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5438,
-    "updated_at": "2026-06-19T08:19:00Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-19T02:38:50Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and o",
-    "id": "GoogleCloudPlatform/agent-starter-pack",
-    "language": "Python",
-    "name": "GoogleCloudPlatform/agent-starter-pack",
-    "stars": 6484,
-    "updated_at": "2026-06-19T01:53:26Z",
-    "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
   }
 ]
