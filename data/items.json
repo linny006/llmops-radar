@@ -1,21 +1,66 @@
 [
   {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-19T00:30:17Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-19T00:29:55Z",
+    "updated_at": "2026-06-19T00:45:01Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "",
+    "id": "Korck-lab/claude-code-optimizer",
+    "language": "Python",
+    "name": "Korck-lab/claude-code-optimizer",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:43:03Z",
+    "url": "https://github.com/Korck-lab/claude-code-optimizer"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22358,
+    "updated_at": "2026-06-19T00:41:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50818,
+    "updated_at": "2026-06-19T00:38:10Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
+    "id": "manojmallick/skillweave",
+    "language": "TypeScript",
+    "name": "manojmallick/skillweave",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:38:56Z",
+    "url": "https://github.com/manojmallick/skillweave"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T00:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-19T00:30:30Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -36,24 +81,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "",
-    "id": "Korck-lab/claude-code-optimizer",
-    "language": "Python",
-    "name": "Korck-lab/claude-code-optimizer",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:25:12Z",
-    "url": "https://github.com/Korck-lab/claude-code-optimizer"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22358,
-    "updated_at": "2026-06-19T00:28:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -63,15 +90,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T00:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -79,24 +97,6 @@
     "stars": 10,
     "updated_at": "2026-06-19T00:03:22Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
-    "id": "manojmallick/skillweave",
-    "language": "TypeScript",
-    "name": "manojmallick/skillweave",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:02:52Z",
-    "url": "https://github.com/manojmallick/skillweave"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50818,
-    "updated_at": "2026-06-19T00:26:59Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Unified AI token usage telemetry \u2014 collect, store, and visualize token consumption across LiteLLM, OpenAI, Anthropic, Gi",
@@ -248,7 +248,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28836,
-    "updated_at": "2026-06-18T20:47:32Z",
+    "updated_at": "2026-06-19T00:33:20Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
