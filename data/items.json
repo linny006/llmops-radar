@@ -1,5 +1,41 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T17:08:45Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29383,
+    "updated_at": "2026-06-19T17:02:41Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T17:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22379,
+    "updated_at": "2026-06-19T17:00:08Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
     "id": "JonyKarmakar/vision-command-ai",
     "language": "TypeScript",
@@ -9,40 +45,13 @@
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22378,
-    "updated_at": "2026-06-19T17:00:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:52:26Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-06-19T16:47:42Z",
+    "updated_at": "2026-06-19T17:11:42Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T16:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50905,
-    "updated_at": "2026-06-19T16:44:48Z",
+    "updated_at": "2026-06-19T17:10:56Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-19T16:59:23Z",
+    "updated_at": "2026-06-19T17:15:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -67,7 +76,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28857,
+    "stars": 28858,
     "updated_at": "2026-06-19T16:39:51Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -90,21 +99,12 @@
     "url": "https://github.com/merido-dev/merido"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29382,
-    "updated_at": "2026-06-19T17:00:15Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 12,
-    "updated_at": "2026-06-19T16:42:30Z",
+    "updated_at": "2026-06-19T17:02:35Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -122,7 +122,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-19T16:51:34Z",
+    "updated_at": "2026-06-19T17:12:16Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -176,7 +176,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3018,
-    "updated_at": "2026-06-19T16:56:54Z",
+    "updated_at": "2026-06-19T17:13:30Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -266,7 +266,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19698,
-    "updated_at": "2026-06-19T16:38:16Z",
+    "updated_at": "2026-06-19T17:09:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -328,7 +328,7 @@
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
-    "stars": 77,
+    "stars": 78,
     "updated_at": "2026-06-19T13:43:50Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
