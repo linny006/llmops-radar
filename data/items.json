@@ -1,12 +1,48 @@
 [
   {
+    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-spring-boot-starter",
+    "language": "Java",
+    "name": "runcycles/cycles-spring-boot-starter",
+    "stars": 2,
+    "updated_at": "2026-06-19T12:14:47Z",
+    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
+  },
+  {
+    "description": "Bulwark \u2014 LLM API cost-guard proxy. Hard spend caps, Bedtime Mode, caching. Stop your AI bill before it stops you.",
+    "id": "OpsToInnovator/bulwark",
+    "language": "TypeScript",
+    "name": "OpsToInnovator/bulwark",
+    "stars": 0,
+    "updated_at": "2026-06-19T12:04:22Z",
+    "url": "https://github.com/OpsToInnovator/bulwark"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29376,
-    "updated_at": "2026-06-19T11:56:14Z",
+    "updated_at": "2026-06-19T12:15:21Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T12:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 76,
+    "updated_at": "2026-06-19T12:10:17Z",
+    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
@@ -23,17 +59,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-19T11:57:46Z",
+    "updated_at": "2026-06-19T12:12:14Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T11:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19697,
-    "updated_at": "2026-06-19T11:59:17Z",
+    "updated_at": "2026-06-19T12:07:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T11:39:45Z",
     "url": "https://github.com/ictseoyoungmin/HADARA"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 75,
-    "updated_at": "2026-06-19T12:00:10Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 369,
-    "updated_at": "2026-06-19T11:31:16Z",
+    "updated_at": "2026-06-19T12:14:26Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T09:16:01Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-spring-boot-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-boot-starter",
-    "stars": 2,
-    "updated_at": "2026-06-19T09:05:41Z",
-    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
   },
   {
     "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
@@ -409,7 +418,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50873,
+    "stars": 50874,
     "updated_at": "2026-06-19T06:29:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -419,7 +428,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4221,
-    "updated_at": "2026-06-19T10:15:00Z",
+    "updated_at": "2026-06-19T12:07:19Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 41,
     "updated_at": "2026-06-19T10:45:07Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
-    "id": "shaikn6/llmops-eval-platform",
-    "language": "Python",
-    "name": "shaikn6/llmops-eval-platform",
-    "stars": 0,
-    "updated_at": "2026-06-19T06:10:37Z",
-    "url": "https://github.com/shaikn6/llmops-eval-platform"
   }
 ]
