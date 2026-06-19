@@ -1,21 +1,48 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5898,
-    "updated_at": "2026-06-19T06:59:53Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29360,
-    "updated_at": "2026-06-19T06:52:50Z",
+    "updated_at": "2026-06-19T07:12:49Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals.",
+    "id": "EvanAI0331/aigit",
+    "language": "Python",
+    "name": "EvanAI0331/aigit",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:12:02Z",
+    "url": "https://github.com/EvanAI0331/aigit"
+  },
+  {
+    "description": "Production-grade LLMOps platform \u2014 Git-style prompt versioning, A/B experiments with LLM-as-Judge scoring, drift detecti",
+    "id": "0DevDutt0/NeuralOps",
+    "language": "Python",
+    "name": "0DevDutt0/NeuralOps",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:08:24Z",
+    "url": "https://github.com/0DevDutt0/NeuralOps"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5899,
+    "updated_at": "2026-06-19T07:10:48Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T07:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
@@ -45,21 +72,12 @@
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T06:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 7674,
-    "updated_at": "2026-06-19T06:56:39Z",
+    "updated_at": "2026-06-19T07:14:39Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -67,7 +85,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50845,
+    "stars": 50846,
     "updated_at": "2026-06-19T06:29:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -160,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-06-19T06:10:13Z",
     "url": "https://github.com/shaikn6/llm-gateway"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2534,
+    "updated_at": "2026-06-19T06:01:11Z",
+    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -283,7 +310,7 @@
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 43,
+    "stars": 44,
     "updated_at": "2026-06-19T03:33:38Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "manojmallick/skillweave",
     "stars": 0,
-    "updated_at": "2026-06-19T06:46:20Z",
+    "updated_at": "2026-06-19T07:06:45Z",
     "url": "https://github.com/manojmallick/skillweave"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T22:47:44Z",
     "url": "https://github.com/DiogoRibeiro7/llm-data-platform"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "xinglun/ai-cockpit-template",
-    "language": "Python",
-    "name": "xinglun/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-06-18T22:46:11Z",
-    "url": "https://github.com/xinglun/ai-cockpit-template"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 74,
-    "updated_at": "2026-06-18T22:33:09Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Risk scoring for deciding how much supervision AI coding agents need.",
-    "id": "Aidan2111/agent-autonomy-score",
-    "language": "Python",
-    "name": "Aidan2111/agent-autonomy-score",
-    "stars": 0,
-    "updated_at": "2026-06-18T22:24:20Z",
-    "url": "https://github.com/Aidan2111/agent-autonomy-score"
   }
 ]
