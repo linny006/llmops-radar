@@ -1,5 +1,68 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50819,
+    "updated_at": "2026-06-19T01:14:27Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "",
+    "id": "Korck-lab/claude-code-optimizer",
+    "language": "Python",
+    "name": "Korck-lab/claude-code-optimizer",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:12:20Z",
+    "url": "https://github.com/Korck-lab/claude-code-optimizer"
+  },
+  {
+    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
+    "id": "manojmallick/skillweave",
+    "language": "TypeScript",
+    "name": "manojmallick/skillweave",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:11:05Z",
+    "url": "https://github.com/manojmallick/skillweave"
+  },
+  {
+    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 35,
+    "updated_at": "2026-06-19T01:14:15Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22358,
+    "updated_at": "2026-06-19T01:07:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-19T01:05:07Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T01:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
     "id": "w8123/EnterpriseAgentFramework",
     "language": "Java",
@@ -9,24 +72,6 @@
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22358,
-    "updated_at": "2026-06-19T00:54:17Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
-    "id": "manojmallick/skillweave",
-    "language": "TypeScript",
-    "name": "manojmallick/skillweave",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:53:47Z",
-    "url": "https://github.com/manojmallick/skillweave"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -34,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T00:45:26Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T00:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50818,
-    "updated_at": "2026-06-19T00:59:11Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -124,24 +151,6 @@
     "stars": 10190,
     "updated_at": "2026-06-18T23:49:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-19T00:22:36Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 35,
-    "updated_at": "2026-06-18T23:25:29Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-18T17:24:36Z",
     "url": "https://github.com/melaya-labs/melaya"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-06-18T17:24:09Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
   }
 ]
