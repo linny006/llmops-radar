@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10197,
+    "updated_at": "2026-06-19T22:58:16Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-19T22:57:46Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Marketing + Documentation Site for llama-dash",
+    "id": "ndom91/llama-dash-docs",
+    "language": "MDX",
+    "name": "ndom91/llama-dash-docs",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:56:33Z",
+    "url": "https://github.com/ndom91/llama-dash-docs"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:56:04Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:53:19Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:48:45Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 4,
+    "updated_at": "2026-06-19T22:45:44Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T22:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Signed, tamper-evident provenance records for AI agent runs",
     "id": "forjd/agentprov",
     "language": "Rust",
@@ -14,7 +86,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-19T22:41:10Z",
+    "updated_at": "2026-06-19T22:56:12Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -32,44 +104,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50916,
-    "updated_at": "2026-06-19T22:42:13Z",
+    "updated_at": "2026-06-19T22:57:18Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T22:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Marketing + Documentation Site for llama-dash",
-    "id": "ndom91/llama-dash-docs",
-    "language": "MDX",
-    "name": "ndom91/llama-dash-docs",
-    "stars": 0,
-    "updated_at": "2026-06-19T22:25:45Z",
-    "url": "https://github.com/ndom91/llama-dash-docs"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10197,
-    "updated_at": "2026-06-19T22:36:15Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T22:22:34Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -144,33 +180,6 @@
     "url": "https://github.com/jpoindexter/winnow"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:12:54Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-19T21:10:46Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:09:21Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
     "id": "JonyKarmakar/vision-command-ai",
     "language": "TypeScript",
@@ -178,6 +187,15 @@
     "stars": 0,
     "updated_at": "2026-06-19T21:02:28Z",
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22387,
+    "updated_at": "2026-06-19T21:01:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -364,18 +382,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29388,
-    "updated_at": "2026-06-19T17:02:41Z",
+    "stars": 29389,
+    "updated_at": "2026-06-19T22:57:55Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22386,
-    "updated_at": "2026-06-19T21:01:24Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A fast, local-first AI gateway in Rust \u2014 route any coding CLI (Claude Code, Codex, Cursor\u2026) to 40+ LLM providers, save t",
@@ -439,14 +448,5 @@
     "stars": 3018,
     "updated_at": "2026-06-19T17:13:30Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Open protocol for runtime budget and action authority over AI agents",
-    "id": "runcycles/cycles-protocol",
-    "language": "Python",
-    "name": "runcycles/cycles-protocol",
-    "stars": 3,
-    "updated_at": "2026-06-19T15:21:05Z",
-    "url": "https://github.com/runcycles/cycles-protocol"
   }
 ]
