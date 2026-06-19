@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-06-19T07:36:23Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T07:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19694,
-    "updated_at": "2026-06-19T07:29:08Z",
+    "updated_at": "2026-06-19T07:31:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -23,17 +41,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5899,
-    "updated_at": "2026-06-19T07:23:42Z",
+    "updated_at": "2026-06-19T07:31:55Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T07:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29360,
-    "updated_at": "2026-06-19T07:29:17Z",
+    "updated_at": "2026-06-19T07:38:47Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -54,6 +63,15 @@
     "url": "https://github.com/EvanAI0331/aigit"
   },
   {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5453,
+    "updated_at": "2026-06-19T07:09:29Z",
+    "url": "https://github.com/zenml-io/zenml"
+  },
+  {
     "description": "Production-grade LLMOps platform \u2014 Git-style prompt versioning, A/B experiments with LLM-as-Judge scoring, drift detecti",
     "id": "0DevDutt0/NeuralOps",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:08:24Z",
     "url": "https://github.com/0DevDutt0/NeuralOps"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-06-19T07:28:00Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "\u5f00\u6e90\u3001Docker \u4e00\u952e\u90e8\u7f72\u7684 LLMOps \u5e73\u53f0\uff1a\u5e94\u7528\u7f16\u6392 \u00b7 SSE \u6d41\u5f0f\u5bf9\u8bdd \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u5de5\u5177/\u63d2\u4ef6 \u00b7 \u52a9\u624b Agent\u3002\u5185\u7f6e\u8f7b\u91cf\u767b\u5f55\uff0cOpenAI \u517c\u5bb9\uff0c\u672c\u5730\u5d4c\u5165\u5f00\u7bb1\u5373\u7528\u3002",
@@ -85,7 +94,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28844,
+    "stars": 28845,
     "updated_at": "2026-06-19T06:44:35Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -103,7 +112,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50849,
+    "stars": 50852,
     "updated_at": "2026-06-19T06:29:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -225,6 +234,15 @@
     "url": "https://github.com/melaya-labs/melaya"
   },
   {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 116,
+    "updated_at": "2026-06-19T07:38:11Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -241,15 +259,6 @@
     "stars": 6,
     "updated_at": "2026-06-19T05:03:43Z",
     "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 115,
-    "updated_at": "2026-06-19T05:36:08Z",
-    "url": "https://github.com/mezmo/aura"
   },
   {
     "description": "A reliability harness for LLM features: datasets, scorers (incl. execution-based SQL + LLM-as-judge), guardrails, and a ",
@@ -301,7 +310,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22364,
+    "stars": 22365,
     "updated_at": "2026-06-19T03:48:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5438,
-    "updated_at": "2026-06-19T02:53:52Z",
+    "updated_at": "2026-06-19T07:31:57Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -387,12 +396,21 @@
     "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10191,
+    "updated_at": "2026-06-19T01:45:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
     "id": "manojmallick/skillweave",
     "language": "TypeScript",
     "name": "manojmallick/skillweave",
     "stars": 0,
-    "updated_at": "2026-06-19T07:06:45Z",
+    "updated_at": "2026-06-19T07:36:49Z",
     "url": "https://github.com/manojmallick/skillweave"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T23:59:53Z",
     "url": "https://github.com/drewid74/unified-token-telemetry"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10190,
-    "updated_at": "2026-06-19T01:45:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-spring-boot-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-boot-starter",
-    "stars": 2,
-    "updated_at": "2026-06-18T23:05:05Z",
-    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
   }
 ]
