@@ -1,21 +1,57 @@
 [
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-19T16:10:55Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3310,
+    "updated_at": "2026-06-19T16:29:47Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29382,
+    "updated_at": "2026-06-19T16:28:44Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50898,
-    "updated_at": "2026-06-19T16:09:55Z",
+    "stars": 50899,
+    "updated_at": "2026-06-19T16:28:17Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 12,
+    "updated_at": "2026-06-19T16:21:07Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:18:47Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Evidence-gated RAG infrastructure for grounded, cited answers or structured abstentions - with hybrid retrieval, OpenAI-",
+    "id": "akbar-yusupov/ContextGate",
+    "language": "Python",
+    "name": "akbar-yusupov/ContextGate",
+    "stars": 2,
+    "updated_at": "2026-06-19T16:16:29Z",
+    "url": "https://github.com/akbar-yusupov/ContextGate"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,17 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-19T16:00:27Z",
+    "updated_at": "2026-06-19T16:15:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3310,
-    "updated_at": "2026-06-19T16:11:23Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-19T16:10:55Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -63,15 +99,6 @@
     "url": "https://github.com/Yarmoluk/ckg-mcp"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29382,
-    "updated_at": "2026-06-19T15:35:43Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3018,
-    "updated_at": "2026-06-19T16:11:55Z",
+    "updated_at": "2026-06-19T16:21:15Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -103,18 +130,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22377,
+    "stars": 22378,
     "updated_at": "2026-06-19T15:26:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:22:14Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Open protocol for runtime budget and action authority over AI agents",
@@ -124,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-06-19T15:21:05Z",
     "url": "https://github.com/runcycles/cycles-protocol"
-  },
-  {
-    "description": "Evidence-gated RAG infrastructure for grounded, cited answers or structured abstentions - with hybrid retrieval, OpenAI-",
-    "id": "akbar-yusupov/ContextGate",
-    "language": "Python",
-    "name": "akbar-yusupov/ContextGate",
-    "stars": 2,
-    "updated_at": "2026-06-19T15:19:22Z",
-    "url": "https://github.com/akbar-yusupov/ContextGate"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19698,
-    "updated_at": "2026-06-19T15:37:35Z",
+    "updated_at": "2026-06-19T16:26:44Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -320,7 +329,7 @@
     "language": "TypeScript",
     "name": "JonyKarmakar/vision-command-ai",
     "stars": 0,
-    "updated_at": "2026-06-19T13:38:57Z",
+    "updated_at": "2026-06-19T16:30:23Z",
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
   },
   {
@@ -378,15 +387,6 @@
     "url": "https://github.com/dinanjana/test-agent"
   },
   {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 12,
-    "updated_at": "2026-06-19T14:48:26Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
     "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
     "id": "runcycles/cycles-spring-boot-starter",
     "language": "Java",
@@ -428,7 +428,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 18,
-    "updated_at": "2026-06-19T15:33:16Z",
+    "updated_at": "2026-06-19T16:21:01Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
