@@ -1,11 +1,20 @@
 [
   {
+    "description": "Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o",
+    "id": "kalyan-venk/agentic-llmops",
+    "language": "TeX",
+    "name": "kalyan-venk/agentic-llmops",
+    "stars": 1,
+    "updated_at": "2026-06-19T03:10:16Z",
+    "url": "https://github.com/kalyan-venk/agentic-llmops"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26610,
-    "updated_at": "2026-06-19T02:59:15Z",
+    "stars": 26611,
+    "updated_at": "2026-06-19T03:09:00Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -13,9 +22,45 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50829,
-    "updated_at": "2026-06-19T02:53:36Z",
+    "stars": 50828,
+    "updated_at": "2026-06-19T03:07:19Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 35,
+    "updated_at": "2026-06-19T03:07:13Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, r",
+    "id": "zendev-sh/zenflow",
+    "language": "Go",
+    "name": "zendev-sh/zenflow",
+    "stars": 21,
+    "updated_at": "2026-06-19T03:05:53Z",
+    "url": "https://github.com/zendev-sh/zenflow"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 31,
+    "updated_at": "2026-06-19T03:04:37Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T03:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
@@ -25,15 +70,6 @@
     "stars": 9,
     "updated_at": "2026-06-19T02:47:52Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T02:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -63,13 +99,13 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 35,
-    "updated_at": "2026-06-19T02:50:56Z",
-    "url": "https://github.com/Keesan12/martin-loop"
+    "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and o",
+    "id": "GoogleCloudPlatform/agent-starter-pack",
+    "language": "Python",
+    "name": "GoogleCloudPlatform/agent-starter-pack",
+    "stars": 6484,
+    "updated_at": "2026-06-19T01:53:26Z",
+    "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
   },
   {
     "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
@@ -112,7 +148,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28837,
+    "stars": 28838,
     "updated_at": "2026-06-19T00:33:20Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -166,7 +202,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 7672,
+    "stars": 7673,
     "updated_at": "2026-06-18T23:49:49Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -220,7 +256,7 @@
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
-    "stars": 73,
+    "stars": 74,
     "updated_at": "2026-06-18T22:33:09Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-18T18:03:14Z",
     "url": "https://github.com/chyinan/AegisRAG"
-  },
-  {
-    "description": "Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals.",
-    "id": "EvanAI0331/aigit",
-    "language": "Python",
-    "name": "EvanAI0331/aigit",
-    "stars": 0,
-    "updated_at": "2026-06-18T17:51:57Z",
-    "url": "https://github.com/EvanAI0331/aigit"
-  },
-  {
-    "description": "Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ",
-    "id": "mihaibc/ai-production-readiness-kit",
-    "language": "Python",
-    "name": "mihaibc/ai-production-readiness-kit",
-    "stars": 0,
-    "updated_at": "2026-06-18T17:40:06Z",
-    "url": "https://github.com/mihaibc/ai-production-readiness-kit"
-  },
-  {
-    "description": "GitHub org config, CI workflows, and community health files for Cycles",
-    "id": "runcycles/.github",
-    "language": "Shell",
-    "name": "runcycles/.github",
-    "stars": 0,
-    "updated_at": "2026-06-18T17:28:48Z",
-    "url": "https://github.com/runcycles/.github"
-  },
-  {
-    "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 141,
-    "updated_at": "2026-06-19T02:50:13Z",
-    "url": "https://github.com/taichuy/1flowbase"
   }
 ]
