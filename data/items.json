@@ -1,12 +1,12 @@
 [
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-19T09:29:32Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19695,
+    "updated_at": "2026-06-19T09:44:18Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,17 +14,53 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-19T09:21:58Z",
+    "updated_at": "2026-06-19T09:42:09Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19695,
-    "updated_at": "2026-06-19T09:18:18Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1055,
+    "updated_at": "2026-06-19T09:45:31Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-19T09:38:48Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29368,
+    "updated_at": "2026-06-19T09:41:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
+    "id": "w8123/EnterpriseAgentFramework",
+    "language": "Java",
+    "name": "w8123/EnterpriseAgentFramework",
+    "stars": 314,
+    "updated_at": "2026-06-19T09:34:13Z",
+    "url": "https://github.com/w8123/EnterpriseAgentFramework"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T09:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Python monorepo for the LLM data lifecycle: contract-linked ingestion, dataset curation, and observability.",
@@ -43,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T09:16:01Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T09:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29367,
-    "updated_at": "2026-06-19T09:29:19Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
@@ -117,15 +135,6 @@
     "url": "https://github.com/manojmallick/skillweave"
   },
   {
-    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
-    "id": "w8123/EnterpriseAgentFramework",
-    "language": "Java",
-    "name": "w8123/EnterpriseAgentFramework",
-    "stars": 314,
-    "updated_at": "2026-06-19T08:52:03Z",
-    "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
     "description": "Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ",
     "id": "mihaibc/ai-production-readiness-kit",
     "language": "Python",
@@ -133,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T08:39:03Z",
     "url": "https://github.com/mihaibc/ai-production-readiness-kit"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1055,
-    "updated_at": "2026-06-19T08:40:26Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
     "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
@@ -185,7 +185,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5898,
-    "updated_at": "2026-06-19T09:28:54Z",
+    "updated_at": "2026-06-19T09:42:08Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -265,7 +265,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28850,
+    "stars": 28851,
     "updated_at": "2026-06-19T06:44:35Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -293,7 +293,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4221,
-    "updated_at": "2026-06-19T09:09:28Z",
+    "updated_at": "2026-06-19T09:44:09Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -383,7 +383,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26614,
-    "updated_at": "2026-06-19T05:59:44Z",
+    "updated_at": "2026-06-19T09:32:17Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {

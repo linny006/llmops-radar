@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 09:30 UTC
+> ⏰ Last updated: 2026-06-19 09:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3309 | TypeScript | 2026-06-19 | The platform for LLM evaluations and AI agent testing |
+| 1 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19695 | Python | 2026-06-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-19 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 3 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19695 | Python | 2026-06-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 4 | [DiogoRibeiro7/llm-data-platform](https://github.com/DiogoRibeiro7/llm-data-platform) | 0 | Python | 2026-06-19 | Python monorepo for the LLM data lifecycle: contract-linked ingestion, dataset curation, and observability. |
-| 5 | [prasad-kavuri/prasad-portfolio](https://github.com/prasad-kavuri/prasad-portfolio) | 0 | TypeScript | 2026-06-19 | VP / Head of AI Engineering portfolio — 14 production AI demos, governance-first architecture. prasadkavuri.com |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29367 | TypeScript | 2026-06-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 8 | [spanlens/Spanlens](https://github.com/spanlens/Spanlens) | 9 | TypeScript | 2026-06-19 | Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost |
-| 9 | [runcycles/cycles-spring-boot-starter](https://github.com/runcycles/cycles-spring-boot-starter) | 2 | Java | 2026-06-19 | Spring Boot starter for Cycles — runtime budget authority for AI agents |
-| 10 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-06-19 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
-| 11 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 35 | TypeScript | 2026-06-19 | The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
-| 12 | [abhilashsblai/ctxlayer-release](https://github.com/abhilashsblai/ctxlayer-release) | 0 | — | 2026-06-19 | CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex. |
-| 13 | [manojmallick/skillweave](https://github.com/manojmallick/skillweave) | 0 | TypeScript | 2026-06-19 | An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills — orchestration, schema  |
-| 14 | [w8123/EnterpriseAgentFramework](https://github.com/w8123/EnterpriseAgentFramework) | 314 | Java | 2026-06-19 | Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen |
-| 15 | [mihaibc/ai-production-readiness-kit](https://github.com/mihaibc/ai-production-readiness-kit) | 2 | Python | 2026-06-19 | Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ |
-| 16 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1055 | Python | 2026-06-19 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
+| 3 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1055 | Python | 2026-06-19 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
+| 4 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3309 | TypeScript | 2026-06-19 | The platform for LLM evaluations and AI agent testing |
+| 5 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29368 | TypeScript | 2026-06-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 6 | [w8123/EnterpriseAgentFramework](https://github.com/w8123/EnterpriseAgentFramework) | 314 | Java | 2026-06-19 | Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen |
+| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 8 | [DiogoRibeiro7/llm-data-platform](https://github.com/DiogoRibeiro7/llm-data-platform) | 0 | Python | 2026-06-19 | Python monorepo for the LLM data lifecycle: contract-linked ingestion, dataset curation, and observability. |
+| 9 | [prasad-kavuri/prasad-portfolio](https://github.com/prasad-kavuri/prasad-portfolio) | 0 | TypeScript | 2026-06-19 | VP / Head of AI Engineering portfolio — 14 production AI demos, governance-first architecture. prasadkavuri.com |
+| 10 | [spanlens/Spanlens](https://github.com/spanlens/Spanlens) | 9 | TypeScript | 2026-06-19 | Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost |
+| 11 | [runcycles/cycles-spring-boot-starter](https://github.com/runcycles/cycles-spring-boot-starter) | 2 | Java | 2026-06-19 | Spring Boot starter for Cycles — runtime budget authority for AI agents |
+| 12 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-06-19 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
+| 13 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 35 | TypeScript | 2026-06-19 | The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
+| 14 | [abhilashsblai/ctxlayer-release](https://github.com/abhilashsblai/ctxlayer-release) | 0 | — | 2026-06-19 | CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex. |
+| 15 | [manojmallick/skillweave](https://github.com/manojmallick/skillweave) | 0 | TypeScript | 2026-06-19 | An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills — orchestration, schema  |
+| 16 | [mihaibc/ai-production-readiness-kit](https://github.com/mihaibc/ai-production-readiness-kit) | 2 | Python | 2026-06-19 | Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ |
 | 17 | [marcusschiesser/agentpond](https://github.com/marcusschiesser/agentpond) | 3 | TypeScript | 2026-06-19 | Store agent traces remotely. Analyze them locally. Keep control of the data. |
 | 18 | [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) | 138 | Go | 2026-06-19 | Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro |
 | 19 | [eruo005-dev/gatewayforai-com](https://github.com/eruo005-dev/gatewayforai-com) | 0 | TypeScript | 2026-06-19 | Free, open-source, self-hostable LLM gateway. One OpenAI- & Anthropic-compatible endpoint, 8 providers, automatic failov |
@@ -71,7 +71,7 @@ expired items removed — so you can rely on what you see being current.
 | 27 | [zenml-io/zenml](https://github.com/zenml-io/zenml) | 5453 | Python | 2026-06-19 | ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io. |
 | 28 | [0DevDutt0/NeuralOps](https://github.com/0DevDutt0/NeuralOps) | 0 | Python | 2026-06-19 | Production-grade LLMOps platform — Git-style prompt versioning, A/B experiments with LLM-as-Judge scoring, drift detecti |
 | 29 | [mzlin2020/linming_llmops](https://github.com/mzlin2020/linming_llmops) | 0 | Python | 2026-06-19 | 开源、Docker 一键部署的 LLMOps 平台：应用编排 · SSE 流式对话 · RAG 知识库 · 工具/插件 · 助手 Agent。内置轻量登录，OpenAI 兼容，本地嵌入开箱即用。 |
-| 30 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28850 | TypeScript | 2026-06-19 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 30 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28851 | TypeScript | 2026-06-19 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 31 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1231 | Cuda | 2026-06-19 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
 | 32 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50859 | Python | 2026-06-19 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 33 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | 4221 | TypeScript | 2026-06-19 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one  |
