@@ -1,12 +1,12 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5898,
-    "updated_at": "2026-06-19T07:54:33Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29361,
+    "updated_at": "2026-06-19T08:15:20Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19694,
-    "updated_at": "2026-06-19T07:59:23Z",
+    "updated_at": "2026-06-19T08:13:48Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -23,8 +23,44 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-19T07:52:17Z",
+    "updated_at": "2026-06-19T08:11:42Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 138,
+    "updated_at": "2026-06-19T08:09:07Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-06-19T08:11:42Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T08:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5898,
+    "updated_at": "2026-06-19T08:00:55Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -34,33 +70,6 @@
     "stars": 18,
     "updated_at": "2026-06-19T07:48:06Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T07:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29361,
-    "updated_at": "2026-06-19T08:00:13Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-06-19T07:52:11Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5453,
-    "updated_at": "2026-06-19T07:09:29Z",
+    "updated_at": "2026-06-19T08:07:08Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -130,7 +139,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50852,
+    "stars": 50853,
     "updated_at": "2026-06-19T06:29:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5438,
-    "updated_at": "2026-06-19T07:47:31Z",
+    "updated_at": "2026-06-19T08:09:26Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-06-19T00:03:22Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Unified AI token usage telemetry \u2014 collect, store, and visualize token consumption across LiteLLM, OpenAI, Anthropic, Gi",
-    "id": "drewid74/unified-token-telemetry",
-    "language": "JavaScript",
-    "name": "drewid74/unified-token-telemetry",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:59:53Z",
-    "url": "https://github.com/drewid74/unified-token-telemetry"
   }
 ]
