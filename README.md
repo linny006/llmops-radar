@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 00:45 UTC
+> ⏰ Last updated: 2026-06-19 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-19 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 2 | [Korck-lab/claude-code-optimizer](https://github.com/Korck-lab/claude-code-optimizer) | 0 | Python | 2026-06-19 |  |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22358 | TypeScript | 2026-06-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50818 | Python | 2026-06-19 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 5 | [manojmallick/skillweave](https://github.com/manojmallick/skillweave) | 0 | TypeScript | 2026-06-19 | An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills — orchestration, schema  |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [w8123/EnterpriseAgentFramework](https://github.com/w8123/EnterpriseAgentFramework) | 314 | Java | 2026-06-19 | Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22358 | TypeScript | 2026-06-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [manojmallick/skillweave](https://github.com/manojmallick/skillweave) | 0 | TypeScript | 2026-06-19 | An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills — orchestration, schema  |
+| 4 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-19 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50818 | Python | 2026-06-19 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 7 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | HTML | 2026-06-19 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
 | 8 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-19 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
 | 9 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-19 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 10 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-19 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 11 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 10 | — | 2026-06-19 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
 | 12 | [drewid74/unified-token-telemetry](https://github.com/drewid74/unified-token-telemetry) | 0 | JavaScript | 2026-06-18 | Unified AI token usage telemetry — collect, store, and visualize token consumption across LiteLLM, OpenAI, Anthropic, Gi |
-| 13 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10190 | Python | 2026-06-18 | AI Observability & Evaluation |
-| 14 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7671 | Rust | 2026-06-18 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 13 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7672 | Rust | 2026-06-18 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 14 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10190 | Python | 2026-06-18 | AI Observability & Evaluation |
 | 15 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-19 | The opinionated workflow engine and governance layer for agent-driven software development. |
 | 16 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 35 | TypeScript | 2026-06-18 | The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
 | 17 | [runcycles/cycles-spring-boot-starter](https://github.com/runcycles/cycles-spring-boot-starter) | 2 | Java | 2026-06-18 | Spring Boot starter for Cycles — runtime budget authority for AI agents |

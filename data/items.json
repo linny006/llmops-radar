@@ -1,21 +1,12 @@
 [
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:45:01Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "",
-    "id": "Korck-lab/claude-code-optimizer",
-    "language": "Python",
-    "name": "Korck-lab/claude-code-optimizer",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:43:03Z",
-    "url": "https://github.com/Korck-lab/claude-code-optimizer"
+    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
+    "id": "w8123/EnterpriseAgentFramework",
+    "language": "Java",
+    "name": "w8123/EnterpriseAgentFramework",
+    "stars": 314,
+    "updated_at": "2026-06-19T00:54:56Z",
+    "url": "https://github.com/w8123/EnterpriseAgentFramework"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -23,17 +14,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22358,
-    "updated_at": "2026-06-19T00:41:07Z",
+    "updated_at": "2026-06-19T00:54:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50818,
-    "updated_at": "2026-06-19T00:38:10Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
@@ -41,8 +23,17 @@
     "language": "TypeScript",
     "name": "manojmallick/skillweave",
     "stars": 0,
-    "updated_at": "2026-06-19T00:38:56Z",
+    "updated_at": "2026-06-19T00:53:47Z",
     "url": "https://github.com/manojmallick/skillweave"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:45:26Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -50,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-19T00:30:27Z",
+    "updated_at": "2026-06-19T00:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50818,
+    "updated_at": "2026-06-19T00:59:11Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -108,6 +108,15 @@
     "url": "https://github.com/drewid74/unified-token-telemetry"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7672,
+    "updated_at": "2026-06-18T23:49:49Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -115,15 +124,6 @@
     "stars": 10190,
     "updated_at": "2026-06-18T23:49:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7671,
-    "updated_at": "2026-06-18T23:49:49Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
