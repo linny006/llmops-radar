@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50819,
-    "updated_at": "2026-06-19T01:14:27Z",
+    "updated_at": "2026-06-19T01:29:23Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
+    "id": "manojmallick/skillweave",
+    "language": "TypeScript",
+    "name": "manojmallick/skillweave",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:24:23Z",
+    "url": "https://github.com/manojmallick/skillweave"
+  },
+  {
+    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 35,
+    "updated_at": "2026-06-19T01:29:53Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22358,
+    "updated_at": "2026-06-19T01:19:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T01:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "",
@@ -18,33 +54,6 @@
     "url": "https://github.com/Korck-lab/claude-code-optimizer"
   },
   {
-    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
-    "id": "manojmallick/skillweave",
-    "language": "TypeScript",
-    "name": "manojmallick/skillweave",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:11:05Z",
-    "url": "https://github.com/manojmallick/skillweave"
-  },
-  {
-    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 35,
-    "updated_at": "2026-06-19T01:14:15Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22358,
-    "updated_at": "2026-06-19T01:07:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -52,15 +61,6 @@
     "stars": 5,
     "updated_at": "2026-06-19T01:05:07Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T01:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
@@ -162,6 +162,15 @@
     "url": "https://github.com/runcycles/cycles-spring-boot-starter"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29347,
+    "updated_at": "2026-06-18T22:58:41Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Python monorepo for the LLM data lifecycle: contract-linked ingestion, dataset curation, and observability.",
     "id": "DiogoRibeiro7/llm-data-platform",
     "language": "Python",
@@ -205,15 +214,6 @@
     "stars": 369,
     "updated_at": "2026-06-18T21:38:27Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29346,
-    "updated_at": "2026-06-18T22:58:41Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
