@@ -1,5 +1,77 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3310,
+    "updated_at": "2026-06-19T18:45:04Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
+    "id": "anejakartik/evalstack",
+    "language": "TypeScript",
+    "name": "anejakartik/evalstack",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:44:10Z",
+    "url": "https://github.com/anejakartik/evalstack"
+  },
+  {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:44:09Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "Datadog for LLM apps, for indie devs. Drop-in Python SDK + free self-host. Latency, cost, hallucination patterns out of ",
+    "id": "anejakartik/tracelens",
+    "language": "Python",
+    "name": "anejakartik/tracelens",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:43:56Z",
+    "url": "https://github.com/anejakartik/tracelens"
+  },
+  {
+    "description": "Signed, tamper-evident provenance records for AI agent runs",
+    "id": "forjd/agentprov",
+    "language": "Rust",
+    "name": "forjd/agentprov",
+    "stars": 1,
+    "updated_at": "2026-06-19T18:43:11Z",
+    "url": "https://github.com/forjd/agentprov"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:36:08Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1037,
+    "updated_at": "2026-06-19T18:32:31Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T18:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
     "id": "hyeonsangjeon/when-reasoning-pays-off",
     "language": "Python",
@@ -14,17 +86,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28859,
-    "updated_at": "2026-06-19T18:28:39Z",
+    "updated_at": "2026-06-19T18:39:27Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Datadog for LLM apps, for indie devs. Drop-in Python SDK + free self-host. Latency, cost, hallucination patterns out of ",
-    "id": "anejakartik/tracelens",
-    "language": "Python",
-    "name": "anejakartik/tracelens",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:21:22Z",
-    "url": "https://github.com/anejakartik/tracelens"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -43,15 +106,6 @@
     "stars": 50908,
     "updated_at": "2026-06-19T18:15:31Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T18:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Offline LLM / agent eval harness with regression gates",
@@ -77,7 +131,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5904,
-    "updated_at": "2026-06-19T18:29:40Z",
+    "updated_at": "2026-06-19T18:38:07Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
-    "id": "anejakartik/evalstack",
-    "language": "TypeScript",
-    "name": "anejakartik/evalstack",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:55:32Z",
-    "url": "https://github.com/anejakartik/evalstack"
-  },
-  {
     "description": "Open-source memory + enforcement layer for AI agents: turn a correction into a rule that's enforced before the next outp",
     "id": "13auth/M3Mgine",
     "language": "Python",
@@ -203,17 +248,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-19T17:33:56Z",
+    "updated_at": "2026-06-19T18:33:23Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:25:44Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
@@ -238,7 +274,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29385,
+    "stars": 29386,
     "updated_at": "2026-06-19T17:02:41Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -247,27 +283,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22381,
+    "stars": 22382,
     "updated_at": "2026-06-19T17:00:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:59:47Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3310,
-    "updated_at": "2026-06-19T18:26:08Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "A fast, local-first AI gateway in Rust \u2014 route any coding CLI (Claude Code, Codex, Cursor\u2026) to 40+ LLM providers, save t",
@@ -396,15 +414,6 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1037,
-    "updated_at": "2026-06-19T18:29:19Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
     "id": "abhilashsblai/ctxlayer-release",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T14:29:09Z",
     "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
-  },
-  {
-    "description": "A helm chart to enable the latest AI/ML open source tools in kubernetes.",
-    "id": "blake-hamm/kube-ai-stack",
-    "language": "Go Template",
-    "name": "blake-hamm/kube-ai-stack",
-    "stars": 6,
-    "updated_at": "2026-06-19T14:10:57Z",
-    "url": "https://github.com/blake-hamm/kube-ai-stack"
   }
 ]
