@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 1,
+    "updated_at": "2026-06-19T05:29:26Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T05:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "mezmo/aura",
     "stars": 115,
-    "updated_at": "2026-06-19T05:02:05Z",
+    "updated_at": "2026-06-19T05:18:01Z",
     "url": "https://github.com/mezmo/aura"
   },
   {
@@ -32,17 +50,8 @@
     "language": "C#",
     "name": "melaya-labs/melaya",
     "stars": 3,
-    "updated_at": "2026-06-19T05:00:39Z",
+    "updated_at": "2026-06-19T05:17:47Z",
     "url": "https://github.com/melaya-labs/melaya"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T05:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -104,7 +113,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5896,
-    "updated_at": "2026-06-19T04:42:42Z",
+    "updated_at": "2026-06-19T05:27:37Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -178,6 +187,15 @@
     "stars": 44,
     "updated_at": "2026-06-19T03:36:59Z",
     "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 41,
+    "updated_at": "2026-06-19T03:33:38Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
     "description": "Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o",
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3015,
-    "updated_at": "2026-06-19T04:57:25Z",
+    "updated_at": "2026-06-19T05:15:53Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-18T20:42:53Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Compressed Knowledge Graph MCP server \u2014 42\u00d7 more efficient than RAG on structural queries",
-    "id": "Yarmoluk/ckg-mcp",
-    "language": "Python",
-    "name": "Yarmoluk/ckg-mcp",
-    "stars": 3,
-    "updated_at": "2026-06-18T20:34:17Z",
-    "url": "https://github.com/Yarmoluk/ckg-mcp"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 2,
-    "updated_at": "2026-06-18T20:07:02Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
   }
 ]
