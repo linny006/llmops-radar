@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29376,
+    "updated_at": "2026-06-19T12:29:17Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 12,
+    "updated_at": "2026-06-19T12:27:13Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19697,
+    "updated_at": "2026-06-19T12:29:30Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 369,
+    "updated_at": "2026-06-19T12:16:52Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T12:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
     "id": "runcycles/cycles-spring-boot-starter",
     "language": "Java",
@@ -18,30 +63,12 @@
     "url": "https://github.com/OpsToInnovator/bulwark"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29376,
-    "updated_at": "2026-06-19T12:15:21Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T12:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 76,
-    "updated_at": "2026-06-19T12:10:17Z",
+    "updated_at": "2026-06-19T12:30:17Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -59,17 +86,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-19T12:12:14Z",
+    "updated_at": "2026-06-19T12:27:37Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19697,
-    "updated_at": "2026-06-19T12:07:12Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 18,
-    "updated_at": "2026-06-19T11:31:31Z",
+    "updated_at": "2026-06-19T12:24:33Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -148,7 +166,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26617,
+    "stars": 26618,
     "updated_at": "2026-06-19T11:09:55Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3016,
-    "updated_at": "2026-06-19T11:02:05Z",
+    "updated_at": "2026-06-19T12:26:21Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -203,17 +221,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5899,
-    "updated_at": "2026-06-19T10:48:32Z",
+    "updated_at": "2026-06-19T12:21:01Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 369,
-    "updated_at": "2026-06-19T12:14:26Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5453,
-    "updated_at": "2026-06-19T11:35:30Z",
+    "updated_at": "2026-06-19T12:29:33Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28852,
-    "updated_at": "2026-06-19T11:31:21Z",
+    "updated_at": "2026-06-19T12:25:34Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1231,
-    "updated_at": "2026-06-19T11:44:34Z",
+    "updated_at": "2026-06-19T12:24:26Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -428,7 +437,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4221,
-    "updated_at": "2026-06-19T12:07:19Z",
+    "updated_at": "2026-06-19T12:28:55Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T06:27:49Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 41,
-    "updated_at": "2026-06-19T10:45:07Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
