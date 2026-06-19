@@ -1,12 +1,57 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22358,
+    "updated_at": "2026-06-19T00:15:05Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "",
     "id": "Korck-lab/claude-code-optimizer",
     "language": "Python",
     "name": "Korck-lab/claude-code-optimizer",
     "stars": 0,
-    "updated_at": "2026-06-19T00:00:09Z",
+    "updated_at": "2026-06-19T00:12:44Z",
     "url": "https://github.com/Korck-lab/claude-code-optimizer"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:11:21Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 10,
+    "updated_at": "2026-06-19T00:03:22Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
+    "id": "manojmallick/skillweave",
+    "language": "TypeScript",
+    "name": "manojmallick/skillweave",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:02:52Z",
+    "url": "https://github.com/manojmallick/skillweave"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T00:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Unified AI token usage telemetry \u2014 collect, store, and visualize token consumption across LiteLLM, OpenAI, Anthropic, Gi",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T23:59:53Z",
     "url": "https://github.com/drewid74/unified-token-telemetry"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:59:44Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -45,15 +81,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-18T23:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -68,17 +95,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-18T23:31:33Z",
+    "updated_at": "2026-06-19T00:01:35Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
-    "id": "manojmallick/skillweave",
-    "language": "TypeScript",
-    "name": "manojmallick/skillweave",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:47:19Z",
-    "url": "https://github.com/manojmallick/skillweave"
   },
   {
     "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50817,
-    "updated_at": "2026-06-18T23:48:39Z",
+    "updated_at": "2026-06-19T00:02:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -288,15 +306,6 @@
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22357,
-    "updated_at": "2026-06-18T19:24:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
     "id": "mezmo/aura",
     "language": "Rust",
@@ -419,7 +428,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 141,
-    "updated_at": "2026-06-18T23:55:16Z",
+    "updated_at": "2026-06-19T00:15:23Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T17:24:09Z",
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
-    "id": "agentbreeder/agentbreeder",
-    "language": "Python",
-    "name": "agentbreeder/agentbreeder",
-    "stars": 4,
-    "updated_at": "2026-06-18T17:18:08Z",
-    "url": "https://github.com/agentbreeder/agentbreeder"
   }
 ]
