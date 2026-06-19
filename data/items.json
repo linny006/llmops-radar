@@ -1,21 +1,39 @@
 [
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7673,
-    "updated_at": "2026-06-19T03:56:00Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
+    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 35,
+    "updated_at": "2026-06-19T04:14:29Z",
+    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
+    "id": "melaya-labs/melaya",
+    "language": "C#",
+    "name": "melaya-labs/melaya",
+    "stars": 3,
+    "updated_at": "2026-06-19T04:10:08Z",
+    "url": "https://github.com/melaya-labs/melaya"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-06-19T04:06:12Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26611,
-    "updated_at": "2026-06-19T03:58:58Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "BerriAI/litellm",
+    "stars": 50837,
+    "updated_at": "2026-06-19T04:03:19Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +41,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-19T03:45:24Z",
+    "updated_at": "2026-06-19T04:00:29Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26612,
+    "updated_at": "2026-06-19T03:58:58Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7673,
+    "updated_at": "2026-06-19T04:13:54Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress,",
@@ -45,15 +81,6 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50833,
-    "updated_at": "2026-06-19T03:21:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T03:10:16Z",
     "url": "https://github.com/kalyan-venk/agentic-llmops"
-  },
-  {
-    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 35,
-    "updated_at": "2026-06-19T03:07:13Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, r",
@@ -175,7 +193,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28839,
+    "stars": 28840,
     "updated_at": "2026-06-19T00:33:20Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -329,7 +347,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3015,
-    "updated_at": "2026-06-19T03:52:48Z",
+    "updated_at": "2026-06-19T04:12:25Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -360,6 +378,15 @@
     "url": "https://github.com/Yarmoluk/ckg-mcp"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5895,
+    "updated_at": "2026-06-18T20:08:59Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
     "id": "tmusser/ai-engineering-skills",
     "language": "Python",
@@ -367,15 +394,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T20:07:02Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5894,
-    "updated_at": "2026-06-18T20:08:59Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
@@ -430,23 +448,5 @@
     "stars": 440,
     "updated_at": "2026-06-18T18:52:57Z",
     "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "A 60-line, zero-dependency guard that stops a runaway AI agent from burning your money in a loop. Step budget + loop det",
-    "id": "hiwasham/loopbreaker",
-    "language": "Python",
-    "name": "hiwasham/loopbreaker",
-    "stars": 0,
-    "updated_at": "2026-06-18T18:44:26Z",
-    "url": "https://github.com/hiwasham/loopbreaker"
-  },
-  {
-    "description": "Cost-bounded autonomy for LLM agent fleets: runtime budget enforcement, per-agent/per-task attribution, and statistical ",
-    "id": "vasundras/fleet-caliper",
-    "language": "Python",
-    "name": "vasundras/fleet-caliper",
-    "stars": 0,
-    "updated_at": "2026-06-18T18:31:34Z",
-    "url": "https://github.com/vasundras/fleet-caliper"
   }
 ]
