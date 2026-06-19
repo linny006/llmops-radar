@@ -1,5 +1,32 @@
 [
   {
+    "description": "Signed, tamper-evident provenance records for AI agent runs",
+    "id": "forjd/agentprov",
+    "language": "Rust",
+    "name": "forjd/agentprov",
+    "stars": 1,
+    "updated_at": "2026-06-19T19:04:33Z",
+    "url": "https://github.com/forjd/agentprov"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50908,
+    "updated_at": "2026-06-19T19:07:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T19:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -43,24 +70,6 @@
     "stars": 3310,
     "updated_at": "2026-06-19T18:48:06Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Signed, tamper-evident provenance records for AI agent runs",
-    "id": "forjd/agentprov",
-    "language": "Rust",
-    "name": "forjd/agentprov",
-    "stars": 1,
-    "updated_at": "2026-06-19T18:45:36Z",
-    "url": "https://github.com/forjd/agentprov"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T18:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
@@ -133,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T18:17:58Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50908,
-    "updated_at": "2026-06-19T18:58:25Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Offline LLM / agent eval harness with regression gates",
@@ -266,7 +266,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-19T18:33:23Z",
+    "updated_at": "2026-06-19T19:11:04Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -391,7 +391,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26629,
+    "stars": 26630,
     "updated_at": "2026-06-19T15:18:33Z",
     "url": "https://github.com/mlflow/mlflow"
   },
