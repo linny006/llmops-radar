@@ -1,5 +1,23 @@
 [
   {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-19T19:18:56Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T19:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Signed, tamper-evident provenance records for AI agent runs",
     "id": "forjd/agentprov",
     "language": "Rust",
@@ -18,15 +36,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T19:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -41,7 +50,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5903,
-    "updated_at": "2026-06-19T18:59:00Z",
+    "updated_at": "2026-06-19T19:29:23Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -131,7 +140,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28859,
-    "updated_at": "2026-06-19T18:39:27Z",
+    "updated_at": "2026-06-19T19:17:27Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -261,15 +270,6 @@
     "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-19T19:11:04Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
     "id": "acornops/acornops-deployment",
     "language": "JavaScript",
@@ -279,11 +279,20 @@
     "url": "https://github.com/acornops/acornops-deployment"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19699,
+    "updated_at": "2026-06-19T17:09:03Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29386,
+    "stars": 29388,
     "updated_at": "2026-06-19T17:02:41Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -292,7 +301,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22383,
+    "stars": 22384,
     "updated_at": "2026-06-19T17:00:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -391,7 +400,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26630,
+    "stars": 26632,
     "updated_at": "2026-06-19T15:18:33Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T14:43:13Z",
     "url": "https://github.com/abhilashsblai/ctxlayer-release"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19698,
-    "updated_at": "2026-06-19T17:09:03Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
