@@ -1,12 +1,48 @@
 [
   {
+    "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
+    "id": "abhilashsblai/ctxlayer-release",
+    "language": "\u2014",
+    "name": "abhilashsblai/ctxlayer-release",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:58:47Z",
+    "url": "https://github.com/abhilashsblai/ctxlayer-release"
+  },
+  {
+    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
+    "id": "manojmallick/skillweave",
+    "language": "TypeScript",
+    "name": "manojmallick/skillweave",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:59:14Z",
+    "url": "https://github.com/manojmallick/skillweave"
+  },
+  {
+    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
+    "id": "w8123/EnterpriseAgentFramework",
+    "language": "Java",
+    "name": "w8123/EnterpriseAgentFramework",
+    "stars": 314,
+    "updated_at": "2026-06-19T08:52:03Z",
+    "url": "https://github.com/w8123/EnterpriseAgentFramework"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29363,
-    "updated_at": "2026-06-19T08:44:30Z",
+    "stars": 29365,
+    "updated_at": "2026-06-19T08:59:12Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T08:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T08:42:32Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
-    "id": "abhilashsblai/ctxlayer-release",
-    "language": "\u2014",
-    "name": "abhilashsblai/ctxlayer-release",
-    "stars": 0,
-    "updated_at": "2026-06-19T08:41:05Z",
-    "url": "https://github.com/abhilashsblai/ctxlayer-release"
   },
   {
     "description": "Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19694,
-    "updated_at": "2026-06-19T08:44:51Z",
+    "updated_at": "2026-06-19T08:58:46Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -54,22 +81,13 @@
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
-    "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
-    "id": "w8123/EnterpriseAgentFramework",
-    "language": "Java",
-    "name": "w8123/EnterpriseAgentFramework",
-    "stars": 314,
-    "updated_at": "2026-06-19T08:31:34Z",
-    "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T08:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
+    "id": "marcusschiesser/agentpond",
+    "language": "TypeScript",
+    "name": "marcusschiesser/agentpond",
+    "stars": 3,
+    "updated_at": "2026-06-19T08:32:12Z",
+    "url": "https://github.com/marcusschiesser/agentpond"
   },
   {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
@@ -79,15 +97,6 @@
     "stars": 138,
     "updated_at": "2026-06-19T08:33:02Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
-    "id": "manojmallick/skillweave",
-    "language": "TypeScript",
-    "name": "manojmallick/skillweave",
-    "stars": 0,
-    "updated_at": "2026-06-19T08:25:27Z",
-    "url": "https://github.com/manojmallick/skillweave"
   },
   {
     "description": "Free, open-source, self-hostable LLM gateway. One OpenAI- & Anthropic-compatible endpoint, 8 providers, automatic failov",
@@ -131,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5898,
-    "updated_at": "2026-06-19T08:29:31Z",
+    "updated_at": "2026-06-19T08:50:36Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -166,7 +175,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 7675,
+    "stars": 7676,
     "updated_at": "2026-06-19T07:14:39Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -229,7 +238,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50853,
+    "stars": 50854,
     "updated_at": "2026-06-19T06:29:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -239,7 +248,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4221,
-    "updated_at": "2026-06-19T07:55:04Z",
+    "updated_at": "2026-06-19T09:00:02Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -383,7 +392,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 35,
-    "updated_at": "2026-06-19T04:36:46Z",
+    "updated_at": "2026-06-19T09:00:20Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T03:10:16Z",
     "url": "https://github.com/kalyan-venk/agentic-llmops"
-  },
-  {
-    "description": "Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, r",
-    "id": "zendev-sh/zenflow",
-    "language": "Go",
-    "name": "zendev-sh/zenflow",
-    "stars": 21,
-    "updated_at": "2026-06-19T03:05:53Z",
-    "url": "https://github.com/zendev-sh/zenflow"
   }
 ]
