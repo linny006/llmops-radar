@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "prasad-kavuri/prasad-portfolio",
     "stars": 0,
-    "updated_at": "2026-06-19T04:29:20Z",
+    "updated_at": "2026-06-19T04:44:30Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
@@ -14,8 +14,35 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 35,
-    "updated_at": "2026-06-19T04:29:21Z",
+    "updated_at": "2026-06-19T04:36:46Z",
     "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 115,
+    "updated_at": "2026-06-19T04:43:40Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
+    "id": "abhilashsblai/ctxlayer-release",
+    "language": "\u2014",
+    "name": "abhilashsblai/ctxlayer-release",
+    "stars": 0,
+    "updated_at": "2026-06-19T04:33:54Z",
+    "url": "https://github.com/abhilashsblai/ctxlayer-release"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50838,
+    "updated_at": "2026-06-19T04:45:22Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-19T04:15:27Z",
+    "updated_at": "2026-06-19T04:30:25Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T04:06:12Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50837,
-    "updated_at": "2026-06-19T04:22:33Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -315,6 +333,15 @@
     "url": "https://github.com/Aidan2111/agent-autonomy-score"
   },
   {
+    "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode li",
+    "id": "apache/hamilton",
+    "language": "Jupyter Notebook",
+    "name": "apache/hamilton",
+    "stars": 2531,
+    "updated_at": "2026-06-18T21:49:15Z",
+    "url": "https://github.com/apache/hamilton"
+  },
+  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -392,7 +419,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5895,
-    "updated_at": "2026-06-19T04:27:59Z",
+    "updated_at": "2026-06-19T04:42:42Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 115,
-    "updated_at": "2026-06-18T20:30:02Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
     "description": "A judge-free figure-presence check for LLM evals on fact-heavy tasks \u2014 grounded recall as a cheap complement to LLM-as-j",
     "id": "vanreece/figure-grounded-eval",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T19:18:22Z",
     "url": "https://github.com/vanreece/figure-grounded-eval"
-  },
-  {
-    "description": "Multimodal LLM inference gateway with KV-cache-aware routing and LMCache offload. OpenAI-compatible, benchmarked on GPUs",
-    "id": "rishika7006/kvgate",
-    "language": "Python",
-    "name": "rishika7006/kvgate",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:15:45Z",
-    "url": "https://github.com/rishika7006/kvgate"
-  },
-  {
-    "description": "A decision framework for agent boundary selection: when to extend an existing LLM agent vs. create a new agent or pod. C",
-    "id": "vasundras/cleave",
-    "language": "Python",
-    "name": "vasundras/cleave",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:02:39Z",
-    "url": "https://github.com/vasundras/cleave"
   }
 ]
