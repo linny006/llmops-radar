@@ -1,11 +1,92 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22375,
+    "updated_at": "2026-06-19T15:26:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50895,
+    "updated_at": "2026-06-19T15:28:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:22:14Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Open protocol for runtime budget and action authority over AI agents",
+    "id": "runcycles/cycles-protocol",
+    "language": "Python",
+    "name": "runcycles/cycles-protocol",
+    "stars": 3,
+    "updated_at": "2026-06-19T15:21:05Z",
+    "url": "https://github.com/runcycles/cycles-protocol"
+  },
+  {
+    "description": "Evidence-gated RAG infrastructure for grounded, cited answers or structured abstentions - with hybrid retrieval, OpenAI-",
+    "id": "akbar-yusupov/ContextGate",
+    "language": "Python",
+    "name": "akbar-yusupov/ContextGate",
+    "stars": 2,
+    "updated_at": "2026-06-19T15:19:22Z",
+    "url": "https://github.com/akbar-yusupov/ContextGate"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26623,
+    "updated_at": "2026-06-19T15:18:33Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-19T15:17:29Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:16:05Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T15:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29380,
-    "updated_at": "2026-06-19T15:14:25Z",
+    "updated_at": "2026-06-19T15:28:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -45,33 +126,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:15:05Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50892,
-    "updated_at": "2026-06-19T15:08:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T15:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -104,7 +158,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28855,
-    "updated_at": "2026-06-19T14:51:50Z",
+    "updated_at": "2026-06-19T15:30:12Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19698,
-    "updated_at": "2026-06-19T14:49:15Z",
+    "updated_at": "2026-06-19T15:22:56Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -158,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-19T15:10:30Z",
+    "updated_at": "2026-06-19T15:29:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -176,7 +230,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3017,
-    "updated_at": "2026-06-19T14:00:33Z",
+    "updated_at": "2026-06-19T15:25:39Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -275,7 +329,7 @@
     "language": "Java",
     "name": "runcycles/cycles-server",
     "stars": 3,
-    "updated_at": "2026-06-19T12:45:10Z",
+    "updated_at": "2026-06-19T15:29:59Z",
     "url": "https://github.com/runcycles/cycles-server"
   },
   {
@@ -347,7 +401,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 18,
-    "updated_at": "2026-06-19T15:02:24Z",
+    "updated_at": "2026-06-19T15:20:37Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -358,33 +412,6 @@
     "stars": 9,
     "updated_at": "2026-06-19T11:23:26Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-19T11:22:56Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:21:24Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26622,
-    "updated_at": "2026-06-19T14:28:21Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
@@ -421,32 +448,5 @@
     "stars": 314,
     "updated_at": "2026-06-19T10:51:34Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "Evidence-driven skill evolution for Hermes Agent \u2014 reports, dry-run proposals, candidate search, and guarded apply",
-    "id": "pingchesu/hermes-curator-evolver",
-    "language": "Python",
-    "name": "pingchesu/hermes-curator-evolver",
-    "stars": 20,
-    "updated_at": "2026-06-19T10:33:43Z",
-    "url": "https://github.com/pingchesu/hermes-curator-evolver"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 13,
-    "updated_at": "2026-06-19T10:23:05Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "xinglun/ai-cockpit-template",
-    "language": "Python",
-    "name": "xinglun/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-06-19T10:22:59Z",
-    "url": "https://github.com/xinglun/ai-cockpit-template"
   }
 ]
