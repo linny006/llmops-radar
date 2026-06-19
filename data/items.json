@@ -1,5 +1,104 @@
 [
   {
+    "description": "Offline LLM / agent eval harness with regression gates",
+    "id": "cognis-digital/evalbench",
+    "language": "Python",
+    "name": "cognis-digital/evalbench",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:15:02Z",
+    "url": "https://github.com/cognis-digital/evalbench"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5903,
+    "updated_at": "2026-06-19T18:12:49Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 28859,
+    "updated_at": "2026-06-19T18:14:39Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Config-first scaffolding and orchestration for multi-agent workflows",
+    "id": "cognis-digital/agentsmith",
+    "language": "Python",
+    "name": "cognis-digital/agentsmith",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:10:14Z",
+    "url": "https://github.com/cognis-digital/agentsmith"
+  },
+  {
+    "description": "Batteries-included local RAG pipeline \u2014 ingest, index, serve",
+    "id": "cognis-digital/ragkit",
+    "language": "Python",
+    "name": "cognis-digital/ragkit",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:09:40Z",
+    "url": "https://github.com/cognis-digital/ragkit"
+  },
+  {
+    "description": "Runtime allowlist and policy for agent tool-calls",
+    "id": "cognis-digital/toolguard",
+    "language": "Python",
+    "name": "cognis-digital/toolguard",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:08:43Z",
+    "url": "https://github.com/cognis-digital/toolguard"
+  },
+  {
+    "description": "Local skill registry and installer for AI agents",
+    "id": "cognis-digital/skillhub",
+    "language": "Python",
+    "name": "cognis-digital/skillhub",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:08:38Z",
+    "url": "https://github.com/cognis-digital/skillhub"
+  },
+  {
+    "description": "Local model router / proxy across Ollama, vLLM, and cloud with fallback",
+    "id": "cognis-digital/modelroute",
+    "language": "Python",
+    "name": "cognis-digital/modelroute",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:07:47Z",
+    "url": "https://github.com/cognis-digital/modelroute"
+  },
+  {
+    "description": "Versioned prompt / template registry with A/B and rollbacks",
+    "id": "cognis-digital/promptpack",
+    "language": "Python",
+    "name": "cognis-digital/promptpack",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:06:09Z",
+    "url": "https://github.com/cognis-digital/promptpack"
+  },
+  {
+    "description": "Portable long-term memory store for agents, exposed over MCP",
+    "id": "cognis-digital/memorybank",
+    "language": "Python",
+    "name": "cognis-digital/memorybank",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:03:37Z",
+    "url": "https://github.com/cognis-digital/memorybank"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T18:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -36,24 +135,6 @@
     "url": "https://github.com/13auth/M3Mgine"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T17:53:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 28859,
-    "updated_at": "2026-06-19T17:45:57Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
     "id": "hyeonsangjeon/when-reasoning-pays-off",
     "language": "Python",
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50908,
-    "updated_at": "2026-06-19T17:44:56Z",
+    "updated_at": "2026-06-19T18:08:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -148,7 +229,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22380,
+    "stars": 22381,
     "updated_at": "2026-06-19T17:00:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -167,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-19T17:58:00Z",
+    "updated_at": "2026-06-19T18:13:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -265,7 +346,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26628,
+    "stars": 26629,
     "updated_at": "2026-06-19T15:18:33Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -277,15 +358,6 @@
     "stars": 118,
     "updated_at": "2026-06-19T15:18:24Z",
     "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5903,
-    "updated_at": "2026-06-19T15:13:56Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps \u2014 built for engineers shipping AI syst",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T13:48:39Z",
     "url": "https://github.com/forjd-hermes-bot/agentprov"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 78,
-    "updated_at": "2026-06-19T13:43:50Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "TypeScript",
-    "name": "dataelement/bisheng",
-    "stars": 11460,
-    "updated_at": "2026-06-19T14:57:35Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Datadog for LLM apps, for indie devs. Drop-in Python SDK + free self-host. Latency, cost, hallucination patterns out of ",
-    "id": "anejakartik/tracelens",
-    "language": "Python",
-    "name": "anejakartik/tracelens",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:33:03Z",
-    "url": "https://github.com/anejakartik/tracelens"
-  },
-  {
-    "description": "Persistent graph memory architecture for multi-agent AI systems using Graphiti, FalkorDB, and MCP.",
-    "id": "sadbeto/multi-agent-graph-memory",
-    "language": "Python",
-    "name": "sadbeto/multi-agent-graph-memory",
-    "stars": 3,
-    "updated_at": "2026-06-19T13:27:36Z",
-    "url": "https://github.com/sadbeto/multi-agent-graph-memory"
-  },
-  {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 2,
-    "updated_at": "2026-06-19T13:20:55Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "LLMOps evaluation: RAGAS RAG metrics, Claude-as-judge, A/B testing, prompt versioning, cost analytics dashboard.",
-    "id": "shaikn6/llmops-eval-platform",
-    "language": "Python",
-    "name": "shaikn6/llmops-eval-platform",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:03:04Z",
-    "url": "https://github.com/shaikn6/llmops-eval-platform"
-  },
-  {
-    "description": "Production LLM gateway: OpenAI-compatible API, semantic caching, intelligent routing across Claude/OpenAI/Ollama, cost a",
-    "id": "shaikn6/llm-gateway",
-    "language": "Python",
-    "name": "shaikn6/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:02:59Z",
-    "url": "https://github.com/shaikn6/llm-gateway"
-  },
-  {
-    "description": "Framework-agnostic testing for AI agents \u2014 define pass/fail in plain English, run multi-turn tests, turn failures into a",
-    "id": "dinanjana/test-agent",
-    "language": "TypeScript",
-    "name": "dinanjana/test-agent",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:35:14Z",
-    "url": "https://github.com/dinanjana/test-agent"
   }
 ]
