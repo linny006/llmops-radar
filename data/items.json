@@ -1,12 +1,21 @@
 [
   {
-    "description": "Marketing + Documentation Site for llama-dash",
-    "id": "ndom91/llama-dash-docs",
-    "language": "MDX",
-    "name": "ndom91/llama-dash-docs",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:14:59Z",
-    "url": "https://github.com/ndom91/llama-dash-docs"
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "xinglun/ai-cockpit-template",
+    "language": "Python",
+    "name": "xinglun/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-06-19T23:21:30Z",
+    "url": "https://github.com/xinglun/ai-cockpit-template"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-19T23:16:41Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,17 +23,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-19T23:13:48Z",
+    "updated_at": "2026-06-19T23:15:29Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "xinglun/ai-cockpit-template",
-    "language": "Python",
-    "name": "xinglun/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-06-19T23:12:53Z",
-    "url": "https://github.com/xinglun/ai-cockpit-template"
+    "description": "Marketing + Documentation Site for llama-dash",
+    "id": "ndom91/llama-dash-docs",
+    "language": "MDX",
+    "name": "ndom91/llama-dash-docs",
+    "stars": 0,
+    "updated_at": "2026-06-19T23:14:59Z",
+    "url": "https://github.com/ndom91/llama-dash-docs"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -90,15 +99,6 @@
     "url": "https://github.com/forjd/agentprov"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-19T22:56:12Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -148,7 +148,7 @@
     "id": "ThreeMoonsLab/agents-shipgate",
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 48,
+    "stars": 49,
     "updated_at": "2026-06-19T21:36:32Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
