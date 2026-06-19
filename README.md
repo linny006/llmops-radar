@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 02:15 UTC
+> ⏰ Last updated: 2026-06-19 02:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26610 | Python | 2026-06-19 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22361 | TypeScript | 2026-06-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50821 | Python | 2026-06-19 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50823 | Python | 2026-06-19 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26610 | Python | 2026-06-19 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22361 | TypeScript | 2026-06-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | HTML | 2026-06-19 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
 | 6 | [manojmallick/skillweave](https://github.com/manojmallick/skillweave) | 0 | TypeScript | 2026-06-19 | An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills — orchestration, schema  |
 | 7 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 35 | TypeScript | 2026-06-19 | The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
@@ -60,7 +60,7 @@ expired items removed — so you can rely on what you see being current.
 | 16 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7672 | Rust | 2026-06-18 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 17 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10190 | Python | 2026-06-19 | AI Observability & Evaluation |
 | 18 | [runcycles/cycles-spring-boot-starter](https://github.com/runcycles/cycles-spring-boot-starter) | 2 | Java | 2026-06-18 | Spring Boot starter for Cycles — runtime budget authority for AI agents |
-| 19 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29350 | TypeScript | 2026-06-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 19 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29351 | TypeScript | 2026-06-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 20 | [DiogoRibeiro7/llm-data-platform](https://github.com/DiogoRibeiro7/llm-data-platform) | 0 | Python | 2026-06-18 | Python monorepo for the LLM data lifecycle: contract-linked ingestion, dataset curation, and observability. |
 | 21 | [xinglun/ai-cockpit-template](https://github.com/xinglun/ai-cockpit-template) | 1 | Python | 2026-06-18 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
 | 22 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 73 | Rust | 2026-06-18 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
