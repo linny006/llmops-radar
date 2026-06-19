@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 20:57 UTC
+> ⏰ Last updated: 2026-06-19 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,8 +43,8 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [forjd/agentprov](https://github.com/forjd/agentprov) | 1 | Rust | 2026-06-19 | Signed, tamper-evident provenance records for AI agent runs |
-| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 3 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-19 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-19 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
 | 4 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1037 | Python | 2026-06-19 | OpenTelemetry Instrumentation for AI Observability |
 | 5 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5905 | Go | 2026-06-19 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 6 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28861 | TypeScript | 2026-06-19 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
