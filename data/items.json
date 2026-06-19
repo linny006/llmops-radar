@@ -1,11 +1,65 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-19T09:29:32Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:21:58Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19695,
+    "updated_at": "2026-06-19T09:18:18Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Python monorepo for the LLM data lifecycle: contract-linked ingestion, dataset curation, and observability.",
+    "id": "DiogoRibeiro7/llm-data-platform",
+    "language": "Python",
+    "name": "DiogoRibeiro7/llm-data-platform",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:17:56Z",
+    "url": "https://github.com/DiogoRibeiro7/llm-data-platform"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:16:01Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T09:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29366,
-    "updated_at": "2026-06-19T09:14:45Z",
+    "stars": 29367,
+    "updated_at": "2026-06-19T09:29:19Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 9,
     "updated_at": "2026-06-19T09:08:11Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19694,
-    "updated_at": "2026-06-19T09:14:00Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
@@ -54,24 +99,6 @@
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-19T09:13:25Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T09:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
     "id": "abhilashsblai/ctxlayer-release",
     "language": "\u2014",
@@ -97,15 +124,6 @@
     "stars": 314,
     "updated_at": "2026-06-19T08:52:03Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-06-19T08:42:32Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
     "description": "Open-source toolkit for assessing whether an AI workflow is ready for production: governance, RAG quality, evals, observ",
@@ -162,21 +180,12 @@
     "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T08:11:42Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5898,
-    "updated_at": "2026-06-19T08:50:36Z",
+    "updated_at": "2026-06-19T09:28:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -274,7 +283,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50857,
+    "stars": 50859,
     "updated_at": "2026-06-19T06:29:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -439,14 +448,5 @@
     "stars": 22369,
     "updated_at": "2026-06-19T03:48:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress,",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "Python",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 20,
-    "updated_at": "2026-06-19T03:37:13Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
   }
 ]
