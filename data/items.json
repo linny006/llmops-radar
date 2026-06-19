@@ -1,5 +1,59 @@
 [
   {
+    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
+    "id": "hyeonsangjeon/when-reasoning-pays-off",
+    "language": "Python",
+    "name": "hyeonsangjeon/when-reasoning-pays-off",
+    "stars": 3,
+    "updated_at": "2026-06-19T18:28:00Z",
+    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 28859,
+    "updated_at": "2026-06-19T18:28:39Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Datadog for LLM apps, for indie devs. Drop-in Python SDK + free self-host. Latency, cost, hallucination patterns out of ",
+    "id": "anejakartik/tracelens",
+    "language": "Python",
+    "name": "anejakartik/tracelens",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:21:22Z",
+    "url": "https://github.com/anejakartik/tracelens"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-19T18:17:58Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50908,
+    "updated_at": "2026-06-19T18:15:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-19T18:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Offline LLM / agent eval harness with regression gates",
     "id": "cognis-digital/evalbench",
     "language": "Python",
@@ -9,22 +63,22 @@
     "url": "https://github.com/cognis-digital/evalbench"
   },
   {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4222,
+    "updated_at": "2026-06-19T18:13:32Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5903,
-    "updated_at": "2026-06-19T18:12:49Z",
+    "stars": 5904,
+    "updated_at": "2026-06-19T18:29:40Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 28859,
-    "updated_at": "2026-06-19T18:14:39Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Config-first scaffolding and orchestration for multi-agent workflows",
@@ -90,15 +144,6 @@
     "url": "https://github.com/cognis-digital/memorybank"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-19T18:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -135,24 +180,6 @@
     "url": "https://github.com/13auth/M3Mgine"
   },
   {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 3,
-    "updated_at": "2026-06-19T17:45:53Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50908,
-    "updated_at": "2026-06-19T18:08:49Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
     "id": "tmusser/ai-engineering-skills",
     "language": "Python",
@@ -178,15 +205,6 @@
     "stars": 5,
     "updated_at": "2026-06-19T17:33:56Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-06-19T17:40:57Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -248,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-19T18:13:14Z",
+    "updated_at": "2026-06-19T18:26:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10197,
-    "updated_at": "2026-06-19T15:52:25Z",
+    "updated_at": "2026-06-19T18:20:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1037,
-    "updated_at": "2026-06-19T14:44:23Z",
+    "updated_at": "2026-06-19T18:29:19Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-19T14:10:57Z",
     "url": "https://github.com/blake-hamm/kube-ai-stack"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-06-19T13:54:16Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "OpenTelemetry-compatible identity and provenance primitives for AI agent runs",
-    "id": "forjd-hermes-bot/agentprov",
-    "language": "Rust",
-    "name": "forjd-hermes-bot/agentprov",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:48:39Z",
-    "url": "https://github.com/forjd-hermes-bot/agentprov"
   }
 ]
