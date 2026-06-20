@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 02:15 UTC
+> ⏰ Last updated: 2026-06-20 02:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [dr-gareth-roberts/insideLLMs](https://github.com/dr-gareth-roberts/insideLLMs) | 1 | Python | 2026-06-20 | insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h |
-| 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-20 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 3 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 1 | Python | 2026-06-20 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
-| 4 | [taichuy/1flowbase](https://github.com/taichuy/1flowbase) | 141 | Rust | 2026-06-20 | Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 1 | Python | 2026-06-20 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [dr-gareth-roberts/insideLLMs](https://github.com/dr-gareth-roberts/insideLLMs) | 1 | Python | 2026-06-20 | insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h |
+| 4 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-20 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 5 | [taichuy/1flowbase](https://github.com/taichuy/1flowbase) | 141 | Rust | 2026-06-20 | Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v |
 | 6 | [prashar32/riskkernel](https://github.com/prashar32/riskkernel) | 18 | Go | 2026-06-20 | Deterministic cost / loop / time budgets · full observability · crash-resumable runs · human-approval gates · a memory y |
 | 7 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-06-20 | ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s |
 | 8 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-06-20 | Seldon APIs.json profile for API Evangelist catalog |
@@ -58,7 +58,7 @@ expired items removed — so you can rely on what you see being current.
 | 14 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | Shell | 2026-06-20 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
 | 15 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10200 | Python | 2026-06-20 | AI Observability & Evaluation |
 | 16 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50922 | Python | 2026-06-20 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 17 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22389 | TypeScript | 2026-06-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 17 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22390 | TypeScript | 2026-06-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 18 | [KIM3310/enterprise-llm-adoption-kit](https://github.com/KIM3310/enterprise-llm-adoption-kit) | 0 | Python | 2026-06-20 | LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters. |
 | 19 | [bahree/ModelAdaptationBook](https://github.com/bahree/ModelAdaptationBook) | 1 | Python | 2026-06-20 | Companion code for the Manning book 'LLM Customization and Fine-Tuning.' Adapt open-weights LLMs end to end: prompting a |
 | 20 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-20 | The opinionated workflow engine and governance layer for agent-driven software development. |
