@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 01:45 UTC
+> ⏰ Last updated: 2026-06-20 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [prashar32/riskkernel](https://github.com/prashar32/riskkernel) | 18 | Go | 2026-06-20 | Deterministic cost / loop / time budgets · full observability · crash-resumable runs · human-approval gates · a memory y |
-| 2 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-06-20 | ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s |
-| 3 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-06-20 | Seldon APIs.json profile for API Evangelist catalog |
-| 4 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-06-20 | Arize Phoenix APIs.json profile for API Evangelist catalog |
-| 5 | [api-evangelist/opik](https://github.com/api-evangelist/opik) | 0 | — | 2026-06-20 | Opik APIs.json profile for API Evangelist catalog |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [prashar32/riskkernel](https://github.com/prashar32/riskkernel) | 18 | Go | 2026-06-20 | Deterministic cost / loop / time budgets · full observability · crash-resumable runs · human-approval gates · a memory y |
+| 3 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-06-20 | ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s |
+| 4 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-06-20 | Seldon APIs.json profile for API Evangelist catalog |
+| 5 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-06-20 | Arize Phoenix APIs.json profile for API Evangelist catalog |
+| 6 | [api-evangelist/opik](https://github.com/api-evangelist/opik) | 0 | — | 2026-06-20 | Opik APIs.json profile for API Evangelist catalog |
 | 7 | [api-evangelist/log10](https://github.com/api-evangelist/log10) | 0 | — | 2026-06-20 | Log10 APIs.json profile for API Evangelist catalog |
 | 8 | [api-evangelist/evidently](https://github.com/api-evangelist/evidently) | 0 | — | 2026-06-20 | Evidently AI APIs.json profile for API Evangelist catalog |
 | 9 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-06-20 | Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t |
 | 10 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | Shell | 2026-06-20 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
 | 11 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 1 | Python | 2026-06-20 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
 | 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10199 | Python | 2026-06-20 | AI Observability & Evaluation |
-| 13 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50920 | Python | 2026-06-20 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 13 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50922 | Python | 2026-06-20 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 14 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-20 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 15 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22389 | TypeScript | 2026-06-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 16 | [KIM3310/enterprise-llm-adoption-kit](https://github.com/KIM3310/enterprise-llm-adoption-kit) | 0 | Python | 2026-06-20 | LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters. |
@@ -73,7 +73,7 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [Msc-Company-Org/llm-finetune-eval](https://github.com/Msc-Company-Org/llm-finetune-eval) | 0 | Python | 2026-06-20 | Benchmark a fine-tuned model against your frontier-API baseline — accuracy, cost per 1k calls, latency, format adherence |
 | 30 | [ndom91/llama-dash-docs](https://github.com/ndom91/llama-dash-docs) | 0 | MDX | 2026-06-19 | Marketing + Documentation Site for llama-dash |
 | 31 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19699 | Python | 2026-06-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 32 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29390 | TypeScript | 2026-06-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 32 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29391 | TypeScript | 2026-06-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 33 | [MattJackson/busbarAI](https://github.com/MattJackson/busbarAI) | 4 | Rust | 2026-06-19 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
 | 34 | [forjd/agentprov](https://github.com/forjd/agentprov) | 1 | Rust | 2026-06-19 | Signed, tamper-evident provenance records for AI agent runs |
 | 35 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-06-19 | LLM Systems Manager — real-time observability and control for LLM systems |
