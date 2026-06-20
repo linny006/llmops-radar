@@ -1,12 +1,75 @@
 [
   {
+    "description": "AI cost visibility and reliability for Claude deployments",
+    "id": "steadioai/steadio",
+    "language": "TypeScript",
+    "name": "steadioai/steadio",
+    "stars": 0,
+    "updated_at": "2026-06-20T00:28:25Z",
+    "url": "https://github.com/steadioai/steadio"
+  },
+  {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-06-20T00:25:33Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
     "name": "Ohswedd/vincio",
     "stars": 1,
-    "updated_at": "2026-06-20T00:15:09Z",
+    "updated_at": "2026-06-20T00:22:08Z",
     "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
+    "id": "prashar32/riskkernel",
+    "language": "Go",
+    "name": "prashar32/riskkernel",
+    "stars": 18,
+    "updated_at": "2026-06-20T00:24:53Z",
+    "url": "https://github.com/prashar32/riskkernel"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "xinglun/ai-cockpit-template",
+    "language": "Python",
+    "name": "xinglun/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-06-20T00:19:07Z",
+    "url": "https://github.com/xinglun/ai-cockpit-template"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-20T00:16:57Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 10,
+    "updated_at": "2026-06-20T00:16:40Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-20T00:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "fireflyframework/fireflyframework-agentic",
     "stars": 4,
-    "updated_at": "2026-06-20T00:11:11Z",
+    "updated_at": "2026-06-20T00:30:20Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
@@ -40,7 +103,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50916,
+    "stars": 50918,
     "updated_at": "2026-06-20T00:09:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -52,15 +115,6 @@
     "stars": 22387,
     "updated_at": "2026-06-20T00:13:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-20T00:06:58Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -81,30 +135,12 @@
     "url": "https://github.com/Msc-Company-Org/llm-finetune-eval"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-20T00:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "xinglun/ai-cockpit-template",
-    "language": "Python",
-    "name": "xinglun/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-06-20T00:00:31Z",
-    "url": "https://github.com/xinglun/ai-cockpit-template"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10198,
-    "updated_at": "2026-06-20T00:02:16Z",
+    "updated_at": "2026-06-20T00:27:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28865,
-    "updated_at": "2026-06-19T23:50:09Z",
+    "updated_at": "2026-06-20T00:25:25Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T21:14:44Z",
     "url": "https://github.com/jpoindexter/winnow"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:02:28Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T16:31:34Z",
     "url": "https://github.com/merido-dev/merido"
-  },
-  {
-    "description": "Evidence-gated RAG infrastructure for grounded, cited answers or structured abstentions - with hybrid retrieval, OpenAI-",
-    "id": "akbar-yusupov/ContextGate",
-    "language": "Python",
-    "name": "akbar-yusupov/ContextGate",
-    "stars": 2,
-    "updated_at": "2026-06-19T16:16:29Z",
-    "url": "https://github.com/akbar-yusupov/ContextGate"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5454,
-    "updated_at": "2026-06-19T15:48:50Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Compressed Knowledge Graph MCP server \u2014 42\u00d7 more efficient than RAG on structural queries",
-    "id": "Yarmoluk/ckg-mcp",
-    "language": "Python",
-    "name": "Yarmoluk/ckg-mcp",
-    "stars": 3,
-    "updated_at": "2026-06-19T15:39:04Z",
-    "url": "https://github.com/Yarmoluk/ckg-mcp"
   }
 ]
