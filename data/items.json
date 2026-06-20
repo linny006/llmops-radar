@@ -1,12 +1,48 @@
 [
   {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:09:23Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
     "description": "Lens: pure-Python RLM interpret layer over Knitweb fabric data",
     "id": "Knitweb/lens",
     "language": "Python",
     "name": "Knitweb/lens",
     "stars": 0,
-    "updated_at": "2026-06-20T13:00:11Z",
+    "updated_at": "2026-06-20T13:07:58Z",
     "url": "https://github.com/Knitweb/lens"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-20T13:07:00Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 2,
+    "updated_at": "2026-06-20T13:03:53Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-20T13:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, r",
@@ -16,15 +52,6 @@
     "stars": 21,
     "updated_at": "2026-06-20T12:58:50Z",
     "url": "https://github.com/zendev-sh/zenflow"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 2,
-    "updated_at": "2026-06-20T12:55:02Z",
-    "url": "https://github.com/bj-qizhi/trigix"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -41,7 +68,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-20T12:52:17Z",
+    "updated_at": "2026-06-20T13:07:55Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -54,15 +81,6 @@
     "url": "https://github.com/jimyoshida/dx-devops-landscape"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-20T12:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -70,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-06-20T12:41:54Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-20T12:35:16Z",
-    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "A fast, local-first AI gateway in Rust \u2014 route any coding CLI (Claude Code, Codex, Cursor\u2026) to 40+ LLM providers, save t",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "SeydinaBANE/sovereign-rag",
     "stars": 0,
-    "updated_at": "2026-06-20T12:56:12Z",
+    "updated_at": "2026-06-20T13:11:27Z",
     "url": "https://github.com/SeydinaBANE/sovereign-rag"
   },
   {
@@ -135,15 +144,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:00:10Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
-  },
-  {
     "description": "Standalone self-improvement harness for agent traces, memory, skills, evaluation, and fine-tuning exports",
     "id": "lamenting-hawthorn/SkillLoop",
     "language": "Python",
@@ -157,7 +157,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50953,
+    "stars": 50954,
     "updated_at": "2026-06-20T11:26:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -292,7 +292,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29412,
+    "stars": 29413,
     "updated_at": "2026-06-20T09:29:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -428,7 +428,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 143,
-    "updated_at": "2026-06-20T12:32:58Z",
+    "updated_at": "2026-06-20T13:05:30Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
