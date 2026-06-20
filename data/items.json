@@ -1,11 +1,38 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:09:29Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-06-20T20:02:45Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2427,
+    "updated_at": "2026-06-20T20:01:26Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T19:55:56Z",
+    "updated_at": "2026-06-20T20:00:23Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -36,15 +63,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:33:48Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
     "id": "bj-qizhi/trigix",
     "language": "Rust",
@@ -61,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-06-20T19:27:27Z",
     "url": "https://github.com/tpanigrahy207/model-swap-test-poc"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5921,
+    "updated_at": "2026-06-20T19:27:21Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -117,15 +144,6 @@
     "url": "https://github.com/adepeju4/attest"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5920,
-    "updated_at": "2026-06-20T19:27:21Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
     "id": "mwigge/rs-llmctl",
     "language": "Rust",
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "tma1-ai/openfuse",
     "stars": 0,
-    "updated_at": "2026-06-20T18:29:52Z",
+    "updated_at": "2026-06-20T20:12:40Z",
     "url": "https://github.com/tma1-ai/openfuse"
   },
   {
@@ -166,7 +184,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10213,
+    "stars": 10215,
     "updated_at": "2026-06-20T18:26:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -306,21 +324,12 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-06-20T14:39:34Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 84,
-    "updated_at": "2026-06-20T14:33:28Z",
+    "updated_at": "2026-06-20T20:12:52Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 41,
     "updated_at": "2026-06-20T12:18:38Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Deterministic, zero-dependency CLI that catches AI-agent regressions in CI from recorded traces: policy + baseline check",
-    "id": "theo-ai-lab/plimsoll",
-    "language": "Python",
-    "name": "theo-ai-lab/plimsoll",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:16:01Z",
-    "url": "https://github.com/theo-ai-lab/plimsoll"
   }
 ]
