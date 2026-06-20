@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 09:38 UTC
+> ⏰ Last updated: 2026-06-20 09:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [acornops/control-plane](https://github.com/acornops/control-plane) | 0 | TypeScript | 2026-06-20 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
-| 2 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | Shell | 2026-06-20 | ThakiCloud Tech Blog |
-| 3 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 7 | TypeScript | 2026-06-20 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [acornops/control-plane](https://github.com/acornops/control-plane) | 0 | TypeScript | 2026-06-20 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
+| 3 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | Shell | 2026-06-20 | ThakiCloud Tech Blog |
+| 4 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 7 | TypeScript | 2026-06-20 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
 | 5 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29404 | TypeScript | 2026-06-20 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 6 | [shaxzodbek-uzb/mcp-confidence](https://github.com/shaxzodbek-uzb/mcp-confidence) | 0 | Python | 2026-06-20 | A drop-in confidence gate for LLM agents: turn token logprobs into an accept / verify / ask-a-human routing decision, wi |
 | 7 | [fireflyframework/fireflyframework-agentic](https://github.com/fireflyframework/fireflyframework-agentic) | 4 | Python | 2026-06-20 | In-process Python metaframework on Pydantic AI for production GenAI — composable, protocol-driven layers for agents & mi |
