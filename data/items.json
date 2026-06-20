@@ -1,21 +1,39 @@
 [
   {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:00:10Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5911,
+    "updated_at": "2026-06-20T11:55:59Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-20T11:52:27Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "Standalone self-improvement harness for agent traces, memory, skills, evaluation, and fine-tuning exports",
     "id": "lamenting-hawthorn/SkillLoop",
     "language": "Python",
     "name": "lamenting-hawthorn/SkillLoop",
     "stars": 6,
-    "updated_at": "2026-06-20T11:34:58Z",
+    "updated_at": "2026-06-20T11:50:55Z",
     "url": "https://github.com/lamenting-hawthorn/SkillLoop"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-20T11:33:18Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -23,8 +41,26 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-20T11:32:33Z",
+    "updated_at": "2026-06-20T11:48:09Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 41,
+    "updated_at": "2026-06-20T11:45:53Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-20T11:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -49,7 +85,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50951,
+    "stars": 50952,
     "updated_at": "2026-06-20T11:26:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T11:26:07Z",
     "url": "https://github.com/ndom91/llama-dash-docs"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-20T11:45:07Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -117,15 +144,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:14:11Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
-  },
-  {
     "description": "Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production.",
     "id": "TravelXML/GenAIScope",
     "language": "Python",
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T11:09:06Z",
     "url": "https://github.com/SeydinaBANE/sovereign-rag"
-  },
-  {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 41,
-    "updated_at": "2026-06-20T11:36:48Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
     "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
@@ -229,7 +238,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29408,
+    "stars": 29409,
     "updated_at": "2026-06-20T09:29:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -250,15 +259,6 @@
     "stars": 4,
     "updated_at": "2026-06-20T09:18:51Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5910,
-    "updated_at": "2026-06-20T11:40:38Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -374,7 +374,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 143,
-    "updated_at": "2026-06-20T10:37:02Z",
+    "updated_at": "2026-06-20T11:50:45Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
