@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 2,
+    "updated_at": "2026-06-20T17:29:37Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Prompt-aware LLM routing: predict which model can complete a prompt, then route to the cheapest one.",
+    "id": "xorbitsai/xrouter-llm",
+    "language": "Python",
+    "name": "xorbitsai/xrouter-llm",
+    "stars": 0,
+    "updated_at": "2026-06-20T17:26:38Z",
+    "url": "https://github.com/xorbitsai/xrouter-llm"
+  },
+  {
+    "description": "Deterministic cost / loop / time budgets \u00b7 full observability \u00b7 crash-resumable runs \u00b7 human-approval gates \u00b7 a memory y",
+    "id": "prashar32/riskkernel",
+    "language": "Go",
+    "name": "prashar32/riskkernel",
+    "stars": 18,
+    "updated_at": "2026-06-20T17:26:38Z",
+    "url": "https://github.com/prashar32/riskkernel"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-20T17:26:21Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50976,
+    "updated_at": "2026-06-20T17:26:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-20T17:25:24Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5920,
+    "updated_at": "2026-06-20T17:23:42Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-20T17:23:00Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-20T17:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -27,15 +108,6 @@
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50975,
-    "updated_at": "2026-06-20T17:09:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
     "id": "impartshadow/agent-contracts",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T17:06:34Z",
     "url": "https://github.com/impartshadow/agent-contracts"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-20T17:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Sovereign, compliance-by-design RAG accelerator \u2014 Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib",
@@ -99,15 +162,6 @@
     "url": "https://github.com/jainanushk8/swarm-pim"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:23:40Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Self-hostable, token-frugal OpenAI-compatible LLM gateway \u2014 multi-provider routing, virtual keys + budgets, caching, cos",
     "id": "k1y0miiii/llm-gateway",
     "language": "Python",
@@ -115,33 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T15:59:02Z",
     "url": "https://github.com/k1y0miiii/llm-gateway"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-20T15:49:58Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-20T15:49:32Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5920,
-    "updated_at": "2026-06-20T15:27:19Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Evidence-grounded evaluation for AI agents \u2014 verifies each claim against the agent's real tool outputs (constrained, evi",
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-20T09:34:05Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29423,
-    "updated_at": "2026-06-20T09:29:08Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "A drop-in confidence gate for LLM agents: turn token logprobs into an accept / verify / ask-a-human routing decision, wi",
-    "id": "shaxzodbek-uzb/mcp-confidence",
-    "language": "Python",
-    "name": "shaxzodbek-uzb/mcp-confidence",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:24:04Z",
-    "url": "https://github.com/shaxzodbek-uzb/mcp-confidence"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-20T09:18:51Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   }
 ]
