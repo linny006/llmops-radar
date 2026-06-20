@@ -1,12 +1,39 @@
 [
   {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-20T12:41:54Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-20T12:35:16Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "Shell",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-06-20T12:20:43Z",
+    "updated_at": "2026-06-20T12:34:50Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-20T12:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A fast, local-first AI gateway in Rust \u2014 route any coding CLI (Claude Code, Codex, Cursor\u2026) to 40+ LLM providers, save t",
@@ -34,15 +61,6 @@
     "stars": 41,
     "updated_at": "2026-06-20T12:18:38Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-20T12:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -81,15 +99,6 @@
     "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-20T12:19:04Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Standalone self-improvement harness for agent traces, memory, skills, evaluation, and fine-tuning exports",
     "id": "lamenting-hawthorn/SkillLoop",
     "language": "Python",
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T12:10:02Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-20T11:31:31Z",
-    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -256,7 +256,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29409,
+    "stars": 29411,
     "updated_at": "2026-06-20T09:29:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -374,7 +374,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1231,
-    "updated_at": "2026-06-20T06:39:49Z",
+    "updated_at": "2026-06-20T12:38:50Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -392,7 +392,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 143,
-    "updated_at": "2026-06-20T11:50:45Z",
+    "updated_at": "2026-06-20T12:32:58Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
