@@ -1,12 +1,39 @@
 [
   {
+    "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 143,
+    "updated_at": "2026-06-20T06:13:51Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T06:00:29Z",
+    "updated_at": "2026-06-20T06:02:29Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50936,
+    "updated_at": "2026-06-20T06:14:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
+    "id": "ramenprotokol/hallucination-hunter",
+    "language": "Python",
+    "name": "ramenprotokol/hallucination-hunter",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:01:13Z",
+    "url": "https://github.com/ramenprotokol/hallucination-hunter"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -14,17 +41,8 @@
     "language": "Python",
     "name": "xinglun/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-06-20T05:55:32Z",
+    "updated_at": "2026-06-20T06:14:16Z",
     "url": "https://github.com/xinglun/ai-cockpit-template"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50934,
-    "updated_at": "2026-06-20T06:01:59Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:05:50Z",
     "url": "https://github.com/MOulikSharma7/Helm_2.0"
-  },
-  {
-    "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 143,
-    "updated_at": "2026-06-20T05:02:00Z",
-    "url": "https://github.com/taichuy/1flowbase"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -202,7 +211,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 7687,
+    "stars": 7688,
     "updated_at": "2026-06-20T02:41:49Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-19T22:45:44Z",
     "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
-    "description": "Signed, tamper-evident provenance records for AI agent runs",
-    "id": "forjd/agentprov",
-    "language": "Rust",
-    "name": "forjd/agentprov",
-    "stars": 1,
-    "updated_at": "2026-06-19T22:43:00Z",
-    "url": "https://github.com/forjd/agentprov"
   }
 ]
