@@ -1,12 +1,48 @@
 [
   {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-06-20T03:45:03Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress,",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "Python",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 20,
+    "updated_at": "2026-06-20T03:36:11Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 141,
+    "updated_at": "2026-06-20T03:44:13Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50926,
-    "updated_at": "2026-06-20T03:27:14Z",
+    "stars": 50927,
+    "updated_at": "2026-06-20T03:32:08Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-20T03:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -18,15 +54,6 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-20T03:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
     "id": "DYAI2025/Plumbline",
     "language": "Shell",
@@ -34,15 +61,6 @@
     "stars": 6,
     "updated_at": "2026-06-20T03:13:41Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 141,
-    "updated_at": "2026-06-20T02:59:33Z",
-    "url": "https://github.com/taichuy/1flowbase"
   },
   {
     "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
@@ -247,7 +265,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28867,
+    "stars": 28868,
     "updated_at": "2026-06-20T00:25:25Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29394,
-    "updated_at": "2026-06-19T22:57:55Z",
+    "updated_at": "2026-06-20T03:37:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-19T20:12:40Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Open-source memory + enforcement layer for AI agents: turn a correction into a rule that's enforced before the next outp",
-    "id": "13auth/M3Mgine",
-    "language": "Python",
-    "name": "13auth/M3Mgine",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:48:10Z",
-    "url": "https://github.com/13auth/M3Mgine"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3310,
-    "updated_at": "2026-06-20T02:43:00Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
