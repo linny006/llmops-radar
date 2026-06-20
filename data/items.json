@@ -1,5 +1,41 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5911,
+    "updated_at": "2026-06-20T12:15:04Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Deterministic, zero-dependency CLI that catches AI-agent regressions in CI from recorded traces: policy + baseline check",
+    "id": "theo-ai-lab/plimsoll",
+    "language": "Python",
+    "name": "theo-ai-lab/plimsoll",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:10:28Z",
+    "url": "https://github.com/theo-ai-lab/plimsoll"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22396,
+    "updated_at": "2026-06-20T12:04:47Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-20T12:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
     "id": "ictseoyoungmin/HADARA",
     "language": "TypeScript",
@@ -7,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T12:00:10Z",
     "url": "https://github.com/ictseoyoungmin/HADARA"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5911,
-    "updated_at": "2026-06-20T11:55:59Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -41,7 +68,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-20T11:48:09Z",
+    "updated_at": "2026-06-20T12:10:02Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -50,17 +77,8 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 41,
-    "updated_at": "2026-06-20T11:45:53Z",
+    "updated_at": "2026-06-20T12:10:56Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-20T11:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "SeydinaBANE/sovereign-rag",
     "stars": 0,
-    "updated_at": "2026-06-20T11:09:06Z",
+    "updated_at": "2026-06-20T12:05:47Z",
     "url": "https://github.com/SeydinaBANE/sovereign-rag"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T10:00:15Z",
     "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22395,
-    "updated_at": "2026-06-20T10:00:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-06-20T10:32:30Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and o",
-    "id": "GoogleCloudPlatform/agent-starter-pack",
-    "language": "Python",
-    "name": "GoogleCloudPlatform/agent-starter-pack",
-    "stars": 6486,
-    "updated_at": "2026-06-20T03:49:17Z",
-    "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
   }
 ]
