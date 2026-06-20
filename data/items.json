@@ -1,11 +1,47 @@
 [
   {
+    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
+    "id": "KIM3310/enterprise-llm-adoption-kit",
+    "language": "Python",
+    "name": "KIM3310/enterprise-llm-adoption-kit",
+    "stars": 0,
+    "updated_at": "2026-06-20T10:00:15Z",
+    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
+  },
+  {
+    "description": "Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production.",
+    "id": "TravelXML/GenAIScope",
+    "language": "Python",
+    "name": "TravelXML/GenAIScope",
+    "stars": 1,
+    "updated_at": "2026-06-20T09:59:09Z",
+    "url": "https://github.com/TravelXML/GenAIScope"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-06-20T09:48:36Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-06-20T09:46:15Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T09:38:46Z",
+    "updated_at": "2026-06-20T09:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/winderai/winder-demos-eval-comparison"
   },
   {
-    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
-    "id": "KIM3310/enterprise-llm-adoption-kit",
-    "language": "Python",
-    "name": "KIM3310/enterprise-llm-adoption-kit",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:16:10Z",
-    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -297,15 +324,6 @@
     "url": "https://github.com/MOulikSharma7/Helm_2.0"
   },
   {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-06-20T04:49:03Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
     "description": "End-to-end LLM evaluation console: run prompts across model variants and compare latency, TTFT, cost, token usage, autom",
     "id": "Yevsquant/Model-Eval-Console",
     "language": "Python",
@@ -351,6 +369,15 @@
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
+    "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and o",
+    "id": "GoogleCloudPlatform/agent-starter-pack",
+    "language": "Python",
+    "name": "GoogleCloudPlatform/agent-starter-pack",
+    "stars": 6486,
+    "updated_at": "2026-06-20T03:49:17Z",
+    "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
+  },
+  {
     "description": "A fast, local-first AI gateway in Rust \u2014 route any coding CLI (Claude Code, Codex, Cursor\u2026) to 40+ LLM providers, save t",
     "id": "merido-dev/merido",
     "language": "Rust",
@@ -387,15 +414,6 @@
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
-    "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-06-20T09:41:29Z",
-    "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 18,
     "updated_at": "2026-06-20T01:45:41Z",
     "url": "https://github.com/prashar32/riskkernel"
-  },
-  {
-    "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:37:26Z",
-    "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "Seldon APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/seldon",
-    "language": "\u2014",
-    "name": "api-evangelist/seldon",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:33:23Z",
-    "url": "https://github.com/api-evangelist/seldon"
   }
 ]
