@@ -1,12 +1,66 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50957,
+    "updated_at": "2026-06-20T13:28:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Lens: pure-Python RLM interpret layer over Knitweb fabric data",
     "id": "Knitweb/lens",
     "language": "Python",
     "name": "Knitweb/lens",
     "stars": 0,
-    "updated_at": "2026-06-20T13:14:48Z",
+    "updated_at": "2026-06-20T13:26:45Z",
     "url": "https://github.com/Knitweb/lens"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 2,
+    "updated_at": "2026-06-20T13:24:16Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "Shell",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-06-20T13:23:38Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Sovereign, compliance-by-design RAG accelerator \u2014 Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib",
+    "id": "SeydinaBANE/sovereign-rag",
+    "language": "Python",
+    "name": "SeydinaBANE/sovereign-rag",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:19:41Z",
+    "url": "https://github.com/SeydinaBANE/sovereign-rag"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:18:29Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A fast, local-first AI gateway in Rust \u2014 route any coding CLI (Claude Code, Codex, Cursor\u2026) to 40+ LLM providers, save t",
+    "id": "merido-dev/merido",
+    "language": "Rust",
+    "name": "merido-dev/merido",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:18:13Z",
+    "url": "https://github.com/merido-dev/merido"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T13:12:03Z",
+    "updated_at": "2026-06-20T13:15:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -31,7 +85,7 @@
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
-    "stars": 4223,
+    "stars": 4224,
     "updated_at": "2026-06-20T13:08:40Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
@@ -45,40 +99,13 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 2,
-    "updated_at": "2026-06-20T13:03:53Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, r",
     "id": "zendev-sh/zenflow",
     "language": "Go",
     "name": "zendev-sh/zenflow",
     "stars": 21,
-    "updated_at": "2026-06-20T12:58:50Z",
+    "updated_at": "2026-06-20T13:27:46Z",
     "url": "https://github.com/zendev-sh/zenflow"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "Shell",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-06-20T12:54:57Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-20T13:07:55Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
@@ -97,24 +124,6 @@
     "stars": 5,
     "updated_at": "2026-06-20T12:41:54Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "A fast, local-first AI gateway in Rust \u2014 route any coding CLI (Claude Code, Codex, Cursor\u2026) to 40+ LLM providers, save t",
-    "id": "merido-dev/merido",
-    "language": "Rust",
-    "name": "merido-dev/merido",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:19:29Z",
-    "url": "https://github.com/merido-dev/merido"
-  },
-  {
-    "description": "Sovereign, compliance-by-design RAG accelerator \u2014 Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib",
-    "id": "SeydinaBANE/sovereign-rag",
-    "language": "Python",
-    "name": "SeydinaBANE/sovereign-rag",
-    "stars": 0,
-    "updated_at": "2026-06-20T13:11:27Z",
-    "url": "https://github.com/SeydinaBANE/sovereign-rag"
   },
   {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
@@ -160,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-06-20T11:50:55Z",
     "url": "https://github.com/lamenting-hawthorn/SkillLoop"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50954,
-    "updated_at": "2026-06-20T11:26:43Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Marketing + Documentation Site for llama-dash",
@@ -301,7 +301,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29413,
+    "stars": 29414,
     "updated_at": "2026-06-20T09:29:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -437,7 +437,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 143,
-    "updated_at": "2026-06-20T13:05:30Z",
+    "updated_at": "2026-06-20T13:21:11Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
