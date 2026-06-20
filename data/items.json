@@ -1,12 +1,39 @@
 [
   {
-    "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
-    "id": "impartshadow/agent-contracts",
-    "language": "Python",
-    "name": "impartshadow/agent-contracts",
+    "description": "Audit OpenClaw agent spend, waste, and before/after improvements.",
+    "id": "xergai/xerg",
+    "language": "TypeScript",
+    "name": "xergai/xerg",
+    "stars": 3,
+    "updated_at": "2026-06-20T20:57:24Z",
+    "url": "https://github.com/xergai/xerg"
+  },
+  {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
     "stars": 0,
-    "updated_at": "2026-06-20T20:45:25Z",
-    "url": "https://github.com/impartshadow/agent-contracts"
+    "updated_at": "2026-06-20T20:56:34Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 28879,
+    "updated_at": "2026-06-20T20:57:39Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50980,
+    "updated_at": "2026-06-20T20:56:21Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,17 +41,26 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-20T20:43:04Z",
+    "updated_at": "2026-06-20T20:53:04Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "A secure file system for your agents to execute code",
-    "id": "las7/TakoVM",
+    "description": "Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o",
+    "id": "kalyan-venk/agentic-llmops",
+    "language": "TeX",
+    "name": "kalyan-venk/agentic-llmops",
+    "stars": 1,
+    "updated_at": "2026-06-20T20:52:36Z",
+    "url": "https://github.com/kalyan-venk/agentic-llmops"
+  },
+  {
+    "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
+    "id": "impartshadow/agent-contracts",
     "language": "Python",
-    "name": "las7/TakoVM",
-    "stars": 65,
-    "updated_at": "2026-06-20T20:37:52Z",
-    "url": "https://github.com/las7/TakoVM"
+    "name": "impartshadow/agent-contracts",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:47:03Z",
+    "url": "https://github.com/impartshadow/agent-contracts"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +68,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T20:30:24Z",
+    "updated_at": "2026-06-20T20:45:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Course 02 \u2014 AI Engineering: build, ship & operate real AI apps (beginner, lab-first, M0\u2013M35)",
+    "id": "ThinkTechConsultingLLC/course-02-ai-engineering",
+    "language": "Python",
+    "name": "ThinkTechConsultingLLC/course-02-ai-engineering",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:45:08Z",
+    "url": "https://github.com/ThinkTechConsultingLLC/course-02-ai-engineering"
+  },
+  {
+    "description": "A secure file system for your agents to execute code",
+    "id": "las7/TakoVM",
+    "language": "Python",
+    "name": "las7/TakoVM",
+    "stars": 65,
+    "updated_at": "2026-06-20T20:51:48Z",
+    "url": "https://github.com/las7/TakoVM"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -49,7 +103,7 @@
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
-    "stars": 84,
+    "stars": 85,
     "updated_at": "2026-06-20T20:27:01Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T20:19:12Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-06-20T20:17:37Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "apache/burr",
     "stars": 2427,
-    "updated_at": "2026-06-20T20:01:26Z",
+    "updated_at": "2026-06-20T20:57:01Z",
     "url": "https://github.com/apache/burr"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T19:48:12Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50979,
-    "updated_at": "2026-06-20T19:40:54Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5921,
-    "updated_at": "2026-06-20T19:27:21Z",
+    "updated_at": "2026-06-20T20:50:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -279,24 +315,6 @@
     "url": "https://github.com/prashar32/riskkernel"
   },
   {
-    "description": "Audit OpenClaw agent spend, waste, and before/after improvements.",
-    "id": "xergai/xerg",
-    "language": "TypeScript",
-    "name": "xergai/xerg",
-    "stars": 2,
-    "updated_at": "2026-06-20T20:44:58Z",
-    "url": "https://github.com/xergai/xerg"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 28879,
-    "updated_at": "2026-06-20T17:07:10Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 440,
     "updated_at": "2026-06-20T13:35:57Z",
     "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "Shell",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-06-20T13:23:38Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4224,
-    "updated_at": "2026-06-20T19:26:49Z",
-    "url": "https://github.com/Agenta-AI/agenta"
   }
 ]
