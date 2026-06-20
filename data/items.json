@@ -1,11 +1,29 @@
 [
   {
+    "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
+    "id": "impartshadow/agent-contracts",
+    "language": "Python",
+    "name": "impartshadow/agent-contracts",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:16:54Z",
+    "url": "https://github.com/impartshadow/agent-contracts"
+  },
+  {
+    "description": "Evidence-grounded evaluation for AI agents \u2014 verifies each claim against the agent's real tool outputs (constrained, evi",
+    "id": "adepeju4/attest",
+    "language": "Python",
+    "name": "adepeju4/attest",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:16:23Z",
+    "url": "https://github.com/adepeju4/attest"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T15:14:28Z",
+    "updated_at": "2026-06-20T15:15:27Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 21,
     "updated_at": "2026-06-20T15:05:14Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
-    "id": "impartshadow/agent-contracts",
-    "language": "Python",
-    "name": "impartshadow/agent-contracts",
-    "stars": 0,
-    "updated_at": "2026-06-20T15:01:06Z",
-    "url": "https://github.com/impartshadow/agent-contracts"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -198,21 +207,12 @@
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
-    "description": "Evidence-grounded evaluation for AI agents \u2014 verifies each claim against the agent's real tool outputs (constrained, evi",
-    "id": "adepeju4/attest",
-    "language": "Python",
-    "name": "adepeju4/attest",
-    "stars": 0,
-    "updated_at": "2026-06-20T13:34:23Z",
-    "url": "https://github.com/adepeju4/attest"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5914,
-    "updated_at": "2026-06-20T13:33:18Z",
+    "updated_at": "2026-06-20T15:27:19Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -220,7 +220,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50966,
+    "stars": 50969,
     "updated_at": "2026-06-20T13:28:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -250,6 +250,15 @@
     "stars": 4224,
     "updated_at": "2026-06-20T14:05:25Z",
     "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
+    "description": "SwarmPIM is a production-grade, containerized PIM system engineered with Next.js 14 and FastAPI. It orchestrates a multi",
+    "id": "jainanushk8/swarm-pim",
+    "language": "Python",
+    "name": "jainanushk8/swarm-pim",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:00:06Z",
+    "url": "https://github.com/jainanushk8/swarm-pim"
   },
   {
     "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
@@ -382,7 +391,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29418,
+    "stars": 29419,
     "updated_at": "2026-06-20T09:29:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 70,
     "updated_at": "2026-06-20T08:18:57Z",
     "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
-  },
-  {
-    "description": "Side-by-side evaluation of a RAG pipeline across three model and retrieval configurations (GPT-5, Claude Sonnet/Haiku; n",
-    "id": "winderai/winder-demos-eval-comparison",
-    "language": "Python",
-    "name": "winderai/winder-demos-eval-comparison",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:12:12Z",
-    "url": "https://github.com/winderai/winder-demos-eval-comparison"
   }
 ]
