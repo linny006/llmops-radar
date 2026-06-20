@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 05:15 UTC
+> ⏰ Last updated: 2026-06-20 05:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-20 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 2 | [xinglun/ai-cockpit-template](https://github.com/xinglun/ai-cockpit-template) | 1 | Python | 2026-06-20 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 3 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-20 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 4 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-20 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 5 | [taichuy/1flowbase](https://github.com/taichuy/1flowbase) | 143 | Rust | 2026-06-20 | Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [xinglun/ai-cockpit-template](https://github.com/xinglun/ai-cockpit-template) | 1 | Python | 2026-06-20 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-20 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 4 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-20 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 5 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-20 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 6 | [taichuy/1flowbase](https://github.com/taichuy/1flowbase) | 143 | Rust | 2026-06-20 | Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v |
 | 7 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-20 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
 | 8 | [Yevsquant/Model-Eval-Console](https://github.com/Yevsquant/Model-Eval-Console) | 0 | Python | 2026-06-20 | End-to-end LLM evaluation console: run prompts across model variants and compare latency, TTFT, cost, token usage, autom |
 | 9 | [kalyan-venk/agentic-llmops](https://github.com/kalyan-venk/agentic-llmops) | 1 | TeX | 2026-06-20 | Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o |
@@ -56,7 +56,7 @@ expired items removed — so you can rely on what you see being current.
 | 12 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | Shell | 2026-06-20 | ThakiCloud Tech Blog |
 | 13 | [spanlens/Spanlens](https://github.com/spanlens/Spanlens) | 9 | TypeScript | 2026-06-20 | Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost |
 | 14 | [merido-dev/merido](https://github.com/merido-dev/merido) | 0 | Rust | 2026-06-20 | A fast, local-first AI gateway in Rust — route any coding CLI (Claude Code, Codex, Cursor…) to 40+ LLM providers, save t |
-| 15 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29397 | TypeScript | 2026-06-20 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 15 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29399 | TypeScript | 2026-06-20 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 16 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 20 | Python | 2026-06-20 | ⚡ Awesome AI Gateway — curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress, |
 | 17 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50933 | Python | 2026-06-20 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 18 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 1 | Python | 2026-06-20 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
