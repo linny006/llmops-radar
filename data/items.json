@@ -1,12 +1,21 @@
 [
   {
-    "description": "Marketing + Documentation Site for llama-dash",
-    "id": "ndom91/llama-dash-docs",
-    "language": "MDX",
-    "name": "ndom91/llama-dash-docs",
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
     "stars": 0,
-    "updated_at": "2026-06-20T11:00:15Z",
-    "url": "https://github.com/ndom91/llama-dash-docs"
+    "updated_at": "2026-06-20T11:14:16Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:14:11Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -14,8 +23,26 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 83,
-    "updated_at": "2026-06-20T10:48:07Z",
+    "updated_at": "2026-06-20T11:11:52Z",
     "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production.",
+    "id": "TravelXML/GenAIScope",
+    "language": "Python",
+    "name": "TravelXML/GenAIScope",
+    "stars": 1,
+    "updated_at": "2026-06-20T11:11:29Z",
+    "url": "https://github.com/TravelXML/GenAIScope"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:10:28Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T10:45:25Z",
+    "updated_at": "2026-06-20T11:00:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Marketing + Documentation Site for llama-dash",
+    "id": "ndom91/llama-dash-docs",
+    "language": "MDX",
+    "name": "ndom91/llama-dash-docs",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:00:15Z",
+    "url": "https://github.com/ndom91/llama-dash-docs"
   },
   {
     "description": "Standalone self-improvement harness for agent traces, memory, skills, evaluation, and fine-tuning exports",
@@ -36,21 +72,12 @@
     "url": "https://github.com/lamenting-hawthorn/SkillLoop"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-20T10:25:57Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Sovereign, compliance-by-design RAG accelerator \u2014 Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib",
     "id": "SeydinaBANE/sovereign-rag",
     "language": "Python",
     "name": "SeydinaBANE/sovereign-rag",
     "stars": 0,
-    "updated_at": "2026-06-20T10:25:55Z",
+    "updated_at": "2026-06-20T11:09:06Z",
     "url": "https://github.com/SeydinaBANE/sovereign-rag"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-06-20T10:15:08Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production.",
-    "id": "TravelXML/GenAIScope",
-    "language": "Python",
-    "name": "TravelXML/GenAIScope",
-    "stars": 1,
-    "updated_at": "2026-06-20T10:11:50Z",
-    "url": "https://github.com/TravelXML/GenAIScope"
   },
   {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
@@ -106,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-06-20T10:00:15Z",
     "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22396,
+    "updated_at": "2026-06-20T10:00:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -207,21 +234,12 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:50:06Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50948,
-    "updated_at": "2026-06-20T08:30:31Z",
+    "stars": 50950,
+    "updated_at": "2026-06-20T11:13:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:35:20Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "xinglun/ai-cockpit-template",
     "language": "Python",
@@ -364,7 +373,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10205,
+    "stars": 10206,
     "updated_at": "2026-06-20T05:49:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -436,17 +445,8 @@
     "id": "cuihuan/awesome-ai-gateway",
     "language": "Python",
     "name": "cuihuan/awesome-ai-gateway",
-    "stars": 20,
+    "stars": 21,
     "updated_at": "2026-06-20T03:36:11Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-20T03:17:23Z",
-    "url": "https://github.com/Ohswedd/vincio"
   }
 ]
