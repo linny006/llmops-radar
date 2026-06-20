@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 19:55 UTC
+> ⏰ Last updated: 2026-06-20 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [lisn0/tidal](https://github.com/lisn0/tidal) | 0 | HTML | 2026-06-20 | llmcfo |
-| 2 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-06-20 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [lisn0/tidal](https://github.com/lisn0/tidal) | 0 | HTML | 2026-06-20 | llmcfo |
+| 3 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-06-20 | LLM Systems Manager — real-time observability and control for LLM systems |
 | 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50979 | Python | 2026-06-20 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 5 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-20 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 6 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 2 | Rust | 2026-06-20 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
