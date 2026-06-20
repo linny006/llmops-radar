@@ -1,12 +1,21 @@
 [
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "HTML",
+    "name": "lisn0/tidal",
     "stars": 0,
-    "updated_at": "2026-06-20T19:33:48Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "updated_at": "2026-06-20T19:55:41Z",
+    "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-20T19:48:12Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T19:30:26Z",
+    "updated_at": "2026-06-20T19:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50979,
+    "updated_at": "2026-06-20T19:40:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-20T19:33:48Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -117,15 +144,6 @@
     "url": "https://github.com/runcycles/cycles-dashboard"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50979,
-    "updated_at": "2026-06-20T19:40:54Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted quota dashboard for CLIProxyAPI-backed Codex OAuth pools, with NixOS module, agent recommendations, and Prom",
     "id": "xsyxnx/codex-quota-monitor",
     "language": "Python",
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:52:20Z",
     "url": "https://github.com/xsyxnx/codex-quota-monitor"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-06-20T18:36:56Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Langfuse on GreptimeDB. Self-hosted LLM observability.",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "dr-gareth-roberts/insideLLMs",
     "stars": 1,
-    "updated_at": "2026-06-20T16:48:31Z",
+    "updated_at": "2026-06-20T19:47:19Z",
     "url": "https://github.com/dr-gareth-roberts/insideLLMs"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T12:16:01Z",
     "url": "https://github.com/theo-ai-lab/plimsoll"
-  },
-  {
-    "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and o",
-    "id": "GoogleCloudPlatform/agent-starter-pack",
-    "language": "Python",
-    "name": "GoogleCloudPlatform/agent-starter-pack",
-    "stars": 6488,
-    "updated_at": "2026-06-20T12:02:15Z",
-    "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
   }
 ]
