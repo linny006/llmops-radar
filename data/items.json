@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "xinglun/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-06-20T05:38:20Z",
+    "updated_at": "2026-06-20T05:55:32Z",
     "url": "https://github.com/xinglun/ai-cockpit-template"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50934,
+    "updated_at": "2026-06-20T05:54:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10204,
+    "updated_at": "2026-06-20T05:49:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T05:30:22Z",
+    "updated_at": "2026-06-20T05:45:29Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -43,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:09:51Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A self-hosted, vendor-neutral LLM gateway / control plane. API-key auth, regex PII redaction, prompt cache, YAML routing",
+    "id": "MOulikSharma7/Helm_2.0",
+    "language": "Python",
+    "name": "MOulikSharma7/Helm_2.0",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:05:50Z",
+    "url": "https://github.com/MOulikSharma7/Helm_2.0"
   },
   {
     "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
@@ -130,7 +157,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29399,
+    "stars": 29400,
     "updated_at": "2026-06-20T03:37:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -142,15 +169,6 @@
     "stars": 20,
     "updated_at": "2026-06-20T03:36:11Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50933,
-    "updated_at": "2026-06-20T05:37:53Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:21:40Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10204,
-    "updated_at": "2026-06-20T01:15:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T22:43:00Z",
     "url": "https://github.com/forjd/agentprov"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-06-19T22:19:49Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
