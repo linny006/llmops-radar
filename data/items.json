@@ -1,5 +1,41 @@
 [
   {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 70,
+    "updated_at": "2026-06-20T16:38:58Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
+    "id": "dr-gareth-roberts/insideLLMs",
+    "language": "Python",
+    "name": "dr-gareth-roberts/insideLLMs",
+    "stars": 1,
+    "updated_at": "2026-06-20T16:35:52Z",
+    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
+  },
+  {
+    "description": "Marketing + Documentation Site for llama-dash",
+    "id": "ndom91/llama-dash-docs",
+    "language": "MDX",
+    "name": "ndom91/llama-dash-docs",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:31:59Z",
+    "url": "https://github.com/ndom91/llama-dash-docs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-20T16:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "SwarmPIM is a production-grade, containerized PIM system engineered with Next.js 14 and FastAPI. It orchestrates a multi",
     "id": "jainanushk8/swarm-pim",
     "language": "Python",
@@ -36,30 +72,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "A fast, local-first AI gateway in Rust \u2014 route any coding CLI (Claude Code, Codex, Cursor\u2026) to 40+ LLM providers, save t",
-    "id": "merido-dev/merido",
-    "language": "Rust",
-    "name": "merido-dev/merido",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:16:54Z",
-    "url": "https://github.com/merido-dev/merido"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-20T16:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50972,
-    "updated_at": "2026-06-20T16:24:31Z",
+    "updated_at": "2026-06-20T16:42:24Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -103,7 +121,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5918,
+    "stars": 5920,
     "updated_at": "2026-06-20T15:27:19Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T15:13:33Z",
     "url": "https://github.com/ictseoyoungmin/HADARA"
-  },
-  {
-    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
-    "id": "dr-gareth-roberts/insideLLMs",
-    "language": "Python",
-    "name": "dr-gareth-roberts/insideLLMs",
-    "stars": 1,
-    "updated_at": "2026-06-20T16:24:28Z",
-    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress,",
@@ -198,15 +207,6 @@
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "Marketing + Documentation Site for llama-dash",
-    "id": "ndom91/llama-dash-docs",
-    "language": "MDX",
-    "name": "ndom91/llama-dash-docs",
-    "stars": 0,
-    "updated_at": "2026-06-20T14:09:29Z",
-    "url": "https://github.com/ndom91/llama-dash-docs"
-  },
-  {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
@@ -221,7 +221,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28875,
-    "updated_at": "2026-06-20T16:16:49Z",
+    "updated_at": "2026-06-20T16:44:46Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -302,7 +302,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-20T12:41:54Z",
+    "updated_at": "2026-06-20T16:40:37Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -427,7 +427,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29421,
+    "stars": 29422,
     "updated_at": "2026-06-20T09:29:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
