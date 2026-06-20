@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 15:14 UTC
+> ⏰ Last updated: 2026-06-20 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ictseoyoungmin/HADARA](https://github.com/ictseoyoungmin/HADARA) | 0 | TypeScript | 2026-06-20 | Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows. |
-| 2 | [dr-gareth-roberts/insideLLMs](https://github.com/dr-gareth-roberts/insideLLMs) | 1 | Python | 2026-06-20 | insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h |
-| 3 | [merido-dev/merido](https://github.com/merido-dev/merido) | 0 | Rust | 2026-06-20 | A fast, local-first AI gateway in Rust — route any coding CLI (Claude Code, Codex, Cursor…) to 40+ LLM providers, save t |
-| 4 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 2 | Rust | 2026-06-20 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
-| 5 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 21 | Python | 2026-06-20 | ⚡ Awesome AI Gateway — curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress, |
-| 6 | [impartshadow/agent-contracts](https://github.com/impartshadow/agent-contracts) | 0 | Python | 2026-06-20 | Deterministic pre/post-condition guardrails for LLM agents — no model in the loop. |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [ictseoyoungmin/HADARA](https://github.com/ictseoyoungmin/HADARA) | 0 | TypeScript | 2026-06-20 | Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows. |
+| 3 | [dr-gareth-roberts/insideLLMs](https://github.com/dr-gareth-roberts/insideLLMs) | 1 | Python | 2026-06-20 | insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h |
+| 4 | [merido-dev/merido](https://github.com/merido-dev/merido) | 0 | Rust | 2026-06-20 | A fast, local-first AI gateway in Rust — route any coding CLI (Claude Code, Codex, Cursor…) to 40+ LLM providers, save t |
+| 5 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 2 | Rust | 2026-06-20 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
+| 6 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 21 | Python | 2026-06-20 | ⚡ Awesome AI Gateway — curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress, |
+| 7 | [impartshadow/agent-contracts](https://github.com/impartshadow/agent-contracts) | 0 | Python | 2026-06-20 | Deterministic pre/post-condition guardrails for LLM agents — no model in the loop. |
 | 8 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-20 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 9 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-20 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
 | 10 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 83 | Rust | 2026-06-20 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
