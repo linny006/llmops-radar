@@ -1,12 +1,30 @@
 [
   {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-20T02:22:54Z",
-    "url": "https://github.com/Ohswedd/vincio"
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-06-20T02:41:05Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-20T02:38:21Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7685,
+    "updated_at": "2026-06-20T02:41:49Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T02:15:28Z",
+    "updated_at": "2026-06-20T02:30:23Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-20T02:22:54Z",
+    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
@@ -41,7 +68,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 141,
-    "updated_at": "2026-06-20T02:08:58Z",
+    "updated_at": "2026-06-20T02:45:19Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -117,15 +144,6 @@
     "url": "https://github.com/api-evangelist/dify"
   },
   {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-20T02:05:46Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -139,7 +157,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50922,
+    "stars": 50923,
     "updated_at": "2026-06-20T01:08:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -232,6 +250,15 @@
     "stars": 10,
     "updated_at": "2026-06-20T00:16:40Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 50,
+    "updated_at": "2026-06-20T00:15:09Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -342,29 +369,11 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7685,
-    "updated_at": "2026-06-19T22:06:55Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
-    "id": "ThreeMoonsLab/agents-shipgate",
-    "language": "Python",
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "stars": 49,
-    "updated_at": "2026-06-20T00:15:09Z",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5907,
+    "stars": 5908,
     "updated_at": "2026-06-19T21:36:19Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -410,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-20T01:44:45Z",
+    "updated_at": "2026-06-20T02:43:00Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-19T18:28:00Z",
     "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
-  },
-  {
-    "description": "Offline LLM / agent eval harness with regression gates",
-    "id": "cognis-digital/evalbench",
-    "language": "Python",
-    "name": "cognis-digital/evalbench",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:15:02Z",
-    "url": "https://github.com/cognis-digital/evalbench"
   }
 ]
