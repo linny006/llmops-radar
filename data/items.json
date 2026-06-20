@@ -1,21 +1,48 @@
 [
   {
-    "description": "Sovereign, compliance-by-design RAG accelerator \u2014 Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib",
-    "id": "SeydinaBANE/sovereign-rag",
-    "language": "Python",
-    "name": "SeydinaBANE/sovereign-rag",
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-20T16:59:49Z",
-    "url": "https://github.com/SeydinaBANE/sovereign-rag"
+    "updated_at": "2026-06-20T17:13:53Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Audit OpenClaw agent spend, waste, and before/after improvements.",
+    "id": "xergai/xerg",
+    "language": "TypeScript",
+    "name": "xergai/xerg",
+    "stars": 2,
+    "updated_at": "2026-06-20T17:12:50Z",
+    "url": "https://github.com/xergai/xerg"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 2,
+    "updated_at": "2026-06-20T17:12:30Z",
+    "url": "https://github.com/bj-qizhi/trigix"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50974,
-    "updated_at": "2026-06-20T16:56:43Z",
+    "stars": 50975,
+    "updated_at": "2026-06-20T17:09:07Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
+    "id": "impartshadow/agent-contracts",
+    "language": "Python",
+    "name": "impartshadow/agent-contracts",
+    "stars": 0,
+    "updated_at": "2026-06-20T17:06:34Z",
+    "url": "https://github.com/impartshadow/agent-contracts"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,17 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T16:53:16Z",
+    "updated_at": "2026-06-20T17:00:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
+    "description": "Sovereign, compliance-by-design RAG accelerator \u2014 Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib",
+    "id": "SeydinaBANE/sovereign-rag",
+    "language": "Python",
+    "name": "SeydinaBANE/sovereign-rag",
     "stars": 0,
-    "updated_at": "2026-06-20T16:51:17Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "updated_at": "2026-06-20T17:09:06Z",
+    "url": "https://github.com/SeydinaBANE/sovereign-rag"
   },
   {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
@@ -72,24 +99,6 @@
     "url": "https://github.com/jainanushk8/swarm-pim"
   },
   {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 2,
-    "updated_at": "2026-06-20T16:24:59Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
-    "id": "impartshadow/agent-contracts",
-    "language": "Python",
-    "name": "impartshadow/agent-contracts",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:23:44Z",
-    "url": "https://github.com/impartshadow/agent-contracts"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T15:59:02Z",
     "url": "https://github.com/k1y0miiii/llm-gateway"
-  },
-  {
-    "description": "Audit OpenClaw agent spend, waste, and before/after improvements.",
-    "id": "xergai/xerg",
-    "language": "TypeScript",
-    "name": "xergai/xerg",
-    "stars": 2,
-    "updated_at": "2026-06-20T15:55:19Z",
-    "url": "https://github.com/xergai/xerg"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -230,7 +230,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28875,
-    "updated_at": "2026-06-20T16:44:46Z",
+    "updated_at": "2026-06-20T17:07:10Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
