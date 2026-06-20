@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 2,
+    "updated_at": "2026-06-20T14:10:15Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Marketing + Documentation Site for llama-dash",
+    "id": "ndom91/llama-dash-docs",
+    "language": "MDX",
+    "name": "ndom91/llama-dash-docs",
     "stars": 0,
-    "updated_at": "2026-06-20T14:00:05Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+    "updated_at": "2026-06-20T14:09:29Z",
+    "url": "https://github.com/ndom91/llama-dash-docs"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,8 +23,44 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-20T13:59:11Z",
+    "updated_at": "2026-06-20T14:08:17Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-20T14:04:12Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-06-20T14:01:44Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-20T14:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-20T14:00:05Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -34,24 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T13:53:27Z",
     "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 2,
-    "updated_at": "2026-06-20T13:47:14Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-20T13:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
@@ -81,11 +108,20 @@
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5913,
+    "updated_at": "2026-06-20T13:33:18Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 50957,
+    "stars": 50959,
     "updated_at": "2026-06-20T13:28:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4224,
-    "updated_at": "2026-06-20T13:36:04Z",
+    "updated_at": "2026-06-20T14:05:25Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -171,15 +207,6 @@
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5912,
-    "updated_at": "2026-06-20T13:33:18Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Deterministic, zero-dependency CLI that catches AI-agent regressions in CI from recorded traces: policy + baseline check",
     "id": "theo-ai-lab/plimsoll",
     "language": "Python",
@@ -193,7 +220,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22397,
+    "stars": 22399,
     "updated_at": "2026-06-20T12:04:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -207,30 +234,12 @@
     "url": "https://github.com/lamenting-hawthorn/SkillLoop"
   },
   {
-    "description": "Marketing + Documentation Site for llama-dash",
-    "id": "ndom91/llama-dash-docs",
-    "language": "MDX",
-    "name": "ndom91/llama-dash-docs",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:26:07Z",
-    "url": "https://github.com/ndom91/llama-dash-docs"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-20T11:19:21Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 83,
-    "updated_at": "2026-06-20T11:17:50Z",
+    "updated_at": "2026-06-20T14:06:02Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1231,
     "updated_at": "2026-06-20T12:38:50Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "xinglun/ai-cockpit-template",
-    "language": "Python",
-    "name": "xinglun/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:20:41Z",
-    "url": "https://github.com/xinglun/ai-cockpit-template"
   }
 ]
