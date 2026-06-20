@@ -1,12 +1,21 @@
 [
   {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-20T03:13:41Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50926,
+    "updated_at": "2026-06-20T03:27:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-20T03:17:23Z",
+    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T03:00:25Z",
+    "updated_at": "2026-06-20T03:15:23Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-20T03:13:41Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
@@ -61,15 +79,6 @@
     "stars": 44,
     "updated_at": "2026-06-20T02:41:05Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-20T02:22:54Z",
-    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
@@ -169,15 +178,6 @@
     "stars": 10200,
     "updated_at": "2026-06-20T01:15:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50925,
-    "updated_at": "2026-06-20T01:08:49Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -324,6 +324,15 @@
     "url": "https://github.com/Msc-Company-Org/llm-finetune-eval"
   },
   {
+    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+    "id": "traceloop/openllmetry",
+    "language": "Python",
+    "name": "traceloop/openllmetry",
+    "stars": 7210,
+    "updated_at": "2026-06-19T23:43:17Z",
+    "url": "https://github.com/traceloop/openllmetry"
+  },
+  {
     "description": "Marketing + Documentation Site for llama-dash",
     "id": "ndom91/llama-dash-docs",
     "language": "MDX",
@@ -337,7 +346,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19699,
+    "stars": 19700,
     "updated_at": "2026-06-19T23:04:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -346,7 +355,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29392,
+    "stars": 29394,
     "updated_at": "2026-06-19T22:57:55Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 3310,
     "updated_at": "2026-06-20T02:43:00Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
-    "id": "anejakartik/evalstack",
-    "language": "TypeScript",
-    "name": "anejakartik/evalstack",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:44:10Z",
-    "url": "https://github.com/anejakartik/evalstack"
   }
 ]
