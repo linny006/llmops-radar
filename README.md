@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 21:00 UTC
+> ⏰ Last updated: 2026-06-20 21:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [xergai/xerg](https://github.com/xergai/xerg) | 3 | TypeScript | 2026-06-20 | Audit OpenClaw agent spend, waste, and before/after improvements. |
-| 2 | [JonyKarmakar/vision-command-ai](https://github.com/JonyKarmakar/vision-command-ai) | 0 | TypeScript | 2026-06-20 | End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock |
-| 3 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28879 | TypeScript | 2026-06-20 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50980 | Python | 2026-06-20 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 5 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-20 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 6 | [kalyan-venk/agentic-llmops](https://github.com/kalyan-venk/agentic-llmops) | 1 | TeX | 2026-06-20 | Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o |
-| 7 | [impartshadow/agent-contracts](https://github.com/impartshadow/agent-contracts) | 0 | Python | 2026-06-20 | Deterministic pre/post-condition guardrails for LLM agents — no model in the loop. |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [ThinkTechConsultingLLC/course-02-ai-engineering](https://github.com/ThinkTechConsultingLLC/course-02-ai-engineering) | 0 | Python | 2026-06-20 | Course 02 — AI Engineering: build, ship & operate real AI apps (beginner, lab-first, M0–M35) |
-| 10 | [las7/TakoVM](https://github.com/las7/TakoVM) | 65 | Python | 2026-06-20 | A secure file system for your agents to execute code |
-| 11 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | Shell | 2026-06-20 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
-| 12 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 85 | Rust | 2026-06-20 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
-| 13 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-20 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-20 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 2 | [ThinkTechConsultingLLC/course-02-ai-engineering](https://github.com/ThinkTechConsultingLLC/course-02-ai-engineering) | 0 | Python | 2026-06-20 | Course 02 — AI Engineering: build, ship & operate real AI apps (beginner, lab-first, M0–M35) |
+| 3 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | Shell | 2026-06-20 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [xergai/xerg](https://github.com/xergai/xerg) | 3 | TypeScript | 2026-06-20 | Audit OpenClaw agent spend, waste, and before/after improvements. |
+| 6 | [JonyKarmakar/vision-command-ai](https://github.com/JonyKarmakar/vision-command-ai) | 0 | TypeScript | 2026-06-20 | End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock |
+| 7 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28879 | TypeScript | 2026-06-20 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50980 | Python | 2026-06-20 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 9 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-20 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 10 | [kalyan-venk/agentic-llmops](https://github.com/kalyan-venk/agentic-llmops) | 1 | TeX | 2026-06-20 | Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o |
+| 11 | [impartshadow/agent-contracts](https://github.com/impartshadow/agent-contracts) | 0 | Python | 2026-06-20 | Deterministic pre/post-condition guardrails for LLM agents — no model in the loop. |
+| 12 | [las7/TakoVM](https://github.com/las7/TakoVM) | 65 | Python | 2026-06-20 | A secure file system for your agents to execute code |
+| 13 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 85 | Rust | 2026-06-20 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
 | 14 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-20 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
 | 15 | [apache/burr](https://github.com/apache/burr) | 2427 | Python | 2026-06-20 | Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on  |
 | 16 | [lisn0/tidal](https://github.com/lisn0/tidal) | 0 | HTML | 2026-06-20 | llmcfo |
@@ -70,7 +70,7 @@ expired items removed — so you can rely on what you see being current.
 | 26 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-06-20 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
 | 27 | [xsyxnx/codex-quota-monitor](https://github.com/xsyxnx/codex-quota-monitor) | 0 | Python | 2026-06-20 | Self-hosted quota dashboard for CLIProxyAPI-backed Codex OAuth pools, with NixOS module, agent recommendations, and Prom |
 | 28 | [tma1-ai/openfuse](https://github.com/tma1-ai/openfuse) | 0 | TypeScript | 2026-06-20 | Langfuse on GreptimeDB. Self-hosted LLM observability. |
-| 29 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10215 | Python | 2026-06-20 | AI Observability & Evaluation |
+| 29 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10216 | Python | 2026-06-20 | AI Observability & Evaluation |
 | 30 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22406 | TypeScript | 2026-06-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 31 | [SeydinaBANE/sovereign-rag](https://github.com/SeydinaBANE/sovereign-rag) | 0 | Python | 2026-06-20 | Sovereign, compliance-by-design RAG accelerator — Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib |
 | 32 | [iblai/os](https://github.com/iblai/os) | 12 | TypeScript | 2026-06-20 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
