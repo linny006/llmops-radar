@@ -1,5 +1,32 @@
 [
   {
+    "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
+    "id": "impartshadow/agent-contracts",
+    "language": "Python",
+    "name": "impartshadow/agent-contracts",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:45:12Z",
+    "url": "https://github.com/impartshadow/agent-contracts"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-20T18:36:56Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-20T18:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Langfuse on GreptimeDB. Self-hosted LLM observability.",
     "id": "tma1-ai/openfuse",
     "language": "TypeScript",
@@ -7,6 +34,15 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:29:52Z",
     "url": "https://github.com/tma1-ai/openfuse"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50979,
+    "updated_at": "2026-06-20T18:40:55Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -36,15 +72,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-20T18:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted quota dashboard for CLIProxyAPI-backed Codex OAuth pools, with NixOS module, agent recommendations, and Prom",
     "id": "xsyxnx/codex-quota-monitor",
     "language": "Python",
@@ -54,13 +81,13 @@
     "url": "https://github.com/xsyxnx/codex-quota-monitor"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50977,
-    "updated_at": "2026-06-20T18:29:21Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22403,
+    "updated_at": "2026-06-20T18:01:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -153,15 +180,6 @@
     "url": "https://github.com/xergai/xerg"
   },
   {
-    "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
-    "id": "impartshadow/agent-contracts",
-    "language": "Python",
-    "name": "impartshadow/agent-contracts",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:06:34Z",
-    "url": "https://github.com/impartshadow/agent-contracts"
-  },
-  {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -247,7 +265,7 @@
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
-    "stars": 83,
+    "stars": 84,
     "updated_at": "2026-06-20T14:33:28Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
@@ -387,15 +405,6 @@
     "url": "https://github.com/theo-ai-lab/plimsoll"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22402,
-    "updated_at": "2026-06-20T18:01:55Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and o",
     "id": "GoogleCloudPlatform/agent-starter-pack",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T10:01:39Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
-    "id": "KIM3310/llm-onprem-deployment-kit",
-    "language": "HCL",
-    "name": "KIM3310/llm-onprem-deployment-kit",
-    "stars": 0,
-    "updated_at": "2026-06-20T10:00:21Z",
-    "url": "https://github.com/KIM3310/llm-onprem-deployment-kit"
   }
 ]
