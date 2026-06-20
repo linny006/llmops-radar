@@ -1,10 +1,55 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "Shell",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-06-20T12:20:43Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "A fast, local-first AI gateway in Rust \u2014 route any coding CLI (Claude Code, Codex, Cursor\u2026) to 40+ LLM providers, save t",
+    "id": "merido-dev/merido",
+    "language": "Rust",
+    "name": "merido-dev/merido",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:19:29Z",
+    "url": "https://github.com/merido-dev/merido"
+  },
+  {
+    "description": "Sovereign, compliance-by-design RAG accelerator \u2014 Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib",
+    "id": "SeydinaBANE/sovereign-rag",
+    "language": "Python",
+    "name": "SeydinaBANE/sovereign-rag",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:16:32Z",
+    "url": "https://github.com/SeydinaBANE/sovereign-rag"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 41,
+    "updated_at": "2026-06-20T12:18:38Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-20T12:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5911,
+    "stars": 5912,
     "updated_at": "2026-06-20T12:15:04Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "theo-ai-lab/plimsoll",
     "stars": 0,
-    "updated_at": "2026-06-20T12:10:28Z",
+    "updated_at": "2026-06-20T12:16:01Z",
     "url": "https://github.com/theo-ai-lab/plimsoll"
   },
   {
@@ -22,18 +67,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22396,
+    "stars": 22397,
     "updated_at": "2026-06-20T12:04:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-20T12:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -50,7 +86,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-20T11:52:27Z",
+    "updated_at": "2026-06-20T12:19:04Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -72,15 +108,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 41,
-    "updated_at": "2026-06-20T12:10:56Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -88,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T11:31:31Z",
     "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "Shell",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-06-20T11:29:03Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -169,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T11:11:29Z",
     "url": "https://github.com/TravelXML/GenAIScope"
-  },
-  {
-    "description": "Sovereign, compliance-by-design RAG accelerator \u2014 Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib",
-    "id": "SeydinaBANE/sovereign-rag",
-    "language": "Python",
-    "name": "SeydinaBANE/sovereign-rag",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:05:47Z",
-    "url": "https://github.com/SeydinaBANE/sovereign-rag"
   },
   {
     "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T04:05:07Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-06-20T10:32:30Z",
-    "url": "https://github.com/spanlens/Spanlens"
   }
 ]
