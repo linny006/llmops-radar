@@ -1,5 +1,23 @@
 [
   {
+    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
+    "id": "runcycles/cycles-server-events",
+    "language": "Java",
+    "name": "runcycles/cycles-server-events",
+    "stars": 1,
+    "updated_at": "2026-06-21T01:33:10Z",
+    "url": "https://github.com/runcycles/cycles-server-events"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T01:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
     "id": "impartshadow/agent-contracts",
     "language": "Python",
@@ -27,15 +45,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T01:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
     "id": "tmusser/ai-engineering-skills",
     "language": "Python",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50987,
-    "updated_at": "2026-06-21T01:23:40Z",
+    "updated_at": "2026-06-21T01:44:46Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 70,
     "updated_at": "2026-06-20T16:38:58Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Marketing + Documentation Site for llama-dash",
-    "id": "ndom91/llama-dash-docs",
-    "language": "MDX",
-    "name": "ndom91/llama-dash-docs",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:31:59Z",
-    "url": "https://github.com/ndom91/llama-dash-docs"
   }
 ]
