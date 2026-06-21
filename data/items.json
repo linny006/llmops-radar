@@ -1,5 +1,41 @@
 [
   {
+    "description": "A local token ledger for AI agent runs.",
+    "id": "Dhanabhon/ntkn",
+    "language": "Rust",
+    "name": "Dhanabhon/ntkn",
+    "stars": 0,
+    "updated_at": "2026-06-21T14:59:58Z",
+    "url": "https://github.com/Dhanabhon/ntkn"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5934,
+    "updated_at": "2026-06-21T14:49:35Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-21T14:45:58Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T14:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
     "id": "mahdidjemaci/production-rag",
     "language": "Python",
@@ -45,15 +81,6 @@
     "url": "https://github.com/liam8421/faster-llm"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T14:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -72,15 +99,6 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "A local token ledger for AI agent runs.",
-    "id": "Dhanabhon/ntkn",
-    "language": "Rust",
-    "name": "Dhanabhon/ntkn",
-    "stars": 0,
-    "updated_at": "2026-06-21T14:23:25Z",
-    "url": "https://github.com/Dhanabhon/ntkn"
-  },
-  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -88,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-21T14:22:45Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5934,
-    "updated_at": "2026-06-21T14:20:29Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -207,6 +216,15 @@
     "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19708,
+    "updated_at": "2026-06-21T13:22:36Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -265,7 +283,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22423,
+    "stars": 22424,
     "updated_at": "2026-06-21T13:07:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T12:48:12Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-21T12:48:02Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-21T12:46:39Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
