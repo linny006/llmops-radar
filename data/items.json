@@ -1,5 +1,113 @@
 [
   {
+    "description": "Continuous LLM governance monitoring for regulated environments - EU AI Act, GDPR, ANSSI. Self-hosted, profile-driven, n",
+    "id": "JehanneDussert/govllm",
+    "language": "Python",
+    "name": "JehanneDussert/govllm",
+    "stars": 21,
+    "updated_at": "2026-06-21T16:13:07Z",
+    "url": "https://github.com/JehanneDussert/govllm"
+  },
+  {
+    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
+    "id": "hyeonsangjeon/when-reasoning-pays-off",
+    "language": "Python",
+    "name": "hyeonsangjeon/when-reasoning-pays-off",
+    "stars": 3,
+    "updated_at": "2026-06-21T16:12:00Z",
+    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-21T16:11:35Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "A local token ledger for AI agent runs.",
+    "id": "Dhanabhon/ntkn",
+    "language": "Rust",
+    "name": "Dhanabhon/ntkn",
+    "stars": 0,
+    "updated_at": "2026-06-21T16:11:33Z",
+    "url": "https://github.com/Dhanabhon/ntkn"
+  },
+  {
+    "description": "Monitor y orquestador en tiempo real de subagentes del IDE Antigravity (observabilidad, m\u00e9tricas, jerarqu\u00eda, seguridad, ",
+    "id": "BTCWFD/antigravity-monitor",
+    "language": "JavaScript",
+    "name": "BTCWFD/antigravity-monitor",
+    "stars": 0,
+    "updated_at": "2026-06-21T16:10:23Z",
+    "url": "https://github.com/BTCWFD/antigravity-monitor"
+  },
+  {
+    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
+    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "language": "\u2014",
+    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "stars": 1,
+    "updated_at": "2026-06-21T16:08:19Z",
+    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-21T16:07:10Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-21T16:06:11Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-06-21T16:03:34Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-06-21T16:02:28Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-06-21T16:01:44Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T16:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -25,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T15:53:19Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "A local token ledger for AI agent runs.",
-    "id": "Dhanabhon/ntkn",
-    "language": "Rust",
-    "name": "Dhanabhon/ntkn",
-    "stars": 0,
-    "updated_at": "2026-06-21T15:53:18Z",
-    "url": "https://github.com/Dhanabhon/ntkn"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -97,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T15:46:44Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T15:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
@@ -288,24 +378,6 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 3,
-    "updated_at": "2026-06-21T15:28:02Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-21T15:27:54Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
     "id": "developersofik/greenprompt",
     "language": "TypeScript",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T15:14:36Z",
     "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-06-21T15:13:45Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 0,
-    "updated_at": "2026-06-21T15:12:32Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 0,
-    "updated_at": "2026-06-21T15:12:17Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
-    "id": "rsaudio/second-brain",
-    "language": "\u2014",
-    "name": "rsaudio/second-brain",
-    "stars": 1,
-    "updated_at": "2026-06-21T15:11:16Z",
-    "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-06-21T15:08:21Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-06-21T15:07:49Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 1,
-    "updated_at": "2026-06-21T15:07:34Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-06-21T15:07:24Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   }
 ]
