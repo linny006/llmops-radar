@@ -1,21 +1,21 @@
 [
   {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 73,
-    "updated_at": "2026-06-21T07:59:16Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-21T07:56:15Z",
+    "updated_at": "2026-06-21T08:14:44Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 73,
+    "updated_at": "2026-06-21T08:12:03Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Decision-first, vendor-neutral playbook for building reliable LLM agents \u2014 patterns, the 8 competencies, OSS landscape, ",
@@ -23,8 +23,26 @@
     "language": "\u2014",
     "name": "anshulixyz/agent-groundwork",
     "stars": 0,
-    "updated_at": "2026-06-21T07:55:27Z",
+    "updated_at": "2026-06-21T08:06:27Z",
     "url": "https://github.com/anshulixyz/agent-groundwork"
+  },
+  {
+    "description": "Portable, self-contained snapshot of a complete Claude Code setup \u2014 36 specialist agents, 133 skills, plugins, MCP serve",
+    "id": "build-with-dhiraj/ai-workflow-framework-portability-kit",
+    "language": "HTML",
+    "name": "build-with-dhiraj/ai-workflow-framework-portability-kit",
+    "stars": 3,
+    "updated_at": "2026-06-21T08:04:40Z",
+    "url": "https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 70,
+    "updated_at": "2026-06-21T08:14:26Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-21T07:45:24Z",
+    "updated_at": "2026-06-21T08:00:27Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -49,7 +67,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5927,
+    "stars": 5928,
     "updated_at": "2026-06-21T07:41:28Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -79,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-21T06:23:34Z",
     "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Portable, self-contained snapshot of a complete Claude Code setup \u2014 35 specialist agents, 131 skills, plugins, MCP serve",
-    "id": "build-with-dhiraj/ai-workflow-framework-portability-kit",
-    "language": "Python",
-    "name": "build-with-dhiraj/ai-workflow-framework-portability-kit",
-    "stars": 3,
-    "updated_at": "2026-06-21T06:21:19Z",
-    "url": "https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit"
   },
   {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
@@ -157,7 +166,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51012,
+    "stars": 51013,
     "updated_at": "2026-06-21T05:19:32Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -337,7 +346,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22416,
+    "stars": 22417,
     "updated_at": "2026-06-21T00:52:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T22:45:06Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-06-20T22:17:12Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
   }
 ]
