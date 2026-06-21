@@ -1,5 +1,32 @@
 [
   {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 73,
+    "updated_at": "2026-06-21T06:44:44Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-06-21T06:33:19Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T06:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
     "id": "bj-qizhi/trigix",
     "language": "Rust",
@@ -23,17 +50,8 @@
     "language": "Python",
     "name": "ThreeMoonsLab/agents-shipgate",
     "stars": 66,
-    "updated_at": "2026-06-21T06:18:26Z",
+    "updated_at": "2026-06-21T06:30:40Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T06:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
@@ -112,7 +130,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51008,
+    "stars": 51010,
     "updated_at": "2026-06-21T05:19:32Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -205,15 +223,6 @@
     "stars": 22,
     "updated_at": "2026-06-21T03:36:54Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 73,
-    "updated_at": "2026-06-21T03:21:14Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -310,7 +319,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22413,
+    "stars": 22415,
     "updated_at": "2026-06-21T00:52:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -378,6 +387,15 @@
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4225,
+    "updated_at": "2026-06-20T23:39:15Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
     "description": "Calibrated trust gate for AI agents \u2014 act, escalate, or abstain. It knows when it doesn't know. pip install warmwinter",
     "id": "ricovigil1/warmwinter-sdk",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T22:06:13Z",
     "url": "https://github.com/dr-gareth-roberts/insideLLMs"
-  },
-  {
-    "description": "A secure file system for your agents to execute code",
-    "id": "las7/TakoVM",
-    "language": "Python",
-    "name": "las7/TakoVM",
-    "stars": 65,
-    "updated_at": "2026-06-20T21:42:45Z",
-    "url": "https://github.com/las7/TakoVM"
-  },
-  {
-    "description": "Course 02 \u2014 AI Engineering: build, ship & operate real AI apps (beginner, lab-first, M0\u2013M35)",
-    "id": "ThinkTechConsultingLLC/course-02-ai-engineering",
-    "language": "Python",
-    "name": "ThinkTechConsultingLLC/course-02-ai-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-20T21:07:59Z",
-    "url": "https://github.com/ThinkTechConsultingLLC/course-02-ai-engineering"
   }
 ]
