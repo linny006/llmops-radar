@@ -1,5 +1,41 @@
 [
   {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-21T03:15:17Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50992,
+    "updated_at": "2026-06-21T03:14:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
+    "id": "impartshadow/agent-contracts",
+    "language": "Python",
+    "name": "impartshadow/agent-contracts",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:08:01Z",
+    "url": "https://github.com/impartshadow/agent-contracts"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T03:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -7,15 +43,6 @@
     "stars": 44,
     "updated_at": "2026-06-21T02:57:23Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-21T02:57:09Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "SkeinRank \u2014 Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows.",
@@ -36,15 +63,6 @@
     "url": "https://github.com/runcycles/cycles-client-typescript"
   },
   {
-    "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
-    "id": "impartshadow/agent-contracts",
-    "language": "Python",
-    "name": "impartshadow/agent-contracts",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:55:41Z",
-    "url": "https://github.com/impartshadow/agent-contracts"
-  },
-  {
     "description": "Langfuse on GreptimeDB. Self-hosted LLM observability.",
     "id": "tma1-ai/openfuse",
     "language": "TypeScript",
@@ -54,15 +72,6 @@
     "url": "https://github.com/tma1-ai/openfuse"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50989,
-    "updated_at": "2026-06-21T02:49:10Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T02:48:56Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T02:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -148,7 +148,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22411,
+    "stars": 22412,
     "updated_at": "2026-06-21T00:52:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
