@@ -1,12 +1,57 @@
 [
   {
+    "description": "A local token ledger for AI agent runs.",
+    "id": "Dhanabhon/ntkn",
+    "language": "Rust",
+    "name": "Dhanabhon/ntkn",
+    "stars": 0,
+    "updated_at": "2026-06-21T19:27:16Z",
+    "url": "https://github.com/Dhanabhon/ntkn"
+  },
+  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 0,
-    "updated_at": "2026-06-21T19:14:35Z",
+    "updated_at": "2026-06-21T19:26:46Z",
     "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-06-21T19:26:02Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 5,
+    "updated_at": "2026-06-21T19:23:44Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-06-21T19:21:32Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-21T19:20:33Z",
+    "url": "https://github.com/tenemos/langwatch"
   },
   {
     "description": "OpenAI-compatible LLM gateway in Go with provider failover and SSE streaming.",
@@ -14,8 +59,17 @@
     "language": "Go",
     "name": "sachinsmc/llm-relay",
     "stars": 0,
-    "updated_at": "2026-06-21T19:14:10Z",
+    "updated_at": "2026-06-21T19:19:40Z",
     "url": "https://github.com/sachinsmc/llm-relay"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T19:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -27,15 +81,6 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "A local token ledger for AI agent runs.",
-    "id": "Dhanabhon/ntkn",
-    "language": "Rust",
-    "name": "Dhanabhon/ntkn",
-    "stars": 0,
-    "updated_at": "2026-06-21T19:10:13Z",
-    "url": "https://github.com/Dhanabhon/ntkn"
-  },
-  {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
     "id": "DYAI2025/Plumbline",
     "language": "Shell",
@@ -43,15 +88,6 @@
     "stars": 6,
     "updated_at": "2026-06-21T19:06:42Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T19:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u73af\u6e38\u4e16\u754c\u65c5\u6e38\uff0c\u521b\u4e1a\u505a AI \u4ea7\u54c1\uff0c\u4e00\u79cd\u6bd4\u8f83\u65b0\u7684\u65b9\u5f0f\u548c\u7406\u5ff5\u751f\u6d3b\u521b\u4e1a\uff0c\u6b22\u8fce\u8ba2\u9605 RSS  https://nsddd.top/zh/index.xml",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T17:49:45Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-21T17:46:44Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-21T17:46:27Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-21T17:40:04Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-21T17:39:24Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
