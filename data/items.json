@@ -1,21 +1,48 @@
 [
   {
-    "description": "\u23ea A time-travel debugger for LLM agents \u2014 record a run, then replay reality from any step.",
-    "id": "oavlloh-wq/rewind",
-    "language": "Python",
-    "name": "oavlloh-wq/rewind",
-    "stars": 0,
-    "updated_at": "2026-06-21T00:41:10Z",
-    "url": "https://github.com/oavlloh-wq/rewind"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22408,
-    "updated_at": "2026-06-21T00:39:06Z",
+    "updated_at": "2026-06-21T00:52:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50987,
+    "updated_at": "2026-06-21T00:56:17Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\udd0d Find out why your LLM prompt cache isn't working \u2014 and what's busting it.",
+    "id": "oavlloh-wq/cachelens",
+    "language": "Python",
+    "name": "oavlloh-wq/cachelens",
+    "stars": 1,
+    "updated_at": "2026-06-21T00:48:35Z",
+    "url": "https://github.com/oavlloh-wq/cachelens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T00:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u23ea A time-travel debugger for LLM agents \u2014 record a run, then replay reality from any step.",
+    "id": "oavlloh-wq/rewind",
+    "language": "Python",
+    "name": "oavlloh-wq/rewind",
+    "stars": 1,
+    "updated_at": "2026-06-21T00:41:10Z",
+    "url": "https://github.com/oavlloh-wq/rewind"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T00:33:31Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T00:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T00:13:45Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50986,
-    "updated_at": "2026-06-21T00:41:13Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T16:25:34Z",
     "url": "https://github.com/jainanushk8/swarm-pim"
-  },
-  {
-    "description": "Self-hostable, token-frugal OpenAI-compatible LLM gateway \u2014 multi-provider routing, virtual keys + budgets, caching, cos",
-    "id": "k1y0miiii/llm-gateway",
-    "language": "Python",
-    "name": "k1y0miiii/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-20T15:59:02Z",
-    "url": "https://github.com/k1y0miiii/llm-gateway"
   }
 ]
