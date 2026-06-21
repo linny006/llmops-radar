@@ -1,5 +1,41 @@
 [
   {
+    "description": "Task-typed, provenance-first LLM meta-leaderboard: a cost-quality Pareto decision engine that picks the best model for a",
+    "id": "lmathia2/llm-pareto-benchmarks",
+    "language": "Python",
+    "name": "lmathia2/llm-pareto-benchmarks",
+    "stars": 0,
+    "updated_at": "2026-06-21T17:02:06Z",
+    "url": "https://github.com/lmathia2/llm-pareto-benchmarks"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-21T17:02:04Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "A local token ledger for AI agent runs.",
+    "id": "Dhanabhon/ntkn",
+    "language": "Rust",
+    "name": "Dhanabhon/ntkn",
+    "stars": 0,
+    "updated_at": "2026-06-21T17:01:46Z",
+    "url": "https://github.com/Dhanabhon/ntkn"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T17:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
     "id": "MattJackson/busbarAI",
     "language": "Rust",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T16:49:23Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T16:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -106,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-06-21T16:38:00Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Task-typed, provenance-first LLM meta-leaderboard: a cost-quality Pareto decision engine that picks the best model for a",
-    "id": "lmathia2/llm-pareto-benchmarks",
-    "language": "Python",
-    "name": "lmathia2/llm-pareto-benchmarks",
-    "stars": 0,
-    "updated_at": "2026-06-21T16:34:56Z",
-    "url": "https://github.com/lmathia2/llm-pareto-benchmarks"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -214,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-06-21T16:11:35Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "A local token ledger for AI agent runs.",
-    "id": "Dhanabhon/ntkn",
-    "language": "Rust",
-    "name": "Dhanabhon/ntkn",
-    "stars": 0,
-    "updated_at": "2026-06-21T16:11:33Z",
-    "url": "https://github.com/Dhanabhon/ntkn"
   },
   {
     "description": "Monitor y orquestador en tiempo real de subagentes del IDE Antigravity (observabilidad, m\u00e9tricas, jerarqu\u00eda, seguridad, ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T15:39:01Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-21T15:38:51Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
