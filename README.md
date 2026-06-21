@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 03:50 UTC
+> ⏰ Last updated: 2026-06-21 04:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-21 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 1 | [impartshadow/agent-contracts](https://github.com/impartshadow/agent-contracts) | 0 | Python | 2026-06-21 | Deterministic pre/post-condition guardrails for LLM agents — no model in the loop. |
 | 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50994 | Python | 2026-06-21 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 4 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 22 | Python | 2026-06-21 | ⚡ Awesome AI Gateway — curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress, |
-| 5 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-21 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
-| 6 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | Shell | 2026-06-21 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
-| 7 | [impartshadow/agent-contracts](https://github.com/impartshadow/agent-contracts) | 0 | Python | 2026-06-21 | Deterministic pre/post-condition guardrails for LLM agents — no model in the loop. |
+| 3 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-21 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50994 | Python | 2026-06-21 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 5 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 22 | Python | 2026-06-21 | ⚡ Awesome AI Gateway — curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress, |
+| 6 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-21 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
+| 7 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | Shell | 2026-06-21 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
 | 8 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-06-21 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
 | 9 | [SkeinRank/skeinrank](https://github.com/SkeinRank/skeinrank) | 2 | Python | 2026-06-21 | SkeinRank — Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows. |
 | 10 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-06-21 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
