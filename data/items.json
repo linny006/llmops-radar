@@ -1,11 +1,20 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:32:29Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-21T08:27:03Z",
+    "updated_at": "2026-06-21T08:30:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T08:22:41Z",
     "url": "https://github.com/runcycles/langchain-runcycles"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-21T08:14:44Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -70,6 +70,15 @@
     "stars": 70,
     "updated_at": "2026-06-21T08:14:26Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19705,
+    "updated_at": "2026-06-21T07:59:54Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Framework-agnostic testing for AI agents \u2014 define pass/fail in plain English, run multi-turn tests, turn failures into a",
@@ -175,7 +184,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51014,
+    "stars": 51015,
     "updated_at": "2026-06-21T05:19:32Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T23:06:20Z",
     "url": "https://github.com/ricovigil1/warmwinter-sdk"
-  },
-  {
-    "description": "Measurement harness for benchmarking whether Codex instruction packages reduce token use without degrading task quality.",
-    "id": "MacSteini/scaldex",
-    "language": "Python",
-    "name": "MacSteini/scaldex",
-    "stars": 0,
-    "updated_at": "2026-06-20T22:51:56Z",
-    "url": "https://github.com/MacSteini/scaldex"
   }
 ]
