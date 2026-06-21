@@ -1,5 +1,68 @@
 [
   {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 4,
+    "updated_at": "2026-06-21T17:14:05Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 0,
+    "updated_at": "2026-06-21T17:13:31Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "A local token ledger for AI agent runs.",
+    "id": "Dhanabhon/ntkn",
+    "language": "Rust",
+    "name": "Dhanabhon/ntkn",
+    "stars": 0,
+    "updated_at": "2026-06-21T17:08:20Z",
+    "url": "https://github.com/Dhanabhon/ntkn"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 85,
+    "updated_at": "2026-06-21T17:06:13Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T17:03:06Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-21T17:03:03Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22427,
+    "updated_at": "2026-06-21T17:02:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Task-typed, provenance-first LLM meta-leaderboard: a cost-quality Pareto decision engine that picks the best model for a",
     "id": "lmathia2/llm-pareto-benchmarks",
     "language": "Python",
@@ -18,33 +81,6 @@
     "url": "https://github.com/mahdidjemaci/production-rag"
   },
   {
-    "description": "A local token ledger for AI agent runs.",
-    "id": "Dhanabhon/ntkn",
-    "language": "Rust",
-    "name": "Dhanabhon/ntkn",
-    "stars": 0,
-    "updated_at": "2026-06-21T17:01:46Z",
-    "url": "https://github.com/Dhanabhon/ntkn"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T17:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 4,
-    "updated_at": "2026-06-21T16:54:31Z",
-    "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
     "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
     "id": "mwigge/rs-llmctl",
     "language": "Rust",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T16:52:11Z",
     "url": "https://github.com/mwigge/rs-llmctl"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 85,
-    "updated_at": "2026-06-21T16:56:27Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T15:42:34Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-21T15:42:24Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-21T15:40:45Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-21T15:39:01Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
