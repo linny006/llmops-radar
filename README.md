@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 21:52 UTC
+> ⏰ Last updated: 2026-06-21 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | Shell | 2026-06-21 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
-| 2 | [lavellehatcherjr/Cli-Modelarium](https://github.com/lavellehatcherjr/Cli-Modelarium) | 0 | Python | 2026-06-21 | Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 8 cloud providers + local models side-b |
-| 3 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-06-21 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
-| 4 | [tmusser/ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills) | 2 | Python | 2026-06-21 | Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve |
-| 5 | [hwdsl2/docker-litellm](https://github.com/hwdsl2/docker-litellm) | 8 | Shell | 2026-06-21 | Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features  |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-21 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
-| 8 | [dshakes/distil](https://github.com/dshakes/distil) | 0 | Python | 2026-06-21 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
+| 1 | [lavellehatcherjr/Cli-Modelarium](https://github.com/lavellehatcherjr/Cli-Modelarium) | 0 | Python | 2026-06-21 | Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 8 cloud providers + local models side-b |
+| 2 | [dshakes/distil](https://github.com/dshakes/distil) | 0 | Python | 2026-06-21 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | Shell | 2026-06-21 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
+| 5 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-06-21 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
+| 6 | [tmusser/ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills) | 2 | Python | 2026-06-21 | Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve |
+| 7 | [hwdsl2/docker-litellm](https://github.com/hwdsl2/docker-litellm) | 8 | Shell | 2026-06-21 | Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features  |
+| 8 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-21 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
 | 9 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-06-21 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
 | 10 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-21 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 11 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-06-21 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
