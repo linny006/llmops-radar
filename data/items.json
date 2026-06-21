@@ -1,12 +1,75 @@
 [
   {
+    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
+    "id": "sedai194443/langfuse-go",
+    "language": "Go",
+    "name": "sedai194443/langfuse-go",
+    "stars": 1,
+    "updated_at": "2026-06-21T12:13:28Z",
+    "url": "https://github.com/sedai194443/langfuse-go"
+  },
+  {
+    "description": "A local token ledger for AI agent runs.",
+    "id": "Dhanabhon/ntkn",
+    "language": "Rust",
+    "name": "Dhanabhon/ntkn",
+    "stars": 0,
+    "updated_at": "2026-06-21T12:13:27Z",
+    "url": "https://github.com/Dhanabhon/ntkn"
+  },
+  {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 2,
+    "updated_at": "2026-06-21T12:11:43Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-06-21T12:10:53Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
     "id": "GeiserX/LynxPrompt",
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 41,
-    "updated_at": "2026-06-21T11:59:40Z",
+    "updated_at": "2026-06-21T12:10:22Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5931,
+    "updated_at": "2026-06-21T12:07:08Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-21T12:00:31Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T12:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T11:55:55Z",
     "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "A local token ledger for AI agent runs.",
-    "id": "Dhanabhon/ntkn",
-    "language": "Rust",
-    "name": "Dhanabhon/ntkn",
-    "stars": 0,
-    "updated_at": "2026-06-21T11:55:10Z",
-    "url": "https://github.com/Dhanabhon/ntkn"
   },
   {
     "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
@@ -54,15 +108,6 @@
     "url": "https://github.com/EErbium/kernelcap"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-21T11:47:56Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -79,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T11:45:34Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T11:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5931,
-    "updated_at": "2026-06-21T11:53:56Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -421,32 +448,5 @@
     "stars": 22,
     "updated_at": "2026-06-21T10:35:51Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-21T10:34:53Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-21T10:33:04Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-21T10:32:56Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
