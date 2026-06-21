@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 04:30 UTC
+> ⏰ Last updated: 2026-06-21 04:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,12 +43,12 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [VamsiSudhakaran1/release-gate](https://github.com/VamsiSudhakaran1/release-gate) | 2 | Python | 2026-06-21 | 🚪 Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity |
-| 2 | [tma1-ai/openfuse](https://github.com/tma1-ai/openfuse) | 0 | TypeScript | 2026-06-21 | Langfuse on GreptimeDB. Self-hosted LLM observability. |
-| 3 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-21 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 4 | [impartshadow/agent-contracts](https://github.com/impartshadow/agent-contracts) | 0 | Python | 2026-06-21 | Deterministic pre/post-condition guardrails for LLM agents — no model in the loop. |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-21 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50994 | Python | 2026-06-21 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-21 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [tma1-ai/openfuse](https://github.com/tma1-ai/openfuse) | 0 | TypeScript | 2026-06-21 | Langfuse on GreptimeDB. Self-hosted LLM observability. |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 50996 | Python | 2026-06-21 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 6 | [impartshadow/agent-contracts](https://github.com/impartshadow/agent-contracts) | 0 | Python | 2026-06-21 | Deterministic pre/post-condition guardrails for LLM agents — no model in the loop. |
+| 7 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-21 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
 | 8 | [melaya-labs/melaya](https://github.com/melaya-labs/melaya) | 4 | Python | 2026-06-21 | AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust |
 | 9 | [sauravbhattacharya001/prompt](https://github.com/sauravbhattacharya001/prompt) | 1 | C# | 2026-06-21 | .NET 8 prompt engineering toolkit — Azure OpenAI client, template engine, prompt chaining, injection detection, bias det |
 | 10 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-21 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
