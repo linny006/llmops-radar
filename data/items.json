@@ -1,5 +1,32 @@
 [
   {
+    "description": "Headless OpenCode + Ollama multi-agent workflow with builder/reviewer agents, local session receipts, skills, validation",
+    "id": "pillaiharish/opencode-ollama-steroids",
+    "language": "\u2014",
+    "name": "pillaiharish/opencode-ollama-steroids",
+    "stars": 0,
+    "updated_at": "2026-06-21T18:39:54Z",
+    "url": "https://github.com/pillaiharish/opencode-ollama-steroids"
+  },
+  {
+    "description": "A local token ledger for AI agent runs.",
+    "id": "Dhanabhon/ntkn",
+    "language": "Rust",
+    "name": "Dhanabhon/ntkn",
+    "stars": 0,
+    "updated_at": "2026-06-21T18:37:34Z",
+    "url": "https://github.com/Dhanabhon/ntkn"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T18:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Managing 100+ LLM APIs, handling rate limits, implementing fallbacks, and tracking token costs is a massive operational ",
     "id": "12britz/awesome-ai-gateways",
     "language": "\u2014",
@@ -18,13 +45,13 @@
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "A local token ledger for AI agent runs.",
-    "id": "Dhanabhon/ntkn",
-    "language": "Rust",
-    "name": "Dhanabhon/ntkn",
-    "stars": 0,
-    "updated_at": "2026-06-21T18:27:55Z",
-    "url": "https://github.com/Dhanabhon/ntkn"
+    "description": "LLM Gateway built with LiteLLM for unified access to multiple AI providers through a single OpenAI-compatible API. Featu",
+    "id": "Md-Emon-Hasan/LLM-Gateway-with-LiteLLM",
+    "language": "Jupyter Notebook",
+    "name": "Md-Emon-Hasan/LLM-Gateway-with-LiteLLM",
+    "stars": 1,
+    "updated_at": "2026-06-21T18:28:10Z",
+    "url": "https://github.com/Md-Emon-Hasan/LLM-Gateway-with-LiteLLM"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T18:16:11Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T18:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T17:33:05Z",
     "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-06-21T17:32:27Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-06-21T17:31:30Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   }
 ]
