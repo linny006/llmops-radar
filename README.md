@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 06:45 UTC
+> ⏰ Last updated: 2026-06-21 07:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,24 +43,24 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-21 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
-| 2 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-06-21 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
+| 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-21 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 2 | Rust | 2026-06-21 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
-| 5 | [build-with-dhiraj/ai-workflow-framework-portability-kit](https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit) | 3 | Python | 2026-06-21 | Portable, self-contained snapshot of a complete Claude Code setup — 35 specialist agents, 131 skills, plugins, MCP serve |
-| 6 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 66 | Python | 2026-06-21 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
-| 7 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-06-21 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
-| 8 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-21 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 9 | [melaya-labs/melaya](https://github.com/melaya-labs/melaya) | 4 | Python | 2026-06-21 | AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust |
-| 10 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 41 | Ruby | 2026-06-21 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
-| 11 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5924 | Go | 2026-06-21 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 12 | [tma1-ai/openfuse](https://github.com/tma1-ai/openfuse) | 0 | TypeScript | 2026-06-21 | Langfuse on GreptimeDB. Self-hosted LLM observability. |
-| 13 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-21 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 14 | [VamsiSudhakaran1/release-gate](https://github.com/VamsiSudhakaran1/release-gate) | 2 | Python | 2026-06-21 | 🚪 Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity |
-| 15 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51010 | Python | 2026-06-21 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 16 | [solomon2773/nora](https://github.com/solomon2773/nora) | 17 | TypeScript | 2026-06-21 | The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets. |
-| 17 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7695 | Rust | 2026-06-21 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 18 | [runcycles/cycles-mcp-server](https://github.com/runcycles/cycles-mcp-server) | 0 | TypeScript | 2026-06-21 | MCP budget and risk authority for Cycles — runtime governance for Claude, Cursor, and Windsurf |
-| 19 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-21 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 4 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-06-21 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
+| 5 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 2 | Rust | 2026-06-21 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
+| 6 | [build-with-dhiraj/ai-workflow-framework-portability-kit](https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit) | 3 | Python | 2026-06-21 | Portable, self-contained snapshot of a complete Claude Code setup — 35 specialist agents, 131 skills, plugins, MCP serve |
+| 7 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 66 | Python | 2026-06-21 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
+| 8 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-06-21 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
+| 9 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-21 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 10 | [melaya-labs/melaya](https://github.com/melaya-labs/melaya) | 4 | Python | 2026-06-21 | AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust |
+| 11 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 41 | Ruby | 2026-06-21 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
+| 12 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5925 | Go | 2026-06-21 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 13 | [tma1-ai/openfuse](https://github.com/tma1-ai/openfuse) | 0 | TypeScript | 2026-06-21 | Langfuse on GreptimeDB. Self-hosted LLM observability. |
+| 14 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-21 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 15 | [VamsiSudhakaran1/release-gate](https://github.com/VamsiSudhakaran1/release-gate) | 2 | Python | 2026-06-21 | 🚪 Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity |
+| 16 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51010 | Python | 2026-06-21 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 17 | [solomon2773/nora](https://github.com/solomon2773/nora) | 17 | TypeScript | 2026-06-21 | The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets. |
+| 18 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7695 | Rust | 2026-06-21 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 19 | [runcycles/cycles-mcp-server](https://github.com/runcycles/cycles-mcp-server) | 0 | TypeScript | 2026-06-21 | MCP budget and risk authority for Cycles — runtime governance for Claude, Cursor, and Windsurf |
 | 20 | [taichuy/1flowbase](https://github.com/taichuy/1flowbase) | 145 | Rust | 2026-06-21 | Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v |
 | 21 | [impartshadow/agent-contracts](https://github.com/impartshadow/agent-contracts) | 0 | Python | 2026-06-21 | Deterministic pre/post-condition guardrails for LLM agents — no model in the loop. |
 | 22 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-21 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
