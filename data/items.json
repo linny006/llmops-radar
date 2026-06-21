@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u23ea A time-travel debugger for LLM agents \u2014 record a run, then replay reality from any step.",
+    "id": "oavlloh-wq/rewind",
+    "language": "Python",
+    "name": "oavlloh-wq/rewind",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:41:10Z",
+    "url": "https://github.com/oavlloh-wq/rewind"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22408,
+    "updated_at": "2026-06-21T00:39:06Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7694,
+    "updated_at": "2026-06-21T00:42:06Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:33:31Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T00:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
     "id": "Rodiun/frugon",
     "language": "Python",
@@ -9,15 +54,6 @@
     "url": "https://github.com/Rodiun/frugon"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22408,
-    "updated_at": "2026-06-21T00:23:03Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -25,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T00:19:53Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T00:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50986,
-    "updated_at": "2026-06-21T00:18:50Z",
+    "updated_at": "2026-06-21T00:41:13Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T22:06:13Z",
     "url": "https://github.com/dr-gareth-roberts/insideLLMs"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-21T00:30:00Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T15:59:02Z",
     "url": "https://github.com/k1y0miiii/llm-gateway"
-  },
-  {
-    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
-    "id": "ictseoyoungmin/HADARA",
-    "language": "TypeScript",
-    "name": "ictseoyoungmin/HADARA",
-    "stars": 0,
-    "updated_at": "2026-06-20T15:13:33Z",
-    "url": "https://github.com/ictseoyoungmin/HADARA"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress,",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "Python",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 21,
-    "updated_at": "2026-06-20T15:05:14Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
   }
 ]
