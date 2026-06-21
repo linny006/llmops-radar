@@ -1,21 +1,39 @@
 [
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50988,
-    "updated_at": "2026-06-21T02:31:00Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-06-21T02:57:23Z",
+    "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-21T02:57:09Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "SkeinRank \u2014 Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows.",
+    "id": "SkeinRank/skeinrank",
     "language": "Python",
-    "name": "linny006/llmops-radar",
+    "name": "SkeinRank/skeinrank",
     "stars": 2,
-    "updated_at": "2026-06-21T02:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-06-21T02:56:40Z",
+    "url": "https://github.com/SkeinRank/skeinrank"
+  },
+  {
+    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
+    "id": "runcycles/cycles-client-typescript",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-client-typescript",
+    "stars": 0,
+    "updated_at": "2026-06-21T02:55:56Z",
+    "url": "https://github.com/runcycles/cycles-client-typescript"
   },
   {
     "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
@@ -23,8 +41,26 @@
     "language": "Python",
     "name": "impartshadow/agent-contracts",
     "stars": 0,
-    "updated_at": "2026-06-21T02:29:01Z",
+    "updated_at": "2026-06-21T02:55:41Z",
     "url": "https://github.com/impartshadow/agent-contracts"
+  },
+  {
+    "description": "Langfuse on GreptimeDB. Self-hosted LLM observability.",
+    "id": "tma1-ai/openfuse",
+    "language": "TypeScript",
+    "name": "tma1-ai/openfuse",
+    "stars": 0,
+    "updated_at": "2026-06-21T02:49:33Z",
+    "url": "https://github.com/tma1-ai/openfuse"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50989,
+    "updated_at": "2026-06-21T02:49:10Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -32,8 +68,17 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-21T02:26:31Z",
+    "updated_at": "2026-06-21T02:48:56Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T02:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 144,
-    "updated_at": "2026-06-21T02:14:57Z",
+    "updated_at": "2026-06-21T02:46:33Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -61,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-06-21T02:14:06Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "SkeinRank \u2014 Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows.",
-    "id": "SkeinRank/skeinrank",
-    "language": "Python",
-    "name": "SkeinRank/skeinrank",
-    "stars": 2,
-    "updated_at": "2026-06-21T02:16:24Z",
-    "url": "https://github.com/SkeinRank/skeinrank"
   },
   {
     "description": "Audit OpenClaw agent spend, waste, and before/after improvements.",
@@ -88,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T02:00:43Z",
     "url": "https://github.com/kensterinvest/tidus"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-21T01:52:29Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
@@ -414,15 +441,6 @@
     "url": "https://github.com/xsyxnx/codex-quota-monitor"
   },
   {
-    "description": "Langfuse on GreptimeDB. Self-hosted LLM observability.",
-    "id": "tma1-ai/openfuse",
-    "language": "TypeScript",
-    "name": "tma1-ai/openfuse",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:34:20Z",
-    "url": "https://github.com/tma1-ai/openfuse"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 10216,
     "updated_at": "2026-06-20T18:26:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Sovereign, compliance-by-design RAG accelerator \u2014 Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib",
-    "id": "SeydinaBANE/sovereign-rag",
-    "language": "Python",
-    "name": "SeydinaBANE/sovereign-rag",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:56:15Z",
-    "url": "https://github.com/SeydinaBANE/sovereign-rag"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 12,
-    "updated_at": "2026-06-21T01:49:37Z",
-    "url": "https://github.com/iblai/os"
   }
 ]
