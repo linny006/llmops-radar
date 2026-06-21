@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 07:45 UTC
+> ⏰ Last updated: 2026-06-21 08:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anshulixyz/agent-groundwork](https://github.com/anshulixyz/agent-groundwork) | 0 | — | 2026-06-21 | Decision-first, vendor-neutral playbook for building reliable LLM agents — patterns, the 8 competencies, OSS landscape,  |
-| 2 | [dinanjana/test-agent](https://github.com/dinanjana/test-agent) | 0 | TypeScript | 2026-06-21 | Framework-agnostic testing for AI agents — define pass/fail in plain English, run multi-turn tests, turn failures into a |
-| 3 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5925 | Go | 2026-06-21 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 4 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-21 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 66 | Python | 2026-06-21 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
-| 7 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-21 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
+| 1 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-21 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
+| 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-21 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 3 | [anshulixyz/agent-groundwork](https://github.com/anshulixyz/agent-groundwork) | 0 | — | 2026-06-21 | Decision-first, vendor-neutral playbook for building reliable LLM agents — patterns, the 8 competencies, OSS landscape,  |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [dinanjana/test-agent](https://github.com/dinanjana/test-agent) | 0 | TypeScript | 2026-06-21 | Framework-agnostic testing for AI agents — define pass/fail in plain English, run multi-turn tests, turn failures into a |
+| 6 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5927 | Go | 2026-06-21 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 7 | [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | 66 | Python | 2026-06-21 | The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review |
 | 8 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-06-21 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
 | 9 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 2 | Rust | 2026-06-21 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
 | 10 | [build-with-dhiraj/ai-workflow-framework-portability-kit](https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit) | 3 | Python | 2026-06-21 | Portable, self-contained snapshot of a complete Claude Code setup — 35 specialist agents, 131 skills, plugins, MCP serve |
