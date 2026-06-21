@@ -1,12 +1,39 @@
 [
   {
-    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
-    "id": "runcycles/cycles-server-events",
-    "language": "Java",
-    "name": "runcycles/cycles-server-events",
-    "stars": 1,
-    "updated_at": "2026-06-21T01:33:10Z",
-    "url": "https://github.com/runcycles/cycles-server-events"
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-21T01:53:02Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-21T01:52:29Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50987,
+    "updated_at": "2026-06-21T01:53:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "Shell",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-06-21T01:49:24Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-21T01:30:25Z",
+    "updated_at": "2026-06-21T01:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
+    "id": "runcycles/cycles-server-events",
+    "language": "Java",
+    "name": "runcycles/cycles-server-events",
+    "stars": 1,
+    "updated_at": "2026-06-21T01:33:10Z",
+    "url": "https://github.com/runcycles/cycles-server-events"
   },
   {
     "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
@@ -27,24 +63,6 @@
     "url": "https://github.com/impartshadow/agent-contracts"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-21T01:22:55Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "Shell",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-06-21T01:21:08Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
     "id": "tmusser/ai-engineering-skills",
     "language": "Python",
@@ -54,20 +72,11 @@
     "url": "https://github.com/tmusser/ai-engineering-skills"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50987,
-    "updated_at": "2026-06-21T01:44:46Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22410,
+    "stars": 22411,
     "updated_at": "2026-06-21T00:52:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -189,21 +198,12 @@
     "url": "https://github.com/MacSteini/scaldex"
   },
   {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-20T22:51:44Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-20T22:46:21Z",
+    "updated_at": "2026-06-21T01:58:36Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -266,7 +266,7 @@
     "language": "TypeScript",
     "name": "xergai/xerg",
     "stars": 3,
-    "updated_at": "2026-06-20T20:57:24Z",
+    "updated_at": "2026-06-21T02:00:21Z",
     "url": "https://github.com/xergai/xerg"
   },
   {
@@ -419,7 +419,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 12,
-    "updated_at": "2026-06-21T01:11:58Z",
+    "updated_at": "2026-06-21T01:49:37Z",
     "url": "https://github.com/iblai/os"
   },
   {
