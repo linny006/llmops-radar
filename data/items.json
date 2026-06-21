@@ -1,5 +1,41 @@
 [
   {
+    "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
+    "id": "Rodiun/frugon",
+    "language": "Python",
+    "name": "Rodiun/frugon",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:23:30Z",
+    "url": "https://github.com/Rodiun/frugon"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22408,
+    "updated_at": "2026-06-21T00:23:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 1,
+    "updated_at": "2026-06-21T00:19:53Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T00:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 50986,
-    "updated_at": "2026-06-21T00:14:29Z",
+    "updated_at": "2026-06-21T00:18:50Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 10,
     "updated_at": "2026-06-21T00:03:44Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T00:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T23:06:20Z",
     "url": "https://github.com/ricovigil1/warmwinter-sdk"
-  },
-  {
-    "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
-    "id": "Rodiun/frugon",
-    "language": "Python",
-    "name": "Rodiun/frugon",
-    "stars": 0,
-    "updated_at": "2026-06-20T22:56:02Z",
-    "url": "https://github.com/Rodiun/frugon"
   },
   {
     "description": "Measurement harness for benchmarking whether Codex instruction packages reduce token use without degrading task quality.",
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28882,
-    "updated_at": "2026-06-20T22:31:47Z",
+    "updated_at": "2026-06-21T00:26:22Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -158,7 +176,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-21T00:13:44Z",
+    "updated_at": "2026-06-21T00:30:00Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -342,15 +360,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22406,
-    "updated_at": "2026-06-21T00:11:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Sovereign, compliance-by-design RAG accelerator \u2014 Mistral + Qdrant, hybrid search, LoRA fine-tuning, OIDC auth, reversib",
     "id": "SeydinaBANE/sovereign-rag",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 21,
     "updated_at": "2026-06-20T15:05:14Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, r",
-    "id": "zendev-sh/zenflow",
-    "language": "Go",
-    "name": "zendev-sh/zenflow",
-    "stars": 21,
-    "updated_at": "2026-06-20T14:27:03Z",
-    "url": "https://github.com/zendev-sh/zenflow"
   }
 ]
