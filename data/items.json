@@ -1,11 +1,38 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:13:45Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 50986,
+    "updated_at": "2026-06-21T00:14:29Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 10,
+    "updated_at": "2026-06-21T00:03:44Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-20T23:49:39Z",
+    "updated_at": "2026-06-21T00:00:23Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 4,
     "updated_at": "2026-06-20T23:45:22Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 50985,
-    "updated_at": "2026-06-20T23:57:13Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T23:06:20Z",
     "url": "https://github.com/ricovigil1/warmwinter-sdk"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:04:28Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
@@ -130,7 +139,7 @@
     "id": "prashar32/riskkernel",
     "language": "Go",
     "name": "prashar32/riskkernel",
-    "stars": 18,
+    "stars": 19,
     "updated_at": "2026-06-20T22:15:51Z",
     "url": "https://github.com/prashar32/riskkernel"
   },
@@ -149,7 +158,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-20T23:46:19Z",
+    "updated_at": "2026-06-21T00:13:44Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -338,7 +347,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22406,
-    "updated_at": "2026-06-20T18:01:55Z",
+    "updated_at": "2026-06-21T00:11:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 21,
     "updated_at": "2026-06-20T14:27:03Z",
     "url": "https://github.com/zendev-sh/zenflow"
-  },
-  {
-    "description": "Production grade RAG SaaS with multi-tenant auth, semantic caching, LLMOps observability (Prometheus/Grafana), per-tenan",
-    "id": "AyanArshad02/kapa-inspired-rag-mcp",
-    "language": "HTML",
-    "name": "AyanArshad02/kapa-inspired-rag-mcp",
-    "stars": 3,
-    "updated_at": "2026-06-20T14:18:12Z",
-    "url": "https://github.com/AyanArshad02/kapa-inspired-rag-mcp"
   }
 ]
