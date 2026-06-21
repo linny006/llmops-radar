@@ -1,5 +1,23 @@
 [
   {
+    "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
+    "id": "runcycles/cycles-openai-agents",
+    "language": "Python",
+    "name": "runcycles/cycles-openai-agents",
+    "stars": 0,
+    "updated_at": "2026-06-21T13:52:34Z",
+    "url": "https://github.com/runcycles/cycles-openai-agents"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T13:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
     "id": "traceloop/openllmetry",
     "language": "Python",
@@ -18,13 +36,13 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T13:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5932,
+    "updated_at": "2026-06-21T13:31:08Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
@@ -234,15 +252,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5931,
-    "updated_at": "2026-06-21T13:31:08Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
     "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T12:25:08Z",
     "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-21T12:24:32Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
