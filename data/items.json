@@ -1,12 +1,57 @@
 [
   {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-21T21:50:37Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
     "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 8 cloud providers + local models side-b",
     "id": "lavellehatcherjr/Cli-Modelarium",
     "language": "Python",
     "name": "lavellehatcherjr/Cli-Modelarium",
     "stars": 0,
-    "updated_at": "2026-06-21T21:44:28Z",
+    "updated_at": "2026-06-21T21:50:21Z",
     "url": "https://github.com/lavellehatcherjr/Cli-Modelarium"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-21T21:50:01Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
+    "id": "tmusser/ai-engineering-skills",
+    "language": "Python",
+    "name": "tmusser/ai-engineering-skills",
+    "stars": 2,
+    "updated_at": "2026-06-21T21:48:56Z",
+    "url": "https://github.com/tmusser/ai-engineering-skills"
+  },
+  {
+    "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
+    "id": "hwdsl2/docker-litellm",
+    "language": "Shell",
+    "name": "hwdsl2/docker-litellm",
+    "stars": 8,
+    "updated_at": "2026-06-21T21:47:35Z",
+    "url": "https://github.com/hwdsl2/docker-litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-21T21:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -59,7 +104,7 @@
     "language": "TypeScript",
     "name": "manojmallick/skillweave",
     "stars": 0,
-    "updated_at": "2026-06-21T21:39:57Z",
+    "updated_at": "2026-06-21T21:51:03Z",
     "url": "https://github.com/manojmallick/skillweave"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-21T21:30:56Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-21T21:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deterministic pre/post-condition guardrails for LLM agents \u2014 no model in the loop.",
@@ -220,7 +256,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22432,
+    "stars": 22433,
     "updated_at": "2026-06-21T21:09:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T20:43:35Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-21T20:43:28Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-21T20:43:28Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-21T20:43:24Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-21T20:42:04Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
