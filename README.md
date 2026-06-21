@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 18:45 UTC
+> ⏰ Last updated: 2026-06-21 18:49 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [pillaiharish/opencode-ollama-steroids](https://github.com/pillaiharish/opencode-ollama-steroids) | 0 | — | 2026-06-21 | Headless OpenCode + Ollama multi-agent workflow with builder/reviewer agents, local session receipts, skills, validation |
-| 2 | [Dhanabhon/ntkn](https://github.com/Dhanabhon/ntkn) | 0 | Rust | 2026-06-21 | A local token ledger for AI agent runs. |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [pillaiharish/opencode-ollama-steroids](https://github.com/pillaiharish/opencode-ollama-steroids) | 0 | — | 2026-06-21 | Headless OpenCode + Ollama multi-agent workflow with builder/reviewer agents, local session receipts, skills, validation |
+| 3 | [Dhanabhon/ntkn](https://github.com/Dhanabhon/ntkn) | 0 | Rust | 2026-06-21 | A local token ledger for AI agent runs. |
 | 4 | [12britz/awesome-ai-gateways](https://github.com/12britz/awesome-ai-gateways) | 6 | — | 2026-06-21 | Managing 100+ LLM APIs, handling rate limits, implementing fallbacks, and tracking token costs is a massive operational  |
 | 5 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 2 | Rust | 2026-06-21 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
 | 6 | [Md-Emon-Hasan/LLM-Gateway-with-LiteLLM](https://github.com/Md-Emon-Hasan/LLM-Gateway-with-LiteLLM) | 1 | Jupyter Notebook | 2026-06-21 | LLM Gateway built with LiteLLM for unified access to multiple AI providers through a single OpenAI-compatible API. Featu |
