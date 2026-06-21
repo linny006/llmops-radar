@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Dhanabhon/ntkn](https://github.com/Dhanabhon/ntkn) | 0 | Rust | 2026-06-21 | A local token ledger for AI agent runs. |
-| 2 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 2 | Jupyter Notebook | 2026-06-21 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
-| 3 | [hyeonsangjeon/when-reasoning-pays-off](https://github.com/hyeonsangjeon/when-reasoning-pays-off) | 3 | Python | 2026-06-21 | When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning. |
-| 4 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 5 | Python | 2026-06-21 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
-| 5 | [xsyxnx/codex-quota-monitor](https://github.com/xsyxnx/codex-quota-monitor) | 0 | Python | 2026-06-21 | Self-hosted quota dashboard for CLIProxyAPI-backed Codex OAuth pools, with NixOS module, agent recommendations, and Prom |
-| 6 | [bilal0399/learn-agentic-ai](https://github.com/bilal0399/learn-agentic-ai) | 8 | — | 2026-06-21 | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent |
-| 7 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-06-21 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
-| 8 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-21 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 9 | [jainanushk8/swarm-pim](https://github.com/jainanushk8/swarm-pim) | 0 | Python | 2026-06-21 | SwarmPIM is a production-grade, containerized PIM system engineered with Next.js 14 and FastAPI. It orchestrates a multi |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [Dhanabhon/ntkn](https://github.com/Dhanabhon/ntkn) | 0 | Rust | 2026-06-21 | A local token ledger for AI agent runs. |
+| 3 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 2 | Jupyter Notebook | 2026-06-21 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
+| 4 | [hyeonsangjeon/when-reasoning-pays-off](https://github.com/hyeonsangjeon/when-reasoning-pays-off) | 3 | Python | 2026-06-21 | When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning. |
+| 5 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 5 | Python | 2026-06-21 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
+| 6 | [xsyxnx/codex-quota-monitor](https://github.com/xsyxnx/codex-quota-monitor) | 0 | Python | 2026-06-21 | Self-hosted quota dashboard for CLIProxyAPI-backed Codex OAuth pools, with NixOS module, agent recommendations, and Prom |
+| 7 | [bilal0399/learn-agentic-ai](https://github.com/bilal0399/learn-agentic-ai) | 8 | — | 2026-06-21 | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent |
+| 8 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-06-21 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
+| 9 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-21 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 10 | [jainanushk8/swarm-pim](https://github.com/jainanushk8/swarm-pim) | 0 | Python | 2026-06-21 | SwarmPIM is a production-grade, containerized PIM system engineered with Next.js 14 and FastAPI. It orchestrates a multi |
 | 11 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 1 | — | 2026-06-21 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
 | 12 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-21 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
 | 13 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-21 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
