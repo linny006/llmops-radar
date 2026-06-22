@@ -1,12 +1,12 @@
 [
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 18,
-    "updated_at": "2026-06-22T07:29:39Z",
-    "url": "https://github.com/byte5ai/omadia"
+    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
+    "id": "moiraweave-labs/moiraweave",
+    "language": "Python",
+    "name": "moiraweave-labs/moiraweave",
+    "stars": 1,
+    "updated_at": "2026-06-22T07:45:03Z",
+    "url": "https://github.com/moiraweave-labs/moiraweave"
   },
   {
     "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
@@ -14,8 +14,53 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 2,
-    "updated_at": "2026-06-22T07:29:00Z",
+    "updated_at": "2026-06-22T07:42:04Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-22T07:34:59Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-22T07:34:12Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5953,
+    "updated_at": "2026-06-22T07:32:57Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T07:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 18,
+    "updated_at": "2026-06-22T07:29:39Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
@@ -32,17 +77,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-22T07:30:24Z",
+    "updated_at": "2026-06-22T07:40:59Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5951,
-    "updated_at": "2026-06-22T07:25:28Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
@@ -52,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-06-22T07:25:05Z",
     "url": "https://github.com/mholovetskyi/cliche"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22445,
+    "updated_at": "2026-06-22T07:24:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -67,8 +112,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29497,
-    "updated_at": "2026-06-22T07:19:49Z",
+    "stars": 29498,
+    "updated_at": "2026-06-22T07:35:48Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -99,21 +144,12 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T07:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5534,
-    "updated_at": "2026-06-22T07:13:47Z",
+    "updated_at": "2026-06-22T07:36:15Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -229,7 +265,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51089,
+    "stars": 51090,
     "updated_at": "2026-06-22T06:49:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -256,7 +292,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26675,
+    "stars": 26676,
     "updated_at": "2026-06-22T06:43:48Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T06:26:01Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
-    "id": "hwdsl2/docker-litellm",
-    "language": "Shell",
-    "name": "hwdsl2/docker-litellm",
-    "stars": 8,
-    "updated_at": "2026-06-22T06:24:39Z",
-    "url": "https://github.com/hwdsl2/docker-litellm"
-  },
-  {
-    "description": "\u2692\ufe0f The open-source framework for LLM experiments and agent orchestration.",
-    "id": "InftyAI/alphatrion",
-    "language": "Python",
-    "name": "InftyAI/alphatrion",
-    "stars": 13,
-    "updated_at": "2026-06-22T06:24:01Z",
-    "url": "https://github.com/InftyAI/alphatrion"
-  },
-  {
-    "description": "A semantic cache for LLM calls \u2014 return a cached response when a similar prompt arrives, cutting cost and latency. Pure-",
-    "id": "Hritikd/semcache",
-    "language": "Python",
-    "name": "Hritikd/semcache",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:23:23Z",
-    "url": "https://github.com/Hritikd/semcache"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-22T06:22:49Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
