@@ -5,8 +5,62 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 2,
-    "updated_at": "2026-06-22T13:45:06Z",
+    "updated_at": "2026-06-22T14:00:07Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2275,
+    "updated_at": "2026-06-22T13:56:35Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29527,
+    "updated_at": "2026-06-22T13:54:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Production-ready RAG API with FastAPI, Chroma, MLflow & Docker. End-to-end LLMOps: ingest \u2192 retrieve \u2192 chat. Supports Ol",
+    "id": "rauljz/rag-llmops-starter",
+    "language": "Python",
+    "name": "rauljz/rag-llmops-starter",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:53:41Z",
+    "url": "https://github.com/rauljz/rag-llmops-starter"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51122,
+    "updated_at": "2026-06-22T13:46:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T13:45:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Use Claude Code 100% free with 100+ NVIDIA NIM models via LiteLLM proxy. No Anthropic subscription needed. Works on Wind",
+    "id": "nisargpatel1906/free-claude-code-nvidia",
+    "language": "\u2014",
+    "name": "nisargpatel1906/free-claude-code-nvidia",
+    "stars": 1,
+    "updated_at": "2026-06-22T13:44:20Z",
+    "url": "https://github.com/nisargpatel1906/free-claude-code-nvidia"
   },
   {
     "description": "The operations layer for your local LLM stack",
@@ -27,15 +81,6 @@
     "url": "https://github.com/mholovetskyi/cliche"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29523,
-    "updated_at": "2026-06-22T13:44:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -43,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-06-22T13:30:39Z",
     "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T13:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T13:29:37Z",
     "url": "https://github.com/abhilashsblai/ctxlayer-release"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51121,
-    "updated_at": "2026-06-22T13:27:52Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).",
@@ -112,7 +139,7 @@
     "id": "dataelement/bisheng",
     "language": "TypeScript",
     "name": "dataelement/bisheng",
-    "stars": 11466,
+    "stars": 11467,
     "updated_at": "2026-06-22T13:10:56Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T13:09:58Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2274,
-    "updated_at": "2026-06-22T12:59:52Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -148,7 +166,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28896,
+    "stars": 28897,
     "updated_at": "2026-06-22T12:51:49Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3026,
-    "updated_at": "2026-06-22T13:45:23Z",
+    "updated_at": "2026-06-22T13:54:43Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5958,
-    "updated_at": "2026-06-22T13:34:49Z",
+    "updated_at": "2026-06-22T13:50:41Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -302,7 +320,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4228,
-    "updated_at": "2026-06-22T12:32:49Z",
+    "updated_at": "2026-06-22T13:45:43Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -310,7 +328,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22460,
+    "stars": 22461,
     "updated_at": "2026-06-22T12:32:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19714,
-    "updated_at": "2026-06-22T13:37:55Z",
+    "updated_at": "2026-06-22T14:00:06Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 10139,
     "updated_at": "2026-06-22T12:14:20Z",
     "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:11:15Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:11:09Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
