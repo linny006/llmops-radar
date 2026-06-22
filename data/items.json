@@ -1,12 +1,57 @@
 [
   {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1046,
+    "updated_at": "2026-06-22T02:55:38Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 0,
-    "updated_at": "2026-06-22T02:43:56Z",
+    "updated_at": "2026-06-22T02:54:30Z",
     "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-22T02:46:43Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-22T02:45:58Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2269,
+    "updated_at": "2026-06-22T02:45:51Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T02:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
@@ -61,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T02:33:10Z",
     "url": "https://github.com/Cro22/Augur"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T02:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -131,7 +167,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1233,
-    "updated_at": "2026-06-22T02:20:49Z",
+    "updated_at": "2026-06-22T02:54:02Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -247,7 +283,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22440,
+    "stars": 22441,
     "updated_at": "2026-06-22T01:49:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -313,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T01:40:53Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2268,
-    "updated_at": "2026-06-22T01:37:54Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "Netis/heron",
     "stars": 31,
-    "updated_at": "2026-06-22T02:43:49Z",
+    "updated_at": "2026-06-22T02:58:21Z",
     "url": "https://github.com/Netis/heron"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T01:29:43Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-22T01:29:23Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-22T01:29:15Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-22T01:29:15Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
