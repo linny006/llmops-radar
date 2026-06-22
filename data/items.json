@@ -1,12 +1,30 @@
 [
   {
-    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 2,
-    "updated_at": "2026-06-22T09:15:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29505,
+    "updated_at": "2026-06-22T09:29:09Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
+    "id": "ictseoyoungmin/HADARA",
+    "language": "TypeScript",
+    "name": "ictseoyoungmin/HADARA",
+    "stars": 0,
+    "updated_at": "2026-06-22T09:27:33Z",
+    "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
+    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
+    "id": "marcusschiesser/agentpond",
+    "language": "TypeScript",
+    "name": "marcusschiesser/agentpond",
+    "stars": 5,
+    "updated_at": "2026-06-22T09:27:27Z",
+    "url": "https://github.com/marcusschiesser/agentpond"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -14,16 +32,34 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19712,
-    "updated_at": "2026-06-22T09:12:11Z",
+    "updated_at": "2026-06-22T09:25:53Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 85,
+    "updated_at": "2026-06-22T09:24:16Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 2,
+    "updated_at": "2026-06-22T09:22:48Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2271,
-    "updated_at": "2026-06-22T09:09:02Z",
+    "stars": 2272,
+    "updated_at": "2026-06-22T09:17:13Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -32,8 +68,26 @@
     "language": "Python",
     "name": "Haohao-end/openagent",
     "stars": 815,
-    "updated_at": "2026-06-22T09:06:15Z",
+    "updated_at": "2026-06-22T09:17:12Z",
     "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
+    "id": "esanmohammad/Anvil",
+    "language": "TypeScript",
+    "name": "esanmohammad/Anvil",
+    "stars": 16,
+    "updated_at": "2026-06-22T09:16:55Z",
+    "url": "https://github.com/esanmohammad/Anvil"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T09:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
@@ -50,17 +104,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-22T09:03:46Z",
+    "updated_at": "2026-06-22T09:29:51Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T09:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5443,
-    "updated_at": "2026-06-22T08:52:08Z",
+    "updated_at": "2026-06-22T09:18:05Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T08:48:22Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29504,
-    "updated_at": "2026-06-22T09:13:34Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -302,7 +338,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1234,
-    "updated_at": "2026-06-22T09:02:32Z",
+    "updated_at": "2026-06-22T09:27:59Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T08:19:13Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:19:10Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5536,
-    "updated_at": "2026-06-22T08:18:43Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:16:28Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:16:06Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
