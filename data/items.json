@@ -1,5 +1,68 @@
 [
   {
+    "description": "Benchmark a fine-tuned model against your frontier-API baseline \u2014 accuracy, cost per 1k calls, latency, format adherence",
+    "id": "Msc-Company-Org/llm-finetune-eval",
+    "language": "Python",
+    "name": "Msc-Company-Org/llm-finetune-eval",
+    "stars": 0,
+    "updated_at": "2026-06-22T04:44:23Z",
+    "url": "https://github.com/Msc-Company-Org/llm-finetune-eval"
+  },
+  {
+    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
+    "id": "marcusschiesser/agentpond",
+    "language": "TypeScript",
+    "name": "marcusschiesser/agentpond",
+    "stars": 5,
+    "updated_at": "2026-06-22T04:43:38Z",
+    "url": "https://github.com/marcusschiesser/agentpond"
+  },
+  {
+    "description": "Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot.",
+    "id": "shinjaehyun20/ai-workflow-kits",
+    "language": "Python",
+    "name": "shinjaehyun20/ai-workflow-kits",
+    "stars": 0,
+    "updated_at": "2026-06-22T04:39:57Z",
+    "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "Shell",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-06-22T04:39:05Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 0,
+    "updated_at": "2026-06-22T04:36:00Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 17,
+    "updated_at": "2026-06-22T04:35:51Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T04:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted quota dashboard for CLIProxyAPI-backed Codex OAuth pools, with NixOS module, agent recommendations, and Prom",
     "id": "xsyxnx/codex-quota-monitor",
     "language": "Python",
@@ -22,36 +85,9 @@
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-22T04:18:59Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 0,
-    "updated_at": "2026-06-22T04:15:38Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T04:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot.",
-    "id": "shinjaehyun20/ai-workflow-kits",
-    "language": "Python",
-    "name": "shinjaehyun20/ai-workflow-kits",
-    "stars": 0,
-    "updated_at": "2026-06-22T04:13:46Z",
-    "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T04:06:06Z",
     "url": "https://github.com/ns408/agentic-lab"
-  },
-  {
-    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
-    "id": "marcusschiesser/agentpond",
-    "language": "TypeScript",
-    "name": "marcusschiesser/agentpond",
-    "stars": 5,
-    "updated_at": "2026-06-22T04:15:41Z",
-    "url": "https://github.com/marcusschiesser/agentpond"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -378,15 +405,6 @@
     "url": "https://github.com/sarrahw23/deploy-guide"
   },
   {
-    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 17,
-    "updated_at": "2026-06-22T04:16:19Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T03:26:27Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Warm KV-transfer llama.cpp swaps under a sandboxed TypeScript policy, with a per-GPU VRAM budget and load-driven autosca",
-    "id": "avafloww/goldseam",
-    "language": "Rust",
-    "name": "avafloww/goldseam",
-    "stars": 0,
-    "updated_at": "2026-06-22T03:25:43Z",
-    "url": "https://github.com/avafloww/goldseam"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-22T03:20:26Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
