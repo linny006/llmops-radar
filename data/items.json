@@ -1,5 +1,77 @@
 [
   {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-06-22T11:44:42Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-06-22T11:43:10Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-06-22T11:42:47Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
+    "id": "mholovetskyi/cliche",
+    "language": "Go",
+    "name": "mholovetskyi/cliche",
+    "stars": 0,
+    "updated_at": "2026-06-22T11:33:02Z",
+    "url": "https://github.com/mholovetskyi/cliche"
+  },
+  {
+    "description": "Production harness for shipping LLM features: observability gateway, prompt registry, eval gate, PII redaction, and drif",
+    "id": "takeshimx/genai-prod-kit",
+    "language": "Jupyter Notebook",
+    "name": "takeshimx/genai-prod-kit",
+    "stars": 0,
+    "updated_at": "2026-06-22T11:32:24Z",
+    "url": "https://github.com/takeshimx/genai-prod-kit"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-06-22T11:31:37Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T11:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29514,
+    "updated_at": "2026-06-22T11:30:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
     "id": "GaBySuGy/agent-guardrails",
     "language": "Shell",
@@ -7,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-06-22T11:30:14Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51114,
+    "updated_at": "2026-06-22T11:28:47Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -61,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T11:16:40Z",
     "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T11:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted quota dashboard for CLIProxyAPI-backed Codex OAuth pools, with NixOS module, agent recommendations, and Prom",
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19713,
-    "updated_at": "2026-06-22T11:18:30Z",
+    "updated_at": "2026-06-22T11:42:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -333,15 +405,6 @@
     "url": "https://github.com/runcycles/.github"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29513,
-    "updated_at": "2026-06-22T11:30:20Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -374,7 +437,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-22T11:27:51Z",
+    "updated_at": "2026-06-22T11:31:11Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T10:59:43Z",
     "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-06-22T10:59:21Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-06-22T10:58:05Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-06-22T10:55:28Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-06-22T10:51:06Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 6,
-    "updated_at": "2026-06-22T10:49:35Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 2,
-    "updated_at": "2026-06-22T10:49:07Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "\u73af\u6e38\u4e16\u754c\u65c5\u6e38\uff0c\u521b\u4e1a\u505a AI \u4ea7\u54c1\uff0c\u4e00\u79cd\u6bd4\u8f83\u65b0\u7684\u65b9\u5f0f\u548c\u7406\u5ff5\u751f\u6d3b\u521b\u4e1a\uff0c\u6b22\u8fce\u8ba2\u9605 RSS  https://nsddd.top/zh/index.xml",
-    "id": "cubxxw/blog",
-    "language": "HTML",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-06-22T10:48:28Z",
-    "url": "https://github.com/cubxxw/blog"
   }
 ]
