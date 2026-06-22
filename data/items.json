@@ -1,10 +1,64 @@
 [
   {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-22T09:39:56Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "OpenClaw agent safety skill for action review, workflow verification, and optional PIC diagnostics",
+    "id": "kadubon/pic-openclaw-skill",
+    "language": "Python",
+    "name": "kadubon/pic-openclaw-skill",
+    "stars": 0,
+    "updated_at": "2026-06-22T09:38:57Z",
+    "url": "https://github.com/kadubon/pic-openclaw-skill"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2272,
+    "updated_at": "2026-06-22T09:38:18Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 2,
+    "updated_at": "2026-06-22T09:34:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26677,
+    "updated_at": "2026-06-22T09:33:42Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T09:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29505,
+    "stars": 29507,
     "updated_at": "2026-06-22T09:29:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -16,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-06-22T09:27:33Z",
     "url": "https://github.com/ictseoyoungmin/HADARA"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51105,
+    "updated_at": "2026-06-22T09:40:45Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19712,
-    "updated_at": "2026-06-22T09:25:53Z",
+    "updated_at": "2026-06-22T09:32:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -41,26 +104,8 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 85,
-    "updated_at": "2026-06-22T09:24:16Z",
+    "updated_at": "2026-06-22T09:43:16Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 2,
-    "updated_at": "2026-06-22T09:22:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2272,
-    "updated_at": "2026-06-22T09:17:13Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor",
@@ -81,13 +126,13 @@
     "url": "https://github.com/esanmohammad/Anvil"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T09:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22448,
+    "updated_at": "2026-06-22T09:12:21Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-22T09:29:51Z",
+    "updated_at": "2026-06-22T09:45:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T09:00:28Z",
     "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:58:17Z",
-    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "A Codex skill for long-running project memory, traceable architecture decisions, ADRs, changelogs, and session handoffs.",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5443,
-    "updated_at": "2026-06-22T09:18:05Z",
+    "updated_at": "2026-06-22T09:41:38Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1234,
-    "updated_at": "2026-06-22T09:27:59Z",
+    "updated_at": "2026-06-22T09:44:09Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T08:25:36Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:24:10Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:23:40Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-22T08:20:57Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:19:13Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
