@@ -1,12 +1,102 @@
 [
   {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 87,
+    "updated_at": "2026-06-22T15:29:23Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:29:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:23:59Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:23:12Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "75+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
+    "id": "Neeeophytee/awesome-ai-workflows",
+    "language": "Shell",
+    "name": "Neeeophytee/awesome-ai-workflows",
+    "stars": 7,
+    "updated_at": "2026-06-22T15:20:53Z",
+    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29528,
+    "updated_at": "2026-06-22T15:28:28Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1047,
+    "updated_at": "2026-06-22T15:19:16Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4228,
-    "updated_at": "2026-06-22T15:14:28Z",
+    "updated_at": "2026-06-22T15:17:37Z",
     "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51127,
+    "updated_at": "2026-06-22T15:24:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3310,
+    "updated_at": "2026-06-22T15:24:08Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:15:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -36,15 +126,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 87,
-    "updated_at": "2026-06-22T15:14:42Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -63,15 +144,6 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T15:00:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -86,7 +158,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19715,
-    "updated_at": "2026-06-22T15:14:40Z",
+    "updated_at": "2026-06-22T15:23:42Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -135,15 +207,6 @@
     "url": "https://github.com/bilal0399/learn-agentic-ai"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3310,
-    "updated_at": "2026-06-22T15:08:48Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
     "id": "tenemos/langwatch",
     "language": "TypeScript",
@@ -151,24 +214,6 @@
     "stars": 2,
     "updated_at": "2026-06-22T14:48:34Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51126,
-    "updated_at": "2026-06-22T15:13:59Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 2,
-    "updated_at": "2026-06-22T15:13:49Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -196,15 +241,6 @@
     "stars": 9,
     "updated_at": "2026-06-22T14:28:35Z",
     "url": "https://github.com/ndom91/llama-dash"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29528,
-    "updated_at": "2026-06-22T15:13:35Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -241,6 +277,15 @@
     "stars": 0,
     "updated_at": "2026-06-22T13:53:41Z",
     "url": "https://github.com/rauljz/rag-llmops-starter"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5959,
+    "updated_at": "2026-06-22T13:50:41Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Use Claude Code 100% free with 100+ NVIDIA NIM models via LiteLLM proxy. No Anthropic subscription needed. Works on Wind",
@@ -347,7 +392,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3026,
-    "updated_at": "2026-06-22T15:15:18Z",
+    "updated_at": "2026-06-22T15:23:44Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5958,
-    "updated_at": "2026-06-22T13:50:41Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-22T12:42:25Z",
     "url": "https://github.com/melaya-labs/melaya"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:40:32Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 12,
-    "updated_at": "2026-06-22T13:15:53Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:38:54Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:37:47Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
   }
 ]
