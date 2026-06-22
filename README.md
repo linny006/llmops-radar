@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-22 15:30 UTC
+> ⏰ Last updated: 2026-06-22 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 87 | Rust | 2026-06-22 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
+| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29529 | TypeScript | 2026-06-22 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 2 | Go | 2026-06-22 | A default-deny capability floor the model can't talk past, plus an addressable KV cache — in one Go binary. |
-| 3 | [richardpapiona9/llm](https://github.com/richardpapiona9/llm) | 0 | JavaScript | 2026-06-22 | 🤖 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver |
-| 4 | [mahdidjemaci/production-rag](https://github.com/mahdidjemaci/production-rag) | 2 | Python | 2026-06-22 | 🔍 Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal  |
-| 5 | [Neeeophytee/awesome-ai-workflows](https://github.com/Neeeophytee/awesome-ai-workflows) | 7 | Shell | 2026-06-22 | 75+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks. |
-| 6 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29528 | TypeScript | 2026-06-22 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 7 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1047 | Python | 2026-06-22 | OpenTelemetry Instrumentation for AI Observability |
-| 8 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | 4228 | TypeScript | 2026-06-22 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one  |
-| 9 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51127 | Python | 2026-06-22 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 10 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3310 | TypeScript | 2026-06-22 | The platform for LLM evaluations and AI agent testing |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 12 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 2 | Python | 2026-06-22 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
-| 13 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-06-22 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
-| 14 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28897 | TypeScript | 2026-06-22 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 3 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3310 | TypeScript | 2026-06-22 | The platform for LLM evaluations and AI agent testing |
+| 4 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28897 | TypeScript | 2026-06-22 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 5 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 87 | Rust | 2026-06-22 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
+| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 7 | [richardpapiona9/llm](https://github.com/richardpapiona9/llm) | 0 | JavaScript | 2026-06-22 | 🤖 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver |
+| 8 | [mahdidjemaci/production-rag](https://github.com/mahdidjemaci/production-rag) | 2 | Python | 2026-06-22 | 🔍 Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal  |
+| 9 | [Neeeophytee/awesome-ai-workflows](https://github.com/Neeeophytee/awesome-ai-workflows) | 7 | Shell | 2026-06-22 | 75+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks. |
+| 10 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1047 | Python | 2026-06-22 | OpenTelemetry Instrumentation for AI Observability |
+| 11 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | 4228 | TypeScript | 2026-06-22 | The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one  |
+| 12 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51127 | Python | 2026-06-22 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 13 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 2 | Python | 2026-06-22 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
+| 14 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-06-22 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
 | 15 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-22 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
 | 16 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-06-22 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
 | 17 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-06-22 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
@@ -67,9 +67,9 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [bilal0399/learn-agentic-ai](https://github.com/bilal0399/learn-agentic-ai) | 8 | — | 2026-06-22 | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent |
 | 24 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-06-22 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
 | 25 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-22 | The opinionated workflow engine and governance layer for agent-driven software development. |
-| 26 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2275 | C++ | 2026-06-22 | Community maintained hardware plugin for vLLM on Ascend |
-| 27 | [ndom91/llama-dash](https://github.com/ndom91/llama-dash) | 9 | TypeScript | 2026-06-22 | The operations layer for your local LLM stack |
-| 28 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10233 | Python | 2026-06-22 | AI Observability & Evaluation |
+| 26 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10234 | Python | 2026-06-22 | AI Observability & Evaluation |
+| 27 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2275 | C++ | 2026-06-22 | Community maintained hardware plugin for vLLM on Ascend |
+| 28 | [ndom91/llama-dash](https://github.com/ndom91/llama-dash) | 9 | TypeScript | 2026-06-22 | The operations layer for your local LLM stack |
 | 29 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 32 | Python | 2026-06-22 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
 | 30 | [mholovetskyi/cliche](https://github.com/mholovetskyi/cliche) | 0 | Go | 2026-06-22 | The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker,  |
 | 31 | [rauljz/rag-llmops-starter](https://github.com/rauljz/rag-llmops-starter) | 0 | Python | 2026-06-22 | Production-ready RAG API with FastAPI, Chroma, MLflow & Docker. End-to-end LLMOps: ingest → retrieve → chat. Supports Ol |
