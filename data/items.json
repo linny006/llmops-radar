@@ -1,5 +1,77 @@
 [
   {
+    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 2,
+    "updated_at": "2026-06-22T09:15:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19712,
+    "updated_at": "2026-06-22T09:12:11Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2271,
+    "updated_at": "2026-06-22T09:09:02Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 815,
+    "updated_at": "2026-06-22T09:06:15Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-22T09:08:13Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3310,
+    "updated_at": "2026-06-22T09:03:46Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T09:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
+    "id": "alinafe82/persistent-cognitive-infrastructure",
+    "language": "Python",
+    "name": "alinafe82/persistent-cognitive-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-06-22T09:00:28Z",
+    "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
+  },
+  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -9,15 +81,6 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 2,
-    "updated_at": "2026-06-22T08:58:02Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "A Codex skill for long-running project memory, traceable architecture decisions, ADRs, changelogs, and session handoffs.",
     "id": "youngkermit8-coder/architecture-collaboration-skill",
     "language": "\u2014",
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T08:56:41Z",
     "url": "https://github.com/youngkermit8-coder/architecture-collaboration-skill"
-  },
-  {
-    "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, wor",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 815,
-    "updated_at": "2026-06-22T08:56:21Z",
-    "url": "https://github.com/Haohao-end/openagent"
   },
   {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
@@ -126,21 +180,12 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T08:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29504,
-    "updated_at": "2026-06-22T08:50:16Z",
+    "updated_at": "2026-06-22T09:13:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T08:37:57Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19712,
-    "updated_at": "2026-06-22T08:55:34Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -266,7 +302,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1234,
-    "updated_at": "2026-06-22T08:30:06Z",
+    "updated_at": "2026-06-22T09:02:32Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -342,15 +378,6 @@
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2270,
-    "updated_at": "2026-06-22T08:58:39Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
     "id": "ashmedanraj/langfuse-eks-production",
     "language": "\u2014",
@@ -396,6 +423,15 @@
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   },
   {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5536,
+    "updated_at": "2026-06-22T08:18:43Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
     "id": "FawwazAzka/openclaw-docs",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T08:16:06Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 63,
-    "updated_at": "2026-06-22T08:13:43Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "A comprehensive 2026 AI-engineering guide \u2014 complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati",
-    "id": "tonyx1998/modern-ai-engineer-guide",
-    "language": "TypeScript",
-    "name": "tonyx1998/modern-ai-engineer-guide",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:12:04Z",
-    "url": "https://github.com/tonyx1998/modern-ai-engineer-guide"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-22T08:12:45Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:10:06Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
