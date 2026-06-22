@@ -1,12 +1,165 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51144,
+    "updated_at": "2026-06-22T21:28:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A secure file system for your agents to execute code",
+    "id": "Tako-Research/TakoVM",
+    "language": "Python",
+    "name": "Tako-Research/TakoVM",
+    "stars": 65,
+    "updated_at": "2026-06-22T21:28:36Z",
+    "url": "https://github.com/Tako-Research/TakoVM"
+  },
+  {
+    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 8 cloud providers + local models side-b",
+    "id": "lavellehatcherjr/Cli-Modelarium",
+    "language": "Python",
+    "name": "lavellehatcherjr/Cli-Modelarium",
+    "stars": 0,
+    "updated_at": "2026-06-22T21:26:59Z",
+    "url": "https://github.com/lavellehatcherjr/Cli-Modelarium"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-06-22T21:25:06Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10236,
+    "updated_at": "2026-06-22T21:24:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 1,
+    "updated_at": "2026-06-22T21:24:27Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "A transparent, 100%-local semantic cache for LLM APIs \u2014 drop-in proxy, one line to integrate, written in Rust",
+    "id": "abhix2112/Cachet",
+    "language": "Rust",
+    "name": "abhix2112/Cachet",
+    "stars": 0,
+    "updated_at": "2026-06-22T21:21:30Z",
+    "url": "https://github.com/abhix2112/Cachet"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-06-22T21:20:38Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-22T21:15:18Z",
+    "updated_at": "2026-06-22T21:19:13Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-06-22T21:19:05Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
+    "id": "Tearfullnex/SpecGuard",
+    "language": "Python",
+    "name": "Tearfullnex/SpecGuard",
+    "stars": 0,
+    "updated_at": "2026-06-22T21:18:43Z",
+    "url": "https://github.com/Tearfullnex/SpecGuard"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
+    "id": "Jitendra-kr-d/prompt-engineering-toolkit",
+    "language": "HTML",
+    "name": "Jitendra-kr-d/prompt-engineering-toolkit",
+    "stars": 1,
+    "updated_at": "2026-06-22T21:18:30Z",
+    "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
+  },
+  {
+    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
+    "id": "rozario-1234/end2end_sample",
+    "language": "TypeScript",
+    "name": "rozario-1234/end2end_sample",
+    "stars": 1,
+    "updated_at": "2026-06-22T21:17:46Z",
+    "url": "https://github.com/rozario-1234/end2end_sample"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-06-22T21:16:59Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 3,
+    "updated_at": "2026-06-22T21:16:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
+    "id": "matiaslanza99/SuperStore.SalesDashboard",
+    "language": "CSS",
+    "name": "matiaslanza99/SuperStore.SalesDashboard",
+    "stars": 0,
+    "updated_at": "2026-06-22T21:15:55Z",
+    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
+  },
+  {
+    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
+    "id": "KewalPra/agent-sdk",
+    "language": "Python",
+    "name": "KewalPra/agent-sdk",
+    "stars": 0,
+    "updated_at": "2026-06-22T21:15:31Z",
+    "url": "https://github.com/KewalPra/agent-sdk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T21:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
@@ -18,24 +171,6 @@
     "url": "https://github.com/rsaudio/second-brain"
   },
   {
-    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 3,
-    "updated_at": "2026-06-22T21:15:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 8 cloud providers + local models side-b",
-    "id": "lavellehatcherjr/Cli-Modelarium",
-    "language": "Python",
-    "name": "lavellehatcherjr/Cli-Modelarium",
-    "stars": 0,
-    "updated_at": "2026-06-22T21:13:36Z",
-    "url": "https://github.com/lavellehatcherjr/Cli-Modelarium"
-  },
-  {
     "description": "AI Governance Gateway built with FastAPI for prompt analysis, PII detection, prompt injection detection, policy enforcem",
     "id": "aaryavinays-dev/guardrail-ai",
     "language": "Python",
@@ -45,21 +180,12 @@
     "url": "https://github.com/aaryavinays-dev/guardrail-ai"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51143,
-    "updated_at": "2026-06-22T21:12:16Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-22T21:12:09Z",
+    "updated_at": "2026-06-22T21:29:02Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -122,7 +248,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29540,
-    "updated_at": "2026-06-22T21:07:19Z",
+    "updated_at": "2026-06-22T21:29:54Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -160,24 +286,6 @@
     "stars": 19715,
     "updated_at": "2026-06-22T21:11:03Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10236,
-    "updated_at": "2026-06-22T21:03:51Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T21:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
@@ -252,15 +360,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "A transparent, 100%-local semantic cache for LLM APIs \u2014 drop-in proxy, one line to integrate, written in Rust",
-    "id": "abhix2112/Cachet",
-    "language": "Rust",
-    "name": "abhix2112/Cachet",
-    "stars": 0,
-    "updated_at": "2026-06-22T20:44:27Z",
-    "url": "https://github.com/abhix2112/Cachet"
-  },
-  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -302,7 +401,7 @@
     "language": "TypeScript",
     "name": "manojmallick/skillweave",
     "stars": 0,
-    "updated_at": "2026-06-22T20:42:29Z",
+    "updated_at": "2026-06-22T21:19:14Z",
     "url": "https://github.com/manojmallick/skillweave"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-22T20:18:42Z",
     "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-06-22T20:17:47Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
-    "id": "mykolapodpriatov/agentbisect",
-    "language": "Python",
-    "name": "mykolapodpriatov/agentbisect",
-    "stars": 0,
-    "updated_at": "2026-06-22T20:13:48Z",
-    "url": "https://github.com/mykolapodpriatov/agentbisect"
-  },
-  {
-    "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 17,
-    "updated_at": "2026-06-22T19:59:51Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
-    "id": "Arnab758/ai-gateway",
-    "language": "Go",
-    "name": "Arnab758/ai-gateway",
-    "stars": 1,
-    "updated_at": "2026-06-22T19:51:04Z",
-    "url": "https://github.com/Arnab758/ai-gateway"
-  },
-  {
-    "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
-    "id": "anmolsharma152/Disha",
-    "language": "Python",
-    "name": "anmolsharma152/Disha",
-    "stars": 0,
-    "updated_at": "2026-06-22T19:50:31Z",
-    "url": "https://github.com/anmolsharma152/Disha"
-  },
-  {
-    "description": "Dependabot for LLM models \u2014 scans code for outdated AI model strings, opens upgrade PRs automatically",
-    "id": "agamm/llm-upgrade-bot",
-    "language": "TypeScript",
-    "name": "agamm/llm-upgrade-bot",
-    "stars": 3,
-    "updated_at": "2026-06-22T19:47:10Z",
-    "url": "https://github.com/agamm/llm-upgrade-bot"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3027,
-    "updated_at": "2026-06-22T20:47:57Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "Shell",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-06-22T19:40:35Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-06-22T19:40:29Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 1,
-    "updated_at": "2026-06-22T19:23:17Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-06-22T19:22:03Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   }
 ]
