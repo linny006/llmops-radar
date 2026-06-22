@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 50+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress,",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "Python",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 22,
+    "updated_at": "2026-06-22T13:13:08Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 2,
+    "updated_at": "2026-06-22T13:11:19Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:09:58Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
+    "id": "moiraweave-labs/moiraweave",
+    "language": "Python",
+    "name": "moiraweave-labs/moiraweave",
+    "stars": 1,
+    "updated_at": "2026-06-22T13:09:40Z",
+    "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T13:05:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
     "id": "mholovetskyi/cliche",
     "language": "Go",
@@ -9,40 +54,13 @@
     "url": "https://github.com/mholovetskyi/cliche"
   },
   {
-    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 2,
-    "updated_at": "2026-06-22T13:03:15Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
-    "id": "moiraweave-labs/moiraweave",
-    "language": "Python",
-    "name": "moiraweave-labs/moiraweave",
-    "stars": 1,
-    "updated_at": "2026-06-22T13:05:14Z",
-    "url": "https://github.com/moiraweave-labs/moiraweave"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29519,
-    "updated_at": "2026-06-22T13:04:48Z",
+    "updated_at": "2026-06-22T13:13:23Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T13:00:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -59,7 +77,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 6,
-    "updated_at": "2026-06-22T13:04:41Z",
+    "updated_at": "2026-06-22T13:15:17Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5958,
-    "updated_at": "2026-06-22T12:45:22Z",
+    "updated_at": "2026-06-22T13:15:11Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -238,7 +256,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22457,
+    "stars": 22458,
     "updated_at": "2026-06-22T12:32:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19714,
-    "updated_at": "2026-06-22T13:04:46Z",
+    "updated_at": "2026-06-22T13:13:43Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:07:32Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
     "id": "downpaymentbulbul49/plano_estudos_sre",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T12:06:48Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:03:51Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   }
 ]
