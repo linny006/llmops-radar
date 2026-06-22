@@ -1,21 +1,57 @@
 [
   {
+    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 2,
+    "updated_at": "2026-06-22T13:45:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 9,
+    "updated_at": "2026-06-22T13:44:19Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
+    "id": "mholovetskyi/cliche",
+    "language": "Go",
+    "name": "mholovetskyi/cliche",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:41:08Z",
+    "url": "https://github.com/mholovetskyi/cliche"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29523,
+    "updated_at": "2026-06-22T13:44:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
     "name": "Ohswedd/vincio",
     "stars": 2,
-    "updated_at": "2026-06-22T13:30:16Z",
+    "updated_at": "2026-06-22T13:30:39Z",
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
-    "id": "abhilashsblai/ctxlayer-release",
-    "language": "\u2014",
-    "name": "abhilashsblai/ctxlayer-release",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:29:37Z",
-    "url": "https://github.com/abhilashsblai/ctxlayer-release"
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T13:30:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
@@ -27,22 +63,22 @@
     "url": "https://github.com/moiraweave-labs/moiraweave"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29521,
-    "updated_at": "2026-06-22T13:27:06Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
+    "id": "abhilashsblai/ctxlayer-release",
+    "language": "\u2014",
+    "name": "abhilashsblai/ctxlayer-release",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:29:37Z",
+    "url": "https://github.com/abhilashsblai/ctxlayer-release"
   },
   {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 9,
-    "updated_at": "2026-06-22T13:24:10Z",
-    "url": "https://github.com/ndom91/llama-dash"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51121,
+    "updated_at": "2026-06-22T13:27:52Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).",
@@ -52,33 +88,6 @@
     "stars": 17,
     "updated_at": "2026-06-22T13:22:01Z",
     "url": "https://github.com/brandonhimpfen/awesome-llmops"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51119,
-    "updated_at": "2026-06-22T13:27:52Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 2,
-    "updated_at": "2026-06-22T13:30:21Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T13:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -99,6 +108,15 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11466,
+    "updated_at": "2026-06-22T13:10:56Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T13:09:58Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
-    "id": "mholovetskyi/cliche",
-    "language": "Go",
-    "name": "mholovetskyi/cliche",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:03:51Z",
-    "url": "https://github.com/mholovetskyi/cliche"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -139,7 +148,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 28895,
+    "stars": 28896,
     "updated_at": "2026-06-22T12:51:49Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -176,7 +185,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3026,
-    "updated_at": "2026-06-22T13:26:39Z",
+    "updated_at": "2026-06-22T13:45:23Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5958,
-    "updated_at": "2026-06-22T13:18:22Z",
+    "updated_at": "2026-06-22T13:34:49Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -301,7 +310,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22458,
+    "stars": 22460,
     "updated_at": "2026-06-22T12:32:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19714,
-    "updated_at": "2026-06-22T13:29:20Z",
+    "updated_at": "2026-06-22T13:37:55Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T12:11:09Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:10:13Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
