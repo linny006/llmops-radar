@@ -1,11 +1,119 @@
 [
   {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 2,
+    "updated_at": "2026-06-22T10:14:58Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Marketing + Documentation Site for llama-dash",
+    "id": "ndom91/llama-dash-docs",
+    "language": "MDX",
+    "name": "ndom91/llama-dash-docs",
+    "stars": 0,
+    "updated_at": "2026-06-22T10:10:54Z",
+    "url": "https://github.com/ndom91/llama-dash-docs"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-22T10:12:07Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 2,
+    "updated_at": "2026-06-22T10:10:12Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19713,
+    "updated_at": "2026-06-22T10:08:33Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-22T10:07:53Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 524,
+    "updated_at": "2026-06-22T10:02:30Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-06-22T10:01:28Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 28892,
+    "updated_at": "2026-06-22T10:15:13Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-06-22T10:00:57Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29509,
+    "updated_at": "2026-06-22T10:08:48Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T10:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-22T09:59:04Z",
+    "updated_at": "2026-06-22T10:09:47Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -45,15 +153,6 @@
     "url": "https://github.com/mholovetskyi/cliche"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19712,
-    "updated_at": "2026-06-22T09:54:28Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
     "id": "Lo3okSky/LLM_course",
     "language": "Jupyter Notebook",
@@ -77,7 +176,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 51105,
-    "updated_at": "2026-06-22T09:59:03Z",
+    "updated_at": "2026-06-22T10:01:16Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -108,24 +207,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T09:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-22T09:39:56Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
     "description": "OpenClaw agent safety skill for action review, workflow verification, and optional PIC diagnostics",
     "id": "kadubon/pic-openclaw-skill",
     "language": "Python",
@@ -151,15 +232,6 @@
     "stars": 26677,
     "updated_at": "2026-06-22T09:33:42Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29508,
-    "updated_at": "2026-06-22T09:58:07Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Portable agentic development workbench for evidence-backed, resumable AI-assisted software workflows.",
@@ -202,18 +274,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22449,
+    "stars": 22453,
     "updated_at": "2026-06-22T09:12:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-22T09:08:13Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -221,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-22T09:59:06Z",
+    "updated_at": "2026-06-22T10:14:56Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T08:32:23Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:32:14Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:31:41Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:30:26Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:30:22Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1234,
-    "updated_at": "2026-06-22T09:44:09Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:29:44Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:29:37Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   }
 ]
