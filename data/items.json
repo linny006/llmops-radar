@@ -1,5 +1,77 @@
 [
   {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4228,
+    "updated_at": "2026-06-22T15:14:28Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:11:26Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:10:09Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 28897,
+    "updated_at": "2026-06-22T15:07:30Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 87,
+    "updated_at": "2026-06-22T15:14:42Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:02:36Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-06-22T15:01:56Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:00:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -7,6 +79,15 @@
     "stars": 2,
     "updated_at": "2026-06-22T14:59:01Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19715,
+    "updated_at": "2026-06-22T15:14:40Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Benchmark a fine-tuned model against your frontier-API baseline \u2014 accuracy, cost per 1k calls, latency, format adherence",
@@ -36,15 +117,6 @@
     "url": "https://github.com/Kakz/prometheus-llm"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19714,
-    "updated_at": "2026-06-22T14:58:23Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
     "id": "moiraweave-labs/moiraweave",
     "language": "Python",
@@ -68,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-22T14:48:46Z",
+    "updated_at": "2026-06-22T15:08:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -86,17 +158,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 51126,
-    "updated_at": "2026-06-22T14:59:58Z",
+    "updated_at": "2026-06-22T15:13:59Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T14:45:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
@@ -104,7 +167,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 2,
-    "updated_at": "2026-06-22T14:45:07Z",
+    "updated_at": "2026-06-22T15:13:49Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -126,15 +189,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 2,
-    "updated_at": "2026-06-22T14:32:53Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
     "description": "The operations layer for your local LLM stack",
     "id": "ndom91/llama-dash",
     "language": "TypeScript",
@@ -149,17 +203,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29528,
-    "updated_at": "2026-06-22T14:47:42Z",
+    "updated_at": "2026-06-22T15:13:35Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 28897,
-    "updated_at": "2026-06-22T14:26:06Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -302,7 +347,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3026,
-    "updated_at": "2026-06-22T14:57:13Z",
+    "updated_at": "2026-06-22T15:15:18Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T12:37:47Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-06-22T12:32:52Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4228,
-    "updated_at": "2026-06-22T14:47:41Z",
-    "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22462,
-    "updated_at": "2026-06-22T12:32:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:30:53Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Compressed Knowledge Graph MCP server \u2014 42\u00d7 more efficient than RAG on structural queries",
-    "id": "Yarmoluk/ckg-mcp",
-    "language": "Python",
-    "name": "Yarmoluk/ckg-mcp",
-    "stars": 3,
-    "updated_at": "2026-06-22T12:24:53Z",
-    "url": "https://github.com/Yarmoluk/ckg-mcp"
   }
 ]
