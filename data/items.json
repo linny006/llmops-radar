@@ -1,12 +1,30 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 6,
+    "updated_at": "2026-06-22T17:50:26Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 2,
-    "updated_at": "2026-06-22T17:45:10Z",
+    "updated_at": "2026-06-22T17:48:37Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-22T17:45:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -34,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-06-22T17:41:12Z",
     "url": "https://github.com/dgenio/intentflow"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 6,
-    "updated_at": "2026-06-22T17:41:09Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -97,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-22T17:30:29Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-22T17:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 51133,
-    "updated_at": "2026-06-22T17:41:31Z",
+    "updated_at": "2026-06-22T17:49:46Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -274,7 +274,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22470,
+    "stars": 22471,
     "updated_at": "2026-06-22T16:46:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -320,7 +320,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5959,
-    "updated_at": "2026-06-22T17:18:34Z",
+    "updated_at": "2026-06-22T17:47:14Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
