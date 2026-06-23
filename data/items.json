@@ -1,5 +1,77 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2276,
+    "updated_at": "2026-06-23T01:28:01Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51157,
+    "updated_at": "2026-06-23T01:28:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:24:17Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-06-23T01:23:53Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "A secure file system for your agents to execute code",
+    "id": "Tako-Research/TakoVM",
+    "language": "Python",
+    "name": "Tako-Research/TakoVM",
+    "stars": 65,
+    "updated_at": "2026-06-23T01:27:22Z",
+    "url": "https://github.com/Tako-Research/TakoVM"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-06-23T01:21:02Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-06-23T01:16:35Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-23T01:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -23,17 +95,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-23T01:11:36Z",
+    "updated_at": "2026-06-23T01:27:37Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51156,
-    "updated_at": "2026-06-23T01:15:17Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
@@ -59,17 +122,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10238,
-    "updated_at": "2026-06-23T01:07:07Z",
+    "updated_at": "2026-06-23T01:24:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A secure file system for your agents to execute code",
-    "id": "Tako-Research/TakoVM",
-    "language": "Python",
-    "name": "Tako-Research/TakoVM",
-    "stars": 65,
-    "updated_at": "2026-06-23T01:05:18Z",
-    "url": "https://github.com/Tako-Research/TakoVM"
   },
   {
     "description": "A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).",
@@ -88,15 +142,6 @@
     "stars": 7713,
     "updated_at": "2026-06-23T01:07:38Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-23T01:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -193,7 +238,7 @@
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
-    "stars": 155,
+    "stars": 156,
     "updated_at": "2026-06-23T00:12:29Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T23:51:15Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-22T23:51:03Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-22T23:49:53Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-22T23:49:13Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-22T23:46:39Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-22T23:44:55Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   }
 ]
