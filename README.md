@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-23 16:11 UTC
+> ⏰ Last updated: 2026-06-23 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19735 | Python | 2026-06-23 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51257 | Python | 2026-06-23 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29600 | TypeScript | 2026-06-23 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29602 | TypeScript | 2026-06-23 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 3 | Go | 2026-06-23 | A default-deny capability floor the model can't talk past, plus an addressable KV cache — in one Go binary. |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51258 | Python | 2026-06-23 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28917 | TypeScript | 2026-06-23 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 6 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 42 | Ruby | 2026-06-23 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
-| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 3 | Go | 2026-06-23 | A default-deny capability floor the model can't talk past, plus an addressable KV cache — in one Go binary. |
+| 5 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19735 | Python | 2026-06-23 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 6 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28917 | TypeScript | 2026-06-23 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 7 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 42 | Ruby | 2026-06-23 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
 | 8 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-23 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 9 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2281 | C++ | 2026-06-23 | Community maintained hardware plugin for vLLM on Ascend |
-| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10250 | Python | 2026-06-23 | AI Observability & Evaluation |
+| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10251 | Python | 2026-06-23 | AI Observability & Evaluation |
 | 11 | [InftyAI/alphatrion](https://github.com/InftyAI/alphatrion) | 13 | Python | 2026-06-23 | ⚒️ The open-source framework for LLM experiments and agent orchestration. |
 | 12 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3312 | TypeScript | 2026-06-23 | The platform for LLM evaluations and AI agent testing |
 | 13 | [Arnab758/ai-gateway](https://github.com/Arnab758/ai-gateway) | 2 | Go | 2026-06-23 | AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%. |
