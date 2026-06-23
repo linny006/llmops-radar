@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-23 18:14 UTC
+> ⏰ Last updated: 2026-06-23 18:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent) | 0 | — | 2026-06-23 | Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules |
-| 2 | [wordenneapolitan768/llm-pricing](https://github.com/wordenneapolitan768/llm-pricing) | 1 | — | 2026-06-23 | Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards |
-| 3 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-06-23 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
-| 4 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 1 | TypeScript | 2026-06-23 | Scan AI-generated code for security, performance, and code quality issues before they ship |
-| 5 | [EvanAI0331/aigit](https://github.com/EvanAI0331/aigit) | 0 | Python | 2026-06-23 | Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals. |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51271 | Python | 2026-06-23 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 7 | [Healthful-article791/rag-systems-production](https://github.com/Healthful-article791/rag-systems-production) | 1 | — | 2026-06-23 | Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo |
-| 8 | [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) | 710 | Rust | 2026-06-23 | Fast, streaming indexing, query, and agentic LLM applications in Rust |
-| 9 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 2 | Python | 2026-06-23 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
-| 10 | [Orlyoxidized462/py-prompt-versioner](https://github.com/Orlyoxidized462/py-prompt-versioner) | 1 | Python | 2026-06-23 | Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL |
-| 11 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-23 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 12 | [Impure-platen433/crabllm](https://github.com/Impure-platen433/crabllm) | 0 | Rust | 2026-06-23 | Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway |
-| 13 | [recordrnase224/brix-protocol](https://github.com/recordrnase224/brix-protocol) | 1 | Python | 2026-06-23 | Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ |
-| 14 | [Citrous-districtline59/agent-trace](https://github.com/Citrous-districtline59/agent-trace) | 0 | Python | 2026-06-23 | Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful |
-| 15 | [thesecretrapper786-netizen/catalyst-n1](https://github.com/thesecretrapper786-netizen/catalyst-n1) | 1 | — | 2026-06-23 | Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne |
-| 16 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 17 | [downpaymentbulbul49/plano_estudos_sre](https://github.com/downpaymentbulbul49/plano_estudos_sre) | 0 | — | 2026-06-23 | Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top |
-| 18 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-23 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 19 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29609 | TypeScript | 2026-06-23 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 20 | [ivanmoralesf2015-sudo/enterprise-governance-toolkit](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit) | 0 | — | 2026-06-23 | Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g |
-| 21 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-23 | A default-deny capability floor the model can't talk past, plus an addressable KV cache — in one Go binary. |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-23 | A default-deny capability floor the model can't talk past, plus an addressable KV cache — in one Go binary. |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent) | 0 | — | 2026-06-23 | Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules |
+| 4 | [wordenneapolitan768/llm-pricing](https://github.com/wordenneapolitan768/llm-pricing) | 1 | — | 2026-06-23 | Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards |
+| 5 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-06-23 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
+| 6 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 1 | TypeScript | 2026-06-23 | Scan AI-generated code for security, performance, and code quality issues before they ship |
+| 7 | [EvanAI0331/aigit](https://github.com/EvanAI0331/aigit) | 0 | Python | 2026-06-23 | Strict LLM-agent radar for discovering commercial opportunities from GitHub open-source signals. |
+| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51271 | Python | 2026-06-23 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 9 | [Healthful-article791/rag-systems-production](https://github.com/Healthful-article791/rag-systems-production) | 1 | — | 2026-06-23 | Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo |
+| 10 | [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) | 710 | Rust | 2026-06-23 | Fast, streaming indexing, query, and agentic LLM applications in Rust |
+| 11 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 2 | Python | 2026-06-23 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
+| 12 | [Orlyoxidized462/py-prompt-versioner](https://github.com/Orlyoxidized462/py-prompt-versioner) | 1 | Python | 2026-06-23 | Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL |
+| 13 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-23 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 14 | [Impure-platen433/crabllm](https://github.com/Impure-platen433/crabllm) | 0 | Rust | 2026-06-23 | Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway |
+| 15 | [recordrnase224/brix-protocol](https://github.com/recordrnase224/brix-protocol) | 1 | Python | 2026-06-23 | Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ |
+| 16 | [Citrous-districtline59/agent-trace](https://github.com/Citrous-districtline59/agent-trace) | 0 | Python | 2026-06-23 | Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful |
+| 17 | [thesecretrapper786-netizen/catalyst-n1](https://github.com/thesecretrapper786-netizen/catalyst-n1) | 1 | — | 2026-06-23 | Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne |
+| 18 | [downpaymentbulbul49/plano_estudos_sre](https://github.com/downpaymentbulbul49/plano_estudos_sre) | 0 | — | 2026-06-23 | Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top |
+| 19 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-23 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 20 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29609 | TypeScript | 2026-06-23 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 21 | [ivanmoralesf2015-sudo/enterprise-governance-toolkit](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit) | 0 | — | 2026-06-23 | Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g |
 | 22 | [ydavidcm9-wq/vigil](https://github.com/ydavidcm9-wq/vigil) | 0 | JavaScript | 2026-06-23 | Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking, |
 | 23 | [islaagnet27/llm-cost](https://github.com/islaagnet27/llm-cost) | 1 | C++ | 2026-06-23 | Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm |
 | 24 | [wahhyun/llm-eval](https://github.com/wahhyun/llm-eval) | 1 | C++ | 2026-06-23 | Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct |
