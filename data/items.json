@@ -1,5 +1,113 @@
 [
   {
+    "description": "AI agents fail like junior teammates, looping on bad ideas, ignoring feedback, and escalating commitment. vstack ports 3",
+    "id": "valani9/vstack",
+    "language": "Python",
+    "name": "valani9/vstack",
+    "stars": 1,
+    "updated_at": "2026-06-23T13:13:55Z",
+    "url": "https://github.com/valani9/vstack"
+  },
+  {
+    "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
+    "id": "erjonb19/Security-Constrained-Agent-Runtime",
+    "language": "Python",
+    "name": "erjonb19/Security-Constrained-Agent-Runtime",
+    "stars": 0,
+    "updated_at": "2026-06-23T13:13:21Z",
+    "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
+  },
+  {
+    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 3,
+    "updated_at": "2026-06-23T13:15:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-23T13:09:37Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
+    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "language": "\u2014",
+    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "stars": 1,
+    "updated_at": "2026-06-23T13:05:06Z",
+    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-23T13:03:54Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-23T13:02:46Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29594,
+    "updated_at": "2026-06-23T13:11:09Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-06-23T13:00:56Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-23T13:00:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-06-23T13:00:05Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26701,
+    "updated_at": "2026-06-23T12:59:52Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -23,17 +131,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 51233,
-    "updated_at": "2026-06-23T12:58:47Z",
+    "updated_at": "2026-06-23T13:08:54Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI agents fail like junior teammates, looping on bad ideas, ignoring feedback, and escalating commitment. vstack ports 3",
-    "id": "valani9/vstack",
-    "language": "Python",
-    "name": "valani9/vstack",
-    "stars": 1,
-    "updated_at": "2026-06-23T12:57:39Z",
-    "url": "https://github.com/valani9/vstack"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T12:53:59Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29593,
-    "updated_at": "2026-06-23T12:58:47Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -95,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19731,
-    "updated_at": "2026-06-23T12:55:27Z",
+    "updated_at": "2026-06-23T13:14:05Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -115,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-06-23T12:47:37Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-23T12:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Log every OpenAI API call with its real per-call cost to Postgres, then catch the misconfig burning your budget. Wrapper",
@@ -205,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T12:39:12Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-23T12:39:08Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Runaway AI agent spend prevention \u2014 demo using Cycles ($6 in 30s \u2192 hard stop at $1)",
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-23T12:30:12Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "Shell",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-06-23T12:29:25Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 6,
-    "updated_at": "2026-06-23T12:28:40Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-23T12:28:24Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-23T12:28:21Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 28914,
-    "updated_at": "2026-06-23T12:57:05Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 3,
-    "updated_at": "2026-06-23T12:27:18Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-06-23T12:26:18Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-23T12:25:21Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
