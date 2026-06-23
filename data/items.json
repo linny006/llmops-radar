@@ -1,21 +1,147 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29579,
+    "updated_at": "2026-06-23T08:30:21Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-23T08:29:43Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-23T08:29:18Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2278,
+    "updated_at": "2026-06-23T08:28:52Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-06-23T08:28:28Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Observability for vLLM on KServe \u2014 dashboards, PromQL, SLOs, and a closed-loop load generator",
+    "id": "squadrhino/vllm-kserve-observability",
+    "language": "PowerShell",
+    "name": "squadrhino/vllm-kserve-observability",
+    "stars": 0,
+    "updated_at": "2026-06-23T08:27:04Z",
+    "url": "https://github.com/squadrhino/vllm-kserve-observability"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 145,
+    "updated_at": "2026-06-23T08:26:48Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 3,
+    "updated_at": "2026-06-23T08:26:18Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
+    "id": "moiraweave-labs/moiraweave",
+    "language": "Python",
+    "name": "moiraweave-labs/moiraweave",
+    "stars": 1,
+    "updated_at": "2026-06-23T08:25:19Z",
+    "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-06-23T08:23:43Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
+    "id": "Netis/heron",
+    "language": "Rust",
+    "name": "Netis/heron",
+    "stars": 32,
+    "updated_at": "2026-06-23T08:23:02Z",
+    "url": "https://github.com/Netis/heron"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 5,
+    "updated_at": "2026-06-23T08:21:09Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
     "id": "VamsiSudhakaran1/release-gate",
     "language": "Python",
     "name": "VamsiSudhakaran1/release-gate",
     "stars": 2,
-    "updated_at": "2026-06-23T08:14:55Z",
+    "updated_at": "2026-06-23T08:20:44Z",
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
   },
   {
-    "description": "Available on request",
-    "id": "shaikn6/evidently-llm-sentinel",
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-06-23T08:18:54Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-23T08:17:56Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
     "language": "Python",
-    "name": "shaikn6/evidently-llm-sentinel",
-    "stars": 0,
-    "updated_at": "2026-06-23T08:12:30Z",
-    "url": "https://github.com/shaikn6/evidently-llm-sentinel"
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-23T08:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -32,7 +158,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5971,
-    "updated_at": "2026-06-23T08:09:01Z",
+    "updated_at": "2026-06-23T08:22:23Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -41,44 +167,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19726,
-    "updated_at": "2026-06-23T08:14:32Z",
+    "updated_at": "2026-06-23T08:28:22Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2278,
-    "updated_at": "2026-06-23T08:05:32Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29575,
-    "updated_at": "2026-06-23T08:12:34Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Available on request",
-    "id": "shaikn6/finance-llmops-platform",
-    "language": "Python",
-    "name": "shaikn6/finance-llmops-platform",
-    "stars": 0,
-    "updated_at": "2026-06-23T08:01:58Z",
-    "url": "https://github.com/shaikn6/finance-llmops-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-23T08:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -97,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T07:56:53Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
-    "id": "moiraweave-labs/moiraweave",
-    "language": "Python",
-    "name": "moiraweave-labs/moiraweave",
-    "stars": 1,
-    "updated_at": "2026-06-23T07:56:09Z",
-    "url": "https://github.com/moiraweave-labs/moiraweave"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -167,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3311,
-    "updated_at": "2026-06-23T08:02:56Z",
+    "updated_at": "2026-06-23T08:25:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T07:28:30Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-23T07:27:04Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-23T07:26:31Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Available on request",
-    "id": "shaikn6/prompt-ops",
-    "language": "Python",
-    "name": "shaikn6/prompt-ops",
-    "stars": 0,
-    "updated_at": "2026-06-23T07:25:43Z",
-    "url": "https://github.com/shaikn6/prompt-ops"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-23T07:23:43Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
-    "id": "Netis/heron",
-    "language": "Rust",
-    "name": "Netis/heron",
-    "stars": 32,
-    "updated_at": "2026-06-23T08:14:24Z",
-    "url": "https://github.com/Netis/heron"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-23T07:21:53Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-23T07:21:51Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-23T07:19:06Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-23T07:18:45Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
