@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 2,
+    "updated_at": "2026-06-23T08:14:55Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Available on request",
+    "id": "shaikn6/evidently-llm-sentinel",
+    "language": "Python",
+    "name": "shaikn6/evidently-llm-sentinel",
+    "stars": 0,
+    "updated_at": "2026-06-23T08:12:30Z",
+    "url": "https://github.com/shaikn6/evidently-llm-sentinel"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-23T08:11:46Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5971,
+    "updated_at": "2026-06-23T08:09:01Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19726,
+    "updated_at": "2026-06-23T08:14:32Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2278,
+    "updated_at": "2026-06-23T08:05:32Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29575,
+    "updated_at": "2026-06-23T08:12:34Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Available on request",
+    "id": "shaikn6/finance-llmops-platform",
+    "language": "Python",
+    "name": "shaikn6/finance-llmops-platform",
+    "stars": 0,
+    "updated_at": "2026-06-23T08:01:58Z",
+    "url": "https://github.com/shaikn6/finance-llmops-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-23T08:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T07:56:53Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2277,
-    "updated_at": "2026-06-23T07:56:24Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
@@ -81,13 +153,13 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-23T07:50:10Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51200,
+    "updated_at": "2026-06-23T08:15:17Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -95,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3311,
-    "updated_at": "2026-06-23T07:47:22Z",
+    "updated_at": "2026-06-23T08:02:56Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T07:47:19Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-23T07:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Course 02 \u2014 AI Engineering: build, ship & operate real AI apps (beginner, lab-first, M0\u2013M35)",
@@ -171,15 +234,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29572,
-    "updated_at": "2026-06-23T07:40:47Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "Shell",
@@ -187,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-06-23T07:37:58Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51195,
-    "updated_at": "2026-06-23T07:49:25Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -343,15 +388,6 @@
   },
   {
     "description": "Available on request",
-    "id": "shaikn6/evidently-llm-sentinel",
-    "language": "Python",
-    "name": "shaikn6/evidently-llm-sentinel",
-    "stars": 0,
-    "updated_at": "2026-06-23T07:25:52Z",
-    "url": "https://github.com/shaikn6/evidently-llm-sentinel"
-  },
-  {
-    "description": "Available on request",
     "id": "shaikn6/prompt-ops",
     "language": "Python",
     "name": "shaikn6/prompt-ops",
@@ -374,7 +410,7 @@
     "language": "Rust",
     "name": "Netis/heron",
     "stars": 32,
-    "updated_at": "2026-06-23T07:40:21Z",
+    "updated_at": "2026-06-23T08:14:24Z",
     "url": "https://github.com/Netis/heron"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-23T07:18:45Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\u73af\u6e38\u4e16\u754c\u65c5\u6e38\uff0c\u521b\u4e1a\u505a AI \u4ea7\u54c1\uff0c\u4e00\u79cd\u6bd4\u8f83\u65b0\u7684\u65b9\u5f0f\u548c\u7406\u5ff5\u751f\u6d3b\u521b\u4e1a\uff0c\u6b22\u8fce\u8ba2\u9605 RSS  https://nsddd.top/zh/index.xml",
-    "id": "cubxxw/blog",
-    "language": "HTML",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-06-23T07:16:13Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-23T07:12:25Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-23T07:11:53Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Forging a minimalist universal language for AI, unconditionally eradicating hallucinations and automating Agent Swarm in",
-    "id": "caihongfairys/QMP-Dynamic-Anchors",
-    "language": "JavaScript",
-    "name": "caihongfairys/QMP-Dynamic-Anchors",
-    "stars": 2,
-    "updated_at": "2026-06-23T07:10:54Z",
-    "url": "https://github.com/caihongfairys/QMP-Dynamic-Anchors"
   }
 ]
