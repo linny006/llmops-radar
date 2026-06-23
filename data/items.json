@@ -1,21 +1,66 @@
 [
   {
-    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-23T21:15:07Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
     "id": "shaikn6/shaikn6",
     "language": "Python",
     "name": "shaikn6/shaikn6",
     "stars": 0,
-    "updated_at": "2026-06-23T21:15:04Z",
+    "updated_at": "2026-06-23T21:26:49Z",
     "url": "https://github.com/shaikn6/shaikn6"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-23T21:25:02Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51284,
+    "updated_at": "2026-06-23T21:29:26Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 0,
+    "updated_at": "2026-06-23T21:22:12Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-23T21:21:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-23T21:19:59Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-23T21:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
@@ -27,15 +72,6 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-23T21:07:06Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -45,13 +81,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-23T21:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5984,
+    "updated_at": "2026-06-23T20:55:19Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
@@ -61,15 +97,6 @@
     "stars": 100,
     "updated_at": "2026-06-23T20:51:41Z",
     "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51284,
-    "updated_at": "2026-06-23T20:59:46Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
@@ -135,15 +162,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-23T20:35:24Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -151,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-23T20:35:13Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 5985,
-    "updated_at": "2026-06-23T20:55:19Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
@@ -433,20 +442,11 @@
   },
   {
     "description": "A comprehensive 2026 AI-engineering guide \u2014 complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati",
-    "id": "tonyx1998/modern-ai-engineer-guide",
+    "id": "tonyx1998/modern-ai-guide",
     "language": "TypeScript",
-    "name": "tonyx1998/modern-ai-engineer-guide",
+    "name": "tonyx1998/modern-ai-guide",
     "stars": 0,
     "updated_at": "2026-06-23T20:04:59Z",
-    "url": "https://github.com/tonyx1998/modern-ai-engineer-guide"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-23T20:03:12Z",
-    "url": "https://github.com/niyetbay0304/gateway"
+    "url": "https://github.com/tonyx1998/modern-ai-guide"
   }
 ]
