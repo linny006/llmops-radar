@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "Python",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 24,
+    "updated_at": "2026-06-24T09:44:56Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-24T09:44:54Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-24T09:43:08Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Local-first context compression for AI agents \u2014 content-aware, reversible, zero runtime deps. Cuts agent token usage 40-",
+    "id": "jpoindexter/winnow",
+    "language": "TypeScript",
+    "name": "jpoindexter/winnow",
+    "stars": 0,
+    "updated_at": "2026-06-24T09:42:22Z",
+    "url": "https://github.com/jpoindexter/winnow"
+  },
+  {
+    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
+    "id": "SConv11/watchy",
+    "language": "Python",
+    "name": "SConv11/watchy",
+    "stars": 1,
+    "updated_at": "2026-06-24T09:41:48Z",
+    "url": "https://github.com/SConv11/watchy"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29668,
+    "updated_at": "2026-06-24T09:40:41Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5546,
+    "updated_at": "2026-06-24T09:40:25Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51363,
+    "updated_at": "2026-06-24T09:34:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-24T09:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -9,15 +90,6 @@
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-24T09:28:24Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Standalone self-improvement harness for agent traces, memory, skills, evaluation, and fine-tuning exports",
     "id": "lamenting-hawthorn/SkillLoop",
     "language": "Python",
@@ -25,24 +97,6 @@
     "stars": 7,
     "updated_at": "2026-06-24T09:28:15Z",
     "url": "https://github.com/lamenting-hawthorn/SkillLoop"
-  },
-  {
-    "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-24T09:28:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29665,
-    "updated_at": "2026-06-24T09:27:37Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T09:26:16Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "Python",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 24,
-    "updated_at": "2026-06-24T09:26:14Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -126,15 +171,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "Local-first context compression for AI agents \u2014 content-aware, reversible, zero runtime deps. Cuts agent token usage 40-",
-    "id": "jpoindexter/winnow",
-    "language": "TypeScript",
-    "name": "jpoindexter/winnow",
-    "stars": 0,
-    "updated_at": "2026-06-24T09:22:19Z",
-    "url": "https://github.com/jpoindexter/winnow"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-24T09:22:05Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51358,
-    "updated_at": "2026-06-24T09:29:58Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -178,15 +205,6 @@
     "stars": 5994,
     "updated_at": "2026-06-24T09:25:14Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-24T09:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19751,
-    "updated_at": "2026-06-24T09:26:23Z",
+    "updated_at": "2026-06-24T09:41:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-24T08:49:09Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "A comprehensive 2026 AI-engineering guide \u2014 complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati",
-    "id": "tonyx1998/modern-ai-guide",
-    "language": "TypeScript",
-    "name": "tonyx1998/modern-ai-guide",
-    "stars": 0,
-    "updated_at": "2026-06-24T08:45:17Z",
-    "url": "https://github.com/tonyx1998/modern-ai-guide"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-24T08:43:06Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
