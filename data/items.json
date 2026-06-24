@@ -1,12 +1,48 @@
 [
   {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 2,
+    "updated_at": "2026-06-24T13:15:23Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 5997,
-    "updated_at": "2026-06-24T12:59:51Z",
+    "updated_at": "2026-06-24T13:14:52Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-24T13:13:27Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-24T13:12:42Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "Shell",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-06-24T13:11:52Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,8 +50,71 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29682,
-    "updated_at": "2026-06-24T13:00:17Z",
+    "updated_at": "2026-06-24T13:13:16Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51383,
+    "updated_at": "2026-06-24T13:13:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
+    "id": "clearml/clearml",
+    "language": "Python",
+    "name": "clearml/clearml",
+    "stars": 6744,
+    "updated_at": "2026-06-24T13:07:41Z",
+    "url": "https://github.com/clearml/clearml"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5548,
+    "updated_at": "2026-06-24T13:07:22Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
+    "id": "Rodiun/frugon",
+    "language": "Python",
+    "name": "Rodiun/frugon",
+    "stars": 0,
+    "updated_at": "2026-06-24T13:05:08Z",
+    "url": "https://github.com/Rodiun/frugon"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-24T13:04:38Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 12,
+    "updated_at": "2026-06-24T13:03:58Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-24T13:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Automated EU corporate greenwashing detection: 7-agent AI pipeline that scores green claims against verified emissions d",
@@ -25,6 +124,24 @@
     "stars": 0,
     "updated_at": "2026-06-24T13:00:24Z",
     "url": "https://github.com/MartinBlomqvistDev/prasine-index"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-24T13:00:17Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19754,
+    "updated_at": "2026-06-24T12:59:38Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
@@ -43,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T12:55:41Z",
     "url": "https://github.com/mholovetskyi/cliche"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-24T12:54:56Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -86,17 +194,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-24T12:49:25Z",
+    "updated_at": "2026-06-24T13:14:06Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19753,
-    "updated_at": "2026-06-24T12:59:38Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
@@ -115,24 +214,6 @@
     "stars": 2,
     "updated_at": "2026-06-24T12:45:32Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-24T12:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5547,
-    "updated_at": "2026-06-24T12:48:01Z",
-    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -162,21 +243,12 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
-    "id": "Rodiun/frugon",
-    "language": "Python",
-    "name": "Rodiun/frugon",
-    "stars": 0,
-    "updated_at": "2026-06-24T12:37:45Z",
-    "url": "https://github.com/Rodiun/frugon"
-  },
-  {
     "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
     "id": "zenml-io/zenml",
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5457,
-    "updated_at": "2026-06-24T12:54:39Z",
+    "updated_at": "2026-06-24T13:15:11Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -185,17 +257,17 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2287,
-    "updated_at": "2026-06-24T12:24:52Z",
+    "updated_at": "2026-06-24T13:14:01Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51382,
-    "updated_at": "2026-06-24T12:58:50Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22545,
+    "updated_at": "2026-06-24T12:19:34Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
@@ -232,15 +304,6 @@
     "stars": 373,
     "updated_at": "2026-06-24T11:50:44Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22543,
-    "updated_at": "2026-06-24T12:19:34Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -284,7 +347,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4239,
-    "updated_at": "2026-06-24T12:53:37Z",
+    "updated_at": "2026-06-24T13:14:15Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -293,8 +356,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3312,
-    "updated_at": "2026-06-24T12:57:10Z",
+    "updated_at": "2026-06-24T13:10:52Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Build, Manage and Deploy AI/ML Systems",
+    "id": "Netflix/metaflow",
+    "language": "Python",
+    "name": "Netflix/metaflow",
+    "stars": 10144,
+    "updated_at": "2026-06-24T11:38:50Z",
+    "url": "https://github.com/Netflix/metaflow"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -313,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T11:37:45Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10143,
-    "updated_at": "2026-06-24T11:38:50Z",
-    "url": "https://github.com/Netflix/metaflow"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T11:28:25Z",
     "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-06-24T11:27:50Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-06-24T11:26:21Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-24T11:22:04Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-24T11:20:40Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-24T11:20:38Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-24T11:20:16Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 2,
-    "updated_at": "2026-06-24T11:19:21Z",
-    "url": "https://github.com/Ohswedd/vincio"
   }
 ]
