@@ -1,5 +1,86 @@
 [
   {
+    "description": "Local-first observability your agent reads back. TMA1 records every LLM call, then routes what it sees into the agent's ",
+    "id": "tma1-ai/tma1",
+    "language": "Go",
+    "name": "tma1-ai/tma1",
+    "stars": 99,
+    "updated_at": "2026-06-24T07:00:00Z",
+    "url": "https://github.com/tma1-ai/tma1"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29652,
+    "updated_at": "2026-06-24T06:59:23Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 120,
+    "updated_at": "2026-06-24T06:59:17Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 5994,
+    "updated_at": "2026-06-24T06:57:51Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Evidra Bench runs live infrastructure scenarios for AI agents, MCP servers, and AI SRE tools, then shows pass/fail, unsa",
+    "id": "vitas/evidra-bench",
+    "language": "Go",
+    "name": "vitas/evidra-bench",
+    "stars": 0,
+    "updated_at": "2026-06-24T06:57:48Z",
+    "url": "https://github.com/vitas/evidra-bench"
+  },
+  {
+    "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
+    "id": "mholovetskyi/cliche",
+    "language": "Go",
+    "name": "mholovetskyi/cliche",
+    "stars": 0,
+    "updated_at": "2026-06-24T06:54:10Z",
+    "url": "https://github.com/mholovetskyi/cliche"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51341,
+    "updated_at": "2026-06-24T06:54:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-24T06:46:05Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-24T06:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u73af\u6e38\u4e16\u754c\u65c5\u6e38\uff0c\u521b\u4e1a\u505a AI \u4ea7\u54c1\uff0c\u4e00\u79cd\u6bd4\u8f83\u65b0\u7684\u65b9\u5f0f\u548c\u7406\u5ff5\u751f\u6d3b\u521b\u4e1a\uff0c\u6b22\u8fce\u8ba2\u9605 RSS  https://nsddd.top/zh/index.xml",
     "id": "cubxxw/blog",
     "language": "HTML",
@@ -7,6 +88,24 @@
     "stars": 26,
     "updated_at": "2026-06-24T06:44:21Z",
     "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10257,
+    "updated_at": "2026-06-24T06:57:30Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22530,
+    "updated_at": "2026-06-24T06:39:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -63,15 +162,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-24T06:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -79,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T06:28:58Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22528,
-    "updated_at": "2026-06-24T06:39:55Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -117,15 +198,6 @@
     "url": "https://github.com/effecterelectricalplant87/LLM"
   },
   {
-    "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
-    "id": "mholovetskyi/cliche",
-    "language": "Go",
-    "name": "mholovetskyi/cliche",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:24:25Z",
-    "url": "https://github.com/mholovetskyi/cliche"
-  },
-  {
     "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
     "id": "Rosalyndfaithful716/Guardrail",
     "language": "TypeScript",
@@ -144,21 +216,12 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51340,
-    "updated_at": "2026-06-24T06:22:52Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28928,
-    "updated_at": "2026-06-24T06:44:18Z",
+    "updated_at": "2026-06-24T06:54:16Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1235,
-    "updated_at": "2026-06-24T06:42:11Z",
+    "updated_at": "2026-06-24T06:49:03Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -382,71 +445,8 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26709,
+    "stars": 26711,
     "updated_at": "2026-06-24T05:58:07Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-24T05:54:59Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-24T05:54:23Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "Shell",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-06-24T05:53:56Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Course 02 \u2014 AI Engineering: build, ship & operate real AI apps (beginner, lab-first, M0\u2013M35)",
-    "id": "ThinkTechConsultingLLC/course-02-ai-engineering",
-    "language": "Python",
-    "name": "ThinkTechConsultingLLC/course-02-ai-engineering",
-    "stars": 1,
-    "updated_at": "2026-06-24T05:55:28Z",
-    "url": "https://github.com/ThinkTechConsultingLLC/course-02-ai-engineering"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-06-24T05:50:15Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 18,
-    "updated_at": "2026-06-24T05:49:19Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails.",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 36,
-    "updated_at": "2026-06-24T05:48:52Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   }
 ]
