@@ -1,5 +1,23 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51313,
+    "updated_at": "2026-06-24T02:27:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-24T02:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A default-deny capability floor the model can't talk past, plus an addressable KV cache \u2014 in one Go binary.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -7,15 +25,6 @@
     "stars": 4,
     "updated_at": "2026-06-24T02:15:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51312,
-    "updated_at": "2026-06-24T02:11:13Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22520,
-    "updated_at": "2026-06-24T02:09:56Z",
+    "updated_at": "2026-06-24T02:30:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28926,
-    "updated_at": "2026-06-24T02:13:42Z",
+    "updated_at": "2026-06-24T02:23:15Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-06-24T02:00:26Z",
     "url": "https://github.com/kensterinvest/tidus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-24T02:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",

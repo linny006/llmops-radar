@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-24 02:15 UTC
+> ⏰ Last updated: 2026-06-24 02:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-24 | A default-deny capability floor the model can't talk past, plus an addressable KV cache — in one Go binary. |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51312 | Python | 2026-06-24 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2283 | C++ | 2026-06-24 | Community maintained hardware plugin for vLLM on Ascend |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22520 | TypeScript | 2026-06-24 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28926 | TypeScript | 2026-06-24 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 6 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 36 | TypeScript | 2026-06-24 | The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
-| 7 | [kensterinvest/tidus](https://github.com/kensterinvest/tidus) | 1 | Python | 2026-06-24 | Enterprise AI Router and Governance System — the AI that governs all AIs |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51313 | Python | 2026-06-24 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-24 | A default-deny capability floor the model can't talk past, plus an addressable KV cache — in one Go binary. |
+| 4 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2283 | C++ | 2026-06-24 | Community maintained hardware plugin for vLLM on Ascend |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22520 | TypeScript | 2026-06-24 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28926 | TypeScript | 2026-06-24 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 7 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 36 | TypeScript | 2026-06-24 | The control plane for AI coding agents: budget caps, verifier gates, rollback evidence, and audit trails. |
+| 8 | [kensterinvest/tidus](https://github.com/kensterinvest/tidus) | 1 | Python | 2026-06-24 | Enterprise AI Router and Governance System — the AI that governs all AIs |
 | 9 | [mholovetskyi/cliche](https://github.com/mholovetskyi/cliche) | 0 | Go | 2026-06-24 | The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker,  |
 | 10 | [acornops/management-console](https://github.com/acornops/management-console) | 0 | TypeScript | 2026-06-24 | Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations |
 | 11 | [tonyx1998/modern-ai-guide](https://github.com/tonyx1998/modern-ai-guide) | 0 | TypeScript | 2026-06-24 | A comprehensive 2026 AI-engineering guide — complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati |
