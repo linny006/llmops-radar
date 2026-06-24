@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-24 08:00 UTC
+> ⏰ Last updated: 2026-06-24 08:03 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [cubxxw/blog](https://github.com/cubxxw/blog) | 26 | HTML | 2026-06-24 | 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml |
-| 2 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 7 | Rust | 2026-06-24 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29655 | TypeScript | 2026-06-24 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 4 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2286 | C++ | 2026-06-24 | Community maintained hardware plugin for vLLM on Ascend |
-| 5 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-06-24 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
-| 6 | [acornops/control-plane](https://github.com/acornops/control-plane) | 0 | TypeScript | 2026-06-24 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
-| 7 | [acornops/management-console](https://github.com/acornops/management-console) | 0 | TypeScript | 2026-06-24 | Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations |
-| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10259 | Python | 2026-06-24 | AI Observability & Evaluation |
-| 9 | [esanmohammad/Anvil](https://github.com/esanmohammad/Anvil) | 16 | TypeScript | 2026-06-24 | Provider-agnostic AI dev pipeline: clarify → plan → build → review → PR across your repos, mixing LLM providers per stag |
-| 10 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-24 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
-| 11 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-06-24 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
-| 12 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [cubxxw/blog](https://github.com/cubxxw/blog) | 26 | HTML | 2026-06-24 | 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml |
+| 3 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 7 | Rust | 2026-06-24 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29655 | TypeScript | 2026-06-24 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 5 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2286 | C++ | 2026-06-24 | Community maintained hardware plugin for vLLM on Ascend |
+| 6 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-06-24 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
+| 7 | [acornops/control-plane](https://github.com/acornops/control-plane) | 0 | TypeScript | 2026-06-24 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
+| 8 | [acornops/management-console](https://github.com/acornops/management-console) | 0 | TypeScript | 2026-06-24 | Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations |
+| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10259 | Python | 2026-06-24 | AI Observability & Evaluation |
+| 10 | [esanmohammad/Anvil](https://github.com/esanmohammad/Anvil) | 16 | TypeScript | 2026-06-24 | Provider-agnostic AI dev pipeline: clarify → plan → build → review → PR across your repos, mixing LLM providers per stag |
+| 11 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-24 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
+| 12 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-06-24 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
 | 13 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19749 | Python | 2026-06-24 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 14 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-06-24 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
 | 15 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 373 | Python | 2026-06-24 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
@@ -70,7 +70,7 @@ expired items removed — so you can rely on what you see being current.
 | 26 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 5993 | Go | 2026-06-24 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 27 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5458 | Python | 2026-06-24 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 28 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1050 | Python | 2026-06-24 | OpenTelemetry Instrumentation for AI Observability |
-| 29 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51349 | Python | 2026-06-24 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 29 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51350 | Python | 2026-06-24 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 30 | [mholovetskyi/cliche](https://github.com/mholovetskyi/cliche) | 0 | Go | 2026-06-24 | The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker,  |
 | 31 | [tma1-ai/tma1](https://github.com/tma1-ai/tma1) | 100 | Go | 2026-06-24 | Local-first observability your agent reads back. TMA1 records every LLM call, then routes what it sees into the agent's  |
 | 32 | [taichuy/1flowbase](https://github.com/taichuy/1flowbase) | 165 | Rust | 2026-06-24 | Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v |
