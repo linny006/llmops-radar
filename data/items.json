@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 2,
+    "updated_at": "2026-06-24T13:29:13Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-06-24T13:28:58Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 6,
+    "updated_at": "2026-06-24T13:28:54Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Automated EU corporate greenwashing detection: 7-agent AI pipeline that scores green claims against verified emissions d",
+    "id": "MartinBlomqvistDev/prasine-index",
+    "language": "Python",
+    "name": "MartinBlomqvistDev/prasine-index",
+    "stars": 0,
+    "updated_at": "2026-06-24T13:26:27Z",
+    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29683,
+    "updated_at": "2026-06-24T13:30:19Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-24T13:25:04Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-24T13:22:16Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-24T13:21:23Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51386,
+    "updated_at": "2026-06-24T13:28:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-24T13:18:45Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-24T13:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -13,9 +112,18 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 5997,
+    "stars": 5998,
     "updated_at": "2026-06-24T13:14:52Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2288,
+    "updated_at": "2026-06-24T13:14:01Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
@@ -43,24 +151,6 @@
     "stars": 4,
     "updated_at": "2026-06-24T13:11:52Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29682,
-    "updated_at": "2026-06-24T13:13:16Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51383,
-    "updated_at": "2026-06-24T13:13:32Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
@@ -106,24 +196,6 @@
     "stars": 12,
     "updated_at": "2026-06-24T13:03:58Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-24T13:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Automated EU corporate greenwashing detection: 7-agent AI pipeline that scores green claims against verified emissions d",
-    "id": "MartinBlomqvistDev/prasine-index",
-    "language": "Python",
-    "name": "MartinBlomqvistDev/prasine-index",
-    "stars": 0,
-    "updated_at": "2026-06-24T13:00:24Z",
-    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -189,15 +261,6 @@
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-24T13:14:06Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
     "id": "SConv11/watchy",
     "language": "Python",
@@ -248,17 +311,8 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5457,
-    "updated_at": "2026-06-24T13:15:11Z",
+    "updated_at": "2026-06-24T13:17:50Z",
     "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2287,
-    "updated_at": "2026-06-24T13:14:01Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -293,7 +347,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10262,
-    "updated_at": "2026-06-24T12:10:04Z",
+    "updated_at": "2026-06-24T13:29:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -302,17 +356,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 373,
-    "updated_at": "2026-06-24T11:50:44Z",
+    "updated_at": "2026-06-24T13:30:18Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-24T11:48:47Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -347,7 +392,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4239,
-    "updated_at": "2026-06-24T13:14:15Z",
+    "updated_at": "2026-06-24T13:20:03Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -356,7 +401,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3312,
-    "updated_at": "2026-06-24T13:10:52Z",
+    "updated_at": "2026-06-24T13:25:42Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T11:36:07Z",
     "url": "https://github.com/takeshimx/agent-loop"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-06-24T11:32:41Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Self-hosted AI API balance, quota, model, pricing and alert monitor for OpenAI, Anthropic, Gemini, new-api and sub2Api.",
-    "id": "baogutang/api-monitor",
-    "language": "Go",
-    "name": "baogutang/api-monitor",
-    "stars": 0,
-    "updated_at": "2026-06-24T11:29:10Z",
-    "url": "https://github.com/baogutang/api-monitor"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-24T11:28:43Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-06-24T11:28:26Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-06-24T11:28:25Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
