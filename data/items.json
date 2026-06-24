@@ -1,12 +1,39 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29691,
+    "updated_at": "2026-06-24T17:29:51Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-06-24T17:28:16Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-24T17:15:11Z",
+    "updated_at": "2026-06-24T17:26:25Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-24T17:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
@@ -14,8 +41,17 @@
     "language": "Rust",
     "name": "katanemo/plano",
     "stars": 6602,
-    "updated_at": "2026-06-24T17:14:50Z",
+    "updated_at": "2026-06-24T17:21:40Z",
     "url": "https://github.com/katanemo/plano"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22554,
+    "updated_at": "2026-06-24T17:14:09Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -58,18 +94,9 @@
     "id": "mezmo/aura",
     "language": "Rust",
     "name": "mezmo/aura",
-    "stars": 123,
+    "stars": 124,
     "updated_at": "2026-06-24T17:01:23Z",
     "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-24T17:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4240,
-    "updated_at": "2026-06-24T17:07:28Z",
+    "updated_at": "2026-06-24T17:28:19Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -189,15 +216,6 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22553,
-    "updated_at": "2026-06-24T17:14:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
     "id": "effecterelectricalplant87/LLM",
     "language": "\u2014",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 51410,
-    "updated_at": "2026-06-24T17:10:01Z",
+    "updated_at": "2026-06-24T17:28:53Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28940,
-    "updated_at": "2026-06-24T16:58:15Z",
+    "updated_at": "2026-06-24T17:23:05Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T16:26:01Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Fine-tuning LLaMA-2, Mistral with LoRA, QLoRA, PEFT \u2014 40% cost reduction vs hosted APIs. VLLM serving with CUDA optimiza",
-    "id": "rehan243/LLM-Fine-Tuning-LoRA",
-    "language": "Python",
-    "name": "rehan243/LLM-Fine-Tuning-LoRA",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:25:31Z",
-    "url": "https://github.com/rehan243/LLM-Fine-Tuning-LoRA"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:24:37Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
