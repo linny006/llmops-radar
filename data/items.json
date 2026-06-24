@@ -1,12 +1,12 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26705,
-    "updated_at": "2026-06-24T04:29:15Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 18,
+    "updated_at": "2026-06-24T04:33:33Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10254,
-    "updated_at": "2026-06-24T04:26:43Z",
+    "updated_at": "2026-06-24T04:33:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Persistent graph memory architecture for multi-agent AI systems using Graphiti, FalkorDB, and MCP.",
+    "id": "sadbeto/multi-agent-graph-memory",
+    "language": "Python",
+    "name": "sadbeto/multi-agent-graph-memory",
+    "stars": 3,
+    "updated_at": "2026-06-24T04:31:38Z",
+    "url": "https://github.com/sadbeto/multi-agent-graph-memory"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-24T04:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26705,
+    "updated_at": "2026-06-24T04:30:50Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51327,
+    "updated_at": "2026-06-24T04:33:51Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T04:22:19Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Persistent graph memory architecture for multi-agent AI systems using Graphiti, FalkorDB, and MCP.",
-    "id": "sadbeto/multi-agent-graph-memory",
-    "language": "Python",
-    "name": "sadbeto/multi-agent-graph-memory",
-    "stars": 3,
-    "updated_at": "2026-06-24T04:28:02Z",
-    "url": "https://github.com/sadbeto/multi-agent-graph-memory"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -88,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-06-24T04:16:37Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-24T04:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T04:04:10Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51326,
-    "updated_at": "2026-06-24T04:25:52Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -439,14 +448,5 @@
     "stars": 19745,
     "updated_at": "2026-06-24T04:23:32Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-24T03:39:05Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
