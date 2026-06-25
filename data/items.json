@@ -1,12 +1,21 @@
 [
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:26:05Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6021,
+    "updated_at": "2026-06-25T08:45:07Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3312,
+    "updated_at": "2026-06-25T08:44:27Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
@@ -14,8 +23,71 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-25T08:30:22Z",
+    "updated_at": "2026-06-25T08:41:20Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A comprehensive 2026 AI-engineering guide \u2014 complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati",
+    "id": "tonyx1998/modern-ai-guide",
+    "language": "TypeScript",
+    "name": "tonyx1998/modern-ai-guide",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:37:51Z",
+    "url": "https://github.com/tonyx1998/modern-ai-guide"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7742,
+    "updated_at": "2026-06-25T08:37:42Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 373,
+    "updated_at": "2026-06-25T08:36:18Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-25T08:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29742,
+    "updated_at": "2026-06-25T08:40:51Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51482,
+    "updated_at": "2026-06-25T08:28:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:26:05Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
@@ -36,20 +108,11 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 373,
-    "updated_at": "2026-06-25T08:18:02Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2290,
+    "stars": 2291,
     "updated_at": "2026-06-25T08:17:37Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -70,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T08:15:44Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29741,
-    "updated_at": "2026-06-25T08:29:03Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-25T08:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T08:11:08Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6020,
-    "updated_at": "2026-06-25T08:11:08Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -333,6 +369,15 @@
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   },
   {
+    "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 168,
+    "updated_at": "2026-06-25T07:45:08Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
     "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
     "id": "sarrahw23/deploy-guide",
     "language": "\u2014",
@@ -387,15 +432,6 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51477,
-    "updated_at": "2026-06-25T08:28:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
     "id": "developersofik/greenprompt",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-25T07:30:07Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 25,
-    "updated_at": "2026-06-25T07:26:23Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-06-25T07:26:12Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-06-25T07:24:06Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
-    "id": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "language": "HTML",
-    "name": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "stars": 1,
-    "updated_at": "2026-06-25T07:23:58Z",
-    "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
   }
 ]
