@@ -1,39 +1,12 @@
 [
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Open-source auditing toolkit for AI systems and engineering workflows",
+    "id": "husam20264-cmd/openaudit",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19826,
-    "updated_at": "2026-06-25T13:43:28Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29762,
-    "updated_at": "2026-06-25T13:45:25Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
-    "id": "8pig/llm-ops",
-    "language": "Python",
-    "name": "8pig/llm-ops",
-    "stars": 9,
-    "updated_at": "2026-06-25T13:42:48Z",
-    "url": "https://github.com/8pig/llm-ops"
-  },
-  {
-    "description": "AgentOps - AI agent observability dashboard for finance (tiered model access & token spend)",
-    "id": "icohangar-ops/agent-observability",
-    "language": "TypeScript",
-    "name": "icohangar-ops/agent-observability",
+    "name": "husam20264-cmd/openaudit",
     "stars": 0,
-    "updated_at": "2026-06-25T13:41:32Z",
-    "url": "https://github.com/icohangar-ops/agent-observability"
+    "updated_at": "2026-06-25T13:59:30Z",
+    "url": "https://github.com/husam20264-cmd/openaudit"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -41,17 +14,89 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-25T13:40:03Z",
+    "updated_at": "2026-06-25T13:59:18Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AgentOps - AI agent observability dashboard for finance (tiered model access & token spend)",
+    "id": "icohangar-ops/agent-observability",
+    "language": "TypeScript",
+    "name": "icohangar-ops/agent-observability",
+    "stars": 0,
+    "updated_at": "2026-06-25T13:59:03Z",
+    "url": "https://github.com/icohangar-ops/agent-observability"
+  },
+  {
+    "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
+    "id": "Arnab758/ai-gateway",
+    "language": "Go",
+    "name": "Arnab758/ai-gateway",
+    "stars": 6,
+    "updated_at": "2026-06-25T13:54:33Z",
+    "url": "https://github.com/Arnab758/ai-gateway"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2294,
+    "updated_at": "2026-06-25T13:54:10Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 9,
+    "updated_at": "2026-06-25T13:53:50Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29762,
+    "updated_at": "2026-06-25T13:58:01Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5552,
+    "updated_at": "2026-06-25T13:51:34Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51522,
-    "updated_at": "2026-06-25T13:43:40Z",
+    "stars": 51524,
+    "updated_at": "2026-06-25T13:47:55Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19826,
+    "updated_at": "2026-06-25T13:57:41Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-25T13:45:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
@@ -63,21 +108,12 @@
     "url": "https://github.com/Rodiun/frugon"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-25T13:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10275,
-    "updated_at": "2026-06-25T13:28:44Z",
+    "updated_at": "2026-06-25T13:57:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2294,
-    "updated_at": "2026-06-25T13:18:28Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
     "id": "harishu652/Class-AI-Agent",
     "language": "\u2014",
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T13:02:35Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
-    "id": "Arnab758/ai-gateway",
-    "language": "Go",
-    "name": "Arnab758/ai-gateway",
-    "stars": 6,
-    "updated_at": "2026-06-25T13:02:14Z",
-    "url": "https://github.com/Arnab758/ai-gateway"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28959,
-    "updated_at": "2026-06-25T13:44:12Z",
+    "updated_at": "2026-06-25T13:50:10Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T12:49:08Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 1,
-    "updated_at": "2026-06-25T12:48:36Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-25T12:46:08Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
