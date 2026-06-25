@@ -1,5 +1,68 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-25T19:59:33Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51559,
+    "updated_at": "2026-06-25T19:57:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-25T19:54:28Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AI Governance Gateway built with FastAPI for prompt analysis, PII detection, prompt injection detection, policy enforcem",
+    "id": "aaryavinays-dev/guardrail-ai",
+    "language": "Python",
+    "name": "aaryavinays-dev/guardrail-ai",
+    "stars": 0,
+    "updated_at": "2026-06-25T19:48:47Z",
+    "url": "https://github.com/aaryavinays-dev/guardrail-ai"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 2,
+    "updated_at": "2026-06-25T19:48:44Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29774,
+    "updated_at": "2026-06-25T19:56:03Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-25T19:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AgentOps - AI agent observability dashboard for finance (tiered model access & token spend)",
     "id": "icohangar-ops/agent-observability",
     "language": "TypeScript",
@@ -14,35 +77,8 @@
     "language": "TypeScript",
     "name": "JonyKarmakar/vision-command-ai",
     "stars": 0,
-    "updated_at": "2026-06-25T19:43:20Z",
+    "updated_at": "2026-06-25T20:00:16Z",
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51557,
-    "updated_at": "2026-06-25T19:45:05Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-25T19:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-25T19:30:18Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -95,7 +131,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-25T19:42:44Z",
+    "updated_at": "2026-06-25T19:46:18Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T18:45:20Z",
     "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29774,
-    "updated_at": "2026-06-25T19:18:41Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T18:12:55Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-25T18:12:18Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-25T18:10:03Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
-    "id": "golikovichev/pytest-resilience-agent",
-    "language": "Python",
-    "name": "golikovichev/pytest-resilience-agent",
-    "stars": 0,
-    "updated_at": "2026-06-25T18:08:57Z",
-    "url": "https://github.com/golikovichev/pytest-resilience-agent"
   }
 ]
