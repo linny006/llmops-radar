@@ -1,12 +1,39 @@
 [
   {
-    "description": "Open-source auditing toolkit for AI systems and engineering workflows",
-    "id": "husam20264-cmd/openaudit",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "husam20264-cmd/openaudit",
+    "name": "BerriAI/litellm",
+    "stars": 51527,
+    "updated_at": "2026-06-25T14:13:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
+    "id": "acornops/execution-engine",
+    "language": "Python",
+    "name": "acornops/execution-engine",
     "stars": 0,
-    "updated_at": "2026-06-25T13:59:30Z",
-    "url": "https://github.com/husam20264-cmd/openaudit"
+    "updated_at": "2026-06-25T14:12:14Z",
+    "url": "https://github.com/acornops/execution-engine"
+  },
+  {
+    "description": "AI Governance Gateway built with FastAPI for prompt analysis, PII detection, prompt injection detection, policy enforcem",
+    "id": "aaryavinays-dev/guardrail-ai",
+    "language": "Python",
+    "name": "aaryavinays-dev/guardrail-ai",
+    "stars": 0,
+    "updated_at": "2026-06-25T14:09:13Z",
+    "url": "https://github.com/aaryavinays-dev/guardrail-ai"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29764,
+    "updated_at": "2026-06-25T14:12:35Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,7 +41,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-25T13:59:18Z",
+    "updated_at": "2026-06-25T14:05:02Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -23,8 +50,44 @@
     "language": "TypeScript",
     "name": "icohangar-ops/agent-observability",
     "stars": 0,
-    "updated_at": "2026-06-25T13:59:03Z",
+    "updated_at": "2026-06-25T14:02:49Z",
     "url": "https://github.com/icohangar-ops/agent-observability"
+  },
+  {
+    "description": "Capture, replay, diff, and audit AI agent & model runs as portable, redacted evidence capsules. Local-first open-source ",
+    "id": "novafabric/novafabric",
+    "language": "Python",
+    "name": "novafabric/novafabric",
+    "stars": 0,
+    "updated_at": "2026-06-25T14:01:15Z",
+    "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-06-25T14:00:57Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-25T14:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open standard and CLI for verifiable, approval-first AI agent audit logs.",
+    "id": "husam20264-cmd/openaudit",
+    "language": "Python",
+    "name": "husam20264-cmd/openaudit",
+    "stars": 0,
+    "updated_at": "2026-06-25T13:59:30Z",
+    "url": "https://github.com/husam20264-cmd/openaudit"
   },
   {
     "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
@@ -54,31 +117,13 @@
     "url": "https://github.com/8pig/llm-ops"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29762,
-    "updated_at": "2026-06-25T13:58:01Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5552,
-    "updated_at": "2026-06-25T13:51:34Z",
+    "updated_at": "2026-06-25T14:13:40Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51524,
-    "updated_at": "2026-06-25T13:47:55Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -86,17 +131,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19826,
-    "updated_at": "2026-06-25T13:57:41Z",
+    "updated_at": "2026-06-25T14:14:05Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-25T13:45:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-25T13:45:33Z",
+    "updated_at": "2026-06-25T14:08:42Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6029,
-    "updated_at": "2026-06-25T12:57:28Z",
+    "updated_at": "2026-06-25T14:14:12Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3313,
     "updated_at": "2026-06-25T13:29:30Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-25T12:51:00Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 28959,
-    "updated_at": "2026-06-25T13:50:10Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-25T12:49:09Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-25T12:49:08Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   }
 ]
