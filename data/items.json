@@ -5,17 +5,8 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-25T03:30:05Z",
+    "updated_at": "2026-06-25T03:45:06Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51442,
-    "updated_at": "2026-06-25T03:30:06Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Operational doctrine for practical AI systems design.",
@@ -23,8 +14,44 @@
     "language": "\u2014",
     "name": "Stunspot/stunspots-guide-to-ai-systems",
     "stars": 32,
-    "updated_at": "2026-06-25T03:22:42Z",
+    "updated_at": "2026-06-25T03:40:12Z",
     "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2289,
+    "updated_at": "2026-06-25T03:38:23Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 25,
+    "updated_at": "2026-06-25T03:36:21Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "A Unified MCP Server Management App (MCP Manager).",
+    "id": "mcp-router/mcp-router",
+    "language": "TypeScript",
+    "name": "mcp-router/mcp-router",
+    "stars": 2059,
+    "updated_at": "2026-06-25T03:35:41Z",
+    "url": "https://github.com/mcp-router/mcp-router"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "Shell",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-06-25T03:31:03Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +59,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-25T03:15:28Z",
+    "updated_at": "2026-06-25T03:30:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51443,
+    "updated_at": "2026-06-25T03:44:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22567,
+    "updated_at": "2026-06-25T03:30:05Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI systems observability platform for tracing, evaluating, and debugging LLM applications, agents, and RAG pipelines.",
@@ -324,15 +369,6 @@
     "url": "https://github.com/beihaili/ai-capacity-optimizer"
   },
   {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 25,
-    "updated_at": "2026-06-25T02:41:01Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
     "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
     "id": "ashmedanraj/langfuse-eks-production",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 167,
     "updated_at": "2026-06-25T02:29:58Z",
     "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-25T02:26:20Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-25T02:25:42Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-06-25T02:21:47Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-06-25T02:28:07Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
   }
 ]
