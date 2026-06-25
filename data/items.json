@@ -1,5 +1,50 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-25T06:15:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51455,
+    "updated_at": "2026-06-25T06:14:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-25T06:01:43Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
+    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "language": "\u2014",
+    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "stars": 2,
+    "updated_at": "2026-06-25T06:00:45Z",
+    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-25T06:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -99,15 +144,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-25T05:45:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -144,15 +180,6 @@
     "url": "https://github.com/marcusschiesser/agentpond"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-25T05:38:25Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
     "id": "Impure-platen433/crabllm",
     "language": "Rust",
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T05:37:47Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51453,
-    "updated_at": "2026-06-25T05:58:40Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -286,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-06-25T05:29:37Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-06-25T05:54:18Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T05:05:53Z",
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 0,
-    "updated_at": "2026-06-25T05:05:39Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
   }
 ]
