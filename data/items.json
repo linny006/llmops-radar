@@ -1,5 +1,95 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-25T16:44:58Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\u672c\u9879\u76ee\u65e8\u5728\u5206\u4eab\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09",
+    "id": "liguodongiot/llm-action",
+    "language": "HTML",
+    "name": "liguodongiot/llm-action",
+    "stars": 24600,
+    "updated_at": "2026-06-25T16:40:48Z",
+    "url": "https://github.com/liguodongiot/llm-action"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51540,
+    "updated_at": "2026-06-25T16:40:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-06-25T16:35:18Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
+    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "language": "\u2014",
+    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "stars": 2,
+    "updated_at": "2026-06-25T16:35:05Z",
+    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29770,
+    "updated_at": "2026-06-25T16:34:46Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:33:42Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:32:37Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "PyCon Austria 2025: Beyond the Cloud: On-premise Orchestration for Open-source LLMs",
+    "id": "mnemonica-ai/on-premise-orchestration-os-llms",
+    "language": "Jupyter Notebook",
+    "name": "mnemonica-ai/on-premise-orchestration-os-llms",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:32:10Z",
+    "url": "https://github.com/mnemonica-ai/on-premise-orchestration-os-llms"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-25T16:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -18,6 +108,15 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4243,
+    "updated_at": "2026-06-25T16:28:17Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -27,15 +126,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-25T16:27:44Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -43,15 +133,6 @@
     "stars": 5,
     "updated_at": "2026-06-25T16:27:21Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4243,
-    "updated_at": "2026-06-25T16:28:17Z",
-    "url": "https://github.com/Agenta-AI/agenta"
   },
   {
     "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
@@ -135,15 +216,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-25T16:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -180,15 +252,6 @@
     "url": "https://github.com/Impure-platen433/crabllm"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29769,
-    "updated_at": "2026-06-25T16:29:16Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
     "id": "Citrous-districtline59/agent-trace",
     "language": "Python",
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T16:09:16Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51537,
-    "updated_at": "2026-06-25T16:07:43Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-25T16:17:23Z",
     "url": "https://github.com/runcycles/cycles-server-admin"
-  },
-  {
-    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
-    "id": "runcycles/cycles-server-events",
-    "language": "Java",
-    "name": "runcycles/cycles-server-events",
-    "stars": 1,
-    "updated_at": "2026-06-25T16:17:27Z",
-    "url": "https://github.com/runcycles/cycles-server-events"
-  },
-  {
-    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
-    "id": "runcycles/cycles-server",
-    "language": "Java",
-    "name": "runcycles/cycles-server",
-    "stars": 3,
-    "updated_at": "2026-06-25T16:17:19Z",
-    "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-25T15:45:22Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-25T15:43:56Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-06-25T15:43:41Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-25T15:43:13Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
