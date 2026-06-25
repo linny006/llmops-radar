@@ -1,19 +1,46 @@
 [
   {
+    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
+    "id": "tmusser/ai-engineering-skills",
+    "language": "Python",
+    "name": "tmusser/ai-engineering-skills",
+    "stars": 3,
+    "updated_at": "2026-06-25T01:10:56Z",
+    "url": "https://github.com/tmusser/ai-engineering-skills"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26729,
+    "updated_at": "2026-06-25T01:14:43Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Production-grade FastGPT / AIBuilder workflow JSON authoring, inspector and validator for AI agents",
     "id": "myshkin451/fastgpt-json-authoring-skill",
     "language": "Python",
     "name": "myshkin451/fastgpt-json-authoring-skill",
     "stars": 0,
-    "updated_at": "2026-06-25T00:59:57Z",
+    "updated_at": "2026-06-25T01:04:42Z",
     "url": "https://github.com/myshkin451/fastgpt-json-authoring-skill"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-25T01:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
     "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-25T00:57:51Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   },
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 51423,
-    "updated_at": "2026-06-25T00:57:00Z",
+    "updated_at": "2026-06-25T01:03:36Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28944,
-    "updated_at": "2026-06-25T00:57:47Z",
+    "updated_at": "2026-06-25T01:09:22Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -52,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-06-25T00:55:41Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22560,
+    "updated_at": "2026-06-25T00:54:29Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -108,15 +144,6 @@
     "url": "https://github.com/affkoul/agentforge-runtime"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-25T00:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
     "id": "harishu652/Class-AI-Agent",
     "language": "\u2014",
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T00:39:35Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22559,
-    "updated_at": "2026-06-25T00:54:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T00:20:11Z",
     "url": "https://github.com/sandeep-alluru/rulegraph"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-25T00:20:00Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Economy balance analysis and exploit detection for AI game agents",
-    "id": "sandeep-alluru/balancelab",
-    "language": "Python",
-    "name": "sandeep-alluru/balancelab",
-    "stars": 0,
-    "updated_at": "2026-06-25T00:20:00Z",
-    "url": "https://github.com/sandeep-alluru/balancelab"
   }
 ]
