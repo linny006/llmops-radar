@@ -1,12 +1,39 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
     "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6021,
-    "updated_at": "2026-06-25T08:45:07Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-25T09:00:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51487,
+    "updated_at": "2026-06-25T08:58:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 15,
+    "updated_at": "2026-06-25T08:58:25Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22578,
+    "updated_at": "2026-06-25T08:56:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -14,17 +41,80 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3312,
-    "updated_at": "2026-06-25T08:44:27Z",
+    "updated_at": "2026-06-25T09:00:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:56:00Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19807,
+    "updated_at": "2026-06-25T08:54:32Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29744,
+    "updated_at": "2026-06-25T09:00:23Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Advanced medical RAG intelligence platform with open corpus ingestion, hybrid retrieval, citations, safety guardrails, e",
+    "id": "HUSNAIN-MUNAWAR/clinicalrag-intelligence-platform",
+    "language": "Python",
+    "name": "HUSNAIN-MUNAWAR/clinicalrag-intelligence-platform",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:54:47Z",
+    "url": "https://github.com/HUSNAIN-MUNAWAR/clinicalrag-intelligence-platform"
+  },
+  {
+    "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
+    "id": "abhilashsblai/ctxlayer-release",
+    "language": "\u2014",
+    "name": "abhilashsblai/ctxlayer-release",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:53:02Z",
+    "url": "https://github.com/abhilashsblai/ctxlayer-release"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2291,
+    "updated_at": "2026-06-25T08:51:35Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
     "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-25T08:41:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "name": "maximhq/bifrost",
+    "stars": 6021,
+    "updated_at": "2026-06-25T08:47:51Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-25T08:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A comprehensive 2026 AI-engineering guide \u2014 complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati",
@@ -50,44 +140,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 373,
-    "updated_at": "2026-06-25T08:36:18Z",
+    "updated_at": "2026-06-25T08:52:51Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-25T08:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29742,
-    "updated_at": "2026-06-25T08:40:51Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51482,
-    "updated_at": "2026-06-25T08:28:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:26:05Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
@@ -97,24 +151,6 @@
     "stars": 5,
     "updated_at": "2026-06-25T08:23:11Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19806,
-    "updated_at": "2026-06-25T08:25:01Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2291,
-    "updated_at": "2026-06-25T08:17:37Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -374,7 +410,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 168,
-    "updated_at": "2026-06-25T07:45:08Z",
+    "updated_at": "2026-06-25T08:49:22Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T07:40:16Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-25T07:37:22Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-25T07:37:05Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-25T07:30:49Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-25T07:30:07Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
