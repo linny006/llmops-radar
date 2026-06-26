@@ -1,12 +1,75 @@
 [
   {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29828,
+    "updated_at": "2026-06-26T12:44:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19888,
+    "updated_at": "2026-06-26T12:38:54Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Rust-first, local-first observability & debugging for LLM agents: capture, inspect, replay, diff, and export traces (Ope",
+    "id": "kidoz/trace-weft",
+    "language": "Rust",
+    "name": "kidoz/trace-weft",
+    "stars": 2,
+    "updated_at": "2026-06-26T12:37:56Z",
+    "url": "https://github.com/kidoz/trace-weft"
+  },
+  {
+    "description": "Safe Automation Control Plane (SACP): governance + cost control for LLMs that take actions. Rules first, AI second, exec",
+    "id": "cristiandkzk/SACP",
+    "language": "TypeScript",
+    "name": "cristiandkzk/SACP",
+    "stars": 0,
+    "updated_at": "2026-06-26T12:37:31Z",
+    "url": "https://github.com/cristiandkzk/SACP"
+  },
+  {
+    "description": "Automated EU corporate greenwashing detection: 7-agent AI pipeline that scores green claims against verified emissions d",
+    "id": "MartinBlomqvistDev/prasine-index",
+    "language": "Python",
+    "name": "MartinBlomqvistDev/prasine-index",
+    "stars": 0,
+    "updated_at": "2026-06-26T12:37:30Z",
+    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 145,
+    "updated_at": "2026-06-26T12:44:42Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
+    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-06-26T12:29:48Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "stars": 2,
+    "updated_at": "2026-06-26T12:35:09Z",
+    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-26T12:33:42Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -14,8 +77,35 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2299,
-    "updated_at": "2026-06-26T12:30:09Z",
+    "updated_at": "2026-06-26T12:32:32Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-06-26T12:32:30Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-26T12:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-06-26T12:29:48Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -54,15 +144,6 @@
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
-    "description": "Automated EU corporate greenwashing detection: 7-agent AI pipeline that scores green claims against verified emissions d",
-    "id": "MartinBlomqvistDev/prasine-index",
-    "language": "Python",
-    "name": "MartinBlomqvistDev/prasine-index",
-    "stars": 0,
-    "updated_at": "2026-06-26T12:23:25Z",
-    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
-  },
-  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T12:21:59Z",
     "url": "https://github.com/ur-grue/toptop"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29827,
-    "updated_at": "2026-06-26T12:28:21Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -144,22 +216,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-26T12:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19887,
-    "updated_at": "2026-06-26T12:12:51Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "BerriAI/litellm",
+    "stars": 51636,
+    "updated_at": "2026-06-26T12:15:31Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -252,15 +315,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Rust-first, local-first observability & debugging for LLM agents: capture, inspect, replay, diff, and export traces (Ope",
-    "id": "kidoz/trace-weft",
-    "language": "Rust",
-    "name": "kidoz/trace-weft",
-    "stars": 2,
-    "updated_at": "2026-06-26T12:06:06Z",
-    "url": "https://github.com/kidoz/trace-weft"
-  },
-  {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
     "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
     "language": "\u2014",
@@ -315,15 +369,6 @@
     "url": "https://github.com/acornops/management-console"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51634,
-    "updated_at": "2026-06-26T12:15:31Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -347,7 +392,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22623,
-    "updated_at": "2026-06-26T12:20:58Z",
+    "updated_at": "2026-06-26T12:38:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-26T11:56:45Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-26T11:54:47Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-26T11:54:42Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6049,
-    "updated_at": "2026-06-26T12:28:25Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-26T11:51:29Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-26T11:51:22Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
