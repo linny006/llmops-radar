@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-26 21:00 UTC
+> ⏰ Last updated: 2026-06-26 21:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,32 +42,32 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mholovetskyi/cliche](https://github.com/mholovetskyi/cliche) | 0 | Go | 2026-06-26 | The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker,  |
-| 2 | [richardpapiona9/llm](https://github.com/richardpapiona9/llm) | 0 | JavaScript | 2026-06-26 | 🤖 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver |
-| 3 | [mezmo/aura](https://github.com/mezmo/aura) | 141 | Rust | 2026-06-26 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
-| 4 | [mahdidjemaci/production-rag](https://github.com/mahdidjemaci/production-rag) | 2 | Python | 2026-06-26 | 🔍 Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal  |
-| 5 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 36 | TypeScript | 2026-06-26 | Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu |
-| 6 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28979 | TypeScript | 2026-06-26 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 7 | [AthiraSPillai/aiterate](https://github.com/AthiraSPillai/aiterate) | 0 | Python | 2026-06-26 | AI artifact lifecycle management for prompts and agent skills: optimize, evaluate, version, trace, and promote changes f |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-26 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 10 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19905 | Python | 2026-06-26 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 11 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-06-26 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
-| 12 | [solomon2773/nora](https://github.com/solomon2773/nora) | 17 | TypeScript | 2026-06-26 | The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets. |
-| 13 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51681 | Python | 2026-06-26 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 14 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-26 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
-| 15 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-06-26 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
-| 16 | [Arnab758/ai-gateway](https://github.com/Arnab758/ai-gateway) | 6 | Go | 2026-06-26 | AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%. |
-| 17 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-06-26 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
-| 18 | [acornops/k8s-agent](https://github.com/acornops/k8s-agent) | 0 | TypeScript | 2026-06-26 | Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi |
-| 19 | [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) | 16 | Rust | 2026-06-26 | The open-source safety layer for AI agents — block unsafe tool calls, require approval, enforce budgets, audit, replay. |
-| 20 | [iblai/os](https://github.com/iblai/os) | 12 | TypeScript | 2026-06-26 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
-| 21 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 2 | Jupyter Notebook | 2026-06-26 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
-| 22 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 5 | Python | 2026-06-26 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
-| 23 | [manojmallick/skillweave](https://github.com/manojmallick/skillweave) | 0 | TypeScript | 2026-06-26 | An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills — orchestration, schema  |
-| 24 | [bilal0399/learn-agentic-ai](https://github.com/bilal0399/learn-agentic-ai) | 8 | — | 2026-06-26 | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent |
-| 25 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-06-26 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
-| 26 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-26 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-26 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51681 | Python | 2026-06-26 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [mholovetskyi/cliche](https://github.com/mholovetskyi/cliche) | 0 | Go | 2026-06-26 | The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker,  |
+| 5 | [richardpapiona9/llm](https://github.com/richardpapiona9/llm) | 0 | JavaScript | 2026-06-26 | 🤖 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver |
+| 6 | [mezmo/aura](https://github.com/mezmo/aura) | 141 | Rust | 2026-06-26 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
+| 7 | [mahdidjemaci/production-rag](https://github.com/mahdidjemaci/production-rag) | 2 | Python | 2026-06-26 | 🔍 Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal  |
+| 8 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 36 | TypeScript | 2026-06-26 | Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu |
+| 9 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28979 | TypeScript | 2026-06-26 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 10 | [AthiraSPillai/aiterate](https://github.com/AthiraSPillai/aiterate) | 0 | Python | 2026-06-26 | AI artifact lifecycle management for prompts and agent skills: optimize, evaluate, version, trace, and promote changes f |
+| 11 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-26 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 12 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19905 | Python | 2026-06-26 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 13 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-06-26 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
+| 14 | [solomon2773/nora](https://github.com/solomon2773/nora) | 17 | TypeScript | 2026-06-26 | The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets. |
+| 15 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-26 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
+| 16 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-06-26 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
+| 17 | [Arnab758/ai-gateway](https://github.com/Arnab758/ai-gateway) | 6 | Go | 2026-06-26 | AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%. |
+| 18 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-06-26 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
+| 19 | [acornops/k8s-agent](https://github.com/acornops/k8s-agent) | 0 | TypeScript | 2026-06-26 | Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi |
+| 20 | [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) | 16 | Rust | 2026-06-26 | The open-source safety layer for AI agents — block unsafe tool calls, require approval, enforce budgets, audit, replay. |
+| 21 | [iblai/os](https://github.com/iblai/os) | 12 | TypeScript | 2026-06-26 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
+| 22 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 2 | Jupyter Notebook | 2026-06-26 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
+| 23 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 5 | Python | 2026-06-26 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
+| 24 | [manojmallick/skillweave](https://github.com/manojmallick/skillweave) | 0 | TypeScript | 2026-06-26 | An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills — orchestration, schema  |
+| 25 | [bilal0399/learn-agentic-ai](https://github.com/bilal0399/learn-agentic-ai) | 8 | — | 2026-06-26 | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent |
+| 26 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-06-26 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
 | 27 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-26 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
 | 28 | [codegraphtheory/context-forge-rag](https://github.com/codegraphtheory/context-forge-rag) | 2 | Python | 2026-06-26 | Installable Hermes Agent profile for production RAG architecture, AI agents, retrieval evaluation, Pinecone workflows, L |
 | 29 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22631 | TypeScript | 2026-06-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
