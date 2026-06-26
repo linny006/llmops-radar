@@ -1,12 +1,12 @@
 [
   {
-    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-spring-boot-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-boot-starter",
-    "stars": 2,
-    "updated_at": "2026-06-26T07:45:00Z",
-    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-26T07:59:47Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,8 +14,53 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-26T07:43:54Z",
+    "updated_at": "2026-06-26T07:56:27Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-26T07:49:37Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19870,
+    "updated_at": "2026-06-26T07:54:53Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-spring-boot-starter",
+    "language": "Java",
+    "name": "runcycles/cycles-spring-boot-starter",
+    "stars": 2,
+    "updated_at": "2026-06-26T07:49:24Z",
+    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29805,
+    "updated_at": "2026-06-26T07:57:41Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-26T07:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Auto-generated Java Client for Langfuse API",
@@ -50,35 +95,8 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5466,
-    "updated_at": "2026-06-26T07:33:47Z",
+    "updated_at": "2026-06-26T07:51:40Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29804,
-    "updated_at": "2026-06-26T07:42:20Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-26T07:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-26T07:30:08Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
@@ -95,7 +113,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2295,
-    "updated_at": "2026-06-26T07:26:25Z",
+    "updated_at": "2026-06-26T07:51:39Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -112,9 +130,18 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51612,
+    "stars": 51615,
     "updated_at": "2026-06-26T07:11:19Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7755,
+    "updated_at": "2026-06-26T07:10:01Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Safe Automation Control Plane (SACP): governance + cost control for LLMs that take actions. Rules first, AI second, exec",
@@ -124,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T07:09:28Z",
     "url": "https://github.com/cristiandkzk/SACP"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19870,
-    "updated_at": "2026-06-26T07:43:47Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-06-26T07:00:44Z",
-    "url": "https://github.com/tenemos/langwatch"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -158,8 +167,17 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6043,
-    "updated_at": "2026-06-26T06:57:27Z",
+    "updated_at": "2026-06-26T07:59:53Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5555,
+    "updated_at": "2026-06-26T06:50:23Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -205,15 +223,6 @@
     "stars": 6,
     "updated_at": "2026-06-26T06:31:16Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5555,
-    "updated_at": "2026-06-26T06:50:23Z",
-    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -356,7 +365,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1237,
-    "updated_at": "2026-06-26T07:44:12Z",
+    "updated_at": "2026-06-26T07:57:27Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -367,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T05:16:04Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7754,
-    "updated_at": "2026-06-26T07:10:01Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
