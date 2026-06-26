@@ -1,12 +1,12 @@
 [
   {
-    "description": "Forging a minimalist universal language for AI, unconditionally eradicating hallucinations and automating Agent Swarm in",
-    "id": "caihongfairys/QMP-Dynamic-Anchors",
-    "language": "JavaScript",
-    "name": "caihongfairys/QMP-Dynamic-Anchors",
-    "stars": 2,
-    "updated_at": "2026-06-26T05:44:51Z",
-    "url": "https://github.com/caihongfairys/QMP-Dynamic-Anchors"
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 42,
+    "updated_at": "2026-06-26T05:58:52Z",
+    "url": "https://github.com/sxueck/llm-gateway"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
@@ -14,17 +14,44 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-26T05:38:17Z",
+    "updated_at": "2026-06-26T05:56:52Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2295,
+    "updated_at": "2026-06-26T05:56:08Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51593,
-    "updated_at": "2026-06-26T05:33:08Z",
+    "stars": 51596,
+    "updated_at": "2026-06-26T05:53:26Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-26T05:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Forging a minimalist universal language for AI, unconditionally eradicating hallucinations and automating Agent Swarm in",
+    "id": "caihongfairys/QMP-Dynamic-Anchors",
+    "language": "JavaScript",
+    "name": "caihongfairys/QMP-Dynamic-Anchors",
+    "stars": 2,
+    "updated_at": "2026-06-26T05:58:39Z",
+    "url": "https://github.com/caihongfairys/QMP-Dynamic-Anchors"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -34,15 +61,6 @@
     "stars": 5466,
     "updated_at": "2026-06-26T05:32:43Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-26T05:30:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -95,7 +113,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1237,
-    "updated_at": "2026-06-26T05:16:37Z",
+    "updated_at": "2026-06-26T05:53:16Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -396,6 +414,15 @@
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26747,
+    "updated_at": "2026-06-26T04:44:54Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-26T04:42:07Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-26T04:35:45Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-26T04:35:14Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-06-26T04:32:05Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
   }
 ]
