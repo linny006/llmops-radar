@@ -1,5 +1,77 @@
 [
   {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 105,
+    "updated_at": "2026-06-26T21:58:26Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 1,
+    "updated_at": "2026-06-26T21:58:09Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-06-26T21:57:13Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Next.js RAG chatbot with streaming UI, OpenAI embeddings, and vector search over markdown docs.",
+    "id": "ypingmoe/nextjs-rag-chatbot",
+    "language": "TypeScript",
+    "name": "ypingmoe/nextjs-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-26T21:51:10Z",
+    "url": "https://github.com/ypingmoe/nextjs-rag-chatbot"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-26T21:50:45Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
+    "id": "Justin0504/federated-agent-audit",
+    "language": "Python",
+    "name": "Justin0504/federated-agent-audit",
+    "stars": 3,
+    "updated_at": "2026-06-26T21:49:13Z",
+    "url": "https://github.com/Justin0504/federated-agent-audit"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 36,
+    "updated_at": "2026-06-26T21:48:48Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-26T21:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI artifact lifecycle management for prompts and agent skills: optimize, evaluate, version, trace, and promote changes f",
     "id": "AthiraSPillai/aiterate",
     "language": "Python",
@@ -14,26 +86,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 51682,
-    "updated_at": "2026-06-26T21:43:23Z",
+    "updated_at": "2026-06-26T21:58:08Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 36,
-    "updated_at": "2026-06-26T21:43:55Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-26T21:42:29Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
@@ -43,15 +97,6 @@
     "stars": 141,
     "updated_at": "2026-06-26T21:40:46Z",
     "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 1,
-    "updated_at": "2026-06-26T21:44:25Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -90,15 +135,6 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-26T21:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -115,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T21:27:56Z",
     "url": "https://github.com/ypingmoe/fastapi-openai-rag-api"
-  },
-  {
-    "description": "Next.js RAG chatbot with streaming UI, OpenAI embeddings, and vector search over markdown docs.",
-    "id": "ypingmoe/nextjs-rag-chatbot",
-    "language": "TypeScript",
-    "name": "ypingmoe/nextjs-rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-26T21:27:33Z",
-    "url": "https://github.com/ypingmoe/nextjs-rag-chatbot"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 1,
-    "updated_at": "2026-06-26T21:27:17Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
@@ -256,7 +274,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19906,
+    "stars": 19908,
     "updated_at": "2026-06-26T20:43:56Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -328,7 +346,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6058,
+    "stars": 6059,
     "updated_at": "2026-06-26T20:21:35Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T19:14:28Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "Shell",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-06-26T19:12:56Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-26T19:11:36Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
