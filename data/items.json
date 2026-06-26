@@ -1,12 +1,93 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51667,
+    "updated_at": "2026-06-26T17:29:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-06-26T17:28:44Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Load generator and performance analyzer for LLM inference serving. Measures TTFT, TPOT, and throughput against vLLM/TGI/",
+    "id": "anshikapundeel/llm-perf-probe",
+    "language": "Python",
+    "name": "anshikapundeel/llm-perf-probe",
+    "stars": 0,
+    "updated_at": "2026-06-26T17:27:39Z",
+    "url": "https://github.com/anshikapundeel/llm-perf-probe"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-26T17:27:33Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 36,
+    "updated_at": "2026-06-26T17:27:16Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3313,
+    "updated_at": "2026-06-26T17:25:58Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22631,
+    "updated_at": "2026-06-26T17:20:40Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
+    "id": "Arnab758/ai-gateway",
+    "language": "Go",
+    "name": "Arnab758/ai-gateway",
+    "stars": 6,
+    "updated_at": "2026-06-26T17:20:04Z",
+    "url": "https://github.com/Arnab758/ai-gateway"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-26T17:15:11Z",
+    "updated_at": "2026-06-26T17:18:00Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-26T17:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Forging a minimalist universal language for AI, unconditionally eradicating hallucinations and automating Agent Swarm in",
@@ -18,15 +99,6 @@
     "url": "https://github.com/caihongfairys/QMP-Dynamic-Anchors"
   },
   {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 36,
-    "updated_at": "2026-06-26T17:09:58Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
     "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
     "id": "JonyKarmakar/vision-command-ai",
     "language": "TypeScript",
@@ -34,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T17:07:19Z",
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22630,
-    "updated_at": "2026-06-26T17:15:00Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3313,
-    "updated_at": "2026-06-26T17:08:56Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -68,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29837,
-    "updated_at": "2026-06-26T17:03:26Z",
+    "updated_at": "2026-06-26T17:23:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -81,15 +135,6 @@
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-26T17:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
     "id": "esanmohammad/Anvil",
     "language": "TypeScript",
@@ -97,15 +142,6 @@
     "stars": 16,
     "updated_at": "2026-06-26T17:00:03Z",
     "url": "https://github.com/esanmohammad/Anvil"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51667,
-    "updated_at": "2026-06-26T17:13:20Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "mezmo/aura",
     "stars": 141,
-    "updated_at": "2026-06-26T17:14:51Z",
+    "updated_at": "2026-06-26T17:20:30Z",
     "url": "https://github.com/mezmo/aura"
   },
   {
@@ -234,15 +270,6 @@
     "url": "https://github.com/mholovetskyi/cliche"
   },
   {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-06-26T16:22:32Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -250,15 +277,6 @@
     "stars": 19896,
     "updated_at": "2026-06-26T17:04:59Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-06-26T16:21:19Z",
-    "url": "https://github.com/tenemos/langwatch"
   },
   {
     "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T15:31:20Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-26T15:29:52Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-26T15:29:11Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
