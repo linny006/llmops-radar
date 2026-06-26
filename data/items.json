@@ -1,12 +1,12 @@
 [
   {
-    "description": "Verifiable AI-build governance you run on yourself \u2014 four modules (autonomy gate, build discipline, model fitness, code ",
-    "id": "AkuchiS/governance-in-a-box",
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
     "language": "Python",
-    "name": "AkuchiS/governance-in-a-box",
-    "stars": 0,
-    "updated_at": "2026-06-26T00:44:40Z",
-    "url": "https://github.com/AkuchiS/governance-in-a-box"
+    "name": "dshakes/distil",
+    "stars": 1,
+    "updated_at": "2026-06-26T00:58:59Z",
+    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
@@ -14,8 +14,17 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-26T00:44:00Z",
+    "updated_at": "2026-06-26T00:54:46Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51572,
+    "updated_at": "2026-06-26T00:59:05Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
@@ -23,8 +32,26 @@
     "language": "HTML",
     "name": "cuihuan/awesome-ai-gateway",
     "stars": 26,
-    "updated_at": "2026-06-26T00:43:58Z",
+    "updated_at": "2026-06-26T00:47:05Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-26T00:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Verifiable AI-build governance you run on yourself \u2014 four modules (autonomy gate, build discipline, model fitness, code ",
+    "id": "AkuchiS/governance-in-a-box",
+    "language": "Python",
+    "name": "AkuchiS/governance-in-a-box",
+    "stars": 0,
+    "updated_at": "2026-06-26T00:44:40Z",
+    "url": "https://github.com/AkuchiS/governance-in-a-box"
   },
   {
     "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
@@ -54,15 +81,6 @@
     "url": "https://github.com/tmusser/ai-engineering-skills"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51571,
-    "updated_at": "2026-06-26T00:43:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -72,15 +90,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-26T00:30:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
@@ -88,15 +97,6 @@
     "stars": 28967,
     "updated_at": "2026-06-26T00:27:24Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 1,
-    "updated_at": "2026-06-26T00:20:21Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
