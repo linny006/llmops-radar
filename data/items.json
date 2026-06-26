@@ -1,5 +1,41 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-26T01:52:33Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51573,
+    "updated_at": "2026-06-26T01:49:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10280,
+    "updated_at": "2026-06-26T01:51:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-26T01:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -7,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T01:45:03Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-26T01:44:28Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
@@ -32,17 +59,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 28969,
-    "updated_at": "2026-06-26T01:43:29Z",
+    "updated_at": "2026-06-26T01:53:21Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51573,
-    "updated_at": "2026-06-26T01:43:23Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T01:30:32Z",
     "url": "https://github.com/AkuchiS/governance-in-a-box"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-26T01:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T23:51:15Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-25T23:50:09Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
