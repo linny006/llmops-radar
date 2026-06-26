@@ -1,5 +1,77 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51679,
+    "updated_at": "2026-06-26T19:59:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-26T19:58:03Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AI artifact lifecycle management for prompts and agent skills: optimize, evaluate, version, trace, and promote changes f",
+    "id": "AthiraSPillai/aiterate",
+    "language": "Python",
+    "name": "AthiraSPillai/aiterate",
+    "stars": 0,
+    "updated_at": "2026-06-26T19:50:44Z",
+    "url": "https://github.com/AthiraSPillai/aiterate"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 36,
+    "updated_at": "2026-06-26T19:49:14Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 141,
+    "updated_at": "2026-06-26T19:48:51Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-26T19:48:01Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-06-26T19:46:52Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-26T19:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -45,15 +117,6 @@
     "url": "https://github.com/runcycles/cycles-spring-boot-starter"
   },
   {
-    "description": "AI artifact lifecycle management for prompts and agent skills: optimize, evaluate, version, trace, and promote changes f",
-    "id": "AthiraSPillai/aiterate",
-    "language": "Python",
-    "name": "AthiraSPillai/aiterate",
-    "stars": 0,
-    "updated_at": "2026-06-26T19:38:07Z",
-    "url": "https://github.com/AthiraSPillai/aiterate"
-  },
-  {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
     "id": "tenemos/langwatch",
     "language": "TypeScript",
@@ -63,22 +126,13 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51678,
-    "updated_at": "2026-06-26T19:44:41Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-26T19:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mlflow/mlflow",
+    "stars": 26736,
+    "updated_at": "2026-06-26T19:30:57Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -130,18 +184,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29845,
+    "stars": 29846,
     "updated_at": "2026-06-26T19:22:48Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 36,
-    "updated_at": "2026-06-26T19:22:08Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -198,15 +243,6 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 141,
-    "updated_at": "2026-06-26T19:17:43Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
     "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
     "id": "jamjet-labs/jamjet",
     "language": "Rust",
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22633,
-    "updated_at": "2026-06-26T19:22:51Z",
+    "updated_at": "2026-06-26T19:58:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T19:00:16Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-06-26T19:26:38Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-26T18:44:05Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-06-26T18:43:35Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19900,
-    "updated_at": "2026-06-26T18:30:43Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-26T18:28:48Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
