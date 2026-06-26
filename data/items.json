@@ -5,8 +5,80 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-26T16:00:08Z",
+    "updated_at": "2026-06-26T16:15:08Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-26T16:13:10Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51663,
+    "updated_at": "2026-06-26T16:09:10Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
+    "id": "runcycles/cycles-server",
+    "language": "Java",
+    "name": "runcycles/cycles-server",
+    "stars": 3,
+    "updated_at": "2026-06-26T16:09:08Z",
+    "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 45,
+    "updated_at": "2026-06-26T16:06:57Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3313,
+    "updated_at": "2026-06-26T16:06:57Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19897,
+    "updated_at": "2026-06-26T16:06:03Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 2,
+    "updated_at": "2026-06-26T16:01:29Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-26T16:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
@@ -23,44 +95,8 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-06-26T15:57:37Z",
+    "updated_at": "2026-06-26T16:05:57Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51662,
-    "updated_at": "2026-06-26T15:53:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19897,
-    "updated_at": "2026-06-26T15:57:11Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-26T15:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 45,
-    "updated_at": "2026-06-26T15:43:05Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-06-26T15:42:19Z",
+    "updated_at": "2026-06-26T16:07:45Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29836,
-    "updated_at": "2026-06-26T15:59:08Z",
+    "updated_at": "2026-06-26T16:06:52Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/sarrahw23/deploy-guide"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-26T15:26:25Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1055,
-    "updated_at": "2026-06-26T15:10:14Z",
+    "updated_at": "2026-06-26T16:08:24Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-26T15:05:03Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 0,
-    "updated_at": "2026-06-26T15:03:56Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 0,
-    "updated_at": "2026-06-26T15:03:33Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
-    "id": "rsaudio/second-brain",
-    "language": "\u2014",
-    "name": "rsaudio/second-brain",
-    "stars": 1,
-    "updated_at": "2026-06-26T15:02:29Z",
-    "url": "https://github.com/rsaudio/second-brain"
   }
 ]
