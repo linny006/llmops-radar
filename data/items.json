@@ -5,8 +5,62 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-27T07:45:05Z",
+    "updated_at": "2026-06-27T08:00:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2305,
+    "updated_at": "2026-06-27T07:56:47Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29857,
+    "updated_at": "2026-06-27T07:51:06Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "p1c2u/openloop",
+    "language": "Python",
+    "name": "p1c2u/openloop",
+    "stars": 0,
+    "updated_at": "2026-06-27T07:49:47Z",
+    "url": "https://github.com/p1c2u/openloop"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-27T07:46:31Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source guided architect for local RAG, private GPU infrastructure, DGX planning, and staged cloud-to-private AI mig",
+    "id": "samasaikumarreddy/private-ai-architect",
+    "language": "Python",
+    "name": "samasaikumarreddy/private-ai-architect",
+    "stars": 0,
+    "updated_at": "2026-06-27T07:57:01Z",
+    "url": "https://github.com/samasaikumarreddy/private-ai-architect"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-27T07:45:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Free local CLI that estimates, hard-caps, and losslessly compresses the cost of AI coding agents. Delta-encodes re-read ",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 51719,
-    "updated_at": "2026-06-27T07:34:23Z",
+    "updated_at": "2026-06-27T07:53:53Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -43,33 +97,6 @@
     "stars": 16,
     "updated_at": "2026-06-27T07:33:38Z",
     "url": "https://github.com/jamjet-labs/jamjet"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2305,
-    "updated_at": "2026-06-27T07:32:09Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-27T07:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:23:42Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-27T06:32:46Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-27T06:32:08Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-27T06:31:18Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-06-27T06:28:21Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
   }
 ]
