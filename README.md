@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-27 20:00 UTC
+> ⏰ Last updated: 2026-06-27 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-27 | The opinionated workflow engine and governance layer for agent-driven software development. |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51762 | Python | 2026-06-27 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 3 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-27 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [HarperZ9/telos](https://github.com/HarperZ9/telos) | 1 | — | 2026-06-27 | Project Telos membrane demo: perceive, check, and re-derive a certificate. |
-| 6 | [HarperZ9/gather](https://github.com/HarperZ9/gather) | 1 | Python | 2026-06-27 | Accountable research intake for difficult sources, with provenance receipts and witnessed digests. |
-| 7 | [HarperZ9/index](https://github.com/HarperZ9/index) | 1 | Python | 2026-06-27 | Evidence-built repo and documentation atlas for multi-repo workspaces. |
-| 8 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-27 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-27 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51765 | Python | 2026-06-27 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-27 | The opinionated workflow engine and governance layer for agent-driven software development. |
+| 5 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-06-27 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 6 | [HarperZ9/telos](https://github.com/HarperZ9/telos) | 1 | — | 2026-06-27 | Project Telos membrane demo: perceive, check, and re-derive a certificate. |
+| 7 | [HarperZ9/gather](https://github.com/HarperZ9/gather) | 1 | Python | 2026-06-27 | Accountable research intake for difficult sources, with provenance receipts and witnessed digests. |
+| 8 | [HarperZ9/index](https://github.com/HarperZ9/index) | 1 | Python | 2026-06-27 | Evidence-built repo and documentation atlas for multi-repo workspaces. |
 | 9 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-06-27 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
 | 10 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-27 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
 | 11 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-06-27 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
