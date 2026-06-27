@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-27 10:30 UTC
+> ⏰ Last updated: 2026-06-27 10:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,16 +43,16 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-27 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
-| 2 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-27 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
-| 3 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-06-27 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
-| 4 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-06-27 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
-| 5 | [andrecorugda/ai-openrouter-gateway](https://github.com/andrecorugda/ai-openrouter-gateway) | 0 | PHP | 2026-06-27 | Self-hostable, OpenRouter-backed AI gateway for Laravel — versioned prompts, telemetry, rate & cost limiting, a Sanctum  |
-| 6 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2306 | C++ | 2026-06-27 | Community maintained hardware plugin for vLLM on Ascend |
-| 7 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 2 | Jupyter Notebook | 2026-06-27 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
-| 8 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 5 | Python | 2026-06-27 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
-| 9 | [bilal0399/learn-agentic-ai](https://github.com/bilal0399/learn-agentic-ai) | 8 | — | 2026-06-27 | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent |
-| 10 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-06-27 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-27 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
+| 4 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-06-27 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
+| 5 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-06-27 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
+| 6 | [andrecorugda/ai-openrouter-gateway](https://github.com/andrecorugda/ai-openrouter-gateway) | 0 | PHP | 2026-06-27 | Self-hostable, OpenRouter-backed AI gateway for Laravel — versioned prompts, telemetry, rate & cost limiting, a Sanctum  |
+| 7 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2306 | C++ | 2026-06-27 | Community maintained hardware plugin for vLLM on Ascend |
+| 8 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 2 | Jupyter Notebook | 2026-06-27 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
+| 9 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 5 | Python | 2026-06-27 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
+| 10 | [bilal0399/learn-agentic-ai](https://github.com/bilal0399/learn-agentic-ai) | 8 | — | 2026-06-27 | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent |
+| 11 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-06-27 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
 | 12 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-27 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 13 | [p1c2u/openloop](https://github.com/p1c2u/openloop) | 0 | Python | 2026-06-27 | The open-source control plane for shared AI agents |
 | 14 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51731 | Python | 2026-06-27 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
