@@ -1,12 +1,39 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:14:14Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-27T10:00:06Z",
+    "updated_at": "2026-06-27T10:13:54Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "p1c2u/openloop",
+    "language": "Python",
+    "name": "p1c2u/openloop",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:11:36Z",
+    "url": "https://github.com/p1c2u/openloop"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51731,
+    "updated_at": "2026-06-27T10:08:40Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Self-hostable, OpenRouter-backed AI gateway for Laravel \u2014 versioned prompts, telemetry, rate & cost limiting, a Sanctum ",
@@ -14,8 +41,26 @@
     "language": "PHP",
     "name": "andrecorugda/ai-openrouter-gateway",
     "stars": 0,
-    "updated_at": "2026-06-27T09:56:26Z",
+    "updated_at": "2026-06-27T10:03:34Z",
     "url": "https://github.com/andrecorugda/ai-openrouter-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-27T10:00:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6073,
+    "updated_at": "2026-06-27T09:57:59Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -54,15 +99,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-27T09:45:20Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -70,15 +106,6 @@
     "stars": 29859,
     "updated_at": "2026-06-27T09:45:06Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51729,
-    "updated_at": "2026-06-27T09:37:35Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -153,15 +180,6 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6072,
-    "updated_at": "2026-06-27T09:57:59Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
     "id": "richardpapiona9/llm",
     "language": "JavaScript",
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11474,
-    "updated_at": "2026-06-27T08:33:28Z",
+    "updated_at": "2026-06-27T10:07:08Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -261,15 +279,6 @@
     "url": "https://github.com/umutkeltek/switchback"
   },
   {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "p1c2u/openloop",
-    "language": "Python",
-    "name": "p1c2u/openloop",
-    "stars": 0,
-    "updated_at": "2026-06-27T08:07:16Z",
-    "url": "https://github.com/p1c2u/openloop"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -277,15 +286,6 @@
     "stars": 2306,
     "updated_at": "2026-06-27T08:06:37Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:46:31Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Open-source guided architect for local RAG, private GPU infrastructure, DGX planning, and staged cloud-to-private AI mig",
