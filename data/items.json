@@ -1,12 +1,48 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-27T00:30:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "AI pipeline for EU corporate greenwashing monitoring. 7 agents (LangGraph + Anthropic SDK) score green claims against 17",
     "id": "MartinBlomqvistDev/prasine-index",
     "language": "Python",
     "name": "MartinBlomqvistDev/prasine-index",
     "stars": 0,
-    "updated_at": "2026-06-27T00:14:29Z",
+    "updated_at": "2026-06-27T00:26:43Z",
     "url": "https://github.com/MartinBlomqvistDev/prasine-index"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 1,
+    "updated_at": "2026-06-27T00:21:14Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the",
+    "id": "jarodtaylor/cadre",
+    "language": "Python",
+    "name": "jarodtaylor/cadre",
+    "stars": 0,
+    "updated_at": "2026-06-27T00:19:35Z",
+    "url": "https://github.com/jarodtaylor/cadre"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-27T00:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
@@ -14,17 +50,17 @@
     "language": "Python",
     "name": "alinafe82/persistent-cognitive-infrastructure",
     "stars": 1,
-    "updated_at": "2026-06-27T00:14:16Z",
+    "updated_at": "2026-06-27T00:30:14Z",
     "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-27T00:13:53Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51689,
+    "updated_at": "2026-06-27T00:25:50Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -34,15 +70,6 @@
     "stars": 10292,
     "updated_at": "2026-06-27T00:13:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51688,
-    "updated_at": "2026-06-27T00:13:06Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -108,15 +135,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the",
-    "id": "jarodtaylor/cadre",
-    "language": "Python",
-    "name": "jarodtaylor/cadre",
-    "stars": 0,
-    "updated_at": "2026-06-27T00:08:53Z",
-    "url": "https://github.com/jarodtaylor/cadre"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -151,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T00:00:59Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-27T00:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 1,
-    "updated_at": "2026-06-26T23:59:05Z",
-    "url": "https://github.com/umutkeltek/switchback"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -428,7 +428,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-06-26T23:44:06Z",
+    "updated_at": "2026-06-27T00:21:52Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
