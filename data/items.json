@@ -1,12 +1,21 @@
 [
   {
-    "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
-    "id": "thequantumfalcon/kry",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-06-27T23:14:02Z",
-    "url": "https://github.com/thequantumfalcon/kry"
+    "name": "BerriAI/litellm",
+    "stars": 51784,
+    "updated_at": "2026-06-27T23:29:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-27T23:28:41Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -14,8 +23,62 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 128,
-    "updated_at": "2026-06-27T23:15:04Z",
+    "updated_at": "2026-06-27T23:27:45Z",
     "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Forging a minimalist universal language for AI, unconditionally eradicating hallucinations and automating Agent Swarm in",
+    "id": "caihongfairys/QMP-Dynamic-Anchors",
+    "language": "JavaScript",
+    "name": "caihongfairys/QMP-Dynamic-Anchors",
+    "stars": 2,
+    "updated_at": "2026-06-27T23:25:57Z",
+    "url": "https://github.com/caihongfairys/QMP-Dynamic-Anchors"
+  },
+  {
+    "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-06-27T23:24:15Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-27T23:17:57Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-27T23:17:13Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the",
+    "id": "jarodtaylor/cadre",
+    "language": "Python",
+    "name": "jarodtaylor/cadre",
+    "stars": 0,
+    "updated_at": "2026-06-27T23:16:33Z",
+    "url": "https://github.com/jarodtaylor/cadre"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-27T23:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenAI-compatible API that routes each request through a multi-model proposer/refuter/synthesizer pipeline. FastAPI, nat",
@@ -36,15 +99,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-27T23:09:52Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T23:05:43Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51783,
-    "updated_at": "2026-06-27T23:04:22Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Installable Hermes Agent profile for production RAG architecture, AI agents, retrieval evaluation, Pinecone workflows, L",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T23:00:49Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-27T23:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-06-27T22:53:51Z",
+    "updated_at": "2026-06-27T23:24:37Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-06-27T22:39:44Z",
     "url": "https://github.com/om-er/drangue"
-  },
-  {
-    "description": "Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the",
-    "id": "jarodtaylor/cadre",
-    "language": "Python",
-    "name": "jarodtaylor/cadre",
-    "stars": 0,
-    "updated_at": "2026-06-27T22:39:42Z",
-    "url": "https://github.com/jarodtaylor/cadre"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-27T21:57:13Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-27T21:56:44Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-27T21:56:43Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-27T21:56:40Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
