@@ -1,5 +1,122 @@
 [
   {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "p1c2u/openloop",
+    "language": "Python",
+    "name": "p1c2u/openloop",
+    "stars": 0,
+    "updated_at": "2026-06-27T21:11:05Z",
+    "url": "https://github.com/p1c2u/openloop"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-27T21:07:30Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-27T21:06:34Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-27T21:05:47Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-27T21:03:37Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Witnessed agent orchestration for Project Telos: routing, replayable ledgers, verifier records, and prose lanes.",
+    "id": "HarperZ9/forum",
+    "language": "Python",
+    "name": "HarperZ9/forum",
+    "stars": 1,
+    "updated_at": "2026-06-27T21:03:29Z",
+    "url": "https://github.com/HarperZ9/forum"
+  },
+  {
+    "description": "Accountable research intake for hard sources: adapters, receipts, digest seals, and MCP-ready provenance.",
+    "id": "HarperZ9/gather",
+    "language": "Python",
+    "name": "HarperZ9/gather",
+    "stars": 1,
+    "updated_at": "2026-06-27T21:03:29Z",
+    "url": "https://github.com/HarperZ9/gather"
+  },
+  {
+    "description": "Measurement-backed claim evaluation for Project Telos: clean verifier packets and re-checkable MATCH/DRIFT/UNVERIFIABLE ",
+    "id": "HarperZ9/crucible",
+    "language": "Python",
+    "name": "HarperZ9/crucible",
+    "stars": 1,
+    "updated_at": "2026-06-27T21:03:29Z",
+    "url": "https://github.com/HarperZ9/crucible"
+  },
+  {
+    "description": "Evidence-built workspace atlas for Project Telos: imports, docs, routers, and line-level dependency proof.",
+    "id": "HarperZ9/index",
+    "language": "Python",
+    "name": "HarperZ9/index",
+    "stars": 1,
+    "updated_at": "2026-06-27T21:03:29Z",
+    "url": "https://github.com/HarperZ9/index"
+  },
+  {
+    "description": "Project Telos membrane: reconcile Gather, Crucible, Index, and Forum into provider-neutral CLI, MCP, and app workflows.",
+    "id": "HarperZ9/telos",
+    "language": "\u2014",
+    "name": "HarperZ9/telos",
+    "stars": 1,
+    "updated_at": "2026-06-27T21:03:29Z",
+    "url": "https://github.com/HarperZ9/telos"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51772,
+    "updated_at": "2026-06-27T21:03:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-27T21:01:47Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-27T21:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -14,7 +131,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-06-27T20:55:27Z",
+    "updated_at": "2026-06-27T21:14:17Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -63,24 +180,6 @@
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-27T20:45:45Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-27T20:45:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -97,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-06-27T20:39:51Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51770,
-    "updated_at": "2026-06-27T20:46:29Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -135,15 +225,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Project Telos membrane demo: perceive, check, and re-derive a certificate.",
-    "id": "HarperZ9/telos",
-    "language": "\u2014",
-    "name": "HarperZ9/telos",
-    "stars": 1,
-    "updated_at": "2026-06-27T20:53:19Z",
-    "url": "https://github.com/HarperZ9/telos"
-  },
-  {
     "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
     "id": "jamjet-labs/jamjet",
     "language": "Rust",
@@ -160,24 +241,6 @@
     "stars": 2,
     "updated_at": "2026-06-27T19:51:17Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Accountable research intake for difficult sources, with provenance receipts and witnessed digests.",
-    "id": "HarperZ9/gather",
-    "language": "Python",
-    "name": "HarperZ9/gather",
-    "stars": 1,
-    "updated_at": "2026-06-27T19:40:37Z",
-    "url": "https://github.com/HarperZ9/gather"
-  },
-  {
-    "description": "Evidence-built repo and documentation atlas for multi-repo workspaces.",
-    "id": "HarperZ9/index",
-    "language": "Python",
-    "name": "HarperZ9/index",
-    "stars": 1,
-    "updated_at": "2026-06-27T19:40:37Z",
-    "url": "https://github.com/HarperZ9/index"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -270,15 +333,6 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "Model-agnostic agent orchestration with a replayable, verifiable causal ledger.",
-    "id": "HarperZ9/forum",
-    "language": "Python",
-    "name": "HarperZ9/forum",
-    "stars": 1,
-    "updated_at": "2026-06-27T19:26:03Z",
-    "url": "https://github.com/HarperZ9/forum"
-  },
-  {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
     "id": "harishu652/Class-AI-Agent",
     "language": "\u2014",
@@ -333,15 +387,6 @@
     "url": "https://github.com/Ajayy009/financial-intelligence-pipeline"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-27T19:20:39Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -349,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-06-27T19:20:31Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-27T19:18:31Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-27T19:12:22Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-27T19:12:12Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-27T19:10:29Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 0,
-    "updated_at": "2026-06-27T19:09:37Z",
-    "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-27T19:08:52Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
