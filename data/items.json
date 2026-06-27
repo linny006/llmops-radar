@@ -1,5 +1,41 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-27T18:25:50Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Public showcase for SBR - a deterministic analyzer and CI gate for AI-agent workflow traces.",
+    "id": "gulyetkin/synthetic-bureaucracy",
+    "language": "\u2014",
+    "name": "gulyetkin/synthetic-bureaucracy",
+    "stars": 0,
+    "updated_at": "2026-06-27T18:18:17Z",
+    "url": "https://github.com/gulyetkin/synthetic-bureaucracy"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-27T18:15:39Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-27T18:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
     "id": "mahdidjemaci/production-rag",
     "language": "Python",
@@ -18,24 +54,6 @@
     "url": "https://github.com/manojmallick/skillweave"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-27T18:12:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Public showcase for SBR - a deterministic analyzer and CI gate for AI-agent workflow traces.",
-    "id": "gulyetkin/synthetic-bureaucracy",
-    "language": "\u2014",
-    "name": "gulyetkin/synthetic-bureaucracy",
-    "stars": 0,
-    "updated_at": "2026-06-27T18:11:58Z",
-    "url": "https://github.com/gulyetkin/synthetic-bureaucracy"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -45,11 +63,20 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "Project Telos membrane demo: perceive, check, and re-derive a certificate.",
+    "id": "HarperZ9/telos",
+    "language": "\u2014",
+    "name": "HarperZ9/telos",
+    "stars": 1,
+    "updated_at": "2026-06-27T18:04:52Z",
+    "url": "https://github.com/HarperZ9/telos"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51758,
+    "stars": 51759,
     "updated_at": "2026-06-27T18:03:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T18:01:50Z",
     "url": "https://github.com/gregoryhorn/hermes-loop-engineering"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-27T18:00:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production grade AI contact center starter kit with FastAPI, OpenAI tool calling, RAG, observability, Docker, Terraform,",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10297,
-    "updated_at": "2026-06-27T17:22:12Z",
+    "updated_at": "2026-06-27T18:26:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-27T17:39:33Z",
+    "updated_at": "2026-06-27T18:16:17Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-27T16:49:30Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-27T16:49:28Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-27T16:49:18Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
