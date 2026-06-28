@@ -1,12 +1,21 @@
 [
   {
-    "description": "Open protocol for runtime budget and action authority over AI agents",
-    "id": "runcycles/cycles-protocol",
+    "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
+    "id": "thequantumfalcon/kry",
     "language": "Python",
-    "name": "runcycles/cycles-protocol",
-    "stars": 3,
-    "updated_at": "2026-06-28T00:58:48Z",
-    "url": "https://github.com/runcycles/cycles-protocol"
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-06-28T01:10:45Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-28T01:09:16Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
@@ -14,25 +23,16 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-28T00:56:16Z",
+    "updated_at": "2026-06-28T01:05:59Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:55:30Z",
-    "url": "https://github.com/thequantumfalcon/kry"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51785,
-    "updated_at": "2026-06-28T00:57:57Z",
+    "stars": 51786,
+    "updated_at": "2026-06-28T01:04:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -41,7 +41,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-06-28T00:58:22Z",
+    "updated_at": "2026-06-28T01:04:05Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -50,8 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-28T00:45:26Z",
+    "updated_at": "2026-06-28T01:00:21Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open protocol for runtime budget and action authority over AI agents",
+    "id": "runcycles/cycles-protocol",
+    "language": "Python",
+    "name": "runcycles/cycles-protocol",
+    "stars": 3,
+    "updated_at": "2026-06-28T00:58:48Z",
+    "url": "https://github.com/runcycles/cycles-protocol"
   },
   {
     "description": "Decoder only, Encoder only, Diffusion model simulation for SLO, Memory, Infra calculations. For model inference and trai",
@@ -160,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-28T00:30:05Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-28T00:49:10Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",

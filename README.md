@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-28 01:00 UTC
+> ⏰ Last updated: 2026-06-28 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [runcycles/cycles-protocol](https://github.com/runcycles/cycles-protocol) | 3 | Python | 2026-06-28 | Open protocol for runtime budget and action authority over AI agents |
-| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-28 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
-| 3 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-06-28 | Verifiable proof-of-efficiency compute credit for LLM spend — prove your inference savings instead of trusting a dashboa |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51785 | Python | 2026-06-28 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 1 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-06-28 | Verifiable proof-of-efficiency compute credit for LLM spend — prove your inference savings instead of trusting a dashboa |
+| 2 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-28 | The opinionated workflow engine and governance layer for agent-driven software development. |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-28 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 51786 | Python | 2026-06-28 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 5 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-06-28 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
 | 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [BudEcosystem/simulator](https://github.com/BudEcosystem/simulator) | 1 | Python | 2026-06-28 | Decoder only, Encoder only, Diffusion model simulation for SLO, Memory, Infra calculations. For model inference and trai |
-| 8 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-06-28 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
-| 9 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-28 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
-| 10 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-28 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 11 | [HarperZ9/gather](https://github.com/HarperZ9/gather) | 1 | Python | 2026-06-28 | Accountable research intake for hard sources: adapters, receipts, digest seals, and MCP-ready provenance. |
-| 12 | [HarperZ9/forum](https://github.com/HarperZ9/forum) | 2 | Python | 2026-06-28 | Witnessed agent orchestration for Project Telos: routing, replayable ledgers, verifier records, and prose lanes. |
-| 13 | [HarperZ9/crucible](https://github.com/HarperZ9/crucible) | 1 | Python | 2026-06-28 | Measurement-backed claim evaluation for Project Telos: clean verifier packets and re-checkable MATCH/DRIFT/UNVERIFIABLE  |
-| 14 | [HarperZ9/index](https://github.com/HarperZ9/index) | 1 | Python | 2026-06-28 | Evidence-built workspace atlas for Project Telos: imports, docs, routers, and line-level dependency proof. |
-| 15 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-06-28 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
-| 16 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-28 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
-| 17 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 129 | Rust | 2026-06-28 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
-| 18 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-06-28 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
-| 19 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-28 | The opinionated workflow engine and governance layer for agent-driven software development. |
+| 7 | [runcycles/cycles-protocol](https://github.com/runcycles/cycles-protocol) | 3 | Python | 2026-06-28 | Open protocol for runtime budget and action authority over AI agents |
+| 8 | [BudEcosystem/simulator](https://github.com/BudEcosystem/simulator) | 1 | Python | 2026-06-28 | Decoder only, Encoder only, Diffusion model simulation for SLO, Memory, Infra calculations. For model inference and trai |
+| 9 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-06-28 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
+| 10 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-28 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
+| 11 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-28 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
+| 12 | [HarperZ9/gather](https://github.com/HarperZ9/gather) | 1 | Python | 2026-06-28 | Accountable research intake for hard sources: adapters, receipts, digest seals, and MCP-ready provenance. |
+| 13 | [HarperZ9/forum](https://github.com/HarperZ9/forum) | 2 | Python | 2026-06-28 | Witnessed agent orchestration for Project Telos: routing, replayable ledgers, verifier records, and prose lanes. |
+| 14 | [HarperZ9/crucible](https://github.com/HarperZ9/crucible) | 1 | Python | 2026-06-28 | Measurement-backed claim evaluation for Project Telos: clean verifier packets and re-checkable MATCH/DRIFT/UNVERIFIABLE  |
+| 15 | [HarperZ9/index](https://github.com/HarperZ9/index) | 1 | Python | 2026-06-28 | Evidence-built workspace atlas for Project Telos: imports, docs, routers, and line-level dependency proof. |
+| 16 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-06-28 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
+| 17 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-28 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
+| 18 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 129 | Rust | 2026-06-28 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
+| 19 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-06-28 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
 | 20 | [retardingforcerightbank635/dm-gateway-bot](https://github.com/retardingforcerightbank635/dm-gateway-bot) | 0 | Python | 2026-06-28 | Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k |
 | 21 | [harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent) | 0 | — | 2026-06-28 | Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules |
 | 22 | [wordenneapolitan768/llm-pricing](https://github.com/wordenneapolitan768/llm-pricing) | 1 | — | 2026-06-28 | Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards |
