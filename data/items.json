@@ -1,5 +1,77 @@
 [
   {
+    "description": "A durable agent runtime. A simple loop on top of a production core (resume, observe, guardrails, budgets, rollout, evals",
+    "id": "om-er/drangue",
+    "language": "Python",
+    "name": "om-er/drangue",
+    "stars": 3,
+    "updated_at": "2026-06-28T21:08:19Z",
+    "url": "https://github.com/om-er/drangue"
+  },
+  {
+    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
+    "id": "Karinaclastic11/Drip-Lite-Client",
+    "language": "\u2014",
+    "name": "Karinaclastic11/Drip-Lite-Client",
+    "stars": 0,
+    "updated_at": "2026-06-28T21:06:52Z",
+    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
+  },
+  {
+    "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
+    "id": "Arnab758/ai-gateway",
+    "language": "Go",
+    "name": "Arnab758/ai-gateway",
+    "stars": 7,
+    "updated_at": "2026-06-28T21:04:01Z",
+    "url": "https://github.com/Arnab758/ai-gateway"
+  },
+  {
+    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
+    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "language": "\u2014",
+    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "stars": 2,
+    "updated_at": "2026-06-28T21:01:38Z",
+    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-28T21:01:10Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Deterministic offline replay verifier for gateway-path evidence bundles.",
+    "id": "Rul1an/gateway-evidence-replay",
+    "language": "Rust",
+    "name": "Rul1an/gateway-evidence-replay",
+    "stars": 0,
+    "updated_at": "2026-06-28T21:01:03Z",
+    "url": "https://github.com/Rul1an/gateway-evidence-replay"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-06-28T21:00:45Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-28T21:00:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T20:57:36Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Deterministic offline replay verifier for gateway-path evidence bundles.",
-    "id": "Rul1an/gateway-evidence-replay",
-    "language": "Rust",
-    "name": "Rul1an/gateway-evidence-replay",
-    "stars": 0,
-    "updated_at": "2026-06-28T20:57:33Z",
-    "url": "https://github.com/Rul1an/gateway-evidence-replay"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -135,15 +198,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-28T20:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -151,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-06-28T20:45:00Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
-    "id": "Arnab758/ai-gateway",
-    "language": "Go",
-    "name": "Arnab758/ai-gateway",
-    "stars": 7,
-    "updated_at": "2026-06-28T20:40:55Z",
-    "url": "https://github.com/Arnab758/ai-gateway"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-28T20:17:10Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-06-28T20:16:33Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 45,
-    "updated_at": "2026-06-28T20:14:01Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-06-28T20:12:40Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-28T20:12:15Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-06-28T20:10:48Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
   }
 ]
