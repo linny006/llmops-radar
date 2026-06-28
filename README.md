@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-28 21:59 UTC
+> ⏰ Last updated: 2026-06-28 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [bilal0399/learn-agentic-ai](https://github.com/bilal0399/learn-agentic-ai) | 8 | — | 2026-06-28 | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent |
-| 2 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-06-28 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
-| 3 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 1 | TypeScript | 2026-06-28 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 4 | [HarperZ9/telos](https://github.com/HarperZ9/telos) | 1 | Python | 2026-06-28 | Project Telos creative and accountable AI engine: receipts, MCP, generative media, sound, typography, math demos, and ve |
-| 5 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-06-28 | Tamper-evident, stranger-verifiable receipts for LLM cost-savings — anyone can recompute your caching/routing savings ma |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [hensu-project/hensu](https://github.com/hensu-project/hensu) | 10 | Java | 2026-06-28 | Infrastructure-as-code for AI agent workflows |
-| 8 | [AaronFChristian/MetricMind](https://github.com/AaronFChristian/MetricMind) | 0 | Python | 2026-06-28 | Governed text-to-SQL analytics copilot. Claude-powered LangGraph agent scoped to certified dbt metrics. LLM cannot inven |
-| 9 | [usamaahmadkhan/ai-inference-primer](https://github.com/usamaahmadkhan/ai-inference-primer) | 0 | HCL | 2026-06-28 | A field guide for SREs stepping into AI infrastructure. vLLM, GPU on K8s, AWS AI stack, LLMOps, observability — with pro |
-| 10 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-06-28 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
-| 11 | [om-er/drangue](https://github.com/om-er/drangue) | 3 | Python | 2026-06-28 | A durable agent runtime. A simple loop on top of a production core (resume, observe, guardrails, budgets, rollout, evals |
-| 12 | [HarperZ9/forum](https://github.com/HarperZ9/forum) | 2 | Python | 2026-06-28 | Project Telos routing organ: agent lanes, durable ledgers, and human-readable prose for creative and accountable workflo |
-| 13 | [HarperZ9/gather](https://github.com/HarperZ9/gather) | 1 | Python | 2026-06-28 | Project Telos intake organ for AI workflows: source, media, research, and creative capture with provenance receipts. |
-| 14 | [HarperZ9/crucible](https://github.com/HarperZ9/crucible) | 1 | Python | 2026-06-28 | Project Telos verification organ: pressure-test claims, creative outputs, measurements, and agent actions into MATCH, DR |
-| 15 | [HarperZ9/index](https://github.com/HarperZ9/index) | 1 | Python | 2026-06-28 | Project Telos structure organ: map workspaces, codebases, assets, and dormant creative engines into reusable context. |
-| 16 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-28 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-28 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [bilal0399/learn-agentic-ai](https://github.com/bilal0399/learn-agentic-ai) | 8 | — | 2026-06-28 | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent |
+| 4 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-06-28 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
+| 5 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 1 | TypeScript | 2026-06-28 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 6 | [HarperZ9/telos](https://github.com/HarperZ9/telos) | 1 | Python | 2026-06-28 | Project Telos creative and accountable AI engine: receipts, MCP, generative media, sound, typography, math demos, and ve |
+| 7 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-06-28 | Tamper-evident, stranger-verifiable receipts for LLM cost-savings — anyone can recompute your caching/routing savings ma |
+| 8 | [hensu-project/hensu](https://github.com/hensu-project/hensu) | 10 | Java | 2026-06-28 | Infrastructure-as-code for AI agent workflows |
+| 9 | [AaronFChristian/MetricMind](https://github.com/AaronFChristian/MetricMind) | 0 | Python | 2026-06-28 | Governed text-to-SQL analytics copilot. Claude-powered LangGraph agent scoped to certified dbt metrics. LLM cannot inven |
+| 10 | [usamaahmadkhan/ai-inference-primer](https://github.com/usamaahmadkhan/ai-inference-primer) | 0 | HCL | 2026-06-28 | A field guide for SREs stepping into AI infrastructure. vLLM, GPU on K8s, AWS AI stack, LLMOps, observability — with pro |
+| 11 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-06-28 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
+| 12 | [om-er/drangue](https://github.com/om-er/drangue) | 3 | Python | 2026-06-28 | A durable agent runtime. A simple loop on top of a production core (resume, observe, guardrails, budgets, rollout, evals |
+| 13 | [HarperZ9/forum](https://github.com/HarperZ9/forum) | 2 | Python | 2026-06-28 | Project Telos routing organ: agent lanes, durable ledgers, and human-readable prose for creative and accountable workflo |
+| 14 | [HarperZ9/gather](https://github.com/HarperZ9/gather) | 1 | Python | 2026-06-28 | Project Telos intake organ for AI workflows: source, media, research, and creative capture with provenance receipts. |
+| 15 | [HarperZ9/crucible](https://github.com/HarperZ9/crucible) | 1 | Python | 2026-06-28 | Project Telos verification organ: pressure-test claims, creative outputs, measurements, and agent actions into MATCH, DR |
+| 16 | [HarperZ9/index](https://github.com/HarperZ9/index) | 1 | Python | 2026-06-28 | Project Telos structure organ: map workspaces, codebases, assets, and dormant creative engines into reusable context. |
 | 17 | [kirder24-code/ai-agent-manager](https://github.com/kirder24-code/ai-agent-manager) | 8 | JavaScript | 2026-06-28 | Proof gate for AI-generated code. Enforce mission budgets, allowed scope, and verification-integrity checks in CI. Fail  |
 | 18 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 0 | — | 2026-06-28 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
 | 19 | [Arnab758/ai-gateway](https://github.com/Arnab758/ai-gateway) | 7 | Go | 2026-06-28 | AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%. |
