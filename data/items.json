@@ -1,5 +1,77 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-28T02:10:41Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Witnessed agent orchestration for Project Telos: routing, replayable ledgers, verifier records, and prose lanes.",
+    "id": "HarperZ9/forum",
+    "language": "Python",
+    "name": "HarperZ9/forum",
+    "stars": 2,
+    "updated_at": "2026-06-28T02:09:13Z",
+    "url": "https://github.com/HarperZ9/forum"
+  },
+  {
+    "description": "Evidence-built workspace atlas for Project Telos: imports, docs, routers, and line-level dependency proof.",
+    "id": "HarperZ9/index",
+    "language": "Python",
+    "name": "HarperZ9/index",
+    "stars": 1,
+    "updated_at": "2026-06-28T02:09:13Z",
+    "url": "https://github.com/HarperZ9/index"
+  },
+  {
+    "description": "A model router for Claude Code \u2014 runs a cheap model by default and escalates to Opus only when the task earns it. Stop p",
+    "id": "Strategnik/overkill",
+    "language": "Python",
+    "name": "Strategnik/overkill",
+    "stars": 0,
+    "updated_at": "2026-06-28T02:07:08Z",
+    "url": "https://github.com/Strategnik/overkill"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-28T02:01:55Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-28T02:01:10Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-28T02:00:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
+    "id": "kensterinvest/tidus",
+    "language": "HTML",
+    "name": "kensterinvest/tidus",
+    "stars": 1,
+    "updated_at": "2026-06-28T02:00:21Z",
+    "url": "https://github.com/kensterinvest/tidus"
+  },
+  {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
     "id": "tmusser/ai-engineering-skills",
     "language": "Python",
@@ -9,6 +81,24 @@
     "url": "https://github.com/tmusser/ai-engineering-skills"
   },
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51786,
+    "updated_at": "2026-06-28T02:14:40Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
+    "id": "krishkumar4400/weights-to-prod",
+    "language": "Jupyter Notebook",
+    "name": "krishkumar4400/weights-to-prod",
+    "stars": 1,
+    "updated_at": "2026-06-28T01:56:38Z",
+    "url": "https://github.com/krishkumar4400/weights-to-prod"
+  },
+  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -16,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T01:49:34Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-28T01:48:38Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-28T01:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -70,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-28T01:35:30Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51787,
-    "updated_at": "2026-06-28T01:58:42Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
@@ -234,15 +297,6 @@
     "url": "https://github.com/HarperZ9/gather"
   },
   {
-    "description": "Witnessed agent orchestration for Project Telos: routing, replayable ledgers, verifier records, and prose lanes.",
-    "id": "HarperZ9/forum",
-    "language": "Python",
-    "name": "HarperZ9/forum",
-    "stars": 2,
-    "updated_at": "2026-06-28T00:33:49Z",
-    "url": "https://github.com/HarperZ9/forum"
-  },
-  {
     "description": "Measurement-backed claim evaluation for Project Telos: clean verifier packets and re-checkable MATCH/DRIFT/UNVERIFIABLE ",
     "id": "HarperZ9/crucible",
     "language": "Python",
@@ -250,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-06-28T00:33:49Z",
     "url": "https://github.com/HarperZ9/crucible"
-  },
-  {
-    "description": "Evidence-built workspace atlas for Project Telos: imports, docs, routers, and line-level dependency proof.",
-    "id": "HarperZ9/index",
-    "language": "Python",
-    "name": "HarperZ9/index",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:33:49Z",
-    "url": "https://github.com/HarperZ9/index"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-28T00:11:46Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:11:41Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:09:56Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:08:18Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:07:53Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:07:50Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
