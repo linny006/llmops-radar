@@ -1,5 +1,104 @@
 [
   {
+    "description": "Infrastructure-as-code for AI agent workflows",
+    "id": "hensu-project/hensu",
+    "language": "Java",
+    "name": "hensu-project/hensu",
+    "stars": 10,
+    "updated_at": "2026-06-28T21:44:33Z",
+    "url": "https://github.com/hensu-project/hensu"
+  },
+  {
+    "description": "Project Telos creative and accountable AI engine: receipts, MCP, generative media, sound, typography, math demos, and ve",
+    "id": "HarperZ9/telos",
+    "language": "Python",
+    "name": "HarperZ9/telos",
+    "stars": 1,
+    "updated_at": "2026-06-28T21:43:25Z",
+    "url": "https://github.com/HarperZ9/telos"
+  },
+  {
+    "description": "Governed text-to-SQL analytics copilot. Claude-powered LangGraph agent scoped to certified dbt metrics. LLM cannot inven",
+    "id": "AaronFChristian/MetricMind",
+    "language": "Python",
+    "name": "AaronFChristian/MetricMind",
+    "stars": 0,
+    "updated_at": "2026-06-28T21:39:24Z",
+    "url": "https://github.com/AaronFChristian/MetricMind"
+  },
+  {
+    "description": "A field guide for SREs stepping into AI infrastructure. vLLM, GPU on K8s, AWS AI stack, LLMOps, observability \u2014 with pro",
+    "id": "usamaahmadkhan/ai-inference-primer",
+    "language": "HCL",
+    "name": "usamaahmadkhan/ai-inference-primer",
+    "stars": 0,
+    "updated_at": "2026-06-28T21:35:06Z",
+    "url": "https://github.com/usamaahmadkhan/ai-inference-primer"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-06-28T21:44:35Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "A durable agent runtime. A simple loop on top of a production core (resume, observe, guardrails, budgets, rollout, evals",
+    "id": "om-er/drangue",
+    "language": "Python",
+    "name": "om-er/drangue",
+    "stars": 3,
+    "updated_at": "2026-06-28T21:31:19Z",
+    "url": "https://github.com/om-er/drangue"
+  },
+  {
+    "description": "Project Telos routing organ: agent lanes, durable ledgers, and human-readable prose for creative and accountable workflo",
+    "id": "HarperZ9/forum",
+    "language": "Python",
+    "name": "HarperZ9/forum",
+    "stars": 2,
+    "updated_at": "2026-06-28T21:31:18Z",
+    "url": "https://github.com/HarperZ9/forum"
+  },
+  {
+    "description": "Project Telos intake organ for AI workflows: source, media, research, and creative capture with provenance receipts.",
+    "id": "HarperZ9/gather",
+    "language": "Python",
+    "name": "HarperZ9/gather",
+    "stars": 1,
+    "updated_at": "2026-06-28T21:31:18Z",
+    "url": "https://github.com/HarperZ9/gather"
+  },
+  {
+    "description": "Project Telos verification organ: pressure-test claims, creative outputs, measurements, and agent actions into MATCH, DR",
+    "id": "HarperZ9/crucible",
+    "language": "Python",
+    "name": "HarperZ9/crucible",
+    "stars": 1,
+    "updated_at": "2026-06-28T21:31:18Z",
+    "url": "https://github.com/HarperZ9/crucible"
+  },
+  {
+    "description": "Project Telos structure organ: map workspaces, codebases, assets, and dormant creative engines into reusable context.",
+    "id": "HarperZ9/index",
+    "language": "Python",
+    "name": "HarperZ9/index",
+    "stars": 1,
+    "updated_at": "2026-06-28T21:31:18Z",
+    "url": "https://github.com/HarperZ9/index"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-28T21:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -16,33 +115,6 @@
     "stars": 8,
     "updated_at": "2026-06-28T21:29:17Z",
     "url": "https://github.com/kirder24-code/ai-agent-manager"
-  },
-  {
-    "description": "Project Telos creative and accountable AI engine: receipts, MCP, generative media, sound, typography, math demos, and ve",
-    "id": "HarperZ9/telos",
-    "language": "Python",
-    "name": "HarperZ9/telos",
-    "stars": 1,
-    "updated_at": "2026-06-28T21:23:35Z",
-    "url": "https://github.com/HarperZ9/telos"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-28T21:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "A durable agent runtime. A simple loop on top of a production core (resume, observe, guardrails, budgets, rollout, evals",
-    "id": "om-er/drangue",
-    "language": "Python",
-    "name": "om-er/drangue",
-    "stars": 3,
-    "updated_at": "2026-06-28T21:08:19Z",
-    "url": "https://github.com/om-er/drangue"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-28T20:55:28Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-06-28T21:16:04Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-28T20:27:00Z",
     "url": "https://github.com/affkoul/agentforge-runtime"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-28T20:26:25Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-28T20:26:25Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "A working reference for running AI agents with Kanban discipline. Operating model, knowledge system, persona files, and ",
-    "id": "AgileSmagile/smagile-agentic-kanban-blueprint",
-    "language": "JavaScript",
-    "name": "AgileSmagile/smagile-agentic-kanban-blueprint",
-    "stars": 4,
-    "updated_at": "2026-06-28T20:26:13Z",
-    "url": "https://github.com/AgileSmagile/smagile-agentic-kanban-blueprint"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-28T20:23:30Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-28T20:23:17Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
-    "id": "SemeAIPletinnya/semeai-gate-basic",
-    "language": "Python",
-    "name": "SemeAIPletinnya/semeai-gate-basic",
-    "stars": 1,
-    "updated_at": "2026-06-28T20:20:54Z",
-    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-28T20:17:10Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
