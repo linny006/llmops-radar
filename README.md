@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-28 12:00 UTC
+> ⏰ Last updated: 2026-06-28 12:08 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-28 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
-| 2 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-06-28 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
-| 3 | [Justin0504/federated-agent-audit](https://github.com/Justin0504/federated-agent-audit) | 3 | Python | 2026-06-28 | Privacy audit for multi-agent AI systems (CrewAI · LangGraph · AutoGen) — detect compositional data leaks without the ce |
-| 4 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-28 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
-| 5 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-06-28 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
-| 6 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-06-28 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
-| 7 | [SemeAIPletinnya/semeai-gate-basic](https://github.com/SemeAIPletinnya/semeai-gate-basic) | 1 | Python | 2026-06-28 | Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release |
-| 8 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-06-28 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
-| 9 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-28 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 10 | [srjn45/warden](https://github.com/srjn45/warden) | 1 | Go | 2026-06-28 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
-| 11 | [HarperZ9/telos](https://github.com/HarperZ9/telos) | 1 | — | 2026-06-28 | Project Telos membrane: reconcile Gather, Crucible, Index, and Forum into provider-neutral CLI, MCP, and app workflows. |
-| 12 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 2 | Jupyter Notebook | 2026-06-28 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
-| 13 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 14 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 5 | Python | 2026-06-28 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
-| 15 | [bilal0399/learn-agentic-ai](https://github.com/bilal0399/learn-agentic-ai) | 8 | — | 2026-06-28 | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent |
-| 16 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-06-28 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
-| 17 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6094 | Go | 2026-06-28 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 18 | [AkuchiS/AgentProof](https://github.com/AkuchiS/AgentProof) | 0 | Python | 2026-06-28 | Verifiable AI-build governance you run on yourself — four modules (autonomy gate, build discipline, model fitness, code  |
+| 1 | [SemeAIPletinnya/semeai-gate-basic](https://github.com/SemeAIPletinnya/semeai-gate-basic) | 1 | Python | 2026-06-28 | Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-28 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
+| 3 | [AkuchiS/AgentProof](https://github.com/AkuchiS/AgentProof) | 0 | Python | 2026-06-28 | Verifiable AI-build governance you run on yourself — four modules (autonomy gate, build discipline, model fitness, code  |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-06-28 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
+| 6 | [Justin0504/federated-agent-audit](https://github.com/Justin0504/federated-agent-audit) | 3 | Python | 2026-06-28 | Privacy audit for multi-agent AI systems (CrewAI · LangGraph · AutoGen) — detect compositional data leaks without the ce |
+| 7 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-06-28 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
+| 8 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-06-28 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
+| 9 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-06-28 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
+| 10 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-06-28 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
+| 11 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-28 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 12 | [srjn45/warden](https://github.com/srjn45/warden) | 1 | Go | 2026-06-28 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
+| 13 | [HarperZ9/telos](https://github.com/HarperZ9/telos) | 1 | — | 2026-06-28 | Project Telos membrane: reconcile Gather, Crucible, Index, and Forum into provider-neutral CLI, MCP, and app workflows. |
+| 14 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 2 | Jupyter Notebook | 2026-06-28 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
+| 15 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 5 | Python | 2026-06-28 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
+| 16 | [bilal0399/learn-agentic-ai](https://github.com/bilal0399/learn-agentic-ai) | 8 | — | 2026-06-28 | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent |
+| 17 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-06-28 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
+| 18 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6094 | Go | 2026-06-28 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 19 | [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) | 16 | Rust | 2026-06-28 | The open-source safety layer for AI agents — block unsafe tool calls, require approval, enforce budgets, audit, replay. |
 | 20 | [lizhuojunx86/traceguard](https://github.com/lizhuojunx86/traceguard) | 0 | Python | 2026-06-28 | Point-in-time correct LLM instrumentation — tracing, version pinning and look-ahead-bias protection for research pipelin |
 | 21 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-28 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |

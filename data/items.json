@@ -1,12 +1,39 @@
 [
   {
+    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
+    "id": "SemeAIPletinnya/semeai-gate-basic",
+    "language": "Python",
+    "name": "SemeAIPletinnya/semeai-gate-basic",
+    "stars": 1,
+    "updated_at": "2026-06-28T12:06:09Z",
+    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-28T12:00:07Z",
+    "updated_at": "2026-06-28T12:01:23Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Verifiable AI-build governance you run on yourself \u2014 four modules (autonomy gate, build discipline, model fitness, code ",
+    "id": "AkuchiS/AgentProof",
+    "language": "Python",
+    "name": "AkuchiS/AgentProof",
+    "stars": 0,
+    "updated_at": "2026-06-28T12:01:18Z",
+    "url": "https://github.com/AkuchiS/AgentProof"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-28T12:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -54,15 +81,6 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
-    "id": "SemeAIPletinnya/semeai-gate-basic",
-    "language": "Python",
-    "name": "SemeAIPletinnya/semeai-gate-basic",
-    "stars": 1,
-    "updated_at": "2026-06-28T11:53:30Z",
-    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
-  },
-  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -108,15 +126,6 @@
     "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-28T11:45:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -151,15 +160,6 @@
     "stars": 6094,
     "updated_at": "2026-06-28T11:59:27Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Verifiable AI-build governance you run on yourself \u2014 four modules (autonomy gate, build discipline, model fitness, code ",
-    "id": "AkuchiS/AgentProof",
-    "language": "Python",
-    "name": "AkuchiS/AgentProof",
-    "stars": 0,
-    "updated_at": "2026-06-28T11:24:00Z",
-    "url": "https://github.com/AkuchiS/AgentProof"
   },
   {
     "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "traceloop/openllmetry",
     "stars": 7241,
-    "updated_at": "2026-06-28T11:26:50Z",
+    "updated_at": "2026-06-28T12:05:57Z",
     "url": "https://github.com/traceloop/openllmetry"
   },
   {
