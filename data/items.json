@@ -1,12 +1,66 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-28T01:30:10Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-06-28T01:28:50Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
     "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
     "id": "thequantumfalcon/kry",
     "language": "Python",
     "name": "thequantumfalcon/kry",
     "stars": 1,
-    "updated_at": "2026-06-28T01:10:45Z",
+    "updated_at": "2026-06-28T01:24:54Z",
     "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-28T01:22:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 106,
+    "updated_at": "2026-06-28T01:19:46Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "Self-hostable, OpenRouter-backed AI gateway for Laravel \u2014 versioned prompts, telemetry, rate & cost limiting, a Sanctum ",
+    "id": "andrecorugda/ai-openrouter-gateway",
+    "language": "PHP",
+    "name": "andrecorugda/ai-openrouter-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-28T01:16:02Z",
+    "url": "https://github.com/andrecorugda/ai-openrouter-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-28T01:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -18,15 +72,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-28T01:05:59Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -34,24 +79,6 @@
     "stars": 51786,
     "updated_at": "2026-06-28T01:04:23Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-06-28T01:04:05Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-28T01:00:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open protocol for runtime budget and action authority over AI agents",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-28T00:01:15Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-27T23:58:30Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-27T23:58:11Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-27T23:52:08Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
