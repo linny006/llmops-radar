@@ -1,5 +1,104 @@
 [
   {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-06-28T23:12:39Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-28T23:12:36Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-06-28T23:12:35Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-06-28T23:10:37Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-06-28T23:09:59Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-06-28T23:09:38Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-06-28T23:03:49Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 1,
+    "updated_at": "2026-06-28T23:03:10Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-06-28T23:10:08Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-28T23:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Route each AI agent turn to the cheapest capable model (Claude Code, Hermes, OpenClaw, OpenAI, local) - with telemetry t",
+    "id": "carlstpierre/adaptive-model-router",
+    "language": "Python",
+    "name": "carlstpierre/adaptive-model-router",
+    "stars": 0,
+    "updated_at": "2026-06-28T23:00:23Z",
+    "url": "https://github.com/carlstpierre/adaptive-model-router"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -131,7 +230,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 1,
-    "updated_at": "2026-06-28T23:00:12Z",
+    "updated_at": "2026-06-28T23:02:47Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -169,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-06-28T22:46:34Z",
     "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-28T22:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
@@ -310,7 +400,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22691,
+    "stars": 22692,
     "updated_at": "2026-06-28T22:08:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -342,15 +432,6 @@
     "url": "https://github.com/HarperZ9/crucible"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-28T22:03:33Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
     "id": "Lo3okSky/LLM_course",
     "language": "Jupyter Notebook",
@@ -367,86 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-28T22:01:10Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-28T22:01:02Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-28T22:00:40Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-06-28T21:59:02Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-06-28T21:58:06Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 1,
-    "updated_at": "2026-06-28T21:52:11Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-06-28T22:42:54Z",
-    "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "Infrastructure-as-code for AI agent workflows",
-    "id": "hensu-project/hensu",
-    "language": "Java",
-    "name": "hensu-project/hensu",
-    "stars": 10,
-    "updated_at": "2026-06-28T21:44:33Z",
-    "url": "https://github.com/hensu-project/hensu"
-  },
-  {
-    "description": "Governed text-to-SQL analytics copilot. Claude-powered LangGraph agent scoped to certified dbt metrics. LLM cannot inven",
-    "id": "AaronFChristian/MetricMind",
-    "language": "Python",
-    "name": "AaronFChristian/MetricMind",
-    "stars": 0,
-    "updated_at": "2026-06-28T21:39:24Z",
-    "url": "https://github.com/AaronFChristian/MetricMind"
-  },
-  {
-    "description": "A field guide for SREs stepping into AI infrastructure. vLLM, GPU on K8s, AWS AI stack, LLMOps, observability \u2014 with pro",
-    "id": "usamaahmadkhan/ai-inference-primer",
-    "language": "HCL",
-    "name": "usamaahmadkhan/ai-inference-primer",
-    "stars": 0,
-    "updated_at": "2026-06-28T21:35:06Z",
-    "url": "https://github.com/usamaahmadkhan/ai-inference-primer"
   }
 ]
