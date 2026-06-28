@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-28 11:15 UTC
+> ⏰ Last updated: 2026-06-28 11:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,14 +43,14 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-28 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
-| 2 | [SemeAIPletinnya/semeai-gate-basic](https://github.com/SemeAIPletinnya/semeai-gate-basic) | 1 | Python | 2026-06-28 | Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release |
-| 3 | [AkuchiS/agentproof](https://github.com/AkuchiS/agentproof) | 0 | Python | 2026-06-28 | Verifiable AI-build governance you run on yourself — four modules (autonomy gate, build discipline, model fitness, code  |
-| 4 | [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) | 16 | Rust | 2026-06-28 | The open-source safety layer for AI agents — block unsafe tool calls, require approval, enforce budgets, audit, replay. |
-| 5 | [lizhuojunx86/traceguard](https://github.com/lizhuojunx86/traceguard) | 0 | Python | 2026-06-28 | Point-in-time correct LLM instrumentation — tracing, version pinning and look-ahead-bias protection for research pipelin |
-| 6 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-28 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 7 | [caihongfairys/QMP-Dynamic-Anchors](https://github.com/caihongfairys/QMP-Dynamic-Anchors) | 2 | JavaScript | 2026-06-28 | Forging a minimalist universal language for AI, unconditionally eradicating hallucinations and automating Agent Swarm in |
-| 8 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-28 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [AkuchiS/agentproof](https://github.com/AkuchiS/agentproof) | 0 | Python | 2026-06-28 | Verifiable AI-build governance you run on yourself — four modules (autonomy gate, build discipline, model fitness, code  |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [SemeAIPletinnya/semeai-gate-basic](https://github.com/SemeAIPletinnya/semeai-gate-basic) | 1 | Python | 2026-06-28 | Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release |
+| 5 | [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) | 16 | Rust | 2026-06-28 | The open-source safety layer for AI agents — block unsafe tool calls, require approval, enforce budgets, audit, replay. |
+| 6 | [lizhuojunx86/traceguard](https://github.com/lizhuojunx86/traceguard) | 0 | Python | 2026-06-28 | Point-in-time correct LLM instrumentation — tracing, version pinning and look-ahead-bias protection for research pipelin |
+| 7 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-06-28 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 8 | [caihongfairys/QMP-Dynamic-Anchors](https://github.com/caihongfairys/QMP-Dynamic-Anchors) | 2 | JavaScript | 2026-06-28 | Forging a minimalist universal language for AI, unconditionally eradicating hallucinations and automating Agent Swarm in |
+| 9 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-28 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 10 | [traceloop/openllmetry](https://github.com/traceloop/openllmetry) | 7241 | Python | 2026-06-28 | Open-source observability for your GenAI or LLM application, based on OpenTelemetry |
 | 11 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6093 | Go | 2026-06-28 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 12 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-06-28 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
