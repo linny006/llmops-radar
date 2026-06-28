@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-28 06:15 UTC
+> ⏰ Last updated: 2026-06-28 06:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-06-28 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
+| 1 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6090 | Go | 2026-06-28 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 4 | Go | 2026-06-28 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
 | 3 | [wuisabel-gif/Joule](https://github.com/wuisabel-gif/Joule) | 0 | Rust | 2026-06-28 | Energy-aware optimization middleware for LLM inference — measures the joules, CO₂, and cost of every request, then optim |
-| 4 | [caiohome/awesome-caio](https://github.com/caiohome/awesome-caio) | 0 | Python | 2026-06-28 | 🧭 Awesome Enterprise AI — the CAIO list. An adoption-first index of open-source AI for the enterprise (license · maturit |
-| 5 | [Justin0504/federated-agent-audit](https://github.com/Justin0504/federated-agent-audit) | 3 | Python | 2026-06-28 | Privacy audit for multi-agent AI systems (CrewAI · LangGraph · AutoGen) — detect compositional data leaks without the ce |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6090 | Go | 2026-06-28 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-06-28 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
+| 6 | [caiohome/awesome-caio](https://github.com/caiohome/awesome-caio) | 0 | Python | 2026-06-28 | 🧭 Awesome Enterprise AI — the CAIO list. An adoption-first index of open-source AI for the enterprise (license · maturit |
+| 7 | [Justin0504/federated-agent-audit](https://github.com/Justin0504/federated-agent-audit) | 3 | Python | 2026-06-28 | Privacy audit for multi-agent AI systems (CrewAI · LangGraph · AutoGen) — detect compositional data leaks without the ce |
 | 8 | [gregoryhorn/hermes-loop-engineering](https://github.com/gregoryhorn/hermes-loop-engineering) | 0 | Python | 2026-06-28 | Hermes Agent starter kit for safe scheduled, stateful AI-agent loops |
 | 9 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 0 | — | 2026-06-28 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
 | 10 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-06-28 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
