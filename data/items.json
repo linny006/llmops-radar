@@ -1,12 +1,12 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-28T17:00:13Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "The open-source control plane for shared AI agents",
+    "id": "p1c2u/openloop",
+    "language": "Python",
+    "name": "p1c2u/openloop",
+    "stars": 0,
+    "updated_at": "2026-06-28T17:13:38Z",
+    "url": "https://github.com/p1c2u/openloop"
   },
   {
     "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
@@ -14,8 +14,134 @@
     "language": "Go",
     "name": "Arnab758/ai-gateway",
     "stars": 7,
-    "updated_at": "2026-06-28T16:59:01Z",
+    "updated_at": "2026-06-28T17:13:05Z",
     "url": "https://github.com/Arnab758/ai-gateway"
+  },
+  {
+    "description": "CCDD \u2014 Context Contract-Driven Development: metodolog\u00eda para agentes de IA confiables que trata el contexto del LLM como",
+    "id": "MauricioPerera/ccdd",
+    "language": "Python",
+    "name": "MauricioPerera/ccdd",
+    "stars": 0,
+    "updated_at": "2026-06-28T17:11:47Z",
+    "url": "https://github.com/MauricioPerera/ccdd"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-28T17:11:44Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-28T17:11:32Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-28T17:11:00Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-28T17:10:52Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-28T17:10:07Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
+    "id": "acornops/execution-engine",
+    "language": "Python",
+    "name": "acornops/execution-engine",
+    "stars": 0,
+    "updated_at": "2026-06-28T17:10:07Z",
+    "url": "https://github.com/acornops/execution-engine"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 1,
+    "updated_at": "2026-06-28T17:10:06Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 1,
+    "updated_at": "2026-06-28T17:08:56Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-28T17:05:07Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-06-28T17:04:27Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-06-28T17:03:46Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-06-28T17:00:48Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-28T17:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -25,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-06-28T16:56:06Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-28T16:55:25Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -72,15 +189,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-28T16:48:14Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
     "id": "EffortlessMetrics/tokmd",
     "language": "Rust",
@@ -99,15 +207,6 @@
     "url": "https://github.com/acornops/control-plane"
   },
   {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 1,
-    "updated_at": "2026-06-28T16:48:41Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
     "description": "Multi-repository workspace harness for AcornOps development, validation and contracts.",
     "id": "acornops/acornops-workspace",
     "language": "JavaScript",
@@ -115,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T16:42:24Z",
     "url": "https://github.com/acornops/acornops-workspace"
-  },
-  {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-28T16:49:13Z",
-    "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
-    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
-    "id": "acornops/execution-engine",
-    "language": "Python",
-    "name": "acornops/execution-engine",
-    "stars": 0,
-    "updated_at": "2026-06-28T16:41:29Z",
-    "url": "https://github.com/acornops/execution-engine"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -167,7 +248,7 @@
     "language": "Rust",
     "name": "jamjet-labs/jamjet",
     "stars": 17,
-    "updated_at": "2026-06-28T16:20:26Z",
+    "updated_at": "2026-06-28T17:13:17Z",
     "url": "https://github.com/jamjet-labs/jamjet"
   },
   {
@@ -187,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T16:17:26Z",
     "url": "https://github.com/cognis-digital/promptpack"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-28T16:16:23Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Framework-free, horizontally-autoscaled multi-agent deep-research engine. Own the loop, not the framework.",
@@ -223,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T16:09:02Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "p1c2u/openloop",
-    "language": "Python",
-    "name": "p1c2u/openloop",
-    "stars": 0,
-    "updated_at": "2026-06-28T16:06:08Z",
-    "url": "https://github.com/p1c2u/openloop"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-28T15:29:38Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-28T15:29:37Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-28T15:29:07Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-client-rust",
-    "language": "Rust",
-    "name": "runcycles/cycles-client-rust",
-    "stars": 1,
-    "updated_at": "2026-06-28T15:28:30Z",
-    "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-28T15:27:44Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-06-28T15:27:08Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-28T15:26:58Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Personal learning repository focused on the intersection of Cybersecurity and Artificial Intelligence, especially LLM Se",
-    "id": "lameiro0x/cyber-ai-security-notes",
-    "language": "\u2014",
-    "name": "lameiro0x/cyber-ai-security-notes",
-    "stars": 0,
-    "updated_at": "2026-06-28T15:26:09Z",
-    "url": "https://github.com/lameiro0x/cyber-ai-security-notes"
   }
 ]
