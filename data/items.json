@@ -5,8 +5,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-28T16:15:11Z",
+    "updated_at": "2026-06-28T16:27:58Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-28T16:25:37Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 5",
+    "id": "xorbitsai/xrouter-llm",
+    "language": "Python",
+    "name": "xorbitsai/xrouter-llm",
+    "stars": 27,
+    "updated_at": "2026-06-28T16:26:30Z",
+    "url": "https://github.com/xorbitsai/xrouter-llm"
+  },
+  {
+    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
+    "id": "SemeAIPletinnya/semeai-gate-basic",
+    "language": "Python",
+    "name": "SemeAIPletinnya/semeai-gate-basic",
+    "stars": 1,
+    "updated_at": "2026-06-28T16:24:07Z",
+    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
   },
   {
     "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
@@ -14,8 +41,62 @@
     "language": "Go",
     "name": "Arnab758/ai-gateway",
     "stars": 7,
-    "updated_at": "2026-06-28T16:14:25Z",
+    "updated_at": "2026-06-28T16:22:55Z",
     "url": "https://github.com/Arnab758/ai-gateway"
+  },
+  {
+    "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
+    "id": "jamjet-labs/jamjet",
+    "language": "Rust",
+    "name": "jamjet-labs/jamjet",
+    "stars": 17,
+    "updated_at": "2026-06-28T16:20:26Z",
+    "url": "https://github.com/jamjet-labs/jamjet"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-06-28T16:17:30Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Versioned prompt / template registry with A/B and rollbacks",
+    "id": "cognis-digital/promptpack",
+    "language": "Python",
+    "name": "cognis-digital/promptpack",
+    "stars": 0,
+    "updated_at": "2026-06-28T16:17:26Z",
+    "url": "https://github.com/cognis-digital/promptpack"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-28T16:16:23Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Framework-free, horizontally-autoscaled multi-agent deep-research engine. Own the loop, not the framework.",
+    "id": "subratamondal1/argus",
+    "language": "Python",
+    "name": "subratamondal1/argus",
+    "stars": 1,
+    "updated_at": "2026-06-28T16:15:51Z",
+    "url": "https://github.com/subratamondal1/argus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-28T16:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Verifiable proof-of-efficiency compute credit for LLM spend \u2014 prove your inference savings instead of trusting a dashboa",
@@ -27,15 +108,6 @@
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 1,
-    "updated_at": "2026-06-28T16:11:33Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Project Telos membrane: reconcile Gather, Crucible, Index, and Forum into provider-neutral CLI, MCP, and app workflows.",
     "id": "HarperZ9/telos",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-28T16:11:26Z",
     "url": "https://github.com/HarperZ9/telos"
-  },
-  {
-    "description": "Framework-free, horizontally-autoscaled multi-agent deep-research engine. Own the loop, not the framework.",
-    "id": "subratamondal1/argus",
-    "language": "Python",
-    "name": "subratamondal1/argus",
-    "stars": 1,
-    "updated_at": "2026-06-28T16:11:01Z",
-    "url": "https://github.com/subratamondal1/argus"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -72,15 +135,6 @@
     "url": "https://github.com/p1c2u/openloop"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-28T16:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -90,13 +144,13 @@
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-28T15:55:48Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10306,
+    "updated_at": "2026-06-28T15:54:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -158,7 +212,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-06-28T16:01:05Z",
+    "updated_at": "2026-06-28T16:28:14Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-28T15:17:58Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-28T15:17:38Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-28T15:16:12Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-28T15:16:11Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 10,
-    "updated_at": "2026-06-28T15:16:10Z",
-    "url": "https://github.com/ndom91/llama-dash"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-28T15:15:25Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\u73af\u6e38\u4e16\u754c\u65c5\u6e38\uff0c\u521b\u4e1a\u505a AI \u4ea7\u54c1\uff0c\u4e00\u79cd\u6bd4\u8f83\u65b0\u7684\u65b9\u5f0f\u548c\u7406\u5ff5\u751f\u6d3b\u521b\u4e1a\uff0c\u6b22\u8fce\u8ba2\u9605 RSS  https://nsddd.top/zh/index.xml",
-    "id": "cubxxw/blog",
-    "language": "HTML",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-06-28T15:15:14Z",
-    "url": "https://github.com/cubxxw/blog"
   }
 ]
