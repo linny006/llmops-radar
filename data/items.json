@@ -1,5 +1,68 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 6,
+    "updated_at": "2026-06-29T22:18:36Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
+    "id": "Orlyoxidized462/py-prompt-versioner",
+    "language": "Python",
+    "name": "Orlyoxidized462/py-prompt-versioner",
+    "stars": 1,
+    "updated_at": "2026-06-29T22:17:09Z",
+    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
+  },
+  {
+    "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
+    "id": "mholovetskyi/cliche",
+    "language": "Go",
+    "name": "mholovetskyi/cliche",
+    "stars": 0,
+    "updated_at": "2026-06-29T22:16:12Z",
+    "url": "https://github.com/mholovetskyi/cliche"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 143,
+    "updated_at": "2026-06-29T22:18:08Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
+    "id": "Impure-platen433/crabllm",
+    "language": "Rust",
+    "name": "Impure-platen433/crabllm",
+    "stars": 0,
+    "updated_at": "2026-06-29T22:15:35Z",
+    "url": "https://github.com/Impure-platen433/crabllm"
+  },
+  {
+    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
+    "id": "recordrnase224/brix-protocol",
+    "language": "Python",
+    "name": "recordrnase224/brix-protocol",
+    "stars": 1,
+    "updated_at": "2026-06-29T22:15:33Z",
+    "url": "https://github.com/recordrnase224/brix-protocol"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-29T22:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
     "id": "Citrous-districtline59/agent-trace",
     "language": "Python",
@@ -7,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T22:14:55Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 6,
-    "updated_at": "2026-06-29T22:14:15Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -198,15 +252,6 @@
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-29T22:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
     "id": "FawwazAzka/openclaw-docs",
     "language": "JavaScript",
@@ -241,15 +286,6 @@
     "stars": 30059,
     "updated_at": "2026-06-29T22:14:33Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
-    "id": "mholovetskyi/cliche",
-    "language": "Go",
-    "name": "mholovetskyi/cliche",
-    "stars": 0,
-    "updated_at": "2026-06-29T21:55:28Z",
-    "url": "https://github.com/mholovetskyi/cliche"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 52033,
-    "updated_at": "2026-06-29T22:06:01Z",
+    "updated_at": "2026-06-29T22:19:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10329,
-    "updated_at": "2026-06-29T22:09:25Z",
+    "updated_at": "2026-06-29T22:18:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-29T21:36:35Z",
     "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-06-29T21:36:12Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 1,
-    "updated_at": "2026-06-29T21:35:45Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-06-29T21:31:46Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Coordinate multi-agent work with ledgers that preserve plans, evidence, results, and resumable handoffs.",
-    "id": "HarperZ9/forum",
-    "language": "Python",
-    "name": "HarperZ9/forum",
-    "stars": 2,
-    "updated_at": "2026-06-29T21:29:30Z",
-    "url": "https://github.com/HarperZ9/forum"
   }
 ]
