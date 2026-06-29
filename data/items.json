@@ -1,5 +1,113 @@
 [
   {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 1,
+    "updated_at": "2026-06-29T07:14:50Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Project Telos routing organ: agent lanes, durable ledgers, and human-readable prose for creative and accountable workflo",
+    "id": "HarperZ9/forum",
+    "language": "Python",
+    "name": "HarperZ9/forum",
+    "stars": 2,
+    "updated_at": "2026-06-29T07:14:44Z",
+    "url": "https://github.com/HarperZ9/forum"
+  },
+  {
+    "description": "Project Telos verification organ: pressure-test claims, creative outputs, measurements, and agent actions into MATCH, DR",
+    "id": "HarperZ9/crucible",
+    "language": "Python",
+    "name": "HarperZ9/crucible",
+    "stars": 1,
+    "updated_at": "2026-06-29T07:14:44Z",
+    "url": "https://github.com/HarperZ9/crucible"
+  },
+  {
+    "description": "Project Telos structure organ: map workspaces, codebases, assets, and dormant creative engines into reusable context.",
+    "id": "HarperZ9/index",
+    "language": "Python",
+    "name": "HarperZ9/index",
+    "stars": 1,
+    "updated_at": "2026-06-29T07:14:44Z",
+    "url": "https://github.com/HarperZ9/index"
+  },
+  {
+    "description": "Project Telos creative and accountable AI engine: receipts, MCP, generative media, sound, typography, math demos, and ve",
+    "id": "HarperZ9/telos",
+    "language": "Python",
+    "name": "HarperZ9/telos",
+    "stars": 1,
+    "updated_at": "2026-06-29T07:14:44Z",
+    "url": "https://github.com/HarperZ9/telos"
+  },
+  {
+    "description": "Project Telos intake organ for AI workflows: source, media, research, and creative capture with provenance receipts.",
+    "id": "HarperZ9/gather",
+    "language": "Python",
+    "name": "HarperZ9/gather",
+    "stars": 1,
+    "updated_at": "2026-06-29T07:14:43Z",
+    "url": "https://github.com/HarperZ9/gather"
+  },
+  {
+    "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
+    "id": "neurarch-ai/awesome-llm-system-design",
+    "language": "\u2014",
+    "name": "neurarch-ai/awesome-llm-system-design",
+    "stars": 0,
+    "updated_at": "2026-06-29T07:09:43Z",
+    "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-29T07:09:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
+    "id": "SemeAIPletinnya/semeai-gate-basic",
+    "language": "Python",
+    "name": "SemeAIPletinnya/semeai-gate-basic",
+    "stars": 1,
+    "updated_at": "2026-06-29T07:08:04Z",
+    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
+  },
+  {
+    "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
+    "id": "Arnab758/ai-gateway",
+    "language": "Go",
+    "name": "Arnab758/ai-gateway",
+    "stars": 7,
+    "updated_at": "2026-06-29T07:06:23Z",
+    "url": "https://github.com/Arnab758/ai-gateway"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2310,
+    "updated_at": "2026-06-29T07:05:47Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-29T07:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -22,27 +130,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51925,
+    "stars": 51927,
     "updated_at": "2026-06-29T06:54:25Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
-    "id": "SemeAIPletinnya/semeai-gate-basic",
-    "language": "Python",
-    "name": "SemeAIPletinnya/semeai-gate-basic",
-    "stars": 1,
-    "updated_at": "2026-06-29T06:53:17Z",
-    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-29T06:52:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -68,7 +158,7 @@
     "language": "Go",
     "name": "BaizeAI/kcover",
     "stars": 35,
-    "updated_at": "2026-06-29T07:00:14Z",
+    "updated_at": "2026-06-29T07:01:23Z",
     "url": "https://github.com/BaizeAI/kcover"
   },
   {
@@ -81,15 +171,6 @@
     "url": "https://github.com/Albin-Jo/PromptForge"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-29T06:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI pipeline for EU corporate greenwashing monitoring. 7 agents (LangGraph + Anthropic SDK) score green claims against 17",
     "id": "MartinBlomqvistDev/prasine-index",
     "language": "Python",
@@ -97,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T06:43:43Z",
     "url": "https://github.com/MartinBlomqvistDev/prasine-index"
-  },
-  {
-    "description": "Project Telos creative and accountable AI engine: receipts, MCP, generative media, sound, typography, math demos, and ve",
-    "id": "HarperZ9/telos",
-    "language": "Python",
-    "name": "HarperZ9/telos",
-    "stars": 1,
-    "updated_at": "2026-06-29T06:43:27Z",
-    "url": "https://github.com/HarperZ9/telos"
-  },
-  {
-    "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
-    "id": "Arnab758/ai-gateway",
-    "language": "Go",
-    "name": "Arnab758/ai-gateway",
-    "stars": 7,
-    "updated_at": "2026-06-29T06:41:29Z",
-    "url": "https://github.com/Arnab758/ai-gateway"
   },
   {
     "description": "Open-source AI gateway to route, observe, and govern every LLM call from a single endpoint.",
@@ -142,15 +205,6 @@
     "stars": 26,
     "updated_at": "2026-06-29T06:27:53Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2310,
-    "updated_at": "2026-06-29T06:27:18Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
@@ -229,7 +283,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29999,
+    "stars": 30001,
     "updated_at": "2026-06-29T06:05:18Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -268,51 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T05:49:11Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Project Telos routing organ: agent lanes, durable ledgers, and human-readable prose for creative and accountable workflo",
-    "id": "HarperZ9/forum",
-    "language": "Python",
-    "name": "HarperZ9/forum",
-    "stars": 2,
-    "updated_at": "2026-06-29T05:45:05Z",
-    "url": "https://github.com/HarperZ9/forum"
-  },
-  {
-    "description": "Project Telos intake organ for AI workflows: source, media, research, and creative capture with provenance receipts.",
-    "id": "HarperZ9/gather",
-    "language": "Python",
-    "name": "HarperZ9/gather",
-    "stars": 1,
-    "updated_at": "2026-06-29T05:45:05Z",
-    "url": "https://github.com/HarperZ9/gather"
-  },
-  {
-    "description": "Project Telos verification organ: pressure-test claims, creative outputs, measurements, and agent actions into MATCH, DR",
-    "id": "HarperZ9/crucible",
-    "language": "Python",
-    "name": "HarperZ9/crucible",
-    "stars": 1,
-    "updated_at": "2026-06-29T05:45:05Z",
-    "url": "https://github.com/HarperZ9/crucible"
-  },
-  {
-    "description": "Project Telos structure organ: map workspaces, codebases, assets, and dormant creative engines into reusable context.",
-    "id": "HarperZ9/index",
-    "language": "Python",
-    "name": "HarperZ9/index",
-    "stars": 1,
-    "updated_at": "2026-06-29T05:45:05Z",
-    "url": "https://github.com/HarperZ9/index"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 1,
-    "updated_at": "2026-06-29T06:58:34Z",
-    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-29T05:06:21Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6111,
-    "updated_at": "2026-06-29T07:00:05Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
