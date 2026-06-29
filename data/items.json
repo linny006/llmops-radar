@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-06-29T05:10:12Z",
-    "url": "https://github.com/vivek-541/vivek-541"
+    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
+    "id": "marcusschiesser/agentpond",
+    "language": "TypeScript",
+    "name": "marcusschiesser/agentpond",
+    "stars": 5,
+    "updated_at": "2026-06-29T05:14:31Z",
+    "url": "https://github.com/marcusschiesser/agentpond"
+  },
+  {
+    "description": "Project Telos creative and accountable AI engine: receipts, MCP, generative media, sound, typography, math demos, and ve",
+    "id": "HarperZ9/telos",
+    "language": "Python",
+    "name": "HarperZ9/telos",
+    "stars": 1,
+    "updated_at": "2026-06-29T05:13:42Z",
+    "url": "https://github.com/HarperZ9/telos"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
@@ -14,8 +23,44 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 4,
-    "updated_at": "2026-06-29T05:10:07Z",
+    "updated_at": "2026-06-29T05:13:19Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-06-29T05:13:10Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
+    "id": "golikovichev/pytest-resilience-agent",
+    "language": "Python",
+    "name": "golikovichev/pytest-resilience-agent",
+    "stars": 0,
+    "updated_at": "2026-06-29T05:14:19Z",
+    "url": "https://github.com/golikovichev/pytest-resilience-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-29T05:10:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-06-29T05:10:12Z",
+    "url": "https://github.com/vivek-541/vivek-541"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -61,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-29T05:03:19Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
-    "id": "marcusschiesser/agentpond",
-    "language": "TypeScript",
-    "name": "marcusschiesser/agentpond",
-    "stars": 5,
-    "updated_at": "2026-06-29T05:03:26Z",
-    "url": "https://github.com/marcusschiesser/agentpond"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-29T05:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI gateway to route, observe, and govern every LLM call from a single endpoint.",
@@ -391,7 +418,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51905,
+    "stars": 51906,
     "updated_at": "2026-06-29T04:10:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -421,32 +448,5 @@
     "stars": 17,
     "updated_at": "2026-06-29T04:09:28Z",
     "url": "https://github.com/jamjet-labs/jamjet"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22705,
-    "updated_at": "2026-06-29T04:08:56Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-06-29T04:08:10Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-29T04:07:23Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
   }
 ]
