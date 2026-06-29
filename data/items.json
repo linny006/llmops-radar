@@ -5,8 +5,71 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 5,
-    "updated_at": "2026-06-29T20:00:06Z",
+    "updated_at": "2026-06-29T20:15:06Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-06-29T20:13:33Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-29T20:13:17Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AI pipeline for EU corporate greenwashing monitoring. 7 agents (LangGraph + Anthropic SDK) score green claims against 17",
+    "id": "MartinBlomqvistDev/prasine-index",
+    "language": "Python",
+    "name": "MartinBlomqvistDev/prasine-index",
+    "stars": 0,
+    "updated_at": "2026-06-29T20:09:31Z",
+    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3315,
+    "updated_at": "2026-06-29T20:14:07Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Run one prompt across multiple LLMs side-by-side and score outputs against a weighted rubric.",
+    "id": "jakob-prince/llm-eval-playground",
+    "language": "Python",
+    "name": "jakob-prince/llm-eval-playground",
+    "stars": 0,
+    "updated_at": "2026-06-29T20:05:37Z",
+    "url": "https://github.com/jakob-prince/llm-eval-playground"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-29T20:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6122,
+    "updated_at": "2026-06-29T19:59:52Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -63,31 +126,13 @@
     "url": "https://github.com/akinekim529/contextOS"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-29T19:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 52028,
-    "updated_at": "2026-06-29T19:58:51Z",
+    "updated_at": "2026-06-29T20:13:55Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI pipeline for EU corporate greenwashing monitoring. 7 agents (LangGraph + Anthropic SDK) score green claims against 17",
-    "id": "MartinBlomqvistDev/prasine-index",
-    "language": "Python",
-    "name": "MartinBlomqvistDev/prasine-index",
-    "stars": 0,
-    "updated_at": "2026-06-29T19:44:00Z",
-    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -95,17 +140,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10327,
-    "updated_at": "2026-06-29T19:59:36Z",
+    "updated_at": "2026-06-29T20:14:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Run one prompt across multiple LLMs side-by-side and score outputs against a weighted rubric.",
-    "id": "jakob-prince/llm-eval-playground",
-    "language": "Python",
-    "name": "jakob-prince/llm-eval-playground",
-    "stars": 0,
-    "updated_at": "2026-06-29T19:35:42Z",
-    "url": "https://github.com/jakob-prince/llm-eval-playground"
   },
   {
     "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30057,
-    "updated_at": "2026-06-29T19:20:48Z",
+    "updated_at": "2026-06-29T20:05:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -157,18 +193,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20013,
-    "updated_at": "2026-06-29T19:12:55Z",
+    "stars": 20014,
+    "updated_at": "2026-06-29T20:07:55Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6121,
-    "updated_at": "2026-06-29T19:59:52Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T18:21:13Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 373,
-    "updated_at": "2026-06-29T18:20:57Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-06-29T18:19:01Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
-    "id": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "language": "HTML",
-    "name": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "stars": 1,
-    "updated_at": "2026-06-29T18:18:38Z",
-    "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
   }
 ]
