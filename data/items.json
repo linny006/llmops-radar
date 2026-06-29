@@ -1,21 +1,57 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26773,
+    "updated_at": "2026-06-29T14:37:39Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2562,
+    "updated_at": "2026-06-29T14:34:36Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 135,
+    "updated_at": "2026-06-29T14:34:10Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10321,
-    "updated_at": "2026-06-29T14:30:18Z",
+    "updated_at": "2026-06-29T14:31:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "AI pipeline for EU corporate greenwashing monitoring. 7 agents (LangGraph + Anthropic SDK) score green claims against 17",
-    "id": "MartinBlomqvistDev/prasine-index",
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
-    "name": "MartinBlomqvistDev/prasine-index",
-    "stars": 0,
-    "updated_at": "2026-06-29T14:24:32Z",
-    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-06-29T14:30:56Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-29T14:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
@@ -27,12 +63,21 @@
     "url": "https://github.com/krishkumar4400/weights-to-prod"
   },
   {
+    "description": "AI pipeline for EU corporate greenwashing monitoring. 7 agents (LangGraph + Anthropic SDK) score green claims against 17",
+    "id": "MartinBlomqvistDev/prasine-index",
+    "language": "Python",
+    "name": "MartinBlomqvistDev/prasine-index",
+    "stars": 0,
+    "updated_at": "2026-06-29T14:24:32Z",
+    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30041,
-    "updated_at": "2026-06-29T14:22:25Z",
+    "stars": 30042,
+    "updated_at": "2026-06-29T14:42:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -67,18 +112,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51999,
+    "stars": 52001,
     "updated_at": "2026-06-29T14:17:01Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-29T14:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -90,15 +126,6 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2562,
-    "updated_at": "2026-06-29T14:13:26Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
     "id": "chyinan/AegisRAG",
     "language": "Python",
@@ -108,21 +135,12 @@
     "url": "https://github.com/chyinan/AegisRAG"
   },
   {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 135,
-    "updated_at": "2026-06-29T14:07:08Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 5,
-    "updated_at": "2026-06-29T14:06:58Z",
+    "updated_at": "2026-06-29T14:45:08Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-29T13:16:52Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-29T13:16:33Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-29T13:15:38Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
