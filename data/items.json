@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 30,
+    "updated_at": "2026-06-29T09:13:19Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-29T09:11:02Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2312,
+    "updated_at": "2026-06-29T09:14:07Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26767,
+    "updated_at": "2026-06-29T09:06:34Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19995,
+    "updated_at": "2026-06-29T09:10:43Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-29T09:02:46Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-29T09:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -27,21 +90,12 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2312,
-    "updated_at": "2026-06-29T08:57:14Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30017,
-    "updated_at": "2026-06-29T08:56:13Z",
+    "updated_at": "2026-06-29T09:14:37Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-06-29T08:56:25Z",
     "url": "https://github.com/marcusschiesser/agentpond"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-29T08:55:44Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -76,8 +121,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51949,
-    "updated_at": "2026-06-29T08:54:50Z",
+    "stars": 51953,
+    "updated_at": "2026-06-29T09:12:05Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -90,31 +135,13 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26765,
-    "updated_at": "2026-06-29T08:47:16Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5474,
-    "updated_at": "2026-06-29T08:51:42Z",
+    "updated_at": "2026-06-29T09:09:37Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-29T08:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -122,7 +149,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6113,
-    "updated_at": "2026-06-29T08:55:58Z",
+    "updated_at": "2026-06-29T09:14:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T08:41:08Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19995,
-    "updated_at": "2026-06-29T08:53:03Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29003,
-    "updated_at": "2026-06-29T08:39:51Z",
+    "updated_at": "2026-06-29T09:08:17Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-06-29T08:33:09Z",
     "url": "https://github.com/affkoul/agentforge-runtime"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 30,
-    "updated_at": "2026-06-29T08:52:40Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -230,7 +239,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 1,
-    "updated_at": "2026-06-29T08:45:53Z",
+    "updated_at": "2026-06-29T09:02:51Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 1,
-    "updated_at": "2026-06-29T08:21:32Z",
+    "updated_at": "2026-06-29T09:01:19Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T08:07:14Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Production-grade AI coding rules for Cursor and Claude Code. 15 rules + 9 doc templates + skills + agents + MCP setup. D",
-    "id": "aiagentwithdhruv/ai-dev-stack",
-    "language": "Python",
-    "name": "aiagentwithdhruv/ai-dev-stack",
-    "stars": 6,
-    "updated_at": "2026-06-29T08:06:56Z",
-    "url": "https://github.com/aiagentwithdhruv/ai-dev-stack"
   }
 ]
