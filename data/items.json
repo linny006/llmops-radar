@@ -1,5 +1,23 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 6,
+    "updated_at": "2026-06-29T23:31:38Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-29T23:30:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build shared AI workspaces for creation, simulation, verification, MCP tools, and replayable receipts.",
     "id": "HarperZ9/telos",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T23:27:58Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 6,
-    "updated_at": "2026-06-29T23:27:49Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Add cost visibility to any LLM app \u2014 new or existing, raw-SDK or framework-based \u2014 in one line.",
@@ -45,6 +54,15 @@
     "url": "https://github.com/liam8421/faster-llm"
   },
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52038,
+    "updated_at": "2026-06-29T23:24:05Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 6,
     "updated_at": "2026-06-29T23:17:33Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-29T23:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -117,6 +126,15 @@
     "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30061,
+    "updated_at": "2026-06-29T23:08:46Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
@@ -160,15 +178,6 @@
     "stars": 20024,
     "updated_at": "2026-06-29T22:59:24Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30060,
-    "updated_at": "2026-06-29T23:08:46Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -304,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T22:32:58Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52038,
-    "updated_at": "2026-06-29T23:24:05Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
