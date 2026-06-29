@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 2,
+    "updated_at": "2026-06-29T07:30:16Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-29T07:30:10Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-06-29T07:29:52Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 30,
+    "updated_at": "2026-06-29T07:29:11Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30003,
+    "updated_at": "2026-06-29T07:24:56Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7779,
+    "updated_at": "2026-06-29T07:23:05Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Project Telos creative and accountable AI engine: receipts, MCP, generative media, sound, typography, math demos, and ve",
+    "id": "HarperZ9/telos",
+    "language": "Python",
+    "name": "HarperZ9/telos",
+    "stars": 1,
+    "updated_at": "2026-06-29T07:20:47Z",
+    "url": "https://github.com/HarperZ9/telos"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 43,
+    "updated_at": "2026-06-29T07:19:53Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19992,
+    "updated_at": "2026-06-29T07:17:59Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
+    "id": "SemeAIPletinnya/semeai-gate-basic",
+    "language": "Python",
+    "name": "SemeAIPletinnya/semeai-gate-basic",
+    "stars": 1,
+    "updated_at": "2026-06-29T07:17:56Z",
+    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26765,
+    "updated_at": "2026-06-29T07:17:20Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-29T07:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
@@ -36,15 +144,6 @@
     "url": "https://github.com/HarperZ9/index"
   },
   {
-    "description": "Project Telos creative and accountable AI engine: receipts, MCP, generative media, sound, typography, math demos, and ve",
-    "id": "HarperZ9/telos",
-    "language": "Python",
-    "name": "HarperZ9/telos",
-    "stars": 1,
-    "updated_at": "2026-06-29T07:14:44Z",
-    "url": "https://github.com/HarperZ9/telos"
-  },
-  {
     "description": "Project Telos intake organ for AI workflows: source, media, research, and creative capture with provenance receipts.",
     "id": "HarperZ9/gather",
     "language": "Python",
@@ -54,6 +153,15 @@
     "url": "https://github.com/HarperZ9/gather"
   },
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11478,
+    "updated_at": "2026-06-29T07:10:57Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
     "id": "neurarch-ai/awesome-llm-system-design",
     "language": "\u2014",
@@ -61,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T07:09:43Z",
     "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-29T07:09:12Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
-    "id": "SemeAIPletinnya/semeai-gate-basic",
-    "language": "Python",
-    "name": "SemeAIPletinnya/semeai-gate-basic",
-    "stars": 1,
-    "updated_at": "2026-06-29T07:08:04Z",
-    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
   },
   {
     "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
@@ -94,18 +184,9 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2310,
+    "stars": 2311,
     "updated_at": "2026-06-29T07:05:47Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-29T07:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -130,18 +211,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 51927,
+    "stars": 51928,
     "updated_at": "2026-06-29T06:54:25Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19991,
-    "updated_at": "2026-06-29T06:51:52Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Build mods for Claude Code: Hook any request, modify any response, /model \"with-your-custom-model\", intelligent model ro",
@@ -185,7 +257,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 1,
-    "updated_at": "2026-06-29T06:38:11Z",
+    "updated_at": "2026-06-29T07:24:57Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -243,15 +315,6 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26765,
-    "updated_at": "2026-06-29T06:58:20Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Keep your LLM prompt prefix byte-stable and cacheable: a prompt compiler, a stability linter for CI, and a savings estim",
     "id": "qazasd2518995/cache-keeper",
     "language": "Python",
@@ -277,15 +340,6 @@
     "stars": 22710,
     "updated_at": "2026-06-29T06:10:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30001,
-    "updated_at": "2026-06-29T06:05:18Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-source AI Application Runtime for reliable, observable, and governable production AI systems.",
@@ -392,61 +446,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1241,
-    "updated_at": "2026-06-29T06:46:11Z",
+    "updated_at": "2026-06-29T07:28:08Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-06-29T05:13:10Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
-    "id": "golikovichev/pytest-resilience-agent",
-    "language": "Python",
-    "name": "golikovichev/pytest-resilience-agent",
-    "stars": 0,
-    "updated_at": "2026-06-29T05:14:19Z",
-    "url": "https://github.com/golikovichev/pytest-resilience-agent"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-06-29T05:10:12Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 2,
-    "updated_at": "2026-06-29T05:08:40Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-29T06:56:31Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 5,
-    "updated_at": "2026-06-29T05:06:21Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
   }
 ]
