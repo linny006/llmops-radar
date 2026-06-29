@@ -1,5 +1,95 @@
 [
   {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5561,
+    "updated_at": "2026-06-29T07:00:07Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
+    "id": "Neeeophytee/awesome-ai-workflows",
+    "language": "Shell",
+    "name": "Neeeophytee/awesome-ai-workflows",
+    "stars": 8,
+    "updated_at": "2026-06-29T06:56:00Z",
+    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 51925,
+    "updated_at": "2026-06-29T06:54:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
+    "id": "SemeAIPletinnya/semeai-gate-basic",
+    "language": "Python",
+    "name": "SemeAIPletinnya/semeai-gate-basic",
+    "stars": 1,
+    "updated_at": "2026-06-29T06:53:17Z",
+    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 4,
+    "updated_at": "2026-06-29T06:52:35Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19991,
+    "updated_at": "2026-06-29T06:51:52Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Build mods for Claude Code: Hook any request, modify any response, /model \"with-your-custom-model\", intelligent model ro",
+    "id": "starbaser/ccproxy",
+    "language": "Python",
+    "name": "starbaser/ccproxy",
+    "stars": 349,
+    "updated_at": "2026-06-29T06:51:04Z",
+    "url": "https://github.com/starbaser/ccproxy"
+  },
+  {
+    "description": "\ud83e\uddef Kubernetes coverage for fault awareness and recovery, works for any LLMOps, MLOps, AI workloads.",
+    "id": "BaizeAI/kcover",
+    "language": "Go",
+    "name": "BaizeAI/kcover",
+    "stars": 35,
+    "updated_at": "2026-06-29T07:00:14Z",
+    "url": "https://github.com/BaizeAI/kcover"
+  },
+  {
+    "description": "Self-hosted platform that treats prompts as tested, versioned, observable production assets.",
+    "id": "Albin-Jo/PromptForge",
+    "language": "Python",
+    "name": "Albin-Jo/PromptForge",
+    "stars": 0,
+    "updated_at": "2026-06-29T06:45:30Z",
+    "url": "https://github.com/Albin-Jo/PromptForge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-29T06:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI pipeline for EU corporate greenwashing monitoring. 7 agents (LangGraph + Anthropic SDK) score green claims against 17",
     "id": "MartinBlomqvistDev/prasine-index",
     "language": "Python",
@@ -16,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-29T06:43:27Z",
     "url": "https://github.com/HarperZ9/telos"
-  },
-  {
-    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
-    "id": "SemeAIPletinnya/semeai-gate-basic",
-    "language": "Python",
-    "name": "SemeAIPletinnya/semeai-gate-basic",
-    "stars": 1,
-    "updated_at": "2026-06-29T06:42:47Z",
-    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
   },
   {
     "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
@@ -45,24 +126,6 @@
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 4,
-    "updated_at": "2026-06-29T06:33:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 51917,
-    "updated_at": "2026-06-29T06:41:36Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A local-first dashboard and template kit for safer AI agent workflows.",
     "id": "yohojj/agent-governance-workbench",
     "language": "Python",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T06:31:48Z",
     "url": "https://github.com/yohojj/agent-governance-workbench"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-29T06:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u73af\u6e38\u4e16\u754c\u65c5\u6e38\uff0c\u521b\u4e1a\u505a AI \u4ea7\u54c1\uff0c\u4e00\u79cd\u6bd4\u8f83\u65b0\u7684\u65b9\u5f0f\u548c\u7406\u5ff5\u751f\u6d3b\u521b\u4e1a\uff0c\u6b22\u8fce\u8ba2\u9605 RSS  https://nsddd.top/zh/index.xml",
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26765,
-    "updated_at": "2026-06-29T06:17:43Z",
+    "updated_at": "2026-06-29T06:58:20Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T06:17:39Z",
     "url": "https://github.com/qazasd2518995/cache-keeper"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19990,
-    "updated_at": "2026-06-29T06:14:25Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -175,7 +220,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22709,
+    "stars": 22710,
     "updated_at": "2026-06-29T06:10:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -184,7 +229,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29998,
+    "stars": 29999,
     "updated_at": "2026-06-29T06:05:18Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -266,7 +311,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 1,
-    "updated_at": "2026-06-29T06:45:21Z",
+    "updated_at": "2026-06-29T06:58:34Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1241,
-    "updated_at": "2026-06-29T06:43:53Z",
+    "updated_at": "2026-06-29T06:46:11Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-06-29T06:39:29Z",
+    "updated_at": "2026-06-29T06:56:31Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -401,52 +446,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6111,
-    "updated_at": "2026-06-29T06:31:00Z",
+    "updated_at": "2026-06-29T07:00:05Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-06-29T05:04:10Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-06-29T05:03:19Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 5",
-    "id": "xorbitsai/xrouter-llm",
-    "language": "Python",
-    "name": "xorbitsai/xrouter-llm",
-    "stars": 27,
-    "updated_at": "2026-06-29T04:48:08Z",
-    "url": "https://github.com/xorbitsai/xrouter-llm"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 0,
-    "updated_at": "2026-06-29T04:45:03Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-06-29T04:39:50Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   }
 ]
