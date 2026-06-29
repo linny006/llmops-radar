@@ -5,8 +5,44 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 5,
-    "updated_at": "2026-06-29T19:00:07Z",
+    "updated_at": "2026-06-29T19:15:06Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 1,
+    "updated_at": "2026-06-29T19:13:40Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20012,
+    "updated_at": "2026-06-29T19:12:55Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-29T19:04:23Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Run one prompt across multiple LLMs side-by-side and score outputs against a weighted rubric.",
+    "id": "jakob-prince/llm-eval-playground",
+    "language": "Python",
+    "name": "jakob-prince/llm-eval-playground",
+    "stars": 0,
+    "updated_at": "2026-06-29T19:04:15Z",
+    "url": "https://github.com/jakob-prince/llm-eval-playground"
   },
   {
     "description": "The context & memory operating system for LLM apps \u2014 replay-grade middleware that selects memory, cache, and model as on",
@@ -14,8 +50,44 @@
     "language": "Python",
     "name": "akinekim529/contextOS",
     "stars": 0,
-    "updated_at": "2026-06-29T18:58:16Z",
+    "updated_at": "2026-06-29T19:03:31Z",
     "url": "https://github.com/akinekim529/contextOS"
+  },
+  {
+    "description": "A comprehensive, production-focused guide to acing AI/ML system design interviews at top tech companies.",
+    "id": "ather-techie/ai-system-design-interview",
+    "language": "\u2014",
+    "name": "ather-techie/ai-system-design-interview",
+    "stars": 9,
+    "updated_at": "2026-06-29T19:02:50Z",
+    "url": "https://github.com/ather-techie/ai-system-design-interview"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 1,
+    "updated_at": "2026-06-29T19:02:41Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
+    "id": "acornops/execution-engine",
+    "language": "Python",
+    "name": "acornops/execution-engine",
+    "stars": 0,
+    "updated_at": "2026-06-29T19:02:41Z",
+    "url": "https://github.com/acornops/execution-engine"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-29T19:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 52027,
-    "updated_at": "2026-06-29T18:56:22Z",
+    "updated_at": "2026-06-29T19:14:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-06-29T18:56:04Z",
+    "updated_at": "2026-06-29T19:15:25Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T18:46:44Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-29T18:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
@@ -247,26 +310,17 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10326,
+    "stars": 10327,
     "updated_at": "2026-06-29T18:32:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20011,
-    "updated_at": "2026-06-29T18:58:55Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30055,
-    "updated_at": "2026-06-29T18:31:43Z",
+    "stars": 30056,
+    "updated_at": "2026-06-29T19:14:58Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6120,
-    "updated_at": "2026-06-29T18:40:26Z",
+    "updated_at": "2026-06-29T19:07:55Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T18:09:59Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-06-29T18:09:34Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 1,
-    "updated_at": "2026-06-29T18:09:08Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-06-29T18:08:56Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-06-29T18:08:20Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-06-29T18:07:06Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
-    "id": "mholovetskyi/cliche",
-    "language": "Go",
-    "name": "mholovetskyi/cliche",
-    "stars": 0,
-    "updated_at": "2026-06-29T18:05:17Z",
-    "url": "https://github.com/mholovetskyi/cliche"
   }
 ]
