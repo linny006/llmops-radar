@@ -1,11 +1,83 @@
 [
   {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 2,
+    "updated_at": "2026-06-29T23:45:15Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-06-29T23:45:02Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-06-29T23:41:52Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
+    "id": "mholovetskyi/cliche",
+    "language": "Go",
+    "name": "mholovetskyi/cliche",
+    "stars": 0,
+    "updated_at": "2026-06-29T23:40:09Z",
+    "url": "https://github.com/mholovetskyi/cliche"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-29T23:39:15Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-29T23:38:26Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30062,
+    "updated_at": "2026-06-29T23:34:40Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live AI creator-intelligence platform with LangGraph agents, external-data pipelines, deterministic scoring, APIs, tests",
+    "id": "OmarA1-Bakri/CallScore",
+    "language": "TypeScript",
+    "name": "OmarA1-Bakri/CallScore",
+    "stars": 0,
+    "updated_at": "2026-06-29T23:33:47Z",
+    "url": "https://github.com/OmarA1-Bakri/CallScore"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 6,
-    "updated_at": "2026-06-29T23:31:38Z",
+    "updated_at": "2026-06-29T23:33:09Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-06-29T23:30:21Z",
+    "updated_at": "2026-06-29T23:33:04Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 52038,
-    "updated_at": "2026-06-29T23:24:05Z",
+    "updated_at": "2026-06-29T23:39:51Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -99,15 +171,6 @@
     "url": "https://github.com/aaryavinays-dev/guardrail-ai"
   },
   {
-    "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
-    "id": "mholovetskyi/cliche",
-    "language": "Go",
-    "name": "mholovetskyi/cliche",
-    "stars": 0,
-    "updated_at": "2026-06-29T23:12:08Z",
-    "url": "https://github.com/mholovetskyi/cliche"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -124,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-06-29T23:09:29Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30061,
-    "updated_at": "2026-06-29T23:08:46Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -175,7 +229,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20024,
+    "stars": 20025,
     "updated_at": "2026-06-29T22:59:24Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T22:53:09Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 2,
-    "updated_at": "2026-06-29T22:52:45Z",
-    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "The open-source, high-performance AI Agent Observability, Tracing, and Self-Healing Platform. Transparently capture LLM ",
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "jarodtaylor/cadre",
     "stars": 0,
-    "updated_at": "2026-06-29T22:57:59Z",
+    "updated_at": "2026-06-29T23:41:43Z",
     "url": "https://github.com/jarodtaylor/cadre"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-29T22:21:28Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Operational doctrine for practical AI systems design.",
-    "id": "Stunspot/stunspots-guide-to-ai-systems",
-    "language": "\u2014",
-    "name": "Stunspot/stunspots-guide-to-ai-systems",
-    "stars": 34,
-    "updated_at": "2026-06-29T22:20:17Z",
-    "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-29T22:17:09Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 143,
-    "updated_at": "2026-06-29T22:28:12Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-29T22:15:35Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-29T22:15:33Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
