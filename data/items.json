@@ -1,12 +1,66 @@
 [
   {
+    "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
+    "id": "katanemo/plano",
+    "language": "Rust",
+    "name": "katanemo/plano",
+    "stars": 6604,
+    "updated_at": "2026-06-29T20:59:11Z",
+    "url": "https://github.com/katanemo/plano"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-06-29T20:53:15Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-29T20:50:39Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-29T20:48:53Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52031,
+    "updated_at": "2026-06-29T20:46:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "AI-Gateway reverse proxy that uses semantic caching and aims to reduce LLM API bills and token costs by 40-70%.",
     "id": "Arnab758/ai-gateway",
     "language": "Go",
     "name": "Arnab758/ai-gateway",
     "stars": 7,
-    "updated_at": "2026-06-29T20:42:46Z",
+    "updated_at": "2026-06-29T20:45:32Z",
     "url": "https://github.com/Arnab758/ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-29T20:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -25,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-06-29T20:41:56Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22740,
+    "updated_at": "2026-06-29T20:39:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -63,24 +126,6 @@
     "url": "https://github.com/Kakz/prometheus-llm"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-29T20:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52031,
-    "updated_at": "2026-06-29T20:29:42Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the",
     "id": "jarodtaylor/cadre",
     "language": "Python",
@@ -108,6 +153,15 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7782,
+    "updated_at": "2026-06-29T20:25:32Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -124,6 +178,15 @@
     "stars": 6,
     "updated_at": "2026-06-29T20:15:06Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10328,
+    "updated_at": "2026-06-29T20:14:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -157,7 +220,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20015,
+    "stars": 20016,
     "updated_at": "2026-06-29T20:07:55Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -176,7 +239,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6122,
-    "updated_at": "2026-06-29T19:59:52Z",
+    "updated_at": "2026-06-29T20:53:48Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "Ohswedd/vincio",
     "stars": 2,
-    "updated_at": "2026-06-29T19:56:22Z",
+    "updated_at": "2026-06-29T20:53:52Z",
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T19:55:30Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-29T19:51:49Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -223,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T20:43:33Z",
     "url": "https://github.com/akinekim529/contextOS"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10327,
-    "updated_at": "2026-06-29T20:14:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
@@ -268,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-06-29T19:13:40Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-06-29T19:04:23Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "A comprehensive, production-focused guide to acing AI/ML system design interviews at top tech companies.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-29T18:44:24Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-29T18:44:06Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
-    "id": "Rodiun/frugon",
-    "language": "Python",
-    "name": "Rodiun/frugon",
-    "stars": 0,
-    "updated_at": "2026-06-29T18:43:52Z",
-    "url": "https://github.com/Rodiun/frugon"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-06-29T18:42:43Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-06-29T18:41:58Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
