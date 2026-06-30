@@ -1,5 +1,41 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 7,
+    "updated_at": "2026-06-30T21:03:24Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and",
+    "id": "jqbit/TLDR",
+    "language": "JavaScript",
+    "name": "jqbit/TLDR",
+    "stars": 13,
+    "updated_at": "2026-06-30T21:02:34Z",
+    "url": "https://github.com/jqbit/TLDR"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-30T21:00:53Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T21:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -36,15 +72,6 @@
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 7,
-    "updated_at": "2026-06-30T20:58:37Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 52148,
-    "updated_at": "2026-06-30T20:57:03Z",
+    "updated_at": "2026-06-30T21:01:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T20:54:51Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:54:43Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T20:48:35Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T20:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -284,7 +293,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-06-30T20:35:08Z",
+    "updated_at": "2026-06-30T21:02:17Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -418,7 +427,7 @@
     "id": "mezmo/aura",
     "language": "Rust",
     "name": "mezmo/aura",
-    "stars": 168,
+    "stars": 169,
     "updated_at": "2026-06-30T20:21:07Z",
     "url": "https://github.com/mezmo/aura"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-30T20:18:54Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 2,
-    "updated_at": "2026-06-30T20:57:34Z",
-    "url": "https://github.com/Ohswedd/vincio"
   }
 ]
