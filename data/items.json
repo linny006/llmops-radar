@@ -1,5 +1,95 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 7,
+    "updated_at": "2026-06-30T19:29:14Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-30T19:28:50Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The context & memory operating system for LLM apps \u2014 replay-grade middleware that selects memory, cache, and model as on",
+    "id": "akinekim529/contextOS",
+    "language": "Python",
+    "name": "akinekim529/contextOS",
+    "stars": 1,
+    "updated_at": "2026-06-30T19:26:25Z",
+    "url": "https://github.com/akinekim529/contextOS"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 2,
+    "updated_at": "2026-06-30T19:26:58Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
+    "id": "affkoul/agentforge-runtime",
+    "language": "Python",
+    "name": "affkoul/agentforge-runtime",
+    "stars": 1,
+    "updated_at": "2026-06-30T19:25:40Z",
+    "url": "https://github.com/affkoul/agentforge-runtime"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52144,
+    "updated_at": "2026-06-30T19:29:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1061,
+    "updated_at": "2026-06-30T19:22:20Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-30T19:21:04Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Guardrails + red-team harness for LLM apps: PII detection/redaction, prompt-injection & jailbreak defense, and a scored ",
+    "id": "tahasiddiquii/llm-guardrails-redteam",
+    "language": "Python",
+    "name": "tahasiddiquii/llm-guardrails-redteam",
+    "stars": 0,
+    "updated_at": "2026-06-30T19:18:01Z",
+    "url": "https://github.com/tahasiddiquii/llm-guardrails-redteam"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T19:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -23,26 +113,8 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 12,
-    "updated_at": "2026-06-30T19:13:07Z",
+    "updated_at": "2026-06-30T19:20:17Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52143,
-    "updated_at": "2026-06-30T19:15:01Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-30T19:11:41Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -52,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-30T19:10:37Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 7,
-    "updated_at": "2026-06-30T19:09:15Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T19:08:50Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM/RAG evaluation + observability harness: golden-dataset eval loop (retrieval, RAGAS-style answer quality, LLM-as-a-ju",
@@ -97,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-06-30T19:03:09Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1061,
-    "updated_at": "2026-06-30T19:02:35Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
@@ -180,15 +225,6 @@
     "url": "https://github.com/tahasiddiquii/ai-harness"
   },
   {
-    "description": "The context & memory operating system for LLM apps \u2014 replay-grade middleware that selects memory, cache, and model as on",
-    "id": "akinekim529/contextOS",
-    "language": "Python",
-    "name": "akinekim529/contextOS",
-    "stars": 1,
-    "updated_at": "2026-06-30T18:51:22Z",
-    "url": "https://github.com/akinekim529/contextOS"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -211,9 +247,18 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30152,
+    "stars": 30156,
     "updated_at": "2026-06-30T18:48:11Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20143,
+    "updated_at": "2026-06-30T18:46:42Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
@@ -223,15 +268,6 @@
     "stars": 11,
     "updated_at": "2026-06-30T18:44:11Z",
     "url": "https://github.com/yzhao062/auditable"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 2,
-    "updated_at": "2026-06-30T18:41:52Z",
-    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
@@ -261,21 +297,12 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20140,
-    "updated_at": "2026-06-30T18:46:42Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10344,
-    "updated_at": "2026-06-30T18:55:33Z",
+    "updated_at": "2026-06-30T19:26:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T18:02:01Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
-    "id": "affkoul/agentforge-runtime",
-    "language": "Python",
-    "name": "affkoul/agentforge-runtime",
-    "stars": 1,
-    "updated_at": "2026-06-30T17:57:15Z",
-    "url": "https://github.com/affkoul/agentforge-runtime"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -430,23 +448,5 @@
     "stars": 3056,
     "updated_at": "2026-06-30T17:35:18Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-30T17:32:24Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-06-30T17:31:56Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
   }
 ]
