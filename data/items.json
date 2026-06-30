@@ -5,26 +5,17 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 6,
-    "updated_at": "2026-06-30T17:58:48Z",
+    "updated_at": "2026-06-30T18:13:32Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
+    "description": "Compile an AI agent's repeated workflows into deterministic, auditable routines that replay for free, with a fallback to",
+    "id": "Egoist-Machines/etchplan",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52141,
-    "updated_at": "2026-06-30T17:58:25Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 1,
-    "updated_at": "2026-06-30T17:58:19Z",
-    "url": "https://github.com/dshakes/distil"
+    "name": "Egoist-Machines/etchplan",
+    "stars": 10,
+    "updated_at": "2026-06-30T18:08:28Z",
+    "url": "https://github.com/Egoist-Machines/etchplan"
   },
   {
     "description": "Open-source, vendor-neutral agent-governance and LLM guardrails framework: deterministic RETE rules for MCP proxying, po",
@@ -32,8 +23,62 @@
     "language": "Rust",
     "name": "ops-ping/xact",
     "stars": 0,
-    "updated_at": "2026-06-30T17:57:44Z",
+    "updated_at": "2026-06-30T18:07:02Z",
     "url": "https://github.com/ops-ping/xact"
+  },
+  {
+    "description": "Deterministic offline replay verifier for gateway-path evidence bundles.",
+    "id": "Rul1an/gateway-evidence-replay",
+    "language": "Rust",
+    "name": "Rul1an/gateway-evidence-replay",
+    "stars": 0,
+    "updated_at": "2026-06-30T18:05:18Z",
+    "url": "https://github.com/Rul1an/gateway-evidence-replay"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52140,
+    "updated_at": "2026-06-30T18:04:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20132,
+    "updated_at": "2026-06-30T18:04:27Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 1,
+    "updated_at": "2026-06-30T18:06:08Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-30T18:02:01Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T18:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
@@ -126,15 +171,6 @@
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T17:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -220,7 +256,7 @@
     "id": "mezmo/aura",
     "language": "Rust",
     "name": "mezmo/aura",
-    "stars": 156,
+    "stars": 159,
     "updated_at": "2026-06-30T17:30:58Z",
     "url": "https://github.com/mezmo/aura"
   },
@@ -405,15 +441,6 @@
     "url": "https://github.com/sarrahw23/deploy-guide"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20128,
-    "updated_at": "2026-06-30T17:12:57Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
     "id": "chyinan/AegisRAG",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-30T17:10:25Z",
     "url": "https://github.com/chyinan/AegisRAG"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-06-30T17:10:06Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1061,
-    "updated_at": "2026-06-30T17:42:17Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-06-30T17:12:08Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
   }
 ]
