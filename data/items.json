@@ -1,12 +1,84 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6145,
+    "updated_at": "2026-06-30T13:58:56Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
+    "id": "dativo-io/talon",
+    "language": "Go",
+    "name": "dativo-io/talon",
+    "stars": 10,
+    "updated_at": "2026-06-30T13:57:23Z",
+    "url": "https://github.com/dativo-io/talon"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20075,
-    "updated_at": "2026-06-30T13:44:18Z",
+    "stars": 20077,
+    "updated_at": "2026-06-30T13:49:48Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 153,
+    "updated_at": "2026-06-30T13:49:45Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-06-30T13:47:49Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-30T13:46:56Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T13:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "p1c2u/openloop",
+    "language": "Python",
+    "name": "p1c2u/openloop",
+    "stars": 0,
+    "updated_at": "2026-06-30T13:45:25Z",
+    "url": "https://github.com/p1c2u/openloop"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30139,
+    "updated_at": "2026-06-30T13:53:07Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -14,7 +86,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2322,
-    "updated_at": "2026-06-30T13:41:20Z",
+    "updated_at": "2026-06-30T13:45:45Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -63,15 +135,6 @@
     "url": "https://github.com/liam8421/faster-llm"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T13:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
     "id": "SConv11/watchy",
     "language": "Python",
@@ -85,7 +148,7 @@
     "id": "openlit/openlit",
     "language": "TypeScript",
     "name": "openlit/openlit",
-    "stars": 2564,
+    "stars": 2565,
     "updated_at": "2026-06-30T13:29:33Z",
     "url": "https://github.com/openlit/openlit"
   },
@@ -171,15 +234,6 @@
     "url": "https://github.com/moiraweave-labs/moiraweave"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30138,
-    "updated_at": "2026-06-30T13:43:09Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -205,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-06-30T13:12:18Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
-    "id": "dativo-io/talon",
-    "language": "Go",
-    "name": "dativo-io/talon",
-    "stars": 10,
-    "updated_at": "2026-06-30T13:44:06Z",
-    "url": "https://github.com/dativo-io/talon"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -257,7 +302,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4252,
-    "updated_at": "2026-06-30T12:49:23Z",
+    "updated_at": "2026-06-30T13:52:19Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -266,7 +311,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3056,
-    "updated_at": "2026-06-30T13:25:25Z",
+    "updated_at": "2026-06-30T13:51:11Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -351,15 +396,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6145,
-    "updated_at": "2026-06-30T13:43:59Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
     "id": "evilstar2016/skill-doctor",
     "language": "TypeScript",
@@ -383,7 +419,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1245,
-    "updated_at": "2026-06-30T13:03:14Z",
+    "updated_at": "2026-06-30T13:57:09Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-30T11:58:29Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-30T11:57:48Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-06-30T11:57:03Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-06-30T11:56:03Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-06-30T11:55:20Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
   }
 ]
