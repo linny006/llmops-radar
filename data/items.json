@@ -1,5 +1,104 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 6,
+    "updated_at": "2026-06-30T01:30:04Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
+    "id": "mholovetskyi/cliche",
+    "language": "Go",
+    "name": "mholovetskyi/cliche",
+    "stars": 0,
+    "updated_at": "2026-06-30T01:29:09Z",
+    "url": "https://github.com/mholovetskyi/cliche"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2315,
+    "updated_at": "2026-06-30T01:28:42Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52045,
+    "updated_at": "2026-06-30T01:29:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-30T01:27:29Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Coordinate multi-agent work with ledgers that preserve plans, evidence, results, and resumable handoffs.",
+    "id": "HarperZ9/forum",
+    "language": "Python",
+    "name": "HarperZ9/forum",
+    "stars": 2,
+    "updated_at": "2026-06-30T01:20:00Z",
+    "url": "https://github.com/HarperZ9/forum"
+  },
+  {
+    "description": "Capture web, video, papers, and local files into verified research packets for AI workflows.",
+    "id": "HarperZ9/gather",
+    "language": "Python",
+    "name": "HarperZ9/gather",
+    "stars": 1,
+    "updated_at": "2026-06-30T01:20:00Z",
+    "url": "https://github.com/HarperZ9/gather"
+  },
+  {
+    "description": "Check claims and AI outputs against evidence, returning MATCH, DRIFT, or UNVERIFIABLE verdicts.",
+    "id": "HarperZ9/crucible",
+    "language": "Python",
+    "name": "HarperZ9/crucible",
+    "stars": 1,
+    "updated_at": "2026-06-30T01:20:00Z",
+    "url": "https://github.com/HarperZ9/crucible"
+  },
+  {
+    "description": "Map large codebases, docs, imports, and dependencies into context graphs for agents and developers.",
+    "id": "HarperZ9/index",
+    "language": "Python",
+    "name": "HarperZ9/index",
+    "stars": 1,
+    "updated_at": "2026-06-30T01:20:00Z",
+    "url": "https://github.com/HarperZ9/index"
+  },
+  {
+    "description": "Build shared AI workspaces for creation, simulation, verification, MCP tools, and replayable receipts.",
+    "id": "HarperZ9/telos",
+    "language": "Python",
+    "name": "HarperZ9/telos",
+    "stars": 1,
+    "updated_at": "2026-06-30T01:20:00Z",
+    "url": "https://github.com/HarperZ9/telos"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T01:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -9,15 +108,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 6,
-    "updated_at": "2026-06-30T01:14:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -25,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T01:11:17Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52043,
-    "updated_at": "2026-06-30T01:14:45Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -52,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-06-30T01:05:37Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-30T01:04:58Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -90,15 +162,6 @@
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T01:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -124,24 +187,6 @@
     "stars": 7782,
     "updated_at": "2026-06-30T01:10:13Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
-    "id": "mholovetskyi/cliche",
-    "language": "Go",
-    "name": "mholovetskyi/cliche",
-    "stars": 0,
-    "updated_at": "2026-06-30T00:55:24Z",
-    "url": "https://github.com/mholovetskyi/cliche"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2315,
-    "updated_at": "2026-06-30T00:54:47Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Reference architecture for accountable AI document workflows with RAG-style retrieval, validation, human review, and aud",
@@ -220,7 +265,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20031,
+    "stars": 20035,
     "updated_at": "2026-06-30T00:46:02Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T00:27:16Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-30T00:27:16Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-30T00:24:09Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-30T00:23:56Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "Shell",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-06-30T00:19:35Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-06-30T00:17:18Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
