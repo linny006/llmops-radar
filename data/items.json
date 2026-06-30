@@ -1,12 +1,39 @@
 [
   {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
+    "description": "SME LLM selection advisor: choose the right model for your scenario, budget, data sensitivity, and deployment preference",
+    "id": "xiaoyanfei-tech/llm-selector",
     "language": "Python",
-    "name": "liam8421/faster-llm",
+    "name": "xiaoyanfei-tech/llm-selector",
+    "stars": 1,
+    "updated_at": "2026-06-30T02:44:16Z",
+    "url": "https://github.com/xiaoyanfei-tech/llm-selector"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
     "stars": 0,
-    "updated_at": "2026-06-30T02:29:59Z",
-    "url": "https://github.com/liam8421/faster-llm"
+    "updated_at": "2026-06-30T02:43:33Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-30T02:42:42Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
+    "id": "kimtth/awesome-azure-openai-llm",
+    "language": "Python",
+    "name": "kimtth/awesome-azure-openai-llm",
+    "stars": 402,
+    "updated_at": "2026-06-30T02:42:03Z",
+    "url": "https://github.com/kimtth/awesome-azure-openai-llm"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
@@ -14,7 +41,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 6,
-    "updated_at": "2026-06-30T02:28:36Z",
+    "updated_at": "2026-06-30T02:41:59Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -22,9 +49,36 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52049,
-    "updated_at": "2026-06-30T02:28:16Z",
+    "stars": 52052,
+    "updated_at": "2026-06-30T02:41:22Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Control plane for team LLM access through LiteLLM.",
+    "id": "anggaprytn/loom",
+    "language": "TypeScript",
+    "name": "anggaprytn/loom",
+    "stars": 0,
+    "updated_at": "2026-06-30T02:40:42Z",
+    "url": "https://github.com/anggaprytn/loom"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-06-30T02:40:27Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Operational doctrine for practical AI systems design.",
+    "id": "Stunspot/stunspots-guide-to-ai-systems",
+    "language": "\u2014",
+    "name": "Stunspot/stunspots-guide-to-ai-systems",
+    "stars": 34,
+    "updated_at": "2026-06-30T02:37:11Z",
+    "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -32,8 +86,35 @@
     "language": "Ruby",
     "name": "homemade-software-inc/completion-kit",
     "stars": 1,
-    "updated_at": "2026-06-30T02:26:50Z",
+    "updated_at": "2026-06-30T02:32:19Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2317,
+    "updated_at": "2026-06-30T02:32:27Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T02:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-06-30T02:29:59Z",
+    "url": "https://github.com/liam8421/faster-llm"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -99,13 +180,13 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T02:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4249,
+    "updated_at": "2026-06-30T02:16:09Z",
+    "url": "https://github.com/Agenta-AI/agenta"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -162,15 +243,6 @@
     "url": "https://github.com/mholovetskyi/cliche"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2317,
-    "updated_at": "2026-06-30T02:04:47Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "xinglun/ai-cockpit-template",
     "language": "Python",
@@ -180,13 +252,13 @@
     "url": "https://github.com/xinglun/ai-cockpit-template"
   },
   {
-    "description": "SME LLM selection advisor: choose the right model for your scenario, budget, data sensitivity, and deployment preference",
-    "id": "xiaoyanfei-tech/llm-selector",
-    "language": "Python",
-    "name": "xiaoyanfei-tech/llm-selector",
-    "stars": 1,
-    "updated_at": "2026-06-30T02:01:34Z",
-    "url": "https://github.com/xiaoyanfei-tech/llm-selector"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6125,
+    "updated_at": "2026-06-30T01:52:50Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -266,7 +338,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 7783,
-    "updated_at": "2026-06-30T01:10:13Z",
+    "updated_at": "2026-06-30T02:35:15Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T00:49:25Z",
     "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-06-30T00:48:53Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-06-30T00:47:24Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20040,
-    "updated_at": "2026-06-30T00:46:02Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-30T00:42:49Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-30T00:41:29Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-30T00:41:17Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-30T00:40:38Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-30T00:39:12Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
