@@ -1,5 +1,95 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3317,
+    "updated_at": "2026-06-30T07:29:26Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 6,
+    "updated_at": "2026-06-30T07:27:31Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Autonomous multi-agent research system (LangGraph + FastAPI) with a critique-revise reflection loop, production guardrai",
+    "id": "sky-981/MultiAgent-Research-Analyst",
+    "language": "Python",
+    "name": "sky-981/MultiAgent-Research-Analyst",
+    "stars": 0,
+    "updated_at": "2026-06-30T07:26:19Z",
+    "url": "https://github.com/sky-981/MultiAgent-Research-Analyst"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-30T07:26:05Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52083,
+    "updated_at": "2026-06-30T07:25:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20061,
+    "updated_at": "2026-06-30T07:27:50Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30108,
+    "updated_at": "2026-06-30T07:29:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22754,
+    "updated_at": "2026-06-30T07:24:47Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T07:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10336,
+    "updated_at": "2026-06-30T07:14:16Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Local-first read-only tools for agent context, memory, and governance evaluation before agents act.",
     "id": "ctxgov/ctxgov",
     "language": "Python",
@@ -7,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-06-30T07:12:57Z",
     "url": "https://github.com/ctxgov/ctxgov"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20060,
-    "updated_at": "2026-06-30T07:08:35Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A guarded ChatGPT-to-Codex automation bridge for bounded local engineering loops.",
@@ -27,15 +108,6 @@
     "url": "https://github.com/MHW888888/aegisloop"
   },
   {
-    "description": "Autonomous multi-agent research system (LangGraph + FastAPI) with a critique-revise reflection loop, production guardrai",
-    "id": "sky-981/MultiAgent-Research-Analyst",
-    "language": "\u2014",
-    "name": "sky-981/MultiAgent-Research-Analyst",
-    "stars": 0,
-    "updated_at": "2026-06-30T07:06:48Z",
-    "url": "https://github.com/sky-981/MultiAgent-Research-Analyst"
-  },
-  {
     "description": "careAI: local-first enterprise MLOps and LLMOps platform demo for synthetic healthcare workflows, deployable to Azure Co",
     "id": "gpatwa/careai-platform",
     "language": "Python",
@@ -45,15 +117,6 @@
     "url": "https://github.com/gpatwa/careai-platform"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 6,
-    "updated_at": "2026-06-30T07:01:44Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "A production-ready toolkit to accelerate and automate the end-to-end lifecycle of AI Agent development.",
     "id": "fangwendongcs/Auto-agent-factory",
     "language": "JavaScript",
@@ -61,33 +124,6 @@
     "stars": 30,
     "updated_at": "2026-06-30T07:00:34Z",
     "url": "https://github.com/fangwendongcs/Auto-agent-factory"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T07:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30107,
-    "updated_at": "2026-06-30T07:13:59Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52081,
-    "updated_at": "2026-06-30T06:54:55Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Semantic (similarity) cache for LLM apps \u2014 serve cached answers to paraphrased queries, benchmarked on cost/latency save",
@@ -108,15 +144,6 @@
     "url": "https://github.com/Albin-Jo/PromptForge"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22754,
-    "updated_at": "2026-06-30T07:09:05Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 5479,
     "updated_at": "2026-06-30T06:48:10Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-30T06:48:08Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Field notes on AI coding agents: real, anonymized incidents from current-generation models (2026), each with a guardrail",
@@ -149,8 +167,17 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1241,
-    "updated_at": "2026-06-30T06:43:17Z",
+    "updated_at": "2026-06-30T07:18:09Z",
     "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6134,
+    "updated_at": "2026-06-30T06:41:08Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Local-first AI governance plane: policy-as-code identity, authorization, rate limiting, egress guardrails, and decision ",
@@ -167,7 +194,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5566,
-    "updated_at": "2026-06-30T07:01:53Z",
+    "updated_at": "2026-06-30T07:19:31Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -306,15 +333,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3317,
-    "updated_at": "2026-06-30T06:13:53Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T06:00:25Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-30T05:59:57Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-06-30T05:59:48Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
