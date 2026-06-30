@@ -5,8 +5,71 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 6,
-    "updated_at": "2026-06-30T06:45:05Z",
+    "updated_at": "2026-06-30T07:00:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Semantic (similarity) cache for LLM apps \u2014 serve cached answers to paraphrased queries, benchmarked on cost/latency save",
+    "id": "tkarim45/semantic-cache",
+    "language": "Python",
+    "name": "tkarim45/semantic-cache",
+    "stars": 0,
+    "updated_at": "2026-06-30T06:54:04Z",
+    "url": "https://github.com/tkarim45/semantic-cache"
+  },
+  {
+    "description": "Self-hosted platform that treats prompts as tested, versioned, observable production assets.",
+    "id": "Albin-Jo/PromptForge",
+    "language": "Python",
+    "name": "Albin-Jo/PromptForge",
+    "stars": 0,
+    "updated_at": "2026-06-30T06:50:12Z",
+    "url": "https://github.com/Albin-Jo/PromptForge"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52079,
+    "updated_at": "2026-06-30T06:54:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22754,
+    "updated_at": "2026-06-30T06:48:30Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5479,
+    "updated_at": "2026-06-30T06:48:10Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-30T06:48:08Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T06:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Field notes on AI coding agents: real, anonymized incidents from current-generation models (2026), each with a guardrail",
@@ -18,6 +81,15 @@
     "url": "https://github.com/KbWen/agent-field-notes"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30106,
+    "updated_at": "2026-06-30T06:56:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Local-first AI governance plane: policy-as-code identity, authorization, rate limiting, egress guardrails, and decision ",
     "id": "debsqui88/private-ai-infra",
     "language": "Python",
@@ -25,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-06-30T06:40:05Z",
     "url": "https://github.com/debsqui88/private-ai-infra"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5566,
+    "updated_at": "2026-06-30T06:54:47Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -54,15 +135,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T06:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -81,13 +153,13 @@
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22752,
-    "updated_at": "2026-06-30T06:29:13Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2320,
+    "updated_at": "2026-06-30T06:28:58Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -124,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T06:23:44Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2319,
-    "updated_at": "2026-06-30T06:28:58Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -187,15 +250,6 @@
     "stars": 3317,
     "updated_at": "2026-06-30T06:13:53Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Self-hosted platform that treats prompts as tested, versioned, observable production assets.",
-    "id": "Albin-Jo/PromptForge",
-    "language": "Python",
-    "name": "Albin-Jo/PromptForge",
-    "stars": 0,
-    "updated_at": "2026-06-30T06:13:09Z",
-    "url": "https://github.com/Albin-Jo/PromptForge"
   },
   {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T05:53:31Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-06-30T05:52:53Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6133,
-    "updated_at": "2026-06-30T06:41:08Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30103,
-    "updated_at": "2026-06-30T06:42:16Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Compressed Knowledge Graph MCP server \u2014 42\u00d7 more efficient than RAG on structural queries",
-    "id": "Yarmoluk/ckg-mcp",
-    "language": "Python",
-    "name": "Yarmoluk/ckg-mcp",
-    "stars": 3,
-    "updated_at": "2026-06-30T05:50:07Z",
-    "url": "https://github.com/Yarmoluk/ckg-mcp"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-06-30T05:49:48Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-06-30T05:49:31Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
