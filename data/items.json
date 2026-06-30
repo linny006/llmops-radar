@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10342,
+    "updated_at": "2026-06-30T12:26:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Portable reviewer/worker workflow kit for AI coding agents. Reduce premium model context waste by moving execution, retr",
+    "id": "ningbo00/token-saver-loop",
+    "language": "Python",
+    "name": "ningbo00/token-saver-loop",
+    "stars": 4,
+    "updated_at": "2026-06-30T12:24:10Z",
+    "url": "https://github.com/ningbo00/token-saver-loop"
+  },
+  {
+    "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides,",
+    "id": "oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "language": "Python",
+    "name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "stars": 530,
+    "updated_at": "2026-06-30T12:22:57Z",
+    "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook"
+  },
+  {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-06-30T12:21:44Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T12:17:59Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52111,
+    "updated_at": "2026-06-30T12:17:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -9,15 +63,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Portable reviewer/worker workflow kit for AI coding agents. Reduce premium model context waste by moving execution, retr",
-    "id": "ningbo00/token-saver-loop",
-    "language": "Python",
-    "name": "ningbo00/token-saver-loop",
-    "stars": 4,
-    "updated_at": "2026-06-30T12:17:32Z",
-    "url": "https://github.com/ningbo00/token-saver-loop"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -25,15 +70,6 @@
     "stars": 6,
     "updated_at": "2026-06-30T12:15:57Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T12:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -50,17 +86,8 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5567,
-    "updated_at": "2026-06-30T12:13:16Z",
+    "updated_at": "2026-06-30T12:20:34Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52109,
-    "updated_at": "2026-06-30T12:17:22Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30131,
-    "updated_at": "2026-06-30T12:12:54Z",
+    "updated_at": "2026-06-30T12:27:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20071,
-    "updated_at": "2026-06-30T12:16:23Z",
+    "updated_at": "2026-06-30T12:29:05Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3318,
-    "updated_at": "2026-06-30T12:12:20Z",
+    "updated_at": "2026-06-30T12:25:40Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-30T11:30:55Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-06-30T11:30:45Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-06-30T11:30:38Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-30T11:30:31Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
