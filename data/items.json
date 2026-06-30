@@ -1,11 +1,119 @@
 [
   {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-06-30T21:45:11Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 63,
+    "updated_at": "2026-06-30T21:40:51Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 7,
+    "updated_at": "2026-06-30T21:39:30Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-06-30T21:39:14Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "Third-party security review agent: assess a vendor security questionnaire against policy, classify controls, score risk,",
+    "id": "tahasiddiquii/vendor-risk-agent",
+    "language": "Python",
+    "name": "tahasiddiquii/vendor-risk-agent",
+    "stars": 0,
+    "updated_at": "2026-06-30T21:38:58Z",
+    "url": "https://github.com/tahasiddiquii/vendor-risk-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-06-30T21:38:32Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52151,
+    "updated_at": "2026-06-30T21:37:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-06-30T21:35:35Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Deterministic offline replay verifier for gateway-path evidence bundles.",
+    "id": "Rul1an/gateway-evidence-replay",
+    "language": "Rust",
+    "name": "Rul1an/gateway-evidence-replay",
+    "stars": 0,
+    "updated_at": "2026-06-30T21:34:40Z",
+    "url": "https://github.com/Rul1an/gateway-evidence-replay"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 373,
+    "updated_at": "2026-06-30T21:33:21Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-06-30T21:30:38Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T21:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
     "id": "MattJackson/busbarAI",
     "language": "Rust",
     "name": "MattJackson/busbarAI",
     "stars": 4,
-    "updated_at": "2026-06-30T21:30:13Z",
+    "updated_at": "2026-06-30T21:32:17Z",
     "url": "https://github.com/MattJackson/busbarAI"
   },
   {
@@ -90,20 +198,11 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52150,
-    "updated_at": "2026-06-30T21:23:12Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10345,
+    "stars": 10346,
     "updated_at": "2026-06-30T21:17:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -117,20 +216,20 @@
     "url": "https://github.com/justrunme/ai-runtime-platform"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T21:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22786,
+    "updated_at": "2026-06-30T21:10:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20150,
+    "stars": 20151,
     "updated_at": "2026-06-30T21:09:13Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -142,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T21:09:08Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 7,
-    "updated_at": "2026-06-30T21:09:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T20:41:33Z",
     "url": "https://github.com/tahasiddiquii/support-copilot"
-  },
-  {
-    "description": "Hybrid (BM25+dense+RRF) and graph multi-hop retrieval with a labeled benchmark (recall@k/MRR/nDCG) and an MCP connector.",
-    "id": "tahasiddiquii/hybrid-graph-rag",
-    "language": "Python",
-    "name": "tahasiddiquii/hybrid-graph-rag",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:41:30Z",
-    "url": "https://github.com/tahasiddiquii/hybrid-graph-rag"
-  },
-  {
-    "description": "Guardrails + red-team harness for LLM apps: PII detection/redaction, prompt-injection & jailbreak defense, and a scored ",
-    "id": "tahasiddiquii/llm-guardrails-redteam",
-    "language": "Python",
-    "name": "tahasiddiquii/llm-guardrails-redteam",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:41:27Z",
-    "url": "https://github.com/tahasiddiquii/llm-guardrails-redteam"
-  },
-  {
-    "description": "LLM/RAG evaluation + observability harness: golden-dataset eval loop (retrieval, RAGAS-style answer quality, LLM-as-a-ju",
-    "id": "tahasiddiquii/llm-eval-observability",
-    "language": "Python",
-    "name": "tahasiddiquii/llm-eval-observability",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:41:24Z",
-    "url": "https://github.com/tahasiddiquii/llm-eval-observability"
-  },
-  {
-    "description": "Production AI harness: the decision layer around an LLM \u2014 adaptive model routing, PII + prompt-injection guardrails, hyb",
-    "id": "tahasiddiquii/ai-harness",
-    "language": "Python",
-    "name": "tahasiddiquii/ai-harness",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:41:21Z",
-    "url": "https://github.com/tahasiddiquii/ai-harness"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-30T20:37:41Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-30T20:36:10Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:36:10Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:35:38Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-06-30T20:34:16Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-06-30T21:02:17Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
   }
 ]
