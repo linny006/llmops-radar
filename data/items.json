@@ -1,5 +1,77 @@
 [
   {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 2,
+    "updated_at": "2026-06-30T13:13:38Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-06-30T13:13:23Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-30T13:12:18Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
+    "id": "moiraweave-labs/moiraweave",
+    "language": "Python",
+    "name": "moiraweave-labs/moiraweave",
+    "stars": 1,
+    "updated_at": "2026-06-30T13:12:23Z",
+    "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2322,
+    "updated_at": "2026-06-30T13:11:14Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
+    "id": "dativo-io/talon",
+    "language": "Go",
+    "name": "dativo-io/talon",
+    "stars": 10,
+    "updated_at": "2026-06-30T13:09:39Z",
+    "url": "https://github.com/dativo-io/talon"
+  },
+  {
+    "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
+    "id": "MartinBlomqvistDev/prasine-index",
+    "language": "Python",
+    "name": "MartinBlomqvistDev/prasine-index",
+    "stars": 0,
+    "updated_at": "2026-06-30T13:02:19Z",
+    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T13:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -14,26 +86,8 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 1,
-    "updated_at": "2026-06-30T12:59:46Z",
+    "updated_at": "2026-06-30T13:00:30Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
-    "id": "MartinBlomqvistDev/prasine-index",
-    "language": "Python",
-    "name": "MartinBlomqvistDev/prasine-index",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:59:36Z",
-    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
-  },
-  {
-    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
-    "id": "chyinan/AegisRAG",
-    "language": "Python",
-    "name": "chyinan/AegisRAG",
-    "stars": 2,
-    "updated_at": "2026-06-30T12:59:34Z",
-    "url": "https://github.com/chyinan/AegisRAG"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -50,17 +104,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 52113,
-    "updated_at": "2026-06-30T12:59:05Z",
+    "updated_at": "2026-06-30T13:07:28Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
-    "id": "moiraweave-labs/moiraweave",
-    "language": "Python",
-    "name": "moiraweave-labs/moiraweave",
-    "stars": 1,
-    "updated_at": "2026-06-30T12:58:31Z",
-    "url": "https://github.com/moiraweave-labs/moiraweave"
   },
   {
     "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
@@ -72,12 +117,21 @@
     "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20074,
+    "updated_at": "2026-06-30T13:13:11Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Installable Hermes Agent profile for production RAG architecture, AI agents, retrieval evaluation, Pinecone workflows, L",
     "id": "codegraphtheory/context-forge-rag",
     "language": "Python",
     "name": "codegraphtheory/context-forge-rag",
     "stars": 3,
-    "updated_at": "2026-06-30T12:49:42Z",
+    "updated_at": "2026-06-30T13:02:18Z",
     "url": "https://github.com/codegraphtheory/context-forge-rag"
   },
   {
@@ -86,34 +140,16 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30136,
-    "updated_at": "2026-06-30T12:47:34Z",
+    "updated_at": "2026-06-30T13:02:21Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2323,
-    "updated_at": "2026-06-30T12:47:14Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T12:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
-    "stars": 3055,
-    "updated_at": "2026-06-30T12:37:49Z",
+    "stars": 3056,
+    "updated_at": "2026-06-30T13:12:19Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T12:37:10Z",
     "url": "https://github.com/xiaoyanfei-tech/llm-selector"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20073,
-    "updated_at": "2026-06-30T12:53:35Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
@@ -266,7 +293,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1245,
-    "updated_at": "2026-06-30T12:14:37Z",
+    "updated_at": "2026-06-30T13:03:14Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3318,
-    "updated_at": "2026-06-30T12:52:25Z",
+    "updated_at": "2026-06-30T13:11:01Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-30T11:43:57Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-06-30T11:39:33Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-06-30T11:37:51Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-06-30T11:37:49Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
