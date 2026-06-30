@@ -1,12 +1,39 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10330,
+    "updated_at": "2026-06-30T01:47:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 6,
-    "updated_at": "2026-06-30T01:40:02Z",
+    "updated_at": "2026-06-30T01:47:00Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-06-30T01:46:29Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T01:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 52046,
-    "updated_at": "2026-06-30T01:41:57Z",
+    "updated_at": "2026-06-30T01:46:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -36,15 +63,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T01:30:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker, ",
     "id": "mholovetskyi/cliche",
     "language": "Go",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T01:29:09Z",
     "url": "https://github.com/mholovetskyi/cliche"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-06-30T01:37:15Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Coordinate multi-agent work with ledgers that preserve plans, evidence, results, and resumable handoffs.",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-30T00:29:07Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-06-30T00:27:16Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
