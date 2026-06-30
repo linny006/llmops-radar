@@ -1,5 +1,41 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2323,
+    "updated_at": "2026-06-30T12:16:16Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Portable reviewer/worker workflow kit for AI coding agents. Reduce premium model context waste by moving execution, retr",
+    "id": "ningbo00/token-saver-loop",
+    "language": "Python",
+    "name": "ningbo00/token-saver-loop",
+    "stars": 4,
+    "updated_at": "2026-06-30T12:17:32Z",
+    "url": "https://github.com/ningbo00/token-saver-loop"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 6,
+    "updated_at": "2026-06-30T12:15:57Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-06-30T12:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 52109,
-    "updated_at": "2026-06-30T12:12:56Z",
+    "updated_at": "2026-06-30T12:17:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 30131,
     "updated_at": "2026-06-30T12:12:54Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 6,
-    "updated_at": "2026-06-30T12:10:36Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20071,
-    "updated_at": "2026-06-30T12:11:48Z",
+    "updated_at": "2026-06-30T12:16:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -117,15 +144,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-06-30T12:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T11:59:47Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Portable reviewer/worker workflow kit for AI coding agents. Reduce premium model context waste by moving execution, retr",
-    "id": "ningbo00/token-saver-loop",
-    "language": "Python",
-    "name": "ningbo00/token-saver-loop",
-    "stars": 4,
-    "updated_at": "2026-06-30T11:59:10Z",
-    "url": "https://github.com/ningbo00/token-saver-loop"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -187,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T11:55:20Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2323,
-    "updated_at": "2026-06-30T12:09:33Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",

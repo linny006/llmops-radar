@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-30 12:15 UTC
+> ⏰ Last updated: 2026-06-30 12:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-30 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 2 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5567 | Go | 2026-06-30 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 52109 | Python | 2026-06-30 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 30131 | TypeScript | 2026-06-30 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 6 | Go | 2026-06-30 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
-| 6 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-06-30 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
-| 7 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-30 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 8 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20071 | Python | 2026-06-30 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 9 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 0 | TypeScript | 2026-06-30 | Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks. |
-| 10 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-06-30 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
-| 11 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1245 | Cuda | 2026-06-30 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
-| 12 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-30 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
-| 13 | [dshakes/distil](https://github.com/dshakes/distil) | 1 | Python | 2026-06-30 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
-| 14 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 15 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-30 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 16 | [ningbo00/token-saver-loop](https://github.com/ningbo00/token-saver-loop) | 4 | Python | 2026-06-30 | Portable reviewer/worker workflow kit for AI coding agents. Reduce premium model context waste by moving execution, retr |
-| 17 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-06-30 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
-| 18 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-30 | The opinionated workflow engine and governance layer for agent-driven software development. |
-| 19 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-06-30 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
-| 20 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-30 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
-| 21 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-06-30 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
-| 22 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2323 | C++ | 2026-06-30 | Community maintained hardware plugin for vLLM on Ascend |
+| 1 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2323 | C++ | 2026-06-30 | Community maintained hardware plugin for vLLM on Ascend |
+| 2 | [ningbo00/token-saver-loop](https://github.com/ningbo00/token-saver-loop) | 4 | Python | 2026-06-30 | Portable reviewer/worker workflow kit for AI coding agents. Reduce premium model context waste by moving execution, retr |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 6 | Go | 2026-06-30 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-30 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 6 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5567 | Go | 2026-06-30 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
+| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 52109 | Python | 2026-06-30 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 8 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 30131 | TypeScript | 2026-06-30 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 9 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-06-30 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
+| 10 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-06-30 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 11 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20071 | Python | 2026-06-30 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 12 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 0 | TypeScript | 2026-06-30 | Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks. |
+| 13 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-06-30 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
+| 14 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1245 | Cuda | 2026-06-30 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
+| 15 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-30 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
+| 16 | [dshakes/distil](https://github.com/dshakes/distil) | 1 | Python | 2026-06-30 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
+| 17 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-30 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
+| 18 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-06-30 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
+| 19 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-30 | The opinionated workflow engine and governance layer for agent-driven software development. |
+| 20 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-06-30 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
+| 21 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-30 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
+| 22 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-06-30 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
 | 23 | [retardingforcerightbank635/dm-gateway-bot](https://github.com/retardingforcerightbank635/dm-gateway-bot) | 0 | Python | 2026-06-30 | Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k |
 | 24 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-30 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 25 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3318 | TypeScript | 2026-06-30 | The platform for LLM evaluations and AI agent testing |
