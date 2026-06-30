@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-30 01:30 UTC
+> ⏰ Last updated: 2026-06-30 01:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,19 +43,19 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 6 | Go | 2026-06-30 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
-| 2 | [mholovetskyi/cliche](https://github.com/mholovetskyi/cliche) | 0 | Go | 2026-06-30 | The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker,  |
-| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2315 | C++ | 2026-06-30 | Community maintained hardware plugin for vLLM on Ascend |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 52045 | Python | 2026-06-30 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 5 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-30 | The opinionated workflow engine and governance layer for agent-driven software development. |
-| 6 | [HarperZ9/forum](https://github.com/HarperZ9/forum) | 2 | Python | 2026-06-30 | Coordinate multi-agent work with ledgers that preserve plans, evidence, results, and resumable handoffs. |
-| 7 | [HarperZ9/gather](https://github.com/HarperZ9/gather) | 1 | Python | 2026-06-30 | Capture web, video, papers, and local files into verified research packets for AI workflows. |
-| 8 | [HarperZ9/crucible](https://github.com/HarperZ9/crucible) | 1 | Python | 2026-06-30 | Check claims and AI outputs against evidence, returning MATCH, DRIFT, or UNVERIFIABLE verdicts. |
-| 9 | [HarperZ9/index](https://github.com/HarperZ9/index) | 1 | Python | 2026-06-30 | Map large codebases, docs, imports, and dependencies into context graphs for agents and developers. |
-| 10 | [HarperZ9/telos](https://github.com/HarperZ9/telos) | 1 | Python | 2026-06-30 | Build shared AI workspaces for creation, simulation, verification, MCP tools, and replayable receipts. |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 12 | [api7/aisix](https://github.com/api7/aisix) | 34 | Rust | 2026-06-30 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
-| 13 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-06-30 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
-| 14 | [chyinan/AegisRAG](https://github.com/chyinan/AegisRAG) | 2 | Python | 2026-06-30 | AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit |
+| 2 | [chyinan/AegisRAG](https://github.com/chyinan/AegisRAG) | 2 | Python | 2026-06-30 | AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 52046 | Python | 2026-06-30 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 4 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2316 | C++ | 2026-06-30 | Community maintained hardware plugin for vLLM on Ascend |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-06-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [mholovetskyi/cliche](https://github.com/mholovetskyi/cliche) | 0 | Go | 2026-06-30 | The AI coding agent you can actually leave running. A deterministic trust layer (hard spend caps, loop circuit-breaker,  |
+| 7 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-06-30 | The opinionated workflow engine and governance layer for agent-driven software development. |
+| 8 | [HarperZ9/forum](https://github.com/HarperZ9/forum) | 2 | Python | 2026-06-30 | Coordinate multi-agent work with ledgers that preserve plans, evidence, results, and resumable handoffs. |
+| 9 | [HarperZ9/gather](https://github.com/HarperZ9/gather) | 1 | Python | 2026-06-30 | Capture web, video, papers, and local files into verified research packets for AI workflows. |
+| 10 | [HarperZ9/crucible](https://github.com/HarperZ9/crucible) | 1 | Python | 2026-06-30 | Check claims and AI outputs against evidence, returning MATCH, DRIFT, or UNVERIFIABLE verdicts. |
+| 11 | [HarperZ9/index](https://github.com/HarperZ9/index) | 1 | Python | 2026-06-30 | Map large codebases, docs, imports, and dependencies into context graphs for agents and developers. |
+| 12 | [HarperZ9/telos](https://github.com/HarperZ9/telos) | 1 | Python | 2026-06-30 | Build shared AI workspaces for creation, simulation, verification, MCP tools, and replayable receipts. |
+| 13 | [api7/aisix](https://github.com/api7/aisix) | 34 | Rust | 2026-06-30 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
+| 14 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-06-30 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
 | 15 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-06-30 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
 | 16 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-06-30 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
 | 17 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-06-30 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
