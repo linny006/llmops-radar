@@ -1,12 +1,102 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52160,
+    "updated_at": "2026-07-01T01:29:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-07-01T01:29:25Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "Full-stack AI governance gateway with FastAPI, PostgreSQL, and React for prompt security, PII detection, policy enforcem",
+    "id": "aaryavinays-dev/guardrail-ai",
+    "language": "Python",
+    "name": "aaryavinays-dev/guardrail-ai",
+    "stars": 0,
+    "updated_at": "2026-07-01T01:29:25Z",
+    "url": "https://github.com/aaryavinays-dev/guardrail-ai"
+  },
+  {
+    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
+    "id": "sedai194443/langfuse-go",
+    "language": "Go",
+    "name": "sedai194443/langfuse-go",
+    "stars": 1,
+    "updated_at": "2026-07-01T01:27:27Z",
+    "url": "https://github.com/sedai194443/langfuse-go"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 8,
-    "updated_at": "2026-07-01T01:15:13Z",
+    "updated_at": "2026-07-01T01:25:16Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 2,
+    "updated_at": "2026-07-01T01:25:07Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-07-01T01:24:51Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
+    "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
+    "id": "affkoul/agentforge-runtime",
+    "language": "Python",
+    "name": "affkoul/agentforge-runtime",
+    "stars": 1,
+    "updated_at": "2026-07-01T01:24:33Z",
+    "url": "https://github.com/affkoul/agentforge-runtime"
+  },
+  {
+    "description": "Runtime hallucination monitoring for multi-agent code generation pipelines. 6-phase study across 5 model architectures o",
+    "id": "kalyan-venk/agentic-llmops",
+    "language": "Shell",
+    "name": "kalyan-venk/agentic-llmops",
+    "stars": 0,
+    "updated_at": "2026-07-01T01:24:26Z",
+    "url": "https://github.com/kalyan-venk/agentic-llmops"
+  },
+  {
+    "description": "Portable snapshot of a complete Claude Code setup: 36 agents, 134 skills (including a full Mac-to-Mac migration playbook",
+    "id": "build-with-dhiraj/ai-workflow-framework-portability-kit",
+    "language": "HTML",
+    "name": "build-with-dhiraj/ai-workflow-framework-portability-kit",
+    "stars": 3,
+    "updated_at": "2026-07-01T01:23:10Z",
+    "url": "https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 35,
+    "updated_at": "2026-07-01T01:23:02Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
     "description": "Local-first assurance and measurement toolkit for agentic AI governance pipelines: expectation-driven checks, reproducib",
@@ -14,8 +104,17 @@
     "language": "Python",
     "name": "acblabs/agent-assure",
     "stars": 0,
-    "updated_at": "2026-07-01T01:14:22Z",
+    "updated_at": "2026-07-01T01:22:32Z",
     "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-01T01:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first readiness, trace replay, and eval generation toolkit for AI agents, MCP servers, RAG, and LLM apps.",
@@ -34,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-07-01T01:13:56Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52157,
-    "updated_at": "2026-07-01T01:14:31Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
@@ -81,15 +171,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-01T01:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -112,7 +193,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26797,
+    "stars": 26798,
     "updated_at": "2026-07-01T00:52:30Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -216,15 +297,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
-    "id": "affkoul/agentforge-runtime",
-    "language": "Python",
-    "name": "affkoul/agentforge-runtime",
-    "stars": 1,
-    "updated_at": "2026-07-01T00:27:40Z",
-    "url": "https://github.com/affkoul/agentforge-runtime"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -265,7 +337,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30172,
+    "stars": 30173,
     "updated_at": "2026-07-01T00:13:52Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -295,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T23:44:00Z",
     "url": "https://github.com/runcycles/cycles-spring-ai-starter"
-  },
-  {
-    "description": "Portable, self-contained snapshot of a complete Claude Code setup \u2014 36 specialist agents, 133 skills, plugins, MCP serve",
-    "id": "build-with-dhiraj/ai-workflow-framework-portability-kit",
-    "language": "HTML",
-    "name": "build-with-dhiraj/ai-workflow-framework-portability-kit",
-    "stars": 3,
-    "updated_at": "2026-06-30T23:43:45Z",
-    "url": "https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit"
   },
   {
     "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-30T23:24:44Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1063,
-    "updated_at": "2026-06-30T23:23:35Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-06-30T23:20:06Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 178,
-    "updated_at": "2026-07-01T00:41:54Z",
-    "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 12,
-    "updated_at": "2026-06-30T23:16:53Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-30T23:15:46Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-06-30T23:15:24Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-06-30T23:15:21Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
