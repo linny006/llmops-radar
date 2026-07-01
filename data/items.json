@@ -1,12 +1,48 @@
 [
   {
+    "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
+    "id": "MartinBlomqvistDev/prasine-index",
+    "language": "Python",
+    "name": "MartinBlomqvistDev/prasine-index",
+    "stars": 0,
+    "updated_at": "2026-07-01T09:13:53Z",
+    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 8,
-    "updated_at": "2026-07-01T09:00:11Z",
+    "updated_at": "2026-07-01T09:15:11Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52213,
+    "updated_at": "2026-07-01T09:09:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7799,
+    "updated_at": "2026-07-01T09:08:59Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-01T09:08:09Z",
+    "url": "https://github.com/richardpapiona9/llm"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,8 +50,26 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-01T08:57:05Z",
+    "updated_at": "2026-07-01T09:07:14Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-01T09:07:06Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-01T09:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 373,
-    "updated_at": "2026-07-01T08:56:19Z",
+    "updated_at": "2026-07-01T09:06:23Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -50,8 +104,26 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6172,
-    "updated_at": "2026-07-01T08:51:14Z",
+    "updated_at": "2026-07-01T09:11:17Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20176,
+    "updated_at": "2026-07-01T09:09:35Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30203,
+    "updated_at": "2026-07-01T09:06:38Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Portable, self-contained snapshot of a complete Claude Code setup \u2014 36 specialist agents, 134 skills, plugins, MCP serve",
@@ -61,24 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-01T08:45:51Z",
     "url": "https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30202,
-    "updated_at": "2026-07-01T08:47:17Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-01T08:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -97,15 +151,6 @@
     "stars": 6,
     "updated_at": "2026-07-01T08:44:39Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20174,
-    "updated_at": "2026-07-01T08:50:16Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -194,17 +239,8 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-07-01T08:21:16Z",
+    "updated_at": "2026-07-01T09:07:45Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7799,
-    "updated_at": "2026-07-01T08:58:27Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Kubernetes-native private LLM inference runtime with vLLM, KServe, KEDA, OpenTelemetry and GitOps.",
@@ -286,15 +322,6 @@
     "stars": 43,
     "updated_at": "2026-07-01T08:02:10Z",
     "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
-    "id": "MartinBlomqvistDev/prasine-index",
-    "language": "Python",
-    "name": "MartinBlomqvistDev/prasine-index",
-    "stars": 0,
-    "updated_at": "2026-07-01T08:02:09Z",
-    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-01T07:44:41Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
-    "id": "SemeAIPletinnya/semeai-gate-basic",
-    "language": "Python",
-    "name": "SemeAIPletinnya/semeai-gate-basic",
-    "stars": 1,
-    "updated_at": "2026-07-01T07:40:09Z",
-    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-01T07:40:08Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-01T07:38:34Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
