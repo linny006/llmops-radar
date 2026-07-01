@@ -1,12 +1,39 @@
 [
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-07-01T11:12:51Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
+    "id": "runcycles/cycles-spring-ai-starter",
+    "language": "Java",
+    "name": "runcycles/cycles-spring-ai-starter",
     "stars": 0,
-    "updated_at": "2026-07-01T10:58:51Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "updated_at": "2026-07-01T11:12:50Z",
+    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-07-01T11:11:58Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
+    "id": "intentee/paddler",
+    "language": "Rust",
+    "name": "intentee/paddler",
+    "stars": 1619,
+    "updated_at": "2026-07-01T11:11:58Z",
+    "url": "https://github.com/intentee/paddler"
   },
   {
     "description": "Check AI agents before you ship them \u2014 local reports, trace replay, and failure-to-eval for MCP/RAG/LLM apps.",
@@ -14,8 +41,98 @@
     "language": "TypeScript",
     "name": "darwinx687-afk/runwise",
     "stars": 0,
-    "updated_at": "2026-07-01T10:58:42Z",
+    "updated_at": "2026-07-01T11:11:40Z",
     "url": "https://github.com/darwinx687-afk/runwise"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-01T11:11:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6176,
+    "updated_at": "2026-07-01T11:08:44Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2329,
+    "updated_at": "2026-07-01T11:07:41Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-01T11:06:54Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
+    "id": "MartinBlomqvistDev/prasine-index",
+    "language": "Python",
+    "name": "MartinBlomqvistDev/prasine-index",
+    "stars": 0,
+    "updated_at": "2026-07-01T11:06:26Z",
+    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-01T11:06:06Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "A health check for your fine-tuning datasets \u2014 diagnoses diversity, balance, and size risks before you waste a training ",
+    "id": "pixerwar/datasetdoctor",
+    "language": "Python",
+    "name": "pixerwar/datasetdoctor",
+    "stars": 0,
+    "updated_at": "2026-07-01T11:05:55Z",
+    "url": "https://github.com/pixerwar/datasetdoctor"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-01T11:05:07Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-01T11:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30210,
+    "updated_at": "2026-07-01T11:13:41Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -31,27 +148,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52230,
+    "stars": 52233,
     "updated_at": "2026-07-01T10:56:27Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2329,
-    "updated_at": "2026-07-01T10:57:38Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-01T10:53:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -59,26 +158,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20175,
-    "updated_at": "2026-07-01T11:00:19Z",
+    "updated_at": "2026-07-01T11:05:58Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "A health check for your fine-tuning datasets \u2014 diagnoses diversity, balance, and size risks before you waste a training ",
-    "id": "pixerwar/datasetdoctor",
-    "language": "Python",
-    "name": "pixerwar/datasetdoctor",
-    "stars": 0,
-    "updated_at": "2026-07-01T10:54:44Z",
-    "url": "https://github.com/pixerwar/datasetdoctor"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30209,
-    "updated_at": "2026-07-01T10:59:57Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -97,15 +178,6 @@
     "stars": 100,
     "updated_at": "2026-07-01T10:46:14Z",
     "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-01T10:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source prompt management for teams shipping AI features in production. Prompt versioning, A/B testing, conversion f",
@@ -142,15 +214,6 @@
     "stars": 6,
     "updated_at": "2026-07-01T10:44:18Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
-    "id": "MartinBlomqvistDev/prasine-index",
-    "language": "Python",
-    "name": "MartinBlomqvistDev/prasine-index",
-    "stars": 0,
-    "updated_at": "2026-07-01T10:43:56Z",
-    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
   },
   {
     "description": "Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL ",
@@ -288,15 +351,6 @@
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6175,
-    "updated_at": "2026-07-01T10:54:20Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T09:59:32Z",
     "url": "https://github.com/tahasiddiquii/llm-router"
-  },
-  {
-    "description": "Guardrails + red-team harness for LLM apps: PII detection/redaction, prompt-injection & jailbreak defense, and a scored ",
-    "id": "tahasiddiquii/llm-guardrails-redteam",
-    "language": "Python",
-    "name": "tahasiddiquii/llm-guardrails-redteam",
-    "stars": 0,
-    "updated_at": "2026-07-01T09:59:29Z",
-    "url": "https://github.com/tahasiddiquii/llm-guardrails-redteam"
-  },
-  {
-    "description": "LLMs as production extraction infrastructure: rule-vs-LLM triage, validated structured outputs, cost-capped model routin",
-    "id": "tahasiddiquii/llm-extraction-pipeline",
-    "language": "Python",
-    "name": "tahasiddiquii/llm-extraction-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-01T09:59:26Z",
-    "url": "https://github.com/tahasiddiquii/llm-extraction-pipeline"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-01T09:59:25Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "LLM/RAG evaluation + observability harness: golden-dataset eval loop (retrieval, RAGAS-style answer quality, LLM-as-a-ju",
-    "id": "tahasiddiquii/llm-eval-observability",
-    "language": "Python",
-    "name": "tahasiddiquii/llm-eval-observability",
-    "stars": 0,
-    "updated_at": "2026-07-01T09:59:23Z",
-    "url": "https://github.com/tahasiddiquii/llm-eval-observability"
-  },
-  {
-    "description": "Accounts-payable agent: LLM extraction of messy invoices + deterministic 3-way match (invoice/PO/receipt) + human-in-the",
-    "id": "tahasiddiquii/invoice-ap-agent",
-    "language": "Python",
-    "name": "tahasiddiquii/invoice-ap-agent",
-    "stars": 0,
-    "updated_at": "2026-07-01T09:59:20Z",
-    "url": "https://github.com/tahasiddiquii/invoice-ap-agent"
-  },
-  {
-    "description": "Hybrid (BM25+dense+RRF) and graph multi-hop retrieval with a labeled benchmark (recall@k/MRR/nDCG) and an MCP connector.",
-    "id": "tahasiddiquii/hybrid-graph-rag",
-    "language": "Python",
-    "name": "tahasiddiquii/hybrid-graph-rag",
-    "stars": 0,
-    "updated_at": "2026-07-01T09:59:17Z",
-    "url": "https://github.com/tahasiddiquii/hybrid-graph-rag"
   }
 ]
