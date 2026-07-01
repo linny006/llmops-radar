@@ -1,12 +1,21 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-01T03:14:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-01T03:29:01Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1244,
+    "updated_at": "2026-07-01T03:28:05Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -14,8 +23,80 @@
     "language": "Rust",
     "name": "MattJackson/busbarAI",
     "stars": 4,
-    "updated_at": "2026-07-01T03:14:02Z",
+    "updated_at": "2026-07-01T03:26:45Z",
     "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52172,
+    "updated_at": "2026-07-01T03:26:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-01T03:25:49Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 1,
+    "updated_at": "2026-07-01T03:26:07Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Self-hosted platform that treats prompts as tested, versioned, observable production assets.",
+    "id": "Albin-Jo/PromptForge",
+    "language": "Python",
+    "name": "Albin-Jo/PromptForge",
+    "stars": 0,
+    "updated_at": "2026-07-01T03:21:11Z",
+    "url": "https://github.com/Albin-Jo/PromptForge"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-01T03:19:36Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
+    "id": "marcusschiesser/agentpond",
+    "language": "TypeScript",
+    "name": "marcusschiesser/agentpond",
+    "stars": 7,
+    "updated_at": "2026-07-01T03:18:51Z",
+    "url": "https://github.com/marcusschiesser/agentpond"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2322,
+    "updated_at": "2026-07-01T03:17:28Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-01T03:15:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -41,7 +122,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5567,
-    "updated_at": "2026-07-01T03:10:13Z",
+    "updated_at": "2026-07-01T03:22:32Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -59,7 +140,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22792,
-    "updated_at": "2026-07-01T03:14:13Z",
+    "updated_at": "2026-07-01T03:19:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-01T03:04:36Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52169,
-    "updated_at": "2026-07-01T03:04:01Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Full-stack AI governance gateway with FastAPI, PostgreSQL, and React for prompt security, PII detection, policy enforcem",
@@ -99,24 +171,6 @@
     "url": "https://github.com/Kakz/prometheus-llm"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2322,
-    "updated_at": "2026-07-01T03:01:57Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-01T03:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
     "id": "bilal0399/learn-agentic-ai",
     "language": "\u2014",
@@ -133,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-07-01T02:58:48Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
-    "id": "marcusschiesser/agentpond",
-    "language": "TypeScript",
-    "name": "marcusschiesser/agentpond",
-    "stars": 7,
-    "updated_at": "2026-07-01T02:53:27Z",
-    "url": "https://github.com/marcusschiesser/agentpond"
   },
   {
     "description": "AI cost, with the vibes removed. Exact-rational models + a live calculator for the 8 LLM inference-cost decisions every ",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T02:07:26Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7792,
-    "updated_at": "2026-07-01T02:05:46Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-01T02:05:29Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-07-01T02:03:45Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-07-01T02:03:12Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-07-01T02:03:10Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
