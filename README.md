@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-01 03:29 UTC
+> ⏰ Last updated: 2026-07-01 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-07-01 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 2 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1244 | Cuda | 2026-07-01 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
-| 3 | [MattJackson/busbarAI](https://github.com/MattJackson/busbarAI) | 4 | Rust | 2026-07-01 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 52172 | Python | 2026-07-01 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 8 | Go | 2026-07-01 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
-| 6 | [crewhaus/factory](https://github.com/crewhaus/factory) | 1 | TypeScript | 2026-07-01 | Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew,  |
-| 7 | [Albin-Jo/PromptForge](https://github.com/Albin-Jo/PromptForge) | 0 | Python | 2026-07-01 | Self-hosted platform that treats prompts as tested, versioned, observable production assets. |
-| 8 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-07-01 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
-| 9 | [marcusschiesser/agentpond](https://github.com/marcusschiesser/agentpond) | 7 | TypeScript | 2026-07-01 | Store agent traces remotely. Analyze them locally. Keep control of the data. |
-| 10 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2322 | C++ | 2026-07-01 | Community maintained hardware plugin for vLLM on Ascend |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-07-01 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 3 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1244 | Cuda | 2026-07-01 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
+| 4 | [MattJackson/busbarAI](https://github.com/MattJackson/busbarAI) | 4 | Rust | 2026-07-01 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 52172 | Python | 2026-07-01 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 8 | Go | 2026-07-01 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
+| 7 | [crewhaus/factory](https://github.com/crewhaus/factory) | 1 | TypeScript | 2026-07-01 | Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew,  |
+| 8 | [Albin-Jo/PromptForge](https://github.com/Albin-Jo/PromptForge) | 0 | Python | 2026-07-01 | Self-hosted platform that treats prompts as tested, versioned, observable production assets. |
+| 9 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-07-01 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
+| 10 | [marcusschiesser/agentpond](https://github.com/marcusschiesser/agentpond) | 7 | TypeScript | 2026-07-01 | Store agent traces remotely. Analyze them locally. Keep control of the data. |
+| 11 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2322 | C++ | 2026-07-01 | Community maintained hardware plugin for vLLM on Ascend |
 | 12 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-07-01 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
 | 13 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-07-01 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
 | 14 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5567 | Go | 2026-07-01 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
