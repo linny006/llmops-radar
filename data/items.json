@@ -1,5 +1,86 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-01T23:44:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-07-01T23:41:31Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 5,
+    "updated_at": "2026-07-01T23:39:09Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7804,
+    "updated_at": "2026-07-01T23:38:46Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
+    "id": "Justin0504/federated-agent-audit",
+    "language": "Python",
+    "name": "Justin0504/federated-agent-audit",
+    "stars": 3,
+    "updated_at": "2026-07-01T23:37:06Z",
+    "url": "https://github.com/Justin0504/federated-agent-audit"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-07-01T23:36:51Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-01T23:35:48Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10365,
+    "updated_at": "2026-07-01T23:33:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-01T23:30:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -22,27 +103,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52296,
+    "stars": 52297,
     "updated_at": "2026-07-01T23:26:41Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-01T23:24:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-01T23:19:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -207,15 +270,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7803,
-    "updated_at": "2026-07-01T23:14:20Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -369,15 +423,6 @@
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10365,
-    "updated_at": "2026-07-01T23:26:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-01T22:38:19Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-07-01T22:38:17Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-01T22:38:06Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-07-01T22:36:31Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-07-01T22:35:48Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "pytest for LLM prompts \u2014 a regression-testing harness that catches when a prompt or model change silently regresses outp",
-    "id": "Danush-Aries/promptdiff",
-    "language": "Python",
-    "name": "Danush-Aries/promptdiff",
-    "stars": 0,
-    "updated_at": "2026-07-01T22:34:17Z",
-    "url": "https://github.com/Danush-Aries/promptdiff"
   }
 ]
