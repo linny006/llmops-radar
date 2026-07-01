@@ -1,5 +1,113 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-01T10:58:51Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Check AI agents before you ship them \u2014 local reports, trace replay, and failure-to-eval for MCP/RAG/LLM apps.",
+    "id": "darwinx687-afk/runwise",
+    "language": "TypeScript",
+    "name": "darwinx687-afk/runwise",
+    "stars": 0,
+    "updated_at": "2026-07-01T10:58:42Z",
+    "url": "https://github.com/darwinx687-afk/runwise"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 2,
+    "updated_at": "2026-07-01T10:57:33Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52230,
+    "updated_at": "2026-07-01T10:56:27Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2329,
+    "updated_at": "2026-07-01T10:57:38Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-01T10:53:57Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20175,
+    "updated_at": "2026-07-01T11:00:19Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A health check for your fine-tuning datasets \u2014 diagnoses diversity, balance, and size risks before you waste a training ",
+    "id": "pixerwar/datasetdoctor",
+    "language": "Python",
+    "name": "pixerwar/datasetdoctor",
+    "stars": 0,
+    "updated_at": "2026-07-01T10:54:44Z",
+    "url": "https://github.com/pixerwar/datasetdoctor"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30209,
+    "updated_at": "2026-07-01T10:59:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-01T10:51:41Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
+    "id": "taishan666/MaxKB4j",
+    "language": "Java",
+    "name": "taishan666/MaxKB4j",
+    "stars": 100,
+    "updated_at": "2026-07-01T10:46:14Z",
+    "url": "https://github.com/taishan666/MaxKB4j"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-01T10:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open source prompt management for teams shipping AI features in production. Prompt versioning, A/B testing, conversion f",
     "id": "xirukmfc/xr2",
     "language": "TypeScript",
@@ -18,21 +126,12 @@
     "url": "https://github.com/recetariodmix/garak"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-01T10:44:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
     "id": "EffortlessMetrics/tokmd",
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-07-01T10:44:33Z",
+    "updated_at": "2026-07-01T10:46:02Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -86,7 +185,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 3,
-    "updated_at": "2026-07-01T10:33:56Z",
+    "updated_at": "2026-07-01T10:50:51Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -108,24 +207,6 @@
     "url": "https://github.com/bilal0399/learn-agentic-ai"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-01T10:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52226,
-    "updated_at": "2026-07-01T10:29:56Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -144,33 +225,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2329,
-    "updated_at": "2026-07-01T10:28:55Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-01T10:20:52Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20175,
-    "updated_at": "2026-07-01T10:44:40Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
     "id": "affkoul/agentforge-runtime",
     "language": "Python",
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-01T10:20:15Z",
     "url": "https://github.com/affkoul/agentforge-runtime"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30205,
-    "updated_at": "2026-07-01T10:40:21Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\u8d28\u91cf\u95e8\u7981",
@@ -248,7 +293,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6175,
-    "updated_at": "2026-07-01T10:44:42Z",
+    "updated_at": "2026-07-01T10:54:20Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T09:59:17Z",
     "url": "https://github.com/tahasiddiquii/hybrid-graph-rag"
-  },
-  {
-    "description": "Manager-pattern research agent: coordinator orchestrates planner/searcher/synthesizer/fact-checker/writer sub-agents (ag",
-    "id": "tahasiddiquii/deep-research-agent",
-    "language": "Python",
-    "name": "tahasiddiquii/deep-research-agent",
-    "stars": 0,
-    "updated_at": "2026-07-01T09:59:10Z",
-    "url": "https://github.com/tahasiddiquii/deep-research-agent"
-  },
-  {
-    "description": "Production AI harness: the decision layer around an LLM \u2014 adaptive model routing, PII + prompt-injection guardrails, hyb",
-    "id": "tahasiddiquii/ai-harness",
-    "language": "Python",
-    "name": "tahasiddiquii/ai-harness",
-    "stars": 0,
-    "updated_at": "2026-07-01T09:59:04Z",
-    "url": "https://github.com/tahasiddiquii/ai-harness"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-07-01T09:58:22Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-01T09:58:20Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-01T09:55:10Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
