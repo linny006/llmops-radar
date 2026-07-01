@@ -1,12 +1,48 @@
 [
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Local-first assurance and measurement toolkit for agentic AI governance pipelines: expectation-driven checks, reproducib",
+    "id": "acblabs/agent-assure",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20185,
-    "updated_at": "2026-07-01T17:29:54Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-07-01T17:44:51Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-07-01T17:43:43Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-01T17:43:03Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-01T17:42:37Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
+    "id": "manojmallick/gavio",
+    "language": "Java",
+    "name": "manojmallick/gavio",
+    "stars": 0,
+    "updated_at": "2026-07-01T17:42:01Z",
+    "url": "https://github.com/manojmallick/gavio"
   },
   {
     "description": "Live AI creator-intelligence platform with LangGraph agents, external-data pipelines, deterministic scoring, APIs, tests",
@@ -14,8 +50,44 @@
     "language": "TypeScript",
     "name": "OmarA1-Bakri/CallScore",
     "stars": 0,
-    "updated_at": "2026-07-01T17:29:18Z",
+    "updated_at": "2026-07-01T17:39:27Z",
     "url": "https://github.com/OmarA1-Bakri/CallScore"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-01T17:33:23Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10364,
+    "updated_at": "2026-07-01T17:32:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-01T17:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20185,
+    "updated_at": "2026-07-01T17:37:05Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 52275,
-    "updated_at": "2026-07-01T17:26:02Z",
+    "updated_at": "2026-07-01T17:30:34Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -54,15 +126,6 @@
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-01T17:22:01Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
     "id": "affkoul/agentforge-runtime",
     "language": "Python",
@@ -70,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-01T17:20:39Z",
     "url": "https://github.com/affkoul/agentforge-runtime"
-  },
-  {
-    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
-    "id": "manojmallick/gavio",
-    "language": "Java",
-    "name": "manojmallick/gavio",
-    "stars": 0,
-    "updated_at": "2026-07-01T17:22:55Z",
-    "url": "https://github.com/manojmallick/gavio"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-01T17:15:30Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-01T17:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -239,7 +284,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30223,
-    "updated_at": "2026-07-01T17:17:34Z",
+    "updated_at": "2026-07-01T17:44:02Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -275,7 +320,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6187,
-    "updated_at": "2026-07-01T16:50:10Z",
+    "updated_at": "2026-07-01T17:40:07Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T16:36:10Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-01T16:36:09Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-01T16:32:47Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-07-01T16:32:32Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-01T16:25:53Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-07-01T16:25:23Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
