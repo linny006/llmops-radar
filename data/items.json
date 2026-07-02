@@ -1,12 +1,129 @@
 [
   {
+    "description": "Production grade AI contact center starter kit with FastAPI, OpenAI tool calling, RAG, observability, Docker, Terraform,",
+    "id": "saademad200/ai-contact-center-starter-kit",
+    "language": "Python",
+    "name": "saademad200/ai-contact-center-starter-kit",
+    "stars": 4,
+    "updated_at": "2026-07-02T17:28:53Z",
+    "url": "https://github.com/saademad200/ai-contact-center-starter-kit"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-07-02T17:28:37Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:26:10Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52418,
-    "updated_at": "2026-07-02T17:18:41Z",
+    "stars": 52420,
+    "updated_at": "2026-07-02T17:25:45Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-02T17:24:08Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Budget firewall for AI agents \u2014 OpenAI-compatible proxy with hard daily spend ceilings, atomic Redis enforcement, and a ",
+    "id": "islas104/AI-Firewall",
+    "language": "JavaScript",
+    "name": "islas104/AI-Firewall",
+    "stars": 1,
+    "updated_at": "2026-07-02T17:23:27Z",
+    "url": "https://github.com/islas104/AI-Firewall"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:22:10Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "A guarded ChatGPT-to-Codex automation bridge for bounded local engineering loops.",
+    "id": "MHW888888/aegisloop",
+    "language": "JavaScript",
+    "name": "MHW888888/aegisloop",
+    "stars": 2,
+    "updated_at": "2026-07-02T17:21:52Z",
+    "url": "https://github.com/MHW888888/aegisloop"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:21:21Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-02T17:21:07Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-02T17:20:36Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1057,
+    "updated_at": "2026-07-02T17:24:12Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1065,
+    "updated_at": "2026-07-02T17:19:52Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-02T17:18:43Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -18,24 +135,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-02T17:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "A guarded ChatGPT-to-Codex automation bridge for bounded local engineering loops.",
-    "id": "MHW888888/aegisloop",
-    "language": "JavaScript",
-    "name": "MHW888888/aegisloop",
-    "stars": 2,
-    "updated_at": "2026-07-02T17:14:15Z",
-    "url": "https://github.com/MHW888888/aegisloop"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -43,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-07-02T17:14:11Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-02T17:13:59Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
@@ -70,15 +160,6 @@
     "stars": 718,
     "updated_at": "2026-07-02T17:11:37Z",
     "url": "https://github.com/santifer/cv-santiago"
-  },
-  {
-    "description": "Budget firewall for AI agents \u2014 OpenAI-compatible proxy with hard daily spend ceilings, atomic Redis enforcement, and a ",
-    "id": "islas104/AI-Firewall",
-    "language": "JavaScript",
-    "name": "islas104/AI-Firewall",
-    "stars": 1,
-    "updated_at": "2026-07-02T17:11:56Z",
-    "url": "https://github.com/islas104/AI-Firewall"
   },
   {
     "description": "A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 5",
@@ -104,7 +185,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30312,
-    "updated_at": "2026-07-02T17:07:54Z",
+    "updated_at": "2026-07-02T17:22:11Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -115,6 +196,15 @@
     "stars": 0,
     "updated_at": "2026-07-02T17:07:27Z",
     "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20234,
+    "updated_at": "2026-07-02T17:04:42Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -135,15 +225,6 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 0,
-    "updated_at": "2026-07-02T17:17:46Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -160,15 +241,6 @@
     "stars": 2569,
     "updated_at": "2026-07-02T16:55:24Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1065,
-    "updated_at": "2026-07-02T16:54:59Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -225,24 +297,6 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20233,
-    "updated_at": "2026-07-02T17:04:42Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-07-02T17:07:15Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -268,15 +322,6 @@
     "stars": 29071,
     "updated_at": "2026-07-02T16:21:13Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-02T17:14:43Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
@@ -311,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3321,
-    "updated_at": "2026-07-02T16:40:17Z",
+    "updated_at": "2026-07-02T17:24:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -331,6 +376,15 @@
     "stars": 10,
     "updated_at": "2026-07-02T15:58:34Z",
     "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6219,
+    "updated_at": "2026-07-02T15:53:16Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -358,15 +412,6 @@
     "stars": 10377,
     "updated_at": "2026-07-02T15:43:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1057,
-    "updated_at": "2026-07-02T17:00:31Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T15:21:05Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:17:50Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Berkeley EECS engineer building AI systems, LLM workflows, and startup products.",
-    "id": "Khas-Erdene-Tsogtsaikhan/Khas-Erdene-Tsogtsaikhan",
-    "language": "\u2014",
-    "name": "Khas-Erdene-Tsogtsaikhan/Khas-Erdene-Tsogtsaikhan",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:15:15Z",
-    "url": "https://github.com/Khas-Erdene-Tsogtsaikhan/Khas-Erdene-Tsogtsaikhan"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-02T15:15:08Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6218,
-    "updated_at": "2026-07-02T15:53:16Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-07-02T15:12:52Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   }
 ]
