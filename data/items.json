@@ -1,11 +1,74 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30305,
+    "updated_at": "2026-07-02T15:42:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-02T15:42:14Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3321,
+    "updated_at": "2026-07-02T15:40:35Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-02T15:40:01Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A guarded ChatGPT-to-Codex automation bridge for bounded local engineering loops.",
+    "id": "MHW888888/aegisloop",
+    "language": "JavaScript",
+    "name": "MHW888888/aegisloop",
+    "stars": 2,
+    "updated_at": "2026-07-02T15:39:58Z",
+    "url": "https://github.com/MHW888888/aegisloop"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2569,
+    "updated_at": "2026-07-02T15:39:52Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-02T15:39:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10376,
-    "updated_at": "2026-07-02T15:39:14Z",
+    "updated_at": "2026-07-02T15:43:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,17 +77,8 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1057,
-    "updated_at": "2026-07-02T15:38:57Z",
+    "updated_at": "2026-07-02T15:41:26Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30305,
-    "updated_at": "2026-07-02T15:37:33Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -41,17 +95,8 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 66,
-    "updated_at": "2026-07-02T15:37:10Z",
+    "updated_at": "2026-07-02T15:44:41Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3320,
-    "updated_at": "2026-07-02T15:38:04Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
@@ -68,17 +113,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20226,
-    "updated_at": "2026-07-02T15:36:33Z",
+    "updated_at": "2026-07-02T15:40:52Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-02T15:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -106,15 +142,6 @@
     "stars": 2340,
     "updated_at": "2026-07-02T15:27:57Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "A guarded ChatGPT-to-Codex automation bridge for bounded local engineering loops.",
-    "id": "MHW888888/aegisloop",
-    "language": "JavaScript",
-    "name": "MHW888888/aegisloop",
-    "stars": 2,
-    "updated_at": "2026-07-02T15:25:51Z",
-    "url": "https://github.com/MHW888888/aegisloop"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -189,15 +216,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-02T15:14:56Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T15:11:41Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:11:10Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -409,7 +418,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22851,
+    "stars": 22852,
     "updated_at": "2026-07-02T14:47:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 44,
     "updated_at": "2026-07-02T14:44:59Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-02T14:44:54Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   }
 ]
