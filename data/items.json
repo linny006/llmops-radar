@@ -1,21 +1,102 @@
 [
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3320,
-    "updated_at": "2026-07-02T10:14:54Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Kubernetes-native private LLM inference runtime with vLLM, KServe, KEDA, OpenTelemetry and GitOps.",
     "id": "justrunme/ai-runtime-platform",
     "language": "Python",
     "name": "justrunme/ai-runtime-platform",
     "stars": 1,
-    "updated_at": "2026-07-02T10:13:14Z",
+    "updated_at": "2026-07-02T10:29:55Z",
     "url": "https://github.com/justrunme/ai-runtime-platform"
+  },
+  {
+    "description": "Kubernetes-native control plane for operating private AI workloads with observability, forecasting, GitOps, security, an",
+    "id": "justrunme/ai-infra-control-plane",
+    "language": "Python",
+    "name": "justrunme/ai-infra-control-plane",
+    "stars": 1,
+    "updated_at": "2026-07-02T10:29:55Z",
+    "url": "https://github.com/justrunme/ai-infra-control-plane"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-07-02T10:29:24Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "Turn Portkey & Langsmith data into OTEL signals",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-07-02T10:29:06Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26821,
+    "updated_at": "2026-07-02T10:29:29Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:25:24Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode li",
+    "id": "apache/hamilton",
+    "language": "Jupyter Notebook",
+    "name": "apache/hamilton",
+    "stars": 2533,
+    "updated_at": "2026-07-02T10:22:25Z",
+    "url": "https://github.com/apache/hamilton"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20217,
+    "updated_at": "2026-07-02T10:28:26Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3320,
+    "updated_at": "2026-07-02T10:25:01Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
+    "id": "suryaanandan1995-dotcom/ai-freelance-copilot",
+    "language": "Python",
+    "name": "suryaanandan1995-dotcom/ai-freelance-copilot",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:19:52Z",
+    "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30287,
+    "updated_at": "2026-07-02T10:18:03Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -23,8 +104,17 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6211,
-    "updated_at": "2026-07-02T10:13:50Z",
+    "updated_at": "2026-07-02T10:27:42Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-02T10:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -36,15 +126,6 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
-    "id": "suryaanandan1995-dotcom/ai-freelance-copilot",
-    "language": "Python",
-    "name": "suryaanandan1995-dotcom/ai-freelance-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-02T10:09:54Z",
-    "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -54,38 +135,11 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-02T10:07:19Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Kubernetes-native control plane for operating private AI workloads with observability, forecasting, GitOps, security, an",
-    "id": "justrunme/ai-infra-control-plane",
-    "language": "Python",
-    "name": "justrunme/ai-infra-control-plane",
-    "stars": 1,
-    "updated_at": "2026-07-02T10:13:32Z",
-    "url": "https://github.com/justrunme/ai-infra-control-plane"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30286,
-    "updated_at": "2026-07-02T10:13:14Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52372,
+    "stars": 52376,
     "updated_at": "2026-07-02T10:02:50Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T10:01:35Z",
     "url": "https://github.com/mwigge/rs-llmctl"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-02T10:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -124,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T09:51:07Z",
     "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20217,
-    "updated_at": "2026-07-02T10:12:15Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -193,8 +229,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29061,
-    "updated_at": "2026-07-02T09:29:50Z",
+    "stars": 29062,
+    "updated_at": "2026-07-02T10:26:46Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11488,
-    "updated_at": "2026-07-02T10:08:04Z",
+    "updated_at": "2026-07-02T10:20:25Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -340,15 +376,6 @@
     "stars": 17,
     "updated_at": "2026-07-02T08:52:49Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-07-02T10:07:41Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T08:20:18Z",
     "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
-    "id": "moiraweave-labs/moiraweave",
-    "language": "Python",
-    "name": "moiraweave-labs/moiraweave",
-    "stars": 1,
-    "updated_at": "2026-07-02T08:18:53Z",
-    "url": "https://github.com/moiraweave-labs/moiraweave"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-07-02T08:18:25Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Signature Forgery detection implementation using latent learning (VAE + Siamese) ",
-    "id": "cytric-74/inkGuard",
-    "language": "Python",
-    "name": "cytric-74/inkGuard",
-    "stars": 0,
-    "updated_at": "2026-07-02T08:16:25Z",
-    "url": "https://github.com/cytric-74/inkGuard"
   }
 ]
