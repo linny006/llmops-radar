@@ -1,11 +1,110 @@
 [
   {
+    "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
+    "id": "Neeeophytee/awesome-ai-workflows",
+    "language": "Shell",
+    "name": "Neeeophytee/awesome-ai-workflows",
+    "stars": 11,
+    "updated_at": "2026-07-02T16:14:26Z",
+    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52414,
+    "updated_at": "2026-07-02T16:13:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2569,
+    "updated_at": "2026-07-02T16:13:11Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30307,
+    "updated_at": "2026-07-02T16:15:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20232,
+    "updated_at": "2026-07-02T16:08:18Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Production-minded harness for configuring, testing, deploying, and QA-ing a multilingual LLM conversational AI across ma",
+    "id": "Drzymek92/market-bot-configurator",
+    "language": "Python",
+    "name": "Drzymek92/market-bot-configurator",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:07:53Z",
+    "url": "https://github.com/Drzymek92/market-bot-configurator"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2340,
+    "updated_at": "2026-07-02T16:07:04Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 1,
+    "updated_at": "2026-07-02T16:06:42Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:03:55Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3321,
+    "updated_at": "2026-07-02T16:06:32Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-02T16:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4257,
-    "updated_at": "2026-07-02T15:59:17Z",
+    "updated_at": "2026-07-02T16:01:10Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -27,15 +126,6 @@
     "url": "https://github.com/8pig/llm-ops"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30306,
-    "updated_at": "2026-07-02T16:00:15Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
     "id": "EffortlessMetrics/tokmd",
     "language": "Rust",
@@ -43,15 +133,6 @@
     "stars": 5,
     "updated_at": "2026-07-02T15:55:35Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52412,
-    "updated_at": "2026-07-02T15:55:09Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -81,24 +162,6 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "Production-minded harness for configuring, testing, deploying, and QA-ing a multilingual LLM conversational AI across ma",
-    "id": "Drzymek92/market-bot-configurator",
-    "language": "Python",
-    "name": "Drzymek92/market-bot-configurator",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:46:04Z",
-    "url": "https://github.com/Drzymek92/market-bot-configurator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-02T15:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -117,24 +180,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20229,
-    "updated_at": "2026-07-02T15:40:52Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3321,
-    "updated_at": "2026-07-02T15:48:21Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "A guarded ChatGPT-to-Codex automation bridge for bounded local engineering loops.",
     "id": "MHW888888/aegisloop",
     "language": "JavaScript",
@@ -142,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-07-02T15:39:58Z",
     "url": "https://github.com/MHW888888/aegisloop"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2569,
-    "updated_at": "2026-07-02T15:39:52Z",
-    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 66,
-    "updated_at": "2026-07-02T15:57:05Z",
+    "updated_at": "2026-07-02T16:08:18Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-02T15:29:30Z",
+    "updated_at": "2026-07-02T16:12:24Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 375,
     "updated_at": "2026-07-02T15:29:16Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2340,
-    "updated_at": "2026-07-02T15:27:57Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T15:17:50Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:16:37Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "Berkeley EECS engineer building AI systems, LLM workflows, and startup products.",
@@ -286,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-07-02T15:12:52Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 1,
-    "updated_at": "2026-07-02T15:13:09Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-02T14:47:50Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-02T14:47:46Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
