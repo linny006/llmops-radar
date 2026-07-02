@@ -1,12 +1,66 @@
 [
   {
+    "description": "Rust-first, local-first observability & debugging for LLM agents: capture, inspect, replay, diff, and export traces (Ope",
+    "id": "kidoz/trace-weft",
+    "language": "Rust",
+    "name": "kidoz/trace-weft",
+    "stars": 3,
+    "updated_at": "2026-07-02T08:44:07Z",
+    "url": "https://github.com/kidoz/trace-weft"
+  },
+  {
+    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
+    "id": "retardingforcerightbank635/dm-gateway-bot",
+    "language": "Python",
+    "name": "retardingforcerightbank635/dm-gateway-bot",
+    "stars": 0,
+    "updated_at": "2026-07-02T08:42:02Z",
+    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30275,
-    "updated_at": "2026-07-02T08:30:55Z",
+    "stars": 30277,
+    "updated_at": "2026-07-02T08:40:36Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2336,
+    "updated_at": "2026-07-02T08:38:23Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
+    "id": "mwigge/rs-llmctl",
+    "language": "Rust",
+    "name": "mwigge/rs-llmctl",
+    "stars": 0,
+    "updated_at": "2026-07-02T08:37:21Z",
+    "url": "https://github.com/mwigge/rs-llmctl"
+  },
+  {
+    "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
+    "id": "esanmohammad/Anvil",
+    "language": "TypeScript",
+    "name": "esanmohammad/Anvil",
+    "stars": 16,
+    "updated_at": "2026-07-02T08:37:43Z",
+    "url": "https://github.com/esanmohammad/Anvil"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29058,
+    "updated_at": "2026-07-02T08:36:05Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +68,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-07-02T08:30:26Z",
+    "updated_at": "2026-07-02T08:33:34Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52352,
+    "updated_at": "2026-07-02T08:44:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11485,
+    "updated_at": "2026-07-02T08:39:53Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -72,24 +144,6 @@
     "url": "https://github.com/harishu652/Class-AI-Agent"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52350,
-    "updated_at": "2026-07-02T08:33:19Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Rust-first, local-first observability & debugging for LLM agents: capture, inspect, replay, diff, and export traces (Ope",
-    "id": "kidoz/trace-weft",
-    "language": "Rust",
-    "name": "kidoz/trace-weft",
-    "stars": 3,
-    "updated_at": "2026-07-02T08:20:49Z",
-    "url": "https://github.com/kidoz/trace-weft"
-  },
-  {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
     "id": "wordenneapolitan768/llm-pricing",
     "language": "\u2014",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20213,
-    "updated_at": "2026-07-02T08:27:01Z",
+    "updated_at": "2026-07-02T08:38:00Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-02T08:13:13Z",
     "url": "https://github.com/fangzheng698-lang/agent-prod"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2336,
-    "updated_at": "2026-07-02T08:12:14Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -342,15 +387,6 @@
     "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29056,
-    "updated_at": "2026-07-02T07:42:51Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
     "id": "sarrahw23/deploy-guide",
     "language": "\u2014",
@@ -367,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T07:39:12Z",
     "url": "https://github.com/MrPredic/indelible"
-  },
-  {
-    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
-    "id": "mwigge/rs-llmctl",
-    "language": "Rust",
-    "name": "mwigge/rs-llmctl",
-    "stars": 0,
-    "updated_at": "2026-07-02T07:37:34Z",
-    "url": "https://github.com/mwigge/rs-llmctl"
   },
   {
     "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T07:32:06Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-02T07:30:21Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-02T07:28:25Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-07-02T07:28:02Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
