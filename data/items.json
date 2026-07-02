@@ -1,5 +1,32 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52418,
+    "updated_at": "2026-07-02T17:18:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:15:51Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-02T17:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A guarded ChatGPT-to-Codex automation bridge for bounded local engineering loops.",
     "id": "MHW888888/aegisloop",
     "language": "JavaScript",
@@ -16,15 +43,6 @@
     "stars": 7,
     "updated_at": "2026-07-02T17:14:11Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-02T17:15:18Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
@@ -81,6 +99,15 @@
     "url": "https://github.com/NikolaiSachok/Strata-RAG"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30312,
+    "updated_at": "2026-07-02T17:07:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -90,15 +117,6 @@
     "url": "https://github.com/liam8421/faster-llm"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52417,
-    "updated_at": "2026-07-02T17:03:11Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T17:00:38Z",
     "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-02T17:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 0,
-    "updated_at": "2026-07-02T16:58:43Z",
+    "updated_at": "2026-07-02T17:17:46Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T16:42:46Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30311,
-    "updated_at": "2026-07-02T17:07:54Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
