@@ -1,11 +1,47 @@
 [
   {
+    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
+    "id": "moiraweave-labs/moiraweave",
+    "language": "Python",
+    "name": "moiraweave-labs/moiraweave",
+    "stars": 1,
+    "updated_at": "2026-07-02T08:14:29Z",
+    "url": "https://github.com/moiraweave-labs/moiraweave"
+  },
+  {
+    "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
+    "id": "fangzheng698-lang/agent-prod",
+    "language": "Python",
+    "name": "fangzheng698-lang/agent-prod",
+    "stars": 2,
+    "updated_at": "2026-07-02T08:13:13Z",
+    "url": "https://github.com/fangzheng698-lang/agent-prod"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2336,
+    "updated_at": "2026-07-02T08:12:14Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 19,
+    "updated_at": "2026-07-02T08:11:40Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-02T08:00:13Z",
+    "updated_at": "2026-07-02T08:07:44Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -13,9 +49,27 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52345,
-    "updated_at": "2026-07-02T07:56:37Z",
+    "stars": 52348,
+    "updated_at": "2026-07-02T08:04:24Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source AI gateway to route, observe, and govern every LLM call from a single endpoint.",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 3,
+    "updated_at": "2026-07-02T08:02:11Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-02T08:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -25,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-02T07:56:05Z",
     "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
-    "id": "fangzheng698-lang/agent-prod",
-    "language": "Python",
-    "name": "fangzheng698-lang/agent-prod",
-    "stars": 2,
-    "updated_at": "2026-07-02T07:54:09Z",
-    "url": "https://github.com/fangzheng698-lang/agent-prod"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -103,7 +148,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30271,
+    "stars": 30273,
     "updated_at": "2026-07-02T07:48:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -142,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T07:46:25Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2336,
-    "updated_at": "2026-07-02T07:46:22Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-02T07:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
@@ -261,15 +288,6 @@
     "url": "https://github.com/kidoz/trace-weft"
   },
   {
-    "description": "Self-hosted AI workload and agent operations platform: deploy, chat with, observe, cancel, and operate agents, models, a",
-    "id": "moiraweave-labs/moiraweave",
-    "language": "Python",
-    "name": "moiraweave-labs/moiraweave",
-    "stars": 1,
-    "updated_at": "2026-07-02T07:36:36Z",
-    "url": "https://github.com/moiraweave-labs/moiraweave"
-  },
-  {
     "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
     "id": "SemeAIPletinnya/semeai-gate-basic",
     "language": "Python",
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20214,
-    "updated_at": "2026-07-02T07:34:33Z",
+    "updated_at": "2026-07-02T08:15:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-02T07:11:54Z",
     "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-07-02T07:10:47Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 0,
-    "updated_at": "2026-07-02T07:09:25Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   }
 ]
