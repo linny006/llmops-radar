@@ -1,29 +1,29 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30239,
-    "updated_at": "2026-07-02T02:14:25Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 8,
-    "updated_at": "2026-07-02T02:12:39Z",
+    "updated_at": "2026-07-02T02:26:25Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10368,
+    "updated_at": "2026-07-02T02:27:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52303,
-    "updated_at": "2026-07-02T02:11:20Z",
+    "stars": 52307,
+    "updated_at": "2026-07-02T02:24:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -32,8 +32,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-07-02T02:00:22Z",
+    "updated_at": "2026-07-02T02:15:23Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30239,
+    "updated_at": "2026-07-02T02:23:53Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -124,15 +133,6 @@
     "stars": 479,
     "updated_at": "2026-07-02T01:43:29Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10367,
-    "updated_at": "2026-07-02T01:38:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",

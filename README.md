@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-02 02:15 UTC
+> ⏰ Last updated: 2026-07-02 02:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 30239 | TypeScript | 2026-07-02 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 8 | Go | 2026-07-02 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 52303 | Python | 2026-07-02 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 8 | Go | 2026-07-02 | fak — the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary  |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10368 | Python | 2026-07-02 | AI Observability & Evaluation |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 52307 | Python | 2026-07-02 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-07-02 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
-| 6 | [acblabs/agent-assure](https://github.com/acblabs/agent-assure) | 0 | Python | 2026-07-02 | Local-first assurance and measurement toolkit for agentic AI governance pipelines: expectation-driven checks, reproducib |
-| 7 | [marcusschiesser/agentpond](https://github.com/marcusschiesser/agentpond) | 8 | TypeScript | 2026-07-02 | Store agent traces remotely. Analyze them locally. Keep control of the data. |
-| 8 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-07-02 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
-| 9 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-07-02 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
-| 10 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-07-02 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 11 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-07-02 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
-| 12 | [Ajayy009/financial-intelligence-pipeline](https://github.com/Ajayy009/financial-intelligence-pipeline) | 0 | Python | 2026-07-02 | Production-grade MLOps & LLMOps platform unifying a PyTorch & Hugging Face fine-tuned BERT model for real-time sentiment |
-| 13 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-07-02 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
-| 14 | [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 479 | JavaScript | 2026-07-02 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude  |
-| 15 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10367 | Python | 2026-07-02 | AI Observability & Evaluation |
+| 5 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 30239 | TypeScript | 2026-07-02 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 6 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-07-02 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
+| 7 | [acblabs/agent-assure](https://github.com/acblabs/agent-assure) | 0 | Python | 2026-07-02 | Local-first assurance and measurement toolkit for agentic AI governance pipelines: expectation-driven checks, reproducib |
+| 8 | [marcusschiesser/agentpond](https://github.com/marcusschiesser/agentpond) | 8 | TypeScript | 2026-07-02 | Store agent traces remotely. Analyze them locally. Keep control of the data. |
+| 9 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-07-02 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
+| 10 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-07-02 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
+| 11 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-07-02 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
+| 12 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-07-02 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
+| 13 | [Ajayy009/financial-intelligence-pipeline](https://github.com/Ajayy009/financial-intelligence-pipeline) | 0 | Python | 2026-07-02 | Production-grade MLOps & LLMOps platform unifying a PyTorch & Hugging Face fine-tuned BERT model for real-time sentiment |
+| 14 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-07-02 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
+| 15 | [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 479 | JavaScript | 2026-07-02 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude  |
 | 16 | [retardingforcerightbank635/dm-gateway-bot](https://github.com/retardingforcerightbank635/dm-gateway-bot) | 0 | Python | 2026-07-02 | Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k |
 | 17 | [harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent) | 0 | — | 2026-07-02 | Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules |
 | 18 | [wordenneapolitan768/llm-pricing](https://github.com/wordenneapolitan768/llm-pricing) | 1 | — | 2026-07-02 | Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards |
