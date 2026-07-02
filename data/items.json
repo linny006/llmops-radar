@@ -1,5 +1,122 @@
 [
   {
+    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
+    "id": "marcusschiesser/agentpond",
+    "language": "TypeScript",
+    "name": "marcusschiesser/agentpond",
+    "stars": 8,
+    "updated_at": "2026-07-02T09:43:23Z",
+    "url": "https://github.com/marcusschiesser/agentpond"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-02T09:42:41Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Kubernetes-native private LLM inference runtime with vLLM, KServe, KEDA, OpenTelemetry and GitOps.",
+    "id": "justrunme/ai-runtime-platform",
+    "language": "Python",
+    "name": "justrunme/ai-runtime-platform",
+    "stars": 1,
+    "updated_at": "2026-07-02T09:40:28Z",
+    "url": "https://github.com/justrunme/ai-runtime-platform"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-02T09:39:59Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Kubernetes-native control plane for operating private AI workloads with observability, forecasting, GitOps, security, an",
+    "id": "justrunme/ai-infra-control-plane",
+    "language": "Python",
+    "name": "justrunme/ai-infra-control-plane",
+    "stars": 1,
+    "updated_at": "2026-07-02T09:39:54Z",
+    "url": "https://github.com/justrunme/ai-infra-control-plane"
+  },
+  {
+    "description": "Rust-first, local-first observability & debugging for LLM agents: capture, inspect, replay, diff, and export traces (Ope",
+    "id": "kidoz/trace-weft",
+    "language": "Rust",
+    "name": "kidoz/trace-weft",
+    "stars": 3,
+    "updated_at": "2026-07-02T09:37:50Z",
+    "url": "https://github.com/kidoz/trace-weft"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52367,
+    "updated_at": "2026-07-02T09:36:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 43,
+    "updated_at": "2026-07-02T09:35:43Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30281,
+    "updated_at": "2026-07-02T09:41:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2337,
+    "updated_at": "2026-07-02T09:31:59Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-02T09:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6209,
+    "updated_at": "2026-07-02T09:38:57Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29061,
+    "updated_at": "2026-07-02T09:29:50Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
     "id": "JoniMartin27/lookspan",
     "language": "TypeScript",
@@ -16,51 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T09:28:17Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29060,
-    "updated_at": "2026-07-02T09:29:50Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Kubernetes-native control plane for operating private AI workloads with observability, forecasting, GitOps, security, an",
-    "id": "justrunme/ai-infra-control-plane",
-    "language": "Python",
-    "name": "justrunme/ai-infra-control-plane",
-    "stars": 1,
-    "updated_at": "2026-07-02T09:27:41Z",
-    "url": "https://github.com/justrunme/ai-infra-control-plane"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-02T09:27:27Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Kubernetes-native private LLM inference runtime with vLLM, KServe, KEDA, OpenTelemetry and GitOps.",
-    "id": "justrunme/ai-runtime-platform",
-    "language": "Python",
-    "name": "justrunme/ai-runtime-platform",
-    "stars": 1,
-    "updated_at": "2026-07-02T09:26:42Z",
-    "url": "https://github.com/justrunme/ai-runtime-platform"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2337,
-    "updated_at": "2026-07-02T09:30:15Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -117,15 +189,6 @@
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-02T09:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Semantic caching for LLM APIs \u2014 reuse responses for similar prompts to cut cost & latency. Backends: in-memory, pgvector",
     "id": "apoorva-01/semcache",
     "language": "Python",
@@ -133,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T09:15:05Z",
     "url": "https://github.com/apoorva-01/semcache"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52363,
-    "updated_at": "2026-07-02T09:14:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6208,
-    "updated_at": "2026-07-02T09:30:15Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11488,
-    "updated_at": "2026-07-02T09:24:32Z",
+    "updated_at": "2026-07-02T09:35:48Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -234,15 +279,6 @@
     "url": "https://github.com/apoorva-01/promptguard"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30280,
-    "updated_at": "2026-07-02T09:29:04Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Budget firewall for AI agents \u2014 OpenAI-compatible proxy with hard daily spend ceilings, atomic Redis enforcement, and a ",
     "id": "islas104/AI-Firewall",
     "language": "JavaScript",
@@ -268,15 +304,6 @@
     "stars": 5,
     "updated_at": "2026-07-02T08:53:28Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "Rust-first, local-first observability & debugging for LLM agents: capture, inspect, replay, diff, and export traces (Ope",
-    "id": "kidoz/trace-weft",
-    "language": "Rust",
-    "name": "kidoz/trace-weft",
-    "stars": 3,
-    "updated_at": "2026-07-02T08:44:07Z",
-    "url": "https://github.com/kidoz/trace-weft"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -322,15 +349,6 @@
     "stars": 3,
     "updated_at": "2026-07-02T08:25:16Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 43,
-    "updated_at": "2026-07-02T09:19:48Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -418,7 +436,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22834,
+    "stars": 22835,
     "updated_at": "2026-07-02T07:53:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-02T07:53:04Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-07-02T07:51:29Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-02T07:51:28Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
