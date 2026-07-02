@@ -1,12 +1,12 @@
 [
   {
-    "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
-    "id": "MartinBlomqvistDev/prasine-index",
-    "language": "Python",
-    "name": "MartinBlomqvistDev/prasine-index",
-    "stars": 0,
-    "updated_at": "2026-07-02T11:00:11Z",
-    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-02T11:13:42Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
@@ -14,17 +14,98 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 8,
-    "updated_at": "2026-07-02T11:00:20Z",
+    "updated_at": "2026-07-02T11:12:52Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-02T10:58:26Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3320,
+    "updated_at": "2026-07-02T11:13:59Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2338,
+    "updated_at": "2026-07-02T11:10:59Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29064,
+    "updated_at": "2026-07-02T11:12:26Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-02T11:10:22Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30291,
+    "updated_at": "2026-07-02T11:13:47Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-02T11:03:16Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20219,
+    "updated_at": "2026-07-02T11:08:49Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
+    "id": "suryaanandan1995-dotcom/ai-freelance-copilot",
+    "language": "Python",
+    "name": "suryaanandan1995-dotcom/ai-freelance-copilot",
+    "stars": 0,
+    "updated_at": "2026-07-02T11:01:07Z",
+    "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-02T11:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
+    "id": "MartinBlomqvistDev/prasine-index",
+    "language": "Python",
+    "name": "MartinBlomqvistDev/prasine-index",
+    "stars": 0,
+    "updated_at": "2026-07-02T11:00:11Z",
+    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -54,21 +135,12 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20219,
-    "updated_at": "2026-07-02T10:53:59Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52381,
-    "updated_at": "2026-07-02T10:53:53Z",
+    "stars": 52380,
+    "updated_at": "2026-07-02T11:13:46Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -90,15 +162,6 @@
     "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-02T10:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -108,15 +171,6 @@
     "url": "https://github.com/Kakz/prometheus-llm"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30289,
-    "updated_at": "2026-07-02T10:45:11Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agen",
     "id": "w8123/EnterpriseAgentFramework",
     "language": "Java",
@@ -124,15 +178,6 @@
     "stars": 385,
     "updated_at": "2026-07-02T10:43:44Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3320,
-    "updated_at": "2026-07-02T10:45:41Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
@@ -220,7 +265,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26822,
+    "stars": 26823,
     "updated_at": "2026-07-02T10:29:29Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -239,26 +284,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6212,
-    "updated_at": "2026-07-02T10:40:25Z",
+    "updated_at": "2026-07-02T11:09:52Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29064,
-    "updated_at": "2026-07-02T10:41:03Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-02T10:25:24Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode li",
@@ -268,15 +295,6 @@
     "stars": 2533,
     "updated_at": "2026-07-02T10:22:25Z",
     "url": "https://github.com/apache/hamilton"
-  },
-  {
-    "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
-    "id": "suryaanandan1995-dotcom/ai-freelance-copilot",
-    "language": "Python",
-    "name": "suryaanandan1995-dotcom/ai-freelance-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-02T10:19:52Z",
-    "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -301,7 +319,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22837,
+    "stars": 22838,
     "updated_at": "2026-07-02T10:03:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -322,15 +340,6 @@
     "stars": 4,
     "updated_at": "2026-07-02T09:48:52Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2338,
-    "updated_at": "2026-07-02T09:46:22Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
@@ -365,7 +374,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 43,
-    "updated_at": "2026-07-02T09:35:43Z",
+    "updated_at": "2026-07-02T11:10:23Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 63,
     "updated_at": "2026-07-02T09:12:23Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "A health check for your fine-tuning datasets \u2014 diagnoses diversity, balance, and size risks before you waste a training ",
-    "id": "pixerwar/datasetdoctor",
-    "language": "Python",
-    "name": "pixerwar/datasetdoctor",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:12:02Z",
-    "url": "https://github.com/pixerwar/datasetdoctor"
   }
 ]
