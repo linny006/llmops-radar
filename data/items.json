@@ -1,12 +1,21 @@
 [
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
+    "description": "Lightweight CLI for versioning prompts and running eval suites. Score outputs with deterministic matching or LLM-as-judg",
+    "id": "RitikPatill/promptops",
+    "language": "Python",
+    "name": "RitikPatill/promptops",
     "stars": 0,
-    "updated_at": "2026-07-02T19:29:28Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
+    "updated_at": "2026-07-02T19:43:06Z",
+    "url": "https://github.com/RitikPatill/promptops"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-02T19:42:33Z",
+    "url": "https://github.com/liam8421/faster-llm"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
@@ -14,8 +23,17 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 8,
-    "updated_at": "2026-07-02T19:28:50Z",
+    "updated_at": "2026-07-02T19:42:28Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-02T19:41:29Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -23,8 +41,71 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-02T19:28:22Z",
+    "updated_at": "2026-07-02T19:36:17Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-07-02T19:35:20Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-07-02T19:34:30Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "The deterministic merge gate for AI-generated agent capability changes \u2014 a local-first, static Tool-Use Readiness review",
+    "id": "ThreeMoonsLab/agents-shipgate",
+    "language": "Python",
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "stars": 104,
+    "updated_at": "2026-07-02T19:33:55Z",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 375,
+    "updated_at": "2026-07-02T19:33:51Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-07-02T19:31:51Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-02T19:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 0,
+    "updated_at": "2026-07-02T19:29:28Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -79,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-02T19:19:29Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-02T19:19:06Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -180,15 +252,6 @@
     "url": "https://github.com/acornops/acornops-workspace"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-02T19:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A deterministic, GitOps-managed rule engine that defines and enforces the production role of LLMs while exposing embeddi",
     "id": "ops-ping/vector-rules",
     "language": "Rust",
@@ -212,7 +275,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 52423,
-    "updated_at": "2026-07-02T19:24:22Z",
+    "updated_at": "2026-07-02T19:38:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -257,7 +320,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30315,
-    "updated_at": "2026-07-02T19:26:14Z",
+    "updated_at": "2026-07-02T19:44:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-02T18:34:47Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22858,
-    "updated_at": "2026-07-02T18:33:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-07-02T18:32:46Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-02T19:12:14Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 37,
-    "updated_at": "2026-07-02T18:31:55Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-02T18:27:45Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-07-02T18:25:54Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-02T18:25:52Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
