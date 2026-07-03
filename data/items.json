@@ -1,5 +1,59 @@
 [
   {
+    "description": "A robust, concurrent testing framework for evaluating AI agents and scripts using multi-tiered assertions and LLM-as-a-j",
+    "id": "Nyx-abu/tardi",
+    "language": "TypeScript",
+    "name": "Nyx-abu/tardi",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:30:04Z",
+    "url": "https://github.com/Nyx-abu/tardi"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 67,
+    "updated_at": "2026-07-03T09:25:00Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:17:59Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 1,
+    "updated_at": "2026-07-03T09:27:21Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Budget firewall for AI agents \u2014 OpenAI-compatible proxy with hard daily spend ceilings, atomic Redis enforcement, and a ",
+    "id": "islas104/AI-Firewall",
+    "language": "JavaScript",
+    "name": "islas104/AI-Firewall",
+    "stars": 1,
+    "updated_at": "2026-07-03T09:16:29Z",
+    "url": "https://github.com/islas104/AI-Firewall"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-03T09:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
     "id": "dyronrh/awesome-agentops-landscape",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 17,
     "updated_at": "2026-07-03T09:14:43Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30353,
+    "updated_at": "2026-07-03T09:14:20Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
@@ -25,24 +88,6 @@
     "stars": 2344,
     "updated_at": "2026-07-03T09:13:21Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 67,
-    "updated_at": "2026-07-03T09:13:36Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30352,
-    "updated_at": "2026-07-03T09:14:20Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
@@ -72,13 +117,13 @@
     "url": "https://github.com/tma1-ai/tma1"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-03T09:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6238,
+    "updated_at": "2026-07-03T09:30:20Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -99,24 +144,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6237,
-    "updated_at": "2026-07-03T09:01:28Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:39:39Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
     "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
     "id": "langfuse/langfuse-js",
     "language": "TypeScript",
@@ -133,15 +160,6 @@
     "stars": 7,
     "updated_at": "2026-07-03T08:37:31Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:36:03Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20253,
-    "updated_at": "2026-07-03T09:13:36Z",
+    "updated_at": "2026-07-03T09:27:58Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-03T07:56:43Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-03T07:56:36Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-07-03T07:55:11Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
