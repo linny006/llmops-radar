@@ -1,12 +1,120 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-03T12:59:40Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 0,
-    "updated_at": "2026-07-03T12:40:22Z",
+    "updated_at": "2026-07-03T12:57:30Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:55:24Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 67,
+    "updated_at": "2026-07-03T12:52:24Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
+    "id": "SemeAIPletinnya/semeai-gate-basic",
+    "language": "Python",
+    "name": "SemeAIPletinnya/semeai-gate-basic",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:51:16Z",
+    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
+  },
+  {
+    "description": "Turn Portkey & Langsmith data into OTEL signals",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:51:34Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30362,
+    "updated_at": "2026-07-03T12:59:51Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:47:28Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-03T12:46:17Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-03T12:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6243,
+    "updated_at": "2026-07-03T12:45:05Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52503,
+    "updated_at": "2026-07-03T12:44:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 163,
+    "updated_at": "2026-07-03T12:40:08Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -23,17 +131,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-03T12:39:12Z",
+    "updated_at": "2026-07-03T12:59:55Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30361,
-    "updated_at": "2026-07-03T12:39:03Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
@@ -54,15 +153,6 @@
     "url": "https://github.com/mahdidjemaci/production-rag"
   },
   {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 1,
-    "updated_at": "2026-07-03T12:45:09Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
@@ -72,40 +162,13 @@
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-03T12:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20254,
-    "updated_at": "2026-07-03T12:30:10Z",
+    "updated_at": "2026-07-03T12:48:12Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52502,
-    "updated_at": "2026-07-03T12:44:12Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6242,
-    "updated_at": "2026-07-03T12:45:05Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T12:19:10Z",
     "url": "https://github.com/icohangar-ops/agent-observability"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 67,
-    "updated_at": "2026-07-03T12:28:14Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "\ubb38\uc11c\ub9cc \uc8fc\uba74 \ub370\uc774\ud130 \uc0dd\uc131\u00b7\ud559\uc2b5\u00b7\ud3c9\uac00\uae4c\uc9c0 \uc54c\uc544\uc11c \ub3c4\uba54\uc778 LLM\uc744 \ub9cc\ub4e4\uc5b4\uc8fc\ub294 Agentic LLMOps \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\uc5f0\uc5b4 \uc9c0\uc2dc + Human-in-the-Loop, \ub85c\uceec \uad6c\ucd95. Chat-driven LLMOps age",
@@ -234,15 +288,6 @@
     "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-03T12:06:35Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -277,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-07-03T12:01:15Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Turn Portkey & Langsmith data into OTEL signals",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-07-03T11:53:41Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -340,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T11:34:51Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 162,
-    "updated_at": "2026-07-03T12:40:08Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
@@ -418,35 +445,8 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26842,
+    "stars": 26843,
     "updated_at": "2026-07-03T11:28:16Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 3,
-    "updated_at": "2026-07-03T11:27:57Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:25:07Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Synthetic enterprise RAG assistant with FastAPI, guardrails, evaluation, Docker, and local Kubernetes deployment.",
-    "id": "kefenuri/enterprise-rag-assistant",
-    "language": "Python",
-    "name": "kefenuri/enterprise-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:22:09Z",
-    "url": "https://github.com/kefenuri/enterprise-rag-assistant"
   }
 ]
