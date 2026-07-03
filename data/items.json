@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-07-03T22:30:10Z",
-    "url": "https://github.com/liam8421/faster-llm"
+    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
+    "id": "manojmallick/gavio",
+    "language": "Java",
+    "name": "manojmallick/gavio",
+    "stars": 2,
+    "updated_at": "2026-07-03T22:43:17Z",
+    "url": "https://github.com/manojmallick/gavio"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-03T22:42:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -14,8 +23,17 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 7,
-    "updated_at": "2026-07-03T22:30:05Z",
+    "updated_at": "2026-07-03T22:41:51Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10390,
+    "updated_at": "2026-07-03T22:40:35Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -23,8 +41,35 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-03T22:27:26Z",
+    "updated_at": "2026-07-03T22:39:03Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52540,
+    "updated_at": "2026-07-03T22:42:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-03T22:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-03T22:30:10Z",
+    "url": "https://github.com/liam8421/faster-llm"
   },
   {
     "description": "\ud83d\udee1\ufe0f Pseudonymization guardrail for the LiteLLM proxy. Masks real people & company names before the LLM and restores them ",
@@ -36,21 +81,12 @@
     "url": "https://github.com/PalenaAI/palena-litellm-pseudonymizer"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52540,
-    "updated_at": "2026-07-03T22:24:36Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 15,
-    "updated_at": "2026-07-03T22:23:45Z",
+    "updated_at": "2026-07-03T22:33:00Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T22:23:25Z",
     "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-03T22:23:13Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
@@ -97,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T22:20:29Z",
     "url": "https://github.com/HUSNAIN-MUNAWAR/agentrelease"
-  },
-  {
-    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
-    "id": "manojmallick/gavio",
-    "language": "Java",
-    "name": "manojmallick/gavio",
-    "stars": 2,
-    "updated_at": "2026-07-03T22:18:31Z",
-    "url": "https://github.com/manojmallick/gavio"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-03T22:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -207,6 +216,15 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1248,
+    "updated_at": "2026-07-03T21:25:57Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
@@ -214,6 +232,15 @@
     "stars": 1,
     "updated_at": "2026-07-03T22:12:59Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
+    "id": "redevops-io/context-runtime",
+    "language": "Python",
+    "name": "redevops-io/context-runtime",
+    "stars": 85,
+    "updated_at": "2026-07-03T21:16:11Z",
+    "url": "https://github.com/redevops-io/context-runtime"
   },
   {
     "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-03T20:41:22Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-03T20:41:20Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-07-03T20:40:48Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-07-03T20:39:26Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
