@@ -1,12 +1,84 @@
 [
   {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 17,
+    "updated_at": "2026-07-03T09:14:43Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
+    "id": "Justin0504/federated-agent-audit",
+    "language": "Python",
+    "name": "Justin0504/federated-agent-audit",
+    "stars": 3,
+    "updated_at": "2026-07-03T09:13:23Z",
+    "url": "https://github.com/Justin0504/federated-agent-audit"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2344,
+    "updated_at": "2026-07-03T09:13:21Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 67,
+    "updated_at": "2026-07-03T09:13:36Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30351,
-    "updated_at": "2026-07-03T08:58:14Z",
+    "stars": 30352,
+    "updated_at": "2026-07-03T09:14:20Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-03T09:12:18Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
+    "id": "SConv11/watchy",
+    "language": "Python",
+    "name": "SConv11/watchy",
+    "stars": 1,
+    "updated_at": "2026-07-03T09:09:42Z",
+    "url": "https://github.com/SConv11/watchy"
+  },
+  {
+    "description": "Local-first observability your agent reads back. TMA1 records every LLM call, then routes what it sees into the agent's ",
+    "id": "tma1-ai/tma1",
+    "language": "Go",
+    "name": "tma1-ai/tma1",
+    "stars": 107,
+    "updated_at": "2026-07-03T09:08:27Z",
+    "url": "https://github.com/tma1-ai/tma1"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-03T09:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -14,7 +86,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 44,
-    "updated_at": "2026-07-03T08:56:03Z",
+    "updated_at": "2026-07-03T09:08:07Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -32,35 +104,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6237,
-    "updated_at": "2026-07-03T08:54:18Z",
+    "updated_at": "2026-07-03T09:01:28Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-03T08:53:25Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
-    "id": "SConv11/watchy",
-    "language": "Python",
-    "name": "SConv11/watchy",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:48:07Z",
-    "url": "https://github.com/SConv11/watchy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-03T08:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -79,15 +124,6 @@
     "stars": 145,
     "updated_at": "2026-07-03T08:39:30Z",
     "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2344,
-    "updated_at": "2026-07-03T08:39:08Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11491,
-    "updated_at": "2026-07-03T08:32:15Z",
+    "updated_at": "2026-07-03T09:02:10Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20253,
-    "updated_at": "2026-07-03T08:52:41Z",
+    "updated_at": "2026-07-03T09:13:36Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T07:55:11Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Adaptive multi-agent orchestration for AI agents route to typed specialist agents, learn from outcomes, and run self-cor",
-    "id": "Dharundp6/agentloop",
-    "language": "TypeScript",
-    "name": "Dharundp6/agentloop",
-    "stars": 0,
-    "updated_at": "2026-07-03T07:56:02Z",
-    "url": "https://github.com/Dharundp6/agentloop"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-07-03T07:54:37Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5574,
-    "updated_at": "2026-07-03T08:54:56Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 2,
-    "updated_at": "2026-07-03T07:52:49Z",
-    "url": "https://github.com/Ohswedd/vincio"
   }
 ]
