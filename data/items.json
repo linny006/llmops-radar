@@ -1,5 +1,32 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-03T10:16:25Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 0,
+    "updated_at": "2026-07-03T10:16:06Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-03T10:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
     "id": "MartinBlomqvistDev/prasine-index",
     "language": "Python",
@@ -54,15 +81,6 @@
     "url": "https://github.com/srjn45/warden"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-03T10:04:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -70,15 +88,6 @@
     "stars": 6238,
     "updated_at": "2026-07-03T10:13:46Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-03T10:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
@@ -439,14 +448,5 @@
     "stars": 162,
     "updated_at": "2026-07-03T08:31:10Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:21:57Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   }
 ]
