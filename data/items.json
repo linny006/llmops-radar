@@ -1,12 +1,165 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-03T16:45:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22892,
+    "updated_at": "2026-07-03T16:45:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Enterprise AI reference architectures, design patterns, implementation guides, and best practices for production-ready A",
+    "id": "Enterprise-Intelligence-Lab/enterprise-ai-blueprints",
+    "language": "\u2014",
+    "name": "Enterprise-Intelligence-Lab/enterprise-ai-blueprints",
+    "stars": 0,
+    "updated_at": "2026-07-03T16:44:57Z",
+    "url": "https://github.com/Enterprise-Intelligence-Lab/enterprise-ai-blueprints"
+  },
+  {
+    "description": "A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 5",
+    "id": "xorbitsai/xrouter-llm",
+    "language": "Python",
+    "name": "xorbitsai/xrouter-llm",
+    "stars": 28,
+    "updated_at": "2026-07-03T16:44:31Z",
+    "url": "https://github.com/xorbitsai/xrouter-llm"
+  },
+  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
     "name": "prasad-kavuri/prasad-portfolio",
     "stars": 0,
-    "updated_at": "2026-07-03T16:28:45Z",
+    "updated_at": "2026-07-03T16:43:28Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-07-03T16:41:19Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Turn Portkey & Langsmith data into OTEL signals",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-07-03T16:41:01Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30373,
+    "updated_at": "2026-07-03T16:40:26Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-03T16:39:09Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 5,
+    "updated_at": "2026-07-03T16:38:37Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-07-03T16:36:21Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-03T16:35:16Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 0,
+    "updated_at": "2026-07-03T16:41:09Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 15,
+    "updated_at": "2026-07-03T16:41:50Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 163,
+    "updated_at": "2026-07-03T16:32:11Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-07-03T16:33:34Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-07-03T16:32:05Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-03T16:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -36,49 +189,22 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 0,
-    "updated_at": "2026-07-03T16:26:29Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30372,
-    "updated_at": "2026-07-03T16:26:35Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4259,
-    "updated_at": "2026-07-03T16:27:08Z",
+    "updated_at": "2026-07-03T16:41:02Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
-    "description": "Turn Portkey & Langsmith data into OTEL signals",
-    "id": "rknightion/genai-otel-bridge",
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
     "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-07-03T16:19:44Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22892,
-    "updated_at": "2026-07-03T16:26:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "name": "maximhq/bifrost",
+    "stars": 6248,
+    "updated_at": "2026-07-03T16:15:51Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
@@ -88,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T16:15:26Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-03T16:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
@@ -124,15 +241,6 @@
     "stars": 20259,
     "updated_at": "2026-07-03T16:09:55Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-03T16:30:12Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
@@ -324,15 +432,6 @@
     "url": "https://github.com/sedai194443/langfuse-go"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-03T15:47:29Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
     "id": "Lukaa1507/langchain-runner",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T15:45:07Z",
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "A circuit breaker for cheap-model delegation: an eval-backed allowlist that lets agents use non-frontier models only whe",
-    "id": "kkrlstrm/model-eval-gate",
-    "language": "TypeScript",
-    "name": "kkrlstrm/model-eval-gate",
-    "stars": 1,
-    "updated_at": "2026-07-03T15:44:08Z",
-    "url": "https://github.com/kkrlstrm/model-eval-gate"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3062,
-    "updated_at": "2026-07-03T15:41:46Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
-    "id": "Neeeophytee/awesome-ai-workflows",
-    "language": "Shell",
-    "name": "Neeeophytee/awesome-ai-workflows",
-    "stars": 11,
-    "updated_at": "2026-07-03T15:41:03Z",
-    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
-  },
-  {
-    "description": "Self-hosted trust layer for cheap AI: offload bulk LLM work to free models, QC'd by a multi-model council \u2014 a vetted ans",
-    "id": "ajankuv/omniswarm",
-    "language": "Python",
-    "name": "ajankuv/omniswarm",
-    "stars": 0,
-    "updated_at": "2026-07-03T15:40:27Z",
-    "url": "https://github.com/ajankuv/omniswarm"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-07-03T16:12:11Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-07-03T15:28:31Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-07-03T15:27:47Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 2,
-    "updated_at": "2026-07-03T15:25:13Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-03T15:20:12Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6247,
-    "updated_at": "2026-07-03T16:15:51Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
-    "id": "SConv11/watchy",
-    "language": "Python",
-    "name": "SConv11/watchy",
-    "stars": 1,
-    "updated_at": "2026-07-03T15:15:38Z",
-    "url": "https://github.com/SConv11/watchy"
   }
 ]
