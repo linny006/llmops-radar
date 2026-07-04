@@ -1,21 +1,66 @@
 [
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52600,
-    "updated_at": "2026-07-04T19:45:11Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 8,
-    "updated_at": "2026-07-04T19:45:07Z",
+    "updated_at": "2026-07-04T20:00:12Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52601,
+    "updated_at": "2026-07-04T19:58:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "p1c2u/openloop",
+    "language": "Python",
+    "name": "p1c2u/openloop",
+    "stars": 1,
+    "updated_at": "2026-07-04T20:00:19Z",
+    "url": "https://github.com/p1c2u/openloop"
+  },
+  {
+    "description": "Read-only observability layer for long-running local AI agents",
+    "id": "ThomasLee128/hermes-observer",
+    "language": "Python",
+    "name": "ThomasLee128/hermes-observer",
+    "stars": 0,
+    "updated_at": "2026-07-04T19:50:48Z",
+    "url": "https://github.com/ThomasLee128/hermes-observer"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6261,
+    "updated_at": "2026-07-04T19:50:25Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7825,
+    "updated_at": "2026-07-04T19:50:16Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-04T19:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -23,7 +68,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 1,
-    "updated_at": "2026-07-04T19:44:29Z",
+    "updated_at": "2026-07-04T19:52:25Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -36,15 +81,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-04T19:39:09Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
     "id": "bj-qizhi/trigix",
     "language": "Rust",
@@ -52,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-04T19:39:04Z",
     "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6262,
-    "updated_at": "2026-07-04T19:37:31Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
@@ -108,15 +135,6 @@
     "url": "https://github.com/dativo-io/talon"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7824,
-    "updated_at": "2026-07-04T19:19:19Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -151,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-07-04T19:08:29Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "p1c2u/openloop",
-    "language": "Python",
-    "name": "p1c2u/openloop",
-    "stars": 1,
-    "updated_at": "2026-07-04T19:07:54Z",
-    "url": "https://github.com/p1c2u/openloop"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -283,7 +292,7 @@
     "id": "karurikwao/agentdesk",
     "language": "TypeScript",
     "name": "karurikwao/agentdesk",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-04T18:51:21Z",
     "url": "https://github.com/karurikwao/agentdesk"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T18:36:21Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-07-04T18:35:44Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
