@@ -1,12 +1,93 @@
 [
   {
+    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
+    "id": "sedai194443/langfuse-go",
+    "language": "Go",
+    "name": "sedai194443/langfuse-go",
+    "stars": 1,
+    "updated_at": "2026-07-04T04:29:34Z",
+    "url": "https://github.com/sedai194443/langfuse-go"
+  },
+  {
+    "description": "A context compiler for LLM agents: scores, compresses, reorders, and budgets everything entering the context window to s",
+    "id": "eatakishiyev/context-forge",
+    "language": "Python",
+    "name": "eatakishiyev/context-forge",
+    "stars": 6,
+    "updated_at": "2026-07-04T04:28:32Z",
+    "url": "https://github.com/eatakishiyev/context-forge"
+  },
+  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 1,
-    "updated_at": "2026-07-04T04:13:35Z",
+    "updated_at": "2026-07-04T04:28:10Z",
     "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-07-04T04:27:29Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 2,
+    "updated_at": "2026-07-04T04:27:22Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
+    "language": "Go",
+    "name": "boundflow/boundflow",
+    "stars": 3,
+    "updated_at": "2026-07-04T04:26:16Z",
+    "url": "https://github.com/boundflow/boundflow"
+  },
+  {
+    "description": "Joule helps AI agents waste less: fewer unnecessary tokens, less energy per response, and lower carbon emissions.",
+    "id": "wuisabel-gif/Joule",
+    "language": "Rust",
+    "name": "wuisabel-gif/Joule",
+    "stars": 0,
+    "updated_at": "2026-07-04T04:25:23Z",
+    "url": "https://github.com/wuisabel-gif/Joule"
+  },
+  {
+    "description": "A guarded ChatGPT-to-Codex automation bridge for bounded local engineering loops.",
+    "id": "MHW888888/aegisloop",
+    "language": "JavaScript",
+    "name": "MHW888888/aegisloop",
+    "stars": 2,
+    "updated_at": "2026-07-04T04:24:54Z",
+    "url": "https://github.com/MHW888888/aegisloop"
+  },
+  {
+    "description": "Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the",
+    "id": "jarodtaylor/cadre",
+    "language": "Python",
+    "name": "jarodtaylor/cadre",
+    "stars": 0,
+    "updated_at": "2026-07-04T04:22:11Z",
+    "url": "https://github.com/jarodtaylor/cadre"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-04T04:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
@@ -36,15 +117,6 @@
     "url": "https://github.com/sauravbhattacharya001/prompt"
   },
   {
-    "description": "A context compiler for LLM agents: scores, compresses, reorders, and budgets everything entering the context window to s",
-    "id": "eatakishiyev/context-forge",
-    "language": "Python",
-    "name": "eatakishiyev/context-forge",
-    "stars": 6,
-    "updated_at": "2026-07-04T04:03:40Z",
-    "url": "https://github.com/eatakishiyev/context-forge"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -63,15 +135,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-04T04:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T03:58:45Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the",
-    "id": "jarodtaylor/cadre",
-    "language": "Python",
-    "name": "jarodtaylor/cadre",
-    "stars": 0,
-    "updated_at": "2026-07-04T04:07:27Z",
-    "url": "https://github.com/jarodtaylor/cadre"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
@@ -207,15 +261,6 @@
     "url": "https://github.com/hwdsl2/docker-litellm"
   },
   {
-    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
-    "id": "boundflow/boundflow",
-    "language": "Go",
-    "name": "boundflow/boundflow",
-    "stars": 3,
-    "updated_at": "2026-07-04T04:13:30Z",
-    "url": "https://github.com/boundflow/boundflow"
-  },
-  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -256,8 +301,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52554,
-    "updated_at": "2026-07-04T02:41:03Z",
+    "stars": 52555,
+    "updated_at": "2026-07-04T04:28:57Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T02:35:05Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Joule helps AI agents waste less: fewer unnecessary tokens, less energy per response, and lower carbon emissions.",
-    "id": "wuisabel-gif/Joule",
-    "language": "Rust",
-    "name": "wuisabel-gif/Joule",
-    "stars": 0,
-    "updated_at": "2026-07-04T02:35:04Z",
-    "url": "https://github.com/wuisabel-gif/Joule"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -412,41 +448,5 @@
     "stars": 7820,
     "updated_at": "2026-07-04T02:15:55Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-04T02:14:40Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-04T02:13:13Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-07-04T02:13:06Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-07-04T02:12:38Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
