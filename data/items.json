@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
+    "language": "Go",
+    "name": "boundflow/boundflow",
+    "stars": 3,
+    "updated_at": "2026-07-04T03:13:38Z",
+    "url": "https://github.com/boundflow/boundflow"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2349,
+    "updated_at": "2026-07-04T03:09:34Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 1,
+    "updated_at": "2026-07-04T03:08:44Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-04T03:02:57Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-04T03:00:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -9,24 +54,6 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2349,
-    "updated_at": "2026-07-04T02:57:30Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 1,
-    "updated_at": "2026-07-04T02:57:20Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -34,15 +61,6 @@
     "stars": 5,
     "updated_at": "2026-07-04T02:56:52Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-04T02:56:02Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T02:46:11Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-04T02:45:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
@@ -185,7 +194,7 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 18,
-    "updated_at": "2026-07-04T02:24:54Z",
+    "updated_at": "2026-07-04T03:07:27Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T02:08:00Z",
     "url": "https://github.com/sandeep-alluru/agentcrdt"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-07-04T02:06:51Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
