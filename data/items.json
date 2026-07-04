@@ -1,12 +1,66 @@
 [
   {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 2,
+    "updated_at": "2026-07-04T01:28:27Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-07-04T01:28:09Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-04T01:18:25Z",
+    "updated_at": "2026-07-04T01:26:00Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AI token economics dashboard for CFOs \u2014 justify ROI on AI spend using industry benchmarks, unit economics, and",
+    "id": "icohangar-ops/tech-economist",
+    "language": "Python",
+    "name": "icohangar-ops/tech-economist",
+    "stars": 0,
+    "updated_at": "2026-07-04T01:25:02Z",
+    "url": "https://github.com/icohangar-ops/tech-economist"
+  },
+  {
+    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
+    "id": "tmusser/ai-engineering-skills",
+    "language": "Python",
+    "name": "tmusser/ai-engineering-skills",
+    "stars": 3,
+    "updated_at": "2026-07-04T01:23:58Z",
+    "url": "https://github.com/tmusser/ai-engineering-skills"
+  },
+  {
+    "description": "Local-first assurance and measurement toolkit for agentic AI governance pipelines: expectation-driven checks, reproducib",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-07-04T01:23:32Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6253,
+    "updated_at": "2026-07-04T01:30:23Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-07-04T01:15:21Z",
+    "updated_at": "2026-07-04T01:19:12Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10392,
-    "updated_at": "2026-07-04T01:16:28Z",
+    "updated_at": "2026-07-04T01:23:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-07-04T01:13:30Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-07-04T01:14:32Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
   },
   {
     "description": "The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets.",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 52543,
-    "updated_at": "2026-07-04T01:16:55Z",
+    "updated_at": "2026-07-04T01:19:47Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-03T23:52:35Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-03T23:47:57Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: treat the model like an untrusted program and the tool call like a syscall. One Go binary ",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-03T23:46:47Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-07-03T23:46:23Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-03T23:46:21Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-07-03T23:45:52Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
