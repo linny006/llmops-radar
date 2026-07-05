@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-05 15:30 UTC
+> ⏰ Last updated: 2026-07-05 15:37 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [richardpapiona9/llm](https://github.com/richardpapiona9/llm) | 0 | JavaScript | 2026-07-05 | 🤖 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver |
-| 2 | [mahdidjemaci/production-rag](https://github.com/mahdidjemaci/production-rag) | 2 | Python | 2026-07-05 | 🔍 Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal  |
-| 3 | [runcycles/cycles-client-rust](https://github.com/runcycles/cycles-client-rust) | 1 | Rust | 2026-07-05 | Rust client for Cycles — runtime budget authority for AI agents |
-| 4 | [kimbeomgyu/budget-guard](https://github.com/kimbeomgyu/budget-guard) | 0 | TypeScript | 2026-07-05 | A circuit breaker for your LLM API bill — hard budget caps + per-feature cost attribution for OpenAI & Anthropic. |
-| 5 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 1 | TypeScript | 2026-07-05 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 6 | [JonyKarmakar/vision-command-ai](https://github.com/JonyKarmakar/vision-command-ai) | 0 | TypeScript | 2026-07-05 | End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock |
-| 7 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 72 | Python | 2026-07-05 | Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done. |
-| 8 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 2 | Python | 2026-07-05 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
-| 9 | [solomon2773/nora](https://github.com/solomon2773/nora) | 18 | TypeScript | 2026-07-05 | The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets. |
-| 10 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6270 | Go | 2026-07-05 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 11 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-07-05 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
-| 12 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [solomon2773/nora](https://github.com/solomon2773/nora) | 18 | TypeScript | 2026-07-05 | The self-hosted, runtime-neutral operations platform for Hermes and OpenClaw fleets. |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [richardpapiona9/llm](https://github.com/richardpapiona9/llm) | 0 | JavaScript | 2026-07-05 | 🤖 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver |
+| 4 | [mahdidjemaci/production-rag](https://github.com/mahdidjemaci/production-rag) | 2 | Python | 2026-07-05 | 🔍 Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal  |
+| 5 | [runcycles/cycles-client-rust](https://github.com/runcycles/cycles-client-rust) | 1 | Rust | 2026-07-05 | Rust client for Cycles — runtime budget authority for AI agents |
+| 6 | [kimbeomgyu/budget-guard](https://github.com/kimbeomgyu/budget-guard) | 0 | TypeScript | 2026-07-05 | A circuit breaker for your LLM API bill — hard budget caps + per-feature cost attribution for OpenAI & Anthropic. |
+| 7 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 1 | TypeScript | 2026-07-05 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 8 | [JonyKarmakar/vision-command-ai](https://github.com/JonyKarmakar/vision-command-ai) | 0 | TypeScript | 2026-07-05 | End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock |
+| 9 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 72 | Python | 2026-07-05 | Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done. |
+| 10 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 2 | Python | 2026-07-05 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
+| 11 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6270 | Go | 2026-07-05 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 12 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-07-05 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
 | 13 | [VamsiSudhakaran1/release-gate](https://github.com/VamsiSudhakaran1/release-gate) | 3 | Python | 2026-07-05 | 🚪 Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity |
 | 14 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-05 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 15 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-07-05 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
