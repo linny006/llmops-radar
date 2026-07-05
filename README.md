@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-05 17:30 UTC
+> ⏰ Last updated: 2026-07-05 17:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 2 | Python | 2026-07-05 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
+| 1 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6273 | Go | 2026-07-05 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 3 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-05 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 4 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6273 | Go | 2026-07-05 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 3 | [Ohswedd/vincio](https://github.com/Ohswedd/vincio) | 2 | Python | 2026-07-05 | The context engineering platform for AI applications — compile prompts, memory, retrieval, tools, schemas & policies int |
+| 4 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-05 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 5 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-05 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 6 | [openloop-team/openloop](https://github.com/openloop-team/openloop) | 1 | Python | 2026-07-05 | The open-source control plane for shared AI agents |
 | 7 | [crewhaus/factory](https://github.com/crewhaus/factory) | 1 | TypeScript | 2026-07-05 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
@@ -71,7 +71,7 @@ expired items removed — so you can rely on what you see being current.
 | 27 | [thesecretrapper786-netizen/catalyst-n1](https://github.com/thesecretrapper786-netizen/catalyst-n1) | 1 | — | 2026-07-05 | Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne |
 | 28 | [downpaymentbulbul49/plano_estudos_sre](https://github.com/downpaymentbulbul49/plano_estudos_sre) | 0 | — | 2026-07-05 | Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top |
 | 29 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-05 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 30 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 52661 | Python | 2026-07-05 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 30 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 52662 | Python | 2026-07-05 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 31 | [dshakes/distil](https://github.com/dshakes/distil) | 1 | Python | 2026-07-05 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
 | 32 | [ivanmoralesf2015-sudo/enterprise-governance-toolkit](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit) | 0 | — | 2026-07-05 | Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g |
 | 33 | [TalBenAmii/llm-d-benchmarking-agent](https://github.com/TalBenAmii/llm-d-benchmarking-agent) | 0 | Python | 2026-07-05 | Chat-based assistant that benchmarks llm-d from a plain-English goal: it interviews you, deploys an llm-d stack if neede |
