@@ -1,12 +1,48 @@
 [
   {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-05T11:57:12Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-05T11:43:08Z",
+    "updated_at": "2026-07-05T11:56:55Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6267,
+    "updated_at": "2026-07-05T11:56:44Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-05T11:50:45Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-05T11:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
@@ -27,15 +63,6 @@
     "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-05T11:37:00Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "A zero-Python, production-grade LLM security layer written in Rust.",
     "id": "Mattral/guardrail-rs",
     "language": "Rust",
@@ -43,24 +70,6 @@
     "stars": 8,
     "updated_at": "2026-07-05T11:35:52Z",
     "url": "https://github.com/Mattral/guardrail-rs"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-05T11:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GitHub-native release evidence, evaluation gates, and reproducible merge decisions for AI agents and RAG systems.",
-    "id": "HUSNAIN-MUNAWAR/agentrelease",
-    "language": "Python",
-    "name": "HUSNAIN-MUNAWAR/agentrelease",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:29:10Z",
-    "url": "https://github.com/HUSNAIN-MUNAWAR/agentrelease"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -241,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-05T11:03:41Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6267,
-    "updated_at": "2026-07-05T11:25:34Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
