@@ -5,17 +5,80 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 8,
-    "updated_at": "2026-07-05T09:45:08Z",
+    "updated_at": "2026-07-05T10:00:09Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "A curated list of tools, frameworks, standards & research for LLM observability: tracing, evaluation, monitoring, prompt",
+    "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
+    "id": "kimbeomgyu/budget-guard",
+    "language": "TypeScript",
+    "name": "kimbeomgyu/budget-guard",
+    "stars": 0,
+    "updated_at": "2026-07-05T09:59:29Z",
+    "url": "https://github.com/kimbeomgyu/budget-guard"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-05T09:56:44Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-05T09:55:53Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
+    "id": "mwigge/rs-llmctl",
+    "language": "Rust",
+    "name": "mwigge/rs-llmctl",
+    "stars": 0,
+    "updated_at": "2026-07-05T09:55:37Z",
+    "url": "https://github.com/mwigge/rs-llmctl"
+  },
+  {
+    "description": "Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL ",
+    "id": "Ambuj123-lab/agentic-rag-financial-parser",
+    "language": "Python",
+    "name": "Ambuj123-lab/agentic-rag-financial-parser",
+    "stars": 65,
+    "updated_at": "2026-07-05T09:51:39Z",
+    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30442,
+    "updated_at": "2026-07-05T09:50:38Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Awesome LLM observability: a curated list of 48+ tools for LLM tracing, evaluation, monitoring, prompt management, guard",
     "id": "ContextJet-ai/awesome-llm-observability",
     "language": "Python",
     "name": "ContextJet-ai/awesome-llm-observability",
     "stars": 0,
-    "updated_at": "2026-07-05T09:45:02Z",
+    "updated_at": "2026-07-05T09:49:30Z",
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-05T09:45:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -45,21 +108,12 @@
     "url": "https://github.com/srjn45/warden"
   },
   {
-    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
-    "id": "mwigge/rs-llmctl",
-    "language": "Rust",
-    "name": "mwigge/rs-llmctl",
-    "stars": 0,
-    "updated_at": "2026-07-05T09:37:36Z",
-    "url": "https://github.com/mwigge/rs-llmctl"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-05T09:37:20Z",
+    "updated_at": "2026-07-05T10:00:07Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -88,24 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-05T09:33:04Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-05T09:30:20Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30440,
-    "updated_at": "2026-07-05T09:42:16Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Local-first AI governance plane: policy-as-code identity, authorization, rate limiting, egress guardrails, and decision ",
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 7829,
-    "updated_at": "2026-07-05T09:25:37Z",
+    "updated_at": "2026-07-05T09:57:30Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "sameernagar-hub/promptPilot",
     "stars": 1,
-    "updated_at": "2026-07-05T09:03:05Z",
+    "updated_at": "2026-07-05T09:46:26Z",
     "url": "https://github.com/sameernagar-hub/promptPilot"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T08:54:07Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL ",
-    "id": "Ambuj123-lab/agentic-rag-financial-parser",
-    "language": "Python",
-    "name": "Ambuj123-lab/agentic-rag-financial-parser",
-    "stars": 65,
-    "updated_at": "2026-07-05T08:54:04Z",
-    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T08:38:57Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Deterministic prefilter and cheap-to-chief escalation pipeline for reducing expensive LLM calls in agentic workflows.",
-    "id": "krivonosoff161/llm-cheap-filter",
-    "language": "Python",
-    "name": "krivonosoff161/llm-cheap-filter",
-    "stars": 0,
-    "updated_at": "2026-07-05T08:38:47Z",
-    "url": "https://github.com/krivonosoff161/llm-cheap-filter"
-  },
-  {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 72,
-    "updated_at": "2026-07-05T08:38:18Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Small cost-aware LLM router for role-tiered OpenAI-compatible and Yandex calls with per-call usage logging.",
-    "id": "krivonosoff161/llm-router",
-    "language": "Python",
-    "name": "krivonosoff161/llm-router",
-    "stars": 0,
-    "updated_at": "2026-07-05T08:37:52Z",
-    "url": "https://github.com/krivonosoff161/llm-router"
   }
 ]
