@@ -1,12 +1,12 @@
 [
   {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-07-05T20:30:50Z",
-    "url": "https://github.com/tenemos/langwatch"
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-07-05T20:45:01Z",
+    "url": "https://github.com/Kushagra1A/openpi"
   },
   {
     "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
@@ -14,17 +14,53 @@
     "language": "Go",
     "name": "dativo-io/talon",
     "stars": 10,
-    "updated_at": "2026-07-05T20:30:25Z",
+    "updated_at": "2026-07-05T20:44:55Z",
     "url": "https://github.com/dativo-io/talon"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 1,
+    "updated_at": "2026-07-05T20:44:33Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 142,
+    "updated_at": "2026-07-05T20:43:27Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
     "language": "Python",
-    "name": "linny006/llmops-radar",
+    "name": "openloop-team/openloop",
     "stars": 2,
-    "updated_at": "2026-07-05T20:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-07-05T20:42:34Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-07-05T20:41:52Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-05T20:40:29Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "A deterministic, GitOps-managed rule engine that defines and enforces the production role of LLMs while exposing embeddi",
@@ -32,8 +68,44 @@
     "language": "Rust",
     "name": "ops-ping/vector-rules",
     "stars": 0,
-    "updated_at": "2026-07-05T20:29:59Z",
+    "updated_at": "2026-07-05T20:39:01Z",
     "url": "https://github.com/ops-ping/vector-rules"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-07-05T20:36:36Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
+    "id": "redevops-io/context-runtime",
+    "language": "Python",
+    "name": "redevops-io/context-runtime",
+    "stars": 87,
+    "updated_at": "2026-07-05T20:36:28Z",
+    "url": "https://github.com/redevops-io/context-runtime"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 5,
+    "updated_at": "2026-07-05T20:33:54Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "Named patterns with trade-offs, implementation guides, and code examples for every layer of a production AI system. Thin",
+    "id": "PrajwalAmte/AI-Engineering-Patterns",
+    "language": "TypeScript",
+    "name": "PrajwalAmte/AI-Engineering-Patterns",
+    "stars": 1,
+    "updated_at": "2026-07-05T20:32:06Z",
+    "url": "https://github.com/PrajwalAmte/AI-Engineering-Patterns"
   },
   {
     "description": "Vital signs for your MCP servers: a one-command health check with a score, token-cost x-ray, tool-confusion detection, s",
@@ -41,8 +113,35 @@
     "language": "Python",
     "name": "ContextJet-ai/mcpvitals",
     "stars": 0,
-    "updated_at": "2026-07-05T20:29:11Z",
+    "updated_at": "2026-07-05T20:42:40Z",
     "url": "https://github.com/ContextJet-ai/mcpvitals"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-07-05T20:31:25Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-05T20:31:12Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-05T20:30:50Z",
+    "url": "https://github.com/tenemos/langwatch"
   },
   {
     "description": "Generate deterministic pytest tests for your AI agents from one real run, then replay them in CI for $0. Fast, flake-fre",
@@ -54,22 +153,13 @@
     "url": "https://github.com/beyhangl/evalcraft"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-05T20:24:13Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Named patterns with trade-offs, implementation guides, and code examples for every layer of a production AI system. Thin",
-    "id": "PrajwalAmte/AI-Engineering-Patterns",
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
     "language": "TypeScript",
-    "name": "PrajwalAmte/AI-Engineering-Patterns",
-    "stars": 1,
-    "updated_at": "2026-07-05T20:22:45Z",
-    "url": "https://github.com/PrajwalAmte/AI-Engineering-Patterns"
+    "name": "ComposioHQ/composio",
+    "stars": 29103,
+    "updated_at": "2026-07-05T20:25:48Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -184,7 +274,7 @@
     "id": "ContextJet-ai/awesome-llm-observability",
     "language": "Python",
     "name": "ContextJet-ai/awesome-llm-observability",
-    "stars": 12,
+    "stars": 13,
     "updated_at": "2026-07-05T19:48:40Z",
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
   },
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T19:33:12Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-07-05T19:33:10Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-05T19:32:57Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-07-05T19:31:40Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-07-05T19:31:02Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-07-05T19:27:59Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-05T19:26:12Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-07-05T19:26:11Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-05T19:26:07Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Local-first AI governance plane: policy-as-code identity, authorization, rate limiting, egress guardrails, and decision ",
-    "id": "debshikhar-sec/private-ai-infra",
-    "language": "Python",
-    "name": "debshikhar-sec/private-ai-infra",
-    "stars": 0,
-    "updated_at": "2026-07-05T19:24:40Z",
-    "url": "https://github.com/debshikhar-sec/private-ai-infra"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-05T19:23:10Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
