@@ -1,12 +1,12 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6273,
-    "updated_at": "2026-07-05T17:43:27Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-07-05T17:46:09Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-07-05T17:30:23Z",
+    "updated_at": "2026-07-05T17:45:23Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6273,
+    "updated_at": "2026-07-05T17:45:59Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
@@ -265,7 +274,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52662,
+    "stars": 52663,
     "updated_at": "2026-07-05T16:28:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T16:08:50Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-07-05T16:08:37Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
