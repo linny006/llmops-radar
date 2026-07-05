@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
-    "id": "runcycles/cycles-dashboard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-dashboard",
+    "description": "Controlled OpenAI-powered autonomous software-engineering agent workbench with sandboxing, tests, repair loops, security",
+    "id": "KarthikRamesh9149/autonomous-swe-agent-workbench",
+    "language": "Python",
+    "name": "KarthikRamesh9149/autonomous-swe-agent-workbench",
     "stars": 0,
-    "updated_at": "2026-07-05T06:15:15Z",
-    "url": "https://github.com/runcycles/cycles-dashboard"
+    "updated_at": "2026-07-05T06:20:00Z",
+    "url": "https://github.com/KarthikRamesh9149/autonomous-swe-agent-workbench"
   },
   {
     "description": "Enterprise AI Systems Reference Architecture (EASRA) - vendor-neutral standard for building Agentic AI and Gen AI system",
@@ -14,8 +14,35 @@
     "language": "\u2014",
     "name": "KarthikeyanDhanakotti/EASRA",
     "stars": 0,
-    "updated_at": "2026-07-05T06:11:50Z",
+    "updated_at": "2026-07-05T06:17:54Z",
     "url": "https://github.com/KarthikeyanDhanakotti/EASRA"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 38,
+    "updated_at": "2026-07-05T06:17:00Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
+    "id": "runcycles/cycles-dashboard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-dashboard",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:17:35Z",
+    "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-05T06:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -27,13 +54,13 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-05T06:00:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "BerriAI/litellm",
+    "stars": 52620,
+    "updated_at": "2026-07-05T06:08:52Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T05:05:19Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:03:21Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:01:27Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-07-05T04:59:21Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
   }
 ]
