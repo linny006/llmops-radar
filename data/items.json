@@ -1,21 +1,30 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-05T00:58:34Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52611,
-    "updated_at": "2026-07-05T00:51:11Z",
+    "stars": 52612,
+    "updated_at": "2026-07-05T01:12:50Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GitHub org config, CI workflows, and community health files for Cycles",
+    "id": "runcycles/.github",
+    "language": "Shell",
+    "name": "runcycles/.github",
+    "stars": 0,
+    "updated_at": "2026-07-05T01:12:55Z",
+    "url": "https://github.com/runcycles/.github"
+  },
+  {
+    "description": "Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the",
+    "id": "jarodtaylor/cadre",
+    "language": "Python",
+    "name": "jarodtaylor/cadre",
+    "stars": 0,
+    "updated_at": "2026-07-05T01:03:13Z",
+    "url": "https://github.com/jarodtaylor/cadre"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-07-05T00:45:21Z",
+    "updated_at": "2026-07-05T01:00:22Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-05T00:58:34Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T23:41:43Z",
     "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
-    "id": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "language": "HTML",
-    "name": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-04T23:41:24Z",
-    "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-07-04T23:40:43Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
   }
 ]
