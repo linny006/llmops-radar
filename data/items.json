@@ -1,5 +1,140 @@
 [
   {
+    "description": "Enterprise AI Systems Reference Architecture (EASRA) - vendor-neutral standard for building Agentic AI and Gen AI system",
+    "id": "KarthikeyanDhanakotti/EASRA",
+    "language": "Python",
+    "name": "KarthikeyanDhanakotti/EASRA",
+    "stars": 0,
+    "updated_at": "2026-07-05T08:14:16Z",
+    "url": "https://github.com/KarthikeyanDhanakotti/EASRA"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 1,
+    "updated_at": "2026-07-05T08:13:06Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-07-05T08:09:14Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 1,
+    "updated_at": "2026-07-05T08:08:33Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 72,
+    "updated_at": "2026-07-05T08:07:57Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20286,
+    "updated_at": "2026-07-05T08:06:30Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\u4e13\u6ce8\u5728\u667a\u80fd\u8fd0\u7ef4\u3001\u81ea\u52a8\u5316\u8fd0\u7ef4\u3001Zabbix\u3001Prometheus\u3001Grafana\u3001Nagios\u3001ELK Stack\uff08Elasticsearch\u3001Logstash\u3001Kibana\uff09\u3001Graylog\u3001Ansible\u3001SaltStack\u3001Puppet",
+    "id": "lihaiya/FreeAiOps",
+    "language": "Go",
+    "name": "lihaiya/FreeAiOps",
+    "stars": 44,
+    "updated_at": "2026-07-05T08:04:57Z",
+    "url": "https://github.com/lihaiya/FreeAiOps"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-07-05T08:04:25Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
+    "id": "Tearfullnex/SpecGuard",
+    "language": "Python",
+    "name": "Tearfullnex/SpecGuard",
+    "stars": 0,
+    "updated_at": "2026-07-05T08:02:24Z",
+    "url": "https://github.com/Tearfullnex/SpecGuard"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
+    "id": "Jitendra-kr-d/prompt-engineering-toolkit",
+    "language": "HTML",
+    "name": "Jitendra-kr-d/prompt-engineering-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-05T08:02:23Z",
+    "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
+  },
+  {
+    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
+    "id": "mwigge/rs-llmctl",
+    "language": "Rust",
+    "name": "mwigge/rs-llmctl",
+    "stars": 0,
+    "updated_at": "2026-07-05T08:01:42Z",
+    "url": "https://github.com/mwigge/rs-llmctl"
+  },
+  {
+    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
+    "id": "rozario-1234/end2end_sample",
+    "language": "TypeScript",
+    "name": "rozario-1234/end2end_sample",
+    "stars": 1,
+    "updated_at": "2026-07-05T08:01:24Z",
+    "url": "https://github.com/rozario-1234/end2end_sample"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2354,
+    "updated_at": "2026-07-05T08:01:08Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-07-05T08:00:38Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-05T08:00:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
     "id": "Fast-Editor/Lynkr",
     "language": "JavaScript",
@@ -27,6 +162,15 @@
     "url": "https://github.com/KewalPra/agent-sdk"
   },
   {
+    "description": "Self-Test your pipeline: zero-config GitHub Action turning checks, scanners, and AI-agent signals into deterministic, re",
+    "id": "RafineriaAI/aos-workflow-gate",
+    "language": "Python",
+    "name": "RafineriaAI/aos-workflow-gate",
+    "stars": 0,
+    "updated_at": "2026-07-05T07:58:41Z",
+    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
+  },
+  {
     "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
     "id": "rsaudio/second-brain",
     "language": "\u2014",
@@ -34,6 +178,15 @@
     "stars": 1,
     "updated_at": "2026-07-05T07:58:00Z",
     "url": "https://github.com/rsaudio/second-brain"
+  },
+  {
+    "description": "Deterministic PASS/WARN/BLOCK evidence kernel for replayable AI workflow decisions. Formal surface in Lean 4; powers aos",
+    "id": "RafineriaAI/aos-kernel",
+    "language": "Python",
+    "name": "RafineriaAI/aos-kernel",
+    "stars": 0,
+    "updated_at": "2026-07-05T07:57:57Z",
+    "url": "https://github.com/RafineriaAI/aos-kernel"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -144,24 +297,6 @@
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-05T07:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20285,
-    "updated_at": "2026-07-05T07:36:26Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
     "id": "richardpapiona9/llm",
     "language": "JavaScript",
@@ -184,18 +319,9 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6264,
+    "stars": 6265,
     "updated_at": "2026-07-05T07:28:20Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Enterprise AI Systems Reference Architecture (EASRA) - vendor-neutral standard for building Agentic AI and Gen AI system",
-    "id": "KarthikeyanDhanakotti/EASRA",
-    "language": "Python",
-    "name": "KarthikeyanDhanakotti/EASRA",
-    "stars": 0,
-    "updated_at": "2026-07-05T07:27:30Z",
-    "url": "https://github.com/KarthikeyanDhanakotti/EASRA"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -203,7 +329,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10403,
-    "updated_at": "2026-07-05T07:27:14Z",
+    "updated_at": "2026-07-05T08:01:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -257,7 +383,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 7829,
-    "updated_at": "2026-07-05T07:44:51Z",
+    "updated_at": "2026-07-05T08:04:58Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -306,15 +432,6 @@
     "url": "https://github.com/Kakz/prometheus-llm"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2354,
-    "updated_at": "2026-07-05T07:00:21Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Full-stack SLM fine-tuning, inference, run management, and evaluation dashboard with React, FastAPI, Modal GPU workflows",
     "id": "Rithanya654/SLM-Finetuning-Dashboard",
     "language": "JavaScript",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-05T06:59:03Z",
     "url": "https://github.com/manojmallick/skillweave"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-07-05T06:58:22Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-07-05T06:57:18Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 72,
-    "updated_at": "2026-07-05T06:55:16Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-05T06:43:11Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-07-05T06:33:19Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Controlled OpenAI-powered autonomous software-engineering agent workbench with sandboxing, tests, repair loops, security",
-    "id": "KarthikRamesh9149/autonomous-swe-agent-workbench",
-    "language": "Python",
-    "name": "KarthikRamesh9149/autonomous-swe-agent-workbench",
-    "stars": 0,
-    "updated_at": "2026-07-05T06:20:00Z",
-    "url": "https://github.com/KarthikRamesh9149/autonomous-swe-agent-workbench"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 38,
-    "updated_at": "2026-07-05T06:17:00Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
-    "id": "runcycles/cycles-dashboard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-dashboard",
-    "stars": 0,
-    "updated_at": "2026-07-05T06:17:35Z",
-    "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52626,
-    "updated_at": "2026-07-05T06:08:52Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:58:24Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Enterprise-grade local and private LLM operations control plane with OpenAI-compatible serving, audit, OTel, lineage, ev",
-    "id": "mwigge/rs-llmctl",
-    "language": "Rust",
-    "name": "mwigge/rs-llmctl",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:55:52Z",
-    "url": "https://github.com/mwigge/rs-llmctl"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-07-05T05:52:58Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:51:46Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   }
 ]
