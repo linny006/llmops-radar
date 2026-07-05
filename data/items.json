@@ -1,11 +1,83 @@
 [
   {
+    "description": "A deterministic, GitOps-managed rule engine that defines and enforces the production role of LLMs while exposing embeddi",
+    "id": "ops-ping/vector-rules",
+    "language": "Rust",
+    "name": "ops-ping/vector-rules",
+    "stars": 0,
+    "updated_at": "2026-07-05T20:29:59Z",
+    "url": "https://github.com/ops-ping/vector-rules"
+  },
+  {
+    "description": "Vital signs for your MCP servers: a one-command health check with a score, token-cost x-ray, tool-confusion detection, s",
+    "id": "ContextJet-ai/mcpvitals",
+    "language": "Python",
+    "name": "ContextJet-ai/mcpvitals",
+    "stars": 0,
+    "updated_at": "2026-07-05T20:29:11Z",
+    "url": "https://github.com/ContextJet-ai/mcpvitals"
+  },
+  {
+    "description": "Generate deterministic pytest tests for your AI agents from one real run, then replay them in CI for $0. Fast, flake-fre",
+    "id": "beyhangl/evalcraft",
+    "language": "Python",
+    "name": "beyhangl/evalcraft",
+    "stars": 4,
+    "updated_at": "2026-07-05T20:28:48Z",
+    "url": "https://github.com/beyhangl/evalcraft"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-05T20:24:13Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Named patterns with trade-offs, implementation guides, and code examples for every layer of a production AI system. Thin",
+    "id": "PrajwalAmte/AI-Engineering-Patterns",
+    "language": "TypeScript",
+    "name": "PrajwalAmte/AI-Engineering-Patterns",
+    "stars": 1,
+    "updated_at": "2026-07-05T20:22:45Z",
+    "url": "https://github.com/PrajwalAmte/AI-Engineering-Patterns"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-05T20:18:05Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A static linter for LLM agents and bilingual (Arabic/English) pipelines \u2014 fail-open guardrails, orphaned tools, structur",
+    "id": "MGhassanCs/fasih",
+    "language": "Python",
+    "name": "MGhassanCs/fasih",
+    "stars": 0,
+    "updated_at": "2026-07-05T20:17:49Z",
+    "url": "https://github.com/MGhassanCs/fasih"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-05T20:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Chat-based assistant that benchmarks llm-d from a plain-English goal: it interviews you, deploys an llm-d stack if neede",
     "id": "TalBenAmii/llm-d-benchmarking-agent",
     "language": "Python",
     "name": "TalBenAmii/llm-d-benchmarking-agent",
     "stars": 0,
-    "updated_at": "2026-07-05T20:14:55Z",
+    "updated_at": "2026-07-05T20:21:40Z",
     "url": "https://github.com/TalBenAmii/llm-d-benchmarking-agent"
   },
   {
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-07-05T20:09:11Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-05T20:08:57Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -50,7 +113,7 @@
     "language": "Go",
     "name": "dativo-io/talon",
     "stars": 10,
-    "updated_at": "2026-07-05T20:02:19Z",
+    "updated_at": "2026-07-05T20:19:14Z",
     "url": "https://github.com/dativo-io/talon"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-05T20:00:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-05T19:58:44Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Named patterns with trade-offs, implementation guides, and code examples for every layer of a production AI system. Thin",
-    "id": "PrajwalAmte/AI-Engineering-Patterns",
-    "language": "TypeScript",
-    "name": "PrajwalAmte/AI-Engineering-Patterns",
-    "stars": 1,
-    "updated_at": "2026-07-05T19:58:36Z",
-    "url": "https://github.com/PrajwalAmte/AI-Engineering-Patterns"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -243,15 +288,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-05T19:37:05Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
     "id": "Rodiun/frugon",
     "language": "Python",
@@ -405,15 +441,6 @@
     "url": "https://github.com/FawwazAzka/openclaw-docs"
   },
   {
-    "description": "A deterministic, GitOps-managed rule engine that defines and enforces the production role of LLMs while exposing embeddi",
-    "id": "ops-ping/vector-rules",
-    "language": "Rust",
-    "name": "ops-ping/vector-rules",
-    "stars": 0,
-    "updated_at": "2026-07-05T19:22:58Z",
-    "url": "https://github.com/ops-ping/vector-rules"
-  },
-  {
     "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
     "id": "niyetbay0304/gateway",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T19:22:54Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "openloop-team/openloop",
-    "language": "Python",
-    "name": "openloop-team/openloop",
-    "stars": 1,
-    "updated_at": "2026-07-05T19:16:33Z",
-    "url": "https://github.com/openloop-team/openloop"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-07-05T19:16:31Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10407,
-    "updated_at": "2026-07-05T19:19:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
