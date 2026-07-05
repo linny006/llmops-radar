@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-05 01:15 UTC
+> ⏰ Last updated: 2026-07-05 01:25 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 52612 | Python | 2026-07-05 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 2 | [runcycles/.github](https://github.com/runcycles/.github) | 0 | Shell | 2026-07-05 | GitHub org config, CI workflows, and community health files for Cycles |
-| 3 | [jarodtaylor/cadre](https://github.com/jarodtaylor/cadre) | 0 | Python | 2026-07-05 | Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 52612 | Python | 2026-07-05 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 3 | [runcycles/.github](https://github.com/runcycles/.github) | 0 | Shell | 2026-07-05 | GitHub org config, CI workflows, and community health files for Cycles |
+| 4 | [jarodtaylor/cadre](https://github.com/jarodtaylor/cadre) | 0 | Python | 2026-07-05 | Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the |
 | 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 8 | Go | 2026-07-05 | fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache- |
 | 6 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-07-05 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
 | 7 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-07-05 | The opinionated workflow engine and governance layer for agent-driven software development. |
