@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30531,
+    "updated_at": "2026-07-06T12:28:55Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3324,
+    "updated_at": "2026-07-06T12:26:21Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
+    "id": "routeplane-core/routeplane-ce",
+    "language": "Rust",
+    "name": "routeplane-core/routeplane-ce",
+    "stars": 2,
+    "updated_at": "2026-07-06T12:25:49Z",
+    "url": "https://github.com/routeplane-core/routeplane-ce"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:22:21Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6290,
+    "updated_at": "2026-07-06T12:21:16Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29108,
+    "updated_at": "2026-07-06T12:17:04Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
+    "id": "golikovichev/pytest-resilience-agent",
+    "language": "Python",
+    "name": "golikovichev/pytest-resilience-agent",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:17:51Z",
+    "url": "https://github.com/golikovichev/pytest-resilience-agent"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:15:38Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-06T12:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
     "id": "Kushagra1A/openpi",
     "language": "Python",
@@ -18,30 +99,12 @@
     "url": "https://github.com/Yarmoluk/ckg-mcp"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3324,
-    "updated_at": "2026-07-06T12:14:57Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30528,
-    "updated_at": "2026-07-06T12:15:09Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20340,
-    "updated_at": "2026-07-06T12:12:16Z",
+    "stars": 20341,
+    "updated_at": "2026-07-06T12:19:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -117,15 +180,6 @@
     "url": "https://github.com/kirtanpatel2003/llm-thorn"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-06T12:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
@@ -167,7 +221,7 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 9,
-    "updated_at": "2026-07-06T12:08:50Z",
+    "updated_at": "2026-07-06T12:22:01Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1057,
-    "updated_at": "2026-07-06T12:14:29Z",
+    "updated_at": "2026-07-06T12:18:22Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -198,21 +252,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6289,
-    "updated_at": "2026-07-06T12:11:10Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5582,
-    "updated_at": "2026-07-06T11:36:50Z",
+    "updated_at": "2026-07-06T12:17:37Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 72,
     "updated_at": "2026-07-06T11:35:22Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29107,
-    "updated_at": "2026-07-06T11:33:18Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
@@ -279,15 +315,6 @@
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
   },
   {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:14:46Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -304,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T11:11:18Z",
     "url": "https://github.com/Router-One/awesome-llm-gateway"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:08:00Z",
-    "url": "https://github.com/recetariodmix/garak"
   },
   {
     "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
@@ -337,7 +355,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52752,
+    "stars": 52754,
     "updated_at": "2026-07-06T11:03:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T10:17:16Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "",
-    "id": "the-ai-merge/.github",
-    "language": "\u2014",
-    "name": "the-ai-merge/.github",
-    "stars": 0,
-    "updated_at": "2026-07-06T10:16:27Z",
-    "url": "https://github.com/the-ai-merge/.github"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 17,
-    "updated_at": "2026-07-06T10:15:39Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   }
 ]
