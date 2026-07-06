@@ -1,12 +1,57 @@
 [
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-06T22:44:57Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 37,
+    "updated_at": "2026-07-06T22:42:55Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "TokenTriage is a local-first inference routing gateway for AI agents. It sits between apps and LLM providers, classifies",
+    "id": "kirankigi5/tokentriage",
+    "language": "HTML",
+    "name": "kirankigi5/tokentriage",
+    "stars": 0,
+    "updated_at": "2026-07-06T22:41:15Z",
+    "url": "https://github.com/kirankigi5/tokentriage"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-07-06T22:31:39Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
+    "name": "BerriAI/litellm",
+    "stars": 52779,
+    "updated_at": "2026-07-06T22:43:30Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic framework for unified full-stack observability  and cloud LLMs",
+    "id": "svemurilv/hybrid-observability-ai",
+    "language": "Python",
+    "name": "svemurilv/hybrid-observability-ai",
+    "stars": 0,
+    "updated_at": "2026-07-06T22:38:03Z",
+    "url": "https://github.com/svemurilv/hybrid-observability-ai"
+  },
+  {
+    "description": "Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the",
+    "id": "jarodtaylor/cadre",
+    "language": "Python",
+    "name": "jarodtaylor/cadre",
+    "stars": 0,
+    "updated_at": "2026-07-06T22:37:32Z",
+    "url": "https://github.com/jarodtaylor/cadre"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-07-06T22:30:28Z",
+    "updated_at": "2026-07-06T22:36:24Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-07-06T22:31:39Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -27,24 +81,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52778,
-    "updated_at": "2026-07-06T22:35:39Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 37,
-    "updated_at": "2026-07-06T22:27:22Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T22:24:35Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-06T22:19:53Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22981,
-    "updated_at": "2026-07-06T22:14:43Z",
+    "updated_at": "2026-07-06T22:42:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 11,
     "updated_at": "2026-07-06T22:08:08Z",
     "url": "https://github.com/hensu-project/hensu"
-  },
-  {
-    "description": "Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the",
-    "id": "jarodtaylor/cadre",
-    "language": "Python",
-    "name": "jarodtaylor/cadre",
-    "stars": 0,
-    "updated_at": "2026-07-06T22:25:11Z",
-    "url": "https://github.com/jarodtaylor/cadre"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -220,7 +238,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29113,
+    "stars": 29114,
     "updated_at": "2026-07-06T22:03:05Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10419,
-    "updated_at": "2026-07-06T22:34:33Z",
+    "updated_at": "2026-07-06T22:42:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T21:42:25Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-06T21:39:24Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-07-06T21:39:07Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
