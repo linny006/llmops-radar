@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30531,
-    "updated_at": "2026-07-06T12:28:55Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 49,
+    "updated_at": "2026-07-06T12:45:09Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20341,
+    "updated_at": "2026-07-06T12:44:33Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26895,
+    "updated_at": "2026-07-06T12:44:04Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -14,8 +32,80 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3324,
-    "updated_at": "2026-07-06T12:26:21Z",
+    "updated_at": "2026-07-06T12:45:22Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-06T12:42:43Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-07-06T12:41:44Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30531,
+    "updated_at": "2026-07-06T12:43:48Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2366,
+    "updated_at": "2026-07-06T12:37:52Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:36:13Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-06T12:35:25Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11496,
+    "updated_at": "2026-07-06T12:34:01Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-06T12:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
@@ -72,15 +162,6 @@
     "url": "https://github.com/recetariodmix/garak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-06T12:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
     "id": "Kushagra1A/openpi",
     "language": "Python",
@@ -97,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-07-06T12:15:01Z",
     "url": "https://github.com/Yarmoluk/ckg-mcp"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20341,
-    "updated_at": "2026-07-06T12:19:08Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 375,
-    "updated_at": "2026-07-06T12:08:57Z",
+    "updated_at": "2026-07-06T12:42:03Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -185,7 +257,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4269,
-    "updated_at": "2026-07-06T11:58:44Z",
+    "updated_at": "2026-07-06T12:39:26Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -216,21 +288,12 @@
     "url": "https://github.com/Knitweb/lens"
   },
   {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-07-06T12:22:01Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1057,
-    "updated_at": "2026-07-06T12:18:22Z",
+    "updated_at": "2026-07-06T12:39:33Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -243,21 +306,12 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26895,
-    "updated_at": "2026-07-06T11:38:08Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5582,
-    "updated_at": "2026-07-06T12:17:37Z",
+    "updated_at": "2026-07-06T12:31:47Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -266,7 +320,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 3,
-    "updated_at": "2026-07-06T11:36:45Z",
+    "updated_at": "2026-07-06T12:43:30Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -277,24 +331,6 @@
     "stars": 72,
     "updated_at": "2026-07-06T11:35:22Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:28:33Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-07-06T11:27:44Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
   },
   {
     "description": "Free, local, open-source LLM cost analyzer \u2014 see where your LLM bill leaks, on your machine.",
@@ -355,18 +391,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52754,
+    "stars": 52753,
     "updated_at": "2026-07-06T11:03:49Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2366,
-    "updated_at": "2026-07-06T10:58:24Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -396,15 +423,6 @@
     "url": "https://github.com/alexvervloet/deep-dive-capstone"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-06T10:55:50Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
     "id": "zenml-io/zenml",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-06T10:25:23Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-06T10:21:37Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-06T10:17:16Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   }
 ]
