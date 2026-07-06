@@ -5,8 +5,44 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 9,
-    "updated_at": "2026-07-06T16:59:29Z",
+    "updated_at": "2026-07-06T17:15:12Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
+    "id": "zuoxu3310/AGENTOS",
+    "language": "Python",
+    "name": "zuoxu3310/AGENTOS",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:05:44Z",
+    "url": "https://github.com/zuoxu3310/AGENTOS"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 375,
+    "updated_at": "2026-07-06T17:05:23Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:00:50Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-06T17:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "tmusser/ai-engineering-skills",
     "stars": 3,
-    "updated_at": "2026-07-06T16:57:51Z",
+    "updated_at": "2026-07-06T17:11:29Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
   },
   {
@@ -40,18 +76,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52767,
-    "updated_at": "2026-07-06T16:56:25Z",
+    "stars": 52766,
+    "updated_at": "2026-07-06T17:06:49Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
-    "id": "zuoxu3310/AGENTOS",
-    "language": "Python",
-    "name": "zuoxu3310/AGENTOS",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:55:59Z",
-    "url": "https://github.com/zuoxu3310/AGENTOS"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -77,17 +104,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3324,
-    "updated_at": "2026-07-06T16:59:31Z",
+    "updated_at": "2026-07-06T17:14:57Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-06T16:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20357,
-    "updated_at": "2026-07-06T16:54:23Z",
+    "updated_at": "2026-07-06T17:10:27Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -220,7 +238,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22972,
+    "stars": 22973,
     "updated_at": "2026-07-06T16:24:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -342,15 +360,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 375,
-    "updated_at": "2026-07-06T16:34:22Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
     "id": "thesecretrapper786-netizen/catalyst-n1",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-06T16:03:39Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:03:27Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
