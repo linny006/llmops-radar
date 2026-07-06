@@ -1,5 +1,77 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-06T04:29:03Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22948,
+    "updated_at": "2026-07-06T04:28:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-06T04:27:29Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Self-healing content-safety pipeline for LLM apps - classifies prompt/response toxicity, detects input drift, and auto-r",
+    "id": "VjayRam/project-sentinel",
+    "language": "Python",
+    "name": "VjayRam/project-sentinel",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:26:17Z",
+    "url": "https://github.com/VjayRam/project-sentinel"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 3,
+    "updated_at": "2026-07-06T04:22:16Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Field notes on AI coding agents: real, anonymized incidents from current-generation models (2026), each with a guardrail",
+    "id": "KbWen/agent-field-notes",
+    "language": "Python",
+    "name": "KbWen/agent-field-notes",
+    "stars": 1,
+    "updated_at": "2026-07-06T04:22:24Z",
+    "url": "https://github.com/KbWen/agent-field-notes"
+  },
+  {
+    "description": "Cost/latency-aware LLM serving gateway: complexity-based model routing + caching + tier-batching in front of vLLM or any",
+    "id": "ahmeddoghri/vllm-cost-router",
+    "language": "Python",
+    "name": "ahmeddoghri/vllm-cost-router",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:20:06Z",
+    "url": "https://github.com/ahmeddoghri/vllm-cost-router"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-06T04:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
     "id": "VamsiSudhakaran1/release-gate",
     "language": "Python",
@@ -16,33 +88,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T04:14:01Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-06T04:12:34Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22948,
-    "updated_at": "2026-07-06T04:15:07Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Cost/latency-aware LLM serving gateway: complexity-based model routing + caching + tier-batching in front of vLLM or any",
-    "id": "ahmeddoghri/vllm-cost-router",
-    "language": "Python",
-    "name": "ahmeddoghri/vllm-cost-router",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:08:49Z",
-    "url": "https://github.com/ahmeddoghri/vllm-cost-router"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -99,15 +144,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 3,
-    "updated_at": "2026-07-06T04:02:50Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -115,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T04:01:58Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-06T04:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Field notes on AI coding agents: real, anonymized incidents from current-generation models (2026), each with a guardrail",
-    "id": "KbWen/agent-field-notes",
-    "language": "Python",
-    "name": "KbWen/agent-field-notes",
-    "stars": 1,
-    "updated_at": "2026-07-06T03:58:31Z",
-    "url": "https://github.com/KbWen/agent-field-notes"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -248,7 +266,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11494,
-    "updated_at": "2026-07-06T03:49:21Z",
+    "updated_at": "2026-07-06T04:15:41Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20323,
-    "updated_at": "2026-07-06T04:00:59Z",
+    "updated_at": "2026-07-06T04:30:16Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5492,
-    "updated_at": "2026-07-06T03:38:29Z",
+    "updated_at": "2026-07-06T04:28:09Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -392,7 +410,7 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 9,
-    "updated_at": "2026-07-06T03:31:19Z",
+    "updated_at": "2026-07-06T04:24:16Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10408,
-    "updated_at": "2026-07-06T03:30:48Z",
+    "updated_at": "2026-07-06T04:17:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T03:28:19Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 2,
-    "updated_at": "2026-07-06T03:28:17Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-07-06T03:27:45Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
