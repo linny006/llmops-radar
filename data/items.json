@@ -1,5 +1,32 @@
 [
   {
+    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
+    "id": "ashmedanraj/langfuse-eks-production",
+    "language": "\u2014",
+    "name": "ashmedanraj/langfuse-eks-production",
+    "stars": 0,
+    "updated_at": "2026-07-06T19:15:01Z",
+    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
+  },
+  {
+    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
+    "id": "sarrahw23/deploy-guide",
+    "language": "\u2014",
+    "name": "sarrahw23/deploy-guide",
+    "stars": 1,
+    "updated_at": "2026-07-06T19:14:25Z",
+    "url": "https://github.com/sarrahw23/deploy-guide"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-06T19:13:56Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -63,6 +90,15 @@
     "url": "https://github.com/FawwazAzka/openclaw-docs"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20362,
+    "updated_at": "2026-07-06T19:05:59Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
     "id": "niyetbay0304/gateway",
     "language": "Go",
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T19:05:58Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-06T19:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30548,
-    "updated_at": "2026-07-06T19:03:51Z",
+    "updated_at": "2026-07-06T19:14:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/mahdidjemaci/production-rag"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20361,
-    "updated_at": "2026-07-06T19:05:59Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "A framework for comprehensive diagnosis and optimization of agents using simulated, realistic synthetic interactions",
     "id": "plurai-ai/intellagent",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 7844,
     "updated_at": "2026-07-06T18:07:37Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-07-06T18:06:56Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-07-06T18:00:09Z",
-    "url": "https://github.com/recetariodmix/garak"
   }
 ]
