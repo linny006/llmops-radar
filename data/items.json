@@ -1,12 +1,12 @@
 [
   {
-    "description": "A framework for comprehensive diagnosis and optimization of agents using simulated, realistic synthetic interactions",
-    "id": "plurai-ai/intellagent",
+    "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
+    "id": "kai2055/incident-postmortem-assistant",
     "language": "Python",
-    "name": "plurai-ai/intellagent",
-    "stars": 1249,
-    "updated_at": "2026-07-06T18:14:20Z",
-    "url": "https://github.com/plurai-ai/intellagent"
+    "name": "kai2055/incident-postmortem-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-06T18:28:37Z",
+    "url": "https://github.com/kai2055/incident-postmortem-assistant"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -14,8 +14,89 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6292,
-    "updated_at": "2026-07-06T18:13:38Z",
+    "updated_at": "2026-07-06T18:27:03Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52769,
+    "updated_at": "2026-07-06T18:22:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26901,
+    "updated_at": "2026-07-06T18:22:02Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-06T18:21:43Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-06T18:20:55Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-06T18:20:03Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
+    "id": "katanemo/plano",
+    "language": "Rust",
+    "name": "katanemo/plano",
+    "stars": 6674,
+    "updated_at": "2026-07-06T18:26:48Z",
+    "url": "https://github.com/katanemo/plano"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-06T18:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22975,
+    "updated_at": "2026-07-06T18:29:30Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A framework for comprehensive diagnosis and optimization of agents using simulated, realistic synthetic interactions",
+    "id": "plurai-ai/intellagent",
+    "language": "Python",
+    "name": "plurai-ai/intellagent",
+    "stars": 1249,
+    "updated_at": "2026-07-06T18:14:20Z",
+    "url": "https://github.com/plurai-ai/intellagent"
   },
   {
     "description": "Operational doctrine for practical AI systems design.",
@@ -36,15 +117,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52768,
-    "updated_at": "2026-07-06T18:08:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -61,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T18:06:56Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-06T18:03:24Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-06T18:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20359,
-    "updated_at": "2026-07-06T17:58:22Z",
+    "updated_at": "2026-07-06T18:18:28Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -234,15 +288,6 @@
     "url": "https://github.com/acornops/acornops-workspace"
   },
   {
-    "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
-    "id": "katanemo/plano",
-    "language": "Rust",
-    "name": "katanemo/plano",
-    "stars": 6675,
-    "updated_at": "2026-07-06T17:33:34Z",
-    "url": "https://github.com/katanemo/plano"
-  },
-  {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
     "id": "tmusser/ai-engineering-skills",
     "language": "Python",
@@ -250,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-07-06T17:32:48Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22974,
-    "updated_at": "2026-07-06T18:15:05Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
@@ -302,17 +338,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3324,
-    "updated_at": "2026-07-06T17:46:32Z",
+    "updated_at": "2026-07-06T18:23:58Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26901,
-    "updated_at": "2026-07-06T17:18:23Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T16:34:43Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:33:33Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2577,
-    "updated_at": "2026-07-06T16:33:15Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:30:52Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
   }
 ]
