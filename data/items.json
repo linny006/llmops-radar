@@ -1,21 +1,111 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-06T17:15:12Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
     "id": "zuoxu3310/AGENTOS",
     "language": "Python",
     "name": "zuoxu3310/AGENTOS",
     "stars": 0,
-    "updated_at": "2026-07-06T17:05:44Z",
+    "updated_at": "2026-07-06T17:30:08Z",
     "url": "https://github.com/zuoxu3310/AGENTOS"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6292,
+    "updated_at": "2026-07-06T17:29:03Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
+    "id": "shyftlabs/continuum",
+    "language": "Python",
+    "name": "shyftlabs/continuum",
+    "stars": 75,
+    "updated_at": "2026-07-06T17:28:42Z",
+    "url": "https://github.com/shyftlabs/continuum"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52766,
+    "updated_at": "2026-07-06T17:27:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A generic, batteries-included, async-first agent toolkit \u2014 configurable loop, tools, security guards, streaming, persist",
+    "id": "skwijeratne/agentix-toolkit",
+    "language": "Python",
+    "name": "skwijeratne/agentix-toolkit",
+    "stars": 4,
+    "updated_at": "2026-07-06T17:24:41Z",
+    "url": "https://github.com/skwijeratne/agentix-toolkit"
+  },
+  {
+    "description": "A typed coherence layer for portable organizational AI agents.",
+    "id": "buchk/TypeFerence",
+    "language": "C#",
+    "name": "buchk/TypeFerence",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:23:21Z",
+    "url": "https://github.com/buchk/TypeFerence"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3324,
+    "updated_at": "2026-07-06T17:29:55Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-06T17:21:38Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:17:34Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
+    "id": "Neeeophytee/awesome-ai-workflows",
+    "language": "Shell",
+    "name": "Neeeophytee/awesome-ai-workflows",
+    "stars": 14,
+    "updated_at": "2026-07-06T17:15:25Z",
+    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-06T17:15:18Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20358,
+    "updated_at": "2026-07-06T17:29:33Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -36,21 +126,12 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-06T17:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
     "id": "tmusser/ai-engineering-skills",
     "language": "Python",
     "name": "tmusser/ai-engineering-skills",
     "stars": 3,
-    "updated_at": "2026-07-06T17:11:29Z",
+    "updated_at": "2026-07-06T17:28:18Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
   },
   {
@@ -68,17 +149,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10418,
-    "updated_at": "2026-07-06T16:58:18Z",
+    "updated_at": "2026-07-06T17:18:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52766,
-    "updated_at": "2026-07-06T17:06:49Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T16:51:15Z",
     "url": "https://github.com/shipitamit/llm-token-governor"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3324,
-    "updated_at": "2026-07-06T17:14:57Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T16:42:25Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20357,
-    "updated_at": "2026-07-06T17:10:27Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-06T16:07:45Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:06:02Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "The core FortifyRoot LLMOps SDK for Python.",
-    "id": "FortifyRoot/ocelle-py",
-    "language": "Python",
-    "name": "FortifyRoot/ocelle-py",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:05:01Z",
-    "url": "https://github.com/FortifyRoot/ocelle-py"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:04:12Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:03:55Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:03:45Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:03:39Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
