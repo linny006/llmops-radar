@@ -1,12 +1,48 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-06T05:58:11Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30494,
+    "updated_at": "2026-07-06T05:58:11Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
+    "id": "ContextJet-ai/awesome-llm-observability",
+    "language": "Python",
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "stars": 14,
+    "updated_at": "2026-07-06T05:57:11Z",
+    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
+  },
+  {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
     "id": "cuihuan/awesome-ai-gateway",
     "language": "HTML",
     "name": "cuihuan/awesome-ai-gateway",
     "stars": 39,
-    "updated_at": "2026-07-06T05:55:10Z",
+    "updated_at": "2026-07-06T05:55:40Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-06T05:55:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -16,15 +52,6 @@
     "stars": 22,
     "updated_at": "2026-07-06T05:54:22Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-06T05:53:07Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Vital signs for your agent skills: measure whether a skill triggers when it should and whether it actually helps, on a c",
@@ -52,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-06T05:48:03Z",
     "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-06T05:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T03:53:17Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-07-06T03:52:59Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-07-06T03:52:53Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
