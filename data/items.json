@@ -1,12 +1,12 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-06T04:29:03Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Self-healing content-safety pipeline for LLM apps - classifies prompt/response toxicity, detects input drift, and auto-r",
+    "id": "VjayRam/project-sentinel",
+    "language": "Python",
+    "name": "VjayRam/project-sentinel",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:45:01Z",
+    "url": "https://github.com/VjayRam/project-sentinel"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,8 +14,62 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22948,
-    "updated_at": "2026-07-06T04:28:17Z",
+    "updated_at": "2026-07-06T04:43:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Cost/latency-aware LLM serving gateway: complexity-based model routing + caching + tier-batching in front of vLLM or any",
+    "id": "ahmeddoghri/vllm-cost-router",
+    "language": "Python",
+    "name": "ahmeddoghri/vllm-cost-router",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:42:03Z",
+    "url": "https://github.com/ahmeddoghri/vllm-cost-router"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 22,
+    "updated_at": "2026-07-06T04:41:08Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-06T04:36:33Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-07-06T04:32:23Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-06T04:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20324,
+    "updated_at": "2026-07-06T04:30:16Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -25,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-07-06T04:27:29Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Self-healing content-safety pipeline for LLM apps - classifies prompt/response toxicity, detects input drift, and auto-r",
-    "id": "VjayRam/project-sentinel",
-    "language": "Python",
-    "name": "VjayRam/project-sentinel",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:26:17Z",
-    "url": "https://github.com/VjayRam/project-sentinel"
   },
   {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
@@ -54,22 +99,13 @@
     "url": "https://github.com/KbWen/agent-field-notes"
   },
   {
-    "description": "Cost/latency-aware LLM serving gateway: complexity-based model routing + caching + tier-batching in front of vLLM or any",
-    "id": "ahmeddoghri/vllm-cost-router",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "ahmeddoghri/vllm-cost-router",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:20:06Z",
-    "url": "https://github.com/ahmeddoghri/vllm-cost-router"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-06T04:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Arize-ai/phoenix",
+    "stars": 10409,
+    "updated_at": "2026-07-06T04:17:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
@@ -306,15 +342,6 @@
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20323,
-    "updated_at": "2026-07-06T04:30:16Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -392,7 +419,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5492,
-    "updated_at": "2026-07-06T04:28:09Z",
+    "updated_at": "2026-07-06T04:42:42Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -403,15 +430,6 @@
     "stars": 3,
     "updated_at": "2026-07-06T03:32:59Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-07-06T04:24:16Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T03:31:06Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10408,
-    "updated_at": "2026-07-06T04:17:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-06T03:28:19Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
