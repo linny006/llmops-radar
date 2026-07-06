@@ -1,11 +1,101 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52761,
+    "updated_at": "2026-07-06T15:13:27Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3324,
+    "updated_at": "2026-07-06T15:14:32Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22970,
+    "updated_at": "2026-07-06T15:13:08Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20349,
+    "updated_at": "2026-07-06T15:08:34Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-07-06T15:08:08Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
+    "id": "Arize-ai/arize-skills",
+    "language": "Python",
+    "name": "Arize-ai/arize-skills",
+    "stars": 38,
+    "updated_at": "2026-07-06T15:06:55Z",
+    "url": "https://github.com/Arize-ai/arize-skills"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-06T15:06:19Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-06T15:05:22Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-06T15:01:25Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-06T15:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30541,
-    "updated_at": "2026-07-06T15:00:01Z",
+    "updated_at": "2026-07-06T15:08:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "narek-mosisian/llm-reliability-platform",
     "stars": 0,
-    "updated_at": "2026-07-06T14:59:37Z",
+    "updated_at": "2026-07-06T15:14:31Z",
     "url": "https://github.com/narek-mosisian/llm-reliability-platform"
   },
   {
@@ -32,35 +122,17 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 15,
-    "updated_at": "2026-07-06T14:59:20Z",
+    "updated_at": "2026-07-06T15:12:52Z",
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3324,
-    "updated_at": "2026-07-06T14:59:43Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-06T14:54:32Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20348,
-    "updated_at": "2026-07-06T14:57:55Z",
-    "url": "https://github.com/comet-ml/opik"
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-07-06T14:58:59Z",
+    "url": "https://github.com/runcycles/cycles-docs"
   },
   {
     "description": "The operations layer for your local LLM stack",
@@ -99,15 +171,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-06T14:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
     "id": "Kushagra1A/openpi",
     "language": "Python",
@@ -126,21 +189,12 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-07-06T14:58:59Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10417,
-    "updated_at": "2026-07-06T14:58:16Z",
+    "updated_at": "2026-07-06T15:09:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -167,7 +221,7 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 9,
-    "updated_at": "2026-07-06T14:38:51Z",
+    "updated_at": "2026-07-06T15:04:00Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-07-06T14:36:44Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22970,
-    "updated_at": "2026-07-06T14:35:48Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1057,
-    "updated_at": "2026-07-06T14:40:13Z",
+    "updated_at": "2026-07-06T15:08:08Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T13:46:49Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-07-06T13:46:33Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-07-06T13:46:31Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-07-06T13:45:53Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
-    "id": "ur-grue/toptop",
-    "language": "Rust",
-    "name": "ur-grue/toptop",
-    "stars": 0,
-    "updated_at": "2026-07-06T13:45:27Z",
-    "url": "https://github.com/ur-grue/toptop"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-07-06T13:44:21Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
   }
 ]
