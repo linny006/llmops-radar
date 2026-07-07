@@ -1,5 +1,131 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30622,
+    "updated_at": "2026-07-07T15:11:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and",
+    "id": "jqbit/TLDR",
+    "language": "JavaScript",
+    "name": "jqbit/TLDR",
+    "stars": 14,
+    "updated_at": "2026-07-07T15:07:36Z",
+    "url": "https://github.com/jqbit/TLDR"
+  },
+  {
+    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
+    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "language": "\u2014",
+    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "stars": 2,
+    "updated_at": "2026-07-07T15:07:33Z",
+    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-07-07T15:06:13Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 0,
+    "updated_at": "2026-07-07T15:05:37Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
+    "id": "routeplane-core/routeplane-ce",
+    "language": "Rust",
+    "name": "routeplane-core/routeplane-ce",
+    "stars": 2,
+    "updated_at": "2026-07-07T15:05:34Z",
+    "url": "https://github.com/routeplane-core/routeplane-ce"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-07-07T15:05:01Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-07-07T15:02:22Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-07-07T15:01:10Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-07T15:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-07-07T15:00:30Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29121,
+    "updated_at": "2026-07-07T15:00:23Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3326,
+    "updated_at": "2026-07-07T15:09:27Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
+    "id": "phenomenoner/openclaw-mem",
+    "language": "Python",
+    "name": "phenomenoner/openclaw-mem",
+    "stars": 28,
+    "updated_at": "2026-07-07T14:57:46Z",
+    "url": "https://github.com/phenomenoner/openclaw-mem"
+  },
+  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -72,20 +198,11 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
-    "id": "routeplane-core/routeplane-ce",
-    "language": "Rust",
-    "name": "routeplane-core/routeplane-ce",
-    "stars": 2,
-    "updated_at": "2026-07-07T14:46:36Z",
-    "url": "https://github.com/routeplane-core/routeplane-ce"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52864,
+    "stars": 52863,
     "updated_at": "2026-07-07T14:46:18Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -95,17 +212,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6326,
-    "updated_at": "2026-07-07T14:45:44Z",
+    "updated_at": "2026-07-07T15:02:39Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-07T14:45:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -169,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T14:39:37Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30621,
-    "updated_at": "2026-07-07T14:58:59Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
@@ -248,7 +347,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-07T14:57:27Z",
+    "updated_at": "2026-07-07T15:14:38Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -266,7 +365,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20390,
-    "updated_at": "2026-07-07T14:38:43Z",
+    "updated_at": "2026-07-07T15:15:19Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -293,7 +392,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10438,
-    "updated_at": "2026-07-07T14:30:37Z",
+    "updated_at": "2026-07-07T15:15:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 73,
     "updated_at": "2026-07-07T14:25:16Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:24:34Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:24:29Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-07-07T14:24:16Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "The core FortifyRoot LLMOps SDK for Python.",
-    "id": "FortifyRoot/ocelle-py",
-    "language": "Python",
-    "name": "FortifyRoot/ocelle-py",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:21:57Z",
-    "url": "https://github.com/FortifyRoot/ocelle-py"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 15,
-    "updated_at": "2026-07-07T14:55:22Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 2,
-    "updated_at": "2026-07-07T14:26:28Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:17:27Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-07-07T14:16:38Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3325,
-    "updated_at": "2026-07-07T14:59:39Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 376,
-    "updated_at": "2026-07-07T14:14:30Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Production-grade LLMOps platform for RAG-based AI assistants: LLM gateway, eval gates, observability, cost controls, fal",
-    "id": "narek-mosisian/llm-reliability-platform",
-    "language": "Python",
-    "name": "narek-mosisian/llm-reliability-platform",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:13:37Z",
-    "url": "https://github.com/narek-mosisian/llm-reliability-platform"
   }
 ]
