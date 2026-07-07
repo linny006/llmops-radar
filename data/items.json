@@ -1,5 +1,86 @@
 [
   {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 147,
+    "updated_at": "2026-07-07T07:58:35Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 52,
+    "updated_at": "2026-07-07T07:57:27Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-07T07:56:05Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-07T07:55:11Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20381,
+    "updated_at": "2026-07-07T07:54:35Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-07-07T07:52:15Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52815,
+    "updated_at": "2026-07-07T07:49:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 3,
+    "updated_at": "2026-07-07T07:48:59Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-07T07:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
     "id": "cubxxw/blog",
     "language": "HTML",
@@ -22,8 +103,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30593,
-    "updated_at": "2026-07-07T07:42:00Z",
+    "stars": 30594,
+    "updated_at": "2026-07-07T07:51:56Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -72,15 +153,6 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 3,
-    "updated_at": "2026-07-07T07:34:22Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
@@ -97,24 +169,6 @@
     "stars": 2,
     "updated_at": "2026-07-07T07:32:18Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-07T07:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 3,
-    "updated_at": "2026-07-07T07:43:57Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -135,30 +189,12 @@
     "url": "https://github.com/Kakz/prometheus-llm"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 52,
-    "updated_at": "2026-07-07T07:23:41Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20381,
-    "updated_at": "2026-07-07T07:29:41Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3324,
-    "updated_at": "2026-07-07T07:44:24Z",
+    "updated_at": "2026-07-07T07:56:56Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-07T07:21:40Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52814,
-    "updated_at": "2026-07-07T07:32:35Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
@@ -256,7 +283,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10426,
+    "stars": 10427,
     "updated_at": "2026-07-07T06:50:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T06:29:50Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-07-07T06:28:21Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 42,
-    "updated_at": "2026-07-07T06:27:53Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-07-07T06:27:31Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   }
 ]
