@@ -1,12 +1,138 @@
 [
   {
+    "description": "Chat-based assistant that benchmarks llm-d from a plain-English goal: it interviews you, deploys an llm-d stack if neede",
+    "id": "TalBenAmii/llm-d-benchmarking-agent",
+    "language": "Python",
+    "name": "TalBenAmii/llm-d-benchmarking-agent",
+    "stars": 0,
+    "updated_at": "2026-07-07T15:30:13Z",
+    "url": "https://github.com/TalBenAmii/llm-d-benchmarking-agent"
+  },
+  {
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, and body transfer, streamed as each phase completes.",
+    "id": "bytebeast/check-endpoint",
+    "language": "Python",
+    "name": "bytebeast/check-endpoint",
+    "stars": 6,
+    "updated_at": "2026-07-07T15:27:48Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30622,
-    "updated_at": "2026-07-07T15:11:44Z",
+    "stars": 30623,
+    "updated_at": "2026-07-07T15:30:14Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52866,
+    "updated_at": "2026-07-07T15:25:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-07T15:23:50Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
+    "id": "phenomenoner/openclaw-mem",
+    "language": "Python",
+    "name": "phenomenoner/openclaw-mem",
+    "stars": 28,
+    "updated_at": "2026-07-07T15:22:57Z",
+    "url": "https://github.com/phenomenoner/openclaw-mem"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 172,
+    "updated_at": "2026-07-07T15:25:52Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "Production shaped RAG pipeline: semantic cache, fail-closed guardrail, rerank, multi-provider fallback, LLM-as-judge, co",
+    "id": "Jonathan-tsf/production-rag-pipeline",
+    "language": "JavaScript",
+    "name": "Jonathan-tsf/production-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-07T15:20:46Z",
+    "url": "https://github.com/Jonathan-tsf/production-rag-pipeline"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 200,
+    "updated_at": "2026-07-07T15:19:05Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 37,
+    "updated_at": "2026-07-07T15:17:29Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Inspect, annotate, and review AI agent trajectories and artifacts. Local-first, with CLI, TUI, and Web UI surfaces shari",
+    "id": "shizheng-rlfresh/skim",
+    "language": "Python",
+    "name": "shizheng-rlfresh/skim",
+    "stars": 1,
+    "updated_at": "2026-07-07T15:17:46Z",
+    "url": "https://github.com/shizheng-rlfresh/skim"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-07T15:15:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-07-07T15:14:38Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11500,
+    "updated_at": "2026-07-07T15:14:02Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
+    "id": "Karinaclastic11/Drip-Lite-Client",
+    "language": "\u2014",
+    "name": "Karinaclastic11/Drip-Lite-Client",
+    "stars": 1,
+    "updated_at": "2026-07-07T15:13:29Z",
+    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
     "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and",
@@ -81,15 +207,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-07T15:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -104,7 +221,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29121,
-    "updated_at": "2026-07-07T15:00:23Z",
+    "updated_at": "2026-07-07T15:15:46Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -113,17 +230,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3326,
-    "updated_at": "2026-07-07T15:09:27Z",
+    "updated_at": "2026-07-07T15:27:02Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
-    "id": "phenomenoner/openclaw-mem",
-    "language": "Python",
-    "name": "phenomenoner/openclaw-mem",
-    "stars": 28,
-    "updated_at": "2026-07-07T14:57:46Z",
-    "url": "https://github.com/phenomenoner/openclaw-mem"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -196,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T14:48:49Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52863,
-    "updated_at": "2026-07-07T14:46:18Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -297,15 +396,6 @@
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   },
   {
-    "description": "Chat-based assistant that benchmarks llm-d from a plain-English goal: it interviews you, deploys an llm-d stack if neede",
-    "id": "TalBenAmii/llm-d-benchmarking-agent",
-    "language": "Python",
-    "name": "TalBenAmii/llm-d-benchmarking-agent",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:36:07Z",
-    "url": "https://github.com/TalBenAmii/llm-d-benchmarking-agent"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -342,15 +432,6 @@
     "url": "https://github.com/wahhyun/llm-eval"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-07-07T15:14:38Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
     "id": "Anbumani08/agentic-coding-workflow",
     "language": "HTML",
@@ -365,88 +446,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20390,
-    "updated_at": "2026-07-07T15:15:19Z",
+    "updated_at": "2026-07-07T15:22:39Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:33:25Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-07-07T14:32:51Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10438,
-    "updated_at": "2026-07-07T15:15:18Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-07-07T14:29:42Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
-    "id": "Neeeophytee/awesome-ai-workflows",
-    "language": "Shell",
-    "name": "Neeeophytee/awesome-ai-workflows",
-    "stars": 15,
-    "updated_at": "2026-07-07T14:28:26Z",
-    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:27:50Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:27:47Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 200,
-    "updated_at": "2026-07-07T14:36:19Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 73,
-    "updated_at": "2026-07-07T14:25:16Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   }
 ]
