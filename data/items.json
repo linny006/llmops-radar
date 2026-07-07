@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10443,
+    "updated_at": "2026-07-07T22:43:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-07T22:43:10Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-07-07T22:41:30Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 201,
+    "updated_at": "2026-07-07T22:40:46Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-07T22:35:32Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52896,
+    "updated_at": "2026-07-07T22:42:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 67,
+    "updated_at": "2026-07-07T22:44:21Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-07T22:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "raiyanyahya/llmaker",
     "language": "Go",
@@ -27,15 +99,6 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52895,
-    "updated_at": "2026-07-07T22:27:06Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -52,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T22:21:19Z",
     "url": "https://github.com/affkoul/agentforge-runtime"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 67,
-    "updated_at": "2026-07-07T22:21:06Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T22:16:07Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-07T22:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -171,15 +216,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10442,
-    "updated_at": "2026-07-07T22:08:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
     "id": "JonyKarmakar/vision-command-ai",
     "language": "TypeScript",
@@ -196,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-07-07T21:51:08Z",
     "url": "https://github.com/kirklasalle/Prism"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 201,
-    "updated_at": "2026-07-07T22:13:57Z",
-    "url": "https://github.com/mezmo/aura"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -252,15 +279,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-07T21:31:50Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
     "id": "boundflow/boundflow",
     "language": "Python",
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 1,
-    "updated_at": "2026-07-07T21:55:36Z",
+    "updated_at": "2026-07-07T22:36:41Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "ywutian/agent-spend-collector",
     "stars": 2,
-    "updated_at": "2026-07-07T21:02:59Z",
+    "updated_at": "2026-07-07T22:39:20Z",
     "url": "https://github.com/ywutian/agent-spend-collector"
   },
   {
@@ -337,7 +355,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6331,
+    "stars": 6332,
     "updated_at": "2026-07-07T21:01:45Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T20:49:04Z",
     "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-07-07T20:48:36Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 1,
-    "updated_at": "2026-07-07T20:47:11Z",
-    "url": "https://github.com/dshakes/distil"
   }
 ]
