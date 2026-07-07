@@ -1,30 +1,12 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-07T21:29:44Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:25:18Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52890,
-    "updated_at": "2026-07-07T21:29:08Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
+    "id": "kirklasalle/Prism",
+    "language": "TypeScript",
+    "name": "kirklasalle/Prism",
+    "stars": 2,
+    "updated_at": "2026-07-07T21:44:35Z",
+    "url": "https://github.com/kirklasalle/Prism"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -32,8 +14,80 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30633,
-    "updated_at": "2026-07-07T21:23:50Z",
+    "updated_at": "2026-07-07T21:41:06Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
+    "id": "yptang98/CostMarshal",
+    "language": "Python",
+    "name": "yptang98/CostMarshal",
+    "stars": 1,
+    "updated_at": "2026-07-07T21:41:20Z",
+    "url": "https://github.com/yptang98/CostMarshal"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:39:24Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 61,
+    "updated_at": "2026-07-07T21:33:13Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-07T21:31:50Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
+    "language": "Python",
+    "name": "boundflow/boundflow",
+    "stars": 3,
+    "updated_at": "2026-07-07T21:31:28Z",
+    "url": "https://github.com/boundflow/boundflow"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-07-07T21:37:28Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-07T21:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52891,
+    "updated_at": "2026-07-07T21:42:42Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -54,22 +108,22 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26926,
+    "updated_at": "2026-07-07T21:20:36Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 67,
-    "updated_at": "2026-07-07T21:17:59Z",
+    "updated_at": "2026-07-07T21:44:52Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-07T21:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10442,
-    "updated_at": "2026-07-07T21:12:57Z",
+    "updated_at": "2026-07-07T21:38:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-07T21:11:09Z",
+    "updated_at": "2026-07-07T21:39:20Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -288,15 +342,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
-    "id": "kirklasalle/Prism",
-    "language": "TypeScript",
-    "name": "kirklasalle/Prism",
-    "stars": 2,
-    "updated_at": "2026-07-07T20:43:25Z",
-    "url": "https://github.com/kirklasalle/Prism"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -382,7 +427,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29125,
+    "stars": 29126,
     "updated_at": "2026-07-07T20:37:17Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T20:34:40Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-07T20:34:08Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-07-07T20:34:07Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-07-07T20:34:06Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:33:52Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-07T20:33:46Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
