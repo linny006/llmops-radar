@@ -1,12 +1,39 @@
 [
   {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 2,
+    "updated_at": "2026-07-07T05:45:06Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
     "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 3,
-    "updated_at": "2026-07-07T05:30:36Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-07-07T05:44:44Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1257,
+    "updated_at": "2026-07-07T05:39:29Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26911,
+    "updated_at": "2026-07-07T05:39:00Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-07-07T05:30:22Z",
+    "updated_at": "2026-07-07T05:33:44Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 3,
+    "updated_at": "2026-07-07T05:30:36Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
     "description": "\ub370\uc774\ud130\ub97c \uc62c\ub9ac\uba74 LLM\uc774 ML \ubaa8\ub378 \ucf54\ub4dc\ub97c \uc790\ub3d9 \uc0dd\uc131\u00b7\uac80\uc99d\u00b7\uc2e4\ud589\u00b7\uac1c\uc120\ud558\ub294 End-to-End \ud30c\uc774\ud504\ub77c\uc778",
@@ -45,6 +81,15 @@
     "url": "https://github.com/mahdidjemaci/production-rag"
   },
   {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5474,
+    "updated_at": "2026-07-07T05:17:22Z",
+    "url": "https://github.com/zenml-io/zenml"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -68,7 +113,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6304,
-    "updated_at": "2026-07-07T05:13:40Z",
+    "updated_at": "2026-07-07T05:43:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 7851,
-    "updated_at": "2026-07-07T04:22:17Z",
+    "updated_at": "2026-07-07T05:37:34Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -392,7 +437,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5584,
-    "updated_at": "2026-07-07T04:22:23Z",
+    "updated_at": "2026-07-07T05:37:07Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T03:33:27Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "A framework for governing how organisations manage AI context. Vendor-neutral.",
-    "id": "kannanokannan/ContextOps",
-    "language": "\u2014",
-    "name": "kannanokannan/ContextOps",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:30:36Z",
-    "url": "https://github.com/kannanokannan/ContextOps"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-07T03:29:18Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-07-07T03:27:51Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:27:46Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:27:16Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
