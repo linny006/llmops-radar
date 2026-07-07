@@ -1,12 +1,57 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30599,
+    "updated_at": "2026-07-07T09:42:00Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 52,
+    "updated_at": "2026-07-07T09:42:22Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 3324,
-    "updated_at": "2026-07-07T09:30:09Z",
+    "stars": 3323,
+    "updated_at": "2026-07-07T09:40:13Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 17,
+    "updated_at": "2026-07-07T09:37:20Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Local-first observability, token analytics, and context memory for Codex, Claude Code, and Gemini CLI",
+    "id": "spmisha134/agentinsight",
+    "language": "Java",
+    "name": "spmisha134/agentinsight",
+    "stars": 1,
+    "updated_at": "2026-07-07T09:34:28Z",
+    "url": "https://github.com/spmisha134/agentinsight"
+  },
+  {
+    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
+    "id": "routeplane-core/routeplane-ce",
+    "language": "Rust",
+    "name": "routeplane-core/routeplane-ce",
+    "stars": 2,
+    "updated_at": "2026-07-07T09:31:56Z",
+    "url": "https://github.com/routeplane-core/routeplane-ce"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -14,8 +59,17 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2372,
-    "updated_at": "2026-07-07T09:30:14Z",
+    "updated_at": "2026-07-07T09:30:27Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-07T09:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
@@ -77,7 +131,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 3,
-    "updated_at": "2026-07-07T09:18:22Z",
+    "updated_at": "2026-07-07T09:39:36Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -86,17 +140,8 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11501,
-    "updated_at": "2026-07-07T09:25:28Z",
+    "updated_at": "2026-07-07T09:41:32Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
-    "id": "routeplane-core/routeplane-ce",
-    "language": "Rust",
-    "name": "routeplane-core/routeplane-ce",
-    "stars": 2,
-    "updated_at": "2026-07-07T09:28:01Z",
-    "url": "https://github.com/routeplane-core/routeplane-ce"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -106,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T09:16:07Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-07T09:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -148,7 +184,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6310,
+    "stars": 6311,
     "updated_at": "2026-07-07T09:11:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20385,
-    "updated_at": "2026-07-07T09:26:34Z",
+    "updated_at": "2026-07-07T09:40:39Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T09:09:48Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30598,
-    "updated_at": "2026-07-07T09:29:08Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -342,15 +369,6 @@
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   },
   {
-    "description": "Local-first observability, token analytics, and context memory for Codex, Claude Code, and Gemini CLI",
-    "id": "spmisha134/agentinsight",
-    "language": "Java",
-    "name": "spmisha134/agentinsight",
-    "stars": 1,
-    "updated_at": "2026-07-07T08:54:21Z",
-    "url": "https://github.com/spmisha134/agentinsight"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 67,
-    "updated_at": "2026-07-07T08:43:50Z",
+    "updated_at": "2026-07-07T09:40:54Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-07T08:43:14Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-07-07T08:43:13Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   }
 ]
