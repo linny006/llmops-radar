@@ -1,21 +1,30 @@
 [
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52868,
-    "updated_at": "2026-07-07T16:00:16Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30624,
-    "updated_at": "2026-07-07T16:00:12Z",
+    "updated_at": "2026-07-07T16:14:38Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 12,
+    "updated_at": "2026-07-07T16:14:18Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52869,
+    "updated_at": "2026-07-07T16:13:52Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -23,26 +32,35 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10438,
-    "updated_at": "2026-07-07T15:51:46Z",
+    "updated_at": "2026-07-07T16:14:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
     "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-07-07T15:59:34Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
+    "name": "mezmo/aura",
+    "stars": 200,
+    "updated_at": "2026-07-07T16:13:19Z",
+    "url": "https://github.com/mezmo/aura"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
+    "description": "One gateway, every AI project, one dashboard. A dependency-free LLM gateway + self-hosted usage & cost dashboard \u2014 any l",
+    "id": "adityasarade/ai-command-center",
+    "language": "JavaScript",
+    "name": "adityasarade/ai-command-center",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:10:17Z",
+    "url": "https://github.com/adityasarade/ai-command-center"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1074,
-    "updated_at": "2026-07-07T15:52:12Z",
-    "url": "https://github.com/Arize-ai/openinference"
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-07-07T16:05:16Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -50,8 +68,53 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-07T15:47:56Z",
+    "updated_at": "2026-07-07T16:05:09Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
+    "id": "RafineriaAI/aos-workflow-gate",
+    "language": "Python",
+    "name": "RafineriaAI/aos-workflow-gate",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:05:08Z",
+    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
+  },
+  {
+    "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
+    "id": "phenomenoner/openclaw-mem",
+    "language": "Python",
+    "name": "phenomenoner/openclaw-mem",
+    "stars": 28,
+    "updated_at": "2026-07-07T16:04:51Z",
+    "url": "https://github.com/phenomenoner/openclaw-mem"
+  },
+  {
+    "description": "A guarded ChatGPT-to-Codex automation bridge for bounded local engineering loops.",
+    "id": "MHW888888/aegisloop",
+    "language": "JavaScript",
+    "name": "MHW888888/aegisloop",
+    "stars": 6,
+    "updated_at": "2026-07-07T16:03:20Z",
+    "url": "https://github.com/MHW888888/aegisloop"
+  },
+  {
+    "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and",
+    "id": "jqbit/TLDR",
+    "language": "JavaScript",
+    "name": "jqbit/TLDR",
+    "stars": 14,
+    "updated_at": "2026-07-07T16:02:52Z",
+    "url": "https://github.com/jqbit/TLDR"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1074,
+    "updated_at": "2026-07-07T16:02:42Z",
+    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -59,8 +122,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-07-07T15:45:27Z",
+    "updated_at": "2026-07-07T16:00:29Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-07-07T16:05:08Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
@@ -72,31 +144,13 @@
     "url": "https://github.com/golikovichev/pytest-resilience-agent"
   },
   {
-    "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
-    "id": "phenomenoner/openclaw-mem",
-    "language": "Python",
-    "name": "phenomenoner/openclaw-mem",
-    "stars": 28,
-    "updated_at": "2026-07-07T15:44:01Z",
-    "url": "https://github.com/phenomenoner/openclaw-mem"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20391,
-    "updated_at": "2026-07-07T15:55:32Z",
+    "updated_at": "2026-07-07T16:12:54Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 12,
-    "updated_at": "2026-07-07T15:36:23Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
     "description": "Inspect, annotate, and review AI agent trajectories and artifacts. Local-first, with CLI, TUI, and Web UI surfaces shari",
@@ -162,15 +216,6 @@
     "url": "https://github.com/Jonathan-tsf/production-rag-pipeline"
   },
   {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 200,
-    "updated_at": "2026-07-07T15:19:05Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -178,15 +223,6 @@
     "stars": 37,
     "updated_at": "2026-07-07T15:17:29Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-07-07T15:52:01Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -205,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T15:13:29Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and",
-    "id": "jqbit/TLDR",
-    "language": "JavaScript",
-    "name": "jqbit/TLDR",
-    "stars": 14,
-    "updated_at": "2026-07-07T15:07:36Z",
-    "url": "https://github.com/jqbit/TLDR"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T14:42:32Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:42:02Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-07-07T14:40:35Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:39:45Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   }
 ]
