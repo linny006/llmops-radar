@@ -1,12 +1,75 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-07T19:30:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-07T19:24:26Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Open-source LLM cost & usage governance dashboard \u2014 track, allocate & control spend across teams, models & providers. Bu",
+    "id": "optidev-ai/llm-cost-dashboard",
+    "language": "TypeScript",
+    "name": "optidev-ai/llm-cost-dashboard",
+    "stars": 0,
+    "updated_at": "2026-07-07T19:24:06Z",
+    "url": "https://github.com/optidev-ai/llm-cost-dashboard"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 1,
-    "updated_at": "2026-07-07T19:15:02Z",
+    "updated_at": "2026-07-07T19:21:31Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 376,
+    "updated_at": "2026-07-07T19:23:34Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-07-07T19:17:32Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-07-07T19:16:54Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-07T19:15:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 52882,
-    "updated_at": "2026-07-07T19:15:08Z",
+    "updated_at": "2026-07-07T19:21:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T19:08:10Z",
     "url": "https://github.com/somasays/heave"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-07T19:15:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20394,
-    "updated_at": "2026-07-07T19:00:38Z",
+    "updated_at": "2026-07-07T19:27:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -117,22 +171,13 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-07T19:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source LLM cost & usage governance dashboard \u2014 track, allocate & control spend across teams, models & providers. Bu",
-    "id": "optidev-ai/llm-cost-dashboard",
-    "language": "TypeScript",
-    "name": "optidev-ai/llm-cost-dashboard",
-    "stars": 0,
-    "updated_at": "2026-07-07T19:00:17Z",
-    "url": "https://github.com/optidev-ai/llm-cost-dashboard"
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1258,
+    "updated_at": "2026-07-07T19:00:21Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
@@ -160,6 +205,15 @@
     "stars": 23004,
     "updated_at": "2026-07-07T18:52:48Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26923,
+    "updated_at": "2026-07-07T19:29:05Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T18:32:17Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26922,
-    "updated_at": "2026-07-07T18:42:52Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and",
@@ -277,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T18:18:29Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 376,
-    "updated_at": "2026-07-07T19:01:26Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T18:07:15Z",
     "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
-    "id": "kirklasalle/Prism",
-    "language": "TypeScript",
-    "name": "kirklasalle/Prism",
-    "stars": 2,
-    "updated_at": "2026-07-07T18:06:35Z",
-    "url": "https://github.com/kirklasalle/Prism"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-07-07T18:06:15Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-07T18:06:12Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-07T18:04:09Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   }
 ]
