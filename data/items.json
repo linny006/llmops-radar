@@ -1,12 +1,75 @@
 [
   {
-    "description": "Multi-LLM planning & orchestration that routes work across the terminal AI CLIs you already have \u2014 plan \u2192 phases \u2192 tasks",
-    "id": "arfuhad/roundtable",
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
     "language": "Python",
-    "name": "arfuhad/roundtable",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-07T16:59:38Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52875,
+    "updated_at": "2026-07-07T16:59:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 1,
+    "updated_at": "2026-07-07T16:51:35Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
+    "id": "langfuse/langfuse-workshop",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-workshop",
+    "stars": 18,
+    "updated_at": "2026-07-07T16:51:07Z",
+    "url": "https://github.com/langfuse/langfuse-workshop"
+  },
+  {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
     "stars": 0,
-    "updated_at": "2026-07-07T16:43:53Z",
-    "url": "https://github.com/arfuhad/roundtable"
+    "updated_at": "2026-07-07T16:47:11Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30625,
+    "updated_at": "2026-07-07T16:59:03Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
+    "id": "RafineriaAI/aos-workflow-gate",
+    "language": "Python",
+    "name": "RafineriaAI/aos-workflow-gate",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:45:50Z",
+    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:45:39Z",
+    "url": "https://github.com/liam8421/faster-llm"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-07-07T16:43:51Z",
+    "updated_at": "2026-07-07T16:45:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Multi-LLM planning & orchestration that routes work across the terminal AI CLIs you already have \u2014 plan \u2192 phases \u2192 tasks",
+    "id": "arfuhad/roundtable",
+    "language": "Python",
+    "name": "arfuhad/roundtable",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:43:53Z",
+    "url": "https://github.com/arfuhad/roundtable"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -34,15 +106,6 @@
     "stars": 26922,
     "updated_at": "2026-07-07T16:43:54Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52874,
-    "updated_at": "2026-07-07T16:41:22Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -108,13 +171,13 @@
     "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30624,
-    "updated_at": "2026-07-07T16:44:25Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6327,
+    "updated_at": "2026-07-07T16:27:50Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -151,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-07T16:21:48Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6326,
-    "updated_at": "2026-07-07T16:27:50Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -216,15 +270,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
-    "id": "RafineriaAI/aos-workflow-gate",
-    "language": "Python",
-    "name": "RafineriaAI/aos-workflow-gate",
-    "stars": 0,
-    "updated_at": "2026-07-07T16:43:54Z",
-    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
-  },
-  {
     "description": "A guarded ChatGPT-to-Codex automation bridge for bounded local engineering loops.",
     "id": "MHW888888/aegisloop",
     "language": "JavaScript",
@@ -266,7 +311,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-07-07T16:40:39Z",
+    "updated_at": "2026-07-07T16:57:21Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -356,7 +401,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11500,
-    "updated_at": "2026-07-07T16:15:52Z",
+    "updated_at": "2026-07-07T16:49:00Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-07T15:05:34Z",
     "url": "https://github.com/routeplane-core/routeplane-ce"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:05:01Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-07-07T15:02:22Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:01:10Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-07-07T15:00:30Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3326,
-    "updated_at": "2026-07-07T16:44:03Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
