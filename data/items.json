@@ -1,11 +1,110 @@
 [
   {
+    "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
+    "id": "Neeeophytee/awesome-ai-workflows",
+    "language": "Shell",
+    "name": "Neeeophytee/awesome-ai-workflows",
+    "stars": 15,
+    "updated_at": "2026-07-07T14:28:26Z",
+    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 200,
+    "updated_at": "2026-07-07T14:27:05Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL ",
+    "id": "Ambuj123-lab/agentic-rag-financial-parser",
+    "language": "Python",
+    "name": "Ambuj123-lab/agentic-rag-financial-parser",
+    "stars": 64,
+    "updated_at": "2026-07-07T14:26:34Z",
+    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 73,
+    "updated_at": "2026-07-07T14:25:16Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-07T14:24:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-07-07T14:24:34Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-07T14:24:29Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-07-07T14:24:16Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-07T14:24:11Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The core FortifyRoot LLMOps SDK for Python.",
+    "id": "FortifyRoot/ocelle-py",
+    "language": "Python",
+    "name": "FortifyRoot/ocelle-py",
+    "stars": 0,
+    "updated_at": "2026-07-07T14:21:57Z",
+    "url": "https://github.com/FortifyRoot/ocelle-py"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 15,
+    "updated_at": "2026-07-07T14:28:41Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
     "name": "Ohswedd/vincio",
     "stars": 2,
-    "updated_at": "2026-07-07T14:18:30Z",
+    "updated_at": "2026-07-07T14:26:28Z",
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
@@ -32,26 +131,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3325,
-    "updated_at": "2026-07-07T14:24:05Z",
+    "updated_at": "2026-07-07T14:29:11Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-07T14:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL ",
-    "id": "Ambuj123-lab/agentic-rag-financial-parser",
-    "language": "Python",
-    "name": "Ambuj123-lab/agentic-rag-financial-parser",
-    "stars": 64,
-    "updated_at": "2026-07-07T14:21:21Z",
-    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -68,17 +149,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6324,
-    "updated_at": "2026-07-07T14:14:19Z",
+    "updated_at": "2026-07-07T14:26:51Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:24:29Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Production-grade LLMOps platform for RAG-based AI assistants: LLM gateway, eval gates, observability, cost controls, fal",
@@ -112,7 +184,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22998,
+    "stars": 22999,
     "updated_at": "2026-07-07T14:09:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -149,7 +221,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30620,
-    "updated_at": "2026-07-07T14:20:47Z",
+    "updated_at": "2026-07-07T14:29:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -265,7 +337,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2372,
+    "stars": 2373,
     "updated_at": "2026-07-07T13:55:58Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -293,7 +365,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20389,
-    "updated_at": "2026-07-07T14:22:34Z",
+    "updated_at": "2026-07-07T14:27:47Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -311,7 +383,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10436,
-    "updated_at": "2026-07-07T14:24:00Z",
+    "updated_at": "2026-07-07T14:29:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T13:22:08Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 73,
-    "updated_at": "2026-07-07T13:35:19Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-07T13:20:50Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-07T13:19:24Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-07-07T13:15:09Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 6,
-    "updated_at": "2026-07-07T13:14:33Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-07-07T13:11:31Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 2,
-    "updated_at": "2026-07-07T13:06:25Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 5,
-    "updated_at": "2026-07-07T13:03:44Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
   }
 ]
