@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 3,
+    "updated_at": "2026-07-08T07:29:27Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-08T07:27:35Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
+    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "language": "Python",
+    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "stars": 3,
+    "updated_at": "2026-07-08T07:27:06Z",
+    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-07-08T07:25:21Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-07-08T07:25:16Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "HTML",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-08T07:24:10Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-07-08T07:22:09Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-07-08T07:21:53Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52927,
+    "updated_at": "2026-07-08T07:22:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6355,
+    "updated_at": "2026-07-08T07:19:39Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-08T07:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
     "id": "developersofik/greenprompt",
     "language": "TypeScript",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20407,
-    "updated_at": "2026-07-08T07:14:37Z",
+    "updated_at": "2026-07-08T07:17:53Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -43,15 +142,6 @@
     "stars": 43,
     "updated_at": "2026-07-08T07:09:34Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52925,
-    "updated_at": "2026-07-08T07:09:27Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
@@ -151,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T07:00:32Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-08T07:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
@@ -279,24 +360,6 @@
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6353,
-    "updated_at": "2026-07-08T06:44:57Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "HTML",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-08T06:42:18Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
     "description": "An automated LLMOps pipeline that detects semantic drift in technical documentation using synthetic data generation, Qdr",
     "id": "TushirSahu/doc_drift_pipeline",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-08T06:13:15Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 2,
-    "updated_at": "2026-07-08T06:08:18Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3326,
-    "updated_at": "2026-07-08T07:13:08Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 5,
-    "updated_at": "2026-07-08T06:05:39Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-07-08T06:03:25Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1260,
-    "updated_at": "2026-07-08T06:57:22Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-07-08T06:02:22Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
-    "id": "aws-samples/sample-genai-on-eks-starter-kit",
-    "language": "JavaScript",
-    "name": "aws-samples/sample-genai-on-eks-starter-kit",
-    "stars": 76,
-    "updated_at": "2026-07-08T05:57:37Z",
-    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
   }
 ]
