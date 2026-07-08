@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30702,
+    "updated_at": "2026-07-08T14:13:08Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Failure-to-fix intelligence for AI-agent failures. Hosted CLI/API + proofpacks. Production intelligence is private.",
+    "id": "hermes6941/Rootlyze",
+    "language": "Python",
+    "name": "hermes6941/Rootlyze",
+    "stars": 0,
+    "updated_at": "2026-07-08T14:12:20Z",
+    "url": "https://github.com/hermes6941/Rootlyze"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-07-08T14:06:40Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 15,
+    "updated_at": "2026-07-08T14:12:59Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-08T14:01:31Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-08T14:01:18Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
     "id": "matteopasseri407/NeXgen-Vault-OL",
     "language": "Python",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 378,
-    "updated_at": "2026-07-08T13:53:54Z",
+    "updated_at": "2026-07-08T14:08:36Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -59,33 +113,15 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3328,
-    "updated_at": "2026-07-08T13:57:51Z",
+    "updated_at": "2026-07-08T14:06:50Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30701,
-    "updated_at": "2026-07-08T14:00:05Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-08T13:51:06Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2378,
+    "stars": 2377,
     "updated_at": "2026-07-08T13:50:38Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10456,
-    "updated_at": "2026-07-08T13:49:50Z",
+    "updated_at": "2026-07-08T14:06:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-08T13:46:45Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-08T13:45:49Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T13:41:34Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Failure-to-fix intelligence for AI-agent failures. Hosted CLI/API + proofpacks. Production intelligence is private.",
-    "id": "hermes6941/Rootlyze",
-    "language": "Python",
-    "name": "hermes6941/Rootlyze",
-    "stars": 0,
-    "updated_at": "2026-07-08T13:41:04Z",
-    "url": "https://github.com/hermes6941/Rootlyze"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -247,7 +265,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52956,
+    "stars": 52959,
     "updated_at": "2026-07-08T13:24:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20424,
-    "updated_at": "2026-07-08T13:57:51Z",
+    "updated_at": "2026-07-08T14:05:14Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T13:07:24Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-08T13:07:19Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-08T13:53:53Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
