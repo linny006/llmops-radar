@@ -1,5 +1,113 @@
 [
   {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-07-08T04:59:09Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-07-08T04:59:08Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 52913,
+    "updated_at": "2026-07-08T04:58:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Low-cost self-hosted LLM serving on RunPod \u2014 GPT-OSS-20B, OpenAI-compatible API, one-command lifecycle, full cost analys",
+    "id": "Syntran-Labs/learn-runpod-llm-serving",
+    "language": "Python",
+    "name": "Syntran-Labs/learn-runpod-llm-serving",
+    "stars": 0,
+    "updated_at": "2026-07-08T04:57:38Z",
+    "url": "https://github.com/Syntran-Labs/learn-runpod-llm-serving"
+  },
+  {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-07-08T04:56:00Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-07-08T04:55:46Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 3,
+    "updated_at": "2026-07-08T04:54:15Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "One gateway, every AI project, one dashboard. A dependency-free LLM gateway + self-hosted usage & cost dashboard \u2014 any l",
+    "id": "adityasarade/ai-command-center",
+    "language": "JavaScript",
+    "name": "adityasarade/ai-command-center",
+    "stars": 1,
+    "updated_at": "2026-07-08T04:52:38Z",
+    "url": "https://github.com/adityasarade/ai-command-center"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-07-08T04:49:07Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "xinglun/ai-cockpit-template",
+    "language": "Python",
+    "name": "xinglun/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-08T04:59:16Z",
+    "url": "https://github.com/xinglun/ai-cockpit-template"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 1,
+    "updated_at": "2026-07-08T04:48:28Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-08T04:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
     "id": "Farukul-Islam/from-mlops-to-llmops",
     "language": "PHP",
@@ -25,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T04:42:12Z",
     "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 52913,
-    "updated_at": "2026-07-08T04:44:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
@@ -126,15 +225,6 @@
     "url": "https://github.com/bharion1/analytics-dashboard"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "xinglun/ai-cockpit-template",
-    "language": "Python",
-    "name": "xinglun/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-08T04:33:21Z",
-    "url": "https://github.com/xinglun/ai-cockpit-template"
-  },
-  {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
     "id": "regabbb22/Flipkart-Product-Recommender-RAG",
     "language": "Python",
@@ -149,17 +239,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20402,
-    "updated_at": "2026-07-08T04:31:53Z",
+    "updated_at": "2026-07-08T04:52:34Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-08T04:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
@@ -196,15 +277,6 @@
     "stars": 43,
     "updated_at": "2026-07-08T04:26:22Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "One gateway, every AI project, one dashboard. A dependency-free LLM gateway + self-hosted usage & cost dashboard \u2014 any l",
-    "id": "adityasarade/ai-command-center",
-    "language": "JavaScript",
-    "name": "adityasarade/ai-command-center",
-    "stars": 1,
-    "updated_at": "2026-07-08T04:24:47Z",
-    "url": "https://github.com/adityasarade/ai-command-center"
   },
   {
     "description": "An automated LLMOps pipeline that detects semantic drift in technical documentation using synthetic data generation, Qdr",
@@ -297,15 +369,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Low-cost self-hosted LLM serving on RunPod \u2014 GPT-OSS-20B, OpenAI-compatible API, one-command lifecycle, full cost analys",
-    "id": "Syntran-Labs/learn-runpod-llm-serving",
-    "language": "Python",
-    "name": "Syntran-Labs/learn-runpod-llm-serving",
-    "stars": 0,
-    "updated_at": "2026-07-08T03:59:09Z",
-    "url": "https://github.com/Syntran-Labs/learn-runpod-llm-serving"
-  },
-  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T03:43:22Z",
     "url": "https://github.com/affkoul/agentforge-runtime"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 5,
-    "updated_at": "2026-07-08T03:41:14Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "Local-first tracer and efficiency profiler for AI agents",
-    "id": "TommyTranX/traceburn",
-    "language": "Python",
-    "name": "TommyTranX/traceburn",
-    "stars": 0,
-    "updated_at": "2026-07-08T03:39:21Z",
-    "url": "https://github.com/TommyTranX/traceburn"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-07-08T03:38:54Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-07-08T03:37:52Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-07-08T03:36:43Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and",
-    "id": "jqbit/TLDR",
-    "language": "JavaScript",
-    "name": "jqbit/TLDR",
-    "stars": 14,
-    "updated_at": "2026-07-08T03:13:31Z",
-    "url": "https://github.com/jqbit/TLDR"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-08T03:12:35Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
