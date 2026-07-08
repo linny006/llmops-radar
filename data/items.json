@@ -1,5 +1,113 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:00:22Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3328,
+    "updated_at": "2026-07-08T15:00:04Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2377,
+    "updated_at": "2026-07-08T14:58:06Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Write LangGraph / LangChain agents in a browser IDE and run them as a service \u2014 self-hosted, one Docker image, with isol",
+    "id": "ssbeatty/agentflow",
+    "language": "Python",
+    "name": "ssbeatty/agentflow",
+    "stars": 1,
+    "updated_at": "2026-07-08T14:57:21Z",
+    "url": "https://github.com/ssbeatty/agentflow"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 2,
+    "updated_at": "2026-07-08T14:57:14Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-07-08T14:57:10Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30709,
+    "updated_at": "2026-07-08T15:00:14Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-08T14:56:01Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-07-08T14:55:13Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, and body transfer, streamed as each phase completes.",
+    "id": "bytebeast/check-endpoint",
+    "language": "Python",
+    "name": "bytebeast/check-endpoint",
+    "stars": 6,
+    "updated_at": "2026-07-08T14:49:09Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-08T14:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
+    "id": "affkoul/agentforge-runtime",
+    "language": "Python",
+    "name": "affkoul/agentforge-runtime",
+    "stars": 1,
+    "updated_at": "2026-07-08T14:45:08Z",
+    "url": "https://github.com/affkoul/agentforge-runtime"
+  },
+  {
     "description": "Open-source LLM cost & usage governance dashboard \u2014 track, allocate & control spend across teams, models & providers. Bu",
     "id": "optidev-ai/llm-cost-dashboard",
     "language": "TypeScript",
@@ -14,17 +122,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20425,
-    "updated_at": "2026-07-08T14:44:48Z",
+    "updated_at": "2026-07-08T14:57:05Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30708,
-    "updated_at": "2026-07-08T14:43:33Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10458,
-    "updated_at": "2026-07-08T14:37:40Z",
+    "updated_at": "2026-07-08T14:58:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -67,7 +166,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 52965,
+    "stars": 52968,
     "updated_at": "2026-07-08T14:35:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -79,33 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T14:34:02Z",
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3328,
-    "updated_at": "2026-07-08T14:33:53Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2377,
-    "updated_at": "2026-07-08T14:31:46Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-08T14:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
@@ -126,21 +198,12 @@
     "url": "https://github.com/evilstar2016/skill-doctor"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-08T14:21:56Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6367,
-    "updated_at": "2026-07-08T14:19:39Z",
+    "updated_at": "2026-07-08T14:55:21Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -149,17 +212,8 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4274,
-    "updated_at": "2026-07-08T14:18:50Z",
+    "updated_at": "2026-07-08T14:55:44Z",
     "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Write LangGraph / LangChain agents in a browser IDE and run them as a service \u2014 self-hosted, one Docker image, with isol",
-    "id": "ssbeatty/agentflow",
-    "language": "Python",
-    "name": "ssbeatty/agentflow",
-    "stars": 1,
-    "updated_at": "2026-07-08T14:18:45Z",
-    "url": "https://github.com/ssbeatty/agentflow"
   },
   {
     "description": "Failure-to-fix intelligence for AI-agent failures. Hosted CLI/API + proofpacks. Production intelligence is private.",
@@ -185,7 +239,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 15,
-    "updated_at": "2026-07-08T14:15:57Z",
+    "updated_at": "2026-07-08T14:53:21Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -196,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T13:59:36Z",
     "url": "https://github.com/matteopasseri407/NeXgen-Vault-OL"
-  },
-  {
-    "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
-    "id": "affkoul/agentforge-runtime",
-    "language": "Python",
-    "name": "affkoul/agentforge-runtime",
-    "stars": 1,
-    "updated_at": "2026-07-08T14:45:08Z",
-    "url": "https://github.com/affkoul/agentforge-runtime"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 378,
-    "updated_at": "2026-07-08T14:35:38Z",
+    "updated_at": "2026-07-08T14:55:40Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T13:19:00Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-08T13:18:57Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3072,
-    "updated_at": "2026-07-08T14:29:09Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-08T13:17:02Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-07-08T13:15:10Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-07-08T13:14:38Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
