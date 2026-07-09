@@ -1,5 +1,59 @@
 [
   {
+    "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
+    "id": "koreaelonmusk/entropy-loop-core",
+    "language": "Python",
+    "name": "koreaelonmusk/entropy-loop-core",
+    "stars": 5,
+    "updated_at": "2026-07-09T19:44:45Z",
+    "url": "https://github.com/koreaelonmusk/entropy-loop-core"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53109,
+    "updated_at": "2026-07-09T19:43:26Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-09T19:39:27Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "CI-ready LLM regression harness for document-grounded RAG assistants: hard checks, pairwise judging, bootstrap CIs, and ",
+    "id": "Revanth9727/LLM-Evaluation-Harness",
+    "language": "Python",
+    "name": "Revanth9727/LLM-Evaluation-Harness",
+    "stars": 0,
+    "updated_at": "2026-07-09T19:32:50Z",
+    "url": "https://github.com/Revanth9727/LLM-Evaluation-Harness"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-09T19:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30814,
+    "updated_at": "2026-07-09T19:30:18Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Self-hosted evaluation framework for MCP servers. Define YAML test suites, run agents against MCP tools, score with LLM-",
     "id": "RitikPatill/mcpgauge",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-07-09T19:28:32Z",
     "url": "https://github.com/RitikPatill/mcpgauge"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7876,
+    "updated_at": "2026-07-09T19:28:15Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
@@ -32,17 +95,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29150,
-    "updated_at": "2026-07-09T19:25:28Z",
+    "updated_at": "2026-07-09T19:36:57Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
-    "id": "koreaelonmusk/entropy-loop-core",
-    "language": "Python",
-    "name": "koreaelonmusk/entropy-loop-core",
-    "stars": 5,
-    "updated_at": "2026-07-09T19:25:00Z",
-    "url": "https://github.com/koreaelonmusk/entropy-loop-core"
   },
   {
     "description": "Multi-provider LLM gateway on GitOps-managed Kubernetes: automatic failover, circuit breaking, budget-capped virtual key",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T19:23:50Z",
     "url": "https://github.com/p1tap/vbot-model-gateway"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30812,
-    "updated_at": "2026-07-09T19:30:18Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83e\udded Stop paying for AI in the dark. Turn ChatGPT/Claude/Copilot spend into auditable ROI: LLM observability \u2192 70+ KPIs (Ba",
@@ -103,7 +148,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6393,
+    "stars": 6394,
     "updated_at": "2026-07-09T19:18:10Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -115,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T19:17:09Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-09T19:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -142,24 +178,6 @@
     "stars": 5,
     "updated_at": "2026-07-09T19:11:33Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7875,
-    "updated_at": "2026-07-09T19:28:15Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53106,
-    "updated_at": "2026-07-09T19:10:06Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
@@ -297,15 +315,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-09T18:01:06Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T16:51:50Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:51:48Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
