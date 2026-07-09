@@ -1,5 +1,50 @@
 [
   {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 6,
+    "updated_at": "2026-07-09T19:04:33Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
+    "id": "koreaelonmusk/entropy-loop-core",
+    "language": "Python",
+    "name": "koreaelonmusk/entropy-loop-core",
+    "stars": 5,
+    "updated_at": "2026-07-09T19:04:29Z",
+    "url": "https://github.com/koreaelonmusk/entropy-loop-core"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10479,
+    "updated_at": "2026-07-09T19:04:19Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-07-09T19:00:33Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-09T19:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -27,24 +72,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 6,
-    "updated_at": "2026-07-09T18:57:46Z",
-    "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10479,
-    "updated_at": "2026-07-09T18:57:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
     "id": "matteopasseri407/NeXgen-Vault-OL",
     "language": "Python",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "RafineriaAI/aos-workflow-gate",
     "stars": 0,
-    "updated_at": "2026-07-09T18:57:45Z",
+    "updated_at": "2026-07-09T19:04:47Z",
     "url": "https://github.com/RafineriaAI/aos-workflow-gate"
   },
   {
@@ -90,15 +117,6 @@
     "url": "https://github.com/OrlojHQ/orloj"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-09T18:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL ",
     "id": "Ambuj123-lab/agentic-rag-financial-parser",
     "language": "Python",
@@ -115,15 +133,6 @@
     "stars": 173,
     "updated_at": "2026-07-09T18:40:45Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
-    "id": "koreaelonmusk/entropy-loop-core",
-    "language": "Python",
-    "name": "koreaelonmusk/entropy-loop-core",
-    "stars": 5,
-    "updated_at": "2026-07-09T19:00:18Z",
-    "url": "https://github.com/koreaelonmusk/entropy-loop-core"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -180,15 +189,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 1,
-    "updated_at": "2026-07-09T18:46:36Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -202,7 +202,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20498,
+    "stars": 20499,
     "updated_at": "2026-07-09T18:05:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -302,7 +302,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 64,
-    "updated_at": "2026-07-09T17:04:22Z",
+    "updated_at": "2026-07-09T19:00:26Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -311,7 +311,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3075,
-    "updated_at": "2026-07-09T18:53:04Z",
+    "updated_at": "2026-07-09T19:05:24Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
