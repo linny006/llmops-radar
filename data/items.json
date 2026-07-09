@@ -1,10 +1,100 @@
 [
   {
+    "description": "Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every",
+    "id": "dcondrey/misterdev",
+    "language": "Python",
+    "name": "dcondrey/misterdev",
+    "stars": 0,
+    "updated_at": "2026-07-09T07:08:08Z",
+    "url": "https://github.com/dcondrey/misterdev"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53043,
+    "updated_at": "2026-07-09T07:07:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30768,
+    "updated_at": "2026-07-09T07:07:46Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "cubestudio\u5f00\u6e90\u4e91\u539f\u751f\u4e00\u7ad9\u5f0f\u673a\u5668\u5b66\u4e60/\u6df1\u5ea6\u5b66\u4e60/\u5927\u6a21\u578bAI\u5e73\u53f0/MaaS/mlops/\u4eba\u5de5\u667a\u80fd\u5e73\u53f0/\u8bad\u63a8\u5e73\u53f0\uff0c\u7b97\u6cd5\u5168\u94fe\u8def\u6d41\u7a0b\uff0c\u591a\u79df\u6237\uff0c\u7b97\u529b\u79df\u8d41\u5e73\u53f0\uff0ctoken\u4e2d\u8f6c\uff0c\u62d6\u62c9\u62fd\u4efb\u52a1\u6d41pipeline\u7f16\u6392\uff0c\u591a\u673a\u591a\u5361\u5206\u5e03\u5f0f\u8bad\u7ec3\uff0c\u8d85\u53c2\u641c\u7d22\uff0c\u63a8\u7406",
+    "id": "data-infra/cube-studio",
+    "language": "Python",
+    "name": "data-infra/cube-studio",
+    "stars": 2327,
+    "updated_at": "2026-07-09T07:05:12Z",
+    "url": "https://github.com/data-infra/cube-studio"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26936,
+    "updated_at": "2026-07-09T07:06:23Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-07-09T07:02:49Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6379,
+    "updated_at": "2026-07-09T07:01:57Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 379,
+    "updated_at": "2026-07-09T07:01:01Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-09T07:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11505,
+    "updated_at": "2026-07-09T07:14:50Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2379,
+    "stars": 2380,
     "updated_at": "2026-07-09T06:51:25Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -36,31 +126,13 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-09T06:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53040,
-    "updated_at": "2026-07-09T06:45:09Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "TypeScript",
-    "name": "dataelement/bisheng",
-    "stars": 11505,
-    "updated_at": "2026-07-09T06:52:26Z",
-    "url": "https://github.com/dataelement/bisheng"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7867,
+    "updated_at": "2026-07-09T07:12:31Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -104,7 +176,7 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 3,
-    "updated_at": "2026-07-09T06:16:08Z",
+    "updated_at": "2026-07-09T07:06:54Z",
     "url": "https://github.com/boundflow/boundflow"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 1076,
     "updated_at": "2026-07-09T06:20:05Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7865,
-    "updated_at": "2026-07-09T06:35:46Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Write LangGraph / LangChain agents in a browser IDE and run them as a service \u2014 self-hosted, one Docker image, with isol",
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10471,
-    "updated_at": "2026-07-09T06:06:38Z",
+    "updated_at": "2026-07-09T07:08:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -288,15 +351,6 @@
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
   },
   {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-07-09T05:49:37Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -383,7 +437,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 23,
-    "updated_at": "2026-07-09T06:51:19Z",
+    "updated_at": "2026-07-09T07:14:50Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T05:40:45Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-07-09T05:40:11Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-07-09T05:40:10Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-09T05:40:04Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-09T05:40:03Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-07-09T05:38:36Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "\ud83e\udded Stop paying for AI in the dark. Turn ChatGPT/Claude/Copilot spend into auditable ROI: LLM observability \u2192 70+ KPIs (Ba",
-    "id": "bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard",
-    "language": "Python",
-    "name": "bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard",
-    "stars": 1,
-    "updated_at": "2026-07-09T05:38:20Z",
-    "url": "https://github.com/bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard"
   }
 ]
