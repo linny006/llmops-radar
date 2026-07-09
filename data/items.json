@@ -1,21 +1,66 @@
 [
   {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
+    "description": "A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI age",
+    "id": "e2b-dev/awesome-ai-sdks",
+    "language": "\u2014",
+    "name": "e2b-dev/awesome-ai-sdks",
+    "stars": 1197,
+    "updated_at": "2026-07-09T17:29:58Z",
+    "url": "https://github.com/e2b-dev/awesome-ai-sdks"
+  },
+  {
+    "description": "Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL ",
+    "id": "Ambuj123-lab/agentic-rag-financial-parser",
+    "language": "Python",
+    "name": "Ambuj123-lab/agentic-rag-financial-parser",
+    "stars": 64,
+    "updated_at": "2026-07-09T17:29:29Z",
+    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10478,
+    "updated_at": "2026-07-09T17:27:15Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
+    "id": "koreaelonmusk/entropy-loop-core",
+    "language": "Python",
+    "name": "koreaelonmusk/entropy-loop-core",
+    "stars": 5,
+    "updated_at": "2026-07-09T17:26:50Z",
+    "url": "https://github.com/koreaelonmusk/entropy-loop-core"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
     "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 106,
-    "updated_at": "2026-07-09T17:19:24Z",
-    "url": "https://github.com/OrlojHQ/orloj"
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-09T17:26:33Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 53100,
-    "updated_at": "2026-07-09T17:16:42Z",
+    "stars": 53101,
+    "updated_at": "2026-07-09T17:26:01Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6392,
+    "updated_at": "2026-07-09T17:23:20Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +68,35 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-07-09T17:15:27Z",
+    "updated_at": "2026-07-09T17:20:31Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-09T17:20:15Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
+    "id": "OrlojHQ/orloj",
+    "language": "Go",
+    "name": "OrlojHQ/orloj",
+    "stars": 106,
+    "updated_at": "2026-07-09T17:27:26Z",
+    "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20496,
+    "updated_at": "2026-07-09T17:19:10Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Description: A production-style LLMOps pipeline demonstrating automated evaluation, dataset versioning, and CI/CD-style ",
@@ -72,15 +144,6 @@
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-09T17:20:02Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
     "id": "effecterelectricalplant87/LLM",
     "language": "\u2014",
@@ -108,15 +171,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL ",
-    "id": "Ambuj123-lab/agentic-rag-financial-parser",
-    "language": "Python",
-    "name": "Ambuj123-lab/agentic-rag-financial-parser",
-    "stars": 64,
-    "updated_at": "2026-07-09T16:58:47Z",
-    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -124,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T16:58:34Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20497,
-    "updated_at": "2026-07-09T17:19:10Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
@@ -247,7 +292,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23088,
+    "stars": 23090,
     "updated_at": "2026-07-09T16:45:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T16:33:41Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26949,
-    "updated_at": "2026-07-09T16:31:21Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Open-source LLM cost & usage governance dashboard \u2014 track, allocate & control spend across teams, models & providers. Bu",
-    "id": "optidev-ai/llm-cost-dashboard",
-    "language": "TypeScript",
-    "name": "optidev-ai/llm-cost-dashboard",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:31:03Z",
-    "url": "https://github.com/optidev-ai/llm-cost-dashboard"
-  },
-  {
-    "description": "Spec-driven AI agent skill generator and verification pipeline for building, testing, repairing, and packaging productio",
-    "id": "HelloThisWorld/agent-skill-forge",
-    "language": "TypeScript",
-    "name": "HelloThisWorld/agent-skill-forge",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:29:00Z",
-    "url": "https://github.com/HelloThisWorld/agent-skill-forge"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6392,
-    "updated_at": "2026-07-09T17:10:33Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:27:11Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   }
 ]
