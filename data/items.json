@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udded Stop paying for AI in the dark. Turn ChatGPT/Claude/Copilot spend into auditable ROI: LLM observability \u2192 70+ KPIs (Ba",
+    "id": "bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard",
+    "language": "Python",
+    "name": "bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:44:25Z",
+    "url": "https://github.com/bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-09T17:43:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 6,
+    "updated_at": "2026-07-09T17:42:22Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53101,
+    "updated_at": "2026-07-09T17:43:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
+    "id": "koreaelonmusk/entropy-loop-core",
+    "language": "Python",
+    "name": "koreaelonmusk/entropy-loop-core",
+    "stars": 5,
+    "updated_at": "2026-07-09T17:35:53Z",
+    "url": "https://github.com/koreaelonmusk/entropy-loop-core"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:34:09Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-09T17:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI age",
     "id": "e2b-dev/awesome-ai-sdks",
     "language": "\u2014",
@@ -27,15 +90,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
-    "id": "koreaelonmusk/entropy-loop-core",
-    "language": "Python",
-    "name": "koreaelonmusk/entropy-loop-core",
-    "stars": 5,
-    "updated_at": "2026-07-09T17:26:50Z",
-    "url": "https://github.com/koreaelonmusk/entropy-loop-core"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -45,15 +99,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53101,
-    "updated_at": "2026-07-09T17:26:01Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -61,15 +106,6 @@
     "stars": 6392,
     "updated_at": "2026-07-09T17:23:20Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-09T17:20:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20496,
-    "updated_at": "2026-07-09T17:19:10Z",
+    "updated_at": "2026-07-09T17:43:40Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3075,
-    "updated_at": "2026-07-09T17:17:23Z",
+    "updated_at": "2026-07-09T17:44:43Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T16:58:34Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-09T16:54:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 1,
-    "updated_at": "2026-07-09T16:54:52Z",
+    "updated_at": "2026-07-09T17:45:21Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2583,
     "updated_at": "2026-07-09T16:36:40Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "A typed coherence layer for portable organizational AI agents.",
-    "id": "buchk/TypeFerence",
-    "language": "Go",
-    "name": "buchk/TypeFerence",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:35:22Z",
-    "url": "https://github.com/buchk/TypeFerence"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:34:01Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:33:41Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
