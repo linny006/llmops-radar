@@ -1,12 +1,39 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2377,
+    "updated_at": "2026-07-09T01:25:12Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "An automated LLMOps pipeline that detects semantic drift in technical documentation using synthetic data generation, Qdr",
+    "id": "TushirSahu/doc_drift_pipeline",
+    "language": "Python",
+    "name": "TushirSahu/doc_drift_pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-09T01:21:47Z",
+    "url": "https://github.com/TushirSahu/doc_drift_pipeline"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-07-09T01:15:25Z",
+    "updated_at": "2026-07-09T01:18:34Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10465,
+    "updated_at": "2026-07-09T01:18:24Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A traceable agentic RAG system that connects business questions to documents, PostgreSQL data, MCP tools, and auditable ",
@@ -25,15 +52,6 @@
     "stars": 53010,
     "updated_at": "2026-07-09T01:11:13Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2377,
-    "updated_at": "2026-07-09T01:08:35Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -205,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T00:36:32Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10464,
-    "updated_at": "2026-07-09T01:18:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T00:07:52Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-07-09T00:07:17Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
