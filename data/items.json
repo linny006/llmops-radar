@@ -1,11 +1,83 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10479,
+    "updated_at": "2026-07-09T20:14:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 7,
+    "updated_at": "2026-07-09T20:15:14Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "Helix gives you agents that actually behave in production: hard budget limits, semantic caching that cuts API costs by 4",
+    "id": "sarcasticdhruv/helix-agent",
+    "language": "Python",
+    "name": "sarcasticdhruv/helix-agent",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:10:36Z",
+    "url": "https://github.com/sarcasticdhruv/helix-agent"
+  },
+  {
+    "description": "A comprehensive 2026 AI-engineering guide \u2014 complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati",
+    "id": "tonyx1998/modern-ai-guide",
+    "language": "TypeScript",
+    "name": "tonyx1998/modern-ai-guide",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:07:23Z",
+    "url": "https://github.com/tonyx1998/modern-ai-guide"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-07-09T20:05:08Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 37,
+    "updated_at": "2026-07-09T20:04:44Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-07-09T20:02:07Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-09T20:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
     "id": "katanemo/plano",
     "language": "Rust",
     "name": "katanemo/plano",
     "stars": 6687,
-    "updated_at": "2026-07-09T19:59:29Z",
+    "updated_at": "2026-07-09T20:00:36Z",
     "url": "https://github.com/katanemo/plano"
   },
   {
@@ -36,15 +108,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "A comprehensive 2026 AI-engineering guide \u2014 complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati",
-    "id": "tonyx1998/modern-ai-guide",
-    "language": "TypeScript",
-    "name": "tonyx1998/modern-ai-guide",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:55:13Z",
-    "url": "https://github.com/tonyx1998/modern-ai-guide"
-  },
-  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -54,21 +117,12 @@
     "url": "https://github.com/Kakz/prometheus-llm"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10479,
-    "updated_at": "2026-07-09T19:56:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53110,
-    "updated_at": "2026-07-09T19:52:48Z",
+    "updated_at": "2026-07-09T20:15:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-09T19:46:41Z",
     "url": "https://github.com/bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-09T19:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
@@ -139,7 +184,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30814,
+    "stars": 30818,
     "updated_at": "2026-07-09T19:30:18Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -158,7 +203,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 7876,
-    "updated_at": "2026-07-09T19:58:48Z",
+    "updated_at": "2026-07-09T20:06:24Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29150,
-    "updated_at": "2026-07-09T19:36:57Z",
+    "updated_at": "2026-07-09T20:08:50Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T19:23:50Z",
     "url": "https://github.com/p1tap/vbot-model-gateway"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 7,
-    "updated_at": "2026-07-09T19:22:04Z",
-    "url": "https://github.com/MattJackson/busbarAI"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
@@ -229,8 +265,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6394,
-    "updated_at": "2026-07-09T19:18:10Z",
+    "stars": 6395,
+    "updated_at": "2026-07-09T20:11:19Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 1,
-    "updated_at": "2026-07-09T19:59:29Z",
+    "updated_at": "2026-07-09T20:06:54Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-09T18:58:10Z",
+    "updated_at": "2026-07-09T20:00:41Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "ArchanaChetan07/ai-inference-observability-platform",
     "stars": 0,
-    "updated_at": "2026-07-09T18:23:31Z",
+    "updated_at": "2026-07-09T20:06:44Z",
     "url": "https://github.com/ArchanaChetan07/ai-inference-observability-platform"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 8,
-    "updated_at": "2026-07-09T18:08:52Z",
+    "updated_at": "2026-07-09T20:15:14Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T17:00:45Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-07-09T17:00:07Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:58:34Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:53:57Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:52:22Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
