@@ -1,5 +1,68 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3360,
+    "updated_at": "2026-07-09T11:59:59Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-09T11:58:04Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-07-09T11:56:38Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2381,
+    "updated_at": "2026-07-09T11:55:57Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Langfuse on GreptimeDB. Self-hosted LLM observability.",
+    "id": "tma1-ai/openfuse",
+    "language": "TypeScript",
+    "name": "tma1-ai/openfuse",
+    "stars": 29,
+    "updated_at": "2026-07-09T11:55:54Z",
+    "url": "https://github.com/tma1-ai/openfuse"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-07-09T11:58:01Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-09T11:53:59Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -14,17 +77,17 @@
     "language": "Python",
     "name": "aadi-joshi/cngx",
     "stars": 1,
-    "updated_at": "2026-07-09T11:53:21Z",
+    "updated_at": "2026-07-09T11:58:59Z",
     "url": "https://github.com/aadi-joshi/cngx"
   },
   {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
+    "description": "High-performance, multi-tenant LLMOps proxy gateway featuring dual-layer semantic caching (Redis + Qdrant), multi-provid",
+    "id": "hansitvarshney/llmops-gateway",
     "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 3,
-    "updated_at": "2026-07-09T11:51:43Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+    "name": "hansitvarshney/llmops-gateway",
+    "stars": 0,
+    "updated_at": "2026-07-09T11:52:17Z",
+    "url": "https://github.com/hansitvarshney/llmops-gateway"
   },
   {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
@@ -45,15 +108,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2381,
-    "updated_at": "2026-07-09T11:48:32Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -63,21 +117,12 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-09T11:47:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 30787,
-    "updated_at": "2026-07-09T11:52:31Z",
+    "updated_at": "2026-07-09T12:00:23Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -108,15 +153,6 @@
     "url": "https://github.com/TushirSahu/doc_drift_pipeline"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-09T11:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udded Stop paying for AI in the dark. Turn ChatGPT/Claude/Copilot spend into auditable ROI: LLM observability \u2192 70+ KPIs (Ba",
     "id": "bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard",
     "language": "Python",
@@ -126,6 +162,15 @@
     "url": "https://github.com/bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20476,
+    "updated_at": "2026-07-09T11:42:58Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
     "id": "8monkey-ai/hebo-gateway",
     "language": "TypeScript",
@@ -133,15 +178,6 @@
     "stars": 24,
     "updated_at": "2026-07-09T11:42:54Z",
     "url": "https://github.com/8monkey-ai/hebo-gateway"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3360,
-    "updated_at": "2026-07-09T11:49:16Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -176,7 +212,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6385,
-    "updated_at": "2026-07-09T11:48:04Z",
+    "updated_at": "2026-07-09T11:53:57Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T11:33:38Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20472,
-    "updated_at": "2026-07-09T11:42:58Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29144,
-    "updated_at": "2026-07-09T11:07:50Z",
+    "updated_at": "2026-07-09T11:57:07Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-07-09T11:07:49Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-07-09T11:07:08Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Incident-triage agent that cites real evidence or abstains \u2014 model-agnostic, read-only MCP servers, frontier-competitive",
-    "id": "Rajeev-Shyam/Quellgeist",
-    "language": "Python",
-    "name": "Rajeev-Shyam/Quellgeist",
-    "stars": 1,
-    "updated_at": "2026-07-09T11:42:06Z",
-    "url": "https://github.com/Rajeev-Shyam/Quellgeist"
   }
 ]
