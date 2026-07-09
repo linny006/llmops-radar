@@ -1,5 +1,59 @@
 [
   {
+    "description": "Deterministic guardrails for AI agents \u2014 the LLM proposes, your rules dispose. A sub-microsecond, JIT-compiled rule engi",
+    "id": "Ordo-Engine/Ordo",
+    "language": "Rust",
+    "name": "Ordo-Engine/Ordo",
+    "stars": 29,
+    "updated_at": "2026-07-09T14:40:22Z",
+    "url": "https://github.com/Ordo-Engine/Ordo"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30795,
+    "updated_at": "2026-07-09T14:41:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
+    "id": "matteopasseri407/NeXgen-Vault-OL",
+    "language": "Python",
+    "name": "matteopasseri407/NeXgen-Vault-OL",
+    "stars": 0,
+    "updated_at": "2026-07-09T14:39:59Z",
+    "url": "https://github.com/matteopasseri407/NeXgen-Vault-OL"
+  },
+  {
+    "description": "Open-source LLM cost & usage governance dashboard \u2014 track, allocate & control spend across teams, models & providers. Bu",
+    "id": "optidev-ai/llm-cost-dashboard",
+    "language": "TypeScript",
+    "name": "optidev-ai/llm-cost-dashboard",
+    "stars": 0,
+    "updated_at": "2026-07-09T14:38:58Z",
+    "url": "https://github.com/optidev-ai/llm-cost-dashboard"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 0,
+    "updated_at": "2026-07-09T14:32:18Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-09T14:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -18,31 +72,13 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30795,
-    "updated_at": "2026-07-09T14:28:08Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2382,
+    "stars": 2383,
     "updated_at": "2026-07-09T14:26:25Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
-    "id": "matteopasseri407/NeXgen-Vault-OL",
-    "language": "Python",
-    "name": "matteopasseri407/NeXgen-Vault-OL",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:24:39Z",
-    "url": "https://github.com/matteopasseri407/NeXgen-Vault-OL"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10477,
-    "updated_at": "2026-07-09T14:24:28Z",
+    "updated_at": "2026-07-09T14:39:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -61,6 +97,15 @@
     "stars": 5,
     "updated_at": "2026-07-09T14:27:24Z",
     "url": "https://github.com/koreaelonmusk/entropy-loop-core"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53091,
+    "updated_at": "2026-07-09T14:44:49Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -135,6 +180,15 @@
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   },
   {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29147,
+    "updated_at": "2026-07-09T14:17:02Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "End-to-end Dynatrace observability for agentic AI workloads - services, agents, tools, prompts, models, topology, FinOps",
     "id": "dberanjr/AIObservability3.0",
     "language": "TypeScript",
@@ -153,15 +207,6 @@
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-09T14:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
     "id": "sarrahw23/deploy-guide",
     "language": "\u2014",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 380,
-    "updated_at": "2026-07-09T14:13:08Z",
+    "updated_at": "2026-07-09T14:42:25Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 1,
-    "updated_at": "2026-07-09T14:08:49Z",
+    "updated_at": "2026-07-09T14:45:23Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -275,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3360,
-    "updated_at": "2026-07-09T14:25:33Z",
+    "updated_at": "2026-07-09T14:44:37Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-09T13:44:36Z",
     "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 1,
-    "updated_at": "2026-07-09T13:44:15Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-07-09T13:44:01Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-07-09T13:43:26Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-07-09T13:42:13Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-07-09T13:40:07Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
   }
 ]
