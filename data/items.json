@@ -1,12 +1,30 @@
 [
   {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
-    "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 106,
-    "updated_at": "2026-07-09T20:29:48Z",
-    "url": "https://github.com/OrlojHQ/orloj"
+    "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
+    "id": "katanemo/plano",
+    "language": "Rust",
+    "name": "katanemo/plano",
+    "stars": 6687,
+    "updated_at": "2026-07-09T20:42:26Z",
+    "url": "https://github.com/katanemo/plano"
+  },
+  {
+    "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
+    "id": "koreaelonmusk/entropy-loop-core",
+    "language": "Python",
+    "name": "koreaelonmusk/entropy-loop-core",
+    "stars": 5,
+    "updated_at": "2026-07-09T20:41:50Z",
+    "url": "https://github.com/koreaelonmusk/entropy-loop-core"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53109,
+    "updated_at": "2026-07-09T20:42:06Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -14,8 +32,89 @@
     "language": "Rust",
     "name": "MattJackson/busbarAI",
     "stars": 7,
-    "updated_at": "2026-07-09T20:27:10Z",
+    "updated_at": "2026-07-09T20:39:44Z",
     "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:39:29Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-07-09T20:38:15Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and",
+    "id": "0point9bar/TLDR",
+    "language": "JavaScript",
+    "name": "0point9bar/TLDR",
+    "stars": 17,
+    "updated_at": "2026-07-09T20:37:36Z",
+    "url": "https://github.com/0point9bar/TLDR"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-07-09T20:35:20Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-07-09T20:30:22Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-09T20:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-09T20:45:14Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
+    "id": "OrlojHQ/orloj",
+    "language": "Go",
+    "name": "OrlojHQ/orloj",
+    "stars": 106,
+    "updated_at": "2026-07-09T20:30:30Z",
+    "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7877,
+    "updated_at": "2026-07-09T20:27:48Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -32,7 +131,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29150,
-    "updated_at": "2026-07-09T20:26:25Z",
+    "updated_at": "2026-07-09T20:34:22Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -61,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T20:19:28Z",
     "url": "https://github.com/inferock/inferock-bench"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53110,
-    "updated_at": "2026-07-09T20:28:20Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local-first context compression for AI agents \u2014 content-aware, reversible, zero runtime deps. Cuts agent token usage 40-",
@@ -117,30 +207,12 @@
     "url": "https://github.com/sarcasticdhruv/helix-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-09T20:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-09T20:30:16Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10479,
-    "updated_at": "2026-07-09T20:24:19Z",
+    "updated_at": "2026-07-09T20:40:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -153,15 +225,6 @@
     "url": "https://github.com/tonyx1998/modern-ai-guide"
   },
   {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 6,
-    "updated_at": "2026-07-09T20:05:08Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -171,24 +234,6 @@
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-07-09T20:02:07Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Plano is an AI-native proxy and data plane for agentic apps \u2014 with built-in orchestration, safety, observability, and sm",
-    "id": "katanemo/plano",
-    "language": "Rust",
-    "name": "katanemo/plano",
-    "stars": 6687,
-    "updated_at": "2026-07-09T20:00:36Z",
-    "url": "https://github.com/katanemo/plano"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -196,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-07-09T19:57:57Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 2,
-    "updated_at": "2026-07-09T19:57:10Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -234,15 +270,6 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
-    "id": "koreaelonmusk/entropy-loop-core",
-    "language": "Python",
-    "name": "koreaelonmusk/entropy-loop-core",
-    "stars": 5,
-    "updated_at": "2026-07-09T19:44:45Z",
-    "url": "https://github.com/koreaelonmusk/entropy-loop-core"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -268,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T19:28:32Z",
     "url": "https://github.com/RitikPatill/mcpgauge"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7876,
-    "updated_at": "2026-07-09T20:27:48Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
@@ -347,7 +365,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-09T20:16:13Z",
+    "updated_at": "2026-07-09T20:33:53Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Go",
     "name": "dativo-io/talon",
     "stars": 10,
-    "updated_at": "2026-07-09T17:48:29Z",
+    "updated_at": "2026-07-09T20:42:40Z",
     "url": "https://github.com/dativo-io/talon"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T18:31:08Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI age",
-    "id": "e2b-dev/awesome-ai-sdks",
-    "language": "\u2014",
-    "name": "e2b-dev/awesome-ai-sdks",
-    "stars": 1197,
-    "updated_at": "2026-07-09T17:29:58Z",
-    "url": "https://github.com/e2b-dev/awesome-ai-sdks"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3359,
-    "updated_at": "2026-07-09T17:21:08Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
