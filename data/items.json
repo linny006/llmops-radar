@@ -1,21 +1,12 @@
 [
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-09T06:43:49Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53038,
-    "updated_at": "2026-07-09T06:45:09Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2379,
+    "updated_at": "2026-07-09T06:51:25Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
@@ -23,8 +14,53 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse-workshop",
     "stars": 19,
-    "updated_at": "2026-07-09T06:41:18Z",
+    "updated_at": "2026-07-09T06:51:09Z",
     "url": "https://github.com/langfuse/langfuse-workshop"
+  },
+  {
+    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
+    "id": "yptang98/CostMarshal",
+    "language": "Python",
+    "name": "yptang98/CostMarshal",
+    "stars": 2,
+    "updated_at": "2026-07-09T06:49:43Z",
+    "url": "https://github.com/yptang98/CostMarshal"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-09T06:47:33Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-09T06:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53040,
+    "updated_at": "2026-07-09T06:45:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "TypeScript",
+    "name": "dataelement/bisheng",
+    "stars": 11505,
+    "updated_at": "2026-07-09T06:52:26Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -41,17 +77,8 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 1,
-    "updated_at": "2026-07-09T06:30:49Z",
+    "updated_at": "2026-07-09T06:59:09Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-09T06:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -61,15 +88,6 @@
     "stars": 29139,
     "updated_at": "2026-07-09T06:21:58Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2379,
-    "updated_at": "2026-07-09T06:20:01Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 23,
-    "updated_at": "2026-07-09T06:28:56Z",
+    "updated_at": "2026-07-09T06:51:19Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T05:38:20Z",
     "url": "https://github.com/bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-07-09T05:37:56Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Open Source OpenTelemetry-native Observability tool for GenAI and LLMs designed to provide developers with complete capa",
-    "id": "openlit/website",
-    "language": "TypeScript",
-    "name": "openlit/website",
-    "stars": 10,
-    "updated_at": "2026-07-09T05:37:08Z",
-    "url": "https://github.com/openlit/website"
   }
 ]
