@@ -1,21 +1,30 @@
 [
   {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
-    "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 106,
-    "updated_at": "2026-07-09T18:43:44Z",
-    "url": "https://github.com/OrlojHQ/orloj"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53103,
-    "updated_at": "2026-07-09T18:43:43Z",
+    "updated_at": "2026-07-09T18:59:24Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-09T18:58:10Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-09T18:57:49Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -23,8 +32,26 @@
     "language": "Rust",
     "name": "MattJackson/busbarAI",
     "stars": 6,
-    "updated_at": "2026-07-09T18:41:22Z",
+    "updated_at": "2026-07-09T18:57:46Z",
     "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10479,
+    "updated_at": "2026-07-09T18:57:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
+    "id": "matteopasseri407/NeXgen-Vault-OL",
+    "language": "Python",
+    "name": "matteopasseri407/NeXgen-Vault-OL",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:56:51Z",
+    "url": "https://github.com/matteopasseri407/NeXgen-Vault-OL"
   },
   {
     "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
@@ -32,8 +59,44 @@
     "language": "Python",
     "name": "RafineriaAI/aos-workflow-gate",
     "stars": 0,
-    "updated_at": "2026-07-09T18:41:43Z",
+    "updated_at": "2026-07-09T18:57:45Z",
     "url": "https://github.com/RafineriaAI/aos-workflow-gate"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-07-09T18:50:03Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:49:05Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
+    "id": "OrlojHQ/orloj",
+    "language": "Go",
+    "name": "OrlojHQ/orloj",
+    "stars": 106,
+    "updated_at": "2026-07-09T18:48:26Z",
+    "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-09T18:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL ",
@@ -54,21 +117,12 @@
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-09T18:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
     "id": "koreaelonmusk/entropy-loop-core",
     "language": "Python",
     "name": "koreaelonmusk/entropy-loop-core",
     "stars": 5,
-    "updated_at": "2026-07-09T18:30:25Z",
+    "updated_at": "2026-07-09T19:00:18Z",
     "url": "https://github.com/koreaelonmusk/entropy-loop-core"
   },
   {
@@ -88,6 +142,15 @@
     "stars": 5,
     "updated_at": "2026-07-09T18:25:00Z",
     "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7875,
+    "updated_at": "2026-07-09T18:24:47Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Production-grade LLM latency observability \u2014 FastAPI proxy for vLLM surfacing TTFT, TBT, E2E metrics via Prometheus, Gra",
@@ -122,7 +185,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 1,
-    "updated_at": "2026-07-09T18:16:38Z",
+    "updated_at": "2026-07-09T18:46:36Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -171,15 +234,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
-    "id": "matteopasseri407/NeXgen-Vault-OL",
-    "language": "Python",
-    "name": "matteopasseri407/NeXgen-Vault-OL",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:53:49Z",
-    "url": "https://github.com/matteopasseri407/NeXgen-Vault-OL"
-  },
-  {
     "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
     "id": "dativo-io/talon",
     "language": "Go",
@@ -216,24 +270,6 @@
     "url": "https://github.com/e2b-dev/awesome-ai-sdks"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10478,
-    "updated_at": "2026-07-09T17:45:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-09T17:26:33Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "MauricioPerera/ccdd",
     "stars": 0,
-    "updated_at": "2026-07-09T18:45:10Z",
+    "updated_at": "2026-07-09T18:51:25Z",
     "url": "https://github.com/MauricioPerera/ccdd"
   },
   {
@@ -265,7 +301,7 @@
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
-    "stars": 63,
+    "stars": 64,
     "updated_at": "2026-07-09T17:04:22Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
@@ -275,7 +311,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3075,
-    "updated_at": "2026-07-09T18:26:32Z",
+    "updated_at": "2026-07-09T18:53:04Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T16:45:40Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23090,
-    "updated_at": "2026-07-09T18:18:40Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:45:10Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:45:04Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:45:02Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
