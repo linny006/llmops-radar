@@ -1,5 +1,77 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-09T22:45:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Production-grade LLM latency observability \u2014 FastAPI proxy for vLLM surfacing TTFT, TBT, E2E metrics via Prometheus, Gra",
+    "id": "ArchanaChetan07/ai-inference-observability-platform",
+    "language": "Python",
+    "name": "ArchanaChetan07/ai-inference-observability-platform",
+    "stars": 0,
+    "updated_at": "2026-07-09T22:44:13Z",
+    "url": "https://github.com/ArchanaChetan07/ai-inference-observability-platform"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-07-09T22:44:58Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
+    "id": "mykolapodpriatov/agentbisect",
+    "language": "Python",
+    "name": "mykolapodpriatov/agentbisect",
+    "stars": 0,
+    "updated_at": "2026-07-09T22:43:24Z",
+    "url": "https://github.com/mykolapodpriatov/agentbisect"
+  },
+  {
+    "description": "OpenAI-compatible proxy daemon that races multiple LLM providers per request and cancels the losers to cut tail latency.",
+    "id": "mykolapodpriatov/hedge-llm",
+    "language": "Go",
+    "name": "mykolapodpriatov/hedge-llm",
+    "stars": 0,
+    "updated_at": "2026-07-09T22:41:27Z",
+    "url": "https://github.com/mykolapodpriatov/hedge-llm"
+  },
+  {
+    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
+    "id": "Karinaclastic11/Drip-Lite-Client",
+    "language": "\u2014",
+    "name": "Karinaclastic11/Drip-Lite-Client",
+    "stars": 1,
+    "updated_at": "2026-07-09T22:32:29Z",
+    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 7,
+    "updated_at": "2026-07-09T22:32:17Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-09T22:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T22:26:30Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 7,
-    "updated_at": "2026-07-09T22:26:30Z",
-    "url": "https://github.com/MattJackson/busbarAI"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -81,15 +144,6 @@
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-09T22:21:22Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -104,17 +158,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 65,
-    "updated_at": "2026-07-09T22:20:42Z",
+    "updated_at": "2026-07-09T22:37:45Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-09T22:20:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53117,
-    "updated_at": "2026-07-09T22:28:41Z",
+    "updated_at": "2026-07-09T22:45:00Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10479,
-    "updated_at": "2026-07-09T22:26:32Z",
+    "updated_at": "2026-07-09T22:41:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -401,52 +446,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6396,
-    "updated_at": "2026-07-09T22:00:54Z",
+    "updated_at": "2026-07-09T22:37:10Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-07-09T21:50:56Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7877,
-    "updated_at": "2026-07-09T22:11:53Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-09T21:49:05Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-07-09T21:49:02Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "MediAgent \u2014 Agentic Healthcare Operations Platform | LangGraph + FAISS RAG + Streamlit | Production-deployable AI for he",
-    "id": "SIVARAMPRASADBORRA/agentic-healthcare-assistant",
-    "language": "Jupyter Notebook",
-    "name": "SIVARAMPRASADBORRA/agentic-healthcare-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-09T21:48:11Z",
-    "url": "https://github.com/SIVARAMPRASADBORRA/agentic-healthcare-assistant"
   }
 ]
