@@ -1,12 +1,57 @@
 [
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53219,
+    "updated_at": "2026-07-10T21:29:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-10T21:26:34Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-10T21:20:01Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
     "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
     "id": "acblabs/agent-assure",
     "language": "Python",
     "name": "acblabs/agent-assure",
     "stars": 0,
-    "updated_at": "2026-07-10T21:14:09Z",
+    "updated_at": "2026-07-10T21:18:16Z",
     "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-10T21:15:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-10T21:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -45,15 +90,6 @@
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-10T21:10:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -70,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-10T21:05:08Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-10T21:03:09Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 1,
-    "updated_at": "2026-07-10T21:03:41Z",
+    "updated_at": "2026-07-10T21:16:10Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -126,15 +153,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53220,
-    "updated_at": "2026-07-10T21:14:32Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
     "id": "RafineriaAI/aos-workflow-gate",
     "language": "Python",
@@ -153,15 +171,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-10T21:13:11Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -176,7 +185,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-10T20:44:35Z",
+    "updated_at": "2026-07-10T21:16:46Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-10T20:05:42Z",
     "url": "https://github.com/runcycles/cycles-server-admin"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-10T20:04:21Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   }
 ]
