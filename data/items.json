@@ -1,30 +1,84 @@
 [
   {
-    "description": "A runtime spend & quota firewall for AI agents \u2014 hard, real-time, pre-vendor enforcement. Self-hostable, OpenAI-compatib",
-    "id": "somasays/heave",
-    "language": "Go",
-    "name": "somasays/heave",
-    "stars": 0,
-    "updated_at": "2026-07-10T13:00:05Z",
-    "url": "https://github.com/somasays/heave"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3360,
-    "updated_at": "2026-07-10T12:59:37Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29160,
-    "updated_at": "2026-07-10T12:59:16Z",
+    "updated_at": "2026-07-10T13:14:41Z",
     "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30872,
+    "updated_at": "2026-07-10T13:15:11Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-10T13:10:08Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-10T13:09:04Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Failure-to-fix intelligence for AI-agent failures. Hosted CLI/API + proofpacks. Production intelligence is private.",
+    "id": "hermes6941/Rootlyze",
+    "language": "Python",
+    "name": "hermes6941/Rootlyze",
+    "stars": 0,
+    "updated_at": "2026-07-10T13:08:58Z",
+    "url": "https://github.com/hermes6941/Rootlyze"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-10T13:06:57Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
+    "id": "matteopasseri407/NeXgen-Engine",
+    "language": "Python",
+    "name": "matteopasseri407/NeXgen-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-10T13:06:21Z",
+    "url": "https://github.com/matteopasseri407/NeXgen-Engine"
+  },
+  {
+    "description": "Local CLI that fingerprints coding-agent output and gates merges when verification is missing",
+    "id": "aadi-joshi/cngx",
+    "language": "Python",
+    "name": "aadi-joshi/cngx",
+    "stars": 2,
+    "updated_at": "2026-07-10T13:09:30Z",
+    "url": "https://github.com/aadi-joshi/cngx"
+  },
+  {
+    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
+    "id": "OrlojHQ/orloj",
+    "language": "Go",
+    "name": "OrlojHQ/orloj",
+    "stars": 107,
+    "updated_at": "2026-07-10T13:01:50Z",
+    "url": "https://github.com/OrlojHQ/orloj"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -32,8 +86,53 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 60,
-    "updated_at": "2026-07-10T12:57:07Z",
+    "updated_at": "2026-07-10T13:01:38Z",
     "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "A runtime spend & quota firewall for AI agents \u2014 hard, real-time, pre-vendor enforcement. Self-hostable, OpenAI-compatib",
+    "id": "somasays/heave",
+    "language": "Go",
+    "name": "somasays/heave",
+    "stars": 0,
+    "updated_at": "2026-07-10T13:00:40Z",
+    "url": "https://github.com/somasays/heave"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-10T13:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-07-10T13:00:06Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-07-10T12:59:29Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3360,
+    "updated_at": "2026-07-10T13:01:10Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -45,24 +144,6 @@
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   },
   {
-    "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
-    "id": "matteopasseri407/NeXgen-Engine",
-    "language": "Python",
-    "name": "matteopasseri407/NeXgen-Engine",
-    "stars": 0,
-    "updated_at": "2026-07-10T12:56:26Z",
-    "url": "https://github.com/matteopasseri407/NeXgen-Engine"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-10T12:56:20Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
     "id": "Lo3okSky/LLM_course",
     "language": "Jupyter Notebook",
@@ -70,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-10T12:51:30Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Failure-to-fix intelligence for AI-agent failures. Hosted CLI/API + proofpacks. Production intelligence is private.",
-    "id": "hermes6941/Rootlyze",
-    "language": "Python",
-    "name": "hermes6941/Rootlyze",
-    "stars": 0,
-    "updated_at": "2026-07-10T12:50:27Z",
-    "url": "https://github.com/hermes6941/Rootlyze"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -108,21 +180,12 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-10T12:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-10T12:44:50Z",
+    "updated_at": "2026-07-10T13:12:23Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/openloop-team/openloop"
   },
   {
-    "description": "Local CLI that fingerprints coding-agent output and gates merges when verification is missing",
-    "id": "aadi-joshi/cngx",
-    "language": "Python",
-    "name": "aadi-joshi/cngx",
-    "stars": 2,
-    "updated_at": "2026-07-10T12:58:46Z",
-    "url": "https://github.com/aadi-joshi/cngx"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -169,15 +223,6 @@
     "stars": 6418,
     "updated_at": "2026-07-10T12:35:11Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30870,
-    "updated_at": "2026-07-10T13:00:21Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20511,
-    "updated_at": "2026-07-10T12:52:54Z",
+    "updated_at": "2026-07-10T13:12:43Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -238,7 +283,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 53194,
+    "stars": 53196,
     "updated_at": "2026-07-10T12:11:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -268,15 +313,6 @@
     "stars": 26964,
     "updated_at": "2026-07-10T11:59:15Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-10T11:56:53Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T11:29:25Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
-    "id": "dativo-io/talon",
-    "language": "Go",
-    "name": "dativo-io/talon",
-    "stars": 10,
-    "updated_at": "2026-07-10T11:25:47Z",
-    "url": "https://github.com/dativo-io/talon"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-10T11:25:19Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-07-10T11:25:00Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-07-10T11:24:48Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
