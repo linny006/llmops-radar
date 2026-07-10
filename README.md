@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-10 06:45 UTC
+> ⏰ Last updated: 2026-07-10 07:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-07-10 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 2 | [inference-stack-llc/electripy-ai](https://github.com/inference-stack-llc/electripy-ai) | 1 | Python | 2026-07-10 | Open-source AI Application Runtime for reliable, observable, and governable production AI systems. |
-| 3 | [BaizeAI/kcover](https://github.com/BaizeAI/kcover) | 35 | Go | 2026-07-10 | 🧯 Kubernetes coverage for fault awareness and recovery, works for any LLMOps, MLOps, AI workloads. |
-| 4 | [mykolapodpriatov/extract-regress](https://github.com/mykolapodpriatov/extract-regress) | 0 | Python | 2026-07-10 | pytest for LLM extraction: golden-fixture regression testing that catches silent drift in model, prompt, schema, or sour |
+| 1 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2408 | C++ | 2026-07-10 | Community maintained hardware plugin for vLLM on Ascend |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 8 | Go | 2026-07-10 | fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache- |
+| 3 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-10 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 53155 | Python | 2026-07-10 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
 | 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-07-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 8 | Go | 2026-07-10 | fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache- |
-| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 53152 | Python | 2026-07-10 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 8 | [koreaelonmusk/entropy-loop-core](https://github.com/koreaelonmusk/entropy-loop-core) | 5 | Python | 2026-07-10 | Failure Compiler for AI agents: turn failed outputs into replayable regression cases. |
-| 9 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6408 | Go | 2026-07-10 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 10 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2404 | C++ | 2026-07-10 | Community maintained hardware plugin for vLLM on Ascend |
-| 11 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-10 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
+| 6 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-07-10 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 7 | [inference-stack-llc/electripy-ai](https://github.com/inference-stack-llc/electripy-ai) | 1 | Python | 2026-07-10 | Open-source AI Application Runtime for reliable, observable, and governable production AI systems. |
+| 8 | [BaizeAI/kcover](https://github.com/BaizeAI/kcover) | 35 | Go | 2026-07-10 | 🧯 Kubernetes coverage for fault awareness and recovery, works for any LLMOps, MLOps, AI workloads. |
+| 9 | [mykolapodpriatov/extract-regress](https://github.com/mykolapodpriatov/extract-regress) | 0 | Python | 2026-07-10 | pytest for LLM extraction: golden-fixture regression testing that catches silent drift in model, prompt, schema, or sour |
+| 10 | [koreaelonmusk/entropy-loop-core](https://github.com/koreaelonmusk/entropy-loop-core) | 5 | Python | 2026-07-10 | Failure Compiler for AI agents: turn failed outputs into replayable regression cases. |
+| 11 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6408 | Go | 2026-07-10 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 12 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 44 | HTML | 2026-07-10 | ⚡ Awesome AI Gateway — curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress |
 | 13 | [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) | 147 | TypeScript | 2026-07-10 | 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework |
 | 14 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-07-10 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
