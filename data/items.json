@@ -1,5 +1,68 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-10T06:41:12Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source AI Application Runtime for reliable, observable, and governable production AI systems.",
+    "id": "inference-stack-llc/electripy-ai",
+    "language": "Python",
+    "name": "inference-stack-llc/electripy-ai",
+    "stars": 1,
+    "updated_at": "2026-07-10T06:39:24Z",
+    "url": "https://github.com/inference-stack-llc/electripy-ai"
+  },
+  {
+    "description": "\ud83e\uddef Kubernetes coverage for fault awareness and recovery, works for any LLMOps, MLOps, AI workloads.",
+    "id": "BaizeAI/kcover",
+    "language": "Go",
+    "name": "BaizeAI/kcover",
+    "stars": 35,
+    "updated_at": "2026-07-10T06:40:42Z",
+    "url": "https://github.com/BaizeAI/kcover"
+  },
+  {
+    "description": "pytest for LLM extraction: golden-fixture regression testing that catches silent drift in model, prompt, schema, or sour",
+    "id": "mykolapodpriatov/extract-regress",
+    "language": "Python",
+    "name": "mykolapodpriatov/extract-regress",
+    "stars": 0,
+    "updated_at": "2026-07-10T06:31:47Z",
+    "url": "https://github.com/mykolapodpriatov/extract-regress"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-10T06:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 8,
+    "updated_at": "2026-07-10T06:43:45Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53152,
+    "updated_at": "2026-07-10T06:44:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
     "id": "koreaelonmusk/entropy-loop-core",
     "language": "Python",
@@ -13,8 +76,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6407,
-    "updated_at": "2026-07-10T06:26:53Z",
+    "stars": 6408,
+    "updated_at": "2026-07-10T06:35:26Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 75,
     "updated_at": "2026-07-10T06:22:42Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53151,
-    "updated_at": "2026-07-10T06:29:14Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
@@ -72,33 +126,6 @@
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
-    "description": "\ud83e\uddef Kubernetes coverage for fault awareness and recovery, works for any LLMOps, MLOps, AI workloads.",
-    "id": "BaizeAI/kcover",
-    "language": "Go",
-    "name": "BaizeAI/kcover",
-    "stars": 35,
-    "updated_at": "2026-07-10T06:24:52Z",
-    "url": "https://github.com/BaizeAI/kcover"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-10T06:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 8,
-    "updated_at": "2026-07-10T06:30:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -113,7 +140,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1265,
-    "updated_at": "2026-07-10T06:10:28Z",
+    "updated_at": "2026-07-10T06:43:00Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-10T05:37:53Z",
     "url": "https://github.com/inferock/inferock-bench"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-07-10T05:36:17Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-10T05:34:34Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-07-10T05:34:32Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   }
 ]
