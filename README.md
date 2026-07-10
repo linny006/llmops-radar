@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-10 18:11 UTC
+> ⏰ Last updated: 2026-07-10 18:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-10 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 2 | [mezmo/aura](https://github.com/mezmo/aura) | 203 | Rust | 2026-07-10 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
-| 3 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26969 | Python | 2026-07-10 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 4 | [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) | 446 | Python | 2026-07-10 | From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM  |
-| 5 | [santifer/cv-santiago](https://github.com/santifer/cv-santiago) | 736 | HTML | 2026-07-10 | Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex |
-| 6 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-07-10 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
-| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 8 | Go | 2026-07-10 | fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache- |
-| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 53215 | Python | 2026-07-10 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 9 | [runcycles/cycles-client-rust](https://github.com/runcycles/cycles-client-rust) | 1 | Rust | 2026-07-10 | Rust client for Cycles — runtime budget authority for AI agents |
-| 10 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-07-10 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
-| 11 | [runcycles/cycles-client-python](https://github.com/runcycles/cycles-client-python) | 0 | Python | 2026-07-10 | Python SDK for Cycles — reserve, commit, release budget and risk for AI agents |
-| 12 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 3 | Java | 2026-07-10 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
-| 13 | [runcycles/cycles-protocol](https://github.com/runcycles/cycles-protocol) | 3 | Python | 2026-07-10 | Open protocol for runtime budget and action authority over AI agents |
-| 14 | [djmoore-projects/fintech-rag-eval](https://github.com/djmoore-projects/fintech-rag-eval) | 0 | Python | 2026-07-10 | LLM-as-judge RAG evaluation framework built from scratch for fintech/regulatory Q&A — async execution, structured output |
-| 15 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-10 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 3 | [mezmo/aura](https://github.com/mezmo/aura) | 203 | Rust | 2026-07-10 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
+| 4 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26969 | Python | 2026-07-10 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 5 | [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) | 446 | Python | 2026-07-10 | From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM  |
+| 6 | [santifer/cv-santiago](https://github.com/santifer/cv-santiago) | 736 | HTML | 2026-07-10 | Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex |
+| 7 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-07-10 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
+| 8 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 8 | Go | 2026-07-10 | fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache- |
+| 9 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 53215 | Python | 2026-07-10 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 10 | [runcycles/cycles-client-rust](https://github.com/runcycles/cycles-client-rust) | 1 | Rust | 2026-07-10 | Rust client for Cycles — runtime budget authority for AI agents |
+| 11 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-07-10 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
+| 12 | [runcycles/cycles-client-python](https://github.com/runcycles/cycles-client-python) | 0 | Python | 2026-07-10 | Python SDK for Cycles — reserve, commit, release budget and risk for AI agents |
+| 13 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 3 | Java | 2026-07-10 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
+| 14 | [runcycles/cycles-protocol](https://github.com/runcycles/cycles-protocol) | 3 | Python | 2026-07-10 | Open protocol for runtime budget and action authority over AI agents |
+| 15 | [djmoore-projects/fintech-rag-eval](https://github.com/djmoore-projects/fintech-rag-eval) | 0 | Python | 2026-07-10 | LLM-as-judge RAG evaluation framework built from scratch for fintech/regulatory Q&A — async execution, structured output |
 | 16 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 379 | Python | 2026-07-10 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
 | 17 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-07-10 | The opinionated workflow engine and governance layer for agent-driven software development. |
-| 18 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 30889 | TypeScript | 2026-07-10 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 18 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 30890 | TypeScript | 2026-07-10 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 19 | [jarodtaylor/cadre](https://github.com/jarodtaylor/cadre) | 1 | Python | 2026-07-10 | Provider-neutral engine for running ephemeral fleets of specialist models on a task, then synthesizing or collecting the |
 | 20 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3360 | TypeScript | 2026-07-10 | The platform for LLM evaluations and AI agent testing |
 | 21 | [truera/trulens](https://github.com/truera/trulens) | 3434 | Python | 2026-07-10 | Evaluation and Tracking for LLM Experiments and AI Agents |
