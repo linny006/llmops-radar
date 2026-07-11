@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-11 09:45 UTC
+> ⏰ Last updated: 2026-07-11 09:49 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,12 +43,12 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 9 | Go | 2026-07-11 | fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache- |
-| 2 | [Starlight143/agent-walkforward](https://github.com/Starlight143/agent-walkforward) | 0 | Python | 2026-07-11 | Walk-forward / out-of-sample validation for agent evals — detect eval-set overfitting the way quants detect backtest ove |
-| 3 | [Ambuj123-lab/agentic-rag-financial-parser](https://github.com/Ambuj123-lab/agentic-rag-financial-parser) | 64 | Python | 2026-07-11 | Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL  |
-| 4 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-11 | ThakiCloud Tech Blog |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [richardy-lobo-sapan/rag-evaluation-system](https://github.com/richardy-lobo-sapan/rag-evaluation-system) | 0 | Python | 2026-07-11 | Automated RAG evaluation system using Ragas + LLM-as-judge, with a CI/CD quality gate that blocks faithfulness/relevancy |
-| 7 | [cubxxw/blog](https://github.com/cubxxw/blog) | 26 | HTML | 2026-07-11 | Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro |
+| 2 | [cubxxw/blog](https://github.com/cubxxw/blog) | 26 | HTML | 2026-07-11 | Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [Starlight143/agent-walkforward](https://github.com/Starlight143/agent-walkforward) | 0 | Python | 2026-07-11 | Walk-forward / out-of-sample validation for agent evals — detect eval-set overfitting the way quants detect backtest ove |
+| 5 | [Ambuj123-lab/agentic-rag-financial-parser](https://github.com/Ambuj123-lab/agentic-rag-financial-parser) | 64 | Python | 2026-07-11 | Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL  |
+| 6 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-11 | ThakiCloud Tech Blog |
+| 7 | [richardy-lobo-sapan/rag-evaluation-system](https://github.com/richardy-lobo-sapan/rag-evaluation-system) | 0 | Python | 2026-07-11 | Automated RAG evaluation system using Ragas + LLM-as-judge, with a CI/CD quality gate that blocks faithfulness/relevancy |
 | 8 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-11 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 9 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-07-11 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 10 | [off-grid-ai/console](https://github.com/off-grid-ai/console) | 0 | TypeScript | 2026-07-11 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
