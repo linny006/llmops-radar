@@ -1,5 +1,68 @@
 [
   {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "Java",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 5,
+    "updated_at": "2026-07-11T15:29:58Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 0,
+    "updated_at": "2026-07-11T15:30:02Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 10,
+    "updated_at": "2026-07-11T15:27:19Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted control plane to deploy, monitor, and operate OpenClaw and Hermes AI agents on Docker/Kubernetes \u2014 with REST",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 20,
+    "updated_at": "2026-07-11T15:27:18Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3360,
+    "updated_at": "2026-07-11T15:26:57Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-11T15:17:35Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-11T15:15:20Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -72,15 +135,6 @@
     "url": "https://github.com/openloop-team/openloop"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-11T15:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -149,7 +203,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4284,
-    "updated_at": "2026-07-11T15:05:15Z",
+    "updated_at": "2026-07-11T15:29:36Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T14:39:03Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Self-hosted control plane to deploy, monitor, and operate OpenClaw and Hermes AI agents on Docker/Kubernetes \u2014 with REST",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 20,
-    "updated_at": "2026-07-11T14:35:42Z",
-    "url": "https://github.com/solomon2773/nora"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "m-ahmed-elbeskeri/puffin-finetune-studio",
     "stars": 0,
-    "updated_at": "2026-07-11T14:24:40Z",
+    "updated_at": "2026-07-11T15:17:34Z",
     "url": "https://github.com/m-ahmed-elbeskeri/puffin-finetune-studio"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-11T13:58:28Z",
     "url": "https://github.com/kirklasalle/Prism"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-07-11T13:58:19Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-07-11T13:58:18Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-11T13:58:15Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-11T13:58:08Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-07-11T13:56:50Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
