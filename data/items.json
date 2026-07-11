@@ -1,21 +1,48 @@
 [
   {
+    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
+    "id": "runcycles/cycles-server-admin",
+    "language": "Java",
+    "name": "runcycles/cycles-server-admin",
+    "stars": 1,
+    "updated_at": "2026-07-11T11:45:00Z",
+    "url": "https://github.com/runcycles/cycles-server-admin"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2477,
+    "updated_at": "2026-07-11T11:43:57Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 9,
-    "updated_at": "2026-07-11T11:28:58Z",
+    "updated_at": "2026-07-11T11:38:22Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 0,
-    "updated_at": "2026-07-11T11:26:12Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53257,
+    "updated_at": "2026-07-11T11:32:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-11T11:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -27,13 +54,13 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-11T11:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 0,
+    "updated_at": "2026-07-11T11:26:12Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "SkeinRank/skeinrank",
     "stars": 2,
-    "updated_at": "2026-07-11T11:07:23Z",
+    "updated_at": "2026-07-11T11:40:01Z",
     "url": "https://github.com/SkeinRank/skeinrank"
   },
   {
@@ -124,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-07-11T11:01:09Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1266,
+    "updated_at": "2026-07-11T10:59:46Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-11T10:28:03Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
-    "id": "evilstar2016/skill-doctor",
-    "language": "TypeScript",
-    "name": "evilstar2016/skill-doctor",
-    "stars": 0,
-    "updated_at": "2026-07-11T10:24:50Z",
-    "url": "https://github.com/evilstar2016/skill-doctor"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-07-11T10:22:16Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-07-11T10:21:00Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
-    "id": "matteopasseri407/NeXgen-Engine",
-    "language": "Python",
-    "name": "matteopasseri407/NeXgen-Engine",
-    "stars": 0,
-    "updated_at": "2026-07-11T10:20:41Z",
-    "url": "https://github.com/matteopasseri407/NeXgen-Engine"
   }
 ]
