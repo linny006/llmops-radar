@@ -1,30 +1,30 @@
 [
   {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 2,
-    "updated_at": "2026-07-11T17:45:15Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53270,
-    "updated_at": "2026-07-11T17:44:49Z",
+    "updated_at": "2026-07-11T17:51:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
+    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
+    "id": "NicoGrassetto/Cosmopilot",
     "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-11T17:43:20Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
+    "name": "NicoGrassetto/Cosmopilot",
+    "stars": 0,
+    "updated_at": "2026-07-11T17:50:26Z",
+    "url": "https://github.com/NicoGrassetto/Cosmopilot"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7895,
+    "updated_at": "2026-07-11T17:47:49Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -32,17 +32,26 @@
     "language": "Rust",
     "name": "MattJackson/busbarAI",
     "stars": 14,
-    "updated_at": "2026-07-11T17:42:10Z",
+    "updated_at": "2026-07-11T17:45:43Z",
     "url": "https://github.com/MattJackson/busbarAI"
   },
   {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
     "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 0,
-    "updated_at": "2026-07-11T17:37:14Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-11T17:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 2,
+    "updated_at": "2026-07-11T17:45:15Z",
+    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
@@ -54,12 +63,30 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-07-11T17:43:20Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 0,
+    "updated_at": "2026-07-11T17:51:41Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10508,
-    "updated_at": "2026-07-11T17:36:15Z",
+    "updated_at": "2026-07-11T17:50:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T17:31:46Z",
     "url": "https://github.com/off-grid-ai/console"
-  },
-  {
-    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
-    "id": "NicoGrassetto/Cosmopilot",
-    "language": "Python",
-    "name": "NicoGrassetto/Cosmopilot",
-    "stars": 0,
-    "updated_at": "2026-07-11T17:31:10Z",
-    "url": "https://github.com/NicoGrassetto/Cosmopilot"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-11T17:30:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "",
@@ -122,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3360,
-    "updated_at": "2026-07-11T17:38:31Z",
+    "updated_at": "2026-07-11T17:49:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-07-11T17:13:33Z",
     "url": "https://github.com/kirklasalle/Prism"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7895,
-    "updated_at": "2026-07-11T17:16:16Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -266,7 +266,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 0,
-    "updated_at": "2026-07-11T16:53:04Z",
+    "updated_at": "2026-07-11T17:52:35Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {

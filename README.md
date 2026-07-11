@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-11 17:45 UTC
+> ⏰ Last updated: 2026-07-11 17:52 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [dshakes/distil](https://github.com/dshakes/distil) | 2 | Python | 2026-07-11 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 53270 | Python | 2026-07-11 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 3 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-07-11 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 53270 | Python | 2026-07-11 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 2 | [NicoGrassetto/Cosmopilot](https://github.com/NicoGrassetto/Cosmopilot) | 0 | Python | 2026-07-11 | A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer. |
+| 3 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7895 | Rust | 2026-07-11 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 4 | [MattJackson/busbarAI](https://github.com/MattJackson/busbarAI) | 14 | Rust | 2026-07-11 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
-| 5 | [Bobcatsfan33/AI-Security-Platform](https://github.com/Bobcatsfan33/AI-Security-Platform) | 0 | Python | 2026-07-11 | Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass |
-| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 10 | Go | 2026-07-11 | fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache- |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10508 | Python | 2026-07-11 | AI Observability & Evaluation |
-| 8 | [intentee/paddler](https://github.com/intentee/paddler) | 1633 | Rust | 2026-07-11 | Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale 🏓🦙 Alternative to proje |
-| 9 | [off-grid-ai/console](https://github.com/off-grid-ai/console) | 0 | TypeScript | 2026-07-11 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
-| 10 | [NicoGrassetto/Cosmopilot](https://github.com/NicoGrassetto/Cosmopilot) | 0 | Python | 2026-07-11 | A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer. |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 12 | [coffeehc/xagent-docs](https://github.com/coffeehc/xagent-docs) | 1 | HTML | 2026-07-11 |  |
-| 13 | [m-ahmed-elbeskeri/puffin-finetune-studio](https://github.com/m-ahmed-elbeskeri/puffin-finetune-studio) | 0 | Python | 2026-07-11 | A visual studio for fine-tuning open LLMs: do data, training, evals, deploy and monitoring in your browser or by chattin |
-| 14 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3360 | TypeScript | 2026-07-11 | The platform for LLM evaluations and AI agent testing |
-| 15 | [kirklasalle/Prism](https://github.com/kirklasalle/Prism) | 3 | TypeScript | 2026-07-11 | The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure  |
-| 16 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 7895 | Rust | 2026-07-11 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [dshakes/distil](https://github.com/dshakes/distil) | 2 | Python | 2026-07-11 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
+| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 10 | Go | 2026-07-11 | fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache- |
+| 8 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-07-11 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
+| 9 | [Bobcatsfan33/AI-Security-Platform](https://github.com/Bobcatsfan33/AI-Security-Platform) | 0 | Python | 2026-07-11 | Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass |
+| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10508 | Python | 2026-07-11 | AI Observability & Evaluation |
+| 11 | [intentee/paddler](https://github.com/intentee/paddler) | 1633 | Rust | 2026-07-11 | Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale 🏓🦙 Alternative to proje |
+| 12 | [off-grid-ai/console](https://github.com/off-grid-ai/console) | 0 | TypeScript | 2026-07-11 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
+| 13 | [coffeehc/xagent-docs](https://github.com/coffeehc/xagent-docs) | 1 | HTML | 2026-07-11 |  |
+| 14 | [m-ahmed-elbeskeri/puffin-finetune-studio](https://github.com/m-ahmed-elbeskeri/puffin-finetune-studio) | 0 | Python | 2026-07-11 | A visual studio for fine-tuning open LLMs: do data, training, evals, deploy and monitoring in your browser or by chattin |
+| 15 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3360 | TypeScript | 2026-07-11 | The platform for LLM evaluations and AI agent testing |
+| 16 | [kirklasalle/Prism](https://github.com/kirklasalle/Prism) | 3 | TypeScript | 2026-07-11 | The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure  |
 | 17 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-07-11 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
 | 18 | [TheusHen/eleanity](https://github.com/TheusHen/eleanity) | 1 | Python | 2026-07-11 | CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence. |
 | 19 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-11 | ThakiCloud Tech Blog |
