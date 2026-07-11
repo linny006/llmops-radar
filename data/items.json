@@ -1,12 +1,75 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-11T12:00:11Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
+    "id": "affkoul/agentforge-runtime",
+    "language": "Python",
+    "name": "affkoul/agentforge-runtime",
+    "stars": 1,
+    "updated_at": "2026-07-11T11:57:37Z",
+    "url": "https://github.com/affkoul/agentforge-runtime"
+  },
+  {
     "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
     "id": "runcycles/cycles-server-admin",
     "language": "Java",
     "name": "runcycles/cycles-server-admin",
     "stars": 1,
-    "updated_at": "2026-07-11T11:45:00Z",
+    "updated_at": "2026-07-11T11:57:24Z",
     "url": "https://github.com/runcycles/cycles-server-admin"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-11T11:55:44Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open protocol for runtime budget and action authority over AI agents",
+    "id": "runcycles/cycles-protocol",
+    "language": "Python",
+    "name": "runcycles/cycles-protocol",
+    "stars": 3,
+    "updated_at": "2026-07-11T11:54:47Z",
+    "url": "https://github.com/runcycles/cycles-protocol"
+  },
+  {
+    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
+    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
+    "language": "\u2014",
+    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
+    "stars": 1,
+    "updated_at": "2026-07-11T11:52:06Z",
+    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-07-11T11:51:30Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-07-11T11:50:39Z",
+    "url": "https://github.com/Traigent/tvl"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -14,17 +77,35 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2477,
-    "updated_at": "2026-07-11T11:43:57Z",
+    "updated_at": "2026-07-11T11:47:49Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-11T11:38:22Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "SkeinRank \u2014 Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows.",
+    "id": "SkeinRank/skeinrank",
+    "language": "Python",
+    "name": "SkeinRank/skeinrank",
+    "stars": 2,
+    "updated_at": "2026-07-11T11:46:23Z",
+    "url": "https://github.com/SkeinRank/skeinrank"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-11T11:46:10Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-11T11:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -34,24 +115,6 @@
     "stars": 53257,
     "updated_at": "2026-07-11T11:32:49Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-11T11:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-11T11:30:17Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T11:08:06Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "SkeinRank \u2014 Domain Language Control Plane for enterprise search, RAG, and AI-agent workflows.",
-    "id": "SkeinRank/skeinrank",
-    "language": "Python",
-    "name": "SkeinRank/skeinrank",
-    "stars": 2,
-    "updated_at": "2026-07-11T11:40:01Z",
-    "url": "https://github.com/SkeinRank/skeinrank"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T11:02:34Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-11T11:01:09Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
@@ -360,15 +405,6 @@
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   },
   {
-    "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
-    "id": "affkoul/agentforge-runtime",
-    "language": "Python",
-    "name": "affkoul/agentforge-runtime",
-    "stars": 1,
-    "updated_at": "2026-07-11T10:37:16Z",
-    "url": "https://github.com/affkoul/agentforge-runtime"
-  },
-  {
     "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
     "id": "ashmedanraj/langfuse-eks-production",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-11T10:31:36Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-11T10:31:28Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-11T10:30:28Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-11T10:28:22Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-07-11T10:28:03Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
