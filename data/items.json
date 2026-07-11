@@ -1,12 +1,30 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-11T04:15:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
+    "id": "TheusHen/eleanity",
+    "language": "Python",
+    "name": "TheusHen/eleanity",
+    "stars": 0,
+    "updated_at": "2026-07-11T04:27:00Z",
+    "url": "https://github.com/TheusHen/eleanity"
+  },
+  {
+    "description": "Live AI creator-intelligence platform with LangGraph agents, external-data pipelines, deterministic scoring, APIs, tests",
+    "id": "OmarA1-Bakri/CallScore",
+    "language": "TypeScript",
+    "name": "OmarA1-Bakri/CallScore",
+    "stars": 0,
+    "updated_at": "2026-07-11T04:26:14Z",
+    "url": "https://github.com/OmarA1-Bakri/CallScore"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/console",
+    "language": "TypeScript",
+    "name": "off-grid-ai/console",
+    "stars": 0,
+    "updated_at": "2026-07-11T04:25:56Z",
+    "url": "https://github.com/off-grid-ai/console"
   },
   {
     "description": "A self-hosted gateway between your agents and LLM APIs: budgets, guardrails, caching, cost metering, and cross-provider ",
@@ -14,7 +32,7 @@
     "language": "Rust",
     "name": "itsJeremyMax/sluice",
     "stars": 0,
-    "updated_at": "2026-07-11T04:15:03Z",
+    "updated_at": "2026-07-11T04:23:18Z",
     "url": "https://github.com/itsJeremyMax/sluice"
   },
   {
@@ -23,17 +41,62 @@
     "language": "Rust",
     "name": "MattJackson/busbarAI",
     "stars": 14,
-    "updated_at": "2026-07-11T04:14:06Z",
+    "updated_at": "2026-07-11T04:21:06Z",
     "url": "https://github.com/MattJackson/busbarAI"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/console",
-    "language": "TypeScript",
-    "name": "off-grid-ai/console",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53235,
+    "updated_at": "2026-07-11T04:28:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "",
+    "id": "coffeehc/xagent-docs",
+    "language": "HTML",
+    "name": "coffeehc/xagent-docs",
+    "stars": 1,
+    "updated_at": "2026-07-11T04:17:50Z",
+    "url": "https://github.com/coffeehc/xagent-docs"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
     "stars": 0,
-    "updated_at": "2026-07-11T04:13:02Z",
-    "url": "https://github.com/off-grid-ai/console"
+    "updated_at": "2026-07-11T04:16:05Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
+    "id": "Karinaclastic11/Drip-Lite-Client",
+    "language": "\u2014",
+    "name": "Karinaclastic11/Drip-Lite-Client",
+    "stars": 1,
+    "updated_at": "2026-07-11T04:15:59Z",
+    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-11T04:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-11T04:15:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollb",
@@ -52,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-11T04:10:41Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53234,
-    "updated_at": "2026-07-11T04:13:23Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T04:08:22Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
-    "id": "TheusHen/eleanity",
-    "language": "Python",
-    "name": "TheusHen/eleanity",
-    "stars": 0,
-    "updated_at": "2026-07-11T04:07:33Z",
-    "url": "https://github.com/TheusHen/eleanity"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -151,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T04:03:12Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-11T04:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -369,13 +405,13 @@
     "url": "https://github.com/sarrahw23/deploy-guide"
   },
   {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "HTML",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-07-11T03:38:04Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30904,
+    "updated_at": "2026-07-11T03:37:15Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-11T03:32:13Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-11T03:31:02Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-07-11T03:30:47Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-07-11T03:24:29Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-07-11T03:23:47Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
