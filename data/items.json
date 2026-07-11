@@ -1,12 +1,57 @@
 [
   {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-07-11T08:29:58Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
+    "id": "marcusschiesser/agentpond",
+    "language": "TypeScript",
+    "name": "marcusschiesser/agentpond",
+    "stars": 11,
+    "updated_at": "2026-07-11T08:30:14Z",
+    "url": "https://github.com/marcusschiesser/agentpond"
+  },
+  {
+    "description": "Local-first AI governance plane: policy-as-code identity, authorization, rate limiting, egress guardrails, and decision ",
+    "id": "debshikhar-sec/private-ai-infra",
+    "language": "Python",
+    "name": "debshikhar-sec/private-ai-infra",
     "stars": 0,
-    "updated_at": "2026-07-11T08:14:35Z",
-    "url": "https://github.com/richardpapiona9/llm"
+    "updated_at": "2026-07-11T08:28:39Z",
+    "url": "https://github.com/debshikhar-sec/private-ai-infra"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 9,
+    "updated_at": "2026-07-11T08:28:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
+    "id": "seaworld008/aiops-system",
+    "language": "Go",
+    "name": "seaworld008/aiops-system",
+    "stars": 0,
+    "updated_at": "2026-07-11T08:22:28Z",
+    "url": "https://github.com/seaworld008/aiops-system"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-11T08:19:02Z",
+    "url": "https://github.com/vivek-541/vivek-541"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -14,8 +59,35 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2477,
-    "updated_at": "2026-07-11T08:14:09Z",
+    "updated_at": "2026-07-11T08:18:14Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 528,
+    "updated_at": "2026-07-11T08:16:12Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-11T08:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-11T08:14:35Z",
+    "url": "https://github.com/richardpapiona9/llm"
   },
   {
     "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
@@ -27,22 +99,13 @@
     "url": "https://github.com/mahdidjemaci/production-rag"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-11T08:13:53Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 9,
-    "updated_at": "2026-07-11T08:10:17Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23142,
+    "updated_at": "2026-07-11T08:12:40Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -52,15 +115,6 @@
     "stars": 7,
     "updated_at": "2026-07-11T08:09:16Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
-    "id": "marcusschiesser/agentpond",
-    "language": "TypeScript",
-    "name": "marcusschiesser/agentpond",
-    "stars": 11,
-    "updated_at": "2026-07-11T08:07:49Z",
-    "url": "https://github.com/marcusschiesser/agentpond"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T07:59:53Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Local-first AI governance plane: policy-as-code identity, authorization, rate limiting, egress guardrails, and decision ",
-    "id": "debshikhar-sec/private-ai-infra",
-    "language": "Python",
-    "name": "debshikhar-sec/private-ai-infra",
-    "stars": 0,
-    "updated_at": "2026-07-11T07:59:18Z",
-    "url": "https://github.com/debshikhar-sec/private-ai-infra"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -157,7 +202,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 53245,
+    "stars": 53246,
     "updated_at": "2026-07-11T07:51:26Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -171,20 +216,11 @@
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23141,
-    "updated_at": "2026-07-11T08:12:40Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30909,
+    "stars": 30910,
     "updated_at": "2026-07-11T07:49:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-11T06:56:31Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "cube studio\u5f00\u6e90\u4e91\u539f\u751f\u4e00\u7ad9\u5f0f\u673a\u5668\u5b66\u4e60/\u6df1\u5ea6\u5b66\u4e60/\u5927\u6a21\u578bAI\u5e73\u53f0\uff0cmlops\u7b97\u6cd5\u94fe\u8def\u5168\u6d41\u7a0b\uff0c\u7b97\u529b\u79df\u8d41\u5e73\u53f0\uff0cnotebook\u5728\u7ebf\u5f00\u53d1\uff0c\u62d6\u62c9\u62fd\u4efb\u52a1\u6d41pipeline\u7f16\u6392\uff0c\u591a\u673a\u591a\u5361\u5206\u5e03\u5f0f\u8bad\u7ec3\uff0c\u8d85\u53c2\u641c\u7d22\uff0c\u63a8\u7406\u670d\u52a1VGPU\u865a\u62df\u5316\uff0c\u8fb9\u7f18\u8ba1\u7b97\uff0c\u6807",
-    "id": "tencentmusic/cube-studio",
-    "language": "\u2014",
-    "name": "tencentmusic/cube-studio",
-    "stars": 5067,
-    "updated_at": "2026-07-11T06:55:31Z",
-    "url": "https://github.com/tencentmusic/cube-studio"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-07-11T06:55:04Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-07-11T08:02:47Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
-    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "stars": 1,
-    "updated_at": "2026-07-11T06:50:51Z",
-    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
   }
 ]
