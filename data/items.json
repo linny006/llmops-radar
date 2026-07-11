@@ -1,21 +1,84 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10503,
-    "updated_at": "2026-07-11T04:45:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 9,
-    "updated_at": "2026-07-11T04:45:05Z",
+    "updated_at": "2026-07-11T05:00:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/console",
+    "language": "TypeScript",
+    "name": "off-grid-ai/console",
+    "stars": 0,
+    "updated_at": "2026-07-11T04:59:27Z",
+    "url": "https://github.com/off-grid-ai/console"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 23,
+    "updated_at": "2026-07-11T04:59:26Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 14,
+    "updated_at": "2026-07-11T05:00:13Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10503,
+    "updated_at": "2026-07-11T04:50:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 1,
+    "updated_at": "2026-07-11T04:47:33Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
+    "id": "acornops/agentk",
+    "language": "TypeScript",
+    "name": "acornops/agentk",
+    "stars": 0,
+    "updated_at": "2026-07-11T04:47:33Z",
+    "url": "https://github.com/acornops/agentk"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 0,
+    "updated_at": "2026-07-11T04:47:33Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-11T04:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T04:45:04Z",
     "url": "https://github.com/TheusHen/eleanity"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 14,
-    "updated_at": "2026-07-11T04:43:06Z",
-    "url": "https://github.com/MattJackson/busbarAI"
   },
   {
     "description": "A self-hosted gateway between your agents and LLM APIs: budgets, guardrails, caching, cost metering, and cross-provider ",
@@ -81,31 +135,13 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-11T04:30:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Live AI creator-intelligence platform with LangGraph agents, external-data pipelines, deterministic scoring, APIs, tests",
     "id": "OmarA1-Bakri/CallScore",
     "language": "TypeScript",
     "name": "OmarA1-Bakri/CallScore",
     "stars": 0,
-    "updated_at": "2026-07-11T04:26:14Z",
+    "updated_at": "2026-07-11T04:51:37Z",
     "url": "https://github.com/OmarA1-Bakri/CallScore"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/console",
-    "language": "TypeScript",
-    "name": "off-grid-ai/console",
-    "stars": 0,
-    "updated_at": "2026-07-11T04:25:56Z",
-    "url": "https://github.com/off-grid-ai/console"
   },
   {
     "description": "",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-11T03:40:47Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-11T03:40:37Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-07-11T03:39:12Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-07-11T03:38:42Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30904,
-    "updated_at": "2026-07-11T03:37:15Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
