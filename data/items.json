@@ -1,12 +1,66 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-11T02:15:08Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 9,
-    "updated_at": "2026-07-11T02:00:05Z",
+    "updated_at": "2026-07-11T02:15:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10502,
+    "updated_at": "2026-07-11T02:15:07Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 1,
+    "updated_at": "2026-07-11T02:05:26Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
+    "id": "runtm-ai/runtm",
+    "language": "Python",
+    "name": "runtm-ai/runtm",
+    "stars": 283,
+    "updated_at": "2026-07-11T02:03:50Z",
+    "url": "https://github.com/runtm-ai/runtm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2475,
+    "updated_at": "2026-07-11T02:14:00Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-11T02:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -18,21 +72,12 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 1,
-    "updated_at": "2026-07-11T01:57:19Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
     "description": "The opinionated workflow engine and governance layer for agent-driven software development.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-11T01:56:09Z",
+    "updated_at": "2026-07-11T02:08:33Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53229,
-    "updated_at": "2026-07-11T01:55:35Z",
+    "updated_at": "2026-07-11T02:14:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -58,7 +103,7 @@
     "id": "MattJackson/busbarAI",
     "language": "Rust",
     "name": "MattJackson/busbarAI",
-    "stars": 7,
+    "stars": 12,
     "updated_at": "2026-07-11T01:51:40Z",
     "url": "https://github.com/MattJackson/busbarAI"
   },
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T01:47:19Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-11T01:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -412,41 +448,5 @@
     "stars": 75,
     "updated_at": "2026-07-11T01:11:00Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-11T01:10:51Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-07-11T01:10:45Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-07-11T01:04:21Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-07-11T01:03:42Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
