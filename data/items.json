@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 9,
-    "updated_at": "2026-07-11T07:15:17Z",
+    "updated_at": "2026-07-11T07:30:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 0,
+    "updated_at": "2026-07-11T07:28:32Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2477,
+    "updated_at": "2026-07-11T07:28:22Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -14,8 +32,71 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53240,
-    "updated_at": "2026-07-11T07:14:15Z",
+    "updated_at": "2026-07-11T07:28:16Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10506,
+    "updated_at": "2026-07-11T07:23:14Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-11T07:23:00Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
+    "id": "marcusschiesser/agentpond",
+    "language": "TypeScript",
+    "name": "marcusschiesser/agentpond",
+    "stars": 11,
+    "updated_at": "2026-07-11T07:22:10Z",
+    "url": "https://github.com/marcusschiesser/agentpond"
+  },
+  {
+    "description": "Local-first AI governance plane: policy-as-code identity, authorization, rate limiting, egress guardrails, and decision ",
+    "id": "debshikhar-sec/private-ai-infra",
+    "language": "Python",
+    "name": "debshikhar-sec/private-ai-infra",
+    "stars": 0,
+    "updated_at": "2026-07-11T07:19:31Z",
+    "url": "https://github.com/debshikhar-sec/private-ai-infra"
+  },
+  {
+    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
+    "id": "Karinaclastic11/Drip-Lite-Client",
+    "language": "\u2014",
+    "name": "Karinaclastic11/Drip-Lite-Client",
+    "stars": 1,
+    "updated_at": "2026-07-11T07:17:57Z",
+    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
+  },
+  {
+    "description": "Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL ",
+    "id": "Ambuj123-lab/agentic-rag-financial-parser",
+    "language": "Python",
+    "name": "Ambuj123-lab/agentic-rag-financial-parser",
+    "stars": 64,
+    "updated_at": "2026-07-11T07:15:27Z",
+    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-11T07:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -90,15 +171,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
-    "id": "marcusschiesser/agentpond",
-    "language": "TypeScript",
-    "name": "marcusschiesser/agentpond",
-    "stars": 11,
-    "updated_at": "2026-07-11T07:13:22Z",
-    "url": "https://github.com/marcusschiesser/agentpond"
-  },
-  {
     "description": "Node.js AI agent output checker and workflow report generator with JSON schemas, safe reuse checks, and Python v0.5.0 co",
     "id": "kadubon/percolation-inversion-compiler-ts",
     "language": "TypeScript",
@@ -115,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T07:01:29Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-11T07:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -207,15 +270,6 @@
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10504,
-    "updated_at": "2026-07-11T07:13:16Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -295,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T06:42:46Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-11T06:42:24Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-11T06:31:52Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-07-11T06:24:36Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 1,
-    "updated_at": "2026-07-11T06:23:55Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2476,
-    "updated_at": "2026-07-11T07:04:18Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-07-11T06:19:52Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-11T06:18:27Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
