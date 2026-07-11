@@ -1,5 +1,68 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 10,
+    "updated_at": "2026-07-11T17:30:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "",
+    "id": "coffeehc/xagent-docs",
+    "language": "HTML",
+    "name": "coffeehc/xagent-docs",
+    "stars": 1,
+    "updated_at": "2026-07-11T17:29:09Z",
+    "url": "https://github.com/coffeehc/xagent-docs"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53268,
+    "updated_at": "2026-07-11T17:28:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 14,
+    "updated_at": "2026-07-11T17:27:41Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "A visual studio for fine-tuning open LLMs: do data, training, evals, deploy and monitoring in your browser or by chattin",
+    "id": "m-ahmed-elbeskeri/puffin-finetune-studio",
+    "language": "Python",
+    "name": "m-ahmed-elbeskeri/puffin-finetune-studio",
+    "stars": 0,
+    "updated_at": "2026-07-11T17:28:21Z",
+    "url": "https://github.com/m-ahmed-elbeskeri/puffin-finetune-studio"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3360,
+    "updated_at": "2026-07-11T17:28:46Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-11T17:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
     "id": "kirklasalle/Prism",
     "language": "TypeScript",
@@ -7,6 +70,15 @@
     "stars": 3,
     "updated_at": "2026-07-11T17:13:33Z",
     "url": "https://github.com/kirklasalle/Prism"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7895,
+    "updated_at": "2026-07-11T17:16:16Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -34,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-07-11T17:04:48Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-11T17:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10508,
-    "updated_at": "2026-07-11T17:14:49Z",
+    "updated_at": "2026-07-11T17:25:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -171,15 +234,6 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "HTML",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-07-11T16:48:04Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
     "description": "Resilience and cost-control plane for multi-agent AI systems - circuit breakers, backpressure, cost-aware fallback routi",
     "id": "s3ak6i-dev/Ballast",
     "language": "Python",
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T16:47:58Z",
     "url": "https://github.com/s3ak6i-dev/Ballast"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53267,
-    "updated_at": "2026-07-11T17:14:47Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open protocol for runtime budget and action authority over AI agents",
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-11T16:26:33Z",
     "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-07-11T16:22:39Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-11T16:20:44Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-07-11T16:20:44Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-11T16:17:33Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2478,
-    "updated_at": "2026-07-11T16:17:22Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
