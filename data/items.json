@@ -1,21 +1,39 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-12T00:29:12Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live AI creator-intelligence platform with LangGraph agents, external-data pipelines, deterministic scoring, APIs, tests",
+    "id": "OmarA1-Bakri/CallScore",
+    "language": "TypeScript",
+    "name": "OmarA1-Bakri/CallScore",
+    "stars": 0,
+    "updated_at": "2026-07-12T00:28:58Z",
+    "url": "https://github.com/OmarA1-Bakri/CallScore"
+  },
+  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/console",
     "language": "TypeScript",
     "name": "off-grid-ai/console",
     "stars": 0,
-    "updated_at": "2026-07-12T00:11:41Z",
+    "updated_at": "2026-07-12T00:27:35Z",
     "url": "https://github.com/off-grid-ai/console"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "\ud83e\udded Stop paying for AI in the dark. Turn ChatGPT/Claude/Copilot spend into auditable ROI: LLM observability \u2192 70+ KPIs (Ba",
+    "id": "bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-12T00:09:55Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard",
+    "stars": 2,
+    "updated_at": "2026-07-12T00:25:31Z",
+    "url": "https://github.com/bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
@@ -23,8 +41,62 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53288,
-    "updated_at": "2026-07-12T00:12:41Z",
+    "updated_at": "2026-07-12T00:29:50Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Run AI agents cheap, local, and verified \u2014 metering, cost routing, cache, eval, MCP cost server. Offline, zero-dep, Apac",
+    "id": "SRKRZ23/frugal",
+    "language": "Python",
+    "name": "SRKRZ23/frugal",
+    "stars": 0,
+    "updated_at": "2026-07-12T00:21:23Z",
+    "url": "https://github.com/SRKRZ23/frugal"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-12T00:21:01Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 12,
+    "updated_at": "2026-07-12T00:20:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-12T00:20:11Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10510,
+    "updated_at": "2026-07-12T00:27:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-12T00:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -54,15 +126,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Run AI agents cheap, local, and verified \u2014 metering, cost routing, cache, eval, MCP cost server. Offline, zero-dep, Apac",
-    "id": "SRKRZ23/frugal",
-    "language": "Python",
-    "name": "SRKRZ23/frugal",
-    "stars": 0,
-    "updated_at": "2026-07-12T00:02:25Z",
-    "url": "https://github.com/SRKRZ23/frugal"
-  },
-  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -70,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-07-12T00:01:47Z",
     "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 163,
+    "updated_at": "2026-07-12T00:01:29Z",
+    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
@@ -99,15 +171,6 @@
     "url": "https://github.com/michaeljboscia/llm-olly"
   },
   {
-    "description": "Live AI creator-intelligence platform with LangGraph agents, external-data pipelines, deterministic scoring, APIs, tests",
-    "id": "OmarA1-Bakri/CallScore",
-    "language": "TypeScript",
-    "name": "OmarA1-Bakri/CallScore",
-    "stars": 0,
-    "updated_at": "2026-07-11T23:57:47Z",
-    "url": "https://github.com/OmarA1-Bakri/CallScore"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -115,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T23:54:43Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10510,
-    "updated_at": "2026-07-12T00:04:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -171,15 +225,6 @@
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-11T23:48:51Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
     "id": "bilal0399/learn-agentic-ai",
     "language": "\u2014",
@@ -198,15 +243,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "\ud83e\udded Stop paying for AI in the dark. Turn ChatGPT/Claude/Copilot spend into auditable ROI: LLM observability \u2192 70+ KPIs (Ba",
-    "id": "bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard",
-    "language": "Python",
-    "name": "bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard",
-    "stars": 2,
-    "updated_at": "2026-07-11T23:40:22Z",
-    "url": "https://github.com/bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard"
-  },
-  {
     "description": "pytest for LLMs \u2014 catch prompt regressions before they reach production",
     "id": "emartai/evalflow",
     "language": "Python",
@@ -221,17 +257,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 7895,
-    "updated_at": "2026-07-12T00:03:43Z",
+    "updated_at": "2026-07-12T00:23:18Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 12,
-    "updated_at": "2026-07-11T23:26:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -268,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-07-11T22:57:26Z",
     "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 162,
-    "updated_at": "2026-07-12T00:01:29Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-11T22:13:16Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-07-11T22:13:14Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-07-11T22:12:47Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
