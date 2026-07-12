@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source LLM observability \u2014 traces, cost tracking, OTel GenAI-native. Apache 2.0.",
+    "id": "rockbox37/agentsentri",
+    "language": "TypeScript",
+    "name": "rockbox37/agentsentri",
+    "stars": 0,
+    "updated_at": "2026-07-12T23:41:54Z",
+    "url": "https://github.com/rockbox37/agentsentri"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-07-12T23:40:32Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-07-12T23:43:22Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 1,
+    "updated_at": "2026-07-12T23:39:57Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "Production-style Python control plane for AI agent evaluation, regression gates, PostgreSQL workers, and NVIDIA GPU-awar",
+    "id": "JeremyDemers/Agent-Eval-Control-Plane",
+    "language": "Python",
+    "name": "JeremyDemers/Agent-Eval-Control-Plane",
+    "stars": 0,
+    "updated_at": "2026-07-12T23:44:54Z",
+    "url": "https://github.com/JeremyDemers/Agent-Eval-Control-Plane"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-07-12T23:36:08Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-12T23:35:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -54,15 +117,6 @@
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   },
   {
-    "description": "Open-source LLM observability \u2014 traces, cost tracking, OTel GenAI-native. Apache 2.0.",
-    "id": "rockbox37/agentsentri",
-    "language": "TypeScript",
-    "name": "rockbox37/agentsentri",
-    "stars": 0,
-    "updated_at": "2026-07-12T23:31:31Z",
-    "url": "https://github.com/rockbox37/agentsentri"
-  },
-  {
     "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
     "id": "matiaslanza99/SuperStore.SalesDashboard",
     "language": "CSS",
@@ -81,15 +135,6 @@
     "url": "https://github.com/KewalPra/agent-sdk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-12T23:30:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
     "id": "rsaudio/second-brain",
     "language": "\u2014",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 20,
-    "updated_at": "2026-07-12T23:27:42Z",
+    "updated_at": "2026-07-12T23:45:21Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-07-12T23:24:24Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 1,
-    "updated_at": "2026-07-12T23:34:43Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "End-to-end MLOps platform for mobile-game monetization: calibrated pLTV models with champion/challenger governance, agen",
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 65,
-    "updated_at": "2026-07-12T23:25:31Z",
+    "updated_at": "2026-07-12T23:41:37Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-12T22:17:44Z",
     "url": "https://github.com/bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 163,
-    "updated_at": "2026-07-12T22:15:23Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 12,
-    "updated_at": "2026-07-12T22:12:08Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-07-12T22:10:51Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 8,
-    "updated_at": "2026-07-12T22:06:52Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   }
 ]
