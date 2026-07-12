@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-12 17:30 UTC
+> ⏰ Last updated: 2026-07-12 17:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [matteopasseri407/NeXgen-Engine](https://github.com/matteopasseri407/NeXgen-Engine) | 1 | Python | 2026-07-12 | Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro |
-| 2 | [runcycles/cycles-openai-agents](https://github.com/runcycles/cycles-openai-agents) | 0 | Python | 2026-07-12 | Budget governance for OpenAI Agents SDK — enforce cost limits before tools execute |
-| 3 | [runcycles/cycles-server-admin](https://github.com/runcycles/cycles-server-admin) | 1 | Java | 2026-07-12 | Admin API for Cycles — tenants, budgets, API keys, webhooks, audit, and governance |
-| 4 | [abhay23-AI/raggate](https://github.com/abhay23-AI/raggate) | 0 | Python | 2026-07-12 | A thin, CI-gated evaluation gate for RAG & LLM systems — golden set, band-based pass/warn/fail gates, LLM-judge or heuri |
-| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10523 | Python | 2026-07-12 | AI Observability & Evaluation |
-| 6 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 1 | TypeScript | 2026-07-12 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 7 | [runcycles/cycles-client-rust](https://github.com/runcycles/cycles-client-rust) | 1 | Rust | 2026-07-12 | Rust client for Cycles — runtime budget authority for AI agents |
-| 8 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 71 | Python | 2026-07-12 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
-| 9 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-07-12 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
-| 10 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6459 | Go | 2026-07-12 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 11 | [manojmallick/gavio](https://github.com/manojmallick/gavio) | 6 | Java | 2026-07-12 | The open standard AI gateway — PII protection, audit, reliability & cost control as composable interceptors. Same API in |
-| 12 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-12 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 13 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 12 | Go | 2026-07-12 | fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache- |
-| 14 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 12 | Go | 2026-07-12 | fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache- |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [matteopasseri407/NeXgen-Engine](https://github.com/matteopasseri407/NeXgen-Engine) | 1 | Python | 2026-07-12 | Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro |
+| 4 | [runcycles/cycles-openai-agents](https://github.com/runcycles/cycles-openai-agents) | 0 | Python | 2026-07-12 | Budget governance for OpenAI Agents SDK — enforce cost limits before tools execute |
+| 5 | [runcycles/cycles-server-admin](https://github.com/runcycles/cycles-server-admin) | 1 | Java | 2026-07-12 | Admin API for Cycles — tenants, budgets, API keys, webhooks, audit, and governance |
+| 6 | [abhay23-AI/raggate](https://github.com/abhay23-AI/raggate) | 0 | Python | 2026-07-12 | A thin, CI-gated evaluation gate for RAG & LLM systems — golden set, band-based pass/warn/fail gates, LLM-judge or heuri |
+| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10523 | Python | 2026-07-12 | AI Observability & Evaluation |
+| 8 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 1 | TypeScript | 2026-07-12 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 9 | [runcycles/cycles-client-rust](https://github.com/runcycles/cycles-client-rust) | 1 | Rust | 2026-07-12 | Rust client for Cycles — runtime budget authority for AI agents |
+| 10 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 71 | Python | 2026-07-12 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
+| 11 | [liam8421/faster-llm](https://github.com/liam8421/faster-llm) | 0 | Python | 2026-07-12 | 🚀 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development |
+| 12 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6459 | Go | 2026-07-12 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 13 | [manojmallick/gavio](https://github.com/manojmallick/gavio) | 6 | Java | 2026-07-12 | The open standard AI gateway — PII protection, audit, reliability & cost control as composable interceptors. Same API in |
+| 14 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-12 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 15 | [recetariodmix/garak](https://github.com/recetariodmix/garak) | 0 | Python | 2026-07-12 | 🔍 Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m |
 | 16 | [cubxxw/blog](https://github.com/cubxxw/blog) | 26 | CSS | 2026-07-12 | Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro |
 | 17 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-07-12 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
