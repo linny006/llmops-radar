@@ -1,21 +1,30 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 12,
-    "updated_at": "2026-07-12T17:30:47Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-07-12T17:44:52Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-12T17:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-07-12T17:44:15Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Open-source local policy, recovery, and audit layer for explicit Codex execution.",
+    "id": "MHW888888/aegisloop",
+    "language": "JavaScript",
+    "name": "MHW888888/aegisloop",
+    "stars": 16,
+    "updated_at": "2026-07-12T17:43:23Z",
+    "url": "https://github.com/MHW888888/aegisloop"
   },
   {
     "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
@@ -23,8 +32,125 @@
     "language": "Python",
     "name": "matteopasseri407/NeXgen-Engine",
     "stars": 1,
-    "updated_at": "2026-07-12T17:28:33Z",
+    "updated_at": "2026-07-12T17:42:27Z",
     "url": "https://github.com/matteopasseri407/NeXgen-Engine"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6459,
+    "updated_at": "2026-07-12T17:40:49Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 1,
+    "updated_at": "2026-07-12T17:39:24Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 71,
+    "updated_at": "2026-07-12T17:39:04Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "A thin, CI-gated evaluation gate for RAG & LLM systems \u2014 golden set, band-based pass/warn/fail gates, LLM-judge or heuri",
+    "id": "abhay23-AI/raggate",
+    "language": "Python",
+    "name": "abhay23-AI/raggate",
+    "stars": 0,
+    "updated_at": "2026-07-12T17:38:31Z",
+    "url": "https://github.com/abhay23-AI/raggate"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 1,
+    "updated_at": "2026-07-12T17:38:02Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
+    "id": "acornops/agentk",
+    "language": "TypeScript",
+    "name": "acornops/agentk",
+    "stars": 0,
+    "updated_at": "2026-07-12T17:38:00Z",
+    "url": "https://github.com/acornops/agentk"
+  },
+  {
+    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
+    "id": "acornops/execution-engine",
+    "language": "Python",
+    "name": "acornops/execution-engine",
+    "stars": 0,
+    "updated_at": "2026-07-12T17:37:55Z",
+    "url": "https://github.com/acornops/execution-engine"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53340,
+    "updated_at": "2026-07-12T17:40:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-12T17:34:24Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-12T17:33:40Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-07-12T17:32:57Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-12T17:32:08Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 12,
+    "updated_at": "2026-07-12T17:30:47Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
@@ -45,15 +171,6 @@
     "url": "https://github.com/runcycles/cycles-server-admin"
   },
   {
-    "description": "A thin, CI-gated evaluation gate for RAG & LLM systems \u2014 golden set, band-based pass/warn/fail gates, LLM-judge or heuri",
-    "id": "abhay23-AI/raggate",
-    "language": "Python",
-    "name": "abhay23-AI/raggate",
-    "stars": 0,
-    "updated_at": "2026-07-12T17:23:57Z",
-    "url": "https://github.com/abhay23-AI/raggate"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -61,15 +178,6 @@
     "stars": 10523,
     "updated_at": "2026-07-12T17:25:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 1,
-    "updated_at": "2026-07-12T17:23:34Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
@@ -81,15 +189,6 @@
     "url": "https://github.com/runcycles/cycles-client-rust"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 71,
-    "updated_at": "2026-07-12T17:30:44Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -99,21 +198,12 @@
     "url": "https://github.com/liam8421/faster-llm"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6459,
-    "updated_at": "2026-07-12T17:24:20Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
     "id": "manojmallick/gavio",
     "language": "Java",
     "name": "manojmallick/gavio",
     "stars": 6,
-    "updated_at": "2026-07-12T17:20:02Z",
+    "updated_at": "2026-07-12T17:43:37Z",
     "url": "https://github.com/manojmallick/gavio"
   },
   {
@@ -151,6 +241,15 @@
     "stars": 6,
     "updated_at": "2026-07-12T17:13:05Z",
     "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23174,
+    "updated_at": "2026-07-12T17:12:33Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Benchmark and A/B-test LLM outputs with real statistics \u2014 pluggable metrics, honest verdicts, a dashboard + REST API. Se",
@@ -203,7 +302,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-12T17:04:44Z",
+    "updated_at": "2026-07-12T17:44:17Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -243,15 +342,6 @@
     "url": "https://github.com/SRKRZ23/frugal"
   },
   {
-    "description": "A guarded control plane for explicit ChatGPT-to-local-Codex loops, with arming, isolation, recovery, and auditability.",
-    "id": "MHW888888/aegisloop",
-    "language": "JavaScript",
-    "name": "MHW888888/aegisloop",
-    "stars": 16,
-    "updated_at": "2026-07-12T16:58:37Z",
-    "url": "https://github.com/MHW888888/aegisloop"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -288,24 +378,6 @@
     "url": "https://github.com/acornops/llm-gateway"
   },
   {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 1,
-    "updated_at": "2026-07-12T16:43:44Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 1,
-    "updated_at": "2026-07-12T16:43:43Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
     "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
     "id": "acornops/agentv",
     "language": "TypeScript",
@@ -331,24 +403,6 @@
     "stars": 0,
     "updated_at": "2026-07-12T16:43:41Z",
     "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
-    "id": "acornops/execution-engine",
-    "language": "Python",
-    "name": "acornops/execution-engine",
-    "stars": 0,
-    "updated_at": "2026-07-12T16:43:38Z",
-    "url": "https://github.com/acornops/execution-engine"
-  },
-  {
-    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
-    "id": "acornops/agentk",
-    "language": "TypeScript",
-    "name": "acornops/agentk",
-    "stars": 0,
-    "updated_at": "2026-07-12T16:42:01Z",
-    "url": "https://github.com/acornops/agentk"
   },
   {
     "description": "Multi-repository workspace harness for AcornOps development, validation and contracts.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-12T16:32:14Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-07-12T16:31:51Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-07-12T16:30:36Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-07-12T16:29:33Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 0,
-    "updated_at": "2026-07-12T16:27:37Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-07-12T16:26:52Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-07-12T16:25:49Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   }
 ]
