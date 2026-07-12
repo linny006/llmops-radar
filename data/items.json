@@ -1,5 +1,131 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6455,
+    "updated_at": "2026-07-12T14:44:34Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Self-hosted control plane to deploy, monitor, and operate OpenClaw and Hermes AI agents on Docker/Kubernetes \u2014 with REST",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 20,
+    "updated_at": "2026-07-12T14:44:05Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-07-12T14:43:33Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-07-12T14:43:03Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
+    "id": "abhilashsblai/ctxlayer-release",
+    "language": "\u2014",
+    "name": "abhilashsblai/ctxlayer-release",
+    "stars": 0,
+    "updated_at": "2026-07-12T14:42:42Z",
+    "url": "https://github.com/abhilashsblai/ctxlayer-release"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 2,
+    "updated_at": "2026-07-12T14:40:47Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
+    "id": "matteopasseri407/NeXgen-Engine",
+    "language": "Python",
+    "name": "matteopasseri407/NeXgen-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-12T14:40:34Z",
+    "url": "https://github.com/matteopasseri407/NeXgen-Engine"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-07-12T14:40:04Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2587,
+    "updated_at": "2026-07-12T14:37:04Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 2,
+    "updated_at": "2026-07-12T14:34:56Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-12T14:34:20Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "LLM \uc0b0\ucd9c \uac80\uc99d \ud558\ub124\uc2a4 \u2014 \uc2a4\ud0a4\ub9c8 \uacc4\uc57d(Zod) + \ub0a0\uc870 \uac80\ucd9c \uac8c\uc774\ud2b8. TypeScript strict",
+    "id": "hoo-kan/llm-output-gate",
+    "language": "TypeScript",
+    "name": "hoo-kan/llm-output-gate",
+    "stars": 0,
+    "updated_at": "2026-07-12T14:32:30Z",
+    "url": "https://github.com/hoo-kan/llm-output-gate"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-07-12T14:32:20Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-12T14:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
     "id": "bilal0399/learn-agentic-ai",
     "language": "\u2014",
@@ -9,24 +135,6 @@
     "url": "https://github.com/bilal0399/learn-agentic-ai"
   },
   {
-    "description": "CTX Layer: context engineering, memory, governance, MCP, and impact analysis for AI coding agents like Codex.",
-    "id": "abhilashsblai/ctxlayer-release",
-    "language": "\u2014",
-    "name": "abhilashsblai/ctxlayer-release",
-    "stars": 0,
-    "updated_at": "2026-07-12T14:29:23Z",
-    "url": "https://github.com/abhilashsblai/ctxlayer-release"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-07-12T14:29:11Z",
-    "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
     "id": "tenemos/langwatch",
     "language": "TypeScript",
@@ -34,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-12T14:28:55Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
-    "id": "matteopasseri407/NeXgen-Engine",
-    "language": "Python",
-    "name": "matteopasseri407/NeXgen-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-12T14:27:35Z",
-    "url": "https://github.com/matteopasseri407/NeXgen-Engine"
   },
   {
     "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
@@ -68,26 +167,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 1,
-    "updated_at": "2026-07-12T14:29:07Z",
+    "updated_at": "2026-07-12T14:37:01Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2587,
-    "updated_at": "2026-07-12T14:26:46Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6455,
-    "updated_at": "2026-07-12T14:24:21Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
@@ -95,7 +176,7 @@
     "language": "Java",
     "name": "manojmallick/gavio",
     "stars": 6,
-    "updated_at": "2026-07-12T14:24:20Z",
+    "updated_at": "2026-07-12T14:31:07Z",
     "url": "https://github.com/manojmallick/gavio"
   },
   {
@@ -108,15 +189,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-12T14:21:51Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -124,15 +196,6 @@
     "stars": 12,
     "updated_at": "2026-07-12T14:15:34Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-12T14:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-12T13:03:24Z",
     "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-07-12T13:02:41Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-07-12T13:01:47Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "Code and experiment outputs for our DECLARE MOC2025 paper on an LLM-based labeling workflow with XAI (SHAP) and human-in",
-    "id": "Prof-it/td_prediction_llm",
-    "language": "HTML",
-    "name": "Prof-it/td_prediction_llm",
-    "stars": 2,
-    "updated_at": "2026-07-12T13:01:28Z",
-    "url": "https://github.com/Prof-it/td_prediction_llm"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 0,
-    "updated_at": "2026-07-12T13:00:29Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 0,
-    "updated_at": "2026-07-12T13:00:12Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
-    "id": "rsaudio/second-brain",
-    "language": "\u2014",
-    "name": "rsaudio/second-brain",
-    "stars": 1,
-    "updated_at": "2026-07-12T12:59:06Z",
-    "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "Self-hosted control plane to deploy, monitor, and operate OpenClaw and Hermes AI agents on Docker/Kubernetes \u2014 with REST",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 20,
-    "updated_at": "2026-07-12T12:57:11Z",
-    "url": "https://github.com/solomon2773/nora"
   }
 ]
