@@ -1,5 +1,77 @@
 [
   {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "Java",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 5,
+    "updated_at": "2026-07-12T11:29:47Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
+    "id": "josondev/neuronworks-travel-agent",
+    "language": "Python",
+    "name": "josondev/neuronworks-travel-agent",
+    "stars": 0,
+    "updated_at": "2026-07-12T11:27:13Z",
+    "url": "https://github.com/josondev/neuronworks-travel-agent"
+  },
+  {
+    "description": "Self-hosted control plane to deploy, monitor, and operate OpenClaw and Hermes AI agents on Docker/Kubernetes \u2014 with REST",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 20,
+    "updated_at": "2026-07-12T11:26:54Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-07-12T11:25:22Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-12T11:17:54Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
+    "id": "manojmallick/gavio",
+    "language": "Java",
+    "name": "manojmallick/gavio",
+    "stars": 6,
+    "updated_at": "2026-07-12T11:27:35Z",
+    "url": "https://github.com/manojmallick/gavio"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-12T11:15:28Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-12T11:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -18,6 +90,15 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53314,
+    "updated_at": "2026-07-12T11:07:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -34,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-12T11:02:24Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
-    "id": "josondev/neuronworks-travel-agent",
-    "language": "Python",
-    "name": "josondev/neuronworks-travel-agent",
-    "stars": 0,
-    "updated_at": "2026-07-12T11:01:34Z",
-    "url": "https://github.com/josondev/neuronworks-travel-agent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-12T11:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -126,15 +189,6 @@
     "url": "https://github.com/runcycles/cycles-client-typescript"
   },
   {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-07-12T10:58:08Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
     "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
     "id": "runcycles/langchain-runcycles",
     "language": "Python",
@@ -158,7 +212,7 @@
     "language": "Java",
     "name": "runcycles/cycles-server-admin",
     "stars": 1,
-    "updated_at": "2026-07-12T10:48:18Z",
+    "updated_at": "2026-07-12T11:28:23Z",
     "url": "https://github.com/runcycles/cycles-server-admin"
   },
   {
@@ -212,17 +266,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3360,
-    "updated_at": "2026-07-12T11:12:01Z",
+    "updated_at": "2026-07-12T11:15:56Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
-    "id": "manojmallick/gavio",
-    "language": "Java",
-    "name": "manojmallick/gavio",
-    "stars": 6,
-    "updated_at": "2026-07-12T11:15:10Z",
-    "url": "https://github.com/manojmallick/gavio"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -279,21 +324,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-12T10:23:33Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
     "id": "seaworld008/aiops-system",
     "language": "Go",
     "name": "seaworld008/aiops-system",
     "stars": 0,
-    "updated_at": "2026-07-12T10:14:49Z",
+    "updated_at": "2026-07-12T11:28:02Z",
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-12T09:47:23Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-07-12T09:45:52Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-12T09:41:32Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-12T09:40:37Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-07-12T09:39:58Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
