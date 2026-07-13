@@ -1,5 +1,122 @@
 [
   {
+    "description": "Helm Charts to deploy and manage OpenLIT in Kubernetes",
+    "id": "openlit/helm",
+    "language": "Go Template",
+    "name": "openlit/helm",
+    "stars": 10,
+    "updated_at": "2026-07-13T02:15:15Z",
+    "url": "https://github.com/openlit/helm"
+  },
+  {
+    "description": "\ud83e\udded Stop paying for AI in the dark. Turn ChatGPT/Claude/Copilot spend into auditable ROI: LLM observability \u2192 70+ KPIs (Ba",
+    "id": "bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard",
+    "language": "Python",
+    "name": "bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard",
+    "stars": 2,
+    "updated_at": "2026-07-13T02:11:45Z",
+    "url": "https://github.com/bpenedo/Gestao-de-Projetos-PM-IA-BSC-DashBoard"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-07-13T02:07:34Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-13T02:07:12Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 0,
+    "updated_at": "2026-07-13T02:06:46Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-13T02:06:30Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10526,
+    "updated_at": "2026-07-13T02:06:19Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source LLM observability \u2014 traces, cost tracking, OTel GenAI-native. Apache 2.0.",
+    "id": "deftai/agentsentri",
+    "language": "TypeScript",
+    "name": "deftai/agentsentri",
+    "stars": 0,
+    "updated_at": "2026-07-13T02:05:36Z",
+    "url": "https://github.com/deftai/agentsentri"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-07-13T02:03:14Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 0,
+    "updated_at": "2026-07-13T02:03:14Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-07-13T02:02:34Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6467,
+    "updated_at": "2026-07-13T02:01:16Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-13T02:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-verifying multi-brain reasoning harness \u2014 route to the cheapest capable model, adversarially verify with a differen",
     "id": "Daywalker-Innovations/Synapse_DW",
     "language": "Python",
@@ -7,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-07-13T02:00:06Z",
     "url": "https://github.com/Daywalker-Innovations/Synapse_DW"
+  },
+  {
+    "description": "Open-source capability foundry for turning complex AI behavior into small, testable, local, and rebuildable systems.",
+    "id": "Tessoma/cadinho",
+    "language": "\u2014",
+    "name": "Tessoma/cadinho",
+    "stars": 0,
+    "updated_at": "2026-07-13T01:56:11Z",
+    "url": "https://github.com/Tessoma/cadinho"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -22,7 +148,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 53359,
+    "stars": 53362,
     "updated_at": "2026-07-13T01:55:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -52,24 +178,6 @@
     "stars": 6,
     "updated_at": "2026-07-13T01:47:17Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-13T01:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 1,
-    "updated_at": "2026-07-13T01:55:50Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Governance & observability for your AI capabilities in Spring Boot \u2014 capability registry, versioning, per-capability cos",
@@ -176,7 +284,7 @@
     "language": "Go",
     "name": "seaworld008/aiops-system",
     "stars": 0,
-    "updated_at": "2026-07-13T01:56:27Z",
+    "updated_at": "2026-07-13T02:12:07Z",
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
@@ -187,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T01:17:27Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6466,
-    "updated_at": "2026-07-13T01:59:49Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -214,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T01:07:53Z",
     "url": "https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline"
-  },
-  {
-    "description": "Open-source LLM observability \u2014 traces, cost tracking, OTel GenAI-native. Apache 2.0.",
-    "id": "deftai/agentsentri",
-    "language": "TypeScript",
-    "name": "deftai/agentsentri",
-    "stars": 0,
-    "updated_at": "2026-07-13T01:02:33Z",
-    "url": "https://github.com/deftai/agentsentri"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -259,15 +349,6 @@
     "stars": 65,
     "updated_at": "2026-07-13T00:49:34Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10525,
-    "updated_at": "2026-07-13T00:48:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T00:21:13Z",
     "url": "https://github.com/JeremyDemers/Agent-Eval-Control-Plane"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-07-13T00:20:54Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-07-13T00:19:53Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-07-13T00:19:13Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Helm Charts to deploy and manage OpenLIT in Kubernetes",
-    "id": "openlit/helm",
-    "language": "Go Template",
-    "name": "openlit/helm",
-    "stars": 10,
-    "updated_at": "2026-07-13T00:35:56Z",
-    "url": "https://github.com/openlit/helm"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-07-13T00:14:54Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
-    "id": "becloudready/workshops",
-    "language": "HTML",
-    "name": "becloudready/workshops",
-    "stars": 1,
-    "updated_at": "2026-07-13T00:12:05Z",
-    "url": "https://github.com/becloudready/workshops"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-13T00:10:57Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-07-13T00:10:37Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-07-13T00:10:34Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
