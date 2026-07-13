@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-13 01:13 UTC
+> ⏰ Last updated: 2026-07-13 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-13 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
-| 2 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 1 | TypeScript | 2026-07-13 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 3 | [PerinbaBuilds/AI-Evaluation-Pipeline](https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline) | 0 | Python | 2026-07-13 | Benchmark and A/B-test LLM outputs with real statistics — pluggable metrics, honest verdicts, a dashboard + REST API. Se |
-| 4 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6464 | Go | 2026-07-13 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 5 | [voly-codes/voly](https://github.com/voly-codes/voly) | 8 | Python | 2026-07-13 | Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and  |
-| 6 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-13 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 7 | [rockbox37/agentsentri](https://github.com/rockbox37/agentsentri) | 0 | TypeScript | 2026-07-13 | Open-source LLM observability — traces, cost tracking, OTel GenAI-native. Apache 2.0. |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-13 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-13 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-13 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
+| 3 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 1 | TypeScript | 2026-07-13 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 4 | [PerinbaBuilds/AI-Evaluation-Pipeline](https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline) | 0 | Python | 2026-07-13 | Benchmark and A/B-test LLM outputs with real statistics — pluggable metrics, honest verdicts, a dashboard + REST API. Se |
+| 5 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6465 | Go | 2026-07-13 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 6 | [voly-codes/voly](https://github.com/voly-codes/voly) | 8 | Python | 2026-07-13 | Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and  |
+| 7 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-13 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 8 | [rockbox37/agentsentri](https://github.com/rockbox37/agentsentri) | 0 | TypeScript | 2026-07-13 | Open-source LLM observability — traces, cost tracking, OTel GenAI-native. Apache 2.0. |
 | 9 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1619 | Python | 2026-07-13 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
 | 10 | [fangzheng698-lang/agent-prod](https://github.com/fangzheng698-lang/agent-prod) | 2 | Python | 2026-07-13 | Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel |
 | 11 | [solomon2773/nora](https://github.com/solomon2773/nora) | 20 | TypeScript | 2026-07-13 | Self-hosted control plane for OpenClaw and Hermes fleets on Docker/Kubernetes — REST, CLI, and MCP. |
