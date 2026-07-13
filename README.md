@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-13 18:15 UTC
+> ⏰ Last updated: 2026-07-13 18:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [api-evangelist/opik](https://github.com/api-evangelist/opik) | 0 | — | 2026-07-13 | Opik APIs.json profile for API Evangelist catalog |
-| 2 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-07-13 | Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t |
-| 3 | [mezmo/aura](https://github.com/mezmo/aura) | 208 | Rust | 2026-07-13 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
-| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 12 | Go | 2026-07-13 | fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache- |
-| 5 | [api-evangelist/log10](https://github.com/api-evangelist/log10) | 0 | — | 2026-07-13 | Log10 APIs.json profile for API Evangelist catalog |
-| 6 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 1 | TypeScript | 2026-07-13 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 7 | [JeremyDemers/Agent-Eval-Control-Plane](https://github.com/JeremyDemers/Agent-Eval-Control-Plane) | 0 | Python | 2026-07-13 | Production-style Python control plane for AI agent evaluation, regression gates, PostgreSQL workers, and NVIDIA GPU-awar |
-| 8 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 379 | Python | 2026-07-13 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
-| 9 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-07-13 | Seldon APIs.json profile for API Evangelist catalog |
-| 10 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-13 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 11 | [api-evangelist/evidently](https://github.com/api-evangelist/evidently) | 0 | — | 2026-07-13 | Evidently AI APIs.json profile for API Evangelist catalog |
-| 12 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 7 | Rust | 2026-07-13 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 13 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-07-13 | Arize Phoenix APIs.json profile for API Evangelist catalog |
-| 14 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-13 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-13 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [api-evangelist/opik](https://github.com/api-evangelist/opik) | 0 | — | 2026-07-13 | Opik APIs.json profile for API Evangelist catalog |
+| 3 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-07-13 | Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t |
+| 4 | [mezmo/aura](https://github.com/mezmo/aura) | 208 | Rust | 2026-07-13 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
+| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 12 | Go | 2026-07-13 | fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache- |
+| 6 | [api-evangelist/log10](https://github.com/api-evangelist/log10) | 0 | — | 2026-07-13 | Log10 APIs.json profile for API Evangelist catalog |
+| 7 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 1 | TypeScript | 2026-07-13 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 8 | [JeremyDemers/Agent-Eval-Control-Plane](https://github.com/JeremyDemers/Agent-Eval-Control-Plane) | 0 | Python | 2026-07-13 | Production-style Python control plane for AI agent evaluation, regression gates, PostgreSQL workers, and NVIDIA GPU-awar |
+| 9 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 379 | Python | 2026-07-13 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
+| 10 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-07-13 | Seldon APIs.json profile for API Evangelist catalog |
+| 11 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-13 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 12 | [api-evangelist/evidently](https://github.com/api-evangelist/evidently) | 0 | — | 2026-07-13 | Evidently AI APIs.json profile for API Evangelist catalog |
+| 13 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 7 | Rust | 2026-07-13 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 14 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-07-13 | Arize Phoenix APIs.json profile for API Evangelist catalog |
 | 15 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-13 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 16 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-07-13 | ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s |
 | 17 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 72 | Python | 2026-07-13 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
