@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5507,
+    "updated_at": "2026-07-13T06:45:04Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23181,
+    "updated_at": "2026-07-13T06:44:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Professional Applied AI / Agentic AI portfolio for healthcare, insurance, FHIR/HL7, document AI, and LLMOps systems.",
+    "id": "smgpulse007/smgpulse007.github.io",
+    "language": "TypeScript",
+    "name": "smgpulse007/smgpulse007.github.io",
+    "stars": 0,
+    "updated_at": "2026-07-13T06:43:58Z",
+    "url": "https://github.com/smgpulse007/smgpulse007.github.io"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2490,
+    "updated_at": "2026-07-13T06:40:10Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6471,
+    "updated_at": "2026-07-13T06:38:43Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Regression tests and explainable release gates for RAG and AI agents.",
+    "id": "thangldw/ragops",
+    "language": "Python",
+    "name": "thangldw/ragops",
+    "stars": 0,
+    "updated_at": "2026-07-13T06:33:14Z",
+    "url": "https://github.com/thangldw/ragops"
+  },
+  {
+    "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
+    "id": "neurarch-ai/awesome-llm-system-design",
+    "language": "JavaScript",
+    "name": "neurarch-ai/awesome-llm-system-design",
+    "stars": 0,
+    "updated_at": "2026-07-13T06:31:45Z",
+    "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-07-13T06:30:54Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 7909,
+    "updated_at": "2026-07-13T06:30:52Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-13T06:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -9,30 +99,12 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23182,
-    "updated_at": "2026-07-13T06:30:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-07-13T06:25:51Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
     "id": "VamsiSudhakaran1/release-gate",
     "language": "Python",
     "name": "VamsiSudhakaran1/release-gate",
     "stars": 3,
-    "updated_at": "2026-07-13T06:22:44Z",
+    "updated_at": "2026-07-13T06:40:40Z",
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
   },
   {
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10527,
-    "updated_at": "2026-07-13T06:22:52Z",
+    "updated_at": "2026-07-13T06:40:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -58,7 +130,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 53384,
+    "stars": 53387,
     "updated_at": "2026-07-13T06:17:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -70,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T06:16:10Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-13T06:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Professional Applied AI / Agentic AI portfolio for healthcare, insurance, FHIR/HL7, document AI, and LLMOps systems.",
-    "id": "smgpulse007/smgpulse007.github.io",
-    "language": "TypeScript",
-    "name": "smgpulse007/smgpulse007.github.io",
-    "stars": 0,
-    "updated_at": "2026-07-13T06:14:14Z",
-    "url": "https://github.com/smgpulse007/smgpulse007.github.io"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -113,7 +167,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-13T06:08:06Z",
+    "updated_at": "2026-07-13T06:36:16Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -144,15 +198,6 @@
     "url": "https://github.com/admina-org/admina"
   },
   {
-    "description": "Dependency-free evaluation and red-team release gates for RAG and agent systems.",
-    "id": "thangldw/ragops",
-    "language": "Python",
-    "name": "thangldw/ragops",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:59:25Z",
-    "url": "https://github.com/thangldw/ragops"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -160,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-13T05:56:48Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6471,
-    "updated_at": "2026-07-13T06:28:25Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T05:49:07Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
-    "id": "neurarch-ai/awesome-llm-system-design",
-    "language": "JavaScript",
-    "name": "neurarch-ai/awesome-llm-system-design",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:47:33Z",
-    "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
   },
   {
     "description": "Open-source LLM observability \u2014 traces, cost tracking, OTel GenAI-native. Apache 2.0.",
@@ -400,7 +427,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26997,
+    "stars": 26996,
     "updated_at": "2026-07-13T05:22:20Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-13T05:21:21Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-13T05:21:19Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-07-13T05:21:17Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:21:06Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
