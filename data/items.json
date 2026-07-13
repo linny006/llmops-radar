@@ -1,12 +1,48 @@
 [
   {
-    "description": "Open-source LLM observability \u2014 traces, cost tracking, OTel GenAI-native. Apache 2.0.",
-    "id": "rockbox37/agentsentri",
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-13T01:12:32Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
-    "name": "rockbox37/agentsentri",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-07-13T01:10:50Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Benchmark and A/B-test LLM outputs with real statistics \u2014 pluggable metrics, honest verdicts, a dashboard + REST API. Se",
+    "id": "PerinbaBuilds/AI-Evaluation-Pipeline",
+    "language": "Python",
+    "name": "PerinbaBuilds/AI-Evaluation-Pipeline",
     "stars": 0,
-    "updated_at": "2026-07-13T00:59:15Z",
-    "url": "https://github.com/rockbox37/agentsentri"
+    "updated_at": "2026-07-13T01:07:53Z",
+    "url": "https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6464,
+    "updated_at": "2026-07-13T01:06:52Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
+    "id": "voly-codes/voly",
+    "language": "Python",
+    "name": "voly-codes/voly",
+    "stars": 8,
+    "updated_at": "2026-07-13T01:04:37Z",
+    "url": "https://github.com/voly-codes/voly"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,8 +50,26 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-13T00:58:39Z",
+    "updated_at": "2026-07-13T01:04:19Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Open-source LLM observability \u2014 traces, cost tracking, OTel GenAI-native. Apache 2.0.",
+    "id": "rockbox37/agentsentri",
+    "language": "TypeScript",
+    "name": "rockbox37/agentsentri",
+    "stars": 0,
+    "updated_at": "2026-07-13T01:02:33Z",
+    "url": "https://github.com/rockbox37/agentsentri"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-13T01:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 20,
-    "updated_at": "2026-07-13T00:53:47Z",
+    "updated_at": "2026-07-13T01:04:01Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
@@ -68,17 +122,8 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-07-13T00:46:33Z",
+    "updated_at": "2026-07-13T01:11:39Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-13T00:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
@@ -90,15 +135,6 @@
     "url": "https://github.com/openlit/openlit"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 1,
-    "updated_at": "2026-07-13T00:54:13Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -106,6 +142,15 @@
     "stars": 3361,
     "updated_at": "2026-07-13T00:42:35Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4285,
+    "updated_at": "2026-07-13T00:36:30Z",
+    "url": "https://github.com/Agenta-AI/agenta"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
@@ -293,7 +338,7 @@
     "language": "Go",
     "name": "seaworld008/aiops-system",
     "stars": 0,
-    "updated_at": "2026-07-13T00:07:23Z",
+    "updated_at": "2026-07-13T01:12:15Z",
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-12T23:57:54Z",
+    "updated_at": "2026-07-13T01:02:25Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-12T23:56:47Z",
     "url": "https://github.com/jasonjknapp/cheapskate"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-07-12T23:56:28Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-12T23:56:27Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-07-12T23:56:24Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-12T23:56:15Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-07-12T23:54:58Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
