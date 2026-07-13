@@ -1,12 +1,39 @@
 [
   {
-    "description": "EvalForge \u2014 local-first AI evaluation engineering platform: deterministic graders, TF-IDF evidence retrieval, optional O",
-    "id": "Kozphy/ai-evaluation_engineering_platform_mvp",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "Kozphy/ai-evaluation_engineering_platform_mvp",
+    "name": "comet-ml/opik",
+    "stars": 20574,
+    "updated_at": "2026-07-13T07:29:40Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 179,
+    "updated_at": "2026-07-13T07:27:19Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
     "stars": 0,
-    "updated_at": "2026-07-13T07:15:02Z",
-    "url": "https://github.com/Kozphy/ai-evaluation_engineering_platform_mvp"
+    "updated_at": "2026-07-13T07:26:09Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6472,
+    "updated_at": "2026-07-13T07:25:54Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,8 +41,89 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23182,
-    "updated_at": "2026-07-13T07:14:49Z",
+    "updated_at": "2026-07-13T07:29:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-13T07:22:40Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
+    "id": "SemeAIPletinnya/semeai-gate-basic",
+    "language": "Python",
+    "name": "SemeAIPletinnya/semeai-gate-basic",
+    "stars": 1,
+    "updated_at": "2026-07-13T07:19:46Z",
+    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31008,
+    "updated_at": "2026-07-13T07:19:19Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Public demo of governance outside the model for bounded agent control",
+    "id": "TheBrokenWay/CageOS-Lite-Demo",
+    "language": "Python",
+    "name": "TheBrokenWay/CageOS-Lite-Demo",
+    "stars": 0,
+    "updated_at": "2026-07-13T07:18:51Z",
+    "url": "https://github.com/TheBrokenWay/CageOS-Lite-Demo"
+  },
+  {
+    "description": "Regression tests and explainable release gates for RAG and AI agents.",
+    "id": "thangldw/ragops",
+    "language": "Python",
+    "name": "thangldw/ragops",
+    "stars": 0,
+    "updated_at": "2026-07-13T07:18:45Z",
+    "url": "https://github.com/thangldw/ragops"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-07-13T07:16:04Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-07-13T07:15:28Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-13T07:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "EvalForge \u2014 local-first AI evaluation engineering platform: deterministic graders, TF-IDF evidence retrieval, optional O",
+    "id": "Kozphy/EvalForge",
+    "language": "Python",
+    "name": "Kozphy/EvalForge",
+    "stars": 0,
+    "updated_at": "2026-07-13T07:15:02Z",
+    "url": "https://github.com/Kozphy/EvalForge"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -25,24 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-13T07:12:41Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Public demo of the CageOS Lite Side A/Side B tutor-control pattern",
-    "id": "TheBrokenWay/CageOS-Lite-Demo",
-    "language": "Python",
-    "name": "TheBrokenWay/CageOS-Lite-Demo",
-    "stars": 0,
-    "updated_at": "2026-07-13T07:12:40Z",
-    "url": "https://github.com/TheBrokenWay/CageOS-Lite-Demo"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20574,
-    "updated_at": "2026-07-13T07:11:19Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -81,15 +171,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-13T07:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
@@ -104,7 +185,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-13T06:52:07Z",
+    "updated_at": "2026-07-13T07:24:35Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -144,24 +225,6 @@
     "url": "https://github.com/smgpulse007/smgpulse007.github.io"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6471,
-    "updated_at": "2026-07-13T07:14:57Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Regression tests and explainable release gates for RAG and AI agents.",
-    "id": "thangldw/ragops",
-    "language": "Python",
-    "name": "thangldw/ragops",
-    "stars": 0,
-    "updated_at": "2026-07-13T06:33:14Z",
-    "url": "https://github.com/thangldw/ragops"
-  },
-  {
     "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
     "id": "neurarch-ai/awesome-llm-system-design",
     "language": "JavaScript",
@@ -185,7 +248,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 7910,
-    "updated_at": "2026-07-13T07:05:12Z",
+    "updated_at": "2026-07-13T07:24:38Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -229,7 +292,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 53389,
+    "stars": 53393,
     "updated_at": "2026-07-13T06:17:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -241,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T06:16:10Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-13T06:12:45Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Local devtools for LLM apps.",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-13T05:35:56Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:35:50Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-07-13T05:35:22Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-07-13T05:33:55Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "\u5b89\u5168\u3001\u53ef\u5ba1\u8ba1\u7684 AI \u5e94\u7528\u751f\u6210\u4e0e\u53d1\u5e03\u5e73\u53f0\uff0c\u652f\u6301\u63d0\u793a\u8bcd\u7248\u672c\u56fa\u5b9a\u3001\u591a\u6a21\u578b\u8def\u7531\u3001\u4ea7\u7269\u5168\u751f\u547d\u5468\u671f\u3001\u5e94\u7528\u5e02\u573a\u4e0e\u7ba1\u7406\u5ba1\u8ba1\u3002",
-    "id": "18307519324az/CodeForge-AI",
-    "language": "Java",
-    "name": "18307519324az/CodeForge-AI",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:37:21Z",
-    "url": "https://github.com/18307519324az/CodeForge-AI"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-13T05:29:35Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:28:10Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
