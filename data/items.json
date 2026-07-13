@@ -1,11 +1,74 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-13T17:59:38Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Production-style Python control plane for AI agent evaluation, regression gates, PostgreSQL workers, and NVIDIA GPU-awar",
+    "id": "JeremyDemers/Agent-Eval-Control-Plane",
+    "language": "Python",
+    "name": "JeremyDemers/Agent-Eval-Control-Plane",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:00:11Z",
+    "url": "https://github.com/JeremyDemers/Agent-Eval-Control-Plane"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 12,
+    "updated_at": "2026-07-13T17:56:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-07-13T17:53:46Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
+    "id": "api-evangelist/zenml",
+    "language": "\u2014",
+    "name": "api-evangelist/zenml",
+    "stars": 0,
+    "updated_at": "2026-07-13T17:52:23Z",
+    "url": "https://github.com/api-evangelist/zenml"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 72,
+    "updated_at": "2026-07-13T17:50:32Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53458,
+    "updated_at": "2026-07-13T18:00:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
     "id": "becloudready/workshops",
     "language": "HTML",
     "name": "becloudready/workshops",
     "stars": 1,
-    "updated_at": "2026-07-13T17:44:25Z",
+    "updated_at": "2026-07-13T17:48:08Z",
     "url": "https://github.com/becloudready/workshops"
   },
   {
@@ -14,8 +77,35 @@
     "language": "Python",
     "name": "JumpMasters/tollgate",
     "stars": 0,
-    "updated_at": "2026-07-13T17:44:17Z",
+    "updated_at": "2026-07-13T17:47:16Z",
     "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 1,
+    "updated_at": "2026-07-13T17:53:36Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10534,
+    "updated_at": "2026-07-13T17:57:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-13T17:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
@@ -43,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-13T17:40:58Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 12,
-    "updated_at": "2026-07-13T17:40:56Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
@@ -90,24 +171,6 @@
     "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:39:45Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53456,
-    "updated_at": "2026-07-13T17:43:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -117,15 +180,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 1,
-    "updated_at": "2026-07-13T17:37:25Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -133,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-13T17:31:03Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-13T17:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -169,6 +214,15 @@
     "stars": 7,
     "updated_at": "2026-07-13T17:25:26Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3093,
+    "updated_at": "2026-07-13T17:24:28Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Six Claude Code skills that harden Opus 4.8 toward frontier behavior \u2014 written by Fable 5, pressure-tested on the target",
@@ -216,15 +270,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10534,
-    "updated_at": "2026-07-13T17:19:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T17:17:24Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Production-style Python control plane for AI agent evaluation, regression gates, PostgreSQL workers, and NVIDIA GPU-awar",
-    "id": "JeremyDemers/Agent-Eval-Control-Plane",
-    "language": "Python",
-    "name": "JeremyDemers/Agent-Eval-Control-Plane",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:23:45Z",
-    "url": "https://github.com/JeremyDemers/Agent-Eval-Control-Plane"
   },
   {
     "description": "Named patterns with trade-offs, implementation guides, and code examples for every layer of a production AI system. Thin",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T16:58:39Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-13T16:56:49Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-07-13T16:55:00Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-13T16:54:28Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-13T16:54:27Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
