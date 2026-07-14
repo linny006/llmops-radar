@@ -1,12 +1,30 @@
 [
   {
-    "description": "Chat-based assistant that benchmarks llm-d from a plain-English goal: it interviews you, deploys an llm-d stack if neede",
-    "id": "TalBenAmii/llm-d-benchmarking-agent",
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
     "language": "Python",
-    "name": "TalBenAmii/llm-d-benchmarking-agent",
-    "stars": 0,
-    "updated_at": "2026-07-14T13:42:07Z",
-    "url": "https://github.com/TalBenAmii/llm-d-benchmarking-agent"
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 2,
+    "updated_at": "2026-07-14T13:59:12Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20590,
+    "updated_at": "2026-07-14T13:58:43Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
+    "id": "aibim-ai/AI-Supply-Chain-Trust",
+    "language": "Rust",
+    "name": "aibim-ai/AI-Supply-Chain-Trust",
+    "stars": 1,
+    "updated_at": "2026-07-14T13:58:27Z",
+    "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -14,8 +32,62 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-14T13:42:06Z",
+    "updated_at": "2026-07-14T14:00:12Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 72,
+    "updated_at": "2026-07-14T13:52:29Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Alice \u2014 a fail-closed job-search agent: deterministic location/travel gates run before the LLM, and an unparseable model",
+    "id": "owieschon/career-scout",
+    "language": "Python",
+    "name": "owieschon/career-scout",
+    "stars": 0,
+    "updated_at": "2026-07-14T13:52:01Z",
+    "url": "https://github.com/owieschon/career-scout"
+  },
+  {
+    "description": "Git-backed AgentOps layer for AI coding CLIs: shared AGENTS.md, MCP manifests, drift checks, secrets discipline, and cro",
+    "id": "matteopasseri407/NeXgen-Engine",
+    "language": "Python",
+    "name": "matteopasseri407/NeXgen-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-14T13:50:29Z",
+    "url": "https://github.com/matteopasseri407/NeXgen-Engine"
+  },
+  {
+    "description": "Turn Portkey & Langsmith data into OTEL signals",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-07-14T13:47:51Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-14T13:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Chat-based assistant that benchmarks llm-d from a plain-English goal: it interviews you, deploys an llm-d stack if neede",
+    "id": "TalBenAmii/llm-d-benchmarking-agent",
+    "language": "Python",
+    "name": "TalBenAmii/llm-d-benchmarking-agent",
+    "stars": 0,
+    "updated_at": "2026-07-14T13:42:07Z",
+    "url": "https://github.com/TalBenAmii/llm-d-benchmarking-agent"
   },
   {
     "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
@@ -32,7 +104,7 @@
     "language": "Java",
     "name": "runcycles/cycles-server",
     "stars": 3,
-    "updated_at": "2026-07-14T13:42:45Z",
+    "updated_at": "2026-07-14T13:47:45Z",
     "url": "https://github.com/runcycles/cycles-server"
   },
   {
@@ -95,7 +167,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31123,
-    "updated_at": "2026-07-14T13:38:22Z",
+    "updated_at": "2026-07-14T13:56:24Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -104,17 +176,8 @@
     "language": "Go",
     "name": "dativo-io/talon",
     "stars": 10,
-    "updated_at": "2026-07-14T13:34:07Z",
+    "updated_at": "2026-07-14T13:46:53Z",
     "url": "https://github.com/dativo-io/talon"
-  },
-  {
-    "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
-    "id": "aibim-ai/AI-Supply-Chain-Trust",
-    "language": "Rust",
-    "name": "aibim-ai/AI-Supply-Chain-Trust",
-    "stars": 1,
-    "updated_at": "2026-07-14T13:42:19Z",
-    "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -131,17 +194,8 @@
     "language": "Python",
     "name": "JeremyDemers/Agent-Eval-Control-Plane",
     "stars": 0,
-    "updated_at": "2026-07-14T13:32:47Z",
+    "updated_at": "2026-07-14T13:48:42Z",
     "url": "https://github.com/JeremyDemers/Agent-Eval-Control-Plane"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 72,
-    "updated_at": "2026-07-14T13:41:45Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Local devtools for LLM apps.",
@@ -153,15 +207,6 @@
     "url": "https://github.com/kristofers322/LLMPeek"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-14T13:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T13:30:09Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20590,
-    "updated_at": "2026-07-14T13:38:21Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -193,7 +229,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 53553,
+    "stars": 53557,
     "updated_at": "2026-07-14T13:25:55Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -347,17 +383,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 1,
-    "updated_at": "2026-07-14T13:12:08Z",
+    "updated_at": "2026-07-14T13:56:41Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Alice \u2014 a fail-closed job-search agent: deterministic location/travel gates run before the LLM, and an unparseable model",
-    "id": "owieschon/career-scout",
-    "language": "Python",
-    "name": "owieschon/career-scout",
-    "stars": 0,
-    "updated_at": "2026-07-14T12:44:31Z",
-    "url": "https://github.com/owieschon/career-scout"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3364,
-    "updated_at": "2026-07-14T13:37:04Z",
+    "updated_at": "2026-07-14T13:53:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-14T12:30:33Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1060,
-    "updated_at": "2026-07-14T12:34:40Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-07-14T12:25:06Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-14T12:20:08Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
   }
 ]
