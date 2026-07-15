@@ -1,12 +1,48 @@
 [
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "xinglun/ai-cockpit-template",
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-07-15T09:58:06Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "An enterprise-grade fintech APM pipeline that integrates the Gemini 3.5 API and an in-memory SQLite engine to ingest tra",
+    "id": "SabhyataVerma/Fintech_latency_analyzer",
     "language": "Python",
-    "name": "xinglun/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:45:08Z",
-    "url": "https://github.com/xinglun/ai-cockpit-template"
+    "name": "SabhyataVerma/Fintech_latency_analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-15T09:55:09Z",
+    "url": "https://github.com/SabhyataVerma/Fintech_latency_analyzer"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-15T09:54:26Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6526,
+    "updated_at": "2026-07-15T10:00:04Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 0,
+    "updated_at": "2026-07-15T09:52:28Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
@@ -14,26 +50,80 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 12,
-    "updated_at": "2026-07-15T09:44:38Z",
+    "updated_at": "2026-07-15T09:51:51Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
+    "id": "seaworld008/aiops-system",
+    "language": "Go",
+    "name": "seaworld008/aiops-system",
+    "stars": 1,
+    "updated_at": "2026-07-15T09:51:11Z",
+    "url": "https://github.com/seaworld008/aiops-system"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31189,
-    "updated_at": "2026-07-15T09:42:18Z",
+    "stars": 31191,
+    "updated_at": "2026-07-15T10:00:01Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20605,
+    "updated_at": "2026-07-15T09:50:24Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2511,
-    "updated_at": "2026-07-15T09:43:56Z",
+    "stars": 2512,
+    "updated_at": "2026-07-15T09:48:41Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Curated, machine-readable resources for AI evaluation, observability, guardrails, governance, security, and deployment.",
+    "id": "Anonymousyz/awesome-ai-production-readiness",
+    "language": "Python",
+    "name": "Anonymousyz/awesome-ai-production-readiness",
+    "stars": 0,
+    "updated_at": "2026-07-15T09:48:10Z",
+    "url": "https://github.com/Anonymousyz/awesome-ai-production-readiness"
+  },
+  {
+    "description": "Production-readiness toolkit for AI workflows: scoring CLI, governance artifacts, veto gates, and fictional decision cas",
+    "id": "Anonymousyz/ai-prototype-to-production-toolkit",
+    "language": "Python",
+    "name": "Anonymousyz/ai-prototype-to-production-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-15T09:48:08Z",
+    "url": "https://github.com/Anonymousyz/ai-prototype-to-production-toolkit"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-15T09:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "xinglun/ai-cockpit-template",
+    "language": "Python",
+    "name": "xinglun/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-15T09:47:39Z",
+    "url": "https://github.com/xinglun/ai-cockpit-template"
   },
   {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 74,
-    "updated_at": "2026-07-15T09:37:51Z",
+    "updated_at": "2026-07-15T09:52:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -68,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3365,
-    "updated_at": "2026-07-15T09:34:50Z",
+    "updated_at": "2026-07-15T09:51:36Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -79,15 +169,6 @@
     "stars": 78,
     "updated_at": "2026-07-15T09:30:56Z",
     "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-15T09:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
@@ -115,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T09:33:47Z",
     "url": "https://github.com/domestique-labs/domestique-oss"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6524,
-    "updated_at": "2026-07-15T09:44:47Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -207,21 +279,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20606,
-    "updated_at": "2026-07-15T09:36:16Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-15T09:32:19Z",
+    "updated_at": "2026-07-15T09:58:46Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -232,6 +295,15 @@
     "stars": 0,
     "updated_at": "2026-07-15T09:08:19Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10568,
+    "updated_at": "2026-07-15T09:06:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Reproducible local demo for baseline/candidate LLM workflow evaluation, controlled runtime failures, human review, and v",
@@ -319,7 +391,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27033,
+    "stars": 27034,
     "updated_at": "2026-07-15T08:56:01Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T08:52:42Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:50:52Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-15T08:50:31Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:49:00Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-07-15T08:48:30Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-15T08:48:25Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-07-15T08:48:24Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:48:16Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:46:54Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
