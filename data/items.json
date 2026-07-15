@@ -1,12 +1,93 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:45:05Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
+    "id": "api-evangelist/zenml",
+    "language": "\u2014",
+    "name": "api-evangelist/zenml",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:42:07Z",
+    "url": "https://github.com/api-evangelist/zenml"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10576,
+    "updated_at": "2026-07-15T18:43:53Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 53698,
-    "updated_at": "2026-07-15T18:29:01Z",
+    "stars": 53702,
+    "updated_at": "2026-07-15T18:41:04Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31210,
+    "updated_at": "2026-07-15T18:38:13Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:37:08Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-07-15T18:34:55Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23293,
+    "updated_at": "2026-07-15T18:34:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 12,
+    "updated_at": "2026-07-15T18:31:36Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-15T18:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn scattered AI traffic into unit economics you can act on \u2014 cost, usage, and reliability attributed by tenant, route,",
@@ -25,15 +106,6 @@
     "stars": 2604,
     "updated_at": "2026-07-15T18:26:54Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:29:15Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
@@ -63,15 +135,6 @@
     "url": "https://github.com/acornops/management-console"
   },
   {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:25:47Z",
-    "url": "https://github.com/memoturn/memoturn"
-  },
-  {
     "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
     "id": "runcycles/cycles-server",
     "language": "Java",
@@ -95,26 +158,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 380,
-    "updated_at": "2026-07-15T18:24:56Z",
+    "updated_at": "2026-07-15T18:39:27Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 12,
-    "updated_at": "2026-07-15T18:16:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-15T18:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Seldon APIs.json profile for API Evangelist catalog",
@@ -162,15 +207,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10575,
-    "updated_at": "2026-07-15T18:00:25Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Arize Phoenix APIs.json profile for API Evangelist catalog",
     "id": "api-evangelist/phoenix",
     "language": "\u2014",
@@ -180,15 +216,6 @@
     "url": "https://github.com/api-evangelist/phoenix"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23291,
-    "updated_at": "2026-07-15T18:21:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
     "id": "jonathascordeiro20/bioma-framework",
     "language": "Python",
@@ -196,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T17:56:01Z",
     "url": "https://github.com/jonathascordeiro20/bioma-framework"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31209,
-    "updated_at": "2026-07-15T18:10:07Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3367,
-    "updated_at": "2026-07-15T18:28:07Z",
+    "updated_at": "2026-07-15T18:43:37Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Go",
     "name": "seaworld008/aiops-system",
     "stars": 1,
-    "updated_at": "2026-07-15T17:48:34Z",
+    "updated_at": "2026-07-15T18:33:38Z",
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 15,
-    "updated_at": "2026-07-15T18:18:12Z",
+    "updated_at": "2026-07-15T18:39:39Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2514,
     "updated_at": "2026-07-15T18:15:37Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
-    "id": "Arize-ai/arize-skills",
-    "language": "Python",
-    "name": "Arize-ai/arize-skills",
-    "stars": 38,
-    "updated_at": "2026-07-15T17:17:31Z",
-    "url": "https://github.com/Arize-ai/arize-skills"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1271,
-    "updated_at": "2026-07-15T16:25:26Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   }
 ]
