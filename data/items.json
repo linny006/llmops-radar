@@ -1,12 +1,93 @@
 [
   {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:59:28Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1086,
+    "updated_at": "2026-07-15T19:00:04Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 5,
+    "updated_at": "2026-07-15T18:58:40Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53702,
+    "updated_at": "2026-07-15T18:58:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
+    "id": "jonathascordeiro20/bioma-framework",
+    "language": "Python",
+    "name": "jonathascordeiro20/bioma-framework",
+    "stars": 1,
+    "updated_at": "2026-07-15T18:50:37Z",
+    "url": "https://github.com/jonathascordeiro20/bioma-framework"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10577,
+    "updated_at": "2026-07-15T18:48:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-15T18:45:05Z",
+    "updated_at": "2026-07-15T19:00:21Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 165,
+    "updated_at": "2026-07-15T18:47:02Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 12,
+    "updated_at": "2026-07-15T18:46:39Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-15T18:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
@@ -18,30 +99,12 @@
     "url": "https://github.com/api-evangelist/zenml"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10576,
-    "updated_at": "2026-07-15T18:43:53Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53702,
-    "updated_at": "2026-07-15T18:41:04Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31210,
-    "updated_at": "2026-07-15T18:38:13Z",
+    "updated_at": "2026-07-15T19:00:10Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -70,24 +133,6 @@
     "stars": 23293,
     "updated_at": "2026-07-15T18:34:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 12,
-    "updated_at": "2026-07-15T18:31:36Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-15T18:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn scattered AI traffic into unit economics you can act on \u2014 cost, usage, and reliability attributed by tenant, route,",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 380,
-    "updated_at": "2026-07-15T18:39:27Z",
+    "updated_at": "2026-07-15T18:53:45Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -216,20 +261,11 @@
     "url": "https://github.com/api-evangelist/phoenix"
   },
   {
-    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
-    "id": "jonathascordeiro20/bioma-framework",
-    "language": "Python",
-    "name": "jonathascordeiro20/bioma-framework",
-    "stars": 1,
-    "updated_at": "2026-07-15T17:56:01Z",
-    "url": "https://github.com/jonathascordeiro20/bioma-framework"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20614,
+    "stars": 20615,
     "updated_at": "2026-07-15T17:50:38Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3367,
-    "updated_at": "2026-07-15T18:43:37Z",
+    "updated_at": "2026-07-15T18:55:59Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Go",
     "name": "seaworld008/aiops-system",
     "stars": 1,
-    "updated_at": "2026-07-15T18:33:38Z",
+    "updated_at": "2026-07-15T18:58:46Z",
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-15T18:27:24Z",
+    "updated_at": "2026-07-15T18:53:45Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-15T18:08:49Z",
+    "updated_at": "2026-07-15T18:54:58Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-15T17:09:06Z",
+    "updated_at": "2026-07-15T18:51:29Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T17:05:07Z",
     "url": "https://github.com/domestique-labs/domestique-oss"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-15T16:54:00Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 15,
-    "updated_at": "2026-07-15T18:39:39Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Walk-forward / out-of-sample validation for agent evals \u2014 detect eval-set overfitting the way quants detect backtest ove",
-    "id": "Starlight143/agent-walkforward",
-    "language": "Python",
-    "name": "Starlight143/agent-walkforward",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:44:21Z",
-    "url": "https://github.com/Starlight143/agent-walkforward"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2514,
-    "updated_at": "2026-07-15T18:15:37Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
