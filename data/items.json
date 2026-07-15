@@ -1,5 +1,23 @@
 [
   {
+    "description": "Arize Phoenix APIs.json profile for API Evangelist catalog",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:59:14Z",
+    "url": "https://github.com/api-evangelist/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-15T17:57:03Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
     "id": "jonathascordeiro20/bioma-framework",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 1,
     "updated_at": "2026-07-15T17:56:01Z",
     "url": "https://github.com/jonathascordeiro20/bioma-framework"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53693,
+    "updated_at": "2026-07-15T17:57:42Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -68,17 +95,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-15T17:56:51Z",
+    "updated_at": "2026-07-15T17:58:08Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-15T17:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10574,
-    "updated_at": "2026-07-15T17:49:38Z",
+    "updated_at": "2026-07-15T18:00:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -151,15 +169,6 @@
     "stars": 65,
     "updated_at": "2026-07-15T17:50:30Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53692,
-    "updated_at": "2026-07-15T17:55:11Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -311,7 +320,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 15,
-    "updated_at": "2026-07-15T17:21:57Z",
+    "updated_at": "2026-07-15T17:59:56Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 19,
     "updated_at": "2026-07-15T16:03:48Z",
     "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
-  },
-  {
-    "description": "Deterministic guardrails for AI agents \u2014 the LLM proposes, your rules dispose. A sub-microsecond, JIT-compiled rule engi",
-    "id": "Ordo-Engine/Ordo",
-    "language": "Rust",
-    "name": "Ordo-Engine/Ordo",
-    "stars": 29,
-    "updated_at": "2026-07-15T16:02:05Z",
-    "url": "https://github.com/Ordo-Engine/Ordo"
   }
 ]
