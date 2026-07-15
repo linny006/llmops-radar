@@ -1,30 +1,39 @@
 [
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53593,
-    "updated_at": "2026-07-15T01:15:08Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "xinglun/ai-cockpit-template",
-    "language": "Python",
-    "name": "xinglun/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-15T01:14:26Z",
-    "url": "https://github.com/xinglun/ai-cockpit-template"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 12,
-    "updated_at": "2026-07-15T01:14:02Z",
+    "updated_at": "2026-07-15T01:30:17Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
+    "id": "Karinaclastic11/Drip-Lite-Client",
+    "language": "\u2014",
+    "name": "Karinaclastic11/Drip-Lite-Client",
+    "stars": 1,
+    "updated_at": "2026-07-15T01:27:11Z",
+    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2502,
+    "updated_at": "2026-07-15T01:26:28Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53594,
+    "updated_at": "2026-07-15T01:26:57Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Full Portkey Admin API MCP server",
@@ -32,8 +41,134 @@
     "language": "TypeScript",
     "name": "CodesWhat/portkey-admin-mcp",
     "stars": 5,
-    "updated_at": "2026-07-15T01:14:35Z",
+    "updated_at": "2026-07-15T01:25:24Z",
     "url": "https://github.com/CodesWhat/portkey-admin-mcp"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-15T01:25:03Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
+    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "language": "\u2014",
+    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "stars": 2,
+    "updated_at": "2026-07-15T01:22:03Z",
+    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-07-15T01:21:09Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-07-15T01:20:59Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "An automated LLMOps pipeline that detects semantic drift in technical documentation using synthetic data generation, Qdr",
+    "id": "TushirSahu/doc_drift_pipeline",
+    "language": "Python",
+    "name": "TushirSahu/doc_drift_pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-15T01:20:19Z",
+    "url": "https://github.com/TushirSahu/doc_drift_pipeline"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-07-15T01:20:00Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-07-15T01:25:49Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-07-15T01:17:37Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and",
+    "id": "0point9bar/TLDR",
+    "language": "JavaScript",
+    "name": "0point9bar/TLDR",
+    "stars": 17,
+    "updated_at": "2026-07-15T01:17:10Z",
+    "url": "https://github.com/0point9bar/TLDR"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-07-15T01:16:37Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-15T01:30:14Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-07-15T01:15:54Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-15T01:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "xinglun/ai-cockpit-template",
+    "language": "Python",
+    "name": "xinglun/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-15T01:18:15Z",
+    "url": "https://github.com/xinglun/ai-cockpit-template"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -54,15 +189,6 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2502,
-    "updated_at": "2026-07-15T01:11:16Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
     "id": "harishu652/Class-AI-Agent",
     "language": "\u2014",
@@ -70,6 +196,15 @@
     "stars": 0,
     "updated_at": "2026-07-15T01:07:40Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23266,
+    "updated_at": "2026-07-15T01:07:40Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
@@ -108,15 +243,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-07-15T01:01:39Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -124,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T01:01:10Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-15T01:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
@@ -178,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T00:57:45Z",
     "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-15T00:57:20Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
@@ -293,7 +401,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3365,
-    "updated_at": "2026-07-15T01:04:57Z",
+    "updated_at": "2026-07-15T01:25:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-15T00:48:10Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
-    "id": "sandeep-alluru/rulegraph",
-    "language": "Python",
-    "name": "sandeep-alluru/rulegraph",
-    "stars": 0,
-    "updated_at": "2026-07-15T00:47:44Z",
-    "url": "https://github.com/sandeep-alluru/rulegraph"
-  },
-  {
-    "description": "Economy balance analysis and exploit detection for AI game agents",
-    "id": "sandeep-alluru/balancelab",
-    "language": "Python",
-    "name": "sandeep-alluru/balancelab",
-    "stars": 0,
-    "updated_at": "2026-07-15T00:47:43Z",
-    "url": "https://github.com/sandeep-alluru/balancelab"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-15T01:08:22Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Norm monitoring and violation detection for AI agent actions",
-    "id": "sandeep-alluru/normsync",
-    "language": "Python",
-    "name": "sandeep-alluru/normsync",
-    "stars": 0,
-    "updated_at": "2026-07-15T00:47:41Z",
-    "url": "https://github.com/sandeep-alluru/normsync"
-  },
-  {
-    "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
-    "id": "sandeep-alluru/humanproof",
-    "language": "Python",
-    "name": "sandeep-alluru/humanproof",
-    "stars": 0,
-    "updated_at": "2026-07-15T00:47:39Z",
-    "url": "https://github.com/sandeep-alluru/humanproof"
-  },
-  {
-    "description": "World-state belief management and contradiction repair for AI agents",
-    "id": "sandeep-alluru/worldoracle",
-    "language": "Python",
-    "name": "sandeep-alluru/worldoracle",
-    "stars": 0,
-    "updated_at": "2026-07-15T00:47:38Z",
-    "url": "https://github.com/sandeep-alluru/worldoracle"
-  },
-  {
-    "description": "Spatial scene graphs and belief state for embodied agents",
-    "id": "sandeep-alluru/polaroid",
-    "language": "Python",
-    "name": "sandeep-alluru/polaroid",
-    "stars": 0,
-    "updated_at": "2026-07-15T00:47:36Z",
-    "url": "https://github.com/sandeep-alluru/polaroid"
-  },
-  {
-    "description": "Canonical trace format and verifier for agent execution attestation",
-    "id": "sandeep-alluru/notarize",
-    "language": "Python",
-    "name": "sandeep-alluru/notarize",
-    "stars": 0,
-    "updated_at": "2026-07-15T00:47:34Z",
-    "url": "https://github.com/sandeep-alluru/notarize"
-  },
-  {
-    "description": "Action receipts and chain-of-custody for AI agents",
-    "id": "sandeep-alluru/groundcrew",
-    "language": "Python",
-    "name": "sandeep-alluru/groundcrew",
-    "stars": 0,
-    "updated_at": "2026-07-15T00:47:33Z",
-    "url": "https://github.com/sandeep-alluru/groundcrew"
-  },
-  {
-    "description": "Fact-level staleness detection for AI agent memory",
-    "id": "sandeep-alluru/foghorn",
-    "language": "Python",
-    "name": "sandeep-alluru/foghorn",
-    "stars": 0,
-    "updated_at": "2026-07-15T00:47:31Z",
-    "url": "https://github.com/sandeep-alluru/foghorn"
-  },
-  {
-    "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
-    "id": "sandeep-alluru/agentcrdt",
-    "language": "Python",
-    "name": "sandeep-alluru/agentcrdt",
-    "stars": 0,
-    "updated_at": "2026-07-15T00:47:29Z",
-    "url": "https://github.com/sandeep-alluru/agentcrdt"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-07-15T00:46:21Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   }
 ]
