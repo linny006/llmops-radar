@@ -1,12 +1,147 @@
 [
   {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-15T05:14:35Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53615,
+    "updated_at": "2026-07-15T05:13:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 50,
+    "updated_at": "2026-07-15T05:12:14Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 4,
+    "updated_at": "2026-07-15T05:11:07Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-07-15T05:10:24Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 139,
+    "updated_at": "2026-07-15T05:08:34Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 12,
+    "updated_at": "2026-07-15T05:08:04Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-07-15T05:07:59Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6519,
-    "updated_at": "2026-07-15T04:59:48Z",
+    "updated_at": "2026-07-15T05:07:30Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-07-15T05:07:26Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2504,
+    "updated_at": "2026-07-15T05:07:23Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "xinglun/ai-cockpit-template",
+    "language": "Python",
+    "name": "xinglun/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-15T05:05:37Z",
+    "url": "https://github.com/xinglun/ai-cockpit-template"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-07-15T05:04:35Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-15T05:04:22Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "An automated LLMOps pipeline that detects semantic drift in technical documentation using synthetic data generation, Qdr",
+    "id": "TushirSahu/doc_drift_pipeline",
+    "language": "Python",
+    "name": "TushirSahu/doc_drift_pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-15T05:00:45Z",
+    "url": "https://github.com/TushirSahu/doc_drift_pipeline"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-15T05:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -18,24 +153,6 @@
     "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 139,
-    "updated_at": "2026-07-15T04:59:34Z",
-    "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-07-15T05:00:20Z",
-    "url": "https://github.com/memoturn/memoturn"
-  },
-  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -45,15 +162,6 @@
     "url": "https://github.com/Kakz/prometheus-llm"
   },
   {
-    "description": "An automated LLMOps pipeline that detects semantic drift in technical documentation using synthetic data generation, Qdr",
-    "id": "TushirSahu/doc_drift_pipeline",
-    "language": "Python",
-    "name": "TushirSahu/doc_drift_pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-15T04:55:52Z",
-    "url": "https://github.com/TushirSahu/doc_drift_pipeline"
-  },
-  {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
     "id": "bilal0399/learn-agentic-ai",
     "language": "\u2014",
@@ -61,15 +169,6 @@
     "stars": 9,
     "updated_at": "2026-07-15T04:54:58Z",
     "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 12,
-    "updated_at": "2026-07-15T04:54:08Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
@@ -88,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T04:49:47Z",
     "url": "https://github.com/KazKozDev/pressf"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53615,
-    "updated_at": "2026-07-15T04:53:11Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-15T04:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A governed, auditable workflow layer for agent-driven software changes.",
@@ -135,15 +216,6 @@
     "url": "https://github.com/buchk/TypeFerence"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-15T04:44:21Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -151,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T04:37:29Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2504,
-    "updated_at": "2026-07-15T04:34:01Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "A practical handbook for building enterprise AI platforms \u2014 AI evals, RAG, agents, LLM serving, Kubernetes, observabilit",
@@ -275,7 +338,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 65,
-    "updated_at": "2026-07-15T04:34:57Z",
+    "updated_at": "2026-07-15T05:07:55Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T03:28:16Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:27:58Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:27:50Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:27:19Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:25:58Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:22:30Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:21:46Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:20:21Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
