@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-15 16:44 UTC
+> ⏰ Last updated: 2026-07-15 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [iblai/os](https://github.com/iblai/os) | 15 | TypeScript | 2026-07-15 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
-| 2 | [Starlight143/agent-walkforward](https://github.com/Starlight143/agent-walkforward) | 0 | Python | 2026-07-15 | Walk-forward / out-of-sample validation for agent evals — detect eval-set overfitting the way quants detect backtest ove |
-| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2514 | C++ | 2026-07-15 | Community maintained hardware plugin for vLLM on Ascend |
-| 4 | [Arize-ai/arize-skills](https://github.com/Arize-ai/arize-skills) | 38 | Python | 2026-07-15 | Agent skills for Arize — datasets, experiments, and traces via the ax CLI |
-| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 53689 | Python | 2026-07-15 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
-| 6 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | TypeScript | 2026-07-15 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10574 | Python | 2026-07-15 | AI Observability & Evaluation |
-| 8 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31210 | TypeScript | 2026-07-15 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 9 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-07-15 | A governed, auditable workflow layer for agent-driven software changes. |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-15 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-15 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [iblai/os](https://github.com/iblai/os) | 15 | TypeScript | 2026-07-15 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
+| 3 | [Starlight143/agent-walkforward](https://github.com/Starlight143/agent-walkforward) | 0 | Python | 2026-07-15 | Walk-forward / out-of-sample validation for agent evals — detect eval-set overfitting the way quants detect backtest ove |
+| 4 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2514 | C++ | 2026-07-15 | Community maintained hardware plugin for vLLM on Ascend |
+| 5 | [Arize-ai/arize-skills](https://github.com/Arize-ai/arize-skills) | 38 | Python | 2026-07-15 | Agent skills for Arize — datasets, experiments, and traces via the ax CLI |
+| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 53689 | Python | 2026-07-15 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails |
+| 7 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | TypeScript | 2026-07-15 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10574 | Python | 2026-07-15 | AI Observability & Evaluation |
+| 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31210 | TypeScript | 2026-07-15 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 10 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-07-15 | A governed, auditable workflow layer for agent-driven software changes. |
 | 11 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-15 | ThakiCloud Tech Blog |
 | 12 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-07-15 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
 | 13 | [coffeehc/xagent-docs](https://github.com/coffeehc/xagent-docs) | 1 | HTML | 2026-07-15 |  |
