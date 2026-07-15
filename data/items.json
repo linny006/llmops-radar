@@ -1,11 +1,92 @@
 [
   {
+    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
+    "id": "jonathascordeiro20/bioma-framework",
+    "language": "Python",
+    "name": "jonathascordeiro20/bioma-framework",
+    "stars": 1,
+    "updated_at": "2026-07-15T17:56:01Z",
+    "url": "https://github.com/jonathascordeiro20/bioma-framework"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31209,
+    "updated_at": "2026-07-15T17:53:07Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20613,
+    "updated_at": "2026-07-15T17:50:38Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3367,
+    "updated_at": "2026-07-15T17:56:48Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
+    "id": "seaworld008/aiops-system",
+    "language": "Go",
+    "name": "seaworld008/aiops-system",
+    "stars": 1,
+    "updated_at": "2026-07-15T17:48:34Z",
+    "url": "https://github.com/seaworld008/aiops-system"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:48:19Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-07-15T17:47:18Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-15T17:56:51Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-15T17:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
     "id": "acornops/llm-gateway",
     "language": "Python",
     "name": "acornops/llm-gateway",
     "stars": 0,
-    "updated_at": "2026-07-15T17:45:17Z",
+    "updated_at": "2026-07-15T17:53:47Z",
     "url": "https://github.com/acornops/llm-gateway"
   },
   {
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10574,
-    "updated_at": "2026-07-15T17:45:04Z",
+    "updated_at": "2026-07-15T17:49:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -36,15 +117,6 @@
     "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-15T17:44:40Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Log10 APIs.json profile for API Evangelist catalog",
     "id": "api-evangelist/log10",
     "language": "\u2014",
@@ -52,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T17:38:33Z",
     "url": "https://github.com/api-evangelist/log10"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20612,
-    "updated_at": "2026-07-15T17:36:47Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
@@ -81,30 +144,12 @@
     "url": "https://github.com/mezmo/aura"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31209,
-    "updated_at": "2026-07-15T17:43:30Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-15T17:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 65,
-    "updated_at": "2026-07-15T17:31:35Z",
+    "updated_at": "2026-07-15T17:50:30Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53692,
-    "updated_at": "2026-07-15T17:44:59Z",
+    "updated_at": "2026-07-15T17:55:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "acornops/control-plane",
     "stars": 1,
-    "updated_at": "2026-07-15T17:22:59Z",
+    "updated_at": "2026-07-15T17:47:53Z",
     "url": "https://github.com/acornops/control-plane"
   },
   {
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "acornops/agentv",
     "stars": 0,
-    "updated_at": "2026-07-15T17:22:59Z",
+    "updated_at": "2026-07-15T17:49:17Z",
     "url": "https://github.com/acornops/agentv"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "acornops/execution-engine",
     "stars": 0,
-    "updated_at": "2026-07-15T17:22:59Z",
+    "updated_at": "2026-07-15T17:49:14Z",
     "url": "https://github.com/acornops/execution-engine"
   },
   {
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "acornops/management-console",
     "stars": 1,
-    "updated_at": "2026-07-15T17:22:59Z",
+    "updated_at": "2026-07-15T17:49:10Z",
     "url": "https://github.com/acornops/management-console"
   },
   {
@@ -176,7 +221,7 @@
     "language": "JavaScript",
     "name": "acornops/acornops-deployment",
     "stars": 0,
-    "updated_at": "2026-07-15T17:22:59Z",
+    "updated_at": "2026-07-15T17:49:21Z",
     "url": "https://github.com/acornops/acornops-deployment"
   },
   {
@@ -189,21 +234,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-07-15T17:41:53Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
     "id": "memoturn/memoturn",
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-07-15T17:15:09Z",
+    "updated_at": "2026-07-15T17:56:40Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 5,
     "updated_at": "2026-07-15T17:09:06Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
-    "id": "seaworld008/aiops-system",
-    "language": "Go",
-    "name": "seaworld008/aiops-system",
-    "stars": 1,
-    "updated_at": "2026-07-15T17:08:27Z",
-    "url": "https://github.com/seaworld008/aiops-system"
   },
   {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
@@ -288,24 +315,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
-    "id": "jonathascordeiro20/bioma-framework",
-    "language": "Python",
-    "name": "jonathascordeiro20/bioma-framework",
-    "stars": 1,
-    "updated_at": "2026-07-15T16:49:37Z",
-    "url": "https://github.com/jonathascordeiro20/bioma-framework"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:38:19Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Walk-forward / out-of-sample validation for agent evals \u2014 detect eval-set overfitting the way quants detect backtest ove",
     "id": "Starlight143/agent-walkforward",
     "language": "Python",
@@ -320,7 +329,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2514,
-    "updated_at": "2026-07-15T16:44:08Z",
+    "updated_at": "2026-07-15T17:51:25Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -346,7 +355,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29246,
+    "stars": 29247,
     "updated_at": "2026-07-15T16:21:42Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -439,14 +448,5 @@
     "stars": 29,
     "updated_at": "2026-07-15T16:02:05Z",
     "url": "https://github.com/Ordo-Engine/Ordo"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-07-15T15:47:47Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
   }
 ]
