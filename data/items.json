@@ -1,5 +1,32 @@
 [
   {
+    "description": "A governed, auditable workflow layer for agent-driven software changes.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-15T20:17:34Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
+    "id": "jonathascordeiro20/bioma-framework",
+    "language": "Python",
+    "name": "jonathascordeiro20/bioma-framework",
+    "stars": 1,
+    "updated_at": "2026-07-15T20:16:50Z",
+    "url": "https://github.com/jonathascordeiro20/bioma-framework"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-15T20:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
     "id": "voly-codes/voly",
     "language": "Python",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53704,
-    "updated_at": "2026-07-15T20:14:00Z",
+    "updated_at": "2026-07-15T20:18:01Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T20:05:08Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
-    "id": "jonathascordeiro20/bioma-framework",
-    "language": "Python",
-    "name": "jonathascordeiro20/bioma-framework",
-    "stars": 1,
-    "updated_at": "2026-07-15T20:04:45Z",
-    "url": "https://github.com/jonathascordeiro20/bioma-framework"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -151,15 +169,6 @@
     "stars": 6859,
     "updated_at": "2026-07-15T20:02:15Z",
     "url": "https://github.com/katanemo/plano"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-15T20:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -247,7 +256,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27045,
+    "stars": 27046,
     "updated_at": "2026-07-15T19:34:59Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -295,15 +304,6 @@
     "stars": 6542,
     "updated_at": "2026-07-15T20:12:29Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "A governed, auditable workflow layer for agent-driven software changes.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-15T20:10:58Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
@@ -364,7 +364,7 @@
     "id": "openlit/openlit",
     "language": "TypeScript",
     "name": "openlit/openlit",
-    "stars": 2604,
+    "stars": 2605,
     "updated_at": "2026-07-15T18:26:54Z",
     "url": "https://github.com/openlit/openlit"
   },
