@@ -1,5 +1,113 @@
 [
   {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-07-16T21:13:21Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-07-16T21:13:08Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u56fd\u5f00\u53d1\u8005\u3001\u8bc1\u636e\u53ef\u6838\u9a8c\u7684 AI Agent \u57fa\u7840\u8bbe\u65bd\u6ce8\u518c\u8868",
+    "id": "no7z/agent-infra-cn",
+    "language": "JavaScript",
+    "name": "no7z/agent-infra-cn",
+    "stars": 0,
+    "updated_at": "2026-07-16T21:08:36Z",
+    "url": "https://github.com/no7z/agent-infra-cn"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-16T21:08:22Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53802,
+    "updated_at": "2026-07-16T21:08:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn scattered AI traffic into unit economics you can act on \u2014 cost, usage, and reliability attributed by tenant, route,",
+    "id": "TensorBlock/heeler",
+    "language": "Python",
+    "name": "TensorBlock/heeler",
+    "stars": 2,
+    "updated_at": "2026-07-16T21:08:13Z",
+    "url": "https://github.com/TensorBlock/heeler"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-07-16T21:08:03Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-07-16T21:06:56Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-07-16T21:06:51Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 2,
+    "updated_at": "2026-07-16T21:06:09Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-07-16T21:02:02Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-16T21:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
     "id": "Tearfullnex/SpecGuard",
     "language": "Python",
@@ -16,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T20:59:47Z",
     "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-07-16T20:59:43Z",
-    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
@@ -45,15 +144,6 @@
     "url": "https://github.com/rozario-1234/end2end_sample"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53801,
-    "updated_at": "2026-07-16T20:58:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -68,7 +158,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 65,
-    "updated_at": "2026-07-16T20:58:42Z",
+    "updated_at": "2026-07-16T21:03:26Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -198,24 +288,6 @@
     "url": "https://github.com/SarthakB11/agentic-patterns"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-16T20:48:48Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-16T20:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
     "id": "Lukaa1507/langchain-runner",
     "language": "Python",
@@ -239,7 +311,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3368,
-    "updated_at": "2026-07-16T20:47:58Z",
+    "updated_at": "2026-07-16T21:05:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -275,7 +347,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 2,
-    "updated_at": "2026-07-16T20:31:49Z",
+    "updated_at": "2026-07-16T21:02:12Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -302,7 +374,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29254,
-    "updated_at": "2026-07-16T20:44:11Z",
+    "updated_at": "2026-07-16T21:02:03Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -369,15 +441,6 @@
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-16T20:02:13Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T20:01:44Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-16T20:00:41Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-07-16T20:00:13Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
-    "id": "boundflow/boundflow",
-    "language": "Python",
-    "name": "boundflow/boundflow",
-    "stars": 6,
-    "updated_at": "2026-07-16T19:58:01Z",
-    "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-07-16T19:57:42Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 9,
-    "updated_at": "2026-07-16T19:55:17Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "A governed, auditable workflow engine for agent-driven software changes.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-16T19:54:14Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-07-16T19:54:13Z",
-    "url": "https://github.com/tenemos/langwatch"
   }
 ]
