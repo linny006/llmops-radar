@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-16T17:44:57Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
     "id": "tenemos/langwatch",
     "language": "TypeScript",
@@ -36,6 +45,15 @@
     "url": "https://github.com/hamidettefagh/incident-to-eval"
   },
   {
+    "description": "A Claude skill that reviews an AI agent for production readiness across evaluation, cost, observability, guardrails, hum",
+    "id": "hamidettefagh/agent-production-readiness",
+    "language": "\u2014",
+    "name": "hamidettefagh/agent-production-readiness",
+    "stars": 0,
+    "updated_at": "2026-07-16T17:42:47Z",
+    "url": "https://github.com/hamidettefagh/agent-production-readiness"
+  },
+  {
     "description": "A Claude skill that decides whether to build an agent or a workflow, before you build it. The design-time gate, with a d",
     "id": "hamidettefagh/agent-or-workflow",
     "language": "JavaScript",
@@ -59,7 +77,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-16T17:44:05Z",
+    "updated_at": "2026-07-16T17:45:02Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 31282,
     "updated_at": "2026-07-16T17:43:25Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-16T17:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T16:50:11Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-07-16T16:50:06Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
