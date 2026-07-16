@@ -1,12 +1,93 @@
 [
   {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
+    "description": "Fine-tuning LLaMA-2, Mistral with LoRA, QLoRA, PEFT \u2014 40% cost reduction vs hosted APIs. VLLM serving with CUDA optimiza",
+    "id": "rehan243/LLM-Fine-Tuning-LoRA",
     "language": "Python",
-    "name": "recetariodmix/garak",
+    "name": "rehan243/LLM-Fine-Tuning-LoRA",
     "stars": 0,
-    "updated_at": "2026-07-16T15:24:15Z",
-    "url": "https://github.com/recetariodmix/garak"
+    "updated_at": "2026-07-16T15:40:55Z",
+    "url": "https://github.com/rehan243/LLM-Fine-Tuning-LoRA"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 13,
+    "updated_at": "2026-07-16T15:39:55Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-07-16T15:39:24Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 1,
+    "updated_at": "2026-07-16T15:39:24Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53784,
+    "updated_at": "2026-07-16T15:44:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-16T15:36:18Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A governed, auditable workflow engine for agent-driven software changes.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-07-16T15:35:41Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
+    "id": "redevops-io/context-runtime",
+    "language": "Python",
+    "name": "redevops-io/context-runtime",
+    "stars": 12,
+    "updated_at": "2026-07-16T15:34:49Z",
+    "url": "https://github.com/redevops-io/context-runtime"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-07-16T15:31:19Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-16T15:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,8 +95,26 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31276,
-    "updated_at": "2026-07-16T15:30:13Z",
+    "updated_at": "2026-07-16T15:44:41Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27061,
+    "updated_at": "2026-07-16T15:27:06Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-07-16T15:24:15Z",
+    "url": "https://github.com/recetariodmix/garak"
   },
   {
     "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
@@ -32,7 +131,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-16T15:22:56Z",
+    "updated_at": "2026-07-16T15:36:08Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -40,8 +139,8 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2515,
-    "updated_at": "2026-07-16T15:22:32Z",
+    "stars": 2516,
+    "updated_at": "2026-07-16T15:44:33Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -52,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-16T15:20:27Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 13,
-    "updated_at": "2026-07-16T15:19:24Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -86,17 +176,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20628,
-    "updated_at": "2026-07-16T15:30:15Z",
+    "updated_at": "2026-07-16T15:40:42Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-16T15:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -144,15 +225,6 @@
     "url": "https://github.com/TushirSahu/doc_drift_pipeline"
   },
   {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53783,
-    "updated_at": "2026-07-16T15:07:16Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-16T15:26:36Z",
+    "updated_at": "2026-07-16T15:32:56Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -284,7 +356,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10587,
-    "updated_at": "2026-07-16T15:21:51Z",
+    "updated_at": "2026-07-16T15:39:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -304,15 +376,6 @@
     "stars": 19,
     "updated_at": "2026-07-16T14:30:04Z",
     "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
-  },
-  {
-    "description": "A governed, auditable workflow engine for agent-driven software changes.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-07-16T15:30:05Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
@@ -351,21 +414,12 @@
     "url": "https://github.com/ops-ping/vector-rules"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-16T14:05:19Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4298,
-    "updated_at": "2026-07-16T15:23:58Z",
+    "updated_at": "2026-07-16T15:41:14Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 6560,
     "updated_at": "2026-07-16T14:59:54Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-16T13:43:53Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 0,
-    "updated_at": "2026-07-16T13:43:38Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-07-16T13:43:35Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 0,
-    "updated_at": "2026-07-16T13:43:26Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-07-16T13:38:11Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
-    "id": "redevops-io/redevops-rag",
-    "language": "Python",
-    "name": "redevops-io/redevops-rag",
-    "stars": 9,
-    "updated_at": "2026-07-16T14:50:34Z",
-    "url": "https://github.com/redevops-io/redevops-rag"
   }
 ]
