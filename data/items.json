@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "orq-ai/orq-arena",
     "stars": 0,
-    "updated_at": "2026-07-17T15:59:51Z",
+    "updated_at": "2026-07-17T16:13:45Z",
     "url": "https://github.com/orq-ai/orq-arena"
+  },
+  {
+    "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
+    "id": "becloudready/workshops",
+    "language": "HTML",
+    "name": "becloudready/workshops",
+    "stars": 1,
+    "updated_at": "2026-07-17T16:13:18Z",
+    "url": "https://github.com/becloudready/workshops"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 0,
+    "updated_at": "2026-07-17T16:12:38Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-17T16:11:32Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-07-17T16:12:34Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
+    "id": "jonathascordeiro20/bioma-framework",
+    "language": "Python",
+    "name": "jonathascordeiro20/bioma-framework",
+    "stars": 1,
+    "updated_at": "2026-07-17T16:09:41Z",
+    "url": "https://github.com/jonathascordeiro20/bioma-framework"
+  },
+  {
+    "description": "Enterprise AI Platform \u2014 build, deploy, monitor and govern AI applications at scale (RAG, Agents, MLOps, LLMOps, Governa",
+    "id": "HadirouTamdamba/enterprise-ai-platform",
+    "language": "Python",
+    "name": "HadirouTamdamba/enterprise-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-07-17T16:07:23Z",
+    "url": "https://github.com/HadirouTamdamba/enterprise-ai-platform"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31338,
+    "updated_at": "2026-07-17T16:03:21Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-17T16:11:30Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "A governed, auditable workflow engine for agent-driven software changes.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-17T16:01:02Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-17T16:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-07-17T15:59:30Z",
+    "updated_at": "2026-07-17T16:05:39Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -27,13 +117,13 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31337,
-    "updated_at": "2026-07-17T15:56:16Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53868,
+    "updated_at": "2026-07-17T16:10:20Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "RafineriaAI/aos-workflow-gate",
     "stars": 0,
-    "updated_at": "2026-07-17T15:53:00Z",
+    "updated_at": "2026-07-17T16:04:52Z",
     "url": "https://github.com/RafineriaAI/aos-workflow-gate"
   },
   {
@@ -50,17 +140,17 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 74,
-    "updated_at": "2026-07-17T15:52:34Z",
+    "updated_at": "2026-07-17T16:09:48Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
-    "id": "becloudready/workshops",
-    "language": "HTML",
-    "name": "becloudready/workshops",
-    "stars": 1,
-    "updated_at": "2026-07-17T15:51:06Z",
-    "url": "https://github.com/becloudready/workshops"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6580,
+    "updated_at": "2026-07-17T15:50:15Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -68,7 +158,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10599,
-    "updated_at": "2026-07-17T15:49:56Z",
+    "updated_at": "2026-07-17T16:05:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -81,15 +171,6 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-17T15:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -99,31 +180,13 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Enterprise AI Platform \u2014 build, deploy, monitor and govern AI applications at scale (RAG, Agents, MLOps, LLMOps, Governa",
-    "id": "HadirouTamdamba/enterprise-ai-platform",
-    "language": "Python",
-    "name": "HadirouTamdamba/enterprise-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:45:18Z",
-    "url": "https://github.com/HadirouTamdamba/enterprise-ai-platform"
-  },
-  {
     "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
     "id": "seaworld008/aiops-system",
     "language": "Go",
     "name": "seaworld008/aiops-system",
     "stars": 1,
-    "updated_at": "2026-07-17T15:52:56Z",
+    "updated_at": "2026-07-17T16:06:40Z",
     "url": "https://github.com/seaworld008/aiops-system"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-17T15:44:55Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
@@ -149,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3369,
-    "updated_at": "2026-07-17T15:57:32Z",
+    "updated_at": "2026-07-17T16:07:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20651,
-    "updated_at": "2026-07-17T15:54:19Z",
+    "updated_at": "2026-07-17T16:11:33Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -176,17 +239,8 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4298,
-    "updated_at": "2026-07-17T15:43:59Z",
+    "updated_at": "2026-07-17T16:10:38Z",
     "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53867,
-    "updated_at": "2026-07-17T15:55:35Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Evidence-driven multi-agent incident response lab with durable checkpoints, human approval, and reproducible evaluation.",
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "kingslayer-ops/multi-agent-incident-lab",
     "stars": 1,
-    "updated_at": "2026-07-17T15:23:31Z",
+    "updated_at": "2026-07-17T16:13:21Z",
     "url": "https://github.com/kingslayer-ops/multi-agent-incident-lab"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:13:46Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:12:13Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -315,15 +360,6 @@
     "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6579,
-    "updated_at": "2026-07-17T15:50:15Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -355,7 +391,7 @@
     "id": "w8123/EnterpriseAgentFramework",
     "language": "Java",
     "name": "w8123/EnterpriseAgentFramework",
-    "stars": 449,
+    "stars": 450,
     "updated_at": "2026-07-17T14:54:47Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
   },
@@ -376,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-07-17T14:47:52Z",
     "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-17T14:47:05Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-17T14:46:24Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine.",
-    "id": "Rodiun/frugon",
-    "language": "Python",
-    "name": "Rodiun/frugon",
-    "stars": 165,
-    "updated_at": "2026-07-17T14:45:59Z",
-    "url": "https://github.com/Rodiun/frugon"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-07-17T14:44:18Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-17T14:43:18Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   }
 ]
