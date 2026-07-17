@@ -1,11 +1,101 @@
 [
   {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:45:06Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
+    "id": "seaworld008/aiops-system",
+    "language": "Go",
+    "name": "seaworld008/aiops-system",
+    "stars": 1,
+    "updated_at": "2026-07-17T15:44:58Z",
+    "url": "https://github.com/seaworld008/aiops-system"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-17T15:44:55Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 74,
+    "updated_at": "2026-07-17T15:41:10Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Lightweight runtime protection for AI agents - stops loops, retry storms, and runaway spend before they reach the model ",
+    "id": "jes-jwjh/Bastion",
+    "language": "Python",
+    "name": "jes-jwjh/Bastion",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:40:26Z",
+    "url": "https://github.com/jes-jwjh/Bastion"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3369,
+    "updated_at": "2026-07-17T15:42:35Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
+    "id": "clearml/clearml",
+    "language": "Python",
+    "name": "clearml/clearml",
+    "stars": 6779,
+    "updated_at": "2026-07-17T15:39:18Z",
+    "url": "https://github.com/clearml/clearml"
+  },
+  {
+    "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
+    "id": "becloudready/workshops",
+    "language": "HTML",
+    "name": "becloudready/workshops",
+    "stars": 1,
+    "updated_at": "2026-07-17T15:34:04Z",
+    "url": "https://github.com/becloudready/workshops"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20650,
+    "updated_at": "2026-07-17T15:32:05Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-17T15:30:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-17T15:29:35Z",
+    "updated_at": "2026-07-17T15:44:26Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "HadirouTamdamba/enterprise-ai-platform",
     "stars": 0,
-    "updated_at": "2026-07-17T15:28:25Z",
+    "updated_at": "2026-07-17T15:45:18Z",
     "url": "https://github.com/HadirouTamdamba/enterprise-ai-platform"
   },
   {
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 74,
-    "updated_at": "2026-07-17T15:26:49Z",
+    "updated_at": "2026-07-17T15:38:53Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -36,39 +126,21 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3369,
-    "updated_at": "2026-07-17T15:29:57Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4298,
-    "updated_at": "2026-07-17T15:27:41Z",
+    "updated_at": "2026-07-17T15:43:59Z",
     "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-17T15:27:44Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 53863,
-    "updated_at": "2026-07-17T15:21:08Z",
+    "stars": 53867,
+    "updated_at": "2026-07-17T15:42:15Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:16:43Z",
     "url": "https://github.com/GetOptaris/optaris-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-17T15:15:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
@@ -171,15 +234,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20649,
-    "updated_at": "2026-07-17T15:23:46Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -196,15 +250,6 @@
     "stars": 26,
     "updated_at": "2026-07-17T15:07:30Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:03:48Z",
-    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -306,15 +351,6 @@
     "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
   },
   {
-    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
-    "id": "seaworld008/aiops-system",
-    "language": "Go",
-    "name": "seaworld008/aiops-system",
-    "stars": 1,
-    "updated_at": "2026-07-17T15:21:05Z",
-    "url": "https://github.com/seaworld008/aiops-system"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-17T14:38:11Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-17T14:38:09Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-07-17T14:37:30Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-07-17T14:36:02Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-07-17T14:35:13Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   }
 ]
