@@ -1,5 +1,95 @@
 [
   {
+    "description": "Evidence-driven multi-agent incident response with durable checkpoints, human approval, and reproducible evaluation.",
+    "id": "kingslayer-ops/opspilot",
+    "language": "Python",
+    "name": "kingslayer-ops/opspilot",
+    "stars": 0,
+    "updated_at": "2026-07-17T09:43:59Z",
+    "url": "https://github.com/kingslayer-ops/opspilot"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 15,
+    "updated_at": "2026-07-17T09:42:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31324,
+    "updated_at": "2026-07-17T09:44:13Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-17T09:40:09Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
+    "id": "seaworld008/aiops-system",
+    "language": "Go",
+    "name": "seaworld008/aiops-system",
+    "stars": 1,
+    "updated_at": "2026-07-17T09:37:33Z",
+    "url": "https://github.com/seaworld008/aiops-system"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1276,
+    "updated_at": "2026-07-17T09:43:32Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
+    "id": "evilstar2016/skill-doctor",
+    "language": "TypeScript",
+    "name": "evilstar2016/skill-doctor",
+    "stars": 0,
+    "updated_at": "2026-07-17T09:37:09Z",
+    "url": "https://github.com/evilstar2016/skill-doctor"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-07-17T09:31:30Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-17T09:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6574,
+    "updated_at": "2026-07-17T09:27:19Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-17T09:19:33Z",
+    "updated_at": "2026-07-17T09:43:27Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -63,24 +153,6 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6573,
-    "updated_at": "2026-07-17T09:27:19Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 15,
-    "updated_at": "2026-07-17T09:16:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -90,30 +162,12 @@
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-17T09:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31323,
-    "updated_at": "2026-07-17T09:25:44Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20644,
-    "updated_at": "2026-07-17T09:22:29Z",
+    "updated_at": "2026-07-17T09:42:24Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -360,15 +414,6 @@
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   },
   {
-    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
-    "id": "seaworld008/aiops-system",
-    "language": "Go",
-    "name": "seaworld008/aiops-system",
-    "stars": 1,
-    "updated_at": "2026-07-17T08:59:36Z",
-    "url": "https://github.com/seaworld008/aiops-system"
-  },
-  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T08:40:17Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-07-17T08:38:29Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-07-17T08:37:55Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-07-17T08:37:53Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-17T08:37:52Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-17T08:37:42Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   }
 ]
