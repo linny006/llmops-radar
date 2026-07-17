@@ -1,12 +1,75 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2429,
+    "updated_at": "2026-07-17T10:23:23Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-17T10:19:17Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53846,
+    "updated_at": "2026-07-17T10:19:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 1,
+    "updated_at": "2026-07-17T10:17:49Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Evidence-driven multi-agent incident response lab with durable checkpoints, human approval, and reproducible evaluation.",
+    "id": "kingslayer-ops/multi-agent-incident-lab",
+    "language": "Python",
+    "name": "kingslayer-ops/multi-agent-incident-lab",
+    "stars": 0,
+    "updated_at": "2026-07-17T10:18:36Z",
+    "url": "https://github.com/kingslayer-ops/multi-agent-incident-lab"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-17T10:16:47Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31323,
-    "updated_at": "2026-07-17T10:12:09Z",
+    "stars": 31324,
+    "updated_at": "2026-07-17T10:24:19Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-17T10:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T10:06:58Z",
     "url": "https://github.com/novafabric/novafabric"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2429,
-    "updated_at": "2026-07-17T10:04:00Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -45,21 +99,12 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-17T10:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1277,
-    "updated_at": "2026-07-17T10:13:39Z",
+    "updated_at": "2026-07-17T10:23:17Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 20645,
     "updated_at": "2026-07-17T10:04:47Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Evidence-driven multi-agent incident response with durable checkpoints, human approval, and reproducible evaluation.",
-    "id": "kingslayer-ops/opspilot",
-    "language": "Python",
-    "name": "kingslayer-ops/opspilot",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:43:59Z",
-    "url": "https://github.com/kingslayer-ops/opspilot"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -180,15 +216,6 @@
     "url": "https://github.com/santifer/cv-santiago"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-17T10:11:08Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -268,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T09:06:46Z",
     "url": "https://github.com/acornops/execution-engine"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 1,
-    "updated_at": "2026-07-17T09:06:46Z",
-    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-17T08:43:03Z",
     "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-07-17T08:42:14Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-17T08:42:06Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   }
 ]
