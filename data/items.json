@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 52,
+    "updated_at": "2026-07-17T02:14:17Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-17T02:12:32Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-17T02:10:26Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-17T02:09:42Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 3,
+    "updated_at": "2026-07-17T02:08:38Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27064,
+    "updated_at": "2026-07-17T02:09:54Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Turn scattered AI traffic into unit economics you can act on \u2014 cost, usage, and reliability attributed by tenant, route,",
+    "id": "TensorBlock/tokenDog",
+    "language": "Python",
+    "name": "TensorBlock/tokenDog",
+    "stars": 2,
+    "updated_at": "2026-07-17T02:07:14Z",
+    "url": "https://github.com/TensorBlock/tokenDog"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-17T02:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -41,17 +113,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53810,
-    "updated_at": "2026-07-17T01:54:46Z",
+    "updated_at": "2026-07-17T02:11:08Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 3,
-    "updated_at": "2026-07-17T01:53:36Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
@@ -103,7 +166,7 @@
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
-    "stars": 14,
+    "stars": 15,
     "updated_at": "2026-07-17T01:49:28Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-17T01:49:26Z",
+    "updated_at": "2026-07-17T02:02:34Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -131,17 +194,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-17T01:45:57Z",
+    "updated_at": "2026-07-17T02:09:23Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-17T01:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T01:42:40Z",
     "url": "https://github.com/acblabs/agent-assure"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-17T01:53:52Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 65,
-    "updated_at": "2026-07-17T01:45:02Z",
+    "updated_at": "2026-07-17T02:06:58Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -311,7 +356,7 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-07-17T01:07:07Z",
+    "updated_at": "2026-07-17T02:08:47Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Turn scattered AI traffic into unit economics you can act on \u2014 cost, usage, and reliability attributed by tenant, route,",
-    "id": "TensorBlock/tokenDog",
-    "language": "Python",
-    "name": "TensorBlock/tokenDog",
-    "stars": 2,
-    "updated_at": "2026-07-17T01:00:22Z",
-    "url": "https://github.com/TensorBlock/tokenDog"
-  },
-  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-17T00:53:24Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-07-17T00:52:00Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31294,
-    "updated_at": "2026-07-17T00:51:44Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Generative AI Engineering Portfolio \u2014 RAG, Memory, Agents, LangChain, LangGraph",
-    "id": "chandra-vv/genai_portfolio",
-    "language": "Python",
-    "name": "chandra-vv/genai_portfolio",
-    "stars": 2,
-    "updated_at": "2026-07-17T00:50:10Z",
-    "url": "https://github.com/chandra-vv/genai_portfolio"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-17T00:47:23Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
