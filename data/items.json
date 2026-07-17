@@ -1,12 +1,30 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-17T04:29:34Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27065,
-    "updated_at": "2026-07-17T04:14:02Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-07-17T04:17:25Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-07-17T04:28:01Z",
+    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 4,
-    "updated_at": "2026-07-17T04:12:26Z",
+    "updated_at": "2026-07-17T04:15:22Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27065,
+    "updated_at": "2026-07-17T04:29:19Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
@@ -23,7 +50,7 @@
     "language": "Go",
     "name": "seaworld008/aiops-system",
     "stars": 1,
-    "updated_at": "2026-07-17T04:11:29Z",
+    "updated_at": "2026-07-17T04:26:56Z",
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
@@ -36,13 +63,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
-    "id": "acblabs/agent-assure",
-    "language": "Python",
-    "name": "acblabs/agent-assure",
-    "stars": 0,
-    "updated_at": "2026-07-17T04:10:27Z",
-    "url": "https://github.com/acblabs/agent-assure"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23342,
+    "updated_at": "2026-07-17T04:07:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53820,
-    "updated_at": "2026-07-17T04:15:01Z",
+    "updated_at": "2026-07-17T04:28:56Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 7953,
-    "updated_at": "2026-07-17T03:52:13Z",
+    "updated_at": "2026-07-17T04:16:11Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T03:40:41Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-07-17T03:52:30Z",
-    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -360,15 +378,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-17T03:44:37Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T03:06:03Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-17T03:05:56Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   }
 ]
