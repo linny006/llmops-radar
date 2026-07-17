@@ -1,5 +1,59 @@
 [
   {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1277,
+    "updated_at": "2026-07-17T09:55:40Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Enterprise AI Platform \u2014 build, deploy, monitor and govern AI applications at scale (RAG, Agents, MLOps, LLMOps, Governa",
+    "id": "HadirouTamdamba/enterprise-ai-platform",
+    "language": "Python",
+    "name": "HadirouTamdamba/enterprise-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-07-17T09:53:39Z",
+    "url": "https://github.com/HadirouTamdamba/enterprise-ai-platform"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31326,
+    "updated_at": "2026-07-17T09:59:36Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-17T09:52:40Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2429,
+    "updated_at": "2026-07-17T09:49:23Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-17T09:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Evidence-driven multi-agent incident response with durable checkpoints, human approval, and reproducible evaluation.",
     "id": "kingslayer-ops/opspilot",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 15,
     "updated_at": "2026-07-17T09:42:28Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31324,
-    "updated_at": "2026-07-17T09:44:13Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -45,15 +90,6 @@
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1276,
-    "updated_at": "2026-07-17T09:43:32Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
     "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
     "id": "evilstar2016/skill-doctor",
     "language": "TypeScript",
@@ -72,15 +108,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-17T09:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -88,15 +115,6 @@
     "stars": 6574,
     "updated_at": "2026-07-17T09:27:19Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2429,
-    "updated_at": "2026-07-17T09:24:57Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
@@ -126,15 +144,6 @@
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   },
   {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-17T09:43:27Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex",
     "id": "santifer/cv-santiago",
     "language": "HTML",
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-17T09:17:52Z",
+    "updated_at": "2026-07-17T09:51:54Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20644,
-    "updated_at": "2026-07-17T09:42:24Z",
+    "updated_at": "2026-07-17T09:46:37Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -175,7 +184,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27073,
+    "stars": 27074,
     "updated_at": "2026-07-17T09:12:26Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -437,16 +446,7 @@
     "language": "TypeScript",
     "name": "dataelement/bisheng",
     "stars": 11531,
-    "updated_at": "2026-07-17T09:25:02Z",
+    "updated_at": "2026-07-17T09:49:04Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-17T08:40:17Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   }
 ]
