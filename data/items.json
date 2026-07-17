@@ -1,12 +1,48 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-17T18:43:54Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
     "id": "memoturn/memoturn",
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-07-17T18:37:36Z",
+    "updated_at": "2026-07-17T18:44:00Z",
     "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 15,
+    "updated_at": "2026-07-17T18:42:27Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
+    "id": "becloudready/workshops",
+    "language": "HTML",
+    "name": "becloudready/workshops",
+    "stars": 1,
+    "updated_at": "2026-07-17T18:41:26Z",
+    "url": "https://github.com/becloudready/workshops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-17T18:39:58Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A governed, auditable workflow engine for agent-driven software changes.",
@@ -16,15 +52,6 @@
     "stars": 5,
     "updated_at": "2026-07-17T18:37:04Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
-    "id": "becloudready/workshops",
-    "language": "HTML",
-    "name": "becloudready/workshops",
-    "stars": 1,
-    "updated_at": "2026-07-17T18:36:50Z",
-    "url": "https://github.com/becloudready/workshops"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -81,21 +108,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-17T18:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53872,
-    "updated_at": "2026-07-17T18:38:47Z",
+    "updated_at": "2026-07-17T18:44:42Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6583,
-    "updated_at": "2026-07-17T18:25:56Z",
+    "updated_at": "2026-07-17T18:44:42Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3369,
-    "updated_at": "2026-07-17T18:22:23Z",
+    "updated_at": "2026-07-17T18:45:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -205,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T18:14:59Z",
     "url": "https://github.com/wcalmels/meir-alpha-adaptive"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 15,
-    "updated_at": "2026-07-17T18:12:00Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T17:51:27Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-17T17:50:32Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
