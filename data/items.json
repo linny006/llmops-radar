@@ -1,11 +1,101 @@
 [
   {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-07-17T17:44:35Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-07-17T17:44:21Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
+  },
+  {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-07-17T17:41:12Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-07-17T17:40:56Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-07-17T17:42:16Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53870,
+    "updated_at": "2026-07-17T17:41:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
+    "id": "JumpMasters/tollgate",
+    "language": "Python",
+    "name": "JumpMasters/tollgate",
+    "stars": 0,
+    "updated_at": "2026-07-17T17:34:11Z",
+    "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-07-17T17:34:04Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 2,
+    "updated_at": "2026-07-17T17:33:25Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
+    "id": "seaworld008/aiops-system",
+    "language": "Go",
+    "name": "seaworld008/aiops-system",
+    "stars": 1,
+    "updated_at": "2026-07-17T17:32:57Z",
+    "url": "https://github.com/seaworld008/aiops-system"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 4,
-    "updated_at": "2026-07-17T17:30:24Z",
+    "updated_at": "2026-07-17T17:32:39Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -61,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-17T17:25:12Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53869,
-    "updated_at": "2026-07-17T17:31:40Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
@@ -176,8 +257,17 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-17T17:16:04Z",
+    "updated_at": "2026-07-17T17:36:01Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23363,
+    "updated_at": "2026-07-17T17:15:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
@@ -252,24 +342,6 @@
     "url": "https://github.com/jes-jwjh/Bastion"
   },
   {
-    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
-    "id": "seaworld008/aiops-system",
-    "language": "Go",
-    "name": "seaworld008/aiops-system",
-    "stars": 1,
-    "updated_at": "2026-07-17T17:26:34Z",
-    "url": "https://github.com/seaworld008/aiops-system"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23362,
-    "updated_at": "2026-07-17T17:15:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -338,7 +410,7 @@
     "language": "Python",
     "name": "HadirouTamdamba/enterprise-ai-platform",
     "stars": 0,
-    "updated_at": "2026-07-17T16:44:44Z",
+    "updated_at": "2026-07-17T17:35:51Z",
     "url": "https://github.com/HadirouTamdamba/enterprise-ai-platform"
   },
   {
@@ -365,7 +437,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10600,
-    "updated_at": "2026-07-17T17:30:48Z",
+    "updated_at": "2026-07-17T17:43:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 31341,
     "updated_at": "2026-07-17T16:35:26Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-07-17T16:33:52Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 6,
-    "updated_at": "2026-07-17T16:32:49Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20653,
-    "updated_at": "2026-07-17T16:59:11Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-07-17T16:29:51Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3369,
-    "updated_at": "2026-07-17T17:30:16Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
-    "id": "voly-codes/voly",
-    "language": "Python",
-    "name": "voly-codes/voly",
-    "stars": 9,
-    "updated_at": "2026-07-17T16:25:46Z",
-    "url": "https://github.com/voly-codes/voly"
-  },
-  {
-    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
-    "id": "RafineriaAI/aos-workflow-gate",
-    "language": "Python",
-    "name": "RafineriaAI/aos-workflow-gate",
-    "stars": 0,
-    "updated_at": "2026-07-17T17:21:57Z",
-    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-07-17T16:24:24Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
   }
 ]
