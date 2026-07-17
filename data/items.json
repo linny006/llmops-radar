@@ -1,5 +1,77 @@
 [
   {
+    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
+    "id": "SemeAIPletinnya/semeai-gate-basic",
+    "language": "Python",
+    "name": "SemeAIPletinnya/semeai-gate-basic",
+    "stars": 1,
+    "updated_at": "2026-07-17T08:33:57Z",
+    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
+  },
+  {
+    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
+    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "language": "Python",
+    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "stars": 3,
+    "updated_at": "2026-07-17T08:32:37Z",
+    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
+  },
+  {
+    "description": "An automated LLMOps pipeline that detects semantic drift in technical documentation using synthetic data generation, Qdr",
+    "id": "TushirSahu/doc_drift_pipeline",
+    "language": "Python",
+    "name": "TushirSahu/doc_drift_pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-17T08:32:18Z",
+    "url": "https://github.com/TushirSahu/doc_drift_pipeline"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31319,
+    "updated_at": "2026-07-17T08:32:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 15,
+    "updated_at": "2026-07-17T08:30:49Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-07-17T08:30:45Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-07-17T08:30:45Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-17T08:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
     "id": "FawwazAzka/openclaw-docs",
     "language": "JavaScript",
@@ -14,7 +86,7 @@
     "language": "Go",
     "name": "seaworld008/aiops-system",
     "stars": 1,
-    "updated_at": "2026-07-17T08:27:27Z",
+    "updated_at": "2026-07-17T08:32:23Z",
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
@@ -126,15 +198,6 @@
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-17T08:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
     "id": "Tearfullnex/SpecGuard",
     "language": "Python",
@@ -207,15 +270,6 @@
     "url": "https://github.com/KewalPra/agent-sdk"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31317,
-    "updated_at": "2026-07-17T08:25:55Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -241,15 +295,6 @@
     "stars": 5613,
     "updated_at": "2026-07-17T08:06:31Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 15,
-    "updated_at": "2026-07-17T08:06:24Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -400,53 +445,8 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27069,
+    "stars": 27071,
     "updated_at": "2026-07-17T07:44:18Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-07-17T07:42:26Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-17T08:24:50Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-07-17T07:41:39Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4298,
-    "updated_at": "2026-07-17T07:42:45Z",
-    "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 74,
-    "updated_at": "2026-07-17T07:53:28Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   }
 ]
