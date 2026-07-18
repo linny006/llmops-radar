@@ -1,5 +1,185 @@
 [
   {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-07-18T06:44:29Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-18T06:42:25Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 15,
+    "updated_at": "2026-07-18T06:41:58Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Reference architecture for a governed, AI-native GTM engineering platform: the control-plane contract (intelligence, tar",
+    "id": "kkrlstrm/ai-native-gtm-architecture",
+    "language": "\u2014",
+    "name": "kkrlstrm/ai-native-gtm-architecture",
+    "stars": 0,
+    "updated_at": "2026-07-18T06:41:43Z",
+    "url": "https://github.com/kkrlstrm/ai-native-gtm-architecture"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-18T06:41:35Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 74,
+    "updated_at": "2026-07-18T06:41:10Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Keep tenant routing out of the model: generated, provenance-stamped tenant bindings + structurally-scoped capabilities f",
+    "id": "kkrlstrm/agent-tenancy",
+    "language": "Python",
+    "name": "kkrlstrm/agent-tenancy",
+    "stars": 1,
+    "updated_at": "2026-07-18T06:40:04Z",
+    "url": "https://github.com/kkrlstrm/agent-tenancy"
+  },
+  {
+    "description": "The deterministic write gate for agent-managed knowledge graphs. Let LLMs propose graph updates; only validated, version",
+    "id": "kkrlstrm/knowledge-graph-governance",
+    "language": "Python",
+    "name": "kkrlstrm/knowledge-graph-governance",
+    "stars": 1,
+    "updated_at": "2026-07-18T06:40:03Z",
+    "url": "https://github.com/kkrlstrm/knowledge-graph-governance"
+  },
+  {
+    "description": "A circuit breaker for cheap-model delegation: an eval-backed allowlist that lets agents use non-frontier models only whe",
+    "id": "kkrlstrm/model-eval-gate",
+    "language": "TypeScript",
+    "name": "kkrlstrm/model-eval-gate",
+    "stars": 1,
+    "updated_at": "2026-07-18T06:40:02Z",
+    "url": "https://github.com/kkrlstrm/model-eval-gate"
+  },
+  {
+    "description": "Recoverability-first runtime controls for the OpenAI Codex CLI: learn from real tool-call telemetry, nudge repeated mist",
+    "id": "kkrlstrm/codex-guard",
+    "language": "Python",
+    "name": "kkrlstrm/codex-guard",
+    "stars": 1,
+    "updated_at": "2026-07-18T06:40:00Z",
+    "url": "https://github.com/kkrlstrm/codex-guard"
+  },
+  {
+    "description": "Runtime controls for Claude Code derived from real tool-call telemetry. Pair with cc-logger to observe failures, promote",
+    "id": "kkrlstrm/agent-guard",
+    "language": "Python",
+    "name": "kkrlstrm/agent-guard",
+    "stars": 2,
+    "updated_at": "2026-07-18T06:39:59Z",
+    "url": "https://github.com/kkrlstrm/agent-guard"
+  },
+  {
+    "description": "Telemetry for the OpenAI Codex CLI, read from ~/.codex/sessions rollout files. The Codex sibling of cc-logger.",
+    "id": "kkrlstrm/codex-logger",
+    "language": "Python",
+    "name": "kkrlstrm/codex-logger",
+    "stars": 1,
+    "updated_at": "2026-07-18T06:39:57Z",
+    "url": "https://github.com/kkrlstrm/codex-logger"
+  },
+  {
+    "description": "Local observability for Claude Code. Captures sessions, sub-agents, and tool calls to Postgres via HTTP hooks.",
+    "id": "kkrlstrm/cc-logger",
+    "language": "Python",
+    "name": "kkrlstrm/cc-logger",
+    "stars": 10,
+    "updated_at": "2026-07-18T06:39:56Z",
+    "url": "https://github.com/kkrlstrm/cc-logger"
+  },
+  {
+    "description": "An agent-native GTM pipeline runtime that turns a plain-English campaign brief into a qualified, enriched, deduped, sequ",
+    "id": "kkrlstrm/gtm-pipeline",
+    "language": "Python",
+    "name": "kkrlstrm/gtm-pipeline",
+    "stars": 9,
+    "updated_at": "2026-07-18T06:39:53Z",
+    "url": "https://github.com/kkrlstrm/gtm-pipeline"
+  },
+  {
+    "description": "Cost-optimized, source-verified web-research engine for GTM enrichment \u2014 a free-first cost waterfall with a shared cache",
+    "id": "kkrlstrm/gtm-research",
+    "language": "Python",
+    "name": "kkrlstrm/gtm-research",
+    "stars": 6,
+    "updated_at": "2026-07-18T06:39:51Z",
+    "url": "https://github.com/kkrlstrm/gtm-research"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-18T06:35:47Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 3,
+    "updated_at": "2026-07-18T06:32:49Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2431,
+    "updated_at": "2026-07-18T06:31:45Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Multi-agent LLM pipeline: orchestrator + sub-agents, fail-fast validation gates, evals, cost telemetry, and MCP-style to",
+    "id": "bobbyleeresume/multi-agent-content-ops",
+    "language": "Python",
+    "name": "bobbyleeresume/multi-agent-content-ops",
+    "stars": 0,
+    "updated_at": "2026-07-18T06:30:52Z",
+    "url": "https://github.com/bobbyleeresume/multi-agent-content-ops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-18T06:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -16,33 +196,6 @@
     "stars": 26,
     "updated_at": "2026-07-18T06:28:26Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-18T06:26:17Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 15,
-    "updated_at": "2026-07-18T06:30:21Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 74,
-    "updated_at": "2026-07-18T06:22:16Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -63,15 +216,6 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-18T06:19:44Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -86,7 +230,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 7962,
-    "updated_at": "2026-07-18T06:17:14Z",
+    "updated_at": "2026-07-18T06:39:33Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -103,7 +247,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 53898,
+    "stars": 53900,
     "updated_at": "2026-07-18T06:16:01Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -171,20 +315,11 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:59:14Z",
-    "url": "https://github.com/memoturn/memoturn"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6589,
+    "stars": 6590,
     "updated_at": "2026-07-18T05:54:19Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -223,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-18T05:43:45Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2431,
-    "updated_at": "2026-07-18T05:43:34Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-18T05:25:56Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:23:57Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:23:13Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-07-18T05:22:55Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:22:51Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-07-18T05:22:21Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-07-18T05:20:56Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10606,
-    "updated_at": "2026-07-18T05:56:56Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-18T05:18:05Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-18T05:16:25Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:14:56Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-07-18T05:14:50Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:14:17Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-07-18T05:12:51Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:12:10Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   }
 ]
