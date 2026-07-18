@@ -1,11 +1,29 @@
 [
   {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-07-18T14:29:15Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
+    "id": "RafineriaAI/aos-workflow-gate",
+    "language": "Python",
+    "name": "RafineriaAI/aos-workflow-gate",
+    "stars": 0,
+    "updated_at": "2026-07-18T14:28:19Z",
+    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2431,
-    "updated_at": "2026-07-18T14:15:11Z",
+    "updated_at": "2026-07-18T14:26:17Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -14,8 +32,17 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-18T14:13:00Z",
+    "updated_at": "2026-07-18T14:20:33Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-18T14:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -23,7 +50,7 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-07-18T14:12:32Z",
+    "updated_at": "2026-07-18T14:28:52Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -58,7 +85,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 53936,
+    "stars": 53937,
     "updated_at": "2026-07-18T14:09:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -99,15 +126,6 @@
     "url": "https://github.com/runcycles/cycles-protocol"
   },
   {
-    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
-    "id": "RafineriaAI/aos-workflow-gate",
-    "language": "Python",
-    "name": "RafineriaAI/aos-workflow-gate",
-    "stars": 0,
-    "updated_at": "2026-07-18T14:02:04Z",
-    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
-  },
-  {
     "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
     "id": "sumitdevgupto/TokenLean",
     "language": "Python",
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T14:00:23Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-18T14:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
@@ -284,7 +293,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-18T13:37:32Z",
+    "updated_at": "2026-07-18T14:19:31Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -427,7 +436,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31370,
+    "stars": 31371,
     "updated_at": "2026-07-18T13:22:11Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T13:20:47Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-07-18T13:20:42Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   }
 ]
