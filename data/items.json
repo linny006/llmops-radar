@@ -1,5 +1,113 @@
 [
   {
+    "description": "pytest for LLM extraction: golden-fixture regression testing that catches silent drift in model, prompt, schema, or sour",
+    "id": "mykolapodpriatov/extract-regress",
+    "language": "Python",
+    "name": "mykolapodpriatov/extract-regress",
+    "stars": 0,
+    "updated_at": "2026-07-18T07:28:00Z",
+    "url": "https://github.com/mykolapodpriatov/extract-regress"
+  },
+  {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-07-18T07:27:11Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
+    "id": "mykolapodpriatov/agentbisect",
+    "language": "Python",
+    "name": "mykolapodpriatov/agentbisect",
+    "stars": 0,
+    "updated_at": "2026-07-18T07:26:44Z",
+    "url": "https://github.com/mykolapodpriatov/agentbisect"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-07-18T07:26:43Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-18T07:24:57Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "OpenAI-compatible proxy daemon that races multiple LLM providers per request and cancels the losers to cut tail latency.",
+    "id": "mykolapodpriatov/hedge-llm",
+    "language": "Go",
+    "name": "mykolapodpriatov/hedge-llm",
+    "stars": 0,
+    "updated_at": "2026-07-18T07:23:22Z",
+    "url": "https://github.com/mykolapodpriatov/hedge-llm"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 0,
+    "updated_at": "2026-07-18T07:22:12Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-07-18T07:20:16Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1278,
+    "updated_at": "2026-07-18T07:19:46Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 2,
+    "updated_at": "2026-07-18T07:19:40Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-07-18T07:15:32Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-18T07:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
     "id": "Tearfullnex/SpecGuard",
     "language": "Python",
@@ -27,15 +135,6 @@
     "url": "https://github.com/rozario-1234/end2end_sample"
   },
   {
-    "description": "OpenAI-compatible proxy daemon that races multiple LLM providers per request and cancels the losers to cut tail latency.",
-    "id": "mykolapodpriatov/hedge-llm",
-    "language": "Go",
-    "name": "mykolapodpriatov/hedge-llm",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:11:41Z",
-    "url": "https://github.com/mykolapodpriatov/hedge-llm"
-  },
-  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -43,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-18T07:11:37Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "pytest for LLM extraction: golden-fixture regression testing that catches silent drift in model, prompt, schema, or sour",
-    "id": "mykolapodpriatov/extract-regress",
-    "language": "Python",
-    "name": "mykolapodpriatov/extract-regress",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:11:24Z",
-    "url": "https://github.com/mykolapodpriatov/extract-regress"
-  },
-  {
-    "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
-    "id": "mykolapodpriatov/agentbisect",
-    "language": "Python",
-    "name": "mykolapodpriatov/agentbisect",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:11:21Z",
-    "url": "https://github.com/mykolapodpriatov/agentbisect"
   },
   {
     "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
@@ -144,15 +225,6 @@
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-18T07:04:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
     "id": "bharion1/analytics-dashboard",
     "language": "\u2014",
@@ -178,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-18T07:00:46Z",
     "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-18T07:00:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
@@ -221,7 +284,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 74,
-    "updated_at": "2026-07-18T07:06:47Z",
+    "updated_at": "2026-07-18T07:22:24Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -230,7 +293,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-18T07:14:39Z",
+    "updated_at": "2026-07-18T07:30:03Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 26,
     "updated_at": "2026-07-18T06:28:26Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-07-18T06:22:12Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 6,
-    "updated_at": "2026-07-18T06:21:35Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-07-18T06:18:42Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 7962,
-    "updated_at": "2026-07-18T06:39:33Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 0,
-    "updated_at": "2026-07-18T06:17:06Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53902,
-    "updated_at": "2026-07-18T06:16:01Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
-    "id": "seaworld008/aiops-system",
-    "language": "Go",
-    "name": "seaworld008/aiops-system",
-    "stars": 1,
-    "updated_at": "2026-07-18T07:10:38Z",
-    "url": "https://github.com/seaworld008/aiops-system"
   }
 ]
