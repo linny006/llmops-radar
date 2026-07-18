@@ -1,5 +1,32 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2431,
+    "updated_at": "2026-07-18T09:14:06Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "An agentic assistant over 10M+ U.S. vehicle-defect records \u2014 recalls, complaints, investigations, SGO AV crashes, and TS",
+    "id": "ghoshp83/nhtsa_defect_intel",
+    "language": "Python",
+    "name": "ghoshp83/nhtsa_defect_intel",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:07:33Z",
+    "url": "https://github.com/ghoshp83/nhtsa_defect_intel"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-18T09:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -14,7 +41,7 @@
     "language": "Go",
     "name": "seaworld008/aiops-system",
     "stars": 1,
-    "updated_at": "2026-07-18T08:56:55Z",
+    "updated_at": "2026-07-18T09:12:27Z",
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 167,
     "updated_at": "2026-07-18T08:50:37Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-18T08:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
@@ -115,6 +133,15 @@
     "stars": 2,
     "updated_at": "2026-07-18T08:28:21Z",
     "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10611,
+    "updated_at": "2026-07-18T08:26:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Build LLM systems you actually control. A free, open engineering book + course \u2014 from tokenization to serving your own m",
@@ -223,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-18T08:03:13Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10609,
-    "updated_at": "2026-07-18T08:26:55Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -414,15 +432,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2431,
-    "updated_at": "2026-07-18T08:45:49Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
     "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T07:37:49Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-18T07:37:19Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
