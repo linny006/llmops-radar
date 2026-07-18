@@ -1,11 +1,83 @@
 [
   {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-07-18T08:28:21Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "Build LLM systems you actually control. A free, open engineering book + course \u2014 from tokenization to serving your own m",
+    "id": "Drobiazkin/ai-agent-architecture",
+    "language": "HTML",
+    "name": "Drobiazkin/ai-agent-architecture",
+    "stars": 9,
+    "updated_at": "2026-07-18T08:20:48Z",
+    "url": "https://github.com/Drobiazkin/ai-agent-architecture"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-18T08:19:51Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
+    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "language": "\u2014",
+    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:19:18Z",
+    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
+  },
+  {
+    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
+    "id": "Soilbuilding-libraryroutine78/Gozar",
+    "language": "Python",
+    "name": "Soilbuilding-libraryroutine78/Gozar",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:19:15Z",
+    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
+  },
+  {
+    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
+    "id": "wordmiddling872/AI_Email_Generator",
+    "language": "Python",
+    "name": "wordmiddling872/AI_Email_Generator",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:18:59Z",
+    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-18T08:17:30Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-18T08:17:00Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-18T08:16:22Z",
+    "updated_at": "2026-07-18T08:18:38Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -14,17 +86,8 @@
     "language": "Go",
     "name": "seaworld008/aiops-system",
     "stars": 1,
-    "updated_at": "2026-07-18T08:15:49Z",
+    "updated_at": "2026-07-18T08:24:56Z",
     "url": "https://github.com/seaworld008/aiops-system"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-18T08:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -90,21 +153,12 @@
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "openloop-team/openloop",
-    "language": "Python",
-    "name": "openloop-team/openloop",
-    "stars": 2,
-    "updated_at": "2026-07-18T08:03:02Z",
-    "url": "https://github.com/openloop-team/openloop"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10609,
-    "updated_at": "2026-07-18T08:02:48Z",
+    "updated_at": "2026-07-18T08:26:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -124,6 +178,15 @@
     "stars": 1,
     "updated_at": "2026-07-18T08:01:28Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1279,
+    "updated_at": "2026-07-18T08:00:34Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-18T07:35:03Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-07-18T07:32:02Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:30:14Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:30:09Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "pytest for LLM extraction: golden-fixture regression testing that catches silent drift in model, prompt, schema, or sour",
-    "id": "mykolapodpriatov/extract-regress",
-    "language": "Python",
-    "name": "mykolapodpriatov/extract-regress",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:28:00Z",
-    "url": "https://github.com/mykolapodpriatov/extract-regress"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:27:11Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
-    "id": "mykolapodpriatov/agentbisect",
-    "language": "Python",
-    "name": "mykolapodpriatov/agentbisect",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:26:44Z",
-    "url": "https://github.com/mykolapodpriatov/agentbisect"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-07-18T07:26:43Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
