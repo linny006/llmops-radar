@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10621,
+    "updated_at": "2026-07-19T16:29:13Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
+    "id": "Tourinhan/Fund-of-Brian",
+    "language": "\u2014",
+    "name": "Tourinhan/Fund-of-Brian",
+    "stars": 0,
+    "updated_at": "2026-07-19T16:24:32Z",
+    "url": "https://github.com/Tourinhan/Fund-of-Brian"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2436,
+    "updated_at": "2026-07-19T16:24:28Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-19T16:23:38Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-19T16:18:04Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T16:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
     "id": "voly-codes/voly",
     "language": "Python",
@@ -18,15 +72,6 @@
     "url": "https://github.com/fluiq-AI/fluiq-sdk"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-19T16:06:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
@@ -40,18 +85,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54010,
+    "stars": 54011,
     "updated_at": "2026-07-19T16:01:15Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T16:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A foundation-first roadmap for becoming an AI Engineer",
@@ -97,15 +133,6 @@
     "stars": 74,
     "updated_at": "2026-07-19T16:12:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-19T15:59:34Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "A governed, auditable workflow engine for agent-driven software changes.",
@@ -207,6 +234,15 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
+    "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
+    "id": "intentee/paddler",
+    "language": "Rust",
+    "name": "intentee/paddler",
+    "stars": 1642,
+    "updated_at": "2026-07-19T15:19:50Z",
+    "url": "https://github.com/intentee/paddler"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -259,15 +295,6 @@
     "stars": 31418,
     "updated_at": "2026-07-19T15:00:03Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2435,
-    "updated_at": "2026-07-19T14:57:41Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
@@ -421,32 +448,5 @@
     "stars": 11,
     "updated_at": "2026-07-19T13:31:13Z",
     "url": "https://github.com/marcusschiesser/agentpond"
-  },
-  {
-    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
-    "id": "dr-gareth-roberts/insideLLMs",
-    "language": "Python",
-    "name": "dr-gareth-roberts/insideLLMs",
-    "stars": 2,
-    "updated_at": "2026-07-19T13:29:28Z",
-    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
-  },
-  {
-    "description": "End-to-end Zensical documentation for Edge Computing LLM on Ubuntu, k3s, NVIDIA GPUs, Ollama, and open observability.",
-    "id": "Edge-Computing-LLM/Edge-Computing-LLM-Documentation",
-    "language": "\u2014",
-    "name": "Edge-Computing-LLM/Edge-Computing-LLM-Documentation",
-    "stars": 0,
-    "updated_at": "2026-07-19T13:21:26Z",
-    "url": "https://github.com/Edge-Computing-LLM/Edge-Computing-LLM-Documentation"
-  },
-  {
-    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
-    "id": "bytebeast/check-endpoint",
-    "language": "Python",
-    "name": "bytebeast/check-endpoint",
-    "stars": 6,
-    "updated_at": "2026-07-19T13:17:50Z",
-    "url": "https://github.com/bytebeast/check-endpoint"
   }
 ]
