@@ -1,12 +1,102 @@
 [
   {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 65,
+    "updated_at": "2026-07-19T17:11:37Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode li",
+    "id": "apache/hamilton",
+    "language": "Jupyter Notebook",
+    "name": "apache/hamilton",
+    "stars": 2552,
+    "updated_at": "2026-07-19T17:09:07Z",
+    "url": "https://github.com/apache/hamilton"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10622,
+    "updated_at": "2026-07-19T17:09:31Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54014,
+    "updated_at": "2026-07-19T17:06:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
     "id": "cubxxw/blog",
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 26,
-    "updated_at": "2026-07-19T16:59:13Z",
+    "updated_at": "2026-07-19T17:06:07Z",
     "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-19T17:03:33Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-19T17:03:25Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 142,
+    "updated_at": "2026-07-19T17:02:39Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
+    "id": "runcycles/cycles-server-admin",
+    "language": "Java",
+    "name": "runcycles/cycles-server-admin",
+    "stars": 1,
+    "updated_at": "2026-07-19T17:02:32Z",
+    "url": "https://github.com/runcycles/cycles-server-admin"
+  },
+  {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-07-19T17:02:13Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T17:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -32,44 +122,8 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-19T16:58:37Z",
+    "updated_at": "2026-07-19T17:14:27Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10622,
-    "updated_at": "2026-07-19T16:56:14Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-19T16:56:10Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-19T16:54:20Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode li",
-    "id": "apache/hamilton",
-    "language": "Jupyter Notebook",
-    "name": "apache/hamilton",
-    "stars": 2551,
-    "updated_at": "2026-07-19T16:51:15Z",
-    "url": "https://github.com/apache/hamilton"
   },
   {
     "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T16:46:23Z",
     "url": "https://github.com/Tourinhan/Fund-of-Brian"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T16:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build self-evolving AI agent harnesses with portable harness units, artifact-aware testing, trace-backed diagnosis, and ",
@@ -169,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T16:09:21Z",
     "url": "https://github.com/fluiq-AI/fluiq-sdk"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54011,
-    "updated_at": "2026-07-19T16:01:15Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A foundation-first roadmap for becoming an AI Engineer",
@@ -252,21 +288,12 @@
     "url": "https://github.com/jonathascordeiro20/bioma-framework"
   },
   {
-    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-client-rust",
-    "language": "Rust",
-    "name": "runcycles/cycles-client-rust",
-    "stars": 1,
-    "updated_at": "2026-07-19T15:36:15Z",
-    "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3393,
-    "updated_at": "2026-07-19T16:36:49Z",
+    "updated_at": "2026-07-19T17:13:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-19T16:55:56Z",
+    "updated_at": "2026-07-19T17:10:56Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -378,24 +405,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
-    "id": "runcycles/cycles-server-admin",
-    "language": "Java",
-    "name": "runcycles/cycles-server-admin",
-    "stars": 1,
-    "updated_at": "2026-07-19T14:54:23Z",
-    "url": "https://github.com/runcycles/cycles-server-admin"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 142,
-    "updated_at": "2026-07-19T14:54:01Z",
-    "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
     "description": "The open-source control plane for shared AI agents",
     "id": "openloop-team/openloop",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-19T13:59:13Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
-    "id": "runcycles/cycles-openai-agents",
-    "language": "Python",
-    "name": "runcycles/cycles-openai-agents",
-    "stars": 0,
-    "updated_at": "2026-07-19T13:52:50Z",
-    "url": "https://github.com/runcycles/cycles-openai-agents"
   }
 ]
