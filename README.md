@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 13:00 UTC
+> ⏰ Last updated: 2026-07-19 13:09 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5657 | Python | 2026-07-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 2 | [routeplane-core/routeplane-ce](https://github.com/routeplane-core/routeplane-ce) | 4 | Rust | 2026-07-19 | Routeplane Community Edition — a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0. |
-| 3 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 0 | Go | 2026-07-19 | Temporal workers and clients for wrapping access to different LLMs |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20689 | Python | 2026-07-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 6 | [sumitdevgupto/TokenLean](https://github.com/sumitdevgupto/TokenLean) | 0 | Python | 2026-07-19 | Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching, |
-| 7 | [Rodiun/frugon](https://github.com/Rodiun/frugon) | 179 | Python | 2026-07-19 | Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine. |
-| 8 | [taishan666/MaxKB4j](https://github.com/taishan666/MaxKB4j) | 110 | Java | 2026-07-19 | MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th |
-| 9 | [kimbeomgyu/budget-guard](https://github.com/kimbeomgyu/budget-guard) | 0 | TypeScript | 2026-07-19 | A circuit breaker for your LLM API bill — hard budget caps + per-feature cost attribution for OpenAI & Anthropic. |
-| 10 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-19 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 11 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 53994 | Python | 2026-07-19 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 12 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-07-19 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 13 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-07-19 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
-| 14 | [voly-codes/voly](https://github.com/voly-codes/voly) | 9 | Python | 2026-07-19 | Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and  |
-| 15 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-19 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 16 | [openloop-team/openloop](https://github.com/openloop-team/openloop) | 2 | Python | 2026-07-19 | The open-source control plane for shared AI agents |
-| 17 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-07-19 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-07-19 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 2 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 0 | Go | 2026-07-19 | Temporal workers and clients for wrapping access to different LLMs |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5657 | Python | 2026-07-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 5 | [routeplane-core/routeplane-ce](https://github.com/routeplane-core/routeplane-ce) | 4 | Rust | 2026-07-19 | Routeplane Community Edition — a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0. |
+| 6 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20689 | Python | 2026-07-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 7 | [sumitdevgupto/TokenLean](https://github.com/sumitdevgupto/TokenLean) | 0 | Python | 2026-07-19 | Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching, |
+| 8 | [Rodiun/frugon](https://github.com/Rodiun/frugon) | 179 | Python | 2026-07-19 | Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine. |
+| 9 | [taishan666/MaxKB4j](https://github.com/taishan666/MaxKB4j) | 110 | Java | 2026-07-19 | MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th |
+| 10 | [kimbeomgyu/budget-guard](https://github.com/kimbeomgyu/budget-guard) | 0 | TypeScript | 2026-07-19 | A circuit breaker for your LLM API bill — hard budget caps + per-feature cost attribution for OpenAI & Anthropic. |
+| 11 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-19 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 12 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 53994 | Python | 2026-07-19 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 13 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-07-19 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 14 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-07-19 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
+| 15 | [voly-codes/voly](https://github.com/voly-codes/voly) | 9 | Python | 2026-07-19 | Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and  |
+| 16 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-19 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 17 | [openloop-team/openloop](https://github.com/openloop-team/openloop) | 2 | Python | 2026-07-19 | The open-source control plane for shared AI agents |
 | 18 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 16 | Go | 2026-07-19 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
 | 19 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-07-19 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
 | 20 | [runcycles/cycles-openclaw-budget-guard](https://github.com/runcycles/cycles-openclaw-budget-guard) | 7 | TypeScript | 2026-07-19 | Cycles budget and action guard for OpenClaw agents |
