@@ -1,5 +1,32 @@
 [
   {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-19T11:30:17Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 0,
+    "updated_at": "2026-07-19T11:27:48Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T11:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -18,6 +45,15 @@
     "url": "https://github.com/routeplane-core/routeplane-ce"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53989,
+    "updated_at": "2026-07-19T11:07:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
     "id": "dr-gareth-roberts/insideLLMs",
     "language": "Python",
@@ -27,40 +63,13 @@
     "url": "https://github.com/dr-gareth-roberts/insideLLMs"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-19T11:13:41Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 0,
-    "updated_at": "2026-07-19T11:03:56Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11558,
+    "stars": 11561,
     "updated_at": "2026-07-19T11:02:17Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T11:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
@@ -171,6 +180,15 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20688,
+    "updated_at": "2026-07-19T10:24:49Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Cycles budget and action guard for OpenClaw agents",
     "id": "runcycles/cycles-openclaw-budget-guard",
     "language": "TypeScript",
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-19T08:58:25Z",
+    "updated_at": "2026-07-19T11:27:38Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -421,24 +439,6 @@
     "stars": 141,
     "updated_at": "2026-07-19T11:13:36Z",
     "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 53988,
-    "updated_at": "2026-07-19T11:07:04Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20687,
-    "updated_at": "2026-07-19T10:24:49Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
