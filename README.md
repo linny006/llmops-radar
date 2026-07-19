@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 21:45 UTC
+> ⏰ Last updated: 2026-07-19 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,30 +42,30 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [souheil-haouala/ai-pipeline-agent](https://github.com/souheil-haouala/ai-pipeline-agent) | 0 | Python | 2026-07-19 | Enterprise-grade AI DevOps engine built in Python to dynamically generate and strictly validate type-safe GitHub Actions |
-| 2 | [MattJackson/busbarAI](https://github.com/MattJackson/busbarAI) | 142 | Rust | 2026-07-19 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [OrlojHQ/orloj](https://github.com/OrlojHQ/orloj) | 108 | Go | 2026-07-19 | An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu |
-| 5 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 65 | Python | 2026-07-19 | Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for |
-| 6 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-07-19 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 7 | [sumitdevgupto/TokenLean](https://github.com/sumitdevgupto/TokenLean) | 0 | Python | 2026-07-19 | Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching, |
-| 8 | [wjlgatech/FM-os](https://github.com/wjlgatech/FM-os) | 2 | Python | 2026-07-19 | 🛠️ FM-os: the living, SLM-first map of foundation-model operations — pre-training, post-training, fine-tuning & RL. Cura |
-| 9 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-07-19 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 10 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-07-19 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 11 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 2 | Rust | 2026-07-19 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
-| 12 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6609 | Go | 2026-07-19 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 13 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54024 | Python | 2026-07-19 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 14 | [jonathascordeiro20/bioma-framework](https://github.com/jonathascordeiro20/bioma-framework) | 1 | Python | 2026-07-19 | Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an |
-| 15 | [openloop-team/openloop](https://github.com/openloop-team/openloop) | 2 | Python | 2026-07-19 | The open-source control plane for shared AI agents |
-| 16 | [ahmeddoghri/vllm-cost-router](https://github.com/ahmeddoghri/vllm-cost-router) | 0 | Python | 2026-07-19 | Stop paying flagship prices to answer what time do you close. Routes, caches, and batches LLM requests. 73% cheaper, sam |
-| 17 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10626 | Python | 2026-07-19 | AI Observability & Evaluation |
-| 18 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 73 | Python | 2026-07-19 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
-| 19 | [NaCode-Studios/kmemo](https://github.com/NaCode-Studios/kmemo) | 1 | Kotlin | 2026-07-19 | Semantic cache for LLM calls on Kotlin/JVM — guards against false cache hits, coroutine-first, provider-agnostic. |
-| 20 | [Frayagronomist166/LiteRT.js-Mocap](https://github.com/Frayagronomist166/LiteRT.js-Mocap) | 0 | — | 2026-07-19 | Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d |
-| 21 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3396 | TypeScript | 2026-07-19 | The platform for LLM evaluations and AI agent testing |
-| 22 | [Conflictofinteresteddy300/FlowLens-AgentOps](https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps) | 0 | — | 2026-07-19 | Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution. |
-| 23 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 5 | Rust | 2026-07-19 | Know when your AI gets worse — before your users do. Records how your LLM apps and agents behave and checks every change |
-| 24 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-19 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-07-19 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 2 | [jonathascordeiro20/bioma-framework](https://github.com/jonathascordeiro20/bioma-framework) | 1 | Python | 2026-07-19 | Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an |
+| 3 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-07-19 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10626 | Python | 2026-07-19 | AI Observability & Evaluation |
+| 5 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-19 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 6 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 5 | Rust | 2026-07-19 | Know when your AI gets worse — before your users do. Records how your LLM apps and agents behave and checks every change |
+| 7 | [souheil-haouala/ai-pipeline-agent](https://github.com/souheil-haouala/ai-pipeline-agent) | 0 | Python | 2026-07-19 | Enterprise-grade AI DevOps engine built in Python to dynamically generate and strictly validate type-safe GitHub Actions |
+| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 9 | [MattJackson/busbarAI](https://github.com/MattJackson/busbarAI) | 142 | Rust | 2026-07-19 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
+| 10 | [OrlojHQ/orloj](https://github.com/OrlojHQ/orloj) | 108 | Go | 2026-07-19 | An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu |
+| 11 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 65 | Python | 2026-07-19 | Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for |
+| 12 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-07-19 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 13 | [sumitdevgupto/TokenLean](https://github.com/sumitdevgupto/TokenLean) | 0 | Python | 2026-07-19 | Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching, |
+| 14 | [wjlgatech/FM-os](https://github.com/wjlgatech/FM-os) | 2 | Python | 2026-07-19 | 🛠️ FM-os: the living, SLM-first map of foundation-model operations — pre-training, post-training, fine-tuning & RL. Cura |
+| 15 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 2 | Rust | 2026-07-19 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
+| 16 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6610 | Go | 2026-07-19 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 17 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54026 | Python | 2026-07-19 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 18 | [openloop-team/openloop](https://github.com/openloop-team/openloop) | 2 | Python | 2026-07-19 | The open-source control plane for shared AI agents |
+| 19 | [ahmeddoghri/vllm-cost-router](https://github.com/ahmeddoghri/vllm-cost-router) | 0 | Python | 2026-07-19 | Stop paying flagship prices to answer what time do you close. Routes, caches, and batches LLM requests. 73% cheaper, sam |
+| 20 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 73 | Python | 2026-07-19 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
+| 21 | [NaCode-Studios/kmemo](https://github.com/NaCode-Studios/kmemo) | 1 | Kotlin | 2026-07-19 | Semantic cache for LLM calls on Kotlin/JVM — guards against false cache hits, coroutine-first, provider-agnostic. |
+| 22 | [Frayagronomist166/LiteRT.js-Mocap](https://github.com/Frayagronomist166/LiteRT.js-Mocap) | 0 | — | 2026-07-19 | Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d |
+| 23 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3396 | TypeScript | 2026-07-19 | The platform for LLM evaluations and AI agent testing |
+| 24 | [Conflictofinteresteddy300/FlowLens-AgentOps](https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps) | 0 | — | 2026-07-19 | Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution. |
 | 25 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31428 | TypeScript | 2026-07-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 26 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 381 | Python | 2026-07-19 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
 | 27 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-19 | ThakiCloud Tech Blog |
