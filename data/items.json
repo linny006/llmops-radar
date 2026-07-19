@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T21:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
     "id": "OrlojHQ/orloj",
     "language": "Go",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T21:24:24Z",
     "url": "https://github.com/souheil-haouala/ai-pipeline-agent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T21:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
@@ -99,6 +99,15 @@
     "url": "https://github.com/umutkeltek/switchback"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54024,
+    "updated_at": "2026-07-19T20:35:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
     "id": "jonathascordeiro20/bioma-framework",
     "language": "Python",
@@ -133,15 +142,6 @@
     "stars": 10626,
     "updated_at": "2026-07-19T21:28:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54023,
-    "updated_at": "2026-07-19T20:35:45Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
