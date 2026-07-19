@@ -1,21 +1,21 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31422,
-    "updated_at": "2026-07-19T18:11:01Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "The complete AI engineering handbook: LLM foundations, prompt engineering, context engineering, loop engineering, graph ",
+    "id": "Hardik-369/AI-Engineering-Handbook",
+    "language": "\u2014",
+    "name": "Hardik-369/AI-Engineering-Handbook",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:30:05Z",
+    "url": "https://github.com/Hardik-369/AI-Engineering-Handbook"
   },
   {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
+    "description": "Enterprise audit agent workspace with Agentic RAG, governed tool use, evaluation harness, memory, and human-review deliv",
+    "id": "Ricky-7-Yan/intelligent-audit-system",
     "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-07-19T18:09:56Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
+    "name": "Ricky-7-Yan/intelligent-audit-system",
+    "stars": 1161,
+    "updated_at": "2026-07-19T18:28:11Z",
+    "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system"
   },
   {
     "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
@@ -23,8 +23,35 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/kmemo",
     "stars": 0,
-    "updated_at": "2026-07-19T18:08:32Z",
+    "updated_at": "2026-07-19T18:26:38Z",
     "url": "https://github.com/NaCode-Studios/kmemo"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 142,
+    "updated_at": "2026-07-19T18:30:21Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-07-19T18:26:53Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 73,
+    "updated_at": "2026-07-19T18:19:24Z",
+    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
@@ -32,8 +59,35 @@
     "language": "HTML",
     "name": "Tourinhan/Fund-of-Brian",
     "stars": 0,
-    "updated_at": "2026-07-19T18:07:21Z",
+    "updated_at": "2026-07-19T18:19:07Z",
     "url": "https://github.com/Tourinhan/Fund-of-Brian"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10624,
+    "updated_at": "2026-07-19T18:25:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T18:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31422,
+    "updated_at": "2026-07-19T18:11:01Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T18:01:16Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T18:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
@@ -108,15 +153,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 142,
-    "updated_at": "2026-07-19T17:45:12Z",
-    "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
     "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
     "id": "Eval-core/evalcore",
     "language": "Rust",
@@ -133,24 +169,6 @@
     "stars": 1094,
     "updated_at": "2026-07-19T17:42:36Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 73,
-    "updated_at": "2026-07-19T17:41:14Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10623,
-    "updated_at": "2026-07-19T17:33:49Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -220,7 +238,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54015,
+    "stars": 54014,
     "updated_at": "2026-07-19T17:06:15Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -288,15 +306,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
-    "id": "affkoul/agentforge-runtime",
-    "language": "Python",
-    "name": "affkoul/agentforge-runtime",
-    "stars": 1,
-    "updated_at": "2026-07-19T16:20:35Z",
-    "url": "https://github.com/affkoul/agentforge-runtime"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
@@ -338,7 +347,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-19T18:13:46Z",
+    "updated_at": "2026-07-19T18:29:45Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -383,7 +392,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3393,
-    "updated_at": "2026-07-19T17:54:11Z",
+    "updated_at": "2026-07-19T18:29:44Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-19T18:11:15Z",
+    "updated_at": "2026-07-19T18:28:26Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -436,17 +445,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20698,
+    "stars": 20699,
     "updated_at": "2026-07-19T15:07:48Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "OpenAI-compatible endpoint benchmark for QPS, TPS, TTFT, P50/P95 latency, telemetry, and evidence-class leaderboards.",
-    "id": "EMT5320/llm-inference-lab",
-    "language": "Python",
-    "name": "EMT5320/llm-inference-lab",
-    "stars": 0,
-    "updated_at": "2026-07-19T15:07:40Z",
-    "url": "https://github.com/EMT5320/llm-inference-lab"
   }
 ]
