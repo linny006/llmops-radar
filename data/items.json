@@ -1,5 +1,68 @@
 [
   {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-07-19T19:44:26Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 73,
+    "updated_at": "2026-07-19T19:43:23Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-19T19:38:49Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 5,
+    "updated_at": "2026-07-19T19:38:23Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
+    "id": "intentee/paddler",
+    "language": "Rust",
+    "name": "intentee/paddler",
+    "stars": 1642,
+    "updated_at": "2026-07-19T19:36:21Z",
+    "url": "https://github.com/intentee/paddler"
+  },
+  {
+    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
+    "id": "runcycles/cycles-server",
+    "language": "Java",
+    "name": "runcycles/cycles-server",
+    "stars": 3,
+    "updated_at": "2026-07-19T19:37:53Z",
+    "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T19:30:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -14,17 +77,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3395,
-    "updated_at": "2026-07-19T19:24:50Z",
+    "updated_at": "2026-07-19T19:42:07Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 5,
-    "updated_at": "2026-07-19T19:18:48Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
@@ -34,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T19:15:48Z",
     "url": "https://github.com/anmolsharma152/Disha"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T19:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 73,
-    "updated_at": "2026-07-19T19:15:18Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
@@ -70,6 +106,15 @@
     "stars": 1,
     "updated_at": "2026-07-19T19:12:56Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6607,
+    "updated_at": "2026-07-19T19:07:00Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -94,7 +139,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54020,
+    "stars": 54022,
     "updated_at": "2026-07-19T19:05:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -223,15 +268,6 @@
     "stars": 23408,
     "updated_at": "2026-07-19T18:23:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-07-19T19:06:54Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T16:09:21Z",
     "url": "https://github.com/fluiq-AI/fluiq-sdk"
-  },
-  {
-    "description": "A foundation-first roadmap for becoming an AI Engineer",
-    "id": "THEREALRINAZ/Complete_AI_Engineer_Roadmap_RNZ",
-    "language": "\u2014",
-    "name": "THEREALRINAZ/Complete_AI_Engineer_Roadmap_RNZ",
-    "stars": 0,
-    "updated_at": "2026-07-19T15:58:59Z",
-    "url": "https://github.com/THEREALRINAZ/Complete_AI_Engineer_Roadmap_RNZ"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 39,
-    "updated_at": "2026-07-19T15:45:02Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "llmcfo",
-    "id": "lisn0/tidal",
-    "language": "Nunjucks",
-    "name": "lisn0/tidal",
-    "stars": 0,
-    "updated_at": "2026-07-19T15:41:33Z",
-    "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3100,
-    "updated_at": "2026-07-19T15:40:42Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
