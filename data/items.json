@@ -1,11 +1,92 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-19T07:29:28Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:28:58Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-19T07:24:40Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
+    "id": "phenomenoner/openclaw-mem",
+    "language": "Python",
+    "name": "phenomenoner/openclaw-mem",
+    "stars": 27,
+    "updated_at": "2026-07-19T07:21:23Z",
+    "url": "https://github.com/phenomenoner/openclaw-mem"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3379,
+    "updated_at": "2026-07-19T07:28:24Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Organization profile and shared community metadata for Edge-Computing-LLM",
+    "id": "Edge-Computing-LLM/.github",
+    "language": "\u2014",
+    "name": "Edge-Computing-LLM/.github",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:19:11Z",
+    "url": "https://github.com/Edge-Computing-LLM/.github"
+  },
+  {
+    "description": "Go-first cross-repository validation and sanitized evidence for Ubuntu, k3s, NVIDIA GPU, and selectable GGUF model runti",
+    "id": "Edge-Computing-LLM/edge-llm-tests",
+    "language": "Go",
+    "name": "Edge-Computing-LLM/edge-llm-tests",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:19:06Z",
+    "url": "https://github.com/Edge-Computing-LLM/edge-llm-tests"
+  },
+  {
+    "description": "Unified Go CLI for layered local edge LLM deployments with automatic CPU/NVIDIA orchestration.",
+    "id": "Edge-Computing-LLM/edge-cli",
+    "language": "Go",
+    "name": "Edge-Computing-LLM/edge-cli",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:19:01Z",
+    "url": "https://github.com/Edge-Computing-LLM/edge-cli"
+  },
+  {
+    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
+    "id": "Frayagronomist166/LiteRT.js-Mocap",
+    "language": "\u2014",
+    "name": "Frayagronomist166/LiteRT.js-Mocap",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:15:38Z",
+    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 5,
-    "updated_at": "2026-07-19T07:14:43Z",
+    "updated_at": "2026-07-19T07:15:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -54,13 +135,13 @@
     "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3379,
-    "updated_at": "2026-07-19T07:11:40Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "name": "promptfoo/promptfoo",
+    "stars": 23398,
+    "updated_at": "2026-07-19T07:09:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -135,15 +216,6 @@
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:06:36Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -160,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-07-19T06:58:02Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10618,
+    "updated_at": "2026-07-19T07:24:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -187,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T06:52:50Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-19T06:52:28Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T06:33:38Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-07-19T06:33:02Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-07-19T06:32:22Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-07-19T06:31:34Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 4,
-    "updated_at": "2026-07-19T06:30:31Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10617,
-    "updated_at": "2026-07-19T06:57:39Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-07-19T06:28:44Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-07-19T06:26:56Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-19T06:26:52Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
