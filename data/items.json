@@ -1,12 +1,102 @@
 [
   {
+    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
+    "id": "acornops/agentv",
+    "language": "TypeScript",
+    "name": "acornops/agentv",
+    "stars": 1,
+    "updated_at": "2026-07-19T10:57:40Z",
+    "url": "https://github.com/acornops/agentv"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-07-19T10:55:11Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-19T10:55:11Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 2,
+    "updated_at": "2026-07-19T10:55:11Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
+    "id": "acornops/execution-engine",
+    "language": "Python",
+    "name": "acornops/execution-engine",
+    "stars": 2,
+    "updated_at": "2026-07-19T10:55:11Z",
+    "url": "https://github.com/acornops/execution-engine"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-19T10:55:11Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-07-19T10:55:11Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-19T10:59:49Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11558,
+    "updated_at": "2026-07-19T10:52:33Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
     "id": "dr-gareth-roberts/insideLLMs",
     "language": "Python",
     "name": "dr-gareth-roberts/insideLLMs",
     "stars": 2,
-    "updated_at": "2026-07-19T10:50:29Z",
+    "updated_at": "2026-07-19T10:58:55Z",
     "url": "https://github.com/dr-gareth-roberts/insideLLMs"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-19T10:52:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 5,
-    "updated_at": "2026-07-19T10:45:25Z",
+    "updated_at": "2026-07-19T10:51:52Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -72,15 +162,6 @@
     "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-19T10:49:52Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -117,20 +198,11 @@
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-19T09:52:08Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6600,
+    "stars": 6601,
     "updated_at": "2026-07-19T09:45:21Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -151,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T09:37:54Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11557,
-    "updated_at": "2026-07-19T09:30:26Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
@@ -355,7 +418,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 53987,
+    "stars": 53988,
     "updated_at": "2026-07-19T07:57:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -385,68 +448,5 @@
     "stars": 27,
     "updated_at": "2026-07-19T07:21:23Z",
     "url": "https://github.com/phenomenoner/openclaw-mem"
-  },
-  {
-    "description": "Organization profile and shared community metadata for Edge-Computing-LLM",
-    "id": "Edge-Computing-LLM/.github",
-    "language": "\u2014",
-    "name": "Edge-Computing-LLM/.github",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:19:11Z",
-    "url": "https://github.com/Edge-Computing-LLM/.github"
-  },
-  {
-    "description": "Go-first cross-repository validation and sanitized evidence for Ubuntu, k3s, NVIDIA GPU, and selectable GGUF model runti",
-    "id": "Edge-Computing-LLM/edge-llm-tests",
-    "language": "Go",
-    "name": "Edge-Computing-LLM/edge-llm-tests",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:19:06Z",
-    "url": "https://github.com/Edge-Computing-LLM/edge-llm-tests"
-  },
-  {
-    "description": "Unified Go CLI for layered local edge LLM deployments with automatic CPU/NVIDIA orchestration.",
-    "id": "Edge-Computing-LLM/edge-cli",
-    "language": "Go",
-    "name": "Edge-Computing-LLM/edge-cli",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:19:01Z",
-    "url": "https://github.com/Edge-Computing-LLM/edge-cli"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:15:38Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:14:17Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:14:13Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:14:03Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   }
 ]
