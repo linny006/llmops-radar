@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 18:38 UTC
+> ⏰ Last updated: 2026-07-19 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Hardik-369/AI-Engineering-Handbook](https://github.com/Hardik-369/AI-Engineering-Handbook) | 0 | — | 2026-07-19 | The complete AI engineering handbook: LLM foundations, prompt engineering, context engineering, loop engineering, graph  |
-| 2 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-19 | ThakiCloud Tech Blog |
-| 3 | [sumitdevgupto/TokenLean](https://github.com/sumitdevgupto/TokenLean) | 0 | Python | 2026-07-19 | Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching, |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [MattJackson/busbarAI](https://github.com/MattJackson/busbarAI) | 142 | Rust | 2026-07-19 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
-| 6 | [Ricky-7-Yan/intelligent-audit-system](https://github.com/Ricky-7-Yan/intelligent-audit-system) | 1161 | Python | 2026-07-19 | Enterprise audit agent workspace with Agentic RAG, governed tool use, evaluation harness, memory, and human-review deliv |
-| 7 | [NaCode-Studios/kmemo](https://github.com/NaCode-Studios/kmemo) | 0 | Kotlin | 2026-07-19 | Semantic cache for LLM calls on Kotlin/JVM — guards against false cache hits, coroutine-first, provider-agnostic. |
-| 8 | [geoff-davis/async-batch-llm](https://github.com/geoff-davis/async-batch-llm) | 1 | Python | 2026-07-19 | Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and |
-| 9 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 73 | Python | 2026-07-19 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
-| 10 | [Tourinhan/Fund-of-Brian](https://github.com/Tourinhan/Fund-of-Brian) | 0 | HTML | 2026-07-19 | Agentic AI ops architecture for VC dealflow — Claude + MCP orchestrating CRM, file storage and Notion |
+| 1 | [Tourinhan/Fund-of-Brian](https://github.com/Tourinhan/Fund-of-Brian) | 0 | HTML | 2026-07-19 | Agentic AI ops architecture for VC dealflow — Claude + MCP orchestrating CRM, file storage and Notion |
+| 2 | [sumitdevgupto/TokenLean](https://github.com/sumitdevgupto/TokenLean) | 0 | Python | 2026-07-19 | Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching, |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [Hardik-369/AI-Engineering-Handbook](https://github.com/Hardik-369/AI-Engineering-Handbook) | 0 | — | 2026-07-19 | The complete AI engineering handbook: LLM foundations, prompt engineering, context engineering, loop engineering, graph  |
+| 5 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-19 | ThakiCloud Tech Blog |
+| 6 | [MattJackson/busbarAI](https://github.com/MattJackson/busbarAI) | 142 | Rust | 2026-07-19 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
+| 7 | [Ricky-7-Yan/intelligent-audit-system](https://github.com/Ricky-7-Yan/intelligent-audit-system) | 1161 | Python | 2026-07-19 | Enterprise audit agent workspace with Agentic RAG, governed tool use, evaluation harness, memory, and human-review deliv |
+| 8 | [NaCode-Studios/kmemo](https://github.com/NaCode-Studios/kmemo) | 0 | Kotlin | 2026-07-19 | Semantic cache for LLM calls on Kotlin/JVM — guards against false cache hits, coroutine-first, provider-agnostic. |
+| 9 | [geoff-davis/async-batch-llm](https://github.com/geoff-davis/async-batch-llm) | 1 | Python | 2026-07-19 | Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and |
+| 10 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 73 | Python | 2026-07-19 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
 | 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10624 | Python | 2026-07-19 | AI Observability & Evaluation |
 | 12 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31422 | TypeScript | 2026-07-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 13 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-19 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
