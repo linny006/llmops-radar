@@ -1,12 +1,75 @@
 [
   {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/kmemo",
+    "stars": 0,
+    "updated_at": "2026-07-19T17:39:45Z",
+    "url": "https://github.com/NaCode-Studios/kmemo"
+  },
+  {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
     "id": "geoff-davis/async-batch-llm",
     "language": "Python",
     "name": "geoff-davis/async-batch-llm",
     "stars": 1,
-    "updated_at": "2026-07-19T17:29:48Z",
+    "updated_at": "2026-07-19T17:37:03Z",
     "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
+    "id": "Tourinhan/Fund-of-Brian",
+    "language": "Python",
+    "name": "Tourinhan/Fund-of-Brian",
+    "stars": 0,
+    "updated_at": "2026-07-19T17:35:52Z",
+    "url": "https://github.com/Tourinhan/Fund-of-Brian"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 142,
+    "updated_at": "2026-07-19T17:33:56Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10623,
+    "updated_at": "2026-07-19T17:33:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-19T17:32:14Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-19T17:30:45Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T17:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
@@ -27,21 +90,12 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:18:25Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Pure-forwarding LLM API routing engine as an embeddable Go library \u2014 multi-format (OpenAI/Claude/Gemini) gateway data pl",
     "id": "GetOptaris/optaris-core",
     "language": "Go",
     "name": "GetOptaris/optaris-core",
     "stars": 0,
-    "updated_at": "2026-07-19T17:16:42Z",
+    "updated_at": "2026-07-19T17:38:07Z",
     "url": "https://github.com/GetOptaris/optaris-core"
   },
   {
@@ -54,24 +108,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/kmemo",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:16:07Z",
-    "url": "https://github.com/NaCode-Studios/kmemo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T17:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -79,15 +115,6 @@
     "stars": 65,
     "updated_at": "2026-07-19T17:11:37Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10623,
-    "updated_at": "2026-07-19T17:26:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode li",
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T17:03:25Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 142,
-    "updated_at": "2026-07-19T17:02:39Z",
-    "url": "https://github.com/MattJackson/busbarAI"
   },
   {
     "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
@@ -187,24 +205,6 @@
     "stars": 31420,
     "updated_at": "2026-07-19T16:50:07Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-19T16:49:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
-    "id": "Tourinhan/Fund-of-Brian",
-    "language": "\u2014",
-    "name": "Tourinhan/Fund-of-Brian",
-    "stars": 0,
-    "updated_at": "2026-07-19T16:46:23Z",
-    "url": "https://github.com/Tourinhan/Fund-of-Brian"
   },
   {
     "description": "Build self-evolving AI agent harnesses with portable harness units, artifact-aware testing, trace-backed diagnosis, and ",
@@ -329,7 +329,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3393,
-    "updated_at": "2026-07-19T17:30:01Z",
+    "updated_at": "2026-07-19T17:39:36Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-19T17:25:27Z",
+    "updated_at": "2026-07-19T17:35:09Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -428,7 +428,7 @@
     "language": "TypeScript",
     "name": "runcycles/cycles-dashboard",
     "stars": 0,
-    "updated_at": "2026-07-19T17:20:27Z",
+    "updated_at": "2026-07-19T17:38:05Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
   },
   {
