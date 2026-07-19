@@ -1,12 +1,75 @@
 [
   {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-19T00:09:53Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
     "id": "JumpMasters/tollgate",
     "language": "Python",
     "name": "JumpMasters/tollgate",
     "stars": 0,
-    "updated_at": "2026-07-18T23:58:10Z",
+    "updated_at": "2026-07-19T00:09:27Z",
     "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-19T00:09:03Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "A governed, auditable workflow engine for agent-driven software changes.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-19T00:06:09Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open protocol for runtime budget and action authority over AI agents",
+    "id": "runcycles/cycles-protocol",
+    "language": "Python",
+    "name": "runcycles/cycles-protocol",
+    "stars": 3,
+    "updated_at": "2026-07-19T00:04:38Z",
+    "url": "https://github.com/runcycles/cycles-protocol"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-19T00:12:47Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-19T00:00:49Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-19T00:00:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53968,
-    "updated_at": "2026-07-18T23:56:25Z",
+    "updated_at": "2026-07-19T00:15:00Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T23:52:22Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-18T23:50:28Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -99,21 +153,12 @@
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-18T23:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10614,
-    "updated_at": "2026-07-18T23:43:54Z",
+    "updated_at": "2026-07-19T00:01:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-07-18T23:42:20Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-18T23:51:37Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -241,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-07-18T23:12:10Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "A governed, auditable workflow engine for agent-driven software changes.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-18T23:50:12Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3371,
-    "updated_at": "2026-07-18T23:57:25Z",
+    "updated_at": "2026-07-19T00:04:45Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T22:43:04Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "LLM cost calculator, token counter, latency benchmark, CI guardrail, MCP server, and VS Code/Cursor extension.",
-    "id": "faraa2m/tokenometer",
-    "language": "TypeScript",
-    "name": "faraa2m/tokenometer",
-    "stars": 1,
-    "updated_at": "2026-07-18T22:42:19Z",
-    "url": "https://github.com/faraa2m/tokenometer"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-18T22:42:01Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-07-18T22:41:46Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
