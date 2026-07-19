@@ -1,30 +1,30 @@
 [
   {
-    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
-    "id": "routeplane-core/routeplane-ce",
-    "language": "Rust",
-    "name": "routeplane-core/routeplane-ce",
-    "stars": 4,
-    "updated_at": "2026-07-19T09:17:50Z",
-    "url": "https://github.com/routeplane-core/routeplane-ce"
-  },
-  {
     "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
     "id": "Josepavese/matrix",
     "language": "Go",
     "name": "Josepavese/matrix",
     "stars": 1,
-    "updated_at": "2026-07-19T09:17:17Z",
+    "updated_at": "2026-07-19T09:27:43Z",
     "url": "https://github.com/Josepavese/matrix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3383,
+    "updated_at": "2026-07-19T09:24:24Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T09:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mloda-ai/mloda",
+    "stars": 73,
+    "updated_at": "2026-07-19T09:23:50Z",
+    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -32,17 +32,26 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-19T09:14:58Z",
+    "updated_at": "2026-07-19T09:26:19Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3382,
-    "updated_at": "2026-07-19T09:17:44Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T09:18:51Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
+    "id": "routeplane-core/routeplane-ce",
+    "language": "Rust",
+    "name": "routeplane-core/routeplane-ce",
+    "stars": 4,
+    "updated_at": "2026-07-19T09:23:31Z",
+    "url": "https://github.com/routeplane-core/routeplane-ce"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -106,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T08:42:11Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 73,
-    "updated_at": "2026-07-19T09:08:36Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
