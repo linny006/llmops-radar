@@ -1,5 +1,50 @@
 [
   {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-07-19T15:36:15Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-19T15:34:48Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
+    "id": "anmolsharma152/Disha",
+    "language": "Python",
+    "name": "anmolsharma152/Disha",
+    "stars": 0,
+    "updated_at": "2026-07-19T15:34:23Z",
+    "url": "https://github.com/anmolsharma152/Disha"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3393,
+    "updated_at": "2026-07-19T15:35:19Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T15:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
     "id": "jonathascordeiro20/bioma-framework",
     "language": "Python",
@@ -7,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T15:28:57Z",
     "url": "https://github.com/jonathascordeiro20/bioma-framework"
-  },
-  {
-    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-client-rust",
-    "language": "Rust",
-    "name": "runcycles/cycles-client-rust",
-    "stars": 1,
-    "updated_at": "2026-07-19T15:28:45Z",
-    "url": "https://github.com/runcycles/cycles-client-rust"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -36,15 +72,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-19T15:22:07Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
     "id": "hyeonsangjeon/when-reasoning-pays-off",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 381,
     "updated_at": "2026-07-19T15:20:56Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T15:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenAI-compatible endpoint benchmark for QPS, TPS, TTFT, P50/P95 latency, telemetry, and evidence-class leaderboards.",
@@ -229,7 +247,7 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11573,
+    "stars": 11574,
     "updated_at": "2026-07-19T14:18:31Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -293,7 +311,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 16,
-    "updated_at": "2026-07-19T13:52:07Z",
+    "updated_at": "2026-07-19T15:37:17Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -391,7 +409,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5657,
+    "stars": 5656,
     "updated_at": "2026-07-19T12:58:16Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -403,15 +421,6 @@
     "stars": 4,
     "updated_at": "2026-07-19T12:52:22Z",
     "url": "https://github.com/routeplane-core/routeplane-ce"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3393,
-    "updated_at": "2026-07-19T12:30:44Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-19T11:49:11Z",
     "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
-  },
-  {
-    "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
-    "id": "dativo-io/talon",
-    "language": "Go",
-    "name": "dativo-io/talon",
-    "stars": 11,
-    "updated_at": "2026-07-19T11:40:46Z",
-    "url": "https://github.com/dativo-io/talon"
   }
 ]
