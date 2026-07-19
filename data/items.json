@@ -1,5 +1,59 @@
 [
   {
+    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
+    "id": "voly-codes/voly",
+    "language": "Python",
+    "name": "voly-codes/voly",
+    "stars": 9,
+    "updated_at": "2026-07-19T16:10:36Z",
+    "url": "https://github.com/voly-codes/voly"
+  },
+  {
+    "description": "Instrument any LLM app in 2 lines. Tracing, evaluation, security, and caching for OpenAI, Anthropic, Gemini, LangChain, ",
+    "id": "fluiq-AI/fluiq-sdk",
+    "language": "Python",
+    "name": "fluiq-AI/fluiq-sdk",
+    "stars": 1,
+    "updated_at": "2026-07-19T16:09:21Z",
+    "url": "https://github.com/fluiq-AI/fluiq-sdk"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-19T16:06:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-19T16:12:41Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54010,
+    "updated_at": "2026-07-19T16:01:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T16:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A foundation-first roadmap for becoming an AI Engineer",
     "id": "THEREALRINAZ/Complete_AI_Engineer_Roadmap_RNZ",
     "language": "\u2014",
@@ -7,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T15:58:59Z",
     "url": "https://github.com/THEREALRINAZ/Complete_AI_Engineer_Roadmap_RNZ"
-  },
-  {
-    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
-    "id": "voly-codes/voly",
-    "language": "Python",
-    "name": "voly-codes/voly",
-    "stars": 9,
-    "updated_at": "2026-07-19T15:58:45Z",
-    "url": "https://github.com/voly-codes/voly"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 74,
-    "updated_at": "2026-07-19T15:53:49Z",
+    "updated_at": "2026-07-19T16:12:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -61,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T15:59:34Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-19T15:49:52Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "A governed, auditable workflow engine for agent-driven software changes.",
@@ -99,15 +135,6 @@
     "url": "https://github.com/anmolsharma152/Disha"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T15:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "llmcfo",
     "id": "lisn0/tidal",
     "language": "Nunjucks",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T15:41:33Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-19T15:41:10Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
@@ -187,6 +205,15 @@
     "stars": 381,
     "updated_at": "2026-07-19T15:20:56Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20693,
+    "updated_at": "2026-07-19T15:07:48Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "OpenAI-compatible endpoint benchmark for QPS, TPS, TTFT, P50/P95 latency, telemetry, and evidence-class leaderboards.",
@@ -288,15 +315,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20692,
-    "updated_at": "2026-07-19T15:07:48Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The open-source control plane for shared AI agents",
     "id": "openloop-team/openloop",
     "language": "Python",
@@ -331,15 +349,6 @@
     "stars": 4,
     "updated_at": "2026-07-19T15:44:30Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54006,
-    "updated_at": "2026-07-19T14:07:43Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-19T13:17:50Z",
     "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "\u672c\u9879\u76ee\u65e8\u5728\u5206\u4eab\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09",
-    "id": "liguodongiot/llm-action",
-    "language": "HTML",
-    "name": "liguodongiot/llm-action",
-    "stars": 24747,
-    "updated_at": "2026-07-19T13:13:31Z",
-    "url": "https://github.com/liguodongiot/llm-action"
   }
 ]
