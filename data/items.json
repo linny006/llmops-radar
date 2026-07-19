@@ -1,5 +1,77 @@
 [
   {
+    "description": "Go-first validation and sanitized evidence for local Ubuntu, k3s, NVIDIA GPU, and Edge-Computing-LLM projects",
+    "id": "Edge-Computing-LLM/edge-llm-tests",
+    "language": "Go",
+    "name": "Edge-Computing-LLM/edge-llm-tests",
+    "stars": 0,
+    "updated_at": "2026-07-19T04:44:29Z",
+    "url": "https://github.com/Edge-Computing-LLM/edge-llm-tests"
+  },
+  {
+    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
+    "id": "Karinaclastic11/Drip-Lite-Client",
+    "language": "\u2014",
+    "name": "Karinaclastic11/Drip-Lite-Client",
+    "stars": 1,
+    "updated_at": "2026-07-19T04:43:07Z",
+    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
+  },
+  {
+    "description": "Organization profile and shared community metadata for Edge-Computing-LLM",
+    "id": "Edge-Computing-LLM/.github",
+    "language": "\u2014",
+    "name": "Edge-Computing-LLM/.github",
+    "stars": 0,
+    "updated_at": "2026-07-19T04:38:12Z",
+    "url": "https://github.com/Edge-Computing-LLM/.github"
+  },
+  {
+    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
+    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "language": "\u2014",
+    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "stars": 2,
+    "updated_at": "2026-07-19T04:37:47Z",
+    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-07-19T04:36:38Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-07-19T04:35:36Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 23,
+    "updated_at": "2026-07-19T04:34:50Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T04:33:57Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -27,21 +99,12 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T04:30:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-19T04:31:37Z",
+    "updated_at": "2026-07-19T04:44:50Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -133,6 +196,15 @@
     "stars": 1,
     "updated_at": "2026-07-19T04:21:00Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 53972,
+    "updated_at": "2026-07-19T04:17:01Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -324,15 +396,6 @@
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   },
   {
-    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 23,
-    "updated_at": "2026-07-19T03:59:12Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
     "id": "FawwazAzka/openclaw-docs",
     "language": "JavaScript",
@@ -360,6 +423,15 @@
     "url": "https://github.com/prashibadkur11-creator/persona-spec-template"
   },
   {
+    "description": "Layer 2: Helm-based Ollama GGUF serving, Open WebUI, OpenTelemetry, metrics, dashboards, and CPU/NVIDIA profiles.",
+    "id": "Edge-Computing-LLM/llm-observability-stack",
+    "language": "Jupyter Notebook",
+    "name": "Edge-Computing-LLM/llm-observability-stack",
+    "stars": 0,
+    "updated_at": "2026-07-19T03:57:46Z",
+    "url": "https://github.com/Edge-Computing-LLM/llm-observability-stack"
+  },
+  {
     "description": "CI for prompts \u2014 regression-test prompt changes against a scored test set before they merge.",
     "id": "prashibadkur11-creator/prompt-regression-suite",
     "language": "Python",
@@ -369,84 +441,12 @@
     "url": "https://github.com/prashibadkur11-creator/prompt-regression-suite"
   },
   {
-    "description": "A structured, forkable catalog of how AI/LLM products fail \u2014 with concrete detection and mitigation for each failure mod",
-    "id": "prashibadkur11-creator/ai-failure-mode-taxonomy",
-    "language": "Python",
-    "name": "prashibadkur11-creator/ai-failure-mode-taxonomy",
-    "stars": 0,
-    "updated_at": "2026-07-19T03:55:36Z",
-    "url": "https://github.com/prashibadkur11-creator/ai-failure-mode-taxonomy"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
+    "description": "Unified Go CLI for layered local edge LLM deployments with automatic CPU/NVIDIA orchestration.",
+    "id": "Edge-Computing-LLM/edge-cli",
     "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6597,
-    "updated_at": "2026-07-19T03:53:28Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
+    "name": "Edge-Computing-LLM/edge-cli",
     "stars": 0,
-    "updated_at": "2026-07-19T03:52:30Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-19T03:52:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-07-19T03:51:49Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-07-19T03:47:52Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-07-19T03:46:02Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
-    "id": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "language": "HTML",
-    "name": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-19T03:45:45Z",
-    "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-07-19T03:45:02Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
+    "updated_at": "2026-07-19T03:56:18Z",
+    "url": "https://github.com/Edge-Computing-LLM/edge-cli"
   }
 ]
