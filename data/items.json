@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u672c\u9879\u76ee\u65e8\u5728\u5206\u4eab\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730\uff09",
+    "id": "liguodongiot/llm-action",
+    "language": "HTML",
+    "name": "liguodongiot/llm-action",
+    "stars": 24745,
+    "updated_at": "2026-07-19T13:13:31Z",
+    "url": "https://github.com/liguodongiot/llm-action"
+  },
+  {
+    "description": "Local-first Rust CI guard for environment drift and AI prompt output contracts.",
+    "id": "sidsri14/driftguard",
+    "language": "Rust",
+    "name": "sidsri14/driftguard",
+    "stars": 0,
+    "updated_at": "2026-07-19T13:12:17Z",
+    "url": "https://github.com/sidsri14/driftguard"
+  },
+  {
+    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
+    "id": "dr-gareth-roberts/insideLLMs",
+    "language": "Python",
+    "name": "dr-gareth-roberts/insideLLMs",
+    "stars": 2,
+    "updated_at": "2026-07-19T13:11:14Z",
+    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T13:09:41Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T13:07:06Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T13:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -77,7 +104,7 @@
     "language": "Java",
     "name": "taishan666/MaxKB4j",
     "stars": 110,
-    "updated_at": "2026-07-19T12:41:28Z",
+    "updated_at": "2026-07-19T13:13:00Z",
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 53994,
-    "updated_at": "2026-07-19T12:13:48Z",
+    "updated_at": "2026-07-19T13:11:42Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -180,15 +207,6 @@
     "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
   },
   {
-    "description": "Local-first Rust CI guard for environment drift and AI prompt output contracts.",
-    "id": "sidsri14/driftguard",
-    "language": "Rust",
-    "name": "sidsri14/driftguard",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:35:18Z",
-    "url": "https://github.com/sidsri14/driftguard"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
@@ -241,15 +259,6 @@
     "stars": 142,
     "updated_at": "2026-07-19T11:13:36Z",
     "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
-    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
-    "id": "dr-gareth-roberts/insideLLMs",
-    "language": "Python",
-    "name": "dr-gareth-roberts/insideLLMs",
-    "stars": 2,
-    "updated_at": "2026-07-19T11:05:31Z",
-    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -423,6 +432,15 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10619,
+    "updated_at": "2026-07-19T08:53:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "llmcfo",
     "id": "lisn0/tidal",
     "language": "Nunjucks",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T08:49:06Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-07-19T08:42:11Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-07-19T08:31:53Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   }
 ]
