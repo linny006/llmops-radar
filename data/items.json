@@ -1,5 +1,50 @@
 [
   {
+    "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
+    "id": "kimbeomgyu/budget-guard",
+    "language": "TypeScript",
+    "name": "kimbeomgyu/budget-guard",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:28:27Z",
+    "url": "https://github.com/kimbeomgyu/budget-guard"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:27:39Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11570,
+    "updated_at": "2026-07-19T14:18:31Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 74,
+    "updated_at": "2026-07-19T14:17:19Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T14:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
     "id": "project-arbr/arbr-control-plane",
     "language": "JavaScript",
@@ -9,13 +54,13 @@
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:14:49Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54001,
+    "updated_at": "2026-07-19T14:07:43Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T14:00:25Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T14:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -70,15 +106,6 @@
     "stars": 16,
     "updated_at": "2026-07-19T13:52:07Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 74,
-    "updated_at": "2026-07-19T14:04:33Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -225,15 +252,6 @@
     "url": "https://github.com/sidsri14/driftguard"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54000,
-    "updated_at": "2026-07-19T14:07:43Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -265,18 +283,9 @@
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 3390,
+    "stars": 3392,
     "updated_at": "2026-07-19T12:30:44Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
-    "id": "kimbeomgyu/budget-guard",
-    "language": "TypeScript",
-    "name": "kimbeomgyu/budget-guard",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:25:01Z",
-    "url": "https://github.com/kimbeomgyu/budget-guard"
   },
   {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
@@ -358,15 +367,6 @@
     "stars": 142,
     "updated_at": "2026-07-19T11:13:36Z",
     "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11569,
-    "updated_at": "2026-07-19T14:14:23Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
