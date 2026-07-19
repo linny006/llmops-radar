@@ -1,5 +1,77 @@
 [
   {
+    "description": "Control plane for team LLM access through LiteLLM.",
+    "id": "anggaprytn/loom",
+    "language": "TypeScript",
+    "name": "anggaprytn/loom",
+    "stars": 2,
+    "updated_at": "2026-07-19T18:58:12Z",
+    "url": "https://github.com/anggaprytn/loom"
+  },
+  {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:57:15Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "A governed, auditable workflow engine for agent-driven software changes.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-19T18:56:59Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Chat-based assistant that benchmarks llm-d from a plain-English goal: it interviews you, deploys an llm-d stack if neede",
+    "id": "TalBenAmii/llm-d-benchmarking-agent",
+    "language": "Python",
+    "name": "TalBenAmii/llm-d-benchmarking-agent",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:55:43Z",
+    "url": "https://github.com/TalBenAmii/llm-d-benchmarking-agent"
+  },
+  {
+    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
+    "id": "runcycles/cycles-dashboard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-dashboard",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:59:31Z",
+    "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/kmemo",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:48:20Z",
+    "url": "https://github.com/NaCode-Studios/kmemo"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 142,
+    "updated_at": "2026-07-19T18:47:18Z",
+    "url": "https://github.com/MattJackson/busbarAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T18:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
     "id": "Tourinhan/Fund-of-Brian",
     "language": "HTML",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T18:40:10Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T18:38:11Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The complete AI engineering handbook: LLM foundations, prompt engineering, context engineering, loop engineering, graph ",
@@ -45,15 +108,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 142,
-    "updated_at": "2026-07-19T18:30:21Z",
-    "url": "https://github.com/MattJackson/busbarAI"
-  },
-  {
     "description": "Enterprise audit agent workspace with Agentic RAG, governed tool use, evaluation harness, memory, and human-review deliv",
     "id": "Ricky-7-Yan/intelligent-audit-system",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 1161,
     "updated_at": "2026-07-19T18:28:11Z",
     "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system"
-  },
-  {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/kmemo",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:26:38Z",
-    "url": "https://github.com/NaCode-Studios/kmemo"
   },
   {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-07-19T18:19:24Z",
+    "updated_at": "2026-07-19T18:59:09Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10624,
-    "updated_at": "2026-07-19T18:39:36Z",
+    "updated_at": "2026-07-19T18:49:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -103,7 +148,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31422,
+    "stars": 31423,
     "updated_at": "2026-07-19T18:11:01Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-19T18:42:41Z",
+    "updated_at": "2026-07-19T18:46:49Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 65,
-    "updated_at": "2026-07-19T17:11:37Z",
+    "updated_at": "2026-07-19T18:48:57Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -247,7 +292,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54016,
+    "stars": 54018,
     "updated_at": "2026-07-19T17:06:15Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -342,24 +387,6 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "A governed, auditable workflow engine for agent-driven software changes.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-19T18:29:45Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:45:00Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
     "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
     "id": "anmolsharma152/Disha",
     "language": "Python",
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3393,
-    "updated_at": "2026-07-19T18:41:37Z",
+    "updated_at": "2026-07-19T18:51:53Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6606,
     "updated_at": "2026-07-19T15:23:11Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 4,
-    "updated_at": "2026-07-19T15:21:45Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-19T18:28:26Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
-    "id": "intentee/paddler",
-    "language": "Rust",
-    "name": "intentee/paddler",
-    "stars": 1642,
-    "updated_at": "2026-07-19T15:19:50Z",
-    "url": "https://github.com/intentee/paddler"
   }
 ]
