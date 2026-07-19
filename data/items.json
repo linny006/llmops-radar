@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31422,
+    "updated_at": "2026-07-19T18:11:01Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-07-19T18:09:56Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/kmemo",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:08:32Z",
+    "url": "https://github.com/NaCode-Studios/kmemo"
+  },
+  {
+    "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
+    "id": "Tourinhan/Fund-of-Brian",
+    "language": "HTML",
+    "name": "Tourinhan/Fund-of-Brian",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:07:21Z",
+    "url": "https://github.com/Tourinhan/Fund-of-Brian"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:02:46Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:01:16Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T18:00:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
     "id": "jonathascordeiro20/bioma-framework",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T17:57:03Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-07-19T17:56:34Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -54,15 +108,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T17:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
     "id": "MattJackson/busbarAI",
     "language": "Rust",
@@ -81,15 +126,6 @@
     "url": "https://github.com/Eval-core/evalcore"
   },
   {
-    "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
-    "id": "Tourinhan/Fund-of-Brian",
-    "language": "Python",
-    "name": "Tourinhan/Fund-of-Brian",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:43:04Z",
-    "url": "https://github.com/Tourinhan/Fund-of-Brian"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -106,15 +142,6 @@
     "stars": 73,
     "updated_at": "2026-07-19T17:41:14Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/kmemo",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:40:59Z",
-    "url": "https://github.com/NaCode-Studios/kmemo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-19T17:26:56Z",
+    "updated_at": "2026-07-19T18:13:51Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -225,15 +252,6 @@
     "url": "https://github.com/runcycles/cycles-client-rust"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-19T16:58:27Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
     "id": "kimbeomgyu/budget-guard",
     "language": "TypeScript",
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T16:51:05Z",
     "url": "https://github.com/kimbeomgyu/budget-guard"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31421,
-    "updated_at": "2026-07-19T16:50:07Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Build self-evolving AI agent harnesses with portable harness units, artifact-aware testing, trace-backed diagnosis, and ",
@@ -329,7 +338,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-19T15:47:44Z",
+    "updated_at": "2026-07-19T18:13:46Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-19T17:56:42Z",
+    "updated_at": "2026-07-19T18:11:15Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T15:07:40Z",
     "url": "https://github.com/EMT5320/llm-inference-lab"
-  },
-  {
-    "description": "Open protocol for runtime budget and action authority over AI agents",
-    "id": "runcycles/cycles-protocol",
-    "language": "Python",
-    "name": "runcycles/cycles-protocol",
-    "stars": 3,
-    "updated_at": "2026-07-19T15:02:10Z",
-    "url": "https://github.com/runcycles/cycles-protocol"
   }
 ]
