@@ -1,12 +1,30 @@
 [
   {
-    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
-    "id": "jonathascordeiro20/bioma-framework",
+    "description": "Enterprise-grade AI DevOps engine built in Python to dynamically generate and strictly validate type-safe GitHub Actions",
+    "id": "souheil-haouala/ai-pipeline-agent",
     "language": "Python",
-    "name": "jonathascordeiro20/bioma-framework",
-    "stars": 1,
-    "updated_at": "2026-07-19T22:31:28Z",
-    "url": "https://github.com/jonathascordeiro20/bioma-framework"
+    "name": "souheil-haouala/ai-pipeline-agent",
+    "stars": 0,
+    "updated_at": "2026-07-19T22:43:35Z",
+    "url": "https://github.com/souheil-haouala/ai-pipeline-agent"
+  },
+  {
+    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
+    "id": "Frayagronomist166/LiteRT.js-Mocap",
+    "language": "\u2014",
+    "name": "Frayagronomist166/LiteRT.js-Mocap",
+    "stars": 0,
+    "updated_at": "2026-07-19T22:40:14Z",
+    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
+  },
+  {
+    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
+    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "language": "\u2014",
+    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "stars": 0,
+    "updated_at": "2026-07-19T22:34:28Z",
+    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 5,
-    "updated_at": "2026-07-19T22:30:27Z",
+    "updated_at": "2026-07-19T22:34:18Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
+    "id": "jonathascordeiro20/bioma-framework",
+    "language": "Python",
+    "name": "jonathascordeiro20/bioma-framework",
+    "stars": 1,
+    "updated_at": "2026-07-19T22:31:28Z",
+    "url": "https://github.com/jonathascordeiro20/bioma-framework"
   },
   {
     "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10626,
-    "updated_at": "2026-07-19T21:52:45Z",
+    "updated_at": "2026-07-19T22:38:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T21:50:34Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Enterprise-grade AI DevOps engine built in Python to dynamically generate and strictly validate type-safe GitHub Actions",
-    "id": "souheil-haouala/ai-pipeline-agent",
-    "language": "Python",
-    "name": "souheil-haouala/ai-pipeline-agent",
-    "stars": 0,
-    "updated_at": "2026-07-19T21:48:07Z",
-    "url": "https://github.com/souheil-haouala/ai-pipeline-agent"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-07-19T20:20:38Z",
+    "updated_at": "2026-07-19T22:42:56Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -216,29 +234,11 @@
     "url": "https://github.com/NaCode-Studios/kmemo"
   },
   {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 0,
-    "updated_at": "2026-07-19T20:19:08Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 0,
-    "updated_at": "2026-07-19T20:11:42Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31428,
+    "stars": 31429,
     "updated_at": "2026-07-19T20:02:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -248,7 +248,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-19T22:27:43Z",
+    "updated_at": "2026-07-19T22:42:30Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
