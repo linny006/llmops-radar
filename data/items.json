@@ -1,21 +1,21 @@
 [
   {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/kmemo",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:39:45Z",
-    "url": "https://github.com/NaCode-Studios/kmemo"
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "MattJackson/busbarAI",
+    "language": "Rust",
+    "name": "MattJackson/busbarAI",
+    "stars": 142,
+    "updated_at": "2026-07-19T17:45:12Z",
+    "url": "https://github.com/MattJackson/busbarAI"
   },
   {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-07-19T17:37:03Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
+    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 5,
+    "updated_at": "2026-07-19T17:44:52Z",
+    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
@@ -23,17 +23,53 @@
     "language": "Python",
     "name": "Tourinhan/Fund-of-Brian",
     "stars": 0,
-    "updated_at": "2026-07-19T17:35:52Z",
+    "updated_at": "2026-07-19T17:43:04Z",
     "url": "https://github.com/Tourinhan/Fund-of-Brian"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "MattJackson/busbarAI",
-    "language": "Rust",
-    "name": "MattJackson/busbarAI",
-    "stars": 142,
-    "updated_at": "2026-07-19T17:33:56Z",
-    "url": "https://github.com/MattJackson/busbarAI"
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1094,
+    "updated_at": "2026-07-19T17:42:36Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 73,
+    "updated_at": "2026-07-19T17:41:14Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/kmemo",
+    "stars": 0,
+    "updated_at": "2026-07-19T17:40:59Z",
+    "url": "https://github.com/NaCode-Studios/kmemo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T17:40:57Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-07-19T17:45:00Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T17:30:45Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T17:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
@@ -202,7 +229,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31420,
+    "stars": 31421,
     "updated_at": "2026-07-19T16:50:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3393,
-    "updated_at": "2026-07-19T17:39:36Z",
+    "updated_at": "2026-07-19T17:43:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 110,
     "updated_at": "2026-07-19T15:00:29Z",
     "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
-    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
-    "id": "runcycles/cycles-dashboard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-dashboard",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:38:05Z",
-    "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 1,
-    "updated_at": "2026-07-19T14:55:50Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "openloop-team/openloop",
-    "language": "Python",
-    "name": "openloop-team/openloop",
-    "stars": 2,
-    "updated_at": "2026-07-19T14:44:21Z",
-    "url": "https://github.com/openloop-team/openloop"
   }
 ]
