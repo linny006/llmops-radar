@@ -1,5 +1,95 @@
 [
   {
+    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
+    "id": "seaworld008/aiops-system",
+    "language": "Go",
+    "name": "seaworld008/aiops-system",
+    "stars": 1,
+    "updated_at": "2026-07-19T04:59:09Z",
+    "url": "https://github.com/seaworld008/aiops-system"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-19T04:53:34Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-19T04:52:13Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
+    "id": "Frayagronomist166/LiteRT.js-Mocap",
+    "language": "\u2014",
+    "name": "Frayagronomist166/LiteRT.js-Mocap",
+    "stars": 0,
+    "updated_at": "2026-07-19T04:49:28Z",
+    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-19T04:56:07Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
+    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "language": "\u2014",
+    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "stars": 0,
+    "updated_at": "2026-07-19T04:48:11Z",
+    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
+  },
+  {
+    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
+    "id": "Soilbuilding-libraryroutine78/Gozar",
+    "language": "Python",
+    "name": "Soilbuilding-libraryroutine78/Gozar",
+    "stars": 0,
+    "updated_at": "2026-07-19T04:48:05Z",
+    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
+  },
+  {
+    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
+    "id": "wordmiddling872/AI_Email_Generator",
+    "language": "Python",
+    "name": "wordmiddling872/AI_Email_Generator",
+    "stars": 0,
+    "updated_at": "2026-07-19T04:47:55Z",
+    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10616,
+    "updated_at": "2026-07-19T04:56:34Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T04:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Go-first validation and sanitized evidence for local Ubuntu, k3s, NVIDIA GPU, and Edge-Computing-LLM projects",
     "id": "Edge-Computing-LLM/edge-llm-tests",
     "language": "Go",
@@ -59,17 +149,8 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 23,
-    "updated_at": "2026-07-19T04:34:50Z",
+    "updated_at": "2026-07-19T04:48:58Z",
     "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T04:33:57Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -99,15 +180,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-19T04:44:50Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Calibrated trust gate for AI agents \u2014 act, escalate, or abstain. It knows when it doesn't know. pip install warmwinter",
     "id": "ricovigil1/warmwinter-sdk",
     "language": "Python",
@@ -122,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3372,
-    "updated_at": "2026-07-19T04:30:07Z",
+    "updated_at": "2026-07-19T04:59:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -151,6 +223,15 @@
     "stars": 60,
     "updated_at": "2026-07-19T04:24:24Z",
     "url": "https://github.com/inferock/inferock-bench"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2433,
+    "updated_at": "2026-07-19T04:23:37Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-19T04:04:04Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-07-19T04:02:29Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-07-19T04:02:04Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-07-19T04:02:01Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-07-19T03:59:01Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-07-19T03:58:47Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "A PRD for AI behavior \u2014 define how an AI persona should act, what it must never do, and how to test it, in one forkable ",
-    "id": "prashibadkur11-creator/persona-spec-template",
-    "language": "Python",
-    "name": "prashibadkur11-creator/persona-spec-template",
-    "stars": 0,
-    "updated_at": "2026-07-19T03:58:35Z",
-    "url": "https://github.com/prashibadkur11-creator/persona-spec-template"
-  },
-  {
-    "description": "Layer 2: Helm-based Ollama GGUF serving, Open WebUI, OpenTelemetry, metrics, dashboards, and CPU/NVIDIA profiles.",
-    "id": "Edge-Computing-LLM/llm-observability-stack",
-    "language": "Jupyter Notebook",
-    "name": "Edge-Computing-LLM/llm-observability-stack",
-    "stars": 0,
-    "updated_at": "2026-07-19T03:57:46Z",
-    "url": "https://github.com/Edge-Computing-LLM/llm-observability-stack"
-  },
-  {
-    "description": "CI for prompts \u2014 regression-test prompt changes against a scored test set before they merge.",
-    "id": "prashibadkur11-creator/prompt-regression-suite",
-    "language": "Python",
-    "name": "prashibadkur11-creator/prompt-regression-suite",
-    "stars": 0,
-    "updated_at": "2026-07-19T03:57:01Z",
-    "url": "https://github.com/prashibadkur11-creator/prompt-regression-suite"
-  },
-  {
-    "description": "Unified Go CLI for layered local edge LLM deployments with automatic CPU/NVIDIA orchestration.",
-    "id": "Edge-Computing-LLM/edge-cli",
-    "language": "Go",
-    "name": "Edge-Computing-LLM/edge-cli",
-    "stars": 0,
-    "updated_at": "2026-07-19T03:56:18Z",
-    "url": "https://github.com/Edge-Computing-LLM/edge-cli"
   }
 ]
