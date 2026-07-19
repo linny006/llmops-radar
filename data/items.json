@@ -1,11 +1,65 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-19T19:28:06Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3395,
+    "updated_at": "2026-07-19T19:24:50Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 5,
+    "updated_at": "2026-07-19T19:18:48Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
+    "id": "anmolsharma152/Disha",
+    "language": "Python",
+    "name": "anmolsharma152/Disha",
+    "stars": 0,
+    "updated_at": "2026-07-19T19:15:48Z",
+    "url": "https://github.com/anmolsharma152/Disha"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T19:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 73,
+    "updated_at": "2026-07-19T19:15:18Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
     "id": "wjlgatech/FM-os",
     "language": "Python",
     "name": "wjlgatech/FM-os",
     "stars": 2,
-    "updated_at": "2026-07-19T19:13:42Z",
+    "updated_at": "2026-07-19T19:17:03Z",
     "url": "https://github.com/wjlgatech/FM-os"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T19:12:56Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3394,
-    "updated_at": "2026-07-19T19:09:40Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -61,24 +106,6 @@
     "stars": 74,
     "updated_at": "2026-07-19T19:04:25Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 73,
-    "updated_at": "2026-07-19T19:15:18Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T19:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Control plane for team LLM access through LiteLLM.",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-19T18:46:49Z",
+    "updated_at": "2026-07-19T19:24:36Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -180,15 +207,6 @@
     "url": "https://github.com/Hardik-369/AI-Engineering-Handbook"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-19T18:34:59Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Enterprise audit agent workspace with Agentic RAG, governed tool use, evaluation harness, memory, and human-review deliv",
     "id": "Ricky-7-Yan/intelligent-audit-system",
     "language": "Python",
@@ -196,6 +214,15 @@
     "stars": 1161,
     "updated_at": "2026-07-19T18:28:11Z",
     "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23408,
+    "updated_at": "2026-07-19T18:23:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
@@ -250,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T17:50:02Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 5,
-    "updated_at": "2026-07-19T17:44:52Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -405,15 +423,6 @@
     "url": "https://github.com/THEREALRINAZ/Complete_AI_Engineer_Roadmap_RNZ"
   },
   {
-    "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
-    "id": "anmolsharma152/Disha",
-    "language": "Python",
-    "name": "anmolsharma152/Disha",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:59:06Z",
-    "url": "https://github.com/anmolsharma152/Disha"
-  },
-  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 3100,
     "updated_at": "2026-07-19T15:40:42Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-07-19T15:23:19Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
