@@ -1,5 +1,77 @@
 [
   {
+    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
+    "id": "jonathascordeiro20/bioma-framework",
+    "language": "Python",
+    "name": "jonathascordeiro20/bioma-framework",
+    "stars": 1,
+    "updated_at": "2026-07-19T20:27:19Z",
+    "url": "https://github.com/jonathascordeiro20/bioma-framework"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-07-19T20:26:30Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "Stop paying flagship prices to answer what time do you close. Routes, caches, and batches LLM requests. 73% cheaper, sam",
+    "id": "ahmeddoghri/vllm-cost-router",
+    "language": "Python",
+    "name": "ahmeddoghri/vllm-cost-router",
+    "stars": 0,
+    "updated_at": "2026-07-19T20:24:38Z",
+    "url": "https://github.com/ahmeddoghri/vllm-cost-router"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 73,
+    "updated_at": "2026-07-19T20:20:38Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/kmemo",
+    "stars": 1,
+    "updated_at": "2026-07-19T20:19:29Z",
+    "url": "https://github.com/NaCode-Studios/kmemo"
+  },
+  {
+    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
+    "id": "Frayagronomist166/LiteRT.js-Mocap",
+    "language": "\u2014",
+    "name": "Frayagronomist166/LiteRT.js-Mocap",
+    "stars": 0,
+    "updated_at": "2026-07-19T20:19:08Z",
+    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3396,
+    "updated_at": "2026-07-19T20:20:44Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-19T20:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
     "id": "umutkeltek/switchback",
     "language": "Rust",
@@ -40,7 +112,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31425,
+    "stars": 31426,
     "updated_at": "2026-07-19T20:02:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -52,15 +124,6 @@
     "stars": 381,
     "updated_at": "2026-07-19T20:00:37Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-19T20:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-19T19:49:21Z",
+    "updated_at": "2026-07-19T20:26:14Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -133,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T19:46:41Z",
     "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 73,
-    "updated_at": "2026-07-19T20:08:48Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -169,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-07-19T19:37:53Z",
     "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3395,
-    "updated_at": "2026-07-19T19:42:07Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10625,
-    "updated_at": "2026-07-19T20:13:46Z",
+    "updated_at": "2026-07-19T20:24:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -220,7 +265,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6607,
+    "stars": 6608,
     "updated_at": "2026-07-19T19:07:00Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54022,
-    "updated_at": "2026-07-19T19:05:11Z",
+    "updated_at": "2026-07-19T20:22:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -297,15 +342,6 @@
     "url": "https://github.com/runcycles/cycles-dashboard"
   },
   {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/kmemo",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:48:20Z",
-    "url": "https://github.com/NaCode-Studios/kmemo"
-  },
-  {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
     "id": "MattJackson/busbarAI",
     "language": "Rust",
@@ -360,15 +396,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
-    "id": "jonathascordeiro20/bioma-framework",
-    "language": "Python",
-    "name": "jonathascordeiro20/bioma-framework",
-    "stars": 1,
-    "updated_at": "2026-07-19T17:58:05Z",
-    "url": "https://github.com/jonathascordeiro20/bioma-framework"
-  },
-  {
     "description": "Pure-forwarding LLM API routing engine as an embeddable Go library \u2014 multi-format (OpenAI/Claude/Gemini) gateway data pl",
     "id": "GetOptaris/optaris-core",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T17:26:14Z",
     "url": "https://github.com/JumpMasters/tollgate"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-19T17:16:29Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 65,
-    "updated_at": "2026-07-19T18:48:57Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode li",
-    "id": "apache/hamilton",
-    "language": "Jupyter Notebook",
-    "name": "apache/hamilton",
-    "stars": 2552,
-    "updated_at": "2026-07-19T17:09:07Z",
-    "url": "https://github.com/apache/hamilton"
   }
 ]
