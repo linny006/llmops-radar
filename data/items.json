@@ -1,10 +1,64 @@
 [
   {
+    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
+    "id": "voly-codes/voly",
+    "language": "Python",
+    "name": "voly-codes/voly",
+    "stars": 10,
+    "updated_at": "2026-07-20T01:40:48Z",
+    "url": "https://github.com/voly-codes/voly"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T01:35:58Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27106,
+    "updated_at": "2026-07-20T01:34:03Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 5,
+    "updated_at": "2026-07-20T01:31:51Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T01:31:04Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
+    "id": "prismal-ai/prismal",
+    "language": "Python",
+    "name": "prismal-ai/prismal",
+    "stars": 1,
+    "updated_at": "2026-07-20T01:31:00Z",
+    "url": "https://github.com/prismal-ai/prismal"
+  },
+  {
     "description": "An open-source reliability scorecard for LLM agents \u2014 measure grounding, safety, PII, and task-completion against fixed ",
     "id": "assevra/assevra",
     "language": "Python",
     "name": "assevra/assevra",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-20T01:23:26Z",
     "url": "https://github.com/assevra/assevra"
   },
@@ -27,33 +81,6 @@
     "url": "https://github.com/OrlojHQ/orloj"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T01:16:08Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T01:14:22Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 5,
-    "updated_at": "2026-07-20T01:02:21Z",
-    "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T00:41:30Z",
     "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
-    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
-    "id": "prismal-ai/prismal",
-    "language": "Python",
-    "name": "prismal-ai/prismal",
-    "stars": 1,
-    "updated_at": "2026-07-20T01:31:00Z",
-    "url": "https://github.com/prismal-ai/prismal"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -106,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T00:21:31Z",
     "url": "https://github.com/dennisbiber/interlock"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27104,
-    "updated_at": "2026-07-20T00:14:33Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "Rodiun/frugon",
     "stars": 180,
-    "updated_at": "2026-07-20T00:31:39Z",
+    "updated_at": "2026-07-20T01:38:08Z",
     "url": "https://github.com/Rodiun/frugon"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 65,
-    "updated_at": "2026-07-19T21:28:43Z",
+    "updated_at": "2026-07-20T01:31:24Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -346,7 +355,7 @@
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 3400,
+    "stars": 3401,
     "updated_at": "2026-07-19T20:59:38Z",
     "url": "https://github.com/langwatch/langwatch"
   },
@@ -409,7 +418,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31431,
+    "stars": 31433,
     "updated_at": "2026-07-19T20:02:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-19T19:53:34Z",
     "url": "https://github.com/uxdw/agent-eval-starter"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-07-19T19:38:49Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
