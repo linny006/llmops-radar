@@ -5,8 +5,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 16,
-    "updated_at": "2026-07-20T10:29:27Z",
+    "updated_at": "2026-07-20T10:40:03Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31471,
+    "updated_at": "2026-07-20T10:43:10Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Local-first Rust CI guard for environment drift and AI prompt output contracts.",
+    "id": "sidsri14/driftguard",
+    "language": "Rust",
+    "name": "sidsri14/driftguard",
+    "stars": 0,
+    "updated_at": "2026-07-20T10:40:38Z",
+    "url": "https://github.com/sidsri14/driftguard"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11696,
+    "updated_at": "2026-07-20T10:42:36Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -14,8 +41,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3402,
-    "updated_at": "2026-07-20T10:30:10Z",
+    "updated_at": "2026-07-20T10:32:44Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T10:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -81,6 +117,15 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 186,
+    "updated_at": "2026-07-20T10:19:42Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -90,15 +135,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T10:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -106,15 +142,6 @@
     "stars": 301,
     "updated_at": "2026-07-20T10:14:38Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31469,
-    "updated_at": "2026-07-20T10:30:20Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20715,
-    "updated_at": "2026-07-20T10:21:01Z",
+    "updated_at": "2026-07-20T10:40:58Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 381,
     "updated_at": "2026-07-20T10:11:18Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11695,
-    "updated_at": "2026-07-20T09:46:22Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T07:33:28Z",
     "url": "https://github.com/tkarim45/model-distillation"
-  },
-  {
-    "description": "LLM observability & tracing: per-request spans (prompt, tokens, latency, cost), online quality evals (groundedness/toxic",
-    "id": "tkarim45/llm-observability",
-    "language": "Python",
-    "name": "tkarim45/llm-observability",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:33:17Z",
-    "url": "https://github.com/tkarim45/llm-observability"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-20T07:33:13Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   }
 ]
