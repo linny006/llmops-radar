@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-20 22:15 UTC
+> ⏰ Last updated: 2026-07-20 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-07-20 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54137 | Python | 2026-07-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [HadirouTamdamba/enterprise-ai-platform](https://github.com/HadirouTamdamba/enterprise-ai-platform) | 0 | Python | 2026-07-20 | Enterprise AI Platform — build, deploy, monitor and govern AI applications at scale (RAG, Agents, MLOps, LLMOps, Governa |
-| 4 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3404 | TypeScript | 2026-07-20 | The platform for LLM evaluations and AI agent testing |
-| 5 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | TypeScript | 2026-07-20 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 6 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-07-20 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 7 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-07-20 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
-| 8 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 10 | TypeScript | 2026-07-20 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 10 | [OrlojHQ/orloj](https://github.com/OrlojHQ/orloj) | 109 | Go | 2026-07-20 | An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu |
-| 11 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-20 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 12 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 6 | Python | 2026-07-20 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
-| 13 | [JumpMasters/tollgate](https://github.com/JumpMasters/tollgate) | 0 | Python | 2026-07-20 | A pre-charge spend control plane that enforces hard budgets on AI model usage. |
-| 14 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 12 | Rust | 2026-07-20 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
-| 15 | [tokenpanel/tokenpanel](https://github.com/tokenpanel/tokenpanel) | 3 | TypeScript | 2026-07-20 | Open-source AI reseller panel with customer API keys, prepaid balances, usage limits, model pricing, and profit analytic |
-| 16 | [JonyKarmakar/vision-command-ai](https://github.com/JonyKarmakar/vision-command-ai) | 0 | TypeScript | 2026-07-20 | End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock |
-| 17 | [souheil-haouala/ai-pipeline-agent](https://github.com/souheil-haouala/ai-pipeline-agent) | 0 | Python | 2026-07-20 | Enterprise-grade AI DevOps engine built in Python to dynamically generate and strictly validate type-safe GitHub Actions |
-| 18 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23446 | TypeScript | 2026-07-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | TypeScript | 2026-07-20 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23446 | TypeScript | 2026-07-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54138 | Python | 2026-07-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [JonyKarmakar/vision-command-ai](https://github.com/JonyKarmakar/vision-command-ai) | 0 | TypeScript | 2026-07-20 | End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-07-20 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
+| 7 | [HadirouTamdamba/enterprise-ai-platform](https://github.com/HadirouTamdamba/enterprise-ai-platform) | 0 | Python | 2026-07-20 | Enterprise AI Platform — build, deploy, monitor and govern AI applications at scale (RAG, Agents, MLOps, LLMOps, Governa |
+| 8 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3404 | TypeScript | 2026-07-20 | The platform for LLM evaluations and AI agent testing |
+| 9 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-07-20 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 10 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-07-20 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
+| 11 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 10 | TypeScript | 2026-07-20 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
+| 12 | [OrlojHQ/orloj](https://github.com/OrlojHQ/orloj) | 109 | Go | 2026-07-20 | An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu |
+| 13 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-20 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 14 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 6 | Python | 2026-07-20 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
+| 15 | [JumpMasters/tollgate](https://github.com/JumpMasters/tollgate) | 0 | Python | 2026-07-20 | A pre-charge spend control plane that enforces hard budgets on AI model usage. |
+| 16 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 12 | Rust | 2026-07-20 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
+| 17 | [tokenpanel/tokenpanel](https://github.com/tokenpanel/tokenpanel) | 3 | TypeScript | 2026-07-20 | Open-source AI reseller panel with customer API keys, prepaid balances, usage limits, model pricing, and profit analytic |
+| 18 | [souheil-haouala/ai-pipeline-agent](https://github.com/souheil-haouala/ai-pipeline-agent) | 0 | Python | 2026-07-20 | Enterprise-grade AI DevOps engine built in Python to dynamically generate and strictly validate type-safe GitHub Actions |
 | 19 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10642 | Python | 2026-07-20 | AI Observability & Evaluation |
 | 20 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 66 | Python | 2026-07-20 | Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for |
 | 21 | [truera/trulens](https://github.com/truera/trulens) | 3448 | Python | 2026-07-20 | Evaluation and Tracking for LLM Experiments and AI Agents |
