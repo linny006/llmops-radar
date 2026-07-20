@@ -1,5 +1,77 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-20T15:08:30Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-20T15:08:21Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3448,
+    "updated_at": "2026-07-20T15:06:51Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54113,
+    "updated_at": "2026-07-20T15:05:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 1,
+    "updated_at": "2026-07-20T15:04:16Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-20T15:14:51Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T15:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31494,
+    "updated_at": "2026-07-20T14:59:46Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-20T14:54:25Z",
+    "updated_at": "2026-07-20T15:05:07Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -40,7 +112,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2441,
+    "stars": 2442,
     "updated_at": "2026-07-20T14:51:17Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -54,15 +126,6 @@
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-20T14:49:05Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -72,21 +135,12 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T14:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 303,
-    "updated_at": "2026-07-20T14:48:53Z",
+    "updated_at": "2026-07-20T15:02:31Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -95,17 +149,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3403,
-    "updated_at": "2026-07-20T14:56:30Z",
+    "updated_at": "2026-07-20T15:00:36Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 1,
-    "updated_at": "2026-07-20T14:53:22Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -122,17 +167,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6626,
-    "updated_at": "2026-07-20T14:53:39Z",
+    "updated_at": "2026-07-20T15:10:19Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31491,
-    "updated_at": "2026-07-20T14:59:46Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -151,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T14:36:12Z",
     "url": "https://github.com/hari9618/atlas-agentic-research"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-20T15:00:06Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54112,
-    "updated_at": "2026-07-20T14:55:30Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Benchmark LLMs head-to-head on your own prompts. ",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20721,
-    "updated_at": "2026-07-20T14:58:53Z",
+    "updated_at": "2026-07-20T15:11:16Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-20T14:30:21Z",
+    "updated_at": "2026-07-20T15:02:23Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1282,
-    "updated_at": "2026-07-20T14:32:25Z",
+    "updated_at": "2026-07-20T15:10:52Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T13:26:20Z",
     "url": "https://github.com/GetOptaris/optaris-core"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-20T13:10:14Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
@@ -439,14 +448,5 @@
     "stars": 16,
     "updated_at": "2026-07-20T11:22:10Z",
     "url": "https://github.com/yzhao062/auditable"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-20T14:58:16Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   }
 ]
