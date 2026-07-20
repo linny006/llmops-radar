@@ -1,12 +1,21 @@
 [
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-20T15:27:26Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1101,
+    "updated_at": "2026-07-20T15:40:50Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Enterprise AI Platform \u2014 build, deploy, monitor and govern AI applications at scale (RAG, Agents, MLOps, LLMOps, Governa",
+    "id": "HadirouTamdamba/enterprise-ai-platform",
+    "language": "Python",
+    "name": "HadirouTamdamba/enterprise-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-07-20T15:40:38Z",
+    "url": "https://github.com/HadirouTamdamba/enterprise-ai-platform"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-20T15:24:24Z",
+    "updated_at": "2026-07-20T15:40:38Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
+    "id": "shyftlabs/continuum",
+    "language": "Python",
+    "name": "shyftlabs/continuum",
+    "stars": 75,
+    "updated_at": "2026-07-20T15:34:51Z",
+    "url": "https://github.com/shyftlabs/continuum"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 4,
+    "updated_at": "2026-07-20T15:33:31Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3448,
-    "updated_at": "2026-07-20T15:20:41Z",
+    "updated_at": "2026-07-20T15:33:16Z",
     "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-20T15:32:35Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +68,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 5,
-    "updated_at": "2026-07-20T15:20:08Z",
+    "updated_at": "2026-07-20T15:30:24Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31496,
+    "updated_at": "2026-07-20T15:28:06Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-20T15:27:26Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Out-Of-Tree Llama Stack Eval Provider for Red Teaming LLM Systems with Garak",
@@ -54,21 +108,12 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-20T15:26:01Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-20T15:08:30Z",
+    "updated_at": "2026-07-20T15:44:54Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -85,7 +130,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54114,
+    "stars": 54119,
     "updated_at": "2026-07-20T15:05:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T15:04:16Z",
     "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31494,
-    "updated_at": "2026-07-20T15:28:06Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
@@ -185,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3403,
-    "updated_at": "2026-07-20T15:29:22Z",
+    "updated_at": "2026-07-20T15:45:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1282,
-    "updated_at": "2026-07-20T15:30:05Z",
+    "updated_at": "2026-07-20T15:43:51Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -304,15 +340,6 @@
     "stars": 27113,
     "updated_at": "2026-07-20T13:40:35Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 4,
-    "updated_at": "2026-07-20T15:19:35Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
     "description": "Pure-forwarding LLM API routing engine as an embeddable Go library \u2014 multi-format (OpenAI/Claude/Gemini) gateway data pl",
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10641,
-    "updated_at": "2026-07-20T15:29:31Z",
+    "updated_at": "2026-07-20T15:44:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T12:14:17Z",
     "url": "https://github.com/runcycles/cycles-server-events"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-20T12:08:52Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Incident-triage agent that cites real evidence or abstains \u2014 model-agnostic, read-only MCP servers, frontier-competitive",
-    "id": "Rajeev-Shyam/Quellgeist",
-    "language": "Python",
-    "name": "Rajeev-Shyam/Quellgeist",
-    "stars": 1,
-    "updated_at": "2026-07-20T12:03:05Z",
-    "url": "https://github.com/Rajeev-Shyam/Quellgeist"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-20T11:22:22Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
