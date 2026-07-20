@@ -1,12 +1,21 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-20T08:57:30Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-07-20T09:13:51Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2439,
+    "updated_at": "2026-07-20T09:12:32Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -14,8 +23,80 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-20T08:56:13Z",
+    "updated_at": "2026-07-20T09:09:36Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
+    "id": "Tourinhan/Fund-of-Brian",
+    "language": "HTML",
+    "name": "Tourinhan/Fund-of-Brian",
+    "stars": 0,
+    "updated_at": "2026-07-20T09:06:20Z",
+    "url": "https://github.com/Tourinhan/Fund-of-Brian"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 69,
+    "updated_at": "2026-07-20T09:05:13Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T09:05:13Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 0,
+    "updated_at": "2026-07-20T09:04:14Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 524,
+    "updated_at": "2026-07-20T09:04:11Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31465,
+    "updated_at": "2026-07-20T09:03:39Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T09:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-20T08:57:30Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -41,35 +122,17 @@
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 26,
-    "updated_at": "2026-07-20T08:53:17Z",
+    "updated_at": "2026-07-20T09:08:51Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
-    "id": "Tourinhan/Fund-of-Brian",
-    "language": "HTML",
-    "name": "Tourinhan/Fund-of-Brian",
-    "stars": 0,
-    "updated_at": "2026-07-20T08:46:15Z",
-    "url": "https://github.com/Tourinhan/Fund-of-Brian"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T08:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2439,
-    "updated_at": "2026-07-20T08:44:38Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "name": "comet-ml/opik",
+    "stars": 20715,
+    "updated_at": "2026-07-20T09:14:11Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -77,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6619,
-    "updated_at": "2026-07-20T08:41:19Z",
+    "updated_at": "2026-07-20T09:15:20Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -85,7 +148,7 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11691,
+    "stars": 11692,
     "updated_at": "2026-07-20T08:39:30Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -126,24 +189,6 @@
     "url": "https://github.com/zenml-io/zenml"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T08:32:46Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31464,
-    "updated_at": "2026-07-20T08:31:26Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
     "id": "bj-qizhi/trigix",
     "language": "Rust",
@@ -158,7 +203,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-20T08:51:54Z",
+    "updated_at": "2026-07-20T09:13:11Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Go",
     "name": "dativo-io/talon",
     "stars": 11,
-    "updated_at": "2026-07-20T08:24:44Z",
+    "updated_at": "2026-07-20T09:02:53Z",
     "url": "https://github.com/dativo-io/talon"
   },
   {
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3402,
-    "updated_at": "2026-07-20T08:56:35Z",
+    "updated_at": "2026-07-20T09:06:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -230,7 +275,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 4,
-    "updated_at": "2026-07-20T08:50:39Z",
+    "updated_at": "2026-07-20T09:15:06Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -283,18 +328,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54082,
+    "stars": 54083,
     "updated_at": "2026-07-20T07:28:47Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 68,
-    "updated_at": "2026-07-20T07:27:52Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Teach + benchmark every layer of production RAG on one shared harness \u2014 chunking, embeddings, indexing, retrieval, reran",
@@ -304,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T07:26:11Z",
     "url": "https://github.com/tkarim45/production-rag-lab"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20714,
-    "updated_at": "2026-07-20T08:52:50Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
@@ -338,7 +365,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1281,
-    "updated_at": "2026-07-20T08:58:35Z",
+    "updated_at": "2026-07-20T09:12:46Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-20T06:07:16Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Hermes Agent starter kit for safe scheduled, stateful AI-agent loops",
-    "id": "gregoryhorn/hermes-loop-engineering",
-    "language": "Python",
-    "name": "gregoryhorn/hermes-loop-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:03:43Z",
-    "url": "https://github.com/gregoryhorn/hermes-loop-engineering"
-  },
-  {
-    "description": "Production-grade, cloud-agnostic framework for building enterprise AI agents \u2014 Plan/Reason/Act/Respond orchestration, RA",
-    "id": "praveenbommalibits/medha-agentic-ai",
-    "language": "Python",
-    "name": "praveenbommalibits/medha-agentic-ai",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:02:39Z",
-    "url": "https://github.com/praveenbommalibits/medha-agentic-ai"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 2,
-    "updated_at": "2026-07-20T06:00:38Z",
-    "url": "https://github.com/crewhaus/factory"
   }
 ]
