@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 5,
-    "updated_at": "2026-07-20T04:44:51Z",
+    "updated_at": "2026-07-20T04:51:30Z",
     "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:49:52Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 4,
+    "updated_at": "2026-07-20T04:46:50Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T04:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -16,15 +43,6 @@
     "stars": 143,
     "updated_at": "2026-07-20T04:41:11Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-20T04:42:14Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
@@ -52,15 +70,6 @@
     "stars": 5,
     "updated_at": "2026-07-20T04:32:50Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T04:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governance & observability for your AI capabilities in Spring Boot \u2014 capability registry, versioning, per-capability cos",
@@ -157,7 +166,7 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11646,
+    "stars": 11647,
     "updated_at": "2026-07-20T02:53:52Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -439,14 +448,5 @@
     "stars": 65,
     "updated_at": "2026-07-20T01:31:24Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-07-19T21:52:10Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
