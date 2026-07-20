@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-20 10:45 UTC
+> ⏰ Last updated: 2026-07-20 10:49 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 16 | Go | 2026-07-20 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31471 | TypeScript | 2026-07-20 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 3 | [sidsri14/driftguard](https://github.com/sidsri14/driftguard) | 0 | Rust | 2026-07-20 | Local-first Rust CI guard for environment drift and AI prompt output contracts. |
-| 4 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11696 | Python | 2026-07-20 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
-| 5 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3402 | TypeScript | 2026-07-20 | The platform for LLM evaluations and AI agent testing |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 16 | Go | 2026-07-20 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31471 | TypeScript | 2026-07-20 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 4 | [sidsri14/driftguard](https://github.com/sidsri14/driftguard) | 0 | Rust | 2026-07-20 | Local-first Rust CI guard for environment drift and AI prompt output contracts. |
+| 5 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11696 | Python | 2026-07-20 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
+| 6 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3402 | TypeScript | 2026-07-20 | The platform for LLM evaluations and AI agent testing |
 | 7 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 0 | Go | 2026-07-20 | Temporal workers and clients for wrapping access to different LLMs |
 | 8 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-07-20 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
 | 9 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 3 | Java | 2026-07-20 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
