@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
+    "id": "Drlinglong/Remis",
+    "language": "Python",
+    "name": "Drlinglong/Remis",
+    "stars": 24,
+    "updated_at": "2026-07-20T18:44:21Z",
+    "url": "https://github.com/Drlinglong/Remis"
+  },
+  {
+    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
+    "id": "runcycles/cycles-dashboard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-dashboard",
+    "stars": 0,
+    "updated_at": "2026-07-20T18:43:55Z",
+    "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-07-20T18:40:45Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-20T18:30:28Z",
+    "updated_at": "2026-07-20T18:44:55Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-20T18:38:52Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T18:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10641,
+    "updated_at": "2026-07-20T18:30:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T18:27:11Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 6,
-    "updated_at": "2026-07-20T18:26:42Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Enterprise AI Platform \u2014 build, deploy, monitor and govern AI applications at scale (RAG, Agents, MLOps, LLMOps, Governa",
@@ -41,17 +86,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54127,
-    "updated_at": "2026-07-20T18:24:21Z",
+    "updated_at": "2026-07-20T18:44:26Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
-    "id": "Drlinglong/Remis",
-    "language": "Python",
-    "name": "Drlinglong/Remis",
-    "stars": 24,
-    "updated_at": "2026-07-20T18:19:26Z",
-    "url": "https://github.com/Drlinglong/Remis"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -88,15 +124,6 @@
     "stars": 23441,
     "updated_at": "2026-07-20T18:15:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T18:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3403,
-    "updated_at": "2026-07-20T18:11:46Z",
+    "updated_at": "2026-07-20T18:31:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -229,7 +256,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6632,
+    "stars": 6633,
     "updated_at": "2026-07-20T18:01:51Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 303,
-    "updated_at": "2026-07-20T17:53:33Z",
+    "updated_at": "2026-07-20T18:35:35Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -266,7 +293,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3102,
-    "updated_at": "2026-07-20T18:28:02Z",
+    "updated_at": "2026-07-20T18:34:35Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 1061,
     "updated_at": "2026-07-20T17:16:40Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10642,
-    "updated_at": "2026-07-20T18:30:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -430,23 +448,5 @@
     "stars": 11702,
     "updated_at": "2026-07-20T16:25:04Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
-    "id": "krishkumar4400/weights-to-prod",
-    "language": "Jupyter Notebook",
-    "name": "krishkumar4400/weights-to-prod",
-    "stars": 1,
-    "updated_at": "2026-07-20T16:14:20Z",
-    "url": "https://github.com/krishkumar4400/weights-to-prod"
-  },
-  {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 4,
-    "updated_at": "2026-07-20T16:02:00Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   }
 ]
