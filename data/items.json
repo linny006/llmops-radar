@@ -1,11 +1,29 @@
 [
   {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 10,
+    "updated_at": "2026-07-20T17:58:48Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-20T17:57:46Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-20T17:44:43Z",
+    "updated_at": "2026-07-20T17:57:24Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -14,26 +32,71 @@
     "language": "Python",
     "name": "JumpMasters/tollgate",
     "stars": 0,
-    "updated_at": "2026-07-20T17:45:23Z",
+    "updated_at": "2026-07-20T17:53:55Z",
     "url": "https://github.com/JumpMasters/tollgate"
   },
   {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 303,
+    "updated_at": "2026-07-20T17:53:33Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-20T17:52:33Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
     "stars": 10,
-    "updated_at": "2026-07-20T17:43:47Z",
-    "url": "https://github.com/Eval-core/evalcore"
+    "updated_at": "2026-07-20T17:52:23Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6630,
-    "updated_at": "2026-07-20T17:42:50Z",
+    "stars": 6631,
+    "updated_at": "2026-07-20T17:59:55Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
+    "id": "Drlinglong/Remis",
+    "language": "Python",
+    "name": "Drlinglong/Remis",
+    "stars": 24,
+    "updated_at": "2026-07-20T17:49:40Z",
+    "url": "https://github.com/Drlinglong/Remis"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3102,
+    "updated_at": "2026-07-20T17:58:29Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T17:45:42Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Curated, machine-readable resources for AI evaluation, observability, guardrails, governance, security, and deployment.",
@@ -68,17 +131,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-20T17:38:24Z",
+    "updated_at": "2026-07-20T17:51:58Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T17:30:45Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54125,
-    "updated_at": "2026-07-20T17:44:00Z",
+    "updated_at": "2026-07-20T17:50:20Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -112,7 +166,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31502,
+    "stars": 31503,
     "updated_at": "2026-07-20T17:16:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-20T17:42:50Z",
+    "updated_at": "2026-07-20T17:48:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -160,24 +214,6 @@
     "stars": 16,
     "updated_at": "2026-07-20T17:04:31Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 303,
-    "updated_at": "2026-07-20T17:02:50Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-20T16:57:42Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
@@ -203,17 +239,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3403,
-    "updated_at": "2026-07-20T17:45:15Z",
+    "updated_at": "2026-07-20T17:54:49Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 6,
-    "updated_at": "2026-07-20T16:53:18Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -223,6 +250,15 @@
     "stars": 3448,
     "updated_at": "2026-07-20T16:47:28Z",
     "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20721,
+    "updated_at": "2026-07-20T17:55:09Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
@@ -261,13 +297,13 @@
     "url": "https://github.com/aantenore/truthlease"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20722,
-    "updated_at": "2026-07-20T16:46:18Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "dataelement/bisheng",
+    "stars": 11702,
+    "updated_at": "2026-07-20T16:25:04Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
@@ -304,15 +340,6 @@
     "stars": 171,
     "updated_at": "2026-07-20T15:58:08Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-20T15:54:38Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -421,32 +448,5 @@
     "stars": 2442,
     "updated_at": "2026-07-20T14:51:17Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11701,
-    "updated_at": "2026-07-20T16:25:04Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-07-20T14:36:39Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Autonomous multi-agent due-diligence desk \u2014 LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving",
-    "id": "hari9618/atlas-agentic-research",
-    "language": "Python",
-    "name": "hari9618/atlas-agentic-research",
-    "stars": 1,
-    "updated_at": "2026-07-20T14:36:12Z",
-    "url": "https://github.com/hari9618/atlas-agentic-research"
   }
 ]
