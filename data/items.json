@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-20T10:59:22Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Incident-triage agent that cites real evidence or abstains \u2014 model-agnostic, read-only MCP servers, frontier-competitive",
+    "id": "Rajeev-Shyam/Quellgeist",
+    "language": "Python",
+    "name": "Rajeev-Shyam/Quellgeist",
+    "stars": 1,
+    "updated_at": "2026-07-20T10:59:18Z",
+    "url": "https://github.com/Rajeev-Shyam/Quellgeist"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 5,
+    "updated_at": "2026-07-20T10:58:29Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31474,
+    "updated_at": "2026-07-20T10:57:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 3,
+    "updated_at": "2026-07-20T10:54:40Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 5,
-    "updated_at": "2026-07-20T10:45:25Z",
+    "updated_at": "2026-07-20T10:49:49Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11697,
+    "updated_at": "2026-07-20T10:42:36Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -18,15 +72,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31471,
-    "updated_at": "2026-07-20T10:48:02Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Local-first Rust CI guard for environment drift and AI prompt output contracts.",
     "id": "sidsri14/driftguard",
     "language": "Rust",
@@ -36,21 +81,12 @@
     "url": "https://github.com/sidsri14/driftguard"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11696,
-    "updated_at": "2026-07-20T10:42:36Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3402,
-    "updated_at": "2026-07-20T10:32:44Z",
+    "updated_at": "2026-07-20T10:57:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -59,7 +95,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-20T10:26:26Z",
+    "updated_at": "2026-07-20T10:59:52Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -86,7 +122,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 4,
-    "updated_at": "2026-07-20T10:24:11Z",
+    "updated_at": "2026-07-20T10:50:27Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 54,
     "updated_at": "2026-07-20T10:22:08Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 5,
-    "updated_at": "2026-07-20T10:21:45Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -122,7 +149,7 @@
     "language": "Go",
     "name": "ferro-labs/ai-gateway",
     "stars": 186,
-    "updated_at": "2026-07-20T10:19:42Z",
+    "updated_at": "2026-07-20T10:51:24Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
@@ -193,7 +220,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54087,
+    "stars": 54089,
     "updated_at": "2026-07-20T10:04:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -378,15 +405,6 @@
     "url": "https://github.com/zenml-io/zenml"
   },
   {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 3,
-    "updated_at": "2026-07-20T08:30:22Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
     "id": "Yigtwxx/awesome-rag-production",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T07:48:08Z",
     "url": "https://github.com/EMT5320/llm-inference-lab"
-  },
-  {
-    "description": "Semantic (similarity) cache for LLM apps \u2014 serve cached answers to paraphrased queries, benchmarked on cost/latency save",
-    "id": "tkarim45/semantic-cache",
-    "language": "Python",
-    "name": "tkarim45/semantic-cache",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:33:46Z",
-    "url": "https://github.com/tkarim45/semantic-cache"
-  },
-  {
-    "description": "Distill Claude's topic classification into a local TF-IDF+LogReg student (real Haiku teacher on Bedrock). Recovers 81% o",
-    "id": "tkarim45/model-distillation",
-    "language": "Python",
-    "name": "tkarim45/model-distillation",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:33:28Z",
-    "url": "https://github.com/tkarim45/model-distillation"
   }
 ]
