@@ -1,5 +1,23 @@
 [
   {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 5,
+    "updated_at": "2026-07-20T01:53:12Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T01:45:44Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
     "id": "voly-codes/voly",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 10,
     "updated_at": "2026-07-20T01:40:48Z",
     "url": "https://github.com/voly-codes/voly"
+  },
+  {
+    "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine.",
+    "id": "Rodiun/frugon",
+    "language": "Python",
+    "name": "Rodiun/frugon",
+    "stars": 181,
+    "updated_at": "2026-07-20T01:38:08Z",
+    "url": "https://github.com/Rodiun/frugon"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -22,27 +49,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27106,
+    "stars": 27107,
     "updated_at": "2026-07-20T01:34:03Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 5,
-    "updated_at": "2026-07-20T01:31:51Z",
-    "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T01:31:04Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
@@ -130,7 +139,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54032,
+    "stars": 54036,
     "updated_at": "2026-07-20T00:10:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -241,15 +250,6 @@
     "stars": 10628,
     "updated_at": "2026-07-19T23:07:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine.",
-    "id": "Rodiun/frugon",
-    "language": "Python",
-    "name": "Rodiun/frugon",
-    "stars": 180,
-    "updated_at": "2026-07-20T01:38:08Z",
-    "url": "https://github.com/Rodiun/frugon"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -418,7 +418,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31433,
+    "stars": 31434,
     "updated_at": "2026-07-19T20:02:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
