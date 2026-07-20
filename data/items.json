@@ -1,5 +1,68 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-20T05:29:26Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T05:23:06Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Build reliable, secure, and production-ready AI apps easily.",
+    "id": "Portkey-AI/portkey-python-sdk",
+    "language": "Python",
+    "name": "Portkey-AI/portkey-python-sdk",
+    "stars": 116,
+    "updated_at": "2026-07-20T05:23:01Z",
+    "url": "https://github.com/Portkey-AI/portkey-python-sdk"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-20T05:21:18Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "S-H-I-F-T \u2014 Shared Harness for Intelligence, Flow & Traceability. Organizational memory for measurable agent execution.",
+    "id": "canhta/shift",
+    "language": "\u2014",
+    "name": "canhta/shift",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:19:08Z",
+    "url": "https://github.com/canhta/shift"
+  },
+  {
+    "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
+    "id": "golikovichev/pytest-resilience-agent",
+    "language": "Python",
+    "name": "golikovichev/pytest-resilience-agent",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:17:57Z",
+    "url": "https://github.com/golikovichev/pytest-resilience-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T05:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
     "id": "voly-codes/voly",
     "language": "Python",
@@ -18,15 +81,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "S-H-I-F-T \u2014 Shared Harness for Intelligence, Flow & Traceability. Organizational memory for measurable agent execution.",
-    "id": "canhta/shift",
-    "language": "\u2014",
-    "name": "canhta/shift",
-    "stars": 0,
-    "updated_at": "2026-07-20T05:13:36Z",
-    "url": "https://github.com/canhta/shift"
-  },
-  {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
     "id": "project-arbr/arbr-control-plane",
     "language": "JavaScript",
@@ -34,24 +88,6 @@
     "stars": 4,
     "updated_at": "2026-07-20T05:13:27Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T05:09:36Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-20T05:15:15Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T05:02:48Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T05:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -106,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T04:35:07Z",
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-20T04:33:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
@@ -194,7 +212,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2437,
-    "updated_at": "2026-07-20T03:26:52Z",
+    "updated_at": "2026-07-20T05:24:06Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 10633,
     "updated_at": "2026-07-19T23:07:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 0,
-    "updated_at": "2026-07-19T22:40:14Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 0,
-    "updated_at": "2026-07-19T22:34:28Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   }
 ]
