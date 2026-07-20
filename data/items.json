@@ -1,12 +1,12 @@
 [
   {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
+    "description": "Open-source AI reseller panel with customer API keys, prepaid balances, usage limits, model pricing, and profit analytic",
+    "id": "tokenpanel/tokenpanel",
     "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-07-20T20:43:34Z",
-    "url": "https://github.com/iblai/os"
+    "name": "tokenpanel/tokenpanel",
+    "stars": 3,
+    "updated_at": "2026-07-20T20:58:49Z",
+    "url": "https://github.com/tokenpanel/tokenpanel"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -14,8 +14,53 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 10,
-    "updated_at": "2026-07-20T20:41:05Z",
+    "updated_at": "2026-07-20T20:53:53Z",
     "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-20T20:48:54Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54133,
+    "updated_at": "2026-07-20T21:00:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3404,
+    "updated_at": "2026-07-20T20:58:41Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T20:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-07-20T20:59:50Z",
+    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Enterprise AI Platform \u2014 build, deploy, monitor and govern AI applications at scale (RAG, Agents, MLOps, LLMOps, Governa",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T20:35:06Z",
     "url": "https://github.com/HadirouTamdamba/enterprise-ai-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T20:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20723,
-    "updated_at": "2026-07-20T20:25:42Z",
+    "updated_at": "2026-07-20T20:59:17Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -90,13 +126,13 @@
     "url": "https://github.com/RitikPatill/promptprobe"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
     "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-20T20:21:58Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "name": "maximhq/bifrost",
+    "stars": 6636,
+    "updated_at": "2026-07-20T20:20:47Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-20T20:43:47Z",
+    "updated_at": "2026-07-20T20:59:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T20:16:45Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54132,
-    "updated_at": "2026-07-20T20:44:03Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
@@ -225,13 +252,13 @@
     "url": "https://github.com/Edge-Computing-LLM/Edge-Computing-LLM-Documentation"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3404,
-    "updated_at": "2026-07-20T20:28:02Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "name": "lmnr-ai/lmnr",
+    "stars": 3103,
+    "updated_at": "2026-07-20T19:06:55Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -241,15 +268,6 @@
     "stars": 6,
     "updated_at": "2026-07-20T19:02:37Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6635,
-    "updated_at": "2026-07-20T20:20:47Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
@@ -268,6 +286,15 @@
     "stars": 2,
     "updated_at": "2026-07-20T18:53:26Z",
     "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1103,
+    "updated_at": "2026-07-20T18:52:41Z",
+    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T17:53:55Z",
     "url": "https://github.com/JumpMasters/tollgate"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 303,
-    "updated_at": "2026-07-20T19:29:00Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3102,
-    "updated_at": "2026-07-20T19:06:55Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Curated, machine-readable resources for AI evaluation, observability, guardrails, governance, security, and deployment.",
-    "id": "Anonymousyz/awesome-ai-production-readiness",
-    "language": "Python",
-    "name": "Anonymousyz/awesome-ai-production-readiness",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:37:52Z",
-    "url": "https://github.com/Anonymousyz/awesome-ai-production-readiness"
   }
 ]
