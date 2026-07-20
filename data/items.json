@@ -1,11 +1,83 @@
 [
   {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 5,
+    "updated_at": "2026-07-20T05:59:28Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:57:25Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:54:00Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 52,
+    "updated_at": "2026-07-20T05:51:21Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Build reliable, secure, and production-ready AI apps easily.",
+    "id": "Portkey-AI/portkey-python-sdk",
+    "language": "Python",
+    "name": "Portkey-AI/portkey-python-sdk",
+    "stars": 116,
+    "updated_at": "2026-07-20T05:48:49Z",
+    "url": "https://github.com/Portkey-AI/portkey-python-sdk"
+  },
+  {
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
+    "id": "ContextJet-ai/awesome-llm-observability",
+    "language": "Python",
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "stars": 22,
+    "updated_at": "2026-07-20T05:47:51Z",
+    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T05:45:28Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T05:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-20T05:44:50Z",
+    "updated_at": "2026-07-20T05:50:29Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -14,17 +86,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1280,
-    "updated_at": "2026-07-20T05:32:02Z",
+    "updated_at": "2026-07-20T05:57:02Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Build reliable, secure, and production-ready AI apps easily.",
-    "id": "Portkey-AI/portkey-python-sdk",
-    "language": "Python",
-    "name": "Portkey-AI/portkey-python-sdk",
-    "stars": 116,
-    "updated_at": "2026-07-20T05:32:36Z",
-    "url": "https://github.com/Portkey-AI/portkey-python-sdk"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -36,15 +99,6 @@
     "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T05:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb",
     "id": "baabakk/versioned-store",
     "language": "TypeScript",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T05:41:48Z",
     "url": "https://github.com/baabakk/versioned-store"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T05:23:06Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -131,7 +176,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-20T05:34:23Z",
+    "updated_at": "2026-07-20T05:56:32Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T04:35:07Z",
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 5,
-    "updated_at": "2026-07-20T04:32:50Z",
-    "url": "https://github.com/admina-org/admina"
   },
   {
     "description": "Governance & observability for your AI capabilities in Spring Boot \u2014 capability registry, versioning, per-capability cos",
@@ -223,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T04:04:24Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 0,
-    "updated_at": "2026-07-20T03:56:26Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -283,7 +310,7 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11661,
+    "stars": 11664,
     "updated_at": "2026-07-20T02:53:52Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T23:39:52Z",
     "url": "https://github.com/copyleftdev/rational"
-  },
-  {
-    "description": "Local LLM cost-tracking proxy for OpenAI, Anthropic, Gemini, and pinned OpenRouter calls with token usage, failure, and ",
-    "id": "inferock/inferock-bench",
-    "language": "TypeScript",
-    "name": "inferock/inferock-bench",
-    "stars": 63,
-    "updated_at": "2026-07-19T23:33:50Z",
-    "url": "https://github.com/inferock/inferock-bench"
-  },
-  {
-    "description": "Enterprise-grade AI DevOps engine built in Python to dynamically generate and strictly validate type-safe GitHub Actions",
-    "id": "souheil-haouala/ai-pipeline-agent",
-    "language": "Python",
-    "name": "souheil-haouala/ai-pipeline-agent",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:26:35Z",
-    "url": "https://github.com/souheil-haouala/ai-pipeline-agent"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-19T23:24:00Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
