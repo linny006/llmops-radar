@@ -1,12 +1,102 @@
 [
   {
-    "description": "Deterministic coherence control plane that blocks AI agents from acting on stale decisions after their dependencies chan",
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 66,
+    "updated_at": "2026-07-20T16:44:20Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-20T16:43:02Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
+    "id": "jonathascordeiro20/bioma-framework",
+    "language": "Python",
+    "name": "jonathascordeiro20/bioma-framework",
+    "stars": 1,
+    "updated_at": "2026-07-20T16:41:32Z",
+    "url": "https://github.com/jonathascordeiro20/bioma-framework"
+  },
+  {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 10,
+    "updated_at": "2026-07-20T16:41:01Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31501,
+    "updated_at": "2026-07-20T16:40:36Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Curated, machine-readable resources for AI evaluation, observability, guardrails, governance, security, and deployment.",
+    "id": "Anonymousyz/awesome-ai-production-readiness",
+    "language": "Python",
+    "name": "Anonymousyz/awesome-ai-production-readiness",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:39:15Z",
+    "url": "https://github.com/Anonymousyz/awesome-ai-production-readiness"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-20T16:38:54Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6629,
+    "updated_at": "2026-07-20T16:34:04Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:45:14Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Deterministic coherence control plane for AI artifacts, with verifiable target-side conditional commits.",
     "id": "aantenore/truthlease",
     "language": "Python",
     "name": "aantenore/truthlease",
     "stars": 0,
-    "updated_at": "2026-07-20T16:30:03Z",
+    "updated_at": "2026-07-20T16:33:14Z",
     "url": "https://github.com/aantenore/truthlease"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T16:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -14,17 +104,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20722,
-    "updated_at": "2026-07-20T16:24:36Z",
+    "updated_at": "2026-07-20T16:41:23Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 2,
-    "updated_at": "2026-07-20T16:24:09Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -34,33 +115,6 @@
     "stars": 3448,
     "updated_at": "2026-07-20T16:22:41Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
-    "id": "jonathascordeiro20/bioma-framework",
-    "language": "Python",
-    "name": "jonathascordeiro20/bioma-framework",
-    "stars": 1,
-    "updated_at": "2026-07-20T16:22:05Z",
-    "url": "https://github.com/jonathascordeiro20/bioma-framework"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T16:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31500,
-    "updated_at": "2026-07-20T16:29:44Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
@@ -77,17 +131,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-20T16:09:03Z",
+    "updated_at": "2026-07-20T16:31:22Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-20T16:29:08Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54124,
-    "updated_at": "2026-07-20T16:26:53Z",
+    "updated_at": "2026-07-20T16:43:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3403,
-    "updated_at": "2026-07-20T16:26:41Z",
+    "updated_at": "2026-07-20T16:44:03Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -221,26 +266,8 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 4,
-    "updated_at": "2026-07-20T16:29:50Z",
+    "updated_at": "2026-07-20T16:39:41Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-20T15:27:26Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6629,
-    "updated_at": "2026-07-20T15:16:55Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Out-Of-Tree Llama Stack Eval Provider for Red Teaming LLM Systems with Garak",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 303,
-    "updated_at": "2026-07-20T16:30:20Z",
+    "updated_at": "2026-07-20T16:40:18Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T13:26:20Z",
     "url": "https://github.com/GetOptaris/optaris-core"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 187,
-    "updated_at": "2026-07-20T13:06:19Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-20T12:52:34Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
-    "id": "okfriansyah-moh/the-foundry",
-    "language": "Go",
-    "name": "okfriansyah-moh/the-foundry",
-    "stars": 0,
-    "updated_at": "2026-07-20T12:52:30Z",
-    "url": "https://github.com/okfriansyah-moh/the-foundry"
   }
 ]
