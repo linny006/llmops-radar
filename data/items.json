@@ -5,8 +5,53 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-20T05:29:26Z",
+    "updated_at": "2026-07-20T05:44:50Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1280,
+    "updated_at": "2026-07-20T05:32:02Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Build reliable, secure, and production-ready AI apps easily.",
+    "id": "Portkey-AI/portkey-python-sdk",
+    "language": "Python",
+    "name": "Portkey-AI/portkey-python-sdk",
+    "stars": 116,
+    "updated_at": "2026-07-20T05:32:36Z",
+    "url": "https://github.com/Portkey-AI/portkey-python-sdk"
+  },
+  {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "Java",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 5,
+    "updated_at": "2026-07-20T05:31:38Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T05:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb",
+    "id": "baabakk/versioned-store",
+    "language": "TypeScript",
+    "name": "baabakk/versioned-store",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:41:48Z",
+    "url": "https://github.com/baabakk/versioned-store"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -16,15 +61,6 @@
     "stars": 75,
     "updated_at": "2026-07-20T05:23:06Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Build reliable, secure, and production-ready AI apps easily.",
-    "id": "Portkey-AI/portkey-python-sdk",
-    "language": "Python",
-    "name": "Portkey-AI/portkey-python-sdk",
-    "stars": 116,
-    "updated_at": "2026-07-20T05:23:01Z",
-    "url": "https://github.com/Portkey-AI/portkey-python-sdk"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T05:17:57Z",
     "url": "https://github.com/golikovichev/pytest-resilience-agent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T05:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "dr-gareth-roberts/insideLLMs",
     "stars": 2,
-    "updated_at": "2026-07-20T05:04:18Z",
+    "updated_at": "2026-07-20T05:32:45Z",
     "url": "https://github.com/dr-gareth-roberts/insideLLMs"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-20T05:02:48Z",
+    "updated_at": "2026-07-20T05:34:23Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -115,6 +142,15 @@
     "stars": 5,
     "updated_at": "2026-07-20T04:55:38Z",
     "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6616,
+    "updated_at": "2026-07-20T04:43:06Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -247,7 +283,7 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11652,
+    "stars": 11661,
     "updated_at": "2026-07-20T02:53:52Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -288,15 +324,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1280,
-    "updated_at": "2026-07-20T05:01:25Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
     "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
     "id": "Eval-core/evalcore",
     "language": "Rust",
@@ -319,7 +346,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27108,
+    "stars": 27110,
     "updated_at": "2026-07-20T01:34:03Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -382,7 +409,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54051,
+    "stars": 54054,
     "updated_at": "2026-07-20T00:10:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T23:24:00Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
-    "id": "Fast-Editor/Lynkr",
-    "language": "JavaScript",
-    "name": "Fast-Editor/Lynkr",
-    "stars": 532,
-    "updated_at": "2026-07-19T23:18:31Z",
-    "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
-    "id": "ahmeedatm/infer-router",
-    "language": "Python",
-    "name": "ahmeedatm/infer-router",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:16:54Z",
-    "url": "https://github.com/ahmeedatm/infer-router"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10633,
-    "updated_at": "2026-07-19T23:07:19Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
