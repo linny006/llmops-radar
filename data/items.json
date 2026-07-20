@@ -1,5 +1,86 @@
 [
   {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1281,
+    "updated_at": "2026-07-20T07:15:02Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T07:12:37Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
+    "id": "ContextJet-ai/awesome-llm-observability",
+    "language": "Python",
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "stars": 22,
+    "updated_at": "2026-07-20T07:12:20Z",
+    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 4,
+    "updated_at": "2026-07-20T07:12:05Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "S-H-I-F-T \u2014 Shared Harness for Intelligence, Flow & Traceability. Organizational memory for measurable agent execution.",
+    "id": "canhta/shift",
+    "language": "\u2014",
+    "name": "canhta/shift",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:09:01Z",
+    "url": "https://github.com/canhta/shift"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-20T07:14:34Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
+    "id": "marcusschiesser/agentpond",
+    "language": "TypeScript",
+    "name": "marcusschiesser/agentpond",
+    "stars": 11,
+    "updated_at": "2026-07-20T07:07:14Z",
+    "url": "https://github.com/marcusschiesser/agentpond"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6617,
+    "updated_at": "2026-07-20T07:07:05Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T07:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
     "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "language": "TypeScript",
@@ -22,7 +103,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2437,
+    "stars": 2438,
     "updated_at": "2026-07-20T06:56:19Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T06:53:21Z",
     "url": "https://github.com/ahmeedatm/infer-router"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T06:53:15Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -67,8 +139,8 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11678,
-    "updated_at": "2026-07-20T06:48:56Z",
+    "stars": 11681,
+    "updated_at": "2026-07-20T07:09:14Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -79,24 +151,6 @@
     "stars": 5,
     "updated_at": "2026-07-20T06:47:24Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T06:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-20T06:49:36Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "JumpMasters/tollgate",
     "stars": 0,
-    "updated_at": "2026-07-20T06:31:41Z",
+    "updated_at": "2026-07-20T07:12:41Z",
     "url": "https://github.com/JumpMasters/tollgate"
   },
   {
@@ -144,15 +198,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 4,
-    "updated_at": "2026-07-20T06:52:20Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
     "id": "admina-org/admina",
     "language": "Python",
@@ -160,15 +205,6 @@
     "stars": 5,
     "updated_at": "2026-07-20T06:07:16Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1281,
-    "updated_at": "2026-07-20T06:59:10Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Hermes Agent starter kit for safe scheduled, stateful AI-agent loops",
@@ -211,7 +247,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23424,
+    "stars": 23425,
     "updated_at": "2026-07-20T05:51:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -234,15 +270,6 @@
     "url": "https://github.com/Portkey-AI/portkey-python-sdk"
   },
   {
-    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
-    "id": "ContextJet-ai/awesome-llm-observability",
-    "language": "Python",
-    "name": "ContextJet-ai/awesome-llm-observability",
-    "stars": 22,
-    "updated_at": "2026-07-20T05:47:51Z",
-    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
-  },
-  {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
     "id": "alexejsailer/agentic-nets",
     "language": "Java",
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T05:41:48Z",
     "url": "https://github.com/baabakk/versioned-store"
-  },
-  {
-    "description": "S-H-I-F-T \u2014 Shared Harness for Intelligence, Flow & Traceability. Organizational memory for measurable agent execution.",
-    "id": "canhta/shift",
-    "language": "\u2014",
-    "name": "canhta/shift",
-    "stars": 0,
-    "updated_at": "2026-07-20T05:19:08Z",
-    "url": "https://github.com/canhta/shift"
   },
   {
     "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
@@ -293,17 +311,8 @@
     "language": "Python",
     "name": "dr-gareth-roberts/insideLLMs",
     "stars": 2,
-    "updated_at": "2026-07-20T06:26:53Z",
+    "updated_at": "2026-07-20T07:02:12Z",
     "url": "https://github.com/dr-gareth-roberts/insideLLMs"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6616,
-    "updated_at": "2026-07-20T06:53:56Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20714,
-    "updated_at": "2026-07-20T06:34:23Z",
+    "updated_at": "2026-07-20T07:08:46Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 181,
     "updated_at": "2026-07-20T02:34:08Z",
     "url": "https://github.com/Rodiun/frugon"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27110,
-    "updated_at": "2026-07-20T01:34:03Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
