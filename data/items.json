@@ -1,12 +1,102 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3402,
+    "updated_at": "2026-07-20T07:45:11Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6617,
+    "updated_at": "2026-07-20T07:44:51Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-20T07:40:20Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 4,
+    "updated_at": "2026-07-20T07:36:23Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Semantic (similarity) cache for LLM apps \u2014 serve cached answers to paraphrased queries, benchmarked on cost/latency save",
+    "id": "tkarim45/semantic-cache",
+    "language": "Python",
+    "name": "tkarim45/semantic-cache",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:33:46Z",
+    "url": "https://github.com/tkarim45/semantic-cache"
+  },
+  {
+    "description": "Distill Claude's topic classification into a local TF-IDF+LogReg student (real Haiku teacher on Bedrock). Recovers 81% o",
+    "id": "tkarim45/model-distillation",
+    "language": "Python",
+    "name": "tkarim45/model-distillation",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:33:28Z",
+    "url": "https://github.com/tkarim45/model-distillation"
+  },
+  {
+    "description": "LLM observability & tracing: per-request spans (prompt, tokens, latency, cost), online quality evals (groundedness/toxic",
+    "id": "tkarim45/llm-observability",
+    "language": "Python",
+    "name": "tkarim45/llm-observability",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:33:17Z",
+    "url": "https://github.com/tkarim45/llm-observability"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2438,
+    "updated_at": "2026-07-20T07:33:13Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-20T07:33:13Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
     "description": "Production LLM API gateway \u2014 API-key auth, per-tenant rate limiting + token quotas (429/402), ordered provider failover ",
     "id": "tkarim45/llm-gateway",
     "language": "Python",
     "name": "tkarim45/llm-gateway",
     "stars": 0,
-    "updated_at": "2026-07-20T07:28:58Z",
+    "updated_at": "2026-07-20T07:33:12Z",
     "url": "https://github.com/tkarim45/llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T07:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -27,15 +117,6 @@
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "Semantic (similarity) cache for LLM apps \u2014 serve cached answers to paraphrased queries, benchmarked on cost/latency save",
-    "id": "tkarim45/semantic-cache",
-    "language": "Python",
-    "name": "tkarim45/semantic-cache",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:26:29Z",
-    "url": "https://github.com/tkarim45/semantic-cache"
-  },
-  {
     "description": "Teach + benchmark every layer of production RAG on one shared harness \u2014 chunking, embeddings, indexing, retrieval, reran",
     "id": "tkarim45/production-rag-lab",
     "language": "Python",
@@ -43,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T07:26:11Z",
     "url": "https://github.com/tkarim45/production-rag-lab"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2438,
-    "updated_at": "2026-07-20T07:26:00Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Distill Claude's topic classification into a local TF-IDF+LogReg student (real Haiku teacher on Bedrock). Recovers 81% o",
-    "id": "tkarim45/model-distillation",
-    "language": "Python",
-    "name": "tkarim45/model-distillation",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:25:59Z",
-    "url": "https://github.com/tkarim45/model-distillation"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -72,21 +135,12 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "LLM observability & tracing: per-request spans (prompt, tokens, latency, cost), online quality evals (groundedness/toxic",
-    "id": "tkarim45/llm-observability",
-    "language": "Python",
-    "name": "tkarim45/llm-observability",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:25:43Z",
-    "url": "https://github.com/tkarim45/llm-observability"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20714,
-    "updated_at": "2026-07-20T07:27:39Z",
+    "updated_at": "2026-07-20T07:31:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -117,21 +171,12 @@
     "url": "https://github.com/JumpMasters/tollgate"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T07:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1281,
-    "updated_at": "2026-07-20T07:26:44Z",
+    "updated_at": "2026-07-20T07:42:28Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -144,31 +189,13 @@
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
   },
   {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 4,
-    "updated_at": "2026-07-20T07:29:21Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11683,
+    "stars": 11684,
     "updated_at": "2026-07-20T07:09:14Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-20T07:14:34Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
@@ -178,15 +205,6 @@
     "stars": 11,
     "updated_at": "2026-07-20T07:07:14Z",
     "url": "https://github.com/marcusschiesser/agentpond"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6617,
-    "updated_at": "2026-07-20T07:18:42Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Behavioral diffs and regression gates for prompts and agents. Prompt or agent? Run both against the same suite and diff ",
@@ -319,7 +337,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23425,
+    "stars": 23427,
     "updated_at": "2026-07-20T05:51:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "dr-gareth-roberts/insideLLMs",
     "stars": 2,
-    "updated_at": "2026-07-20T07:02:12Z",
+    "updated_at": "2026-07-20T07:31:05Z",
     "url": "https://github.com/dr-gareth-roberts/insideLLMs"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 10188,
     "updated_at": "2026-07-20T06:38:15Z",
     "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5616,
-    "updated_at": "2026-07-20T04:08:40Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Control plane for team LLM access through LiteLLM.",
-    "id": "anggaprytn/loom",
-    "language": "TypeScript",
-    "name": "anggaprytn/loom",
-    "stars": 2,
-    "updated_at": "2026-07-20T04:06:22Z",
-    "url": "https://github.com/anggaprytn/loom"
   }
 ]
