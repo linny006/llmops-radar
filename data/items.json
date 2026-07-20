@@ -1,11 +1,101 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54125,
+    "updated_at": "2026-07-20T17:26:35Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
+    "id": "JumpMasters/tollgate",
+    "language": "Python",
+    "name": "JumpMasters/tollgate",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:24:38Z",
+    "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "Curated, machine-readable resources for AI evaluation, observability, guardrails, governance, security, and deployment.",
+    "id": "Anonymousyz/awesome-ai-production-readiness",
+    "language": "Python",
+    "name": "Anonymousyz/awesome-ai-production-readiness",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:21:15Z",
+    "url": "https://github.com/Anonymousyz/awesome-ai-production-readiness"
+  },
+  {
+    "description": "AI deployment readiness toolkit: local 70-point CLI, veto gates, governance artifacts, and fictional cases.",
+    "id": "Anonymousyz/ai-prototype-to-production-toolkit",
+    "language": "Python",
+    "name": "Anonymousyz/ai-prototype-to-production-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:21:08Z",
+    "url": "https://github.com/Anonymousyz/ai-prototype-to-production-toolkit"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-20T17:19:05Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:18:19Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-20T17:29:00Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31502,
+    "updated_at": "2026-07-20T17:16:51Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T17:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23440,
+    "updated_at": "2026-07-20T17:30:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1061,
-    "updated_at": "2026-07-20T17:13:46Z",
+    "updated_at": "2026-07-20T17:16:40Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-20T17:14:13Z",
+    "updated_at": "2026-07-20T17:28:31Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -27,40 +117,13 @@
     "url": "https://github.com/openloop-team/openloop"
   },
   {
-    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
-    "id": "JumpMasters/tollgate",
-    "language": "Python",
-    "name": "JumpMasters/tollgate",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:12:26Z",
-    "url": "https://github.com/JumpMasters/tollgate"
-  },
-  {
-    "description": "Curated, machine-readable resources for AI evaluation, observability, guardrails, governance, security, and deployment.",
-    "id": "Anonymousyz/awesome-ai-production-readiness",
-    "language": "Python",
-    "name": "Anonymousyz/awesome-ai-production-readiness",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:12:01Z",
-    "url": "https://github.com/Anonymousyz/awesome-ai-production-readiness"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-20T17:10:52Z",
+    "updated_at": "2026-07-20T17:30:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "AI deployment readiness toolkit: local 70-point CLI, veto gates, governance artifacts, and fictional cases.",
-    "id": "Anonymousyz/ai-prototype-to-production-toolkit",
-    "language": "Python",
-    "name": "Anonymousyz/ai-prototype-to-production-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:09:12Z",
-    "url": "https://github.com/Anonymousyz/ai-prototype-to-production-toolkit"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -79,15 +142,6 @@
     "stars": 303,
     "updated_at": "2026-07-20T17:02:50Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T17:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -122,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3403,
-    "updated_at": "2026-07-20T17:14:08Z",
+    "updated_at": "2026-07-20T17:29:53Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 6,
     "updated_at": "2026-07-20T16:53:18Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54125,
-    "updated_at": "2026-07-20T17:15:18Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -189,30 +234,12 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31501,
-    "updated_at": "2026-07-20T17:05:52Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-20T16:38:54Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6629,
-    "updated_at": "2026-07-20T17:11:26Z",
+    "updated_at": "2026-07-20T17:30:33Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -241,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T16:14:20Z",
     "url": "https://github.com/krishkumar4400/weights-to-prod"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-20T17:14:22Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
@@ -414,15 +432,6 @@
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23439,
-    "updated_at": "2026-07-20T17:15:01Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T14:36:12Z",
     "url": "https://github.com/hari9618/atlas-agentic-research"
-  },
-  {
-    "description": "Benchmark LLMs head-to-head on your own prompts. ",
-    "id": "orq-ai/orq-arena",
-    "language": "Python",
-    "name": "orq-ai/orq-arena",
-    "stars": 1,
-    "updated_at": "2026-07-20T14:24:19Z",
-    "url": "https://github.com/orq-ai/orq-arena"
   }
 ]
