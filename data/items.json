@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54125,
-    "updated_at": "2026-07-20T17:26:35Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-20T17:44:43Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "JumpMasters/tollgate",
     "stars": 0,
-    "updated_at": "2026-07-20T17:24:38Z",
+    "updated_at": "2026-07-20T17:45:23Z",
     "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 10,
+    "updated_at": "2026-07-20T17:43:47Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6630,
+    "updated_at": "2026-07-20T17:42:50Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Curated, machine-readable resources for AI evaluation, observability, guardrails, governance, security, and deployment.",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "Anonymousyz/awesome-ai-production-readiness",
     "stars": 0,
-    "updated_at": "2026-07-20T17:21:15Z",
+    "updated_at": "2026-07-20T17:37:52Z",
     "url": "https://github.com/Anonymousyz/awesome-ai-production-readiness"
   },
   {
@@ -32,8 +50,44 @@
     "language": "Python",
     "name": "Anonymousyz/ai-prototype-to-production-toolkit",
     "stars": 0,
-    "updated_at": "2026-07-20T17:21:08Z",
+    "updated_at": "2026-07-20T17:37:46Z",
     "url": "https://github.com/Anonymousyz/ai-prototype-to-production-toolkit"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-07-20T17:36:10Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-20T17:38:24Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T17:30:45Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54125,
+    "updated_at": "2026-07-20T17:44:00Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -54,15 +108,6 @@
     "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-20T17:29:00Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -72,21 +117,12 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T17:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23440,
-    "updated_at": "2026-07-20T17:30:07Z",
+    "updated_at": "2026-07-20T17:31:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 1061,
     "updated_at": "2026-07-20T17:16:40Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-20T17:28:31Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-20T17:30:11Z",
+    "updated_at": "2026-07-20T17:42:50Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -176,7 +203,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3403,
-    "updated_at": "2026-07-20T17:29:53Z",
+    "updated_at": "2026-07-20T17:45:15Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -198,15 +225,6 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 10,
-    "updated_at": "2026-07-20T16:47:06Z",
-    "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
     "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
     "id": "shyftlabs/continuum",
     "language": "Python",
@@ -220,7 +238,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29294,
+    "stars": 29295,
     "updated_at": "2026-07-20T16:45:15Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -232,15 +250,6 @@
     "stars": 66,
     "updated_at": "2026-07-20T16:44:20Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6629,
-    "updated_at": "2026-07-20T17:30:33Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Deterministic coherence control plane for AI artifacts, with verifiable target-side conditional commits.",
@@ -394,15 +403,6 @@
     "stars": 44,
     "updated_at": "2026-07-20T14:59:10Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-07-20T17:04:07Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
