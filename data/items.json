@@ -1,12 +1,66 @@
 [
   {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "openloop-team/openloop",
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3402,
+    "updated_at": "2026-07-20T09:30:04Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6620,
+    "updated_at": "2026-07-20T09:28:13Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
     "language": "Python",
-    "name": "openloop-team/openloop",
+    "name": "mozilla-ai/otari",
+    "stars": 301,
+    "updated_at": "2026-07-20T09:28:08Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 69,
+    "updated_at": "2026-07-20T09:27:22Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
+    "id": "dr-gareth-roberts/insideLLMs",
+    "language": "Python",
+    "name": "dr-gareth-roberts/insideLLMs",
     "stars": 2,
-    "updated_at": "2026-07-20T09:13:51Z",
-    "url": "https://github.com/openloop-team/openloop"
+    "updated_at": "2026-07-20T09:24:53Z",
+    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20714,
+    "updated_at": "2026-07-20T09:28:30Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31466,
+    "updated_at": "2026-07-20T09:30:12Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -14,8 +68,26 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2439,
-    "updated_at": "2026-07-20T09:12:32Z",
+    "updated_at": "2026-07-20T09:18:55Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T09:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-07-20T09:13:51Z",
+    "url": "https://github.com/openloop-team/openloop"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T09:06:20Z",
     "url": "https://github.com/Tourinhan/Fund-of-Brian"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 69,
-    "updated_at": "2026-07-20T09:05:13Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -70,24 +133,6 @@
     "stars": 524,
     "updated_at": "2026-07-20T09:04:11Z",
     "url": "https://github.com/superlinked/VectorHub"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31465,
-    "updated_at": "2026-07-20T09:03:39Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T09:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -122,26 +167,8 @@
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 26,
-    "updated_at": "2026-07-20T09:08:51Z",
+    "updated_at": "2026-07-20T09:17:05Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20715,
-    "updated_at": "2026-07-20T09:14:11Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6619,
-    "updated_at": "2026-07-20T09:15:20Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11692,
-    "updated_at": "2026-07-20T08:39:30Z",
+    "updated_at": "2026-07-20T09:25:18Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5489,
-    "updated_at": "2026-07-20T08:33:30Z",
+    "updated_at": "2026-07-20T09:22:05Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-20T09:13:11Z",
+    "updated_at": "2026-07-20T09:19:50Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Go",
     "name": "dativo-io/talon",
     "stars": 11,
-    "updated_at": "2026-07-20T09:02:53Z",
+    "updated_at": "2026-07-20T09:22:14Z",
     "url": "https://github.com/dativo-io/talon"
   },
   {
@@ -238,7 +265,7 @@
     "id": "Rodiun/frugon",
     "language": "Python",
     "name": "Rodiun/frugon",
-    "stars": 181,
+    "stars": 182,
     "updated_at": "2026-07-20T08:03:21Z",
     "url": "https://github.com/Rodiun/frugon"
   },
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T07:48:08Z",
     "url": "https://github.com/EMT5320/llm-inference-lab"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3402,
-    "updated_at": "2026-07-20T09:06:51Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
@@ -328,7 +346,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54083,
+    "stars": 54085,
     "updated_at": "2026-07-20T07:28:47Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -365,7 +383,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1281,
-    "updated_at": "2026-07-20T09:12:46Z",
+    "updated_at": "2026-07-20T09:18:32Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T06:18:08Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:16:43Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 5,
-    "updated_at": "2026-07-20T06:07:16Z",
-    "url": "https://github.com/admina-org/admina"
   }
 ]
