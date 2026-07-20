@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 301,
+    "updated_at": "2026-07-20T10:14:38Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
+    "id": "golikovichev/pytest-resilience-agent",
+    "language": "Python",
+    "name": "golikovichev/pytest-resilience-agent",
+    "stars": 0,
+    "updated_at": "2026-07-20T10:12:22Z",
+    "url": "https://github.com/golikovichev/pytest-resilience-agent"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-07-20T10:10:20Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-20T10:14:23Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-07-20T10:08:47Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-20T10:08:30Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20715,
+    "updated_at": "2026-07-20T10:08:00Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-20T10:04:00Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T10:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-20T09:53:20Z",
+    "updated_at": "2026-07-20T10:11:18Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -32,7 +113,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 4,
-    "updated_at": "2026-07-20T09:52:01Z",
+    "updated_at": "2026-07-20T10:01:04Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -43,24 +124,6 @@
     "stars": 11694,
     "updated_at": "2026-07-20T09:46:22Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T09:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20715,
-    "updated_at": "2026-07-20T09:52:32Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -77,7 +140,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31468,
-    "updated_at": "2026-07-20T10:00:18Z",
+    "updated_at": "2026-07-20T10:13:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:00:24Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
     "id": "JoniMartin27/lookspan",
     "language": "TypeScript",
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3402,
-    "updated_at": "2026-07-20T09:59:00Z",
+    "updated_at": "2026-07-20T10:13:43Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 6620,
     "updated_at": "2026-07-20T09:28:13Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 301,
-    "updated_at": "2026-07-20T09:30:40Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "Rodiun/frugon",
     "stars": 182,
-    "updated_at": "2026-07-20T08:03:21Z",
+    "updated_at": "2026-07-20T10:12:37Z",
     "url": "https://github.com/Rodiun/frugon"
   },
   {
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54086,
-    "updated_at": "2026-07-20T09:38:35Z",
+    "updated_at": "2026-07-20T10:04:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T07:17:20Z",
     "url": "https://github.com/JumpMasters/tollgate"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1281,
-    "updated_at": "2026-07-20T09:18:32Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
-    "id": "marcusschiesser/agentpond",
-    "language": "TypeScript",
-    "name": "marcusschiesser/agentpond",
-    "stars": 11,
-    "updated_at": "2026-07-20T07:07:14Z",
-    "url": "https://github.com/marcusschiesser/agentpond"
-  },
-  {
-    "description": "Behavioral diffs and regression gates for prompts and agents. Prompt or agent? Run both against the same suite and diff ",
-    "id": "LegenDairy93/promptdiff",
-    "language": "TypeScript",
-    "name": "LegenDairy93/promptdiff",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:59:19Z",
-    "url": "https://github.com/LegenDairy93/promptdiff"
-  },
-  {
-    "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
-    "id": "ahmeedatm/infer-router",
-    "language": "Python",
-    "name": "ahmeedatm/infer-router",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:53:21Z",
-    "url": "https://github.com/ahmeedatm/infer-router"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 5,
-    "updated_at": "2026-07-20T06:47:24Z",
-    "url": "https://github.com/dshakes/distil"
   }
 ]
