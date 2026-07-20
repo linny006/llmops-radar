@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-20 01:13 UTC
+> ⏰ Last updated: 2026-07-20 01:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,9 +43,9 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-20 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 2 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 5 | Rust | 2026-07-20 | Know when your AI gets worse — before your users do. Records how your LLM apps and agents behave and checks every change |
-| 3 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 39 | TypeScript | 2026-07-20 | Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 5 | Rust | 2026-07-20 | Know when your AI gets worse — before your users do. Records how your LLM apps and agents behave and checks every change |
+| 4 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 39 | TypeScript | 2026-07-20 | Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu |
 | 5 | [geoff-davis/async-batch-llm](https://github.com/geoff-davis/async-batch-llm) | 1 | Python | 2026-07-20 | Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and |
 | 6 | [prismal-ai/prismal](https://github.com/prismal-ai/prismal) | 1 | Python | 2026-07-20 | Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable. |
 | 7 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20708 | Python | 2026-07-20 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
