@@ -1,11 +1,65 @@
 [
   {
+    "description": "Deterministic coherence control plane that blocks AI agents from acting on stale decisions after their dependencies chan",
+    "id": "aantenore/truthlease",
+    "language": "Python",
+    "name": "aantenore/truthlease",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:30:03Z",
+    "url": "https://github.com/aantenore/truthlease"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20722,
+    "updated_at": "2026-07-20T16:24:36Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:24:09Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3448,
+    "updated_at": "2026-07-20T16:22:41Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
+    "id": "jonathascordeiro20/bioma-framework",
+    "language": "Python",
+    "name": "jonathascordeiro20/bioma-framework",
+    "stars": 1,
+    "updated_at": "2026-07-20T16:22:05Z",
+    "url": "https://github.com/jonathascordeiro20/bioma-framework"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T16:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31499,
-    "updated_at": "2026-07-20T16:14:30Z",
+    "stars": 31500,
+    "updated_at": "2026-07-20T16:29:44Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,7 +86,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-20T16:10:27Z",
+    "updated_at": "2026-07-20T16:29:08Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -40,8 +94,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54123,
-    "updated_at": "2026-07-20T16:04:06Z",
+    "stars": 54124,
+    "updated_at": "2026-07-20T16:26:53Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,7 +104,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3403,
-    "updated_at": "2026-07-20T16:11:52Z",
+    "updated_at": "2026-07-20T16:26:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "shyftlabs/continuum",
     "stars": 75,
-    "updated_at": "2026-07-20T16:02:07Z",
+    "updated_at": "2026-07-20T16:27:24Z",
     "url": "https://github.com/shyftlabs/continuum"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 182,
     "updated_at": "2026-07-20T16:04:32Z",
     "url": "https://github.com/Rodiun/frugon"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T16:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10641,
-    "updated_at": "2026-07-20T16:13:29Z",
+    "updated_at": "2026-07-20T16:27:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -135,20 +180,11 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 2,
-    "updated_at": "2026-07-20T15:46:49Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
     "name": "Arize-ai/openinference",
-    "stars": 1101,
+    "stars": 1102,
     "updated_at": "2026-07-20T15:40:50Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
@@ -185,17 +221,8 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 4,
-    "updated_at": "2026-07-20T16:04:15Z",
+    "updated_at": "2026-07-20T16:29:50Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3448,
-    "updated_at": "2026-07-20T15:33:16Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -207,20 +234,11 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20721,
-    "updated_at": "2026-07-20T15:19:11Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6628,
+    "stars": 6629,
     "updated_at": "2026-07-20T15:16:55Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -250,15 +268,6 @@
     "stars": 44,
     "updated_at": "2026-07-20T14:59:10Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
-    "id": "jonathascordeiro20/bioma-framework",
-    "language": "Python",
-    "name": "jonathascordeiro20/bioma-framework",
-    "stars": 1,
-    "updated_at": "2026-07-20T14:55:28Z",
-    "url": "https://github.com/jonathascordeiro20/bioma-framework"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11701,
-    "updated_at": "2026-07-20T14:49:43Z",
+    "updated_at": "2026-07-20T16:25:04Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 303,
-    "updated_at": "2026-07-20T15:02:31Z",
+    "updated_at": "2026-07-20T16:30:20Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -311,7 +320,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23439,
-    "updated_at": "2026-07-20T14:43:12Z",
+    "updated_at": "2026-07-20T16:22:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T12:52:30Z",
     "url": "https://github.com/okfriansyah-moh/the-foundry"
-  },
-  {
-    "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
-    "id": "dativo-io/talon",
-    "language": "Go",
-    "name": "dativo-io/talon",
-    "stars": 11,
-    "updated_at": "2026-07-20T12:34:48Z",
-    "url": "https://github.com/dativo-io/talon"
   }
 ]
