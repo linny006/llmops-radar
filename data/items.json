@@ -1,5 +1,41 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-20T15:27:26Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-20T15:24:24Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3448,
+    "updated_at": "2026-07-20T15:20:41Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T15:20:08Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Out-Of-Tree Llama Stack Eval Provider for Red Teaming LLM Systems with Garak",
     "id": "trustyai-explainability/llama-stack-provider-trustyai-garak",
     "language": "Python",
@@ -18,21 +54,12 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T15:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-20T15:14:51Z",
+    "updated_at": "2026-07-20T15:26:01Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -54,20 +81,11 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3448,
-    "updated_at": "2026-07-20T15:06:51Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54113,
+    "stars": 54114,
     "updated_at": "2026-07-20T15:05:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31494,
-    "updated_at": "2026-07-20T14:59:46Z",
+    "updated_at": "2026-07-20T15:28:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -153,12 +171,21 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23438,
+    "updated_at": "2026-07-20T14:43:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3403,
-    "updated_at": "2026-07-20T15:18:38Z",
+    "updated_at": "2026-07-20T15:29:22Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -225,40 +252,13 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-20T15:18:44Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23438,
-    "updated_at": "2026-07-20T14:43:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1282,
-    "updated_at": "2026-07-20T15:17:27Z",
+    "updated_at": "2026-07-20T15:30:05Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-20T14:09:22Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10641,
-    "updated_at": "2026-07-20T15:15:34Z",
+    "updated_at": "2026-07-20T15:29:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
