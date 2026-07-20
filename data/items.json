@@ -1,11 +1,47 @@
 [
   {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 5,
+    "updated_at": "2026-07-20T04:44:51Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 143,
+    "updated_at": "2026-07-20T04:41:11Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:42:14Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-07-20T04:35:07Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 16,
-    "updated_at": "2026-07-20T04:29:06Z",
+    "updated_at": "2026-07-20T04:33:35Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -14,26 +50,17 @@
     "language": "Python",
     "name": "admina-org/admina",
     "stars": 5,
-    "updated_at": "2026-07-20T04:28:14Z",
+    "updated_at": "2026-07-20T04:32:50Z",
     "url": "https://github.com/admina-org/admina"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 143,
-    "updated_at": "2026-07-20T04:26:41Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
     "language": "Python",
-    "name": "dshakes/distil",
+    "name": "linny006/llmops-radar",
     "stars": 5,
-    "updated_at": "2026-07-20T04:18:51Z",
-    "url": "https://github.com/dshakes/distil"
+    "updated_at": "2026-07-20T04:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governance & observability for your AI capabilities in Spring Boot \u2014 capability registry, versioning, per-capability cos",
@@ -43,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T04:22:30Z",
     "url": "https://github.com/satya-anguluri/capstead"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T04:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -99,15 +117,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-20T04:18:32Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -148,7 +157,7 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11642,
+    "stars": 11646,
     "updated_at": "2026-07-20T02:53:52Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -301,7 +310,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54050,
+    "stars": 54051,
     "updated_at": "2026-07-20T00:10:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T21:52:10Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
-    "id": "wjlgatech/FM-os",
-    "language": "Python",
-    "name": "wjlgatech/FM-os",
-    "stars": 2,
-    "updated_at": "2026-07-19T21:15:20Z",
-    "url": "https://github.com/wjlgatech/FM-os"
   }
 ]
