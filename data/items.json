@@ -1,12 +1,12 @@
 [
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-20T19:57:01Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-07-20T20:10:42Z",
+    "url": "https://github.com/iblai/os"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -14,17 +14,80 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-20T19:58:20Z",
+    "updated_at": "2026-07-20T20:13:06Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 225,
+    "updated_at": "2026-07-20T20:09:12Z",
+    "url": "https://github.com/mezmo/aura"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54130,
-    "updated_at": "2026-07-20T19:55:23Z",
+    "stars": 54131,
+    "updated_at": "2026-07-20T20:08:14Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-20T20:06:03Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-20T20:05:06Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10642,
+    "updated_at": "2026-07-20T20:09:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "OpenCode + Ollama multi-agent workflow with builder/reviewer agents, headless runs, skills, validation gates, local sess",
+    "id": "pillaiharish/opencode-ollama-steroids",
+    "language": "Python",
+    "name": "pillaiharish/opencode-ollama-steroids",
+    "stars": 2,
+    "updated_at": "2026-07-20T20:14:48Z",
+    "url": "https://github.com/pillaiharish/opencode-ollama-steroids"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T20:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-20T19:57:01Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -45,15 +108,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T19:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
     "id": "Arize-ai/arize-skills",
     "language": "Python",
@@ -61,6 +115,15 @@
     "stars": 38,
     "updated_at": "2026-07-20T19:43:25Z",
     "url": "https://github.com/Arize-ai/arize-skills"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29296,
+    "updated_at": "2026-07-20T19:37:39Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Full Portkey Admin API MCP server",
@@ -72,15 +135,6 @@
     "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 225,
-    "updated_at": "2026-07-20T19:30:23Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
     "description": "End-to-end Zensical documentation for Edge Computing LLM on Ubuntu, k3s, NVIDIA GPUs, Ollama, and open observability.",
     "id": "Edge-Computing-LLM/Edge-Computing-LLM-Documentation",
     "language": "\u2014",
@@ -90,15 +144,6 @@
     "url": "https://github.com/Edge-Computing-LLM/Edge-Computing-LLM-Documentation"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29295,
-    "updated_at": "2026-07-20T19:37:39Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -106,15 +151,6 @@
     "stars": 3404,
     "updated_at": "2026-07-20T19:58:20Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10642,
-    "updated_at": "2026-07-20T19:57:43Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20722,
-    "updated_at": "2026-07-20T18:45:30Z",
+    "updated_at": "2026-07-20T20:15:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -185,7 +221,7 @@
     "language": "TypeScript",
     "name": "runcycles/cycles-dashboard",
     "stars": 0,
-    "updated_at": "2026-07-20T19:59:55Z",
+    "updated_at": "2026-07-20T20:06:44Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T18:27:11Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-20T18:18:17Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -378,15 +405,6 @@
     "url": "https://github.com/Anonymousyz/ai-prototype-to-production-toolkit"
   },
   {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-07-20T18:21:48Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
     "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
     "id": "sumitdevgupto/TokenLean",
     "language": "Python",
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1061,
-    "updated_at": "2026-07-20T17:16:40Z",
+    "updated_at": "2026-07-20T20:13:13Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 16,
     "updated_at": "2026-07-20T17:04:31Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
-    "id": "jonathascordeiro20/bioma-framework",
-    "language": "Python",
-    "name": "jonathascordeiro20/bioma-framework",
-    "stars": 1,
-    "updated_at": "2026-07-20T16:54:22Z",
-    "url": "https://github.com/jonathascordeiro20/bioma-framework"
-  },
-  {
-    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
-    "id": "NicoGrassetto/Cosmopilot",
-    "language": "Python",
-    "name": "NicoGrassetto/Cosmopilot",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:54:08Z",
-    "url": "https://github.com/NicoGrassetto/Cosmopilot"
   }
 ]
