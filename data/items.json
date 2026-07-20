@@ -1,5 +1,41 @@
 [
   {
+    "description": "An open-source reliability scorecard for LLM agents \u2014 measure grounding, safety, PII, and task-completion against fixed ",
+    "id": "assevra/assevra",
+    "language": "Python",
+    "name": "assevra/assevra",
+    "stars": 2,
+    "updated_at": "2026-07-20T01:23:26Z",
+    "url": "https://github.com/assevra/assevra"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2437,
+    "updated_at": "2026-07-20T01:22:38Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
+    "id": "OrlojHQ/orloj",
+    "language": "Go",
+    "name": "OrlojHQ/orloj",
+    "stars": 108,
+    "updated_at": "2026-07-20T01:18:41Z",
+    "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T01:16:08Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -9,16 +45,7 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T01:13:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
     "id": "Eval-core/evalcore",
     "language": "Rust",
     "name": "Eval-core/evalcore",
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "prismal-ai/prismal",
     "stars": 1,
-    "updated_at": "2026-07-20T01:06:06Z",
+    "updated_at": "2026-07-20T01:31:00Z",
     "url": "https://github.com/prismal-ai/prismal"
   },
   {
@@ -94,7 +121,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54030,
+    "stars": 54032,
     "updated_at": "2026-07-20T00:10:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -205,15 +232,6 @@
     "stars": 10628,
     "updated_at": "2026-07-19T23:07:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
-    "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 108,
-    "updated_at": "2026-07-20T01:10:52Z",
-    "url": "https://github.com/OrlojHQ/orloj"
   },
   {
     "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine.",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-19T19:38:49Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
-    "id": "intentee/paddler",
-    "language": "Rust",
-    "name": "intentee/paddler",
-    "stars": 1642,
-    "updated_at": "2026-07-19T19:36:21Z",
-    "url": "https://github.com/intentee/paddler"
-  },
-  {
-    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
-    "id": "runcycles/cycles-server",
-    "language": "Java",
-    "name": "runcycles/cycles-server",
-    "stars": 3,
-    "updated_at": "2026-07-19T19:37:53Z",
-    "url": "https://github.com/runcycles/cycles-server"
   }
 ]
