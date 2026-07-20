@@ -1,5 +1,23 @@
 [
   {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-07-20T20:16:45Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T20:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54131,
-    "updated_at": "2026-07-20T20:08:14Z",
+    "updated_at": "2026-07-20T20:16:32Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-20T20:09:49Z",
+    "updated_at": "2026-07-20T20:17:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T20:14:48Z",
     "url": "https://github.com/pillaiharish/opencode-ollama-steroids"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T20:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -106,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-07-20T19:46:32Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5493,
+    "updated_at": "2026-07-20T19:43:26Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
@@ -430,23 +448,5 @@
     "stars": 1061,
     "updated_at": "2026-07-20T20:13:13Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27114,
-    "updated_at": "2026-07-20T17:08:45Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-20T17:04:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   }
 ]
