@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-20 03:15 UTC
+> ⏰ Last updated: 2026-07-20 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 0 | Go | 2026-07-20 | Temporal workers and clients for wrapping access to different LLMs |
-| 2 | [assevra/assevra](https://github.com/assevra/assevra) | 3 | Python | 2026-07-20 | An open-source reliability scorecard for LLM agents — measure grounding, safety, PII, and task-completion against fixed  |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [w8123/EnterpriseAgentFramework](https://github.com/w8123/EnterpriseAgentFramework) | 476 | Java | 2026-07-20 | 面向 OA、ERP、CRM、工单等企业系统快速构建智能体，让 AI 在权限、审计与治理约束下安全调用真实业务能力。Build agents quickly for enterprise systems such as OA, ERP, CR |
-| 5 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-07-20 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 6 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11635 | Python | 2026-07-20 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
-| 7 | [dshakes/distil](https://github.com/dshakes/distil) | 5 | Python | 2026-07-20 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
-| 8 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-20 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 9 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20709 | Python | 2026-07-20 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 10 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-07-20 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 11 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-20 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 12 | [LesterALeong/llm-evalgate](https://github.com/LesterALeong/llm-evalgate) | 0 | Python | 2026-07-20 | Eval gates with error bars: confidence intervals, calibrated LLM judges, and a statistically honest regression gate for  |
-| 13 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 16 | Go | 2026-07-20 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 14 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-20 | ThakiCloud Tech Blog |
-| 15 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2437 | C++ | 2026-07-20 | Community maintained hardware plugin for vLLM on Ascend |
+| 1 | [dshakes/distil](https://github.com/dshakes/distil) | 5 | Python | 2026-07-20 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
+| 2 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2437 | C++ | 2026-07-20 | Community maintained hardware plugin for vLLM on Ascend |
+| 3 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 0 | Go | 2026-07-20 | Temporal workers and clients for wrapping access to different LLMs |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 5 | Python | 2026-07-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [assevra/assevra](https://github.com/assevra/assevra) | 3 | Python | 2026-07-20 | An open-source reliability scorecard for LLM agents — measure grounding, safety, PII, and task-completion against fixed  |
+| 6 | [w8123/EnterpriseAgentFramework](https://github.com/w8123/EnterpriseAgentFramework) | 476 | Java | 2026-07-20 | 面向 OA、ERP、CRM、工单等企业系统快速构建智能体，让 AI 在权限、审计与治理约束下安全调用真实业务能力。Build agents quickly for enterprise systems such as OA, ERP, CR |
+| 7 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 1 | Python | 2026-07-20 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 8 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11636 | Python | 2026-07-20 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
+| 9 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-20 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 10 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20709 | Python | 2026-07-20 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 11 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-07-20 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 12 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-20 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 13 | [LesterALeong/llm-evalgate](https://github.com/LesterALeong/llm-evalgate) | 0 | Python | 2026-07-20 | Eval gates with error bars: confidence intervals, calibrated LLM judges, and a statistically honest regression gate for  |
+| 14 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 16 | Go | 2026-07-20 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 15 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-20 | ThakiCloud Tech Blog |
 | 16 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1280 | Cuda | 2026-07-20 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
 | 17 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 5 | Rust | 2026-07-20 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
 | 18 | [voly-codes/voly](https://github.com/voly-codes/voly) | 10 | Python | 2026-07-20 | Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and  |
@@ -68,7 +68,7 @@ expired items removed — so you can rely on what you see being current.
 | 24 | [geoff-davis/async-batch-llm](https://github.com/geoff-davis/async-batch-llm) | 1 | Python | 2026-07-20 | Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and |
 | 25 | [JumpMasters/tollgate](https://github.com/JumpMasters/tollgate) | 0 | Python | 2026-07-20 | A pre-charge spend control plane that enforces hard budgets on AI model usage. |
 | 26 | [dennisbiber/interlock](https://github.com/dennisbiber/interlock) | 1 | Python | 2026-07-20 | A passive policy-enforcement layer for agent tool calls |
-| 27 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54041 | Python | 2026-07-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 27 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54043 | Python | 2026-07-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 28 | [copyleftdev/rational](https://github.com/copyleftdev/rational) | 1 | Python | 2026-07-19 | AI cost, with the vibes removed. Exact-rational models + a live calculator for the 8 LLM inference-cost decisions every  |
 | 29 | [inferock/inferock-bench](https://github.com/inferock/inferock-bench) | 63 | TypeScript | 2026-07-19 | Local LLM cost-tracking proxy for OpenAI, Anthropic, Gemini, and pinned OpenRouter calls with token usage, failure, and  |
 | 30 | [souheil-haouala/ai-pipeline-agent](https://github.com/souheil-haouala/ai-pipeline-agent) | 0 | Python | 2026-07-19 | Enterprise-grade AI DevOps engine built in Python to dynamically generate and strictly validate type-safe GitHub Actions |
