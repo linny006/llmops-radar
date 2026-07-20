@@ -1,5 +1,41 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T01:06:11Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 5,
+    "updated_at": "2026-07-20T01:02:21Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 39,
+    "updated_at": "2026-07-20T00:51:49Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T00:46:01Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
     "id": "geoff-davis/async-batch-llm",
     "language": "Python",
@@ -9,31 +45,13 @@
     "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
-    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 5,
-    "updated_at": "2026-07-20T00:33:58Z",
-    "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
     "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
     "id": "prismal-ai/prismal",
     "language": "Python",
     "name": "prismal-ai/prismal",
     "stars": 1,
-    "updated_at": "2026-07-20T00:30:34Z",
+    "updated_at": "2026-07-20T01:06:06Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 39,
-    "updated_at": "2026-07-20T00:27:23Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20708,
-    "updated_at": "2026-07-20T00:33:57Z",
+    "updated_at": "2026-07-20T01:03:33Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -63,22 +81,22 @@
     "url": "https://github.com/dennisbiber/interlock"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T00:16:15Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27102,
+    "stars": 27104,
     "updated_at": "2026-07-20T00:14:33Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54030,
+    "updated_at": "2026-07-20T00:10:02Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -117,15 +135,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-19T23:44:18Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "AI cost, with the vibes removed. Exact-rational models + a live calculator for the 8 LLM inference-cost decisions every ",
     "id": "copyleftdev/rational",
     "language": "Python",
@@ -151,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T23:26:35Z",
     "url": "https://github.com/souheil-haouala/ai-pipeline-agent"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54029,
-    "updated_at": "2026-07-20T00:10:02Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -202,7 +202,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10627,
+    "stars": 10628,
     "updated_at": "2026-07-19T23:07:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -212,7 +212,7 @@
     "language": "Go",
     "name": "OrlojHQ/orloj",
     "stars": 108,
-    "updated_at": "2026-07-19T23:06:45Z",
+    "updated_at": "2026-07-20T01:10:52Z",
     "url": "https://github.com/OrlojHQ/orloj"
   },
   {
@@ -328,7 +328,7 @@
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 3399,
+    "stars": 3400,
     "updated_at": "2026-07-19T20:59:38Z",
     "url": "https://github.com/langwatch/langwatch"
   },
@@ -346,7 +346,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6610,
+    "stars": 6612,
     "updated_at": "2026-07-19T20:37:12Z",
     "url": "https://github.com/maximhq/bifrost"
   },
