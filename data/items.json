@@ -1,21 +1,39 @@
 [
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-20T21:39:15Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
     "id": "JumpMasters/tollgate",
     "language": "Python",
     "name": "JumpMasters/tollgate",
     "stars": 0,
-    "updated_at": "2026-07-20T21:37:39Z",
+    "updated_at": "2026-07-20T21:45:11Z",
     "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 12,
+    "updated_at": "2026-07-20T21:42:10Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T21:40:54Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-20T21:42:22Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54136,
-    "updated_at": "2026-07-20T21:35:44Z",
+    "updated_at": "2026-07-20T21:45:05Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T21:31:40Z",
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T21:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise-grade AI DevOps engine built in Python to dynamically generate and strictly validate type-safe GitHub Actions",
@@ -167,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3404,
-    "updated_at": "2026-07-20T21:35:52Z",
+    "updated_at": "2026-07-20T21:43:27Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -403,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T18:17:25Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 12,
-    "updated_at": "2026-07-20T18:16:05Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
