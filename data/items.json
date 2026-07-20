@@ -1,12 +1,21 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6621,
-    "updated_at": "2026-07-20T11:45:13Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/kmemo",
+    "stars": 1,
+    "updated_at": "2026-07-20T12:00:10Z",
+    "url": "https://github.com/NaCode-Studios/kmemo"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3403,
+    "updated_at": "2026-07-20T11:59:01Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
@@ -14,8 +23,53 @@
     "language": "Go",
     "name": "dativo-io/talon",
     "stars": 11,
-    "updated_at": "2026-07-20T11:42:38Z",
+    "updated_at": "2026-07-20T11:56:41Z",
     "url": "https://github.com/dativo-io/talon"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6621,
+    "updated_at": "2026-07-20T11:58:46Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T11:52:48Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2440,
+    "updated_at": "2026-07-20T11:57:11Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20719,
+    "updated_at": "2026-07-20T11:45:40Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T11:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 170,
-    "updated_at": "2026-07-20T11:42:24Z",
+    "updated_at": "2026-07-20T11:55:46Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -54,24 +108,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T11:39:20Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20718,
-    "updated_at": "2026-07-20T11:37:06Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -79,15 +115,6 @@
     "stars": 16,
     "updated_at": "2026-07-20T11:32:42Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T11:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
@@ -198,15 +225,6 @@
     "url": "https://github.com/sidsri14/driftguard"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3402,
-    "updated_at": "2026-07-20T11:43:42Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
     "id": "runcycles/cycles-dashboard",
     "language": "TypeScript",
@@ -248,7 +266,7 @@
     "language": "Go",
     "name": "ferro-labs/ai-gateway",
     "stars": 186,
-    "updated_at": "2026-07-20T10:51:24Z",
+    "updated_at": "2026-07-20T11:56:49Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
@@ -310,7 +328,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54094,
+    "stars": 54098,
     "updated_at": "2026-07-20T10:04:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -340,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T09:41:20Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2439,
-    "updated_at": "2026-07-20T11:25:14Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -439,14 +448,5 @@
     "stars": 22,
     "updated_at": "2026-07-20T08:35:59Z",
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5489,
-    "updated_at": "2026-07-20T10:47:51Z",
-    "url": "https://github.com/zenml-io/zenml"
   }
 ]
