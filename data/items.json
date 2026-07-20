@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T04:53:47Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 5,
-    "updated_at": "2026-07-20T04:51:30Z",
+    "updated_at": "2026-07-20T04:55:38Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 4,
     "updated_at": "2026-07-20T04:46:50Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T04:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -88,6 +88,15 @@
     "stars": 2,
     "updated_at": "2026-07-20T04:11:55Z",
     "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5615,
+    "updated_at": "2026-07-20T04:08:40Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Control plane for team LLM access through LiteLLM.",
@@ -148,7 +157,7 @@
     "id": "w8123/EnterpriseAgentFramework",
     "language": "Java",
     "name": "w8123/EnterpriseAgentFramework",
-    "stars": 476,
+    "stars": 477,
     "updated_at": "2026-07-20T02:57:48Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
   },
@@ -166,7 +175,7 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11647,
+    "stars": 11650,
     "updated_at": "2026-07-20T02:53:52Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T22:13:03Z",
     "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 65,
-    "updated_at": "2026-07-20T01:31:24Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   }
 ]
