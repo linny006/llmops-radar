@@ -1,11 +1,20 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-20T06:43:58Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
     "id": "voly-codes/voly",
     "language": "Python",
     "name": "voly-codes/voly",
     "stars": 10,
-    "updated_at": "2026-07-20T06:26:49Z",
+    "updated_at": "2026-07-20T06:41:24Z",
     "url": "https://github.com/voly-codes/voly"
   },
   {
@@ -14,17 +23,26 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2437,
-    "updated_at": "2026-07-20T06:25:31Z",
+    "updated_at": "2026-07-20T06:41:14Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-20T06:29:37Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
+    "id": "JumpMasters/tollgate",
+    "language": "Python",
+    "name": "JumpMasters/tollgate",
+    "stars": 0,
+    "updated_at": "2026-07-20T06:31:41Z",
+    "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T06:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
@@ -45,20 +63,11 @@
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
-    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
-    "id": "JumpMasters/tollgate",
-    "language": "Python",
-    "name": "JumpMasters/tollgate",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:29:46Z",
-    "url": "https://github.com/JumpMasters/tollgate"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11669,
+    "stars": 11674,
     "updated_at": "2026-07-20T06:18:26Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -86,17 +95,8 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 4,
-    "updated_at": "2026-07-20T06:17:43Z",
+    "updated_at": "2026-07-20T06:33:31Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T06:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -329,7 +329,7 @@
     "language": "Python",
     "name": "Netflix/metaflow",
     "stars": 10188,
-    "updated_at": "2026-07-20T04:10:58Z",
+    "updated_at": "2026-07-20T06:38:15Z",
     "url": "https://github.com/Netflix/metaflow"
   },
   {
@@ -383,7 +383,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20714,
-    "updated_at": "2026-07-20T02:44:14Z",
+    "updated_at": "2026-07-20T06:34:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -409,7 +409,7 @@
     "id": "Eval-core/evalcore",
     "language": "Rust",
     "name": "Eval-core/evalcore",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-07-20T01:53:12Z",
     "url": "https://github.com/Eval-core/evalcore"
   },
