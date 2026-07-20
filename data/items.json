@@ -1,21 +1,102 @@
 [
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3402,
-    "updated_at": "2026-07-20T07:45:11Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T07:55:03Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:54:32Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6617,
-    "updated_at": "2026-07-20T07:44:51Z",
+    "stars": 6618,
+    "updated_at": "2026-07-20T07:54:56Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
+    "id": "zuoxu3310/AGENTOS",
+    "language": "Python",
+    "name": "zuoxu3310/AGENTOS",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:53:02Z",
+    "url": "https://github.com/zuoxu3310/AGENTOS"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-20T07:52:40Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 3,
+    "updated_at": "2026-07-20T07:52:09Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
+    "id": "dativo-io/talon",
+    "language": "Go",
+    "name": "dativo-io/talon",
+    "stars": 11,
+    "updated_at": "2026-07-20T07:51:41Z",
+    "url": "https://github.com/dativo-io/talon"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-20T07:49:39Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "OpenAI-compatible endpoint benchmark for QPS, TPS, TTFT, P50/P95 latency, telemetry, and evidence-class leaderboards.",
+    "id": "EMT5320/llm-inference-lab",
+    "language": "Python",
+    "name": "EMT5320/llm-inference-lab",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:48:08Z",
+    "url": "https://github.com/EMT5320/llm-inference-lab"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T07:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3402,
+    "updated_at": "2026-07-20T07:52:51Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
@@ -67,7 +148,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2438,
+    "stars": 2439,
     "updated_at": "2026-07-20T07:33:13Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -90,13 +171,13 @@
     "url": "https://github.com/tkarim45/llm-gateway"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T07:30:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "BerriAI/litellm",
+    "stars": 54069,
+    "updated_at": "2026-07-20T07:28:47Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -108,15 +189,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 3,
-    "updated_at": "2026-07-20T07:27:36Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "Teach + benchmark every layer of production RAG on one shared harness \u2014 chunking, embeddings, indexing, retrieval, reran",
     "id": "tkarim45/production-rag-lab",
     "language": "Python",
@@ -124,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T07:26:11Z",
     "url": "https://github.com/tkarim45/production-rag-lab"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T07:25:43Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -176,7 +239,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1281,
-    "updated_at": "2026-07-20T07:42:28Z",
+    "updated_at": "2026-07-20T07:52:21Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -194,7 +257,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11684,
-    "updated_at": "2026-07-20T07:09:14Z",
+    "updated_at": "2026-07-20T07:52:51Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -223,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T06:53:21Z",
     "url": "https://github.com/ahmeedatm/infer-router"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-20T06:52:56Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -266,7 +320,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-20T07:23:26Z",
+    "updated_at": "2026-07-20T07:48:02Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 65,
     "updated_at": "2026-07-20T05:13:47Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
-    "id": "dr-gareth-roberts/insideLLMs",
-    "language": "Python",
-    "name": "dr-gareth-roberts/insideLLMs",
-    "stars": 2,
-    "updated_at": "2026-07-20T07:31:05Z",
-    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 143,
-    "updated_at": "2026-07-20T04:41:11Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 3,
-    "updated_at": "2026-07-20T04:35:07Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "Governance & observability for your AI capabilities in Spring Boot \u2014 capability registry, versioning, per-capability cos",
-    "id": "satya-anguluri/capstead",
-    "language": "Java",
-    "name": "satya-anguluri/capstead",
-    "stars": 2,
-    "updated_at": "2026-07-20T04:22:30Z",
-    "url": "https://github.com/satya-anguluri/capstead"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-07-20T04:11:55Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10188,
-    "updated_at": "2026-07-20T06:38:15Z",
-    "url": "https://github.com/Netflix/metaflow"
   }
 ]
