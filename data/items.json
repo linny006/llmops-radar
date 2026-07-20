@@ -1,12 +1,66 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27102,
-    "updated_at": "2026-07-20T00:14:33Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-07-20T00:41:30Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 5,
+    "updated_at": "2026-07-20T00:33:58Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
+    "id": "prismal-ai/prismal",
+    "language": "Python",
+    "name": "prismal-ai/prismal",
+    "stars": 1,
+    "updated_at": "2026-07-20T00:30:34Z",
+    "url": "https://github.com/prismal-ai/prismal"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 39,
+    "updated_at": "2026-07-20T00:27:23Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20708,
+    "updated_at": "2026-07-20T00:33:57Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
+    "id": "JumpMasters/tollgate",
+    "language": "Python",
+    "name": "JumpMasters/tollgate",
+    "stars": 0,
+    "updated_at": "2026-07-20T00:22:53Z",
+    "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "A passive policy-enforcement layer for agent tool calls",
+    "id": "dennisbiber/interlock",
+    "language": "Python",
+    "name": "dennisbiber/interlock",
+    "stars": 1,
+    "updated_at": "2026-07-20T00:21:31Z",
+    "url": "https://github.com/dennisbiber/interlock"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 5,
-    "updated_at": "2026-07-20T00:01:02Z",
+    "updated_at": "2026-07-20T00:16:15Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27102,
+    "updated_at": "2026-07-20T00:14:33Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -72,15 +135,6 @@
     "url": "https://github.com/copyleftdev/rational"
   },
   {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-07-19T23:35:41Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
     "description": "Local LLM cost-tracking proxy for OpenAI, Anthropic, Gemini, and pinned OpenRouter calls with token usage, failure, and ",
     "id": "inferock/inferock-bench",
     "language": "TypeScript",
@@ -122,17 +176,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-20T00:10:23Z",
+    "updated_at": "2026-07-20T00:25:57Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 5,
-    "updated_at": "2026-07-19T23:20:53Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "Rodiun/frugon",
     "stars": 180,
-    "updated_at": "2026-07-19T23:04:01Z",
+    "updated_at": "2026-07-20T00:31:39Z",
     "url": "https://github.com/Rodiun/frugon"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-19T19:37:53Z",
     "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
-    "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
-    "id": "anmolsharma152/Disha",
-    "language": "Python",
-    "name": "anmolsharma152/Disha",
-    "stars": 0,
-    "updated_at": "2026-07-19T19:15:48Z",
-    "url": "https://github.com/anmolsharma152/Disha"
-  },
-  {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 74,
-    "updated_at": "2026-07-19T19:04:25Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Control plane for team LLM access through LiteLLM.",
-    "id": "anggaprytn/loom",
-    "language": "TypeScript",
-    "name": "anggaprytn/loom",
-    "stars": 2,
-    "updated_at": "2026-07-19T18:58:12Z",
-    "url": "https://github.com/anggaprytn/loom"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:57:15Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "A governed, auditable workflow engine for agent-driven software changes.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-19T19:58:21Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
