@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 4,
+    "updated_at": "2026-07-20T11:29:33Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-20T11:29:17Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:22:22Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
+    "id": "yzhao062/auditable",
+    "language": "Python",
+    "name": "yzhao062/auditable",
+    "stars": 16,
+    "updated_at": "2026-07-20T11:22:10Z",
+    "url": "https://github.com/yzhao062/auditable"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31476,
+    "updated_at": "2026-07-20T11:30:01Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20717,
+    "updated_at": "2026-07-20T11:27:53Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-20T11:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
     "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "language": "TypeScript",
@@ -27,22 +90,13 @@
     "url": "https://github.com/aantenore/truthlease"
   },
   {
-    "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
-    "id": "yzhao062/auditable",
-    "language": "Python",
-    "name": "yzhao062/auditable",
-    "stars": 16,
-    "updated_at": "2026-07-20T11:08:43Z",
-    "url": "https://github.com/yzhao062/auditable"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31475,
-    "updated_at": "2026-07-20T11:15:00Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6621,
+    "updated_at": "2026-07-20T11:09:13Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -52,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-07-20T11:06:01Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-20T11:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
@@ -99,21 +144,12 @@
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20717,
-    "updated_at": "2026-07-20T10:47:37Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11698,
-    "updated_at": "2026-07-20T10:42:36Z",
+    "updated_at": "2026-07-20T11:15:45Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3402,
-    "updated_at": "2026-07-20T11:12:34Z",
+    "updated_at": "2026-07-20T11:27:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "runcycles/cycles-dashboard",
     "stars": 0,
-    "updated_at": "2026-07-20T10:28:22Z",
+    "updated_at": "2026-07-20T11:24:56Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T10:25:00Z",
     "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 4,
-    "updated_at": "2026-07-20T11:04:57Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
@@ -256,7 +283,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54090,
+    "stars": 54093,
     "updated_at": "2026-07-20T10:04:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -293,7 +320,7 @@
     "language": "Go",
     "name": "dativo-io/talon",
     "stars": 11,
-    "updated_at": "2026-07-20T09:40:03Z",
+    "updated_at": "2026-07-20T11:25:17Z",
     "url": "https://github.com/dativo-io/talon"
   },
   {
@@ -302,7 +329,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2439,
-    "updated_at": "2026-07-20T09:39:25Z",
+    "updated_at": "2026-07-20T11:25:14Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 7,
     "updated_at": "2026-07-20T09:31:13Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6620,
-    "updated_at": "2026-07-20T11:09:13Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
@@ -387,15 +405,6 @@
     "url": "https://github.com/superlinked/VectorHub"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-20T08:54:20Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
     "id": "dyronrh/awesome-agentops-landscape",
     "language": "Python",
@@ -403,15 +412,6 @@
     "stars": 18,
     "updated_at": "2026-07-20T08:54:09Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-20T09:34:34Z",
-    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
