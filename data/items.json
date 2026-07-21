@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "runcycles/cycles-mcp-server",
     "stars": 0,
-    "updated_at": "2026-07-21T17:45:08Z",
+    "updated_at": "2026-07-21T17:54:32Z",
     "url": "https://github.com/runcycles/cycles-mcp-server"
   },
   {
@@ -14,8 +14,89 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-21T17:45:08Z",
+    "updated_at": "2026-07-21T18:00:13Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-21T17:53:17Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
+    "id": "redevops-io/redevops-rag",
+    "language": "Python",
+    "name": "redevops-io/redevops-rag",
+    "stars": 9,
+    "updated_at": "2026-07-21T17:52:02Z",
+    "url": "https://github.com/redevops-io/redevops-rag"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:51:16Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "A governed, auditable workflow engine for agent-driven software changes.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-21T17:51:15Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31584,
+    "updated_at": "2026-07-21T17:48:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T17:47:03Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T17:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54249,
+    "updated_at": "2026-07-21T17:39:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23461,
+    "updated_at": "2026-07-21T17:37:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -36,15 +117,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54248,
-    "updated_at": "2026-07-21T17:39:50Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
     "id": "runcycles/cycles-docs",
     "language": "Vue",
@@ -59,42 +131,15 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10658,
-    "updated_at": "2026-07-21T17:38:47Z",
+    "updated_at": "2026-07-21T17:54:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T17:42:33Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T17:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:30:09Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 305,
+    "stars": 306,
     "updated_at": "2026-07-21T17:29:04Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -126,24 +171,6 @@
     "url": "https://github.com/redevops-io/sidekick"
   },
   {
-    "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
-    "id": "redevops-io/redevops-rag",
-    "language": "Python",
-    "name": "redevops-io/redevops-rag",
-    "stars": 9,
-    "updated_at": "2026-07-21T17:23:17Z",
-    "url": "https://github.com/redevops-io/redevops-rag"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31583,
-    "updated_at": "2026-07-21T17:23:03Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
     "id": "memoturn/memoturn",
     "language": "TypeScript",
@@ -151,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T17:22:22Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-21T17:21:44Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23460,
-    "updated_at": "2026-07-21T17:37:20Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -292,7 +301,7 @@
     "id": "zenml-io/zenml",
     "language": "Python",
     "name": "zenml-io/zenml",
-    "stars": 5505,
+    "stars": 5506,
     "updated_at": "2026-07-21T16:33:11Z",
     "url": "https://github.com/zenml-io/zenml"
   },
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3451,
-    "updated_at": "2026-07-21T16:01:39Z",
+    "updated_at": "2026-07-21T17:46:06Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -418,7 +427,7 @@
     "id": "w8123/EnterpriseAgentFramework",
     "language": "Java",
     "name": "w8123/EnterpriseAgentFramework",
-    "stars": 488,
+    "stars": 489,
     "updated_at": "2026-07-21T15:36:51Z",
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-21T15:24:43Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-21T16:09:27Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   }
 ]
