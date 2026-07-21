@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31576,
+    "updated_at": "2026-07-21T15:57:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:56:22Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2628,
+    "updated_at": "2026-07-21T15:54:16Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:52:39Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-21T15:57:42Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 48,
+    "updated_at": "2026-07-21T15:47:27Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T15:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 381,
     "updated_at": "2026-07-21T15:45:07Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-07-21T15:43:32Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
@@ -27,15 +99,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:40:51Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T15:40:03Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-21T15:44:32Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "\u9762\u5411 OA\u3001ERP\u3001CRM\u3001\u5de5\u5355\u7b49\u4f01\u4e1a\u7cfb\u7edf\u5feb\u901f\u6784\u5efa\u667a\u80fd\u4f53\uff0c\u8ba9 AI \u5728\u6743\u9650\u3001\u5ba1\u8ba1\u4e0e\u6cbb\u7406\u7ea6\u675f\u4e0b\u5b89\u5168\u8c03\u7528\u771f\u5b9e\u4e1a\u52a1\u80fd\u529b\u3002Build agents quickly for enterprise systems such as OA, ERP, CR",
@@ -68,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-21T15:42:27Z",
+    "updated_at": "2026-07-21T16:00:22Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-21T15:34:24Z",
+    "updated_at": "2026-07-21T16:00:01Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -99,24 +153,6 @@
     "url": "https://github.com/fangzheng698-lang/agent-prod"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31576,
-    "updated_at": "2026-07-21T15:42:28Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T15:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
@@ -124,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T15:27:22Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2628,
-    "updated_at": "2026-07-21T15:26:57Z",
-    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 72,
-    "updated_at": "2026-07-21T15:18:02Z",
+    "updated_at": "2026-07-21T15:57:35Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6657,
-    "updated_at": "2026-07-21T15:39:21Z",
+    "updated_at": "2026-07-21T15:56:01Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -232,6 +259,15 @@
     "stars": 1104,
     "updated_at": "2026-07-21T14:58:12Z",
     "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 305,
+    "updated_at": "2026-07-21T14:55:59Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Local-first RAG system with a reference-based evaluation harness. Built to abstain rather than hallucinate. Wrapped in a",
@@ -261,15 +297,6 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:16:53Z",
-    "url": "https://github.com/memoturn/memoturn"
-  },
-  {
     "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
     "id": "seaworld008/aiops-system",
     "language": "Go",
@@ -293,7 +320,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1282,
-    "updated_at": "2026-07-21T15:17:18Z",
+    "updated_at": "2026-07-21T15:50:42Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -333,15 +360,6 @@
     "url": "https://github.com/santifer/cv-santiago"
   },
   {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 48,
-    "updated_at": "2026-07-21T15:11:47Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
     "id": "ferro-labs/ai-gateway",
     "language": "Go",
@@ -369,15 +387,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 304,
-    "updated_at": "2026-07-21T14:55:59Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
     "id": "sumitdevgupto/TokenLean",
     "language": "Python",
@@ -394,15 +403,6 @@
     "stars": 7,
     "updated_at": "2026-07-21T13:59:25Z",
     "url": "https://github.com/acornops/acornops"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-21T15:43:32Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
