@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54151,
-    "updated_at": "2026-07-21T01:13:46Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-07-21T01:29:42Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -14,8 +14,89 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-21T01:13:41Z",
+    "updated_at": "2026-07-21T01:29:42Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-07-21T01:27:55Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-07-21T01:27:51Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-21T01:27:48Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1103,
+    "updated_at": "2026-07-21T01:25:05Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-21T01:23:59Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-21T01:19:40Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54154,
+    "updated_at": "2026-07-21T01:18:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T01:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T01:29:46Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -32,35 +113,8 @@
     "language": "Go",
     "name": "OrlojHQ/orloj",
     "stars": 109,
-    "updated_at": "2026-07-21T01:13:23Z",
+    "updated_at": "2026-07-21T01:16:47Z",
     "url": "https://github.com/OrlojHQ/orloj"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-21T01:12:48Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T01:07:58Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-21T01:03:22Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
@@ -77,17 +131,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20729,
-    "updated_at": "2026-07-21T01:01:32Z",
+    "updated_at": "2026-07-21T01:29:39Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T01:15:20Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
@@ -117,24 +162,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-07-21T00:37:05Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-07-21T00:37:04Z",
-    "url": "https://github.com/acornops/docs-website"
-  },
-  {
     "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
     "id": "acornops/management-console",
     "language": "TypeScript",
@@ -142,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T00:37:04Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-07-21T00:37:04Z",
-    "url": "https://github.com/acornops/acornops-deployment"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23446,
-    "updated_at": "2026-07-21T01:07:15Z",
+    "updated_at": "2026-07-21T01:19:39Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-21T00:18:32Z",
+    "updated_at": "2026-07-21T01:25:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T00:00:27Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-07-21T01:10:37Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -234,21 +243,12 @@
     "url": "https://github.com/runcycles/cycles-dashboard"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1103,
-    "updated_at": "2026-07-20T23:31:04Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3405,
-    "updated_at": "2026-07-21T01:12:42Z",
+    "updated_at": "2026-07-21T01:26:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -274,7 +274,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31519,
+    "stars": 31520,
     "updated_at": "2026-07-20T22:57:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
