@@ -1,12 +1,12 @@
 [
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-21T22:45:11Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-07-21T22:59:58Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +14,80 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10661,
-    "updated_at": "2026-07-21T22:44:47Z",
+    "updated_at": "2026-07-21T22:58:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-07-21T22:56:42Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-21T22:56:04Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 1,
+    "updated_at": "2026-07-21T22:58:31Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "\ubbf8\ub798\uc5d0\uc14b AI \uac70\ubc84\ub10c\uc2a4 \uc5d4\uc9c4 (MiraeAsset AI Governance Engine) ",
+    "id": "MALife-AI/MAGE",
+    "language": "Python",
+    "name": "MALife-AI/MAGE",
+    "stars": 0,
+    "updated_at": "2026-07-21T22:54:58Z",
+    "url": "https://github.com/MALife-AI/MAGE"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-21T22:54:33Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-21T22:52:19Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-21T22:48:20Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T22:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54264,
-    "updated_at": "2026-07-21T22:41:14Z",
+    "updated_at": "2026-07-21T22:59:32Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -52,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T22:30:52Z",
     "url": "https://github.com/hugosoaresj/awesome-ai-toolkit"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T22:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Codex-powered AgentOps night shift: health checks, isolated repairs, benchmark gates, safe rollback, and morning reports",
@@ -97,15 +160,6 @@
     "stars": 39,
     "updated_at": "2026-07-21T22:05:34Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-21T22:44:59Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
@@ -153,42 +207,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-21T21:15:28Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 1,
-    "updated_at": "2026-07-21T22:32:44Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-21T21:09:02Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-21T21:07:06Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
     "id": "openlit/openlit",
     "language": "TypeScript",
@@ -196,6 +214,15 @@
     "stars": 2628,
     "updated_at": "2026-07-21T21:05:43Z",
     "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "A minimal, transparent ReAct tool-using agent in Python \u2014 reason \u2192 act \u2192 observe loop, a safe tool registry (AST calcula",
+    "id": "KishanPateldev/llm-agent",
+    "language": "Python",
+    "name": "KishanPateldev/llm-agent",
+    "stars": 0,
+    "updated_at": "2026-07-21T21:04:50Z",
+    "url": "https://github.com/KishanPateldev/llm-agent"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31594,
-    "updated_at": "2026-07-21T18:33:24Z",
+    "updated_at": "2026-07-21T22:57:44Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:27:55Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
     "description": "AI Quorum - one prompt, every model, real agreement measured. Provider-agnostic multi-LLM consensus scoring, zero depend",
     "id": "Yacineutt/AI-Quorum",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T18:23:37Z",
     "url": "https://github.com/Yacineutt/AI-Quorum"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1106,
-    "updated_at": "2026-07-21T18:23:02Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "AI AgenticSafe - stop your AI agent from breaking production at 3 a.m. 8 battle-tested doctrines, 3 real post-mortems, z",
-    "id": "Yacineutt/AI-AgenticSafe",
-    "language": "\u2014",
-    "name": "Yacineutt/AI-AgenticSafe",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:21:46Z",
-    "url": "https://github.com/Yacineutt/AI-AgenticSafe"
   }
 ]
