@@ -1,11 +1,110 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3411,
+    "updated_at": "2026-07-21T16:13:31Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 72,
+    "updated_at": "2026-07-21T16:11:58Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-21T16:10:39Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20751,
+    "updated_at": "2026-07-21T16:09:20Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-21T16:09:10Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Named patterns with trade-offs, implementation guides, and code examples for every layer of a production AI system. Thin",
+    "id": "PrajwalAmte/AI-Engineering-Patterns",
+    "language": "TypeScript",
+    "name": "PrajwalAmte/AI-Engineering-Patterns",
+    "stars": 1,
+    "updated_at": "2026-07-21T16:08:35Z",
+    "url": "https://github.com/PrajwalAmte/AI-Engineering-Patterns"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 20,
+    "updated_at": "2026-07-21T16:03:57Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
+    "id": "SConv11/watchy",
+    "language": "Python",
+    "name": "SConv11/watchy",
+    "stars": 2,
+    "updated_at": "2026-07-21T16:02:21Z",
+    "url": "https://github.com/SConv11/watchy"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3451,
+    "updated_at": "2026-07-21T16:01:39Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T16:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T16:11:41Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31576,
-    "updated_at": "2026-07-21T15:57:45Z",
+    "stars": 31578,
+    "updated_at": "2026-07-21T16:11:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -23,7 +122,7 @@
     "language": "TypeScript",
     "name": "openlit/openlit",
     "stars": 2628,
-    "updated_at": "2026-07-21T15:54:16Z",
+    "updated_at": "2026-07-21T16:13:28Z",
     "url": "https://github.com/openlit/openlit"
   },
   {
@@ -32,17 +131,8 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-07-21T15:52:39Z",
+    "updated_at": "2026-07-21T16:11:56Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-21T15:57:42Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
@@ -52,15 +142,6 @@
     "stars": 48,
     "updated_at": "2026-07-21T15:47:27Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T15:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -117,33 +198,6 @@
     "url": "https://github.com/w8123/EnterpriseAgentFramework"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3411,
-    "updated_at": "2026-07-21T16:00:22Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20750,
-    "updated_at": "2026-07-21T15:44:31Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T16:00:01Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
     "id": "fangzheng698-lang/agent-prod",
     "language": "Python",
@@ -185,17 +239,8 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 7,
-    "updated_at": "2026-07-21T15:24:33Z",
+    "updated_at": "2026-07-21T16:09:27Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 72,
-    "updated_at": "2026-07-21T15:57:35Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
@@ -216,15 +261,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-21T15:03:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
@@ -239,7 +275,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6657,
-    "updated_at": "2026-07-21T15:56:01Z",
+    "updated_at": "2026-07-21T16:14:38Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -256,7 +292,7 @@
     "id": "Arize-ai/openinference",
     "language": "Python",
     "name": "Arize-ai/openinference",
-    "stars": 1104,
+    "stars": 1105,
     "updated_at": "2026-07-21T14:58:12Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 305,
-    "updated_at": "2026-07-21T14:55:59Z",
+    "updated_at": "2026-07-21T16:13:11Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-21T13:47:17Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Cycles budget and action guard for OpenClaw agents",
-    "id": "runcycles/cycles-openclaw-budget-guard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-openclaw-budget-guard",
-    "stars": 7,
-    "updated_at": "2026-07-21T13:44:49Z",
-    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5629,
-    "updated_at": "2026-07-21T13:44:42Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:42:28Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
-    "id": "runcycles/cycles-client-typescript",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-client-typescript",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:40:11Z",
-    "url": "https://github.com/runcycles/cycles-client-typescript"
   }
 ]
