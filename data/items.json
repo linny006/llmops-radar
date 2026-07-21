@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Quorum - one prompt, every model, real agreement measured. Provider-agnostic multi-LLM consensus scoring, zero depend",
+    "id": "Yacineutt/AI-Quorum",
+    "language": "Python",
+    "name": "Yacineutt/AI-Quorum",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:52:58Z",
+    "url": "https://github.com/Yacineutt/AI-Quorum"
+  },
+  {
+    "description": "AI AgenticSafe - stop your AI agent from breaking production at 3 a.m. 8 battle-tested doctrines, 3 real post-mortems, z",
+    "id": "Yacineutt/AI-AgenticSafe",
+    "language": "\u2014",
+    "name": "Yacineutt/AI-AgenticSafe",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:52:57Z",
+    "url": "https://github.com/Yacineutt/AI-AgenticSafe"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-21T16:52:14Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T16:49:09Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 305,
+    "updated_at": "2026-07-21T16:51:16Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T16:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -36,51 +90,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "AI Quorum - one prompt, every model, real agreement measured. Provider-agnostic multi-LLM consensus scoring, zero depend",
-    "id": "Yacineutt/AI-Quorum",
-    "language": "Python",
-    "name": "Yacineutt/AI-Quorum",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:33:35Z",
-    "url": "https://github.com/Yacineutt/AI-Quorum"
-  },
-  {
-    "description": "AI ThreeAM - stop your AI agent from breaking production at 3 a.m. 8 battle-tested doctrines, 3 real post-mortems, zero ",
-    "id": "Yacineutt/AI-ThreeAM",
-    "language": "\u2014",
-    "name": "Yacineutt/AI-ThreeAM",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:33:34Z",
-    "url": "https://github.com/Yacineutt/AI-ThreeAM"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T16:30:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-21T16:44:00Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T16:44:12Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Eval-first, study-grade Retrieval-Augmented Generation engine \u2014 hybrid retrieval (dense + BM25 + RRF), cross-encoder rer",
     "id": "NikolaiSachok/Strata-RAG",
     "language": "Python",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54242,
-    "updated_at": "2026-07-21T16:22:31Z",
+    "updated_at": "2026-07-21T16:51:45Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20753,
-    "updated_at": "2026-07-21T16:42:26Z",
+    "updated_at": "2026-07-21T16:52:39Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T16:13:12Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 305,
-    "updated_at": "2026-07-21T16:44:23Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -248,7 +248,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-21T16:34:45Z",
+    "updated_at": "2026-07-21T16:51:44Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -320,7 +320,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10656,
-    "updated_at": "2026-07-21T16:42:56Z",
+    "updated_at": "2026-07-21T16:50:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
