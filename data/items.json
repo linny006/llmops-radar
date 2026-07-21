@@ -1,11 +1,47 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31580,
+    "updated_at": "2026-07-21T16:43:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-21T16:40:22Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-21T16:39:18Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6657,
+    "updated_at": "2026-07-21T16:33:40Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "AI Quorum - one prompt, every model, real agreement measured. Provider-agnostic multi-LLM consensus scoring, zero depend",
     "id": "Yacineutt/AI-Quorum",
     "language": "Python",
     "name": "Yacineutt/AI-Quorum",
     "stars": 0,
-    "updated_at": "2026-07-21T16:30:32Z",
+    "updated_at": "2026-07-21T16:33:35Z",
     "url": "https://github.com/Yacineutt/AI-Quorum"
   },
   {
@@ -14,8 +50,17 @@
     "language": "\u2014",
     "name": "Yacineutt/AI-ThreeAM",
     "stars": 0,
-    "updated_at": "2026-07-21T16:30:31Z",
+    "updated_at": "2026-07-21T16:33:34Z",
     "url": "https://github.com/Yacineutt/AI-ThreeAM"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T16:30:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -23,17 +68,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-21T16:28:14Z",
+    "updated_at": "2026-07-21T16:44:00Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-21T16:27:43Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-21T16:26:53Z",
+    "updated_at": "2026-07-21T16:44:12Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -52,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T16:26:38Z",
     "url": "https://github.com/NikolaiSachok/Strata-RAG"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31580,
-    "updated_at": "2026-07-21T16:25:16Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6656,
-    "updated_at": "2026-07-21T16:24:45Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -94,7 +112,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54241,
+    "stars": 54242,
     "updated_at": "2026-07-21T16:22:31Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -112,18 +130,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20752,
-    "updated_at": "2026-07-21T16:17:27Z",
+    "stars": 20753,
+    "updated_at": "2026-07-21T16:42:26Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T16:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -131,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-21T16:23:52Z",
+    "updated_at": "2026-07-21T16:37:49Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 305,
-    "updated_at": "2026-07-21T16:13:11Z",
+    "updated_at": "2026-07-21T16:44:23Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T16:23:14Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-21T16:10:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Named patterns with trade-offs, implementation guides, and code examples for every layer of a production AI system. Thin",
@@ -248,7 +248,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-21T16:23:52Z",
+    "updated_at": "2026-07-21T16:34:45Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -311,7 +311,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-21T15:27:22Z",
+    "updated_at": "2026-07-21T16:32:42Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -320,7 +320,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10656,
-    "updated_at": "2026-07-21T16:27:56Z",
+    "updated_at": "2026-07-21T16:42:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5504,
-    "updated_at": "2026-07-21T16:28:44Z",
+    "updated_at": "2026-07-21T16:33:11Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -437,7 +437,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1282,
-    "updated_at": "2026-07-21T15:50:42Z",
+    "updated_at": "2026-07-21T16:33:35Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
