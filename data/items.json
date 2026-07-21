@@ -1,12 +1,138 @@
 [
   {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 2,
+    "updated_at": "2026-07-21T01:59:31Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
+    "id": "acornops/execution-engine",
+    "language": "Python",
+    "name": "acornops/execution-engine",
+    "stars": 2,
+    "updated_at": "2026-07-21T01:59:31Z",
+    "url": "https://github.com/acornops/execution-engine"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-21T01:59:31Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "AI deployment readiness toolkit: local 70-point CLI, veto gates, governance artifacts, and fictional cases.",
+    "id": "Anonymousyz/ai-prototype-to-production-toolkit",
+    "language": "Python",
+    "name": "Anonymousyz/ai-prototype-to-production-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:59:21Z",
+    "url": "https://github.com/Anonymousyz/ai-prototype-to-production-toolkit"
+  },
+  {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 66,
+    "updated_at": "2026-07-21T01:59:02Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-07-21T01:57:50Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54159,
+    "updated_at": "2026-07-21T01:57:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 16,
-    "updated_at": "2026-07-21T01:45:00Z",
+    "updated_at": "2026-07-21T01:53:26Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2442,
+    "updated_at": "2026-07-21T01:52:44Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-21T01:58:52Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:53:14Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "A lightweight, performance-focused AI API gateway, precise quota enforcement",
+    "id": "RainbowCloudLabs/ai.local",
+    "language": "Go",
+    "name": "RainbowCloudLabs/ai.local",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:49:22Z",
+    "url": "https://github.com/RainbowCloudLabs/ai.local"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27118,
+    "updated_at": "2026-07-21T01:49:43Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T01:57:20Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T01:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
@@ -18,40 +144,22 @@
     "url": "https://github.com/OrlojHQ/orloj"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:44:18Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T01:44:19Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-21T01:44:55Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "name": "promptfoo/promptfoo",
+    "stars": 23447,
+    "updated_at": "2026-07-21T01:43:00Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T01:30:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Arize-ai/phoenix",
+    "stars": 10643,
+    "updated_at": "2026-07-21T01:34:03Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
@@ -99,15 +207,6 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54155,
-    "updated_at": "2026-07-21T01:41:01Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -151,51 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T00:39:10Z",
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27118,
-    "updated_at": "2026-07-21T00:38:39Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-21T00:37:04Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 66,
-    "updated_at": "2026-07-21T00:33:30Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23446,
-    "updated_at": "2026-07-21T01:43:00Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10642,
-    "updated_at": "2026-07-21T01:34:03Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -248,7 +302,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3405,
-    "updated_at": "2026-07-21T01:43:36Z",
+    "updated_at": "2026-07-21T01:57:42Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -274,7 +328,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31521,
+    "stars": 31520,
     "updated_at": "2026-07-20T22:57:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -284,7 +338,7 @@
     "language": "TypeScript",
     "name": "openlit/openlit",
     "stars": 2627,
-    "updated_at": "2026-07-20T22:18:52Z",
+    "updated_at": "2026-07-21T01:57:47Z",
     "url": "https://github.com/openlit/openlit"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Rust",
     "name": "Eval-core/evalcore",
     "stars": 13,
-    "updated_at": "2026-07-20T21:42:10Z",
+    "updated_at": "2026-07-21T01:46:45Z",
     "url": "https://github.com/Eval-core/evalcore"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 6637,
     "updated_at": "2026-07-21T01:01:47Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "OpenCode + Ollama multi-agent workflow with builder/reviewer agents, headless runs, skills, validation gates, local sess",
-    "id": "pillaiharish/opencode-ollama-steroids",
-    "language": "Python",
-    "name": "pillaiharish/opencode-ollama-steroids",
-    "stars": 3,
-    "updated_at": "2026-07-20T20:18:28Z",
-    "url": "https://github.com/pillaiharish/opencode-ollama-steroids"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-20T20:16:45Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 225,
-    "updated_at": "2026-07-20T20:09:12Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-07-20T20:05:06Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-20T19:57:01Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5494,
-    "updated_at": "2026-07-20T19:43:26Z",
-    "url": "https://github.com/zenml-io/zenml"
   }
 ]
