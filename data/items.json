@@ -1,21 +1,12 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-21T13:42:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T13:40:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
+    "id": "acornops/acornops",
+    "language": "JavaScript",
+    "name": "acornops/acornops",
+    "stars": 7,
+    "updated_at": "2026-07-21T13:59:25Z",
+    "url": "https://github.com/acornops/acornops"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -23,8 +14,125 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31571,
-    "updated_at": "2026-07-21T13:45:16Z",
+    "updated_at": "2026-07-21T13:57:07Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20746,
+    "updated_at": "2026-07-21T13:56:43Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-21T13:59:44Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2628,
+    "updated_at": "2026-07-21T13:51:23Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T13:51:18Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1061,
+    "updated_at": "2026-07-21T13:53:41Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3411,
+    "updated_at": "2026-07-21T13:58:34Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-07-21T13:49:27Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-21T13:47:17Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T13:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-21T13:45:11Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Cycles budget and action guard for OpenClaw agents",
+    "id": "runcycles/cycles-openclaw-budget-guard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-openclaw-budget-guard",
+    "stars": 7,
+    "updated_at": "2026-07-21T13:44:49Z",
+    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-21T13:57:35Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 0,
+    "updated_at": "2026-07-21T13:42:28Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
@@ -34,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T13:40:11Z",
     "url": "https://github.com/runcycles/cycles-client-typescript"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2628,
-    "updated_at": "2026-07-21T13:45:15Z",
-    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -61,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T13:41:36Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 6,
-    "updated_at": "2026-07-21T13:39:13Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
@@ -112,7 +202,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10653,
+    "stars": 10654,
     "updated_at": "2026-07-21T13:37:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -124,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T13:36:08Z",
     "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T13:43:52Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -158,7 +239,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 4,
-    "updated_at": "2026-07-21T13:35:59Z",
+    "updated_at": "2026-07-21T13:51:26Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -180,24 +261,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:44:31Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3411,
-    "updated_at": "2026-07-21T13:44:51Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "An email-driven job application tracker that pulls your applications out of your inbox and into one place, no matter whi",
     "id": "hanzala-bhutto/ApplySync",
     "language": "Python",
@@ -207,21 +270,12 @@
     "url": "https://github.com/hanzala-bhutto/ApplySync"
   },
   {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:42:28Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 71,
-    "updated_at": "2026-07-21T13:43:50Z",
+    "updated_at": "2026-07-21T13:59:38Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -275,7 +329,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-21T13:02:28Z",
+    "updated_at": "2026-07-21T13:49:36Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -286,15 +340,6 @@
     "stars": 762,
     "updated_at": "2026-07-21T12:57:37Z",
     "url": "https://github.com/santifer/cv-santiago"
-  },
-  {
-    "description": "Cycles budget and action guard for OpenClaw agents",
-    "id": "runcycles/cycles-openclaw-budget-guard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-openclaw-budget-guard",
-    "stars": 7,
-    "updated_at": "2026-07-21T13:44:49Z",
-    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
   },
   {
     "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
@@ -331,15 +376,6 @@
     "stars": 5976,
     "updated_at": "2026-07-21T12:35:41Z",
     "url": "https://github.com/Helicone/helicone"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20746,
-    "updated_at": "2026-07-21T13:20:45Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -412,41 +448,5 @@
     "stars": 5501,
     "updated_at": "2026-07-21T13:33:00Z",
     "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 5,
-    "updated_at": "2026-07-21T11:17:04Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-21T11:08:07Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:45:11Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27139,
-    "updated_at": "2026-07-21T10:54:41Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
