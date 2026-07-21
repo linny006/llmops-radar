@@ -1,19 +1,100 @@
 [
   {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-21T17:15:04Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-21T17:00:27Z",
+    "updated_at": "2026-07-21T17:15:02Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-21T17:12:14Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-21T17:13:23Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23460,
+    "updated_at": "2026-07-21T17:11:06Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T17:07:44Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-07-21T17:06:05Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1105,
+    "updated_at": "2026-07-21T17:05:57Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T17:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 1,
+    "updated_at": "2026-07-21T17:05:42Z",
+    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6657,
+    "stars": 6658,
     "updated_at": "2026-07-21T16:57:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -31,7 +112,7 @@
     "id": "Yacineutt/AI-Quorum",
     "language": "Python",
     "name": "Yacineutt/AI-Quorum",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-21T16:57:38Z",
     "url": "https://github.com/Yacineutt/AI-Quorum"
   },
@@ -40,9 +121,18 @@
     "id": "Yacineutt/AI-AgenticSafe",
     "language": "\u2014",
     "name": "Yacineutt/AI-AgenticSafe",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-21T16:57:37Z",
     "url": "https://github.com/Yacineutt/AI-AgenticSafe"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54244,
+    "updated_at": "2026-07-21T16:57:14Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -54,31 +144,13 @@
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T16:53:09Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54243,
-    "updated_at": "2026-07-21T16:57:14Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T16:49:09Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+    "name": "Arize-ai/phoenix",
+    "stars": 10657,
+    "updated_at": "2026-07-21T16:50:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -94,7 +166,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31580,
+    "stars": 31582,
     "updated_at": "2026-07-21T16:43:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -103,18 +175,9 @@
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
-    "stars": 16,
+    "stars": 15,
     "updated_at": "2026-07-21T16:40:22Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-21T16:39:18Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Eval-first, study-grade Retrieval-Augmented Generation engine \u2014 hybrid retrieval (dense + BM25 + RRF), cross-encoder rer",
@@ -135,15 +198,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-07-21T16:22:57Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
     "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
     "id": "redevops-io/redevops-rag",
     "language": "Python",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20753,
-    "updated_at": "2026-07-21T16:52:39Z",
+    "updated_at": "2026-07-21T17:06:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -167,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-21T16:54:28Z",
+    "updated_at": "2026-07-21T17:15:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -196,15 +250,6 @@
     "stars": 72,
     "updated_at": "2026-07-21T16:11:58Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:59:13Z",
-    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "Named patterns with trade-offs, implementation guides, and code examples for every layer of a production AI system. Thin",
@@ -261,15 +306,6 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-21T16:55:57Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -302,7 +338,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-07-21T15:40:03Z",
+    "updated_at": "2026-07-21T17:13:33Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -322,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T15:33:51Z",
     "url": "https://github.com/fangzheng698-lang/agent-prod"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10656,
-    "updated_at": "2026-07-21T16:50:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
@@ -387,15 +414,6 @@
     "url": "https://github.com/zenml-io/zenml"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1105,
-    "updated_at": "2026-07-21T17:00:10Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "Local-first RAG system with a reference-based evaluation harness. Built to abstain rather than hallucinate. Wrapped in a",
     "id": "M26I/eval-pipeline",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T14:50:30Z",
     "url": "https://github.com/seaworld008/aiops-system"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 150,
-    "updated_at": "2026-07-21T14:48:40Z",
-    "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1282,
-    "updated_at": "2026-07-21T16:33:35Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   }
 ]
