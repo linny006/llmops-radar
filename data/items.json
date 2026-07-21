@@ -1,11 +1,65 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T04:42:29Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
+    "id": "MaximSTH/meta-layer-starter",
+    "language": "Shell",
+    "name": "MaximSTH/meta-layer-starter",
+    "stars": 2,
+    "updated_at": "2026-07-21T04:45:21Z",
+    "url": "https://github.com/MaximSTH/meta-layer-starter"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-21T04:37:30Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
+    "id": "seaworld008/aiops-system",
+    "language": "Go",
+    "name": "seaworld008/aiops-system",
+    "stars": 1,
+    "updated_at": "2026-07-21T04:37:17Z",
+    "url": "https://github.com/seaworld008/aiops-system"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-21T04:33:31Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20734,
+    "updated_at": "2026-07-21T04:32:01Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 5,
-    "updated_at": "2026-07-21T04:30:22Z",
+    "updated_at": "2026-07-21T04:30:57Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -27,24 +81,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
-    "id": "seaworld008/aiops-system",
-    "language": "Go",
-    "name": "seaworld008/aiops-system",
-    "stars": 1,
-    "updated_at": "2026-07-21T04:22:08Z",
-    "url": "https://github.com/seaworld008/aiops-system"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T04:30:01Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -63,20 +99,11 @@
     "url": "https://github.com/HikaruEgashira/otel-hooks"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-21T04:15:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54178,
+    "stars": 54181,
     "updated_at": "2026-07-21T04:12:05Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -88,15 +115,6 @@
     "stars": 2486,
     "updated_at": "2026-07-21T04:13:17Z",
     "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-21T04:11:27Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -131,7 +149,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-21T04:13:25Z",
+    "updated_at": "2026-07-21T04:34:16Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6638,
-    "updated_at": "2026-07-21T03:26:20Z",
+    "updated_at": "2026-07-21T04:44:34Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -347,7 +365,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3406,
-    "updated_at": "2026-07-21T04:13:04Z",
+    "updated_at": "2026-07-21T04:42:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/OrlojHQ/orloj"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20732,
-    "updated_at": "2026-07-21T01:33:22Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
     "id": "geoff-davis/async-batch-llm",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1103,
     "updated_at": "2026-07-21T01:25:05Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
-    "id": "katanemo/plano",
-    "language": "Rust",
-    "name": "katanemo/plano",
-    "stars": 6878,
-    "updated_at": "2026-07-21T01:03:09Z",
-    "url": "https://github.com/katanemo/plano"
   }
 ]
