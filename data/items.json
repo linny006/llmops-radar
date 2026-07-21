@@ -1,12 +1,30 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T18:10:04Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
     "id": "runcycles/cycles-mcp-server",
     "language": "TypeScript",
     "name": "runcycles/cycles-mcp-server",
     "stars": 0,
-    "updated_at": "2026-07-21T17:54:32Z",
+    "updated_at": "2026-07-21T18:08:59Z",
     "url": "https://github.com/runcycles/cycles-mcp-server"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-07-21T18:08:30Z",
+    "url": "https://github.com/runcycles/cycles-docs"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -14,8 +32,17 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-21T18:00:13Z",
+    "updated_at": "2026-07-21T18:12:04Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2628,
+    "updated_at": "2026-07-21T18:04:29Z",
+    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -23,8 +50,35 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-07-21T17:53:17Z",
+    "updated_at": "2026-07-21T18:03:51Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0.",
+    "id": "redevops-io/agent-harness",
+    "language": "Python",
+    "name": "redevops-io/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-07-21T18:02:28Z",
+    "url": "https://github.com/redevops-io/agent-harness"
+  },
+  {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 66,
+    "updated_at": "2026-07-21T18:01:20Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T18:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
@@ -59,26 +113,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31584,
-    "updated_at": "2026-07-21T17:48:32Z",
+    "updated_at": "2026-07-21T18:07:10Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T17:47:03Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T17:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54249,
-    "updated_at": "2026-07-21T17:39:50Z",
+    "updated_at": "2026-07-21T18:12:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23461,
-    "updated_at": "2026-07-21T17:37:20Z",
+    "updated_at": "2026-07-21T18:10:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-21T17:35:23Z",
+    "updated_at": "2026-07-21T18:09:48Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 27143,
     "updated_at": "2026-07-21T17:37:14Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-07-21T17:32:25Z",
-    "url": "https://github.com/runcycles/cycles-docs"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 306,
-    "updated_at": "2026-07-21T17:29:04Z",
+    "updated_at": "2026-07-21T18:13:25Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T17:26:09Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0.",
-    "id": "redevops-io/agent-harness",
-    "language": "Python",
-    "name": "redevops-io/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:30:06Z",
-    "url": "https://github.com/redevops-io/agent-harness"
   },
   {
     "description": "Local coding-agent orchestrator \u2014 DAG of auto-approved, git-worktree-isolated sub-sessions across LLM providers (Claude/",
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T17:16:49Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2628,
-    "updated_at": "2026-07-21T17:16:28Z",
-    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -338,7 +347,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-21T17:33:02Z",
+    "updated_at": "2026-07-21T18:01:29Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T15:33:51Z",
     "url": "https://github.com/fangzheng698-lang/agent-prod"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 4,
-    "updated_at": "2026-07-21T15:24:43Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
   }
 ]
