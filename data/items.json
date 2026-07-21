@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10655,
+    "updated_at": "2026-07-21T15:24:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-21T15:15:21Z",
+    "updated_at": "2026-07-21T15:23:27Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:19:26Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 72,
+    "updated_at": "2026-07-21T15:18:02Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T15:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
+    "id": "routeplane-core/routeplane-ce",
+    "language": "Rust",
+    "name": "routeplane-core/routeplane-ce",
+    "stars": 4,
+    "updated_at": "2026-07-21T15:14:13Z",
+    "url": "https://github.com/routeplane-core/routeplane-ce"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20748,
+    "updated_at": "2026-07-21T15:10:25Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
@@ -23,17 +77,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-21T15:07:49Z",
+    "updated_at": "2026-07-21T15:20:38Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:07:20Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -50,7 +95,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2450,
-    "updated_at": "2026-07-21T15:05:51Z",
+    "updated_at": "2026-07-21T15:17:59Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -59,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31575,
-    "updated_at": "2026-07-21T15:13:23Z",
+    "updated_at": "2026-07-21T15:18:22Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -77,26 +122,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6657,
-    "updated_at": "2026-07-21T15:12:20Z",
+    "updated_at": "2026-07-21T15:18:20Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T15:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20747,
-    "updated_at": "2026-07-21T15:10:25Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-07-21T15:11:56Z",
+    "updated_at": "2026-07-21T15:16:53Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -185,17 +212,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1282,
-    "updated_at": "2026-07-21T14:47:38Z",
+    "updated_at": "2026-07-21T15:17:18Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 72,
-    "updated_at": "2026-07-21T15:13:24Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "One observability layer across coding agents \u2014 normalize Claude Code, Codex, dcode & more into a shared LangSmith trace ",
@@ -229,7 +247,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29306,
+    "stars": 29307,
     "updated_at": "2026-07-21T14:32:23Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 7,
-    "updated_at": "2026-07-21T14:12:24Z",
+    "updated_at": "2026-07-21T15:24:33Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
-    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
-    "id": "routeplane-core/routeplane-ce",
-    "language": "Rust",
-    "name": "routeplane-core/routeplane-ce",
-    "stars": 4,
-    "updated_at": "2026-07-21T15:14:13Z",
-    "url": "https://github.com/routeplane-core/routeplane-ce"
-  },
-  {
     "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
     "id": "acornops/acornops",
     "language": "JavaScript",
@@ -338,7 +347,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-21T15:10:36Z",
+    "updated_at": "2026-07-21T15:19:36Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,15 +439,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T13:38:05Z",
     "url": "https://github.com/Zshnreza/prism"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10654,
-    "updated_at": "2026-07-21T15:04:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
