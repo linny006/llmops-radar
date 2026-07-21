@@ -1,12 +1,93 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-21T10:28:37Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-21T10:14:01Z",
+    "updated_at": "2026-07-21T10:30:08Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Catch the LLM call that quietly costs 10x what it should. A Claude Agent Skill that reviews LLM code for token/cost blow",
+    "id": "windchillscalanthes-ship-it/llm-cost-guard",
+    "language": "\u2014",
+    "name": "windchillscalanthes-ship-it/llm-cost-guard",
+    "stars": 0,
+    "updated_at": "2026-07-21T10:30:05Z",
+    "url": "https://github.com/windchillscalanthes-ship-it/llm-cost-guard"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 303,
+    "updated_at": "2026-07-21T10:28:08Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-07-21T10:23:14Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3411,
+    "updated_at": "2026-07-21T10:22:48Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6651,
+    "updated_at": "2026-07-21T10:22:53Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-21T10:21:28Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 4,
+    "updated_at": "2026-07-21T10:16:14Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T10:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
@@ -18,22 +99,13 @@
     "url": "https://github.com/runcycles/cycles-server-admin"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 303,
-    "updated_at": "2026-07-21T10:15:21Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3410,
-    "updated_at": "2026-07-21T10:14:31Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "name": "langfuse/langfuse",
+    "stars": 31559,
+    "updated_at": "2026-07-21T10:11:45Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -99,42 +171,6 @@
     "url": "https://github.com/sxueck/llm-gateway"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-21T10:10:17Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T10:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31558,
-    "updated_at": "2026-07-21T10:11:45Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6650,
-    "updated_at": "2026-07-21T09:50:19Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
     "id": "8monkey-ai/hebo-gateway",
     "language": "TypeScript",
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 71,
-    "updated_at": "2026-07-21T09:55:06Z",
+    "updated_at": "2026-07-21T10:20:40Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -274,7 +310,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2449,
+    "stars": 2450,
     "updated_at": "2026-07-21T09:02:19Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -322,15 +358,6 @@
     "stars": 150,
     "updated_at": "2026-07-21T08:54:50Z",
     "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 4,
-    "updated_at": "2026-07-21T09:29:39Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -396,15 +423,6 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-21T08:21:41Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -418,7 +436,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54220,
+    "stars": 54223,
     "updated_at": "2026-07-21T08:12:56Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-21T09:21:50Z",
+    "updated_at": "2026-07-21T10:27:31Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
-    "id": "8pig/llm-ops",
-    "language": "Python",
-    "name": "8pig/llm-ops",
-    "stars": 10,
-    "updated_at": "2026-07-21T07:51:44Z",
-    "url": "https://github.com/8pig/llm-ops"
-  },
-  {
-    "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
-    "id": "domestique-labs/domestique-oss",
-    "language": "Python",
-    "name": "domestique-labs/domestique-oss",
-    "stars": 2,
-    "updated_at": "2026-07-21T07:57:25Z",
-    "url": "https://github.com/domestique-labs/domestique-oss"
   }
 ]
