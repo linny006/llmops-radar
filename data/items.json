@@ -1,5 +1,68 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-21T13:42:57Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T13:40:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31571,
+    "updated_at": "2026-07-21T13:45:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
+    "id": "runcycles/cycles-client-typescript",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-client-typescript",
+    "stars": 0,
+    "updated_at": "2026-07-21T13:40:11Z",
+    "url": "https://github.com/runcycles/cycles-client-typescript"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2628,
+    "updated_at": "2026-07-21T13:45:15Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-21T13:39:56Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-21T13:41:36Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -7,15 +70,6 @@
     "stars": 6,
     "updated_at": "2026-07-21T13:39:13Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31570,
-    "updated_at": "2026-07-21T13:40:12Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
@@ -27,11 +81,20 @@
     "url": "https://github.com/ahmeedatm/infer-router"
   },
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2450,
+    "updated_at": "2026-07-21T13:38:32Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
     "id": "SConv11/watchy",
     "language": "Python",
     "name": "SConv11/watchy",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-21T13:38:28Z",
     "url": "https://github.com/SConv11/watchy"
   },
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-21T13:35:21Z",
+    "updated_at": "2026-07-21T13:43:52Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2628,
-    "updated_at": "2026-07-21T13:40:09Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
     "description": "A governed, auditable workflow engine for agent-driven software changes.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -126,21 +180,12 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T13:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-21T13:28:07Z",
+    "updated_at": "2026-07-21T13:44:31Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-21T13:40:22Z",
+    "updated_at": "2026-07-21T13:44:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -167,17 +212,8 @@
     "language": "TypeScript",
     "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "stars": 0,
-    "updated_at": "2026-07-21T13:25:50Z",
+    "updated_at": "2026-07-21T13:42:28Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-21T13:39:43Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 71,
-    "updated_at": "2026-07-21T13:25:35Z",
+    "updated_at": "2026-07-21T13:43:50Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Rust",
     "name": "routeplane-core/routeplane-ce",
     "stars": 4,
-    "updated_at": "2026-07-21T13:12:21Z",
+    "updated_at": "2026-07-21T13:45:05Z",
     "url": "https://github.com/routeplane-core/routeplane-ce"
   },
   {
@@ -232,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-07-21T13:11:57Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-21T13:10:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -266,17 +293,8 @@
     "language": "TypeScript",
     "name": "runcycles/cycles-openclaw-budget-guard",
     "stars": 7,
-    "updated_at": "2026-07-21T13:35:06Z",
+    "updated_at": "2026-07-21T13:44:49Z",
     "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
-  },
-  {
-    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
-    "id": "runcycles/cycles-client-typescript",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-client-typescript",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:40:11Z",
-    "url": "https://github.com/runcycles/cycles-client-typescript"
   },
   {
     "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
@@ -306,15 +324,6 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2450,
-    "updated_at": "2026-07-21T13:38:32Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
     "id": "Helicone/helicone",
     "language": "TypeScript",
@@ -331,15 +340,6 @@
     "stars": 20746,
     "updated_at": "2026-07-21T13:20:45Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-21T13:39:56Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -437,7 +437,7 @@
     "language": "HTML",
     "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "stars": 0,
-    "updated_at": "2026-07-21T11:05:54Z",
+    "updated_at": "2026-07-21T13:45:11Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
