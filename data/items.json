@@ -1,21 +1,93 @@
 [
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3451,
+    "updated_at": "2026-07-21T20:59:47Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
     "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-21T20:43:58Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
+    "name": "anthony-chaudhary/fak",
+    "stars": 15,
+    "updated_at": "2026-07-21T20:59:03Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 307,
+    "updated_at": "2026-07-21T20:58:46Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54257,
-    "updated_at": "2026-07-21T20:42:20Z",
+    "stars": 54258,
+    "updated_at": "2026-07-21T20:59:25Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:56:08Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "CI gate for RAG pipelines that fails the build when retrieval quality regresses. Measures recall@10, MRR, and nDCG again",
+    "id": "NavyasriAmand/rag-eval-gate",
+    "language": "Python",
+    "name": "NavyasriAmand/rag-eval-gate",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:55:17Z",
+    "url": "https://github.com/NavyasriAmand/rag-eval-gate"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T21:00:19Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-21T20:51:50Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
+    "id": "routeplane-core/routeplane-ce",
+    "language": "Rust",
+    "name": "routeplane-core/routeplane-ce",
+    "stars": 4,
+    "updated_at": "2026-07-21T20:49:30Z",
+    "url": "https://github.com/routeplane-core/routeplane-ce"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T20:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 105,
-    "updated_at": "2026-07-21T20:39:37Z",
+    "updated_at": "2026-07-21T20:52:18Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -45,33 +117,6 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 306,
-    "updated_at": "2026-07-21T20:33:04Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T20:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T20:41:36Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10660,
-    "updated_at": "2026-07-21T20:17:24Z",
+    "updated_at": "2026-07-21T20:56:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T20:23:14Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:41:09Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Real-time voice AI infrastructure \u2014 500+ concurrent calls, WebSockets, Apache Kafka, gRPC/C++ with CUDA. Speech-to-text,",
@@ -175,7 +211,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27144,
+    "stars": 27145,
     "updated_at": "2026-07-21T19:33:10Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -265,8 +301,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6662,
-    "updated_at": "2026-07-21T18:47:48Z",
+    "stars": 6663,
+    "updated_at": "2026-07-21T20:57:56Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-21T17:51:15Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Local coding-agent orchestrator \u2014 DAG of auto-approved, git-worktree-isolated sub-sessions across LLM providers (Claude/",
-    "id": "redevops-io/sidekick",
-    "language": "Python",
-    "name": "redevops-io/sidekick",
-    "stars": 9,
-    "updated_at": "2026-07-21T17:24:04Z",
-    "url": "https://github.com/redevops-io/sidekick"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-07-21T19:44:24Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-21T17:15:04Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-21T19:25:50Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   }
 ]
