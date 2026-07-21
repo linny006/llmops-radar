@@ -1,21 +1,21 @@
 [
   {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-21T15:27:22Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10655,
-    "updated_at": "2026-07-21T15:24:11Z",
+    "stars": 10656,
+    "updated_at": "2026-07-21T15:26:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-21T15:23:27Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -23,8 +23,35 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-21T15:19:26Z",
+    "updated_at": "2026-07-21T15:25:17Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T15:24:52Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-21T15:24:33Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-21T15:29:58Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -34,15 +61,6 @@
     "stars": 72,
     "updated_at": "2026-07-21T15:18:02Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T15:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
@@ -68,7 +86,7 @@
     "language": "TypeScript",
     "name": "openlit/openlit",
     "stars": 2628,
-    "updated_at": "2026-07-21T15:10:07Z",
+    "updated_at": "2026-07-21T15:26:57Z",
     "url": "https://github.com/openlit/openlit"
   },
   {
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31575,
-    "updated_at": "2026-07-21T15:18:22Z",
+    "updated_at": "2026-07-21T15:28:52Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -122,8 +140,17 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6657,
-    "updated_at": "2026-07-21T15:18:20Z",
+    "updated_at": "2026-07-21T15:24:58Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5504,
+    "updated_at": "2026-07-21T14:58:54Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -225,15 +252,6 @@
     "url": "https://github.com/shashwat134/coding-agent-tracing"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-21T14:46:23Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -288,15 +306,6 @@
     "url": "https://github.com/Eval-core/evalcore"
   },
   {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5503,
-    "updated_at": "2026-07-21T14:58:54Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -304,15 +313,6 @@
     "stars": 71,
     "updated_at": "2026-07-21T15:07:54Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-21T15:24:33Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -347,7 +347,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-21T15:19:36Z",
+    "updated_at": "2026-07-21T15:30:15Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
