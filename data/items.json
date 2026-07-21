@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54258,
-    "updated_at": "2026-07-21T21:13:34Z",
+    "updated_at": "2026-07-21T21:29:55Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-21T21:28:09Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-21T21:28:00Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T21:28:33Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10660,
+    "updated_at": "2026-07-21T21:26:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23461,
+    "updated_at": "2026-07-21T21:27:27Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Turn Portkey & Langsmith data into OTEL signals",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-07-21T21:18:20Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T21:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-21T21:15:28Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
@@ -14,7 +86,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kmemo",
     "stars": 1,
-    "updated_at": "2026-07-21T21:12:26Z",
+    "updated_at": "2026-07-21T21:16:49Z",
     "url": "https://github.com/NaCode-Studios/Kmemo"
   },
   {
@@ -52,33 +124,6 @@
     "stars": 2628,
     "updated_at": "2026-07-21T21:05:43Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T21:04:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-21T21:04:13Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-21T21:04:04Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -126,21 +171,12 @@
     "url": "https://github.com/NavyasriAmand/rag-eval-gate"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T21:15:25Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
     "id": "routeplane-core/routeplane-ce",
     "language": "Rust",
     "name": "routeplane-core/routeplane-ce",
     "stars": 4,
-    "updated_at": "2026-07-21T21:10:49Z",
+    "updated_at": "2026-07-21T21:18:35Z",
     "url": "https://github.com/routeplane-core/routeplane-ce"
   },
   {
@@ -160,33 +196,6 @@
     "stars": 5,
     "updated_at": "2026-07-21T20:38:20Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-21T21:12:31Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23462,
-    "updated_at": "2026-07-21T21:00:42Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10660,
-    "updated_at": "2026-07-21T21:14:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -256,7 +265,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20756,
+    "stars": 20759,
     "updated_at": "2026-07-21T19:26:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -311,7 +320,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6663,
-    "updated_at": "2026-07-21T20:57:56Z",
+    "updated_at": "2026-07-21T21:20:20Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -337,7 +346,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31591,
+    "stars": 31592,
     "updated_at": "2026-07-21T18:33:24Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-21T17:52:02Z",
     "url": "https://github.com/redevops-io/redevops-rag"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:51:16Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   }
 ]
