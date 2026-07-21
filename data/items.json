@@ -5,8 +5,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 16,
-    "updated_at": "2026-07-21T04:58:16Z",
+    "updated_at": "2026-07-21T05:12:12Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-21T05:04:45Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 48,
+    "updated_at": "2026-07-21T05:02:53Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T05:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10644,
-    "updated_at": "2026-07-21T04:56:10Z",
+    "updated_at": "2026-07-21T05:08:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-21T04:53:47Z",
+    "updated_at": "2026-07-21T05:12:53Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54179,
-    "updated_at": "2026-07-21T04:52:36Z",
+    "updated_at": "2026-07-21T05:12:08Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -72,6 +99,15 @@
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20735,
+    "updated_at": "2026-07-21T04:45:38Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
     "id": "MaximSTH/meta-layer-starter",
     "language": "Shell",
@@ -81,24 +117,6 @@
     "url": "https://github.com/MaximSTH/meta-layer-starter"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T04:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-21T04:37:30Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
     "id": "seaworld008/aiops-system",
     "language": "Go",
@@ -106,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T04:37:17Z",
     "url": "https://github.com/seaworld008/aiops-system"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-07-21T04:56:13Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20734,
-    "updated_at": "2026-07-21T04:45:38Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -292,7 +292,7 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11712,
+    "stars": 11713,
     "updated_at": "2026-07-21T03:01:52Z",
     "url": "https://github.com/dataelement/bisheng"
   },
