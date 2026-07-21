@@ -1,11 +1,38 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-21T17:00:27Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6657,
+    "updated_at": "2026-07-21T16:57:52Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Local CLI for evaluating and regression-testing LLM prompts. Define test suites in YAML with system prompts, expected ou",
+    "id": "RitikPatill/promptprobe",
+    "language": "Python",
+    "name": "RitikPatill/promptprobe",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:57:48Z",
+    "url": "https://github.com/RitikPatill/promptprobe"
+  },
+  {
     "description": "AI Quorum - one prompt, every model, real agreement measured. Provider-agnostic multi-LLM consensus scoring, zero depend",
     "id": "Yacineutt/AI-Quorum",
     "language": "Python",
     "name": "Yacineutt/AI-Quorum",
     "stars": 0,
-    "updated_at": "2026-07-21T16:52:58Z",
+    "updated_at": "2026-07-21T16:57:38Z",
     "url": "https://github.com/Yacineutt/AI-Quorum"
   },
   {
@@ -14,17 +41,35 @@
     "language": "\u2014",
     "name": "Yacineutt/AI-AgenticSafe",
     "stars": 0,
-    "updated_at": "2026-07-21T16:52:57Z",
+    "updated_at": "2026-07-21T16:57:37Z",
     "url": "https://github.com/Yacineutt/AI-AgenticSafe"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-21T16:52:14Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-21T16:54:21Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T16:53:09Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54243,
+    "updated_at": "2026-07-21T16:57:14Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -41,17 +86,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 305,
-    "updated_at": "2026-07-21T16:51:16Z",
+    "updated_at": "2026-07-21T16:56:52Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T16:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -81,15 +117,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6657,
-    "updated_at": "2026-07-21T16:33:40Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Eval-first, study-grade Retrieval-Augmented Generation engine \u2014 hybrid retrieval (dense + BM25 + RRF), cross-encoder rer",
     "id": "NikolaiSachok/Strata-RAG",
     "language": "Python",
@@ -117,15 +144,6 @@
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54242,
-    "updated_at": "2026-07-21T16:51:45Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
     "id": "redevops-io/redevops-rag",
     "language": "Python",
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-21T16:37:49Z",
+    "updated_at": "2026-07-21T16:54:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-07-21T16:23:14Z",
+    "updated_at": "2026-07-21T16:59:13Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-21T16:51:44Z",
+    "updated_at": "2026-07-21T16:55:57Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T15:33:51Z",
     "url": "https://github.com/fangzheng698-lang/agent-prod"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-21T16:32:42Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1105,
-    "updated_at": "2026-07-21T14:58:12Z",
+    "updated_at": "2026-07-21T17:00:10Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1282,
     "updated_at": "2026-07-21T16:33:35Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "One observability layer across coding agents \u2014 normalize Claude Code, Codex, dcode & more into a shared LangSmith trace ",
-    "id": "shashwat134/coding-agent-tracing",
-    "language": "Python",
-    "name": "shashwat134/coding-agent-tracing",
-    "stars": 0,
-    "updated_at": "2026-07-21T14:43:22Z",
-    "url": "https://github.com/shashwat134/coding-agent-tracing"
   }
 ]
