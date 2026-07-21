@@ -1,12 +1,66 @@
 [
   {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 5,
+    "updated_at": "2026-07-21T03:15:04Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54163,
-    "updated_at": "2026-07-21T02:58:49Z",
+    "stars": 54165,
+    "updated_at": "2026-07-21T03:14:48Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-21T03:13:59Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T03:14:12Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-21T03:08:25Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:07:24Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 5,
+    "updated_at": "2026-07-21T03:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -45,15 +99,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T02:58:52Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -72,15 +117,6 @@
     "url": "https://github.com/bytebeast/check-endpoint"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 5,
-    "updated_at": "2026-07-21T02:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -90,21 +126,12 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-21T02:42:18Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-21T02:41:51Z",
+    "updated_at": "2026-07-21T03:11:54Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -115,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T02:40:29Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-21T02:55:52Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 5,
-    "updated_at": "2026-07-21T02:48:29Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -216,15 +225,6 @@
     "url": "https://github.com/acornops/control-plane"
   },
   {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-21T02:07:30Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
     "description": "Curated, machine-readable resources for AI evaluation, observability, guardrails, governance, security, and deployment.",
     "id": "Anonymousyz/awesome-ai-production-readiness",
     "language": "Python",
@@ -275,7 +275,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2444,
-    "updated_at": "2026-07-21T01:52:44Z",
+    "updated_at": "2026-07-21T03:11:57Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -286,6 +286,15 @@
     "stars": 109,
     "updated_at": "2026-07-21T01:44:46Z",
     "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "AgentForge Protocol + Cloud: create, run, monetize, evaluate, and operate AI agents across APIs, marketplaces, workflows",
+    "id": "james439white-svg/agentforge-runtime",
+    "language": "Python",
+    "name": "james439white-svg/agentforge-runtime",
+    "stars": 1,
+    "updated_at": "2026-07-21T01:42:58Z",
+    "url": "https://github.com/james439white-svg/agentforge-runtime"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T21:45:11Z",
     "url": "https://github.com/JumpMasters/tollgate"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 13,
-    "updated_at": "2026-07-21T01:46:45Z",
-    "url": "https://github.com/Eval-core/evalcore"
   }
 ]
