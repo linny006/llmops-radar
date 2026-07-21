@@ -1,20 +1,74 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Build self-evolving AI agent harnesses with portable harness units, artifact-aware testing, trace-backed diagnosis, and ",
+    "id": "Ker102/Harneloop",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54252,
-    "updated_at": "2026-07-21T18:45:22Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "Ker102/Harneloop",
+    "stars": 2,
+    "updated_at": "2026-07-21T18:59:20Z",
+    "url": "https://github.com/Ker102/Harneloop"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-21T18:56:42Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 1,
+    "updated_at": "2026-07-21T18:55:23Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-21T18:54:37Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-21T18:59:10Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "\u2692\ufe0f The open-source framework for LLM experiments and agent orchestration.",
+    "id": "InftyAI/alphatrion",
+    "language": "Python",
+    "name": "InftyAI/alphatrion",
+    "stars": 13,
+    "updated_at": "2026-07-21T18:52:01Z",
+    "url": "https://github.com/InftyAI/alphatrion"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-21T19:00:15Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20753,
-    "updated_at": "2026-07-21T18:41:23Z",
+    "stars": 20754,
+    "updated_at": "2026-07-21T18:48:25Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -23,8 +77,35 @@
     "language": "Python",
     "name": "jonathascordeiro20/bioma-framework",
     "stars": 1,
-    "updated_at": "2026-07-21T18:39:46Z",
+    "updated_at": "2026-07-21T18:46:11Z",
     "url": "https://github.com/jonathascordeiro20/bioma-framework"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T18:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54253,
+    "updated_at": "2026-07-21T18:58:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted LLM router. Cost effective, deterministic, and fast. Secure and private by default.",
+    "id": "Northwood-Systems/millwright",
+    "language": "Rust",
+    "name": "Northwood-Systems/millwright",
+    "stars": 23,
+    "updated_at": "2026-07-21T18:40:33Z",
+    "url": "https://github.com/Northwood-Systems/millwright"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -45,39 +126,12 @@
     "url": "https://github.com/openlit/openlit"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-21T18:44:17Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T18:30:46Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-21T18:44:10Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6658,
-    "updated_at": "2026-07-21T18:41:53Z",
+    "updated_at": "2026-07-21T18:47:48Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -99,15 +153,6 @@
     "url": "https://github.com/Yacineutt/AI-Quorum"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-21T18:23:17Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -122,7 +167,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-21T18:22:06Z",
+    "updated_at": "2026-07-21T18:59:25Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -153,21 +198,12 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:39:09Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
     "id": "runcycles/cycles-mcp-server",
     "language": "TypeScript",
     "name": "runcycles/cycles-mcp-server",
     "stars": 0,
-    "updated_at": "2026-07-21T18:40:18Z",
+    "updated_at": "2026-07-21T18:55:22Z",
     "url": "https://github.com/runcycles/cycles-mcp-server"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 306,
-    "updated_at": "2026-07-21T18:44:33Z",
+    "updated_at": "2026-07-21T18:58:37Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 9,
     "updated_at": "2026-07-21T17:24:04Z",
     "url": "https://github.com/redevops-io/sidekick"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:34:03Z",
-    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T16:02:21Z",
     "url": "https://github.com/SConv11/watchy"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3451,
-    "updated_at": "2026-07-21T17:46:06Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 48,
-    "updated_at": "2026-07-21T15:47:27Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
-    "id": "Arize-ai/arize-skills",
-    "language": "Python",
-    "name": "Arize-ai/arize-skills",
-    "stars": 38,
-    "updated_at": "2026-07-21T15:41:51Z",
-    "url": "https://github.com/Arize-ai/arize-skills"
   }
 ]
