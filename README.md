@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 21:00 UTC
+> ⏰ Last updated: 2026-07-21 21:04 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [truera/trulens](https://github.com/truera/trulens) | 3451 | Python | 2026-07-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 15 | Go | 2026-07-21 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 3 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 307 | Python | 2026-07-21 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54258 | Python | 2026-07-21 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-21 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 6 | [NavyasriAmand/rag-eval-gate](https://github.com/NavyasriAmand/rag-eval-gate) | 0 | Python | 2026-07-21 | CI gate for RAG pipelines that fails the build when retrieval quality regresses. Measures recall@10, MRR, and nDCG again |
-| 7 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-07-21 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 8 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 1 | Go | 2026-07-21 | Temporal workers and clients for wrapping access to different LLMs |
-| 9 | [routeplane-core/routeplane-ce](https://github.com/routeplane-core/routeplane-ce) | 4 | Rust | 2026-07-21 | Routeplane Community Edition — a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0. |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54258 | Python | 2026-07-21 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [truera/trulens](https://github.com/truera/trulens) | 3451 | Python | 2026-07-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 15 | Go | 2026-07-21 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 5 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 307 | Python | 2026-07-21 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 6 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-21 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 7 | [NavyasriAmand/rag-eval-gate](https://github.com/NavyasriAmand/rag-eval-gate) | 0 | Python | 2026-07-21 | CI gate for RAG pipelines that fails the build when retrieval quality regresses. Measures recall@10, MRR, and nDCG again |
+| 8 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-07-21 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
+| 9 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 1 | Go | 2026-07-21 | Temporal workers and clients for wrapping access to different LLMs |
+| 10 | [routeplane-core/routeplane-ce](https://github.com/routeplane-core/routeplane-ce) | 4 | Rust | 2026-07-21 | Routeplane Community Edition — a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0. |
 | 11 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 105 | Python | 2026-07-21 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
 | 12 | [admina-org/admina](https://github.com/admina-org/admina) | 5 | Python | 2026-07-21 | The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal |
 | 13 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | TypeScript | 2026-07-21 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
@@ -78,7 +78,7 @@ expired items removed — so you can rely on what you see being current.
 | 34 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6663 | Go | 2026-07-21 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 35 | [jonathascordeiro20/bioma-framework](https://github.com/jonathascordeiro20/bioma-framework) | 1 | Python | 2026-07-21 | Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an |
 | 36 | [Northwood-Systems/millwright](https://github.com/Northwood-Systems/millwright) | 23 | Rust | 2026-07-21 | Self-hosted LLM router. Cost effective, deterministic, and fast. Secure and private by default. |
-| 37 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31590 | TypeScript | 2026-07-21 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 37 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31591 | TypeScript | 2026-07-21 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 38 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8004 | Rust | 2026-07-21 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 39 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-21 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 40 | [Yacineutt/AI-Quorum](https://github.com/Yacineutt/AI-Quorum) | 1 | Python | 2026-07-21 | AI Quorum - one prompt, every model, real agreement measured. Provider-agnostic multi-LLM consensus scoring, zero depend |
