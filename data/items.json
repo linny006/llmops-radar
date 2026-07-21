@@ -1,11 +1,65 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-21T23:44:59Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
+    "id": "runcycles/cycles-spring-ai-starter",
+    "language": "Java",
+    "name": "runcycles/cycles-spring-ai-starter",
+    "stars": 0,
+    "updated_at": "2026-07-21T23:44:10Z",
+    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
+  },
+  {
+    "description": "AI Quorum - one prompt, every model, real agreement measured. Provider-agnostic multi-LLM consensus scoring, zero depend",
+    "id": "Yacineutt/AI-Quorum",
+    "language": "Python",
+    "name": "Yacineutt/AI-Quorum",
+    "stars": 1,
+    "updated_at": "2026-07-21T23:42:45Z",
+    "url": "https://github.com/Yacineutt/AI-Quorum"
+  },
+  {
+    "description": "AI AgenticSafe - stop your AI agent from breaking production at 3 a.m. 8 battle-tested doctrines, 3 real post-mortems, z",
+    "id": "Yacineutt/AI-AgenticSafe",
+    "language": "\u2014",
+    "name": "Yacineutt/AI-AgenticSafe",
+    "stars": 1,
+    "updated_at": "2026-07-21T23:42:42Z",
+    "url": "https://github.com/Yacineutt/AI-AgenticSafe"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-07-21T23:31:57Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T23:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-21T23:29:03Z",
+    "updated_at": "2026-07-21T23:43:41Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -23,17 +77,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54267,
-    "updated_at": "2026-07-21T23:26:49Z",
+    "updated_at": "2026-07-21T23:45:18Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-21T23:27:22Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -63,21 +108,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T23:15:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10661,
-    "updated_at": "2026-07-21T23:26:46Z",
+    "updated_at": "2026-07-21T23:43:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -144,12 +180,21 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6664,
+    "updated_at": "2026-07-21T22:45:20Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29312,
-    "updated_at": "2026-07-21T23:29:50Z",
+    "updated_at": "2026-07-21T23:37:20Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -238,7 +283,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23464,
+    "stars": 23465,
     "updated_at": "2026-07-21T21:27:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 307,
-    "updated_at": "2026-07-21T22:17:57Z",
+    "updated_at": "2026-07-21T23:31:52Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 105,
-    "updated_at": "2026-07-21T23:13:10Z",
+    "updated_at": "2026-07-21T23:34:22Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T18:59:53Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Build self-evolving AI agent harnesses with portable harness units, artifact-aware testing, trace-backed diagnosis, and ",
-    "id": "Ker102/Harneloop",
-    "language": "Python",
-    "name": "Ker102/Harneloop",
-    "stars": 2,
-    "updated_at": "2026-07-21T18:59:20Z",
-    "url": "https://github.com/Ker102/Harneloop"
-  },
-  {
-    "description": "\u2692\ufe0f The open-source framework for LLM experiments and agent orchestration.",
-    "id": "InftyAI/alphatrion",
-    "language": "Python",
-    "name": "InftyAI/alphatrion",
-    "stars": 13,
-    "updated_at": "2026-07-21T18:52:01Z",
-    "url": "https://github.com/InftyAI/alphatrion"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6663,
-    "updated_at": "2026-07-21T22:45:20Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
-    "id": "jonathascordeiro20/bioma-framework",
-    "language": "Python",
-    "name": "jonathascordeiro20/bioma-framework",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:46:11Z",
-    "url": "https://github.com/jonathascordeiro20/bioma-framework"
-  },
-  {
-    "description": "Self-hosted LLM router. Cost effective, deterministic, and fast. Secure and private by default.",
-    "id": "Northwood-Systems/millwright",
-    "language": "Rust",
-    "name": "Northwood-Systems/millwright",
-    "stars": 23,
-    "updated_at": "2026-07-21T18:40:33Z",
-    "url": "https://github.com/Northwood-Systems/millwright"
   }
 ]
