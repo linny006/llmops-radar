@@ -1,11 +1,74 @@
 [
   {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 71,
+    "updated_at": "2026-07-22T05:27:09Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 148,
+    "updated_at": "2026-07-22T05:26:34Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1061,
+    "updated_at": "2026-07-22T05:28:38Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 66,
+    "updated_at": "2026-07-22T05:24:06Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
+    "id": "wjlgatech/FM-os",
+    "language": "Python",
+    "name": "wjlgatech/FM-os",
+    "stars": 2,
+    "updated_at": "2026-07-22T05:22:26Z",
+    "url": "https://github.com/wjlgatech/FM-os"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-22T05:15:37Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T05:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10664,
-    "updated_at": "2026-07-22T05:14:37Z",
+    "updated_at": "2026-07-22T05:24:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -23,17 +86,8 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 1,
-    "updated_at": "2026-07-22T05:09:33Z",
+    "updated_at": "2026-07-22T05:17:05Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-22T05:08:36Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -59,26 +113,8 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-07-22T05:02:15Z",
+    "updated_at": "2026-07-22T05:30:13Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T05:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 66,
-    "updated_at": "2026-07-22T05:05:56Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54297,
-    "updated_at": "2026-07-22T05:07:42Z",
+    "updated_at": "2026-07-22T05:25:53Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -108,13 +144,13 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1061,
-    "updated_at": "2026-07-22T05:08:38Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23480,
+    "updated_at": "2026-07-22T04:38:37Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -151,24 +187,6 @@
     "stars": 48,
     "updated_at": "2026-07-22T04:16:51Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 71,
-    "updated_at": "2026-07-22T05:04:57Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23479,
-    "updated_at": "2026-07-22T04:38:37Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
@@ -266,7 +284,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6682,
-    "updated_at": "2026-07-22T04:25:16Z",
+    "updated_at": "2026-07-22T05:26:44Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 105,
     "updated_at": "2026-07-22T02:01:35Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "An eval-and-promote gate for fine-tuned LLM adapters: rubric-scored probes, pure-function deployment gates, injected jud",
-    "id": "bapista/ratchet",
-    "language": "Python",
-    "name": "bapista/ratchet",
-    "stars": 1,
-    "updated_at": "2026-07-22T01:25:33Z",
-    "url": "https://github.com/bapista/ratchet"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:23:06Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
   }
 ]
