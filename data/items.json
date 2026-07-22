@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-22T19:30:14Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Self-hosted tool that independently re-counts the tokens LLM providers bill you, reconciles three ways, and labels every",
+    "id": "Neelagiri65/tokenledger",
+    "language": "Python",
+    "name": "Neelagiri65/tokenledger",
+    "stars": 0,
+    "updated_at": "2026-07-22T19:26:20Z",
+    "url": "https://github.com/Neelagiri65/tokenledger"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-22T19:25:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:24:25Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:24:08Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54388,
+    "updated_at": "2026-07-22T19:23:35Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enterprise multi-cloud GenAI agent gateway \u2014 AWS Bedrock + Azure AI Foundry integrations, policy-based routing, guardrai",
+    "id": "wiktor-cl/aegis-genai-gateway",
+    "language": "Python",
+    "name": "wiktor-cl/aegis-genai-gateway",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:22:56Z",
+    "url": "https://github.com/wiktor-cl/aegis-genai-gateway"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 314,
+    "updated_at": "2026-07-22T19:22:38Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:18:52Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 228,
+    "updated_at": "2026-07-22T19:28:05Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T19:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -9,31 +108,22 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-22T19:11:35Z",
-    "url": "https://github.com/wlsdks/reactor"
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-22T19:29:00Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31665,
-    "updated_at": "2026-07-22T19:11:32Z",
+    "stars": 31667,
+    "updated_at": "2026-07-22T19:27:09Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T19:10:03Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -54,24 +144,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54387,
-    "updated_at": "2026-07-22T19:09:11Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-22T19:07:36Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
     "id": "runcycles/cycles-docs",
     "language": "Vue",
@@ -81,48 +153,12 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-22T19:04:28Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Enterprise multi-cloud GenAI agent gateway \u2014 AWS Bedrock + Azure AI Foundry integrations, policy-based routing, guardrai",
-    "id": "wiktor-cl/aegis-genai-gateway",
-    "language": "Python",
-    "name": "wiktor-cl/aegis-genai-gateway",
-    "stars": 1,
-    "updated_at": "2026-07-22T18:57:47Z",
-    "url": "https://github.com/wiktor-cl/aegis-genai-gateway"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-22T19:14:42Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-07-22T19:14:26Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-22T18:51:58Z",
+    "updated_at": "2026-07-22T19:24:32Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -130,7 +166,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23499,
+    "stars": 23500,
     "updated_at": "2026-07-22T18:46:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -175,7 +211,7 @@
     "id": "Northwood-Systems/millwright",
     "language": "Rust",
     "name": "Northwood-Systems/millwright",
-    "stars": 23,
+    "stars": 24,
     "updated_at": "2026-07-22T18:33:55Z",
     "url": "https://github.com/Northwood-Systems/millwright"
   },
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10678,
-    "updated_at": "2026-07-22T19:07:03Z",
+    "updated_at": "2026-07-22T19:24:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 2456,
     "updated_at": "2026-07-22T18:22:31Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 228,
-    "updated_at": "2026-07-22T19:04:58Z",
-    "url": "https://github.com/mezmo/aura"
   },
   {
     "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-22T18:13:24Z",
+    "updated_at": "2026-07-22T19:29:49Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -297,21 +324,12 @@
     "url": "https://github.com/Kkartik14/Earshot"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 314,
-    "updated_at": "2026-07-22T19:06:50Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20774,
-    "updated_at": "2026-07-22T18:41:54Z",
+    "updated_at": "2026-07-22T19:27:02Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -340,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T17:20:14Z",
     "url": "https://github.com/miter37/agent-runtime-manager"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-22T17:18:54Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Async multi-tenant LLMOps proxy gateway featuring dual-layer semantic caching (Redis + Qdrant), multi-provider resilienc",
@@ -383,7 +392,7 @@
     "language": "JavaScript",
     "name": "runcycles/cycles-claude-plugin",
     "stars": 0,
-    "updated_at": "2026-07-22T18:53:15Z",
+    "updated_at": "2026-07-22T19:24:41Z",
     "url": "https://github.com/runcycles/cycles-claude-plugin"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 66,
     "updated_at": "2026-07-22T18:11:46Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "AI-first operating system for running a one-person company: Markdown source of truth, agent prompts, and an agent contro",
-    "id": "Atman36/AI-First-HQ-OS",
-    "language": "Python",
-    "name": "Atman36/AI-First-HQ-OS",
-    "stars": 1,
-    "updated_at": "2026-07-22T16:08:15Z",
-    "url": "https://github.com/Atman36/AI-First-HQ-OS"
   }
 ]
