@@ -5,8 +5,53 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 1,
-    "updated_at": "2026-07-22T04:27:12Z",
+    "updated_at": "2026-07-22T04:40:21Z",
     "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1061,
+    "updated_at": "2026-07-22T04:42:41Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10664,
+    "updated_at": "2026-07-22T04:40:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54295,
+    "updated_at": "2026-07-22T04:44:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:36:38Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T04:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -36,15 +81,6 @@
     "url": "https://github.com/mezmo/aura"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10664,
-    "updated_at": "2026-07-22T04:28:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -52,24 +88,6 @@
     "stars": 48,
     "updated_at": "2026-07-22T04:16:51Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T04:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-22T04:28:03Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23479,
-    "updated_at": "2026-07-22T04:29:23Z",
+    "updated_at": "2026-07-22T04:38:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 20,
     "updated_at": "2026-07-22T04:03:49Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54293,
-    "updated_at": "2026-07-22T04:25:54Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -202,18 +211,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31607,
+    "stars": 31608,
     "updated_at": "2026-07-22T03:38:32Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1061,
-    "updated_at": "2026-07-22T04:23:09Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -286,6 +286,15 @@
     "stars": 0,
     "updated_at": "2026-07-22T04:06:54Z",
     "url": "https://github.com/Roshan3580/Helios"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8006,
+    "updated_at": "2026-07-22T02:46:41Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -369,6 +378,15 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 310,
+    "updated_at": "2026-07-22T01:30:52Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
     "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
     "id": "thequantumfalcon/kry",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 20765,
     "updated_at": "2026-07-22T01:00:45Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Self-hosted trust layer for cheap AI: offload bulk LLM work to free models, QC'd by a multi-model council \u2014 a vetted ans",
-    "id": "ajankuv/omniswarm",
-    "language": "Python",
-    "name": "ajankuv/omniswarm",
-    "stars": 1,
-    "updated_at": "2026-07-22T00:48:30Z",
-    "url": "https://github.com/ajankuv/omniswarm"
-  },
-  {
-    "description": "Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, r",
-    "id": "zendev-sh/zenflow",
-    "language": "Go",
-    "name": "zendev-sh/zenflow",
-    "stars": 37,
-    "updated_at": "2026-07-22T00:40:01Z",
-    "url": "https://github.com/zendev-sh/zenflow"
   }
 ]
