@@ -1,5 +1,86 @@
 [
   {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 14,
+    "updated_at": "2026-07-22T02:57:45Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2452,
+    "updated_at": "2026-07-22T02:54:02Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54288,
+    "updated_at": "2026-07-22T02:58:27Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI systems observability platform for tracing, evaluating, and debugging LLM applications, agents, and RAG pipelines.",
+    "id": "Roshan3580/Helios",
+    "language": "Python",
+    "name": "Roshan3580/Helios",
+    "stars": 0,
+    "updated_at": "2026-07-22T02:50:27Z",
+    "url": "https://github.com/Roshan3580/Helios"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-22T02:49:53Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-22T02:47:02Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-22T02:46:46Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T02:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11732,
+    "updated_at": "2026-07-22T02:59:46Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -9,40 +90,13 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-22T02:37:42Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-22T02:44:07Z",
+    "updated_at": "2026-07-22T02:48:55Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-22T02:43:18Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 14,
-    "updated_at": "2026-07-22T02:33:59Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -54,21 +108,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T02:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-22T02:28:39Z",
+    "updated_at": "2026-07-22T03:00:19Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T02:24:34Z",
     "url": "https://github.com/Kkartik14/Earshot"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54284,
-    "updated_at": "2026-07-22T02:24:19Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -117,15 +153,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2452,
-    "updated_at": "2026-07-22T02:08:56Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
     "id": "kensterinvest/tidus",
     "language": "HTML",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10664,
-    "updated_at": "2026-07-22T02:42:03Z",
+    "updated_at": "2026-07-22T02:52:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 6,
-    "updated_at": "2026-07-22T02:26:58Z",
+    "updated_at": "2026-07-22T02:54:52Z",
     "url": "https://github.com/boundflow/boundflow"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T01:47:15Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11731,
-    "updated_at": "2026-07-22T02:38:27Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
@@ -259,6 +277,15 @@
     "stars": 27148,
     "updated_at": "2026-07-22T01:05:01Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20763,
+    "updated_at": "2026-07-22T01:00:45Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Self-hosted trust layer for cheap AI: offload bulk LLM work to free models, QC'd by a multi-model council \u2014 a vetted ans",
@@ -351,15 +378,6 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20762,
-    "updated_at": "2026-07-22T01:00:45Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
     "id": "AgentEra/Agently",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T23:31:57Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "openloop-team/openloop",
-    "language": "Python",
-    "name": "openloop-team/openloop",
-    "stars": 2,
-    "updated_at": "2026-07-21T23:20:50Z",
-    "url": "https://github.com/openloop-team/openloop"
-  },
-  {
-    "description": "Open-source AI reseller panel with customer API keys, prepaid balances, usage limits, model pricing, and profit analytic",
-    "id": "tokenpanel/tokenpanel",
-    "language": "TypeScript",
-    "name": "tokenpanel/tokenpanel",
-    "stars": 3,
-    "updated_at": "2026-07-21T23:20:33Z",
-    "url": "https://github.com/tokenpanel/tokenpanel"
   }
 ]
