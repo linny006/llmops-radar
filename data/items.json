@@ -1,12 +1,102 @@
 [
   {
+    "description": "Context optimization for AI agents \u2014 97 domain knowledge graphs, MCP-native traversal. 4\u00d7 F1 of RAG, 11\u00d7 fewer tokens pe",
+    "id": "Yarmoluk/ckg-mcp",
+    "language": "Python",
+    "name": "Yarmoluk/ckg-mcp",
+    "stars": 4,
+    "updated_at": "2026-07-22T07:15:17Z",
+    "url": "https://github.com/Yarmoluk/ckg-mcp"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-22T06:56:46Z",
+    "updated_at": "2026-07-22T07:12:19Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6685,
+    "updated_at": "2026-07-22T07:12:02Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-22T07:11:46Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-22T07:11:04Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1281,
+    "updated_at": "2026-07-22T07:14:54Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3411,
+    "updated_at": "2026-07-22T07:09:22Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:03:22Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-22T07:01:56Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 148,
+    "updated_at": "2026-07-22T07:00:41Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T07:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -45,30 +135,12 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-22T06:48:32Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T06:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-22T06:44:52Z",
+    "updated_at": "2026-07-22T07:15:08Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -76,7 +148,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54313,
+    "stars": 54315,
     "updated_at": "2026-07-22T06:40:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -85,18 +157,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23481,
+    "stars": 23482,
     "updated_at": "2026-07-22T06:39:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-22T06:36:06Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "An email-driven job application tracker that pulls your applications out of your inbox and into one place, no matter whi",
@@ -162,15 +225,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 148,
-    "updated_at": "2026-07-22T06:04:36Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -196,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T05:55:19Z",
     "url": "https://github.com/aantenore/truthlease"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3411,
-    "updated_at": "2026-07-22T06:55:06Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -252,15 +297,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6684,
-    "updated_at": "2026-07-22T06:49:05Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T05:09:37Z",
     "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-22T05:06:47Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11733,
-    "updated_at": "2026-07-22T06:34:10Z",
+    "updated_at": "2026-07-22T07:15:18Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -409,8 +436,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31621,
-    "updated_at": "2026-07-22T03:38:32Z",
+    "stars": 31624,
+    "updated_at": "2026-07-22T07:15:14Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-22T03:19:25Z",
     "url": "https://github.com/alexvervloet/deep-dive-capstone"
-  },
-  {
-    "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
-    "id": "liuanye9-lab/codex-os-brain",
-    "language": "JavaScript",
-    "name": "liuanye9-lab/codex-os-brain",
-    "stars": 0,
-    "updated_at": "2026-07-22T03:15:57Z",
-    "url": "https://github.com/liuanye9-lab/codex-os-brain"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 6,
-    "updated_at": "2026-07-22T03:53:31Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 14,
-    "updated_at": "2026-07-22T03:04:07Z",
-    "url": "https://github.com/Eval-core/evalcore"
   }
 ]
