@@ -1,12 +1,39 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-22T09:12:26Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-22T09:05:35Z",
+    "updated_at": "2026-07-22T09:13:08Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-22T09:08:44Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T09:07:41Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -31,7 +58,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31634,
+    "stars": 31635,
     "updated_at": "2026-07-22T09:02:48Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -43,24 +70,6 @@
     "stars": 48,
     "updated_at": "2026-07-22T09:02:30Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-22T09:01:55Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T09:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20766,
-    "updated_at": "2026-07-22T09:07:10Z",
+    "updated_at": "2026-07-22T09:15:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -122,7 +131,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2453,
-    "updated_at": "2026-07-22T08:49:36Z",
+    "updated_at": "2026-07-22T09:13:13Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -283,7 +292,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54333,
+    "stars": 54334,
     "updated_at": "2026-07-22T07:59:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -311,8 +320,17 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11734,
-    "updated_at": "2026-07-22T08:50:45Z",
+    "updated_at": "2026-07-22T09:14:24Z",
     "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 2,
+    "updated_at": "2026-07-22T07:39:15Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -320,7 +338,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-22T09:03:12Z",
+    "updated_at": "2026-07-22T09:15:03Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -331,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T08:02:37Z",
     "url": "https://github.com/domestique-labs/domestique-oss"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 1,
-    "updated_at": "2026-07-22T07:39:15Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -392,7 +401,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1281,
-    "updated_at": "2026-07-22T09:02:06Z",
+    "updated_at": "2026-07-22T09:08:32Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-22T06:35:52Z",
     "url": "https://github.com/hanzala-bhutto/ApplySync"
-  },
-  {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 4,
-    "updated_at": "2026-07-22T06:30:51Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   }
 ]
