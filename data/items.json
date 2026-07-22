@@ -1,11 +1,65 @@
 [
   {
+    "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
+    "id": "ahmeedatm/infer-router",
+    "language": "Python",
+    "name": "ahmeedatm/infer-router",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:27:48Z",
+    "url": "https://github.com/ahmeedatm/infer-router"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1281,
+    "updated_at": "2026-07-22T11:26:19Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Async multi-tenant LLMOps proxy gateway featuring dual-layer semantic caching (Redis + Qdrant), multi-provider resilienc",
+    "id": "hansitvarshney/llmops-gateway",
+    "language": "Python",
+    "name": "hansitvarshney/llmops-gateway",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:21:21Z",
+    "url": "https://github.com/hansitvarshney/llmops-gateway"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 174,
+    "updated_at": "2026-07-22T11:21:14Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-22T11:19:25Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T11:18:41Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
     "id": "project-arbr/arbr-control-plane",
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 4,
-    "updated_at": "2026-07-22T11:18:11Z",
+    "updated_at": "2026-07-22T11:19:45Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -14,17 +68,8 @@
     "language": "Java",
     "name": "runcycles/cycles-server-events",
     "stars": 1,
-    "updated_at": "2026-07-22T11:17:36Z",
+    "updated_at": "2026-07-22T11:18:47Z",
     "url": "https://github.com/runcycles/cycles-server-events"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T11:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -77,17 +122,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-22T11:07:42Z",
+    "updated_at": "2026-07-22T11:26:18Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 174,
-    "updated_at": "2026-07-22T11:15:23Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -117,15 +153,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Async multi-tenant LLMOps proxy gateway featuring dual-layer semantic caching (Redis + Qdrant), multi-provider resilienc",
-    "id": "hansitvarshney/llmops-gateway",
-    "language": "Python",
-    "name": "hansitvarshney/llmops-gateway",
-    "stars": 0,
-    "updated_at": "2026-07-22T11:03:18Z",
-    "url": "https://github.com/hansitvarshney/llmops-gateway"
-  },
-  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -149,17 +176,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20765,
-    "updated_at": "2026-07-22T11:15:41Z",
+    "updated_at": "2026-07-22T11:26:46Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-22T10:55:58Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
@@ -292,7 +310,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54342,
+    "stars": 54344,
     "updated_at": "2026-07-22T10:06:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -320,7 +338,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-22T11:17:56Z",
+    "updated_at": "2026-07-22T11:22:15Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-22T09:17:52Z",
+    "updated_at": "2026-07-22T11:30:11Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-22T09:03:31Z",
+    "updated_at": "2026-07-22T11:20:24Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 64,
     "updated_at": "2026-07-22T08:59:50Z",
     "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-07-22T08:50:02Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Searchable, leveled learning map of AI/ML tools \u2014 each with a Read link + the code, sorted by concept depth (Level 0\u21924).",
-    "id": "maneesh-kumar-thakur/self-serve-learnings-4-all",
-    "language": "HTML",
-    "name": "maneesh-kumar-thakur/self-serve-learnings-4-all",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:48:19Z",
-    "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
   }
 ]
