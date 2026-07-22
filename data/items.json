@@ -1,12 +1,66 @@
 [
   {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-22T17:55:28Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 105,
+    "updated_at": "2026-07-22T17:55:24Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
     "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
     "id": "wlsdks/reactor",
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-22T17:53:56Z",
+    "updated_at": "2026-07-22T17:59:17Z",
     "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "An open-source, offline demonstration of how to evaluate RAG-based GenAI assistants \u2014 groundedness, hallucination, retri",
+    "id": "IshanGaikwad/GenAI-Quality-Lab",
+    "language": "Python",
+    "name": "IshanGaikwad/GenAI-Quality-Lab",
+    "stars": 0,
+    "updated_at": "2026-07-22T17:55:04Z",
+    "url": "https://github.com/IshanGaikwad/GenAI-Quality-Lab"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-22T17:55:01Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T17:54:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10677,
+    "updated_at": "2026-07-22T17:57:31Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Enterprise multi-cloud GenAI agent gateway \u2014 AWS Bedrock + Azure AI Foundry integrations, policy-based routing, guardrai",
@@ -18,15 +72,6 @@
     "url": "https://github.com/wiktor-cl/aegis-genai-gateway"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-22T17:47:55Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
@@ -34,24 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T17:45:39Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T17:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "An open-source, offline demonstration of how to evaluate RAG-based GenAI assistants \u2014 groundedness, hallucination, retri",
-    "id": "IshanGaikwad/GenAI-Quality-Lab",
-    "language": "Python",
-    "name": "IshanGaikwad/GenAI-Quality-Lab",
-    "stars": 0,
-    "updated_at": "2026-07-22T17:44:48Z",
-    "url": "https://github.com/IshanGaikwad/GenAI-Quality-Lab"
   },
   {
     "description": "Self-hosted LLM observability & cost tracking for AI agents. Real-time dashboard for token usage, latency & spend across",
@@ -68,7 +95,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-22T17:40:11Z",
+    "updated_at": "2026-07-22T17:57:32Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -94,7 +121,7 @@
     "id": "Kkartik14/Earshot",
     "language": "Python",
     "name": "Kkartik14/Earshot",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-22T17:36:06Z",
     "url": "https://github.com/Kkartik14/Earshot"
   },
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-22T17:51:44Z",
+    "updated_at": "2026-07-22T17:59:59Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54382,
-    "updated_at": "2026-07-22T17:29:36Z",
+    "updated_at": "2026-07-22T17:58:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -225,15 +252,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-22T17:53:38Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -257,17 +275,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23497,
-    "updated_at": "2026-07-22T17:53:51Z",
+    "updated_at": "2026-07-22T17:56:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10676,
-    "updated_at": "2026-07-22T17:52:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Hard budget enforcement for Claude Code tool calls \u2014 PreToolUse gating, AI-agent cost control, Cycles usage metering, an",
@@ -295,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T16:57:54Z",
     "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 105,
-    "updated_at": "2026-07-22T16:47:32Z",
-    "url": "https://github.com/UiPath/coder_eval"
   },
   {
     "description": "State-first, resumable LLM software-build harness with provider-neutral execution and deterministic verification",
@@ -374,7 +374,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3412,
-    "updated_at": "2026-07-22T17:51:53Z",
+    "updated_at": "2026-07-22T17:54:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
