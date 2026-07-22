@@ -1,12 +1,48 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-22T13:28:23Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20768,
-    "updated_at": "2026-07-22T13:13:44Z",
+    "updated_at": "2026-07-22T13:25:39Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
+    "id": "SConv11/watchy",
+    "language": "Python",
+    "name": "SConv11/watchy",
+    "stars": 2,
+    "updated_at": "2026-07-22T13:25:34Z",
+    "url": "https://github.com/SConv11/watchy"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-22T13:25:15Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-22T13:27:59Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,8 +50,26 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-22T13:13:17Z",
+    "updated_at": "2026-07-22T13:22:02Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-07-22T13:18:16Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T13:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -27,40 +81,13 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-22T13:14:25Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T13:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31651,
-    "updated_at": "2026-07-22T13:14:52Z",
+    "updated_at": "2026-07-22T13:27:51Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-22T13:14:48Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -85,7 +112,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54353,
+    "stars": 54357,
     "updated_at": "2026-07-22T12:55:26Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 313,
-    "updated_at": "2026-07-22T13:11:50Z",
+    "updated_at": "2026-07-22T13:20:39Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-22T13:15:05Z",
+    "updated_at": "2026-07-22T13:29:38Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -185,7 +212,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2455,
-    "updated_at": "2026-07-22T12:29:55Z",
+    "updated_at": "2026-07-22T13:30:08Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29320,
-    "updated_at": "2026-07-22T12:54:20Z",
+    "updated_at": "2026-07-22T13:22:17Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11736,
-    "updated_at": "2026-07-22T13:15:00Z",
+    "updated_at": "2026-07-22T13:26:18Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -221,7 +248,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 4,
-    "updated_at": "2026-07-22T12:12:04Z",
+    "updated_at": "2026-07-22T13:28:26Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-22T10:34:41Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -430,23 +448,5 @@
     "stars": 23,
     "updated_at": "2026-07-22T10:13:57Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2337,
-    "updated_at": "2026-07-22T13:08:47Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
-    "id": "Josepavese/matrix",
-    "language": "Go",
-    "name": "Josepavese/matrix",
-    "stars": 1,
-    "updated_at": "2026-07-22T10:06:57Z",
-    "url": "https://github.com/Josepavese/matrix"
   }
 ]
