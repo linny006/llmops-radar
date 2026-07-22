@@ -1,5 +1,41 @@
 [
   {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 148,
+    "updated_at": "2026-07-22T05:35:11Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 60,
+    "updated_at": "2026-07-22T05:31:26Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T05:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-22T05:30:13Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -9,13 +45,22 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 148,
-    "updated_at": "2026-07-22T05:26:34Z",
-    "url": "https://github.com/GetBusbar/busbar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6684,
+    "updated_at": "2026-07-22T05:26:44Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54300,
+    "updated_at": "2026-07-22T05:25:53Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 66,
-    "updated_at": "2026-07-22T05:24:06Z",
+    "updated_at": "2026-07-22T05:44:38Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -50,17 +95,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-22T05:15:37Z",
+    "updated_at": "2026-07-22T05:41:29Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T05:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10664,
-    "updated_at": "2026-07-22T05:24:53Z",
+    "updated_at": "2026-07-22T05:31:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 1,
-    "updated_at": "2026-07-22T05:17:05Z",
+    "updated_at": "2026-07-22T05:40:46Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -108,15 +144,6 @@
     "url": "https://github.com/boundflow/boundflow"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-22T05:30:13Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
     "id": "project-arbr/arbr-control-plane",
     "language": "JavaScript",
@@ -124,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-07-22T04:53:55Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54297,
-    "updated_at": "2026-07-22T05:25:53Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-22T04:24:36Z",
+    "updated_at": "2026-07-22T05:45:09Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -274,18 +292,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31614,
+    "stars": 31616,
     "updated_at": "2026-07-22T03:38:32Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6682,
-    "updated_at": "2026-07-22T05:26:44Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Codebase Q&A with (path:line) citations \u2014 the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-22T01:30:23Z",
     "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 105,
-    "updated_at": "2026-07-22T02:01:35Z",
-    "url": "https://github.com/UiPath/coder_eval"
   }
 ]
