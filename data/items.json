@@ -1,5 +1,86 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-22T02:14:53Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-22T02:12:55Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 1,
+    "updated_at": "2026-07-22T02:12:01Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
+    "description": "Open-source observability SDK for real-time voice AI: evidence-first telemetry, latency analysis, and portable incident ",
+    "id": "Kkartik14/Earshot",
+    "language": "Python",
+    "name": "Kkartik14/Earshot",
+    "stars": 1,
+    "updated_at": "2026-07-22T02:09:51Z",
+    "url": "https://github.com/Kkartik14/Earshot"
+  },
+  {
+    "description": "A governed, auditable workflow engine for agent-driven software changes.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-22T02:09:22Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2452,
+    "updated_at": "2026-07-22T02:08:56Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54278,
+    "updated_at": "2026-07-22T02:13:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
+    "id": "kensterinvest/tidus",
+    "language": "HTML",
+    "name": "kensterinvest/tidus",
+    "stars": 1,
+    "updated_at": "2026-07-22T02:00:34Z",
+    "url": "https://github.com/kensterinvest/tidus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T02:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
     "id": "boundflow/boundflow",
     "language": "Python",
@@ -9,24 +90,6 @@
     "url": "https://github.com/boundflow/boundflow"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2452,
-    "updated_at": "2026-07-22T01:59:33Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54277,
-    "updated_at": "2026-07-22T01:57:13Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -34,15 +97,6 @@
     "stars": 44,
     "updated_at": "2026-07-22T01:56:28Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-22T01:58:03Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -59,17 +113,17 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-22T01:58:04Z",
+    "updated_at": "2026-07-22T02:04:17Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T01:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "dataelement/bisheng",
+    "stars": 11731,
+    "updated_at": "2026-07-22T01:45:23Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 105,
-    "updated_at": "2026-07-22T01:54:15Z",
+    "updated_at": "2026-07-22T02:01:35Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -180,15 +234,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 1,
-    "updated_at": "2026-07-22T01:07:44Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
     "description": "Self-hosted trust layer for cheap AI: offload bulk LLM work to free models, QC'd by a multi-model council \u2014 a vetted ans",
     "id": "ajankuv/omniswarm",
     "language": "Python",
@@ -211,18 +256,9 @@
     "id": "zendev-sh/zenflow",
     "language": "Go",
     "name": "zendev-sh/zenflow",
-    "stars": 36,
+    "stars": 37,
     "updated_at": "2026-07-22T00:40:01Z",
     "url": "https://github.com/zendev-sh/zenflow"
-  },
-  {
-    "description": "A governed, auditable workflow engine for agent-driven software changes.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-22T01:44:52Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -301,7 +337,7 @@
     "id": "AgentEra/Agently",
     "language": "Python",
     "name": "AgentEra/Agently",
-    "stars": 1627,
+    "stars": 1628,
     "updated_at": "2026-07-22T00:18:31Z",
     "url": "https://github.com/AgentEra/Agently"
   },
@@ -331,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T23:54:41Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-21T23:53:26Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -421,32 +448,5 @@
     "stars": 31599,
     "updated_at": "2026-07-21T22:57:44Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 1,
-    "updated_at": "2026-07-21T23:52:33Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "Curadoria opinativa de ferramentas de producao pra construir com IA: agentes, RAG, backend, chatbots, MCP e observabilid",
-    "id": "hugosoaresj/awesome-ai-toolkit",
-    "language": "\u2014",
-    "name": "hugosoaresj/awesome-ai-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-21T22:30:52Z",
-    "url": "https://github.com/hugosoaresj/awesome-ai-toolkit"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8005,
-    "updated_at": "2026-07-21T22:28:14Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   }
 ]
