@@ -1,5 +1,104 @@
 [
   {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 174,
+    "updated_at": "2026-07-22T08:45:12Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-22T08:44:01Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-22T08:42:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-07-22T08:41:13Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:41:03Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 48,
+    "updated_at": "2026-07-22T08:38:57Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-22T08:37:18Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 5",
+    "id": "xorbitsai/xrouter-llm",
+    "language": "Python",
+    "name": "xorbitsai/xrouter-llm",
+    "stars": 32,
+    "updated_at": "2026-07-22T08:39:11Z",
+    "url": "https://github.com/xorbitsai/xrouter-llm"
+  },
+  {
+    "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
+    "id": "katanemo/plano",
+    "language": "Rust",
+    "name": "katanemo/plano",
+    "stars": 6887,
+    "updated_at": "2026-07-22T08:33:32Z",
+    "url": "https://github.com/katanemo/plano"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T08:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Production-grade Agentic AI workspace using Next.js, FastAPI, LangGraph ReAct, and Model Context Protocol (MCP) tool orc",
+    "id": "Ambuj123-lab/agentic-ai-workspace",
+    "language": "JavaScript",
+    "name": "Ambuj123-lab/agentic-ai-workspace",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:30:15Z",
+    "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
+  },
+  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -18,40 +117,13 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 174,
-    "updated_at": "2026-07-22T08:27:47Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31633,
-    "updated_at": "2026-07-22T08:28:31Z",
+    "updated_at": "2026-07-22T08:43:52Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-22T08:27:11Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:27:04Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -70,15 +142,6 @@
     "stars": 2452,
     "updated_at": "2026-07-22T08:25:36Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-22T08:29:09Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -121,7 +184,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10668,
+    "stars": 10669,
     "updated_at": "2026-07-22T08:17:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -131,17 +194,8 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 9,
-    "updated_at": "2026-07-22T08:17:37Z",
+    "updated_at": "2026-07-22T08:39:10Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T08:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20766,
-    "updated_at": "2026-07-22T08:29:53Z",
+    "updated_at": "2026-07-22T08:34:20Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 6687,
     "updated_at": "2026-07-22T08:08:26Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Production-grade Agentic AI workspace using Next.js, FastAPI, LangGraph ReAct, and Model Context Protocol (MCP) tool orc",
-    "id": "Ambuj123-lab/agentic-ai-workspace",
-    "language": "JavaScript",
-    "name": "Ambuj123-lab/agentic-ai-workspace",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:30:15Z",
-    "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
   },
   {
     "description": "Context optimization for AI agents \u2014 97 domain knowledge graphs, MCP-native traversal. 4\u00d7 F1 of RAG, 11\u00d7 fewer tokens pe",
@@ -184,7 +229,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54326,
+    "stars": 54328,
     "updated_at": "2026-07-22T07:59:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11734,
-    "updated_at": "2026-07-22T07:43:24Z",
+    "updated_at": "2026-07-22T08:37:37Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-22T08:29:26Z",
+    "updated_at": "2026-07-22T08:45:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -248,26 +293,8 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kmemo",
     "stars": 1,
-    "updated_at": "2026-07-22T08:10:18Z",
+    "updated_at": "2026-07-22T08:34:17Z",
     "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-22T07:28:03Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 5",
-    "id": "xorbitsai/xrouter-llm",
-    "language": "Python",
-    "name": "xorbitsai/xrouter-llm",
-    "stars": 32,
-    "updated_at": "2026-07-22T08:09:20Z",
-    "url": "https://github.com/xorbitsai/xrouter-llm"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -355,7 +382,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23486,
+    "stars": 23488,
     "updated_at": "2026-07-22T06:39:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -410,7 +437,7 @@
     "language": "Ruby",
     "name": "sergey-homenko/llm_cost_tracker",
     "stars": 44,
-    "updated_at": "2026-07-22T06:13:34Z",
+    "updated_at": "2026-07-22T08:35:09Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 66,
     "updated_at": "2026-07-22T06:52:01Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1629,
-    "updated_at": "2026-07-22T05:57:38Z",
-    "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "Stops AI agents from acting on stale plans, with dependency-aware leases, fenced commits, and stale-safe LangGraph resum",
-    "id": "aantenore/truthlease",
-    "language": "Python",
-    "name": "aantenore/truthlease",
-    "stars": 0,
-    "updated_at": "2026-07-22T05:55:19Z",
-    "url": "https://github.com/aantenore/truthlease"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 71,
-    "updated_at": "2026-07-22T05:27:09Z",
-    "url": "https://github.com/api7/aisix"
   }
 ]
