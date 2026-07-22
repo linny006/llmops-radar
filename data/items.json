@@ -1,11 +1,20 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-22T18:39:58Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-22T18:27:08Z",
+    "updated_at": "2026-07-22T18:38:37Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -14,8 +23,80 @@
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-22T18:23:29Z",
+    "updated_at": "2026-07-22T18:37:55Z",
     "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54385,
+    "updated_at": "2026-07-22T18:44:42Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-22T18:43:01Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-22T18:35:19Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "An open-source, offline demonstration of how to evaluate RAG-based GenAI assistants \u2014 groundedness, hallucination, retri",
+    "id": "IshanGaikwad/GenAI-Quality-Lab",
+    "language": "Python",
+    "name": "IshanGaikwad/GenAI-Quality-Lab",
+    "stars": 1,
+    "updated_at": "2026-07-22T18:34:45Z",
+    "url": "https://github.com/IshanGaikwad/GenAI-Quality-Lab"
+  },
+  {
+    "description": "Self-hosted LLM router. Cost effective, deterministic, and fast. Secure and private by default.",
+    "id": "Northwood-Systems/millwright",
+    "language": "Rust",
+    "name": "Northwood-Systems/millwright",
+    "stars": 23,
+    "updated_at": "2026-07-22T18:33:55Z",
+    "url": "https://github.com/Northwood-Systems/millwright"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10678,
+    "updated_at": "2026-07-22T18:45:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T18:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-07-22T18:28:36Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -27,21 +108,12 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "An open-source, offline demonstration of how to evaluate RAG-based GenAI assistants \u2014 groundedness, hallucination, retri",
-    "id": "IshanGaikwad/GenAI-Quality-Lab",
-    "language": "Python",
-    "name": "IshanGaikwad/GenAI-Quality-Lab",
-    "stars": 0,
-    "updated_at": "2026-07-22T18:22:18Z",
-    "url": "https://github.com/IshanGaikwad/GenAI-Quality-Lab"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-22T18:26:01Z",
+    "updated_at": "2026-07-22T18:39:56Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -52,15 +124,6 @@
     "stars": 228,
     "updated_at": "2026-07-22T18:22:02Z",
     "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-22T18:26:09Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
@@ -79,24 +142,6 @@
     "stars": 1162,
     "updated_at": "2026-07-22T18:18:36Z",
     "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10678,
-    "updated_at": "2026-07-22T18:28:19Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T18:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23498,
-    "updated_at": "2026-07-22T18:22:46Z",
+    "updated_at": "2026-07-22T18:32:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -162,31 +207,13 @@
     "url": "https://github.com/wiktor-cl/aegis-genai-gateway"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54383,
-    "updated_at": "2026-07-22T18:27:45Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
     "id": "UiPath/coder_eval",
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 105,
-    "updated_at": "2026-07-22T17:55:24Z",
+    "updated_at": "2026-07-22T18:42:38Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-22T17:55:01Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Self-hosted LLM observability & cost tracking for AI agents. Real-time dashboard for token usage, latency & spend across",
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T17:41:48Z",
     "url": "https://github.com/manijose1919/agent-ops-local"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-22T17:40:06Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20774,
-    "updated_at": "2026-07-22T18:12:22Z",
+    "updated_at": "2026-07-22T18:41:54Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -248,7 +266,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31665,
-    "updated_at": "2026-07-22T18:27:36Z",
+    "updated_at": "2026-07-22T18:43:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -338,7 +356,7 @@
     "language": "JavaScript",
     "name": "runcycles/cycles-claude-plugin",
     "stars": 0,
-    "updated_at": "2026-07-22T18:01:27Z",
+    "updated_at": "2026-07-22T18:36:56Z",
     "url": "https://github.com/runcycles/cycles-claude-plugin"
   },
   {
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3412,
-    "updated_at": "2026-07-22T18:15:15Z",
+    "updated_at": "2026-07-22T18:44:27Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Real-time voice AI infrastructure \u2014 500+ concurrent calls, WebSockets, Apache Kafka, gRPC/C++ with CUDA. Speech-to-text,",
-    "id": "rehan243/Voice-AI-Platform",
-    "language": "Python",
-    "name": "rehan243/Voice-AI-Platform",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:44:51Z",
-    "url": "https://github.com/rehan243/Voice-AI-Platform"
-  },
-  {
-    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
-    "id": "SConv11/watchy",
-    "language": "Python",
-    "name": "SConv11/watchy",
-    "stars": 2,
-    "updated_at": "2026-07-22T15:41:30Z",
-    "url": "https://github.com/SConv11/watchy"
   }
 ]
