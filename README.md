@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 15:00 UTC
+> ⏰ Last updated: 2026-07-22 15:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Ambuj123-lab/agentic-ai-workspace](https://github.com/Ambuj123-lab/agentic-ai-workspace) | 0 | JavaScript | 2026-07-22 | Production-grade Agentic AI workspace using Next.js, FastAPI, LangGraph ReAct, and Model Context Protocol (MCP) tool orc |
-| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31656 | TypeScript | 2026-07-22 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 3 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 1 | Go | 2026-07-22 | Temporal workers and clients for wrapping access to different LLMs |
-| 4 | [zhasouris/llm-model-router](https://github.com/zhasouris/llm-model-router) | 0 | TypeScript | 2026-07-22 | Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency — with a pluggab |
-| 5 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-07-22 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
-| 6 | [SConv11/watchy](https://github.com/SConv11/watchy) | 2 | Python | 2026-07-22 | Autonomous two-tier stock-monitoring daemon — zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 381 | Python | 2026-07-22 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
-| 9 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-22 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 10 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | TypeScript | 2026-07-22 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 11 | [openloop-team/openloop](https://github.com/openloop-team/openloop) | 2 | Python | 2026-07-22 | The open-source control plane for shared AI agents |
-| 12 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-07-22 | A governed, auditable workflow engine for agent-driven software changes. |
-| 13 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-07-22 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 14 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 174 | Rust | 2026-07-22 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
-| 15 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 16 | Go | 2026-07-22 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 16 | [Bobcatsfan33/AI-Security-Platform](https://github.com/Bobcatsfan33/AI-Security-Platform) | 1 | Python | 2026-07-22 | Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass |
-| 17 | [sebtosca/PromptGuard](https://github.com/sebtosca/PromptGuard) | 1 | Python | 2026-07-22 | CI/CD regression testing for LLM prompts — evaluates every prompt or dataset change against a golden dataset and blocks  |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [sebtosca/PromptGuard](https://github.com/sebtosca/PromptGuard) | 1 | Python | 2026-07-22 | CI/CD regression testing for LLM prompts — evaluates every prompt or dataset change against a golden dataset and blocks  |
+| 3 | [Ambuj123-lab/agentic-ai-workspace](https://github.com/Ambuj123-lab/agentic-ai-workspace) | 0 | JavaScript | 2026-07-22 | Production-grade Agentic AI workspace using Next.js, FastAPI, LangGraph ReAct, and Model Context Protocol (MCP) tool orc |
+| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31656 | TypeScript | 2026-07-22 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 5 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 1 | Go | 2026-07-22 | Temporal workers and clients for wrapping access to different LLMs |
+| 6 | [zhasouris/llm-model-router](https://github.com/zhasouris/llm-model-router) | 0 | TypeScript | 2026-07-22 | Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency — with a pluggab |
+| 7 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-07-22 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
+| 8 | [SConv11/watchy](https://github.com/SConv11/watchy) | 2 | Python | 2026-07-22 | Autonomous two-tier stock-monitoring daemon — zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w |
+| 9 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 381 | Python | 2026-07-22 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
+| 10 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-22 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 11 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | TypeScript | 2026-07-22 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 12 | [openloop-team/openloop](https://github.com/openloop-team/openloop) | 2 | Python | 2026-07-22 | The open-source control plane for shared AI agents |
+| 13 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-07-22 | A governed, auditable workflow engine for agent-driven software changes. |
+| 14 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 2 | HTML | 2026-07-22 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 15 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 174 | Rust | 2026-07-22 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
+| 16 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 16 | Go | 2026-07-22 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 17 | [Bobcatsfan33/AI-Security-Platform](https://github.com/Bobcatsfan33/AI-Security-Platform) | 1 | Python | 2026-07-22 | Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass |
 | 18 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-07-22 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
 | 19 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20769 | Python | 2026-07-22 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 20 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10674 | Python | 2026-07-22 | AI Observability & Evaluation |
