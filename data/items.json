@@ -1,12 +1,66 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-22T06:29:36Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-22T06:29:20Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 60,
+    "updated_at": "2026-07-22T06:28:07Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-22T06:28:05Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27152,
+    "updated_at": "2026-07-22T06:27:12Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 4,
-    "updated_at": "2026-07-22T06:15:27Z",
+    "updated_at": "2026-07-22T06:15:52Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54303,
+    "updated_at": "2026-07-22T06:15:39Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -27,24 +81,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54303,
-    "updated_at": "2026-07-22T06:15:39Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-22T06:05:14Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
     "id": "GetBusbar/busbar",
     "language": "Rust",
@@ -52,24 +88,6 @@
     "stars": 148,
     "updated_at": "2026-07-22T06:04:36Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-22T06:03:58Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-22T06:02:42Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-22T06:14:19Z",
+    "updated_at": "2026-07-22T06:27:58Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23480,
-    "updated_at": "2026-07-22T05:56:28Z",
+    "updated_at": "2026-07-22T06:26:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -162,13 +180,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 60,
-    "updated_at": "2026-07-22T05:31:26Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10665,
+    "updated_at": "2026-07-22T05:31:05Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -185,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6684,
-    "updated_at": "2026-07-22T06:05:36Z",
+    "updated_at": "2026-07-22T06:28:48Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1061,
-    "updated_at": "2026-07-22T05:28:38Z",
+    "updated_at": "2026-07-22T06:20:50Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -205,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T05:22:26Z",
     "url": "https://github.com/wjlgatech/FM-os"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10664,
-    "updated_at": "2026-07-22T05:31:05Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 6,
-    "updated_at": "2026-07-22T06:13:56Z",
+    "updated_at": "2026-07-22T06:25:25Z",
     "url": "https://github.com/boundflow/boundflow"
   },
   {
@@ -364,7 +373,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31617,
+    "stars": 31618,
     "updated_at": "2026-07-22T03:38:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -418,7 +427,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8006,
+    "stars": 8007,
     "updated_at": "2026-07-22T02:46:41Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-22T02:12:01Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
-    "description": "A governed, auditable workflow engine for agent-driven software changes.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-22T02:09:22Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
