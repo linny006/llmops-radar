@@ -1,12 +1,93 @@
 [
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
     "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-22T13:55:58Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
+    "name": "ComposioHQ/composio",
+    "stars": 29323,
+    "updated_at": "2026-07-22T14:11:50Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-22T14:09:38Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-22T14:08:00Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
+    "id": "SConv11/watchy",
+    "language": "Python",
+    "name": "SConv11/watchy",
+    "stars": 2,
+    "updated_at": "2026-07-22T14:07:54Z",
+    "url": "https://github.com/SConv11/watchy"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1061,
+    "updated_at": "2026-07-22T14:10:32Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54362,
+    "updated_at": "2026-07-22T14:07:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3452,
+    "updated_at": "2026-07-22T14:06:58Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Production-grade Agentic AI workspace using Next.js, FastAPI, LangGraph ReAct, and Model Context Protocol (MCP) tool orc",
+    "id": "Ambuj123-lab/agentic-ai-workspace",
+    "language": "JavaScript",
+    "name": "Ambuj123-lab/agentic-ai-workspace",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:15:22Z",
+    "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3412,
+    "updated_at": "2026-07-22T14:04:50Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
+    "id": "zhasouris/llm-model-router",
+    "language": "TypeScript",
+    "name": "zhasouris/llm-model-router",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:11:22Z",
+    "url": "https://github.com/zhasouris/llm-model-router"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -14,8 +95,26 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-22T14:00:30Z",
+    "updated_at": "2026-07-22T14:11:50Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T14:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-22T13:55:58Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -50,17 +149,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31654,
-    "updated_at": "2026-07-22T13:58:51Z",
+    "updated_at": "2026-07-22T14:12:30Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
-    "id": "SConv11/watchy",
-    "language": "Python",
-    "name": "SConv11/watchy",
-    "stars": 2,
-    "updated_at": "2026-07-22T13:50:33Z",
-    "url": "https://github.com/SConv11/watchy"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -90,15 +180,6 @@
     "url": "https://github.com/ProofAgent-ai/proofagent-harness"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29321,
-    "updated_at": "2026-07-22T13:52:38Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
@@ -115,24 +196,6 @@
     "stars": 64,
     "updated_at": "2026-07-22T13:46:56Z",
     "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T13:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-22T13:42:57Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -158,17 +221,8 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3105,
-    "updated_at": "2026-07-22T13:41:18Z",
+    "updated_at": "2026-07-22T14:13:26Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1061,
-    "updated_at": "2026-07-22T13:44:09Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -180,30 +234,12 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Production-grade Agentic AI workspace using Next.js, FastAPI, LangGraph ReAct, and Model Context Protocol (MCP) tool orc",
-    "id": "Ambuj123-lab/agentic-ai-workspace",
-    "language": "JavaScript",
-    "name": "Ambuj123-lab/agentic-ai-workspace",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:36:24Z",
-    "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3452,
-    "updated_at": "2026-07-22T13:32:27Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20769,
-    "updated_at": "2026-07-22T13:56:20Z",
+    "updated_at": "2026-07-22T14:15:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -216,21 +252,12 @@
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-22T13:28:23Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-22T13:25:15Z",
+    "updated_at": "2026-07-22T14:15:14Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T12:57:51Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54360,
-    "updated_at": "2026-07-22T12:55:26Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -311,7 +329,7 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 174,
-    "updated_at": "2026-07-22T12:32:33Z",
+    "updated_at": "2026-07-22T14:11:28Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11736,
-    "updated_at": "2026-07-22T13:30:28Z",
+    "updated_at": "2026-07-22T14:07:11Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-22T13:59:35Z",
+    "updated_at": "2026-07-22T14:10:18Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/owieschon/career-scout"
   },
   {
-    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
-    "id": "zhasouris/llm-model-router",
-    "language": "TypeScript",
-    "name": "zhasouris/llm-model-router",
-    "stars": 0,
-    "updated_at": "2026-07-22T11:31:07Z",
-    "url": "https://github.com/zhasouris/llm-model-router"
-  },
-  {
     "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
     "id": "ahmeedatm/infer-router",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1281,
     "updated_at": "2026-07-22T13:55:16Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Async multi-tenant LLMOps proxy gateway featuring dual-layer semantic caching (Redis + Qdrant), multi-provider resilienc",
-    "id": "hansitvarshney/llmops-gateway",
-    "language": "Python",
-    "name": "hansitvarshney/llmops-gateway",
-    "stars": 0,
-    "updated_at": "2026-07-22T11:21:21Z",
-    "url": "https://github.com/hansitvarshney/llmops-gateway"
   }
 ]
