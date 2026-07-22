@@ -1,12 +1,75 @@
 [
   {
+    "description": "Self-hosted LLM router. Cost effective, deterministic, and fast. Secure and private by default.",
+    "id": "Northwood-Systems/millwright",
+    "language": "Rust",
+    "name": "Northwood-Systems/millwright",
+    "stars": 23,
+    "updated_at": "2026-07-22T15:13:15Z",
+    "url": "https://github.com/Northwood-Systems/millwright"
+  },
+  {
+    "description": "Open-source AI reseller panel with customer API keys, prepaid balances, usage limits, model pricing, and profit analytic",
+    "id": "tokenpanel/tokenpanel",
+    "language": "TypeScript",
+    "name": "tokenpanel/tokenpanel",
+    "stars": 3,
+    "updated_at": "2026-07-22T15:12:23Z",
+    "url": "https://github.com/tokenpanel/tokenpanel"
+  },
+  {
+    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
+    "id": "zhasouris/llm-model-router",
+    "language": "TypeScript",
+    "name": "zhasouris/llm-model-router",
+    "stars": 0,
+    "updated_at": "2026-07-22T15:10:15Z",
+    "url": "https://github.com/zhasouris/llm-model-router"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-22T15:09:48Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
+    "id": "SConv11/watchy",
+    "language": "Python",
+    "name": "SConv11/watchy",
+    "stars": 2,
+    "updated_at": "2026-07-22T15:07:35Z",
+    "url": "https://github.com/SConv11/watchy"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-22T15:04:55Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 4,
-    "updated_at": "2026-07-22T15:00:34Z",
+    "updated_at": "2026-07-22T15:02:51Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-22T15:13:05Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "CI/CD regression testing for LLM prompts \u2014 evaluates every prompt or dataset change against a golden dataset and blocks ",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "sebtosca/PromptGuard",
     "stars": 1,
-    "updated_at": "2026-07-22T15:00:06Z",
+    "updated_at": "2026-07-22T15:15:09Z",
     "url": "https://github.com/sebtosca/PromptGuard"
   },
   {
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31656,
-    "updated_at": "2026-07-22T14:52:11Z",
+    "updated_at": "2026-07-22T15:14:58Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
-    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
-    "id": "zhasouris/llm-model-router",
-    "language": "TypeScript",
-    "name": "zhasouris/llm-model-router",
-    "stars": 0,
-    "updated_at": "2026-07-22T14:50:24Z",
-    "url": "https://github.com/zhasouris/llm-model-router"
-  },
-  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -63,40 +117,13 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
-    "id": "SConv11/watchy",
-    "language": "Python",
-    "name": "SConv11/watchy",
-    "stars": 2,
-    "updated_at": "2026-07-22T14:46:47Z",
-    "url": "https://github.com/SConv11/watchy"
-  },
-  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-22T15:00:06Z",
+    "updated_at": "2026-07-22T15:11:24Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-22T14:59:56Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-22T15:02:34Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -126,6 +153,15 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3453,
+    "updated_at": "2026-07-22T14:32:18Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
     "id": "fkiene/llmtrim",
     "language": "Rust",
@@ -133,15 +169,6 @@
     "stars": 174,
     "updated_at": "2026-07-22T14:31:56Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-22T14:29:32Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
@@ -153,12 +180,21 @@
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11737,
+    "updated_at": "2026-07-22T14:28:07Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-22T14:55:33Z",
+    "updated_at": "2026-07-22T15:11:55Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20769,
-    "updated_at": "2026-07-22T14:59:46Z",
+    "updated_at": "2026-07-22T15:14:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10674,
-    "updated_at": "2026-07-22T14:50:05Z",
+    "updated_at": "2026-07-22T15:12:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -184,7 +220,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54365,
+    "stars": 54366,
     "updated_at": "2026-07-22T14:21:45Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -234,21 +270,12 @@
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3452,
-    "updated_at": "2026-07-22T14:32:18Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3412,
-    "updated_at": "2026-07-22T14:48:52Z",
+    "updated_at": "2026-07-22T15:13:27Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3105,
-    "updated_at": "2026-07-22T15:00:23Z",
+    "updated_at": "2026-07-22T15:10:11Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -401,7 +428,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6697,
-    "updated_at": "2026-07-22T14:40:47Z",
+    "updated_at": "2026-07-22T15:11:10Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 72,
     "updated_at": "2026-07-22T12:58:11Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11736,
-    "updated_at": "2026-07-22T14:28:07Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 4,
-    "updated_at": "2026-07-22T13:28:26Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-22T11:56:02Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
   }
 ]
