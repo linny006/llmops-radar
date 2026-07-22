@@ -1,12 +1,21 @@
 [
   {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
+    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
+    "id": "UiPath/coder_eval",
     "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-22T10:44:21Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
+    "name": "UiPath/coder_eval",
+    "stars": 105,
+    "updated_at": "2026-07-22T10:59:30Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-22T10:58:13Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20765,
-    "updated_at": "2026-07-22T10:40:30Z",
+    "updated_at": "2026-07-22T10:58:05Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-22T10:55:58Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
+    "id": "zhasouris/llm-model-router",
+    "language": "TypeScript",
+    "name": "zhasouris/llm-model-router",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:55:27Z",
+    "url": "https://github.com/zhasouris/llm-model-router"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -23,8 +50,44 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-22T10:38:02Z",
+    "updated_at": "2026-07-22T10:50:56Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 60,
+    "updated_at": "2026-07-22T10:49:01Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31641,
+    "updated_at": "2026-07-22T10:48:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T10:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-07-22T10:44:21Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -45,24 +108,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T10:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-22T10:30:16Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
     "id": "malkreide/zh-education-mcp",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T10:26:43Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
-  },
-  {
-    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
-    "id": "zhasouris/llm-model-router",
-    "language": "TypeScript",
-    "name": "zhasouris/llm-model-router",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:21:24Z",
-    "url": "https://github.com/zhasouris/llm-model-router"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -135,15 +171,6 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-22T10:08:13Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
     "id": "Josepavese/matrix",
     "language": "Go",
@@ -157,7 +184,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54341,
+    "stars": 54342,
     "updated_at": "2026-07-22T10:06:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -167,7 +194,7 @@
     "language": "TypeScript",
     "name": "runcycles/cycles-mcp-server",
     "stars": 0,
-    "updated_at": "2026-07-22T10:27:08Z",
+    "updated_at": "2026-07-22T11:00:28Z",
     "url": "https://github.com/runcycles/cycles-mcp-server"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-07-22T10:03:06Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31639,
-    "updated_at": "2026-07-22T10:42:02Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-22T10:42:42Z",
+    "updated_at": "2026-07-22T11:00:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 18,
     "updated_at": "2026-07-22T08:24:54Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
-    "id": "Fast-Editor/Lynkr",
-    "language": "JavaScript",
-    "name": "Fast-Editor/Lynkr",
-    "stars": 535,
-    "updated_at": "2026-07-22T08:20:28Z",
-    "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10671,
-    "updated_at": "2026-07-22T08:17:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
