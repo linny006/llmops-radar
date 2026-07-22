@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI",
+    "id": "ProofAgent-ai/proofagent-harness",
+    "language": "Python",
+    "name": "ProofAgent-ai/proofagent-harness",
+    "stars": 18,
+    "updated_at": "2026-07-22T03:42:40Z",
+    "url": "https://github.com/ProofAgent-ai/proofagent-harness"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 1,
+    "updated_at": "2026-07-22T03:41:30Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-22T03:40:03Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-22T03:39:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31605,
+    "updated_at": "2026-07-22T03:38:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1061,
+    "updated_at": "2026-07-22T03:43:57Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T03:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -14,17 +77,8 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-22T03:29:45Z",
+    "updated_at": "2026-07-22T03:42:59Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-22T03:26:48Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-22T03:29:02Z",
+    "updated_at": "2026-07-22T03:44:25Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -72,24 +126,6 @@
     "url": "https://github.com/liuanye9-lab/codex-os-brain"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T03:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI",
-    "id": "ProofAgent-ai/proofagent-harness",
-    "language": "Python",
-    "name": "ProofAgent-ai/proofagent-harness",
-    "stars": 18,
-    "updated_at": "2026-07-22T03:15:20Z",
-    "url": "https://github.com/ProofAgent-ai/proofagent-harness"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-22T03:27:35Z",
+    "updated_at": "2026-07-22T03:40:34Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10664,
-    "updated_at": "2026-07-22T02:52:59Z",
+    "updated_at": "2026-07-22T03:44:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T01:47:15Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 1,
-    "updated_at": "2026-07-22T03:29:40Z",
-    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
@@ -301,7 +328,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29314,
+    "stars": 29315,
     "updated_at": "2026-07-22T01:18:40Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -337,7 +364,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23476,
+    "stars": 23477,
     "updated_at": "2026-07-22T00:41:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -367,15 +394,6 @@
     "stars": 39,
     "updated_at": "2026-07-22T00:31:07Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-22T00:30:26Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T23:46:19Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
-    "id": "runcycles/cycles-spring-ai-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-ai-starter",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:45:57Z",
-    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
-  },
-  {
-    "description": "AI Quorum - one prompt, every model, real agreement measured. Provider-agnostic multi-LLM consensus scoring, zero depend",
-    "id": "Yacineutt/AI-Quorum",
-    "language": "Python",
-    "name": "Yacineutt/AI-Quorum",
-    "stars": 1,
-    "updated_at": "2026-07-21T23:42:45Z",
-    "url": "https://github.com/Yacineutt/AI-Quorum"
   }
 ]
