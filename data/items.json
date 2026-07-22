@@ -1,12 +1,39 @@
 [
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-22T17:29:48Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "An open-source, offline demonstration of how to evaluate RAG-based GenAI assistants \u2014 groundedness, hallucination, retri",
+    "id": "IshanGaikwad/GenAI-Quality-Lab",
+    "language": "Python",
+    "name": "IshanGaikwad/GenAI-Quality-Lab",
+    "stars": 0,
+    "updated_at": "2026-07-22T17:44:48Z",
+    "url": "https://github.com/IshanGaikwad/GenAI-Quality-Lab"
+  },
+  {
+    "description": "Self-hosted LLM observability & cost tracking for AI agents. Real-time dashboard for token usage, latency & spend across",
+    "id": "manijose1919/agent-ops-local",
+    "language": "Python",
+    "name": "manijose1919/agent-ops-local",
+    "stars": 0,
+    "updated_at": "2026-07-22T17:41:48Z",
+    "url": "https://github.com/manijose1919/agent-ops-local"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-22T17:40:11Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-22T17:40:06Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
@@ -14,17 +41,8 @@
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-22T17:26:53Z",
+    "updated_at": "2026-07-22T17:44:50Z",
     "url": "https://github.com/wlsdks/reactor"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31665,
-    "updated_at": "2026-07-22T17:30:23Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -32,8 +50,89 @@
     "language": "Python",
     "name": "pragmatiks/pragma-providers",
     "stars": 0,
-    "updated_at": "2026-07-22T17:23:37Z",
+    "updated_at": "2026-07-22T17:37:02Z",
     "url": "https://github.com/pragmatiks/pragma-providers"
+  },
+  {
+    "description": "Enterprise multi-cloud GenAI agent gateway \u2014 AWS Bedrock + Azure AI Foundry integrations, policy-based routing, guardrai",
+    "id": "wiktor-cl/aegis-genai-gateway",
+    "language": "Python",
+    "name": "wiktor-cl/aegis-genai-gateway",
+    "stars": 0,
+    "updated_at": "2026-07-22T17:35:39Z",
+    "url": "https://github.com/wiktor-cl/aegis-genai-gateway"
+  },
+  {
+    "description": "Earshot \u2014 the open-source Voice Observability SDK for evidence-first telemetry, latency analysis, and portable incident ",
+    "id": "Kkartik14/Earshot",
+    "language": "Python",
+    "name": "Kkartik14/Earshot",
+    "stars": 1,
+    "updated_at": "2026-07-22T17:36:06Z",
+    "url": "https://github.com/Kkartik14/Earshot"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-22T17:32:11Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 314,
+    "updated_at": "2026-07-22T17:34:04Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T17:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20773,
+    "updated_at": "2026-07-22T17:30:24Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-22T17:44:54Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54382,
+    "updated_at": "2026-07-22T17:29:36Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31665,
+    "updated_at": "2026-07-22T17:38:30Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
@@ -52,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T17:22:16Z",
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 314,
-    "updated_at": "2026-07-22T17:29:14Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Local web console for managing multiple Hermes-first AI agent profiles, runtimes, LLM engines, backups, and diagnostics.",
@@ -108,13 +198,13 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Event-driven continuous LoRA platform: Redpanda/Bytewax signals \u2192 curated datasets \u2192 PEFT \u2192 LLM-judge + lag gates \u2192 stic",
+    "id": "hansitvarshney/AdaptLoop",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54382,
-    "updated_at": "2026-07-22T17:29:36Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "hansitvarshney/AdaptLoop",
+    "stars": 0,
+    "updated_at": "2026-07-22T17:16:43Z",
+    "url": "https://github.com/hansitvarshney/AdaptLoop"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -124,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T17:16:39Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T17:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -153,15 +234,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-22T17:13:31Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -176,7 +248,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23497,
-    "updated_at": "2026-07-22T17:09:06Z",
+    "updated_at": "2026-07-22T17:44:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -185,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10676,
-    "updated_at": "2026-07-22T17:25:51Z",
+    "updated_at": "2026-07-22T17:36:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -198,15 +270,6 @@
     "url": "https://github.com/runcycles/cycles-claude-plugin"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20772,
-    "updated_at": "2026-07-22T17:19:38Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -214,15 +277,6 @@
     "stars": 4,
     "updated_at": "2026-07-22T17:00:49Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "An open-source, offline demonstration of how to evaluate RAG-based GenAI assistants \u2014 groundedness, hallucination, retri",
-    "id": "IshanGaikwad/GenAI-Quality-Lab",
-    "language": "Python",
-    "name": "IshanGaikwad/GenAI-Quality-Lab",
-    "stars": 0,
-    "updated_at": "2026-07-22T16:59:27Z",
-    "url": "https://github.com/IshanGaikwad/GenAI-Quality-Lab"
   },
   {
     "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
@@ -243,21 +297,12 @@
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-22T16:43:00Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-22T17:27:06Z",
+    "updated_at": "2026-07-22T17:33:24Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -275,7 +320,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6698,
-    "updated_at": "2026-07-22T17:21:04Z",
+    "updated_at": "2026-07-22T17:36:38Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -315,15 +360,6 @@
     "url": "https://github.com/Atman36/AI-First-HQ-OS"
   },
   {
-    "description": "Enterprise multi-cloud GenAI agent gateway \u2014 AWS Bedrock + Azure AI Foundry integrations, policy-based routing, guardrai",
-    "id": "wiktor-cl/aegis-genai-gateway",
-    "language": "Python",
-    "name": "wiktor-cl/aegis-genai-gateway",
-    "stars": 0,
-    "updated_at": "2026-07-22T16:07:12Z",
-    "url": "https://github.com/wiktor-cl/aegis-genai-gateway"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -338,7 +374,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3412,
-    "updated_at": "2026-07-22T17:24:59Z",
+    "updated_at": "2026-07-22T17:41:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3453,
-    "updated_at": "2026-07-22T15:34:06Z",
+    "updated_at": "2026-07-22T17:41:09Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 23,
     "updated_at": "2026-07-22T15:20:12Z",
     "url": "https://github.com/Northwood-Systems/millwright"
-  },
-  {
-    "description": "Open-source AI reseller panel with customer API keys, prepaid balances, usage limits, model pricing, and profit analytic",
-    "id": "tokenpanel/tokenpanel",
-    "language": "TypeScript",
-    "name": "tokenpanel/tokenpanel",
-    "stars": 3,
-    "updated_at": "2026-07-22T15:12:23Z",
-    "url": "https://github.com/tokenpanel/tokenpanel"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8017,
-    "updated_at": "2026-07-22T17:08:57Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Production-grade Agentic AI workspace using Next.js, FastAPI, LangGraph ReAct, and Model Context Protocol (MCP) tool orc",
-    "id": "Ambuj123-lab/agentic-ai-workspace",
-    "language": "JavaScript",
-    "name": "Ambuj123-lab/agentic-ai-workspace",
-    "stars": 0,
-    "updated_at": "2026-07-22T14:55:55Z",
-    "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
-  },
-  {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "openloop-team/openloop",
-    "language": "Python",
-    "name": "openloop-team/openloop",
-    "stars": 2,
-    "updated_at": "2026-07-22T14:35:35Z",
-    "url": "https://github.com/openloop-team/openloop"
   }
 ]
