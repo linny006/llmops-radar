@@ -1,21 +1,21 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10680,
+    "updated_at": "2026-07-22T21:35:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
     "id": "wlsdks/reactor",
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-22T21:28:55Z",
+    "updated_at": "2026-07-22T21:34:36Z",
     "url": "https://github.com/wlsdks/reactor"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-22T21:27:16Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -23,7 +23,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-22T21:26:52Z",
+    "updated_at": "2026-07-22T21:34:36Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -31,9 +31,36 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54388,
-    "updated_at": "2026-07-22T21:25:50Z",
+    "stars": 54389,
+    "updated_at": "2026-07-22T21:35:27Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-22T21:33:05Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-22T21:32:30Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T21:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -50,17 +77,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-22T21:25:00Z",
+    "updated_at": "2026-07-22T21:35:39Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10680,
-    "updated_at": "2026-07-22T21:22:50Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "An open-source, offline demonstration of how to evaluate RAG-based GenAI assistants \u2014 groundedness, hallucination, retri",
@@ -70,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T21:17:52Z",
     "url": "https://github.com/IshanGaikwad/GenAI-Quality-Lab"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T21:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 105,
-    "updated_at": "2026-07-22T21:27:02Z",
+    "updated_at": "2026-07-22T21:31:32Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -162,21 +171,12 @@
     "url": "https://github.com/katanemo/plano"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-22T21:28:14Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-22T20:48:00Z",
+    "updated_at": "2026-07-22T21:34:52Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -202,7 +202,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31669,
+    "stars": 31670,
     "updated_at": "2026-07-22T20:37:02Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -365,7 +365,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23502,
-    "updated_at": "2026-07-22T18:46:31Z",
+    "updated_at": "2026-07-22T21:35:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
