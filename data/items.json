@@ -1,12 +1,12 @@
 [
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
     "stars": 1,
-    "updated_at": "2026-07-22T04:14:17Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
+    "updated_at": "2026-07-22T04:27:12Z",
+    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -14,8 +14,62 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 10,
-    "updated_at": "2026-07-22T04:12:52Z",
+    "updated_at": "2026-07-22T04:25:09Z",
     "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-22T04:24:36Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 227,
+    "updated_at": "2026-07-22T04:24:36Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10664,
+    "updated_at": "2026-07-22T04:28:13Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 48,
+    "updated_at": "2026-07-22T04:16:51Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-22T04:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:28:03Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -25,6 +79,15 @@
     "stars": 71,
     "updated_at": "2026-07-22T04:12:20Z",
     "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23479,
+    "updated_at": "2026-07-22T04:29:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54293,
-    "updated_at": "2026-07-22T04:06:42Z",
+    "updated_at": "2026-07-22T04:25:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 2452,
     "updated_at": "2026-07-22T04:02:35Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-22T04:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -126,30 +180,12 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 1,
-    "updated_at": "2026-07-22T04:12:17Z",
-    "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-22T04:12:44Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-22T03:44:25Z",
+    "updated_at": "2026-07-22T04:25:41Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1061,
-    "updated_at": "2026-07-22T04:14:15Z",
+    "updated_at": "2026-07-22T04:23:09Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -184,8 +220,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6681,
-    "updated_at": "2026-07-22T03:29:26Z",
+    "stars": 6682,
+    "updated_at": "2026-07-22T04:25:16Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -306,15 +342,6 @@
     "url": "https://github.com/kensterinvest/tidus"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10664,
-    "updated_at": "2026-07-22T04:11:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
     "id": "boundflow/boundflow",
     "language": "Python",
@@ -382,7 +409,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29315,
+    "stars": 29316,
     "updated_at": "2026-07-22T01:18:40Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -414,15 +441,6 @@
     "url": "https://github.com/ajankuv/omniswarm"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23478,
-    "updated_at": "2026-07-22T04:11:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, r",
     "id": "zendev-sh/zenflow",
     "language": "Go",
@@ -430,23 +448,5 @@
     "stars": 37,
     "updated_at": "2026-07-22T00:40:01Z",
     "url": "https://github.com/zendev-sh/zenflow"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 309,
-    "updated_at": "2026-07-22T01:30:52Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 39,
-    "updated_at": "2026-07-22T00:31:07Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   }
 ]
