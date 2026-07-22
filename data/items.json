@@ -1,12 +1,21 @@
 [
   {
-    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-07-22T00:04:24Z",
-    "url": "https://github.com/thequantumfalcon/kry"
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 39,
+    "updated_at": "2026-07-22T00:15:11Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
+    "id": "runcycles/cycles-mcp-server",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-22T00:15:06Z",
+    "url": "https://github.com/runcycles/cycles-mcp-server"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54269,
-    "updated_at": "2026-07-22T00:04:30Z",
+    "updated_at": "2026-07-22T00:14:49Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 308,
+    "updated_at": "2026-07-22T00:11:19Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
+    "language": "Python",
+    "name": "boundflow/boundflow",
+    "stars": 6,
+    "updated_at": "2026-07-22T00:11:14Z",
+    "url": "https://github.com/boundflow/boundflow"
+  },
+  {
+    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-07-22T00:10:30Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1627,
+    "updated_at": "2026-07-22T00:07:20Z",
+    "url": "https://github.com/AgentEra/Agently"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +68,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 4,
-    "updated_at": "2026-07-22T00:00:29Z",
+    "updated_at": "2026-07-22T00:06:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23467,
+    "updated_at": "2026-07-22T00:12:37Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -81,15 +135,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23466,
-    "updated_at": "2026-07-22T00:01:16Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
@@ -144,15 +189,6 @@
     "url": "https://github.com/Yacineutt/AI-AgenticSafe"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 308,
-    "updated_at": "2026-07-21T23:51:22Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -185,17 +221,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10661,
-    "updated_at": "2026-07-22T00:00:06Z",
+    "updated_at": "2026-07-22T00:13:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
-    "id": "boundflow/boundflow",
-    "language": "Python",
-    "name": "boundflow/boundflow",
-    "stars": 6,
-    "updated_at": "2026-07-21T23:50:26Z",
-    "url": "https://github.com/boundflow/boundflow"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -220,7 +247,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6666,
+    "stars": 6667,
     "updated_at": "2026-07-21T22:45:20Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -268,15 +295,6 @@
     "stars": 20,
     "updated_at": "2026-07-21T22:05:57Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 39,
-    "updated_at": "2026-07-21T22:05:34Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
@@ -430,23 +448,5 @@
     "stars": 21,
     "updated_at": "2026-07-21T19:50:52Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Real-time voice AI infrastructure \u2014 500+ concurrent calls, WebSockets, Apache Kafka, gRPC/C++ with CUDA. Speech-to-text,",
-    "id": "rehan243/Voice-AI-Platform",
-    "language": "Python",
-    "name": "rehan243/Voice-AI-Platform",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:39:27Z",
-    "url": "https://github.com/rehan243/Voice-AI-Platform"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20761,
-    "updated_at": "2026-07-21T22:40:03Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
