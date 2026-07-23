@@ -1,12 +1,12 @@
 [
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
     "stars": 1,
-    "updated_at": "2026-07-23T04:27:10Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
+    "updated_at": "2026-07-23T04:33:02Z",
+    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-23T04:25:11Z",
+    "updated_at": "2026-07-23T04:32:49Z",
     "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T04:30:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-23T04:27:10Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -34,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T04:18:35Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T04:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54422,
-    "updated_at": "2026-07-23T04:21:14Z",
+    "updated_at": "2026-07-23T04:31:13Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-23T04:26:28Z",
+    "updated_at": "2026-07-23T04:30:47Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -293,7 +302,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3413,
-    "updated_at": "2026-07-23T02:33:08Z",
+    "updated_at": "2026-07-23T04:32:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -322,15 +331,6 @@
     "stars": 29334,
     "updated_at": "2026-07-23T01:26:53Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 1,
-    "updated_at": "2026-07-23T04:03:05Z",
-    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
