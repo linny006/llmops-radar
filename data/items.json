@@ -1,12 +1,102 @@
 [
   {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T14:43:57Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31729,
+    "updated_at": "2026-07-23T14:45:14Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-23T14:41:44Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-23T14:39:45Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2487,
+    "updated_at": "2026-07-23T14:40:28Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 318,
+    "updated_at": "2026-07-23T14:37:41Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-23T14:37:03Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
     "id": "sxueck/llm-gateway",
     "language": "TypeScript",
     "name": "sxueck/llm-gateway",
     "stars": 48,
-    "updated_at": "2026-07-23T14:29:00Z",
+    "updated_at": "2026-07-23T14:34:50Z",
     "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-23T14:39:01Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T14:32:21Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T14:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -14,7 +104,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2461,
-    "updated_at": "2026-07-23T14:28:58Z",
+    "updated_at": "2026-07-23T14:33:54Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -23,7 +113,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1283,
-    "updated_at": "2026-07-23T14:28:45Z",
+    "updated_at": "2026-07-23T14:31:08Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -41,35 +131,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-23T14:27:54Z",
+    "updated_at": "2026-07-23T14:44:23Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 318,
-    "updated_at": "2026-07-23T14:28:47Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31728,
-    "updated_at": "2026-07-23T14:26:27Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T14:23:38Z",
-    "url": "https://github.com/wlsdks/reactor"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10697,
-    "updated_at": "2026-07-23T14:20:06Z",
+    "updated_at": "2026-07-23T14:33:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -103,9 +166,18 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54477,
+    "stars": 54479,
     "updated_at": "2026-07-23T14:18:38Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20797,
+    "updated_at": "2026-07-23T14:17:22Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
@@ -115,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T14:15:40Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T14:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11747,
-    "updated_at": "2026-07-23T14:13:53Z",
+    "updated_at": "2026-07-23T14:39:11Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -153,21 +216,12 @@
     "url": "https://github.com/hanzala-bhutto/ApplySync"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T14:24:42Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
     "id": "memoturn/memoturn",
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 1,
-    "updated_at": "2026-07-23T14:02:20Z",
+    "updated_at": "2026-07-23T14:43:34Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -187,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T13:53:43Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-23T13:51:11Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20798,
-    "updated_at": "2026-07-23T14:17:22Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
@@ -257,7 +293,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-23T13:29:06Z",
+    "updated_at": "2026-07-23T14:42:09Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -365,17 +401,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3415,
-    "updated_at": "2026-07-23T14:30:10Z",
+    "updated_at": "2026-07-23T14:32:12Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-23T14:29:54Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Self-hosted LLM observability & cost tracking for AI agents. Real-time dashboard for token usage, latency & spend across",
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3105,
-    "updated_at": "2026-07-23T14:05:39Z",
+    "updated_at": "2026-07-23T14:37:14Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T12:26:12Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-07-23T12:24:16Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-23T12:23:34Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Test your LLM outputs like code: deterministic + semantic + grounding + LLM-as-judge scorers, suite runner with precisio",
-    "id": "Nizarassad/llm-eval-kit",
-    "language": "Python",
-    "name": "Nizarassad/llm-eval-kit",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:18:27Z",
-    "url": "https://github.com/Nizarassad/llm-eval-kit"
   }
 ]
