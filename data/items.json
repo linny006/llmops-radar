@@ -1,11 +1,56 @@
 [
   {
+    "description": "Diff your AI agent's behavior between two runs. See exactly which tool calls, args, costs and outputs changed when you s",
+    "id": "arthi-arumugam-git/whatbroke",
+    "language": "TypeScript",
+    "name": "arthi-arumugam-git/whatbroke",
+    "stars": 1,
+    "updated_at": "2026-07-23T07:54:07Z",
+    "url": "https://github.com/arthi-arumugam-git/whatbroke"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2459,
+    "updated_at": "2026-07-23T07:48:26Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1282,
+    "updated_at": "2026-07-23T07:45:27Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20785,
+    "updated_at": "2026-07-23T07:50:50Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31698,
+    "updated_at": "2026-07-23T07:53:19Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27173,
-    "updated_at": "2026-07-23T07:43:27Z",
+    "updated_at": "2026-07-23T07:56:36Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -14,8 +59,17 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6716,
-    "updated_at": "2026-07-23T07:39:35Z",
+    "updated_at": "2026-07-23T07:59:53Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54441,
+    "updated_at": "2026-07-23T07:55:47Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
@@ -32,17 +86,8 @@
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-23T07:33:34Z",
+    "updated_at": "2026-07-23T07:56:46Z",
     "url": "https://github.com/wlsdks/reactor"
-  },
-  {
-    "description": "Diff your AI agent's behavior between two runs. See exactly which tool calls, args, costs and outputs changed when you s",
-    "id": "arthi-arumugam-git/whatbroke",
-    "language": "TypeScript",
-    "name": "arthi-arumugam-git/whatbroke",
-    "stars": 1,
-    "updated_at": "2026-07-23T07:32:52Z",
-    "url": "https://github.com/arthi-arumugam-git/whatbroke"
   },
   {
     "description": "Open-source runtime authorization and evidence controls for AI agents.",
@@ -52,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T07:36:36Z",
     "url": "https://github.com/Gowrav-M/neuralops-platform"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54440,
-    "updated_at": "2026-07-23T07:38:39Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31697,
-    "updated_at": "2026-07-23T07:44:27Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "Portkey-AI/portkey-python-sdk",
     "stars": 117,
-    "updated_at": "2026-07-23T07:22:19Z",
+    "updated_at": "2026-07-23T07:26:51Z",
     "url": "https://github.com/Portkey-AI/portkey-python-sdk"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5637,
-    "updated_at": "2026-07-23T07:05:53Z",
+    "updated_at": "2026-07-23T07:47:18Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3413,
-    "updated_at": "2026-07-23T07:08:07Z",
+    "updated_at": "2026-07-23T07:50:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -193,18 +220,9 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10689,
+    "stars": 10690,
     "updated_at": "2026-07-23T06:42:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20785,
-    "updated_at": "2026-07-23T07:45:14Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -214,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T06:33:34Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2459,
-    "updated_at": "2026-07-23T06:32:30Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-23T07:24:13Z",
+    "updated_at": "2026-07-23T07:49:46Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -310,7 +319,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23517,
+    "stars": 23519,
     "updated_at": "2026-07-23T05:45:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -319,7 +328,7 @@
     "id": "cuihuan/awesome-ai-gateway",
     "language": "HTML",
     "name": "cuihuan/awesome-ai-gateway",
-    "stars": 63,
+    "stars": 64,
     "updated_at": "2026-07-23T05:36:53Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
@@ -374,7 +383,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 72,
-    "updated_at": "2026-07-23T06:32:27Z",
+    "updated_at": "2026-07-23T07:54:36Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T03:53:24Z",
     "url": "https://github.com/JumpMasters/tollgate"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-07-23T03:52:15Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
