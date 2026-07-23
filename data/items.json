@@ -1,21 +1,66 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10686,
-    "updated_at": "2026-07-23T05:14:22Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T05:28:45Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-23T05:28:39Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 1,
+    "updated_at": "2026-07-23T05:28:23Z",
+    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54423,
-    "updated_at": "2026-07-23T05:09:06Z",
+    "stars": 54425,
+    "updated_at": "2026-07-23T05:21:23Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 66,
+    "updated_at": "2026-07-23T05:20:31Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T05:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10686,
+    "updated_at": "2026-07-23T05:15:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -25,24 +70,6 @@
     "stars": 535,
     "updated_at": "2026-07-23T05:06:09Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:11:50Z",
-    "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:05:27Z",
-    "url": "https://github.com/wlsdks/reactor"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -72,15 +99,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T05:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
     "id": "alexejsailer/agentic-nets",
     "language": "TypeScript",
@@ -90,21 +108,12 @@
     "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-23T04:58:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
     "id": "project-arbr/arbr-control-plane",
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 4,
-    "updated_at": "2026-07-23T04:52:46Z",
+    "updated_at": "2026-07-23T05:24:43Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -130,7 +139,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29335,
+    "stars": 29336,
     "updated_at": "2026-07-23T04:46:21Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -256,7 +265,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31683,
+    "stars": 31685,
     "updated_at": "2026-07-23T03:33:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20783,
-    "updated_at": "2026-07-23T04:54:17Z",
+    "updated_at": "2026-07-23T05:29:17Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6710,
     "updated_at": "2026-07-23T00:16:53Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Multi-tenant LLM inference platform on GKE: OpenAI-compatible gateway with circuit-breaker failover (vLLM on spot GPU \u2192 ",
-    "id": "harshit-ojha0324/forge",
-    "language": "Python",
-    "name": "harshit-ojha0324/forge",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:12:46Z",
-    "url": "https://github.com/harshit-ojha0324/forge"
   }
 ]
