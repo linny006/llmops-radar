@@ -1,5 +1,68 @@
 [
   {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 66,
+    "updated_at": "2026-07-23T22:25:17Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T22:24:04Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
+    "id": "JumpMasters/tollgate",
+    "language": "Python",
+    "name": "JumpMasters/tollgate",
+    "stars": 0,
+    "updated_at": "2026-07-23T22:21:28Z",
+    "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54510,
+    "updated_at": "2026-07-23T22:18:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
+    "id": "bytebeast/check-endpoint",
+    "language": "Python",
+    "name": "bytebeast/check-endpoint",
+    "stars": 6,
+    "updated_at": "2026-07-23T22:18:21Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T22:16:00Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T22:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
     "id": "api-evangelist/dify",
     "language": "\u2014",
@@ -41,17 +104,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-23T22:13:36Z",
+    "updated_at": "2026-07-23T22:23:45Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T22:06:01Z",
-    "url": "https://github.com/wlsdks/reactor"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -72,33 +126,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54509,
-    "updated_at": "2026-07-23T22:00:55Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T22:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T22:11:43Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
     "id": "wjlgatech/FM-os",
     "language": "Python",
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 107,
-    "updated_at": "2026-07-23T21:57:05Z",
+    "updated_at": "2026-07-23T22:22:14Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 31743,
     "updated_at": "2026-07-23T21:40:54Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 66,
-    "updated_at": "2026-07-23T22:05:16Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10703,
-    "updated_at": "2026-07-23T22:15:12Z",
+    "updated_at": "2026-07-23T22:29:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6741,
-    "updated_at": "2026-07-23T21:02:59Z",
+    "updated_at": "2026-07-23T22:16:05Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 321,
-    "updated_at": "2026-07-23T21:50:33Z",
+    "updated_at": "2026-07-23T22:16:34Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T19:54:09Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
-    "id": "JumpMasters/tollgate",
-    "language": "Python",
-    "name": "JumpMasters/tollgate",
-    "stars": 0,
-    "updated_at": "2026-07-23T20:03:38Z",
-    "url": "https://github.com/JumpMasters/tollgate"
   },
   {
     "description": "Chat-based assistant that benchmarks llm-d from a plain-English goal: it interviews you, deploys an llm-d stack if neede",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T18:38:00Z",
     "url": "https://github.com/ahmeedatm/infer-router"
-  },
-  {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 4,
-    "updated_at": "2026-07-23T18:29:38Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   }
 ]
