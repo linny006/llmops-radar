@@ -1,11 +1,38 @@
 [
   {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T21:18:29Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
+    "id": "zhasouris/corgi-ai-gateway",
+    "language": "TypeScript",
+    "name": "zhasouris/corgi-ai-gateway",
+    "stars": 1,
+    "updated_at": "2026-07-23T21:17:02Z",
+    "url": "https://github.com/zhasouris/corgi-ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T21:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-23T21:15:09Z",
+    "updated_at": "2026-07-23T21:20:00Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -16,24 +43,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T21:09:49Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T21:08:00Z",
-    "url": "https://github.com/wlsdks/reactor"
-  },
-  {
-    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
-    "id": "zhasouris/corgi-ai-gateway",
-    "language": "TypeScript",
-    "name": "zhasouris/corgi-ai-gateway",
-    "stars": 1,
-    "updated_at": "2026-07-23T21:06:39Z",
-    "url": "https://github.com/zhasouris/corgi-ai-gateway"
   },
   {
     "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54509,
-    "updated_at": "2026-07-23T21:04:44Z",
+    "updated_at": "2026-07-23T21:19:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31742,
-    "updated_at": "2026-07-23T21:04:11Z",
+    "updated_at": "2026-07-23T21:18:56Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -86,17 +95,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10703,
-    "updated_at": "2026-07-23T21:00:36Z",
+    "updated_at": "2026-07-23T21:16:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T21:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -113,7 +113,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-23T20:56:12Z",
+    "updated_at": "2026-07-23T21:18:42Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
