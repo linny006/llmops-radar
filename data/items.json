@@ -1,5 +1,59 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20789,
+    "updated_at": "2026-07-23T09:29:25Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T09:24:22Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 317,
+    "updated_at": "2026-07-23T09:24:12Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31706,
+    "updated_at": "2026-07-23T09:29:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "OpenTelemetry + Wireshark + Cloudflare for AI Agents. Monitor, inspect, secure, replay, and optimize all traffic between",
+    "id": "qmmughal/AgentWire",
+    "language": "C#",
+    "name": "qmmughal/AgentWire",
+    "stars": 0,
+    "updated_at": "2026-07-23T09:16:05Z",
+    "url": "https://github.com/qmmughal/AgentWire"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T09:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build reliable, secure, and production-ready AI apps easily.",
     "id": "Portkey-AI/portkey-python-sdk",
     "language": "Python",
@@ -7,15 +61,6 @@
     "stars": 117,
     "updated_at": "2026-07-23T09:12:55Z",
     "url": "https://github.com/Portkey-AI/portkey-python-sdk"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31704,
-    "updated_at": "2026-07-23T09:09:12Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -27,13 +72,13 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T09:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "dataelement/bisheng",
+    "stars": 11748,
+    "updated_at": "2026-07-23T09:29:53Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-23T09:11:01Z",
+    "updated_at": "2026-07-23T09:15:52Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -72,30 +117,12 @@
     "url": "https://github.com/hanzala-bhutto/ApplySync"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20787,
-    "updated_at": "2026-07-23T08:54:30Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:53:38Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
     "id": "wlsdks/reactor",
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-23T09:12:01Z",
+    "updated_at": "2026-07-23T09:28:11Z",
     "url": "https://github.com/wlsdks/reactor"
   },
   {
@@ -104,8 +131,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3413,
-    "updated_at": "2026-07-23T08:55:11Z",
+    "updated_at": "2026-07-23T09:20:30Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
+    "id": "hyeonsangjeon/when-reasoning-pays-off",
+    "language": "Python",
+    "name": "hyeonsangjeon/when-reasoning-pays-off",
+    "stars": 4,
+    "updated_at": "2026-07-23T08:45:14Z",
+    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -122,7 +158,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6719,
-    "updated_at": "2026-07-23T09:01:28Z",
+    "updated_at": "2026-07-23T09:28:22Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -144,13 +180,13 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 4,
-    "updated_at": "2026-07-23T08:45:14Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-23T08:23:52Z",
+    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 72,
-    "updated_at": "2026-07-23T09:15:15Z",
+    "updated_at": "2026-07-23T09:24:25Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5638,
-    "updated_at": "2026-07-23T09:03:57Z",
+    "updated_at": "2026-07-23T09:03:58Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -230,7 +266,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2460,
-    "updated_at": "2026-07-23T09:09:44Z",
+    "updated_at": "2026-07-23T09:27:12Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1282,
-    "updated_at": "2026-07-23T09:02:05Z",
+    "updated_at": "2026-07-23T09:17:48Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T07:35:55Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-23T08:23:52Z",
-    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -324,15 +351,6 @@
     "url": "https://github.com/zhasouris/llm-model-router"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11747,
-    "updated_at": "2026-07-23T09:00:34Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -373,7 +391,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10690,
+    "stars": 10693,
     "updated_at": "2026-07-23T06:42:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -430,23 +448,5 @@
     "stars": 23520,
     "updated_at": "2026-07-23T05:45:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 64,
-    "updated_at": "2026-07-23T05:36:53Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-23T05:28:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   }
 ]
