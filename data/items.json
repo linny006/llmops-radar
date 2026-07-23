@@ -1,5 +1,122 @@
 [
   {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T12:58:33Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
+    "id": "zhasouris/corgi-ai-gateway",
+    "language": "TypeScript",
+    "name": "zhasouris/corgi-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:57:47Z",
+    "url": "https://github.com/zhasouris/corgi-ai-gateway"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20796,
+    "updated_at": "2026-07-23T12:58:06Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31720,
+    "updated_at": "2026-07-23T13:00:15Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-07-23T12:56:48Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-07-23T12:56:35Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-23T12:56:22Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-23T12:55:57Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3415,
+    "updated_at": "2026-07-23T12:51:57Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
+    "id": "wjlgatech/FM-os",
+    "language": "Python",
+    "name": "wjlgatech/FM-os",
+    "stars": 2,
+    "updated_at": "2026-07-23T12:51:04Z",
+    "url": "https://github.com/wjlgatech/FM-os"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T12:57:08Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-23T12:55:29Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T12:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -9,15 +126,6 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
-    "id": "zhasouris/corgi-ai-gateway",
-    "language": "TypeScript",
-    "name": "zhasouris/corgi-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:43:12Z",
-    "url": "https://github.com/zhasouris/corgi-ai-gateway"
-  },
-  {
     "description": "OpenTelemetry + Wireshark + Cloudflare for AI Agents. Monitor, inspect, secure, replay, and optimize all traffic between",
     "id": "qmmughal/AgentWire",
     "language": "C#",
@@ -25,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-07-23T12:41:23Z",
     "url": "https://github.com/qmmughal/AgentWire"
-  },
-  {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T12:41:04Z",
-    "url": "https://github.com/wlsdks/reactor"
   },
   {
     "description": "Self-hosted LLM observability & cost tracking for AI agents. Real-time dashboard for token usage, latency & spend across",
@@ -50,17 +149,8 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 4,
-    "updated_at": "2026-07-23T12:37:19Z",
+    "updated_at": "2026-07-23T12:58:55Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20796,
-    "updated_at": "2026-07-23T12:36:50Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -81,13 +171,13 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T12:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3105,
+    "updated_at": "2026-07-23T12:31:16Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -126,15 +216,6 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31718,
-    "updated_at": "2026-07-23T12:42:07Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -142,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T12:23:34Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-23T12:45:19Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T12:43:24Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Test your LLM outputs like code: deterministic + semantic + grounding + LLM-as-judge scorers, suite runner with precisio",
@@ -205,15 +268,6 @@
     "stars": 6727,
     "updated_at": "2026-07-23T12:03:09Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3414,
-    "updated_at": "2026-07-23T12:28:28Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -302,7 +356,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 318,
-    "updated_at": "2026-07-23T12:43:00Z",
+    "updated_at": "2026-07-23T12:59:23Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -382,7 +436,7 @@
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
     "name": "xlabs-club/awesome-x-ops",
-    "stars": 27,
+    "stars": 28,
     "updated_at": "2026-07-23T10:06:10Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-23T10:05:23Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Turn Portkey & Langsmith data into OTEL signals",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-07-23T09:51:07Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1282,
-    "updated_at": "2026-07-23T12:40:01Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Build reliable, secure, and production-ready AI apps easily.",
-    "id": "Portkey-AI/portkey-python-sdk",
-    "language": "Python",
-    "name": "Portkey-AI/portkey-python-sdk",
-    "stars": 117,
-    "updated_at": "2026-07-23T09:12:55Z",
-    "url": "https://github.com/Portkey-AI/portkey-python-sdk"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-07-23T09:06:52Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "An email-driven job application tracker that pulls your applications out of your inbox and into one place, no matter whi",
-    "id": "hanzala-bhutto/ApplySync",
-    "language": "Python",
-    "name": "hanzala-bhutto/ApplySync",
-    "stars": 1,
-    "updated_at": "2026-07-23T09:40:20Z",
-    "url": "https://github.com/hanzala-bhutto/ApplySync"
-  },
-  {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 4,
-    "updated_at": "2026-07-23T08:45:14Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   }
 ]
