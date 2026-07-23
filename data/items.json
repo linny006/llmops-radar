@@ -1,12 +1,21 @@
 [
   {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T15:11:40Z",
-    "url": "https://github.com/wlsdks/reactor"
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-23T15:26:58Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6731,
+    "updated_at": "2026-07-23T15:28:20Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-23T15:10:47Z",
+    "updated_at": "2026-07-23T15:30:13Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -23,35 +32,35 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 1,
-    "updated_at": "2026-07-23T15:09:40Z",
+    "updated_at": "2026-07-23T15:29:52Z",
     "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T15:22:29Z",
+    "url": "https://github.com/wlsdks/reactor"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31730,
-    "updated_at": "2026-07-23T15:12:28Z",
+    "stars": 31731,
+    "updated_at": "2026-07-23T15:28:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-23T15:08:50Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
     "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-23T15:08:10Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T15:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -61,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T15:13:10Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-07-23T15:08:10Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -81,15 +99,6 @@
     "url": "https://github.com/apache/burr"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6731,
-    "updated_at": "2026-07-23T15:04:44Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
     "id": "systempromptio/systemprompt-demo",
     "language": "Rust",
@@ -104,17 +113,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10698,
-    "updated_at": "2026-07-23T15:02:50Z",
+    "updated_at": "2026-07-23T15:23:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T15:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20797,
-    "updated_at": "2026-07-23T15:06:58Z",
+    "updated_at": "2026-07-23T15:20:36Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 318,
-    "updated_at": "2026-07-23T15:04:36Z",
+    "updated_at": "2026-07-23T15:19:30Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-23T15:13:09Z",
+    "updated_at": "2026-07-23T15:30:22Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -221,7 +221,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1283,
-    "updated_at": "2026-07-23T15:04:05Z",
+    "updated_at": "2026-07-23T15:18:56Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -256,7 +256,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54485,
+    "stars": 54488,
     "updated_at": "2026-07-23T14:18:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -383,7 +383,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23529,
-    "updated_at": "2026-07-23T13:16:46Z",
+    "updated_at": "2026-07-23T15:17:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -437,7 +437,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3415,
-    "updated_at": "2026-07-23T15:08:36Z",
+    "updated_at": "2026-07-23T15:27:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
