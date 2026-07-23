@@ -1,20 +1,11 @@
 [
   {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-07-23T13:58:10Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
     "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
     "id": "wlsdks/reactor",
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-23T13:56:37Z",
+    "updated_at": "2026-07-23T14:13:14Z",
     "url": "https://github.com/wlsdks/reactor"
   },
   {
@@ -23,8 +14,62 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-23T13:57:20Z",
+    "updated_at": "2026-07-23T14:15:24Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "An email-driven job application tracker that pulls your applications out of your inbox and into one place, no matter whi",
+    "id": "hanzala-bhutto/ApplySync",
+    "language": "Python",
+    "name": "hanzala-bhutto/ApplySync",
+    "stars": 1,
+    "updated_at": "2026-07-23T14:08:08Z",
+    "url": "https://github.com/hanzala-bhutto/ApplySync"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T14:06:48Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 1,
+    "updated_at": "2026-07-23T14:02:20Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31727,
+    "updated_at": "2026-07-23T14:13:28Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T14:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-07-23T13:58:10Z",
+    "url": "https://github.com/runcycles/cycles-docs"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -45,40 +90,13 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T13:50:20Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20798,
-    "updated_at": "2026-07-23T13:56:50Z",
+    "updated_at": "2026-07-23T14:13:31Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31727,
-    "updated_at": "2026-07-23T13:55:17Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T13:48:53Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
@@ -95,7 +113,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-07-23T13:49:13Z",
+    "updated_at": "2026-07-23T14:12:12Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "zhasouris/corgi-ai-gateway",
     "stars": 0,
-    "updated_at": "2026-07-23T13:36:37Z",
+    "updated_at": "2026-07-23T14:14:00Z",
     "url": "https://github.com/zhasouris/corgi-ai-gateway"
   },
   {
@@ -211,7 +229,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23525,
+    "stars": 23527,
     "updated_at": "2026-07-23T13:16:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 318,
-    "updated_at": "2026-07-23T13:57:44Z",
+    "updated_at": "2026-07-23T14:13:11Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3415,
-    "updated_at": "2026-07-23T13:57:41Z",
+    "updated_at": "2026-07-23T14:14:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10697,
-    "updated_at": "2026-07-23T13:54:48Z",
+    "updated_at": "2026-07-23T14:08:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-23T13:51:12Z",
+    "updated_at": "2026-07-23T14:13:54Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -329,7 +347,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3105,
-    "updated_at": "2026-07-23T13:55:18Z",
+    "updated_at": "2026-07-23T14:05:39Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-07-23T11:27:04Z",
     "url": "https://github.com/voly-codes/voly"
-  },
-  {
-    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
-    "id": "taishan666/MaxKB4j",
-    "language": "Java",
-    "name": "taishan666/MaxKB4j",
-    "stars": 112,
-    "updated_at": "2026-07-23T11:16:16Z",
-    "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
-    "description": "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e",
-    "id": "Ambuj123-lab/agentic-rag-financial-parser",
-    "language": "Python",
-    "name": "Ambuj123-lab/agentic-rag-financial-parser",
-    "stars": 64,
-    "updated_at": "2026-07-23T11:07:29Z",
-    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
   }
 ]
