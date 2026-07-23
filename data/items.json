@@ -1,5 +1,50 @@
 [
   {
+    "description": "Build reliable, secure, and production-ready AI apps easily.",
+    "id": "Portkey-AI/portkey-python-sdk",
+    "language": "Python",
+    "name": "Portkey-AI/portkey-python-sdk",
+    "stars": 117,
+    "updated_at": "2026-07-23T09:12:55Z",
+    "url": "https://github.com/Portkey-AI/portkey-python-sdk"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31704,
+    "updated_at": "2026-07-23T09:09:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-23T09:06:52Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T09:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-23T09:11:01Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -9,58 +54,13 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-07-23T08:53:38Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31700,
-    "updated_at": "2026-07-23T08:53:26Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:53:02Z",
-    "url": "https://github.com/wlsdks/reactor"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3413,
-    "updated_at": "2026-07-23T08:55:11Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T08:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6719,
-    "updated_at": "2026-07-23T08:32:54Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "updated_at": "2026-07-23T08:57:56Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "An email-driven job application tracker that pulls your applications out of your inbox and into one place, no matter whi",
@@ -76,9 +76,63 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20786,
-    "updated_at": "2026-07-23T08:54:14Z",
+    "stars": 20787,
+    "updated_at": "2026-07-23T08:54:30Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T08:53:38Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T09:12:01Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3413,
+    "updated_at": "2026-07-23T08:55:11Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-07-23T08:42:33Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6719,
+    "updated_at": "2026-07-23T09:01:28Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-23T08:26:47Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -113,8 +167,17 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 72,
-    "updated_at": "2026-07-23T08:59:11Z",
+    "updated_at": "2026-07-23T09:15:15Z",
     "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Diff your AI agent's behavior between two runs. See exactly which tool calls, args, costs and outputs changed when you s",
+    "id": "arthi-arumugam-git/whatbroke",
+    "language": "TypeScript",
+    "name": "arthi-arumugam-git/whatbroke",
+    "stars": 1,
+    "updated_at": "2026-07-23T08:16:11Z",
+    "url": "https://github.com/arthi-arumugam-git/whatbroke"
   },
   {
     "description": "AI systems observability platform for tracing, evaluating, and debugging LLM applications, agents, and RAG pipelines.",
@@ -124,6 +187,15 @@
     "stars": 0,
     "updated_at": "2026-07-23T08:15:07Z",
     "url": "https://github.com/Roshan3580/Helios"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-23T08:13:33Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
@@ -140,7 +212,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5638,
-    "updated_at": "2026-07-23T08:05:54Z",
+    "updated_at": "2026-07-23T09:03:57Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -153,21 +225,12 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Diff your AI agent's behavior between two runs. See exactly which tool calls, args, costs and outputs changed when you s",
-    "id": "arthi-arumugam-git/whatbroke",
-    "language": "TypeScript",
-    "name": "arthi-arumugam-git/whatbroke",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:16:11Z",
-    "url": "https://github.com/arthi-arumugam-git/whatbroke"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2460,
-    "updated_at": "2026-07-23T08:51:34Z",
+    "updated_at": "2026-07-23T09:09:44Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -176,7 +239,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1282,
-    "updated_at": "2026-07-23T08:58:15Z",
+    "updated_at": "2026-07-23T09:02:05Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -252,15 +315,6 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "Build reliable, secure, and production-ready AI apps easily.",
-    "id": "Portkey-AI/portkey-python-sdk",
-    "language": "Python",
-    "name": "Portkey-AI/portkey-python-sdk",
-    "stars": 117,
-    "updated_at": "2026-07-23T07:37:43Z",
-    "url": "https://github.com/Portkey-AI/portkey-python-sdk"
-  },
-  {
     "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
     "id": "zhasouris/llm-model-router",
     "language": "TypeScript",
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11747,
-    "updated_at": "2026-07-23T08:34:54Z",
+    "updated_at": "2026-07-23T09:00:34Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -315,15 +369,6 @@
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-23T08:13:33Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -331,15 +376,6 @@
     "stars": 10690,
     "updated_at": "2026-07-23T06:42:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-07-23T06:33:34Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -378,15 +414,6 @@
     "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:51:54Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 16,
     "updated_at": "2026-07-23T05:28:39Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
-    "id": "Fast-Editor/Lynkr",
-    "language": "JavaScript",
-    "name": "Fast-Editor/Lynkr",
-    "stars": 535,
-    "updated_at": "2026-07-23T05:06:09Z",
-    "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-23T06:10:51Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 6,
-    "updated_at": "2026-07-23T04:58:36Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
   }
 ]
