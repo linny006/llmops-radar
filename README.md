@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 11:45 UTC
+> ⏰ Last updated: 2026-07-23 11:48 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3413 | TypeScript | 2026-07-23 | The platform for LLM evaluations and AI agent testing |
-| 2 | [api7/aisix](https://github.com/api7/aisix) | 72 | Rust | 2026-07-23 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
-| 3 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5639 | Go | 2026-07-23 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
-| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31716 | TypeScript | 2026-07-23 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 5 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2461 | C++ | 2026-07-23 | Community maintained hardware plugin for vLLM on Ascend |
-| 6 | [mikitadaroshkin/agentic-rag-evals](https://github.com/mikitadaroshkin/agentic-rag-evals) | 0 | Python | 2026-07-23 | Reference implementation of an evaluation-driven agentic RAG pipeline: LangGraph orchestration, hybrid retrieval, LLM-as |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-07-23 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 9 | [project-arbr/arbr-control-plane](https://github.com/project-arbr/arbr-control-plane) | 4 | JavaScript | 2026-07-23 | Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing |
-| 10 | [voly-codes/voly](https://github.com/voly-codes/voly) | 10 | Python | 2026-07-23 | Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and  |
-| 11 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20795 | Python | 2026-07-23 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 12 | [wlsdks/reactor](https://github.com/wlsdks/reactor) | 1 | Python | 2026-07-23 | Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work |
-| 13 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6724 | Go | 2026-07-23 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 1 | [wlsdks/reactor](https://github.com/wlsdks/reactor) | 1 | Python | 2026-07-23 | Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-07-23 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
+| 4 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3413 | TypeScript | 2026-07-23 | The platform for LLM evaluations and AI agent testing |
+| 5 | [api7/aisix](https://github.com/api7/aisix) | 72 | Rust | 2026-07-23 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
+| 6 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5639 | Go | 2026-07-23 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
+| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31716 | TypeScript | 2026-07-23 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 8 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2461 | C++ | 2026-07-23 | Community maintained hardware plugin for vLLM on Ascend |
+| 9 | [mikitadaroshkin/agentic-rag-evals](https://github.com/mikitadaroshkin/agentic-rag-evals) | 0 | Python | 2026-07-23 | Reference implementation of an evaluation-driven agentic RAG pipeline: LangGraph orchestration, hybrid retrieval, LLM-as |
+| 10 | [project-arbr/arbr-control-plane](https://github.com/project-arbr/arbr-control-plane) | 4 | JavaScript | 2026-07-23 | Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing |
+| 11 | [voly-codes/voly](https://github.com/voly-codes/voly) | 10 | Python | 2026-07-23 | Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and  |
+| 12 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20795 | Python | 2026-07-23 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 13 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6725 | Go | 2026-07-23 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 14 | [taishan666/MaxKB4j](https://github.com/taishan666/MaxKB4j) | 112 | Java | 2026-07-23 | MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th |
 | 15 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-07-23 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 16 | [Ambuj123-lab/agentic-rag-financial-parser](https://github.com/Ambuj123-lab/agentic-rag-financial-parser) | 64 | Python | 2026-07-23 | Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e |
