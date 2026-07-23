@@ -1,12 +1,39 @@
 [
   {
-    "description": "Real-time voice AI infrastructure \u2014 500+ concurrent calls, WebSockets, Apache Kafka, gRPC/C++ with CUDA. Speech-to-text,",
-    "id": "rehan243/Voice-AI-Platform",
-    "language": "Python",
-    "name": "rehan243/Voice-AI-Platform",
+    "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
+    "id": "Neeeophytee/awesome-ai-workflows",
+    "language": "Shell",
+    "name": "Neeeophytee/awesome-ai-workflows",
+    "stars": 21,
+    "updated_at": "2026-07-23T16:12:40Z",
+    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 2,
+    "updated_at": "2026-07-23T16:12:24Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
+    "id": "evilstar2016/skill-doctor",
+    "language": "TypeScript",
+    "name": "evilstar2016/skill-doctor",
     "stars": 0,
-    "updated_at": "2026-07-23T15:57:28Z",
-    "url": "https://github.com/rehan243/Voice-AI-Platform"
+    "updated_at": "2026-07-23T16:12:02Z",
+    "url": "https://github.com/evilstar2016/skill-doctor"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-23T16:11:44Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-23T15:58:57Z",
+    "updated_at": "2026-07-23T16:15:13Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -23,7 +50,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6735,
-    "updated_at": "2026-07-23T15:58:13Z",
+    "updated_at": "2026-07-23T16:09:53Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -32,8 +59,62 @@
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-23T15:54:12Z",
+    "updated_at": "2026-07-23T16:09:42Z",
     "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 29,
+    "updated_at": "2026-07-23T16:04:51Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T16:02:34Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-07-23T16:02:00Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-23T16:01:42Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T16:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Real-time voice AI infrastructure \u2014 500+ concurrent calls, WebSockets, Apache Kafka, gRPC/C++ with CUDA. Speech-to-text,",
+    "id": "rehan243/Voice-AI-Platform",
+    "language": "Python",
+    "name": "rehan243/Voice-AI-Platform",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:57:28Z",
+    "url": "https://github.com/rehan243/Voice-AI-Platform"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -50,17 +131,8 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 1,
-    "updated_at": "2026-07-23T15:58:24Z",
+    "updated_at": "2026-07-23T16:12:34Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T15:52:42Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -95,17 +167,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31732,
-    "updated_at": "2026-07-23T15:58:11Z",
+    "updated_at": "2026-07-23T16:13:14Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T15:57:22Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10699,
-    "updated_at": "2026-07-23T15:59:23Z",
+    "updated_at": "2026-07-23T16:12:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -140,7 +203,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3106,
-    "updated_at": "2026-07-23T15:30:57Z",
+    "updated_at": "2026-07-23T16:01:32Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-23T16:00:09Z",
+    "updated_at": "2026-07-23T16:12:28Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20798,
-    "updated_at": "2026-07-23T15:56:56Z",
+    "updated_at": "2026-07-23T16:07:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -207,24 +270,6 @@
     "url": "https://github.com/apache/burr"
   },
   {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 2,
-    "updated_at": "2026-07-23T15:03:52Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-23T14:58:44Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -234,21 +279,12 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-07-23T14:50:24Z",
-    "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
     "id": "Bobcatsfan33/AI-Security-Platform",
     "language": "Python",
     "name": "Bobcatsfan33/AI-Security-Platform",
     "stars": 1,
-    "updated_at": "2026-07-23T14:44:39Z",
+    "updated_at": "2026-07-23T16:02:52Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
@@ -292,7 +328,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29337,
+    "stars": 29338,
     "updated_at": "2026-07-23T14:28:52Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -328,7 +364,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54491,
+    "stars": 54494,
     "updated_at": "2026-07-23T14:18:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -346,7 +382,7 @@
     "id": "zhasouris/corgi-ai-gateway",
     "language": "TypeScript",
     "name": "zhasouris/corgi-ai-gateway",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-23T14:14:00Z",
     "url": "https://github.com/zhasouris/corgi-ai-gateway"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-23T13:25:34Z",
     "url": "https://github.com/wjlgatech/FM-os"
-  },
-  {
-    "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
-    "id": "ahmeedatm/infer-router",
-    "language": "Python",
-    "name": "ahmeedatm/infer-router",
-    "stars": 0,
-    "updated_at": "2026-07-23T13:23:07Z",
-    "url": "https://github.com/ahmeedatm/infer-router"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-23T13:19:30Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5513,
-    "updated_at": "2026-07-23T15:31:24Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 4,
-    "updated_at": "2026-07-23T12:58:55Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
   }
 ]
