@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31715,
-    "updated_at": "2026-07-23T11:00:11Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "langwatch/langwatch",
+    "stars": 3413,
+    "updated_at": "2026-07-23T11:14:33Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Reference implementation of an evaluation-driven agentic RAG pipeline: LangGraph orchestration, hybrid retrieval, LLM-as",
+    "id": "mikitadaroshkin/agentic-rag-evals",
+    "language": "Python",
+    "name": "mikitadaroshkin/agentic-rag-evals",
+    "stars": 0,
+    "updated_at": "2026-07-23T11:13:32Z",
+    "url": "https://github.com/mikitadaroshkin/agentic-rag-evals"
+  },
+  {
+    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
+    "id": "taishan666/MaxKB4j",
+    "language": "Java",
+    "name": "taishan666/MaxKB4j",
+    "stars": 112,
+    "updated_at": "2026-07-23T11:08:51Z",
+    "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
     "description": "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e",
@@ -14,8 +32,71 @@
     "language": "Python",
     "name": "Ambuj123-lab/agentic-rag-financial-parser",
     "stars": 64,
-    "updated_at": "2026-07-23T10:54:47Z",
+    "updated_at": "2026-07-23T11:07:29Z",
     "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31716,
+    "updated_at": "2026-07-23T11:12:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T11:05:49Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T11:03:23Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 4,
+    "updated_at": "2026-07-23T11:10:43Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-23T11:01:11Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T11:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 318,
+    "updated_at": "2026-07-23T10:56:58Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -32,7 +113,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6723,
-    "updated_at": "2026-07-23T10:54:12Z",
+    "updated_at": "2026-07-23T11:08:19Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20792,
-    "updated_at": "2026-07-23T10:53:14Z",
+    "updated_at": "2026-07-23T11:13:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -90,15 +171,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T10:48:03Z",
-    "url": "https://github.com/wlsdks/reactor"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -106,15 +178,6 @@
     "stars": 16,
     "updated_at": "2026-07-23T10:47:52Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T10:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -180,30 +243,12 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T10:58:21Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3413,
-    "updated_at": "2026-07-23T10:58:26Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11746,
-    "updated_at": "2026-07-23T11:00:23Z",
+    "updated_at": "2026-07-23T11:07:22Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -212,7 +257,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2461,
-    "updated_at": "2026-07-23T10:17:59Z",
+    "updated_at": "2026-07-23T11:14:16Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -266,17 +311,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1282,
-    "updated_at": "2026-07-23T10:50:04Z",
+    "updated_at": "2026-07-23T11:15:07Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 318,
-    "updated_at": "2026-07-23T10:56:58Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -347,7 +383,7 @@
     "language": "HTML",
     "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "stars": 0,
-    "updated_at": "2026-07-23T08:26:47Z",
+    "updated_at": "2026-07-23T11:07:46Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-23T08:13:33Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54457,
-    "updated_at": "2026-07-23T07:55:47Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source runtime authorization and evidence controls for AI agents.",
-    "id": "Gowrav-M/neuralops-platform",
-    "language": "Python",
-    "name": "Gowrav-M/neuralops-platform",
-    "stars": 0,
-    "updated_at": "2026-07-23T07:36:36Z",
-    "url": "https://github.com/Gowrav-M/neuralops-platform"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-23T07:32:20Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 48,
-    "updated_at": "2026-07-23T07:29:33Z",
-    "url": "https://github.com/sxueck/llm-gateway"
   }
 ]
