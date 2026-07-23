@@ -1,12 +1,93 @@
 [
   {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-23T12:44:07Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
+    "id": "zhasouris/corgi-ai-gateway",
+    "language": "TypeScript",
+    "name": "zhasouris/corgi-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:43:12Z",
+    "url": "https://github.com/zhasouris/corgi-ai-gateway"
+  },
+  {
+    "description": "OpenTelemetry + Wireshark + Cloudflare for AI Agents. Monitor, inspect, secure, replay, and optimize all traffic between",
+    "id": "qmmughal/AgentWire",
+    "language": "C#",
+    "name": "qmmughal/AgentWire",
+    "stars": 4,
+    "updated_at": "2026-07-23T12:41:23Z",
+    "url": "https://github.com/qmmughal/AgentWire"
+  },
+  {
     "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
     "id": "wlsdks/reactor",
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-23T12:29:49Z",
+    "updated_at": "2026-07-23T12:41:04Z",
     "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "Self-hosted LLM observability & cost tracking for AI agents. Real-time dashboard for token usage, latency & spend across",
+    "id": "manijose1919/agent-ops-local",
+    "language": "Python",
+    "name": "manijose1919/agent-ops-local",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:39:55Z",
+    "url": "https://github.com/manijose1919/agent-ops-local"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 4,
+    "updated_at": "2026-07-23T12:37:19Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20796,
+    "updated_at": "2026-07-23T12:36:50Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2461,
+    "updated_at": "2026-07-23T12:33:58Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 48,
+    "updated_at": "2026-07-23T12:33:20Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T12:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -25,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T12:26:12Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-23T12:27:56Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -59,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31718,
-    "updated_at": "2026-07-23T12:28:00Z",
+    "updated_at": "2026-07-23T12:42:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -72,21 +144,12 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2461,
-    "updated_at": "2026-07-23T12:29:05Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-23T12:21:07Z",
+    "updated_at": "2026-07-23T12:45:19Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-23T12:20:36Z",
+    "updated_at": "2026-07-23T12:43:24Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -106,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T12:18:27Z",
     "url": "https://github.com/Nizarassad/llm-eval-kit"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T12:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Self-hosted LLM observability & cost tracking for AI agents. Real-time dashboard for token usage, latency & spend across",
-    "id": "manijose1919/agent-ops-local",
-    "language": "Python",
-    "name": "manijose1919/agent-ops-local",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:14:47Z",
-    "url": "https://github.com/manijose1919/agent-ops-local"
   },
   {
     "description": "Reference implementation of an evaluation-driven agentic RAG pipeline: LangGraph orchestration, hybrid retrieval, LLM-as",
@@ -157,7 +202,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6726,
+    "stars": 6727,
     "updated_at": "2026-07-23T12:03:09Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -185,7 +230,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-23T12:21:26Z",
+    "updated_at": "2026-07-23T12:45:05Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 16,
     "updated_at": "2026-07-23T11:54:46Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20795,
-    "updated_at": "2026-07-23T12:06:33Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -221,17 +257,8 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5639,
-    "updated_at": "2026-07-23T11:35:39Z",
+    "updated_at": "2026-07-23T12:37:32Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 4,
-    "updated_at": "2026-07-23T12:24:01Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 318,
-    "updated_at": "2026-07-23T10:56:58Z",
+    "updated_at": "2026-07-23T12:43:00Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -333,21 +360,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
-    "id": "zhasouris/corgi-ai-gateway",
-    "language": "TypeScript",
-    "name": "zhasouris/corgi-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-07-23T10:29:44Z",
-    "url": "https://github.com/zhasouris/corgi-ai-gateway"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11746,
-    "updated_at": "2026-07-23T12:28:42Z",
+    "updated_at": "2026-07-23T12:42:32Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -392,17 +410,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1282,
-    "updated_at": "2026-07-23T11:25:33Z",
+    "updated_at": "2026-07-23T12:40:01Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "OpenTelemetry + Wireshark + Cloudflare for AI Agents. Monitor, inspect, secure, replay, and optimize all traffic between",
-    "id": "qmmughal/AgentWire",
-    "language": "C#",
-    "name": "qmmughal/AgentWire",
-    "stars": 4,
-    "updated_at": "2026-07-23T09:16:05Z",
-    "url": "https://github.com/qmmughal/AgentWire"
   },
   {
     "description": "Build reliable, secure, and production-ready AI apps easily.",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-23T08:45:14Z",
     "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-07-23T08:42:33Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   }
 ]
