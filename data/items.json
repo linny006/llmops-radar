@@ -1,5 +1,77 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27181,
+    "updated_at": "2026-07-23T17:14:29Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
+    "id": "hyeonsangjeon/when-reasoning-pays-off",
+    "language": "Python",
+    "name": "hyeonsangjeon/when-reasoning-pays-off",
+    "stars": 4,
+    "updated_at": "2026-07-23T17:12:15Z",
+    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
+  },
+  {
+    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
+    "id": "zhasouris/corgi-ai-gateway",
+    "language": "TypeScript",
+    "name": "zhasouris/corgi-ai-gateway",
+    "stars": 1,
+    "updated_at": "2026-07-23T17:11:43Z",
+    "url": "https://github.com/zhasouris/corgi-ai-gateway"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-23T17:08:55Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10700,
+    "updated_at": "2026-07-23T17:08:31Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31736,
+    "updated_at": "2026-07-23T17:13:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T17:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1109,
+    "updated_at": "2026-07-23T17:04:10Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -18,31 +90,22 @@
     "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54497,
+    "updated_at": "2026-07-23T16:56:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-23T16:59:20Z",
+    "updated_at": "2026-07-23T17:15:21Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27181,
-    "updated_at": "2026-07-23T16:55:26Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31734,
-    "updated_at": "2026-07-23T16:54:07Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -59,26 +122,8 @@
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-23T17:00:14Z",
+    "updated_at": "2026-07-23T17:09:03Z",
     "url": "https://github.com/wlsdks/reactor"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54496,
-    "updated_at": "2026-07-23T16:56:03Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-23T16:50:17Z",
-    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 319,
-    "updated_at": "2026-07-23T16:48:05Z",
+    "updated_at": "2026-07-23T17:08:09Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T16:47:14Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T16:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-23T16:50:10Z",
+    "updated_at": "2026-07-23T17:14:07Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6737,
-    "updated_at": "2026-07-23T16:35:57Z",
+    "updated_at": "2026-07-23T17:13:45Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -153,24 +189,6 @@
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1109,
-    "updated_at": "2026-07-23T17:00:22Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10699,
-    "updated_at": "2026-07-23T16:55:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -178,15 +196,6 @@
     "stars": 16,
     "updated_at": "2026-07-23T16:24:40Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
-    "id": "zhasouris/corgi-ai-gateway",
-    "language": "TypeScript",
-    "name": "zhasouris/corgi-ai-gateway",
-    "stars": 1,
-    "updated_at": "2026-07-23T16:21:39Z",
-    "url": "https://github.com/zhasouris/corgi-ai-gateway"
   },
   {
     "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-23T16:58:33Z",
+    "updated_at": "2026-07-23T17:07:14Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T14:21:31Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 0,
-    "updated_at": "2026-07-23T14:15:40Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
   }
 ]
