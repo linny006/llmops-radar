@@ -1,11 +1,74 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27173,
+    "updated_at": "2026-07-23T07:43:27Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6716,
+    "updated_at": "2026-07-23T07:39:35Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-23T07:35:02Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T07:33:34Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "Diff your AI agent's behavior between two runs. See exactly which tool calls, args, costs and outputs changed when you s",
+    "id": "arthi-arumugam-git/whatbroke",
+    "language": "TypeScript",
+    "name": "arthi-arumugam-git/whatbroke",
+    "stars": 1,
+    "updated_at": "2026-07-23T07:32:52Z",
+    "url": "https://github.com/arthi-arumugam-git/whatbroke"
+  },
+  {
+    "description": "Open-source runtime authorization and evidence controls for AI agents.",
+    "id": "Gowrav-M/neuralops-platform",
+    "language": "Python",
+    "name": "Gowrav-M/neuralops-platform",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:36:36Z",
+    "url": "https://github.com/Gowrav-M/neuralops-platform"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54440,
+    "updated_at": "2026-07-23T07:38:39Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31696,
-    "updated_at": "2026-07-23T07:26:59Z",
+    "stars": 31697,
+    "updated_at": "2026-07-23T07:44:27Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -36,15 +99,6 @@
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T07:16:30Z",
-    "url": "https://github.com/wlsdks/reactor"
-  },
-  {
     "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
     "id": "zhasouris/llm-model-router",
     "language": "TypeScript",
@@ -70,15 +124,6 @@
     "stars": 75,
     "updated_at": "2026-07-23T07:08:07Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-23T07:07:12Z",
-    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
@@ -108,15 +153,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Diff your AI agent's behavior between two runs. See exactly which tool calls, args, costs and outputs changed when you s",
-    "id": "arthi-arumugam-git/whatbroke",
-    "language": "TypeScript",
-    "name": "arthi-arumugam-git/whatbroke",
-    "stars": 1,
-    "updated_at": "2026-07-23T07:03:41Z",
-    "url": "https://github.com/arthi-arumugam-git/whatbroke"
-  },
-  {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
     "id": "scttfrdmn/hf-bedrock-map",
     "language": "Go",
@@ -144,21 +180,12 @@
     "url": "https://github.com/seaworld008/aiops-system"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54439,
-    "updated_at": "2026-07-23T07:27:19Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-07-23T07:14:36Z",
+    "updated_at": "2026-07-23T07:17:42Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
@@ -171,21 +198,12 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6714,
-    "updated_at": "2026-07-23T07:29:13Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20785,
-    "updated_at": "2026-07-23T07:29:48Z",
+    "updated_at": "2026-07-23T07:45:14Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-23T07:13:35Z",
+    "updated_at": "2026-07-23T07:32:19Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 18,
     "updated_at": "2026-07-23T06:07:55Z",
     "url": "https://github.com/ProofAgent-ai/proofagent-harness"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27172,
-    "updated_at": "2026-07-23T06:07:32Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -293,7 +302,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 39,
-    "updated_at": "2026-07-23T05:50:19Z",
+    "updated_at": "2026-07-23T07:41:26Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-23T03:52:15Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-23T03:45:47Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
