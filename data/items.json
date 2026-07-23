@@ -1,12 +1,48 @@
 [
   {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T11:46:08Z",
-    "url": "https://github.com/wlsdks/reactor"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3414,
+    "updated_at": "2026-07-23T11:59:26Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-23T11:58:18Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-23T11:54:54Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-23T11:52:21Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-07-23T11:54:46Z",
+    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 4,
-    "updated_at": "2026-07-23T11:45:27Z",
+    "updated_at": "2026-07-23T11:48:52Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20795,
+    "updated_at": "2026-07-23T11:59:41Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T11:57:52Z",
+    "url": "https://github.com/wlsdks/reactor"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T11:43:56Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3413,
-    "updated_at": "2026-07-23T11:45:38Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -59,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31716,
-    "updated_at": "2026-07-23T11:48:43Z",
+    "updated_at": "2026-07-23T11:57:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -99,21 +144,12 @@
     "url": "https://github.com/voly-codes/voly"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20795,
-    "updated_at": "2026-07-23T11:47:59Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6725,
-    "updated_at": "2026-07-23T11:20:19Z",
+    "updated_at": "2026-07-23T11:54:03Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -144,15 +180,6 @@
     "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-23T11:48:08Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -180,15 +207,6 @@
     "url": "https://github.com/srjn45/warden"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-23T10:50:21Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -214,15 +232,6 @@
     "stars": 16,
     "updated_at": "2026-07-23T10:48:46Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-07-23T10:47:52Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -256,7 +265,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27176,
+    "stars": 27177,
     "updated_at": "2026-07-23T10:33:26Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-23T10:18:58Z",
+    "updated_at": "2026-07-23T11:58:33Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -437,16 +446,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 48,
-    "updated_at": "2026-07-23T08:17:49Z",
+    "updated_at": "2026-07-23T11:56:01Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Diff your AI agent's behavior between two runs. See exactly which tool calls, args, costs and outputs changed when you s",
-    "id": "arthi-arumugam-git/whatbroke",
-    "language": "TypeScript",
-    "name": "arthi-arumugam-git/whatbroke",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:16:11Z",
-    "url": "https://github.com/arthi-arumugam-git/whatbroke"
   }
 ]
