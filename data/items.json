@@ -1,12 +1,75 @@
 [
   {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T18:59:01Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10702,
+    "updated_at": "2026-07-23T18:58:59Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3456,
+    "updated_at": "2026-07-23T18:58:17Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Platform Genesis AI Platform \u2022 LLMOps, ML Platform & Model Serving",
+    "id": "Junwu0615/PG-Cortex",
+    "language": "\u2014",
+    "name": "Junwu0615/PG-Cortex",
+    "stars": 1,
+    "updated_at": "2026-07-23T18:57:14Z",
+    "url": "https://github.com/Junwu0615/PG-Cortex"
+  },
+  {
+    "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
+    "id": "kai2055/incident-postmortem-assistant",
+    "language": "Python",
+    "name": "kai2055/incident-postmortem-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-23T18:55:38Z",
+    "url": "https://github.com/kai2055/incident-postmortem-assistant"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-07-23T18:55:03Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-23T18:44:30Z",
+    "updated_at": "2026-07-23T18:59:36Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 536,
+    "updated_at": "2026-07-23T18:51:31Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 4,
-    "updated_at": "2026-07-23T18:44:13Z",
+    "updated_at": "2026-07-23T18:45:27Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -25,33 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T18:43:27Z",
     "url": "https://github.com/yptang98/CostMarshal"
-  },
-  {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T18:42:07Z",
-    "url": "https://github.com/wlsdks/reactor"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3456,
-    "updated_at": "2026-07-23T18:41:46Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10702,
-    "updated_at": "2026-07-23T18:43:53Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -94,7 +130,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31737,
+    "stars": 31739,
     "updated_at": "2026-07-23T18:30:53Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 1,
-    "updated_at": "2026-07-23T18:27:56Z",
+    "updated_at": "2026-07-23T18:59:20Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54502,
-    "updated_at": "2026-07-23T18:44:36Z",
+    "updated_at": "2026-07-23T18:56:33Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-23T17:54:51Z",
+    "updated_at": "2026-07-23T18:48:23Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -157,8 +193,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20800,
-    "updated_at": "2026-07-23T17:49:56Z",
+    "stars": 20801,
+    "updated_at": "2026-07-23T18:58:28Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 319,
-    "updated_at": "2026-07-23T18:44:24Z",
+    "updated_at": "2026-07-23T18:56:45Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -193,7 +229,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27181,
+    "stars": 27182,
     "updated_at": "2026-07-23T17:27:43Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1109,
-    "updated_at": "2026-07-23T18:45:20Z",
+    "updated_at": "2026-07-23T18:54:56Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -247,7 +283,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23530,
+    "stars": 23531,
     "updated_at": "2026-07-23T16:58:36Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -374,7 +410,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3415,
-    "updated_at": "2026-07-23T15:53:21Z",
+    "updated_at": "2026-07-23T18:55:56Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 381,
     "updated_at": "2026-07-23T17:07:14Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2461,
-    "updated_at": "2026-07-23T15:05:29Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
-    "id": "apache/burr",
-    "language": "Python",
-    "name": "apache/burr",
-    "stars": 2487,
-    "updated_at": "2026-07-23T15:05:25Z",
-    "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-23T14:51:53Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 1,
-    "updated_at": "2026-07-23T16:02:52Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   }
 ]
