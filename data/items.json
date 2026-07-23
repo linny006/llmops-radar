@@ -1,30 +1,30 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T02:29:20Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10683,
-    "updated_at": "2026-07-23T02:14:52Z",
+    "updated_at": "2026-07-23T02:25:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-23T02:13:16Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
     "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-23T02:09:58Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-23T02:24:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
@@ -32,8 +32,35 @@
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-23T02:09:14Z",
+    "updated_at": "2026-07-23T02:22:24Z",
     "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-23T02:25:38Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T02:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-23T02:30:10Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
@@ -45,6 +72,15 @@
     "url": "https://github.com/Eval-core/evalcore"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27165,
+    "updated_at": "2026-07-23T02:04:53Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -52,33 +88,6 @@
     "stars": 44,
     "updated_at": "2026-07-23T02:04:36Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-23T02:03:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27164,
-    "updated_at": "2026-07-23T02:04:53Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T02:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54414,
-    "updated_at": "2026-07-23T02:13:57Z",
+    "updated_at": "2026-07-23T02:28:59Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -113,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3413,
-    "updated_at": "2026-07-23T01:51:21Z",
+    "updated_at": "2026-07-23T02:25:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -151,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T01:25:01Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T02:09:08Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -203,7 +203,7 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-07-23T00:53:00Z",
+    "updated_at": "2026-07-23T02:25:17Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
@@ -212,7 +212,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-23T02:04:20Z",
+    "updated_at": "2026-07-23T02:23:53Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -356,7 +356,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 201,
-    "updated_at": "2026-07-23T02:07:07Z",
+    "updated_at": "2026-07-23T02:28:48Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -373,7 +373,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31675,
+    "stars": 31677,
     "updated_at": "2026-07-22T22:58:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
