@@ -1,12 +1,84 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3413,
+    "updated_at": "2026-07-23T11:45:16Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 72,
+    "updated_at": "2026-07-23T11:36:40Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5639,
+    "updated_at": "2026-07-23T11:35:39Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31716,
+    "updated_at": "2026-07-23T11:42:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2461,
+    "updated_at": "2026-07-23T11:32:17Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Reference implementation of an evaluation-driven agentic RAG pipeline: LangGraph orchestration, hybrid retrieval, LLM-as",
+    "id": "mikitadaroshkin/agentic-rag-evals",
+    "language": "Python",
+    "name": "mikitadaroshkin/agentic-rag-evals",
+    "stars": 0,
+    "updated_at": "2026-07-23T11:31:51Z",
+    "url": "https://github.com/mikitadaroshkin/agentic-rag-evals"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T11:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-23T11:27:42Z",
+    "updated_at": "2026-07-23T11:43:56Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 4,
+    "updated_at": "2026-07-23T11:27:25Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
@@ -18,21 +90,12 @@
     "url": "https://github.com/voly-codes/voly"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31716,
-    "updated_at": "2026-07-23T11:28:13Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20793,
-    "updated_at": "2026-07-23T11:24:06Z",
+    "stars": 20795,
+    "updated_at": "2026-07-23T11:35:38Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -45,24 +108,6 @@
     "url": "https://github.com/wlsdks/reactor"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 72,
-    "updated_at": "2026-07-23T11:28:00Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3413,
-    "updated_at": "2026-07-23T11:21:43Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -70,33 +115,6 @@
     "stars": 6724,
     "updated_at": "2026-07-23T11:20:19Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T11:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2461,
-    "updated_at": "2026-07-23T11:14:16Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Reference implementation of an evaluation-driven agentic RAG pipeline: LangGraph orchestration, hybrid retrieval, LLM-as",
-    "id": "mikitadaroshkin/agentic-rag-evals",
-    "language": "Python",
-    "name": "mikitadaroshkin/agentic-rag-evals",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:13:32Z",
-    "url": "https://github.com/mikitadaroshkin/agentic-rag-evals"
   },
   {
     "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
@@ -126,21 +144,12 @@
     "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
   },
   {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 4,
-    "updated_at": "2026-07-23T11:27:25Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-23T11:30:04Z",
+    "updated_at": "2026-07-23T11:42:47Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -149,7 +158,7 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 10,
-    "updated_at": "2026-07-23T10:57:43Z",
+    "updated_at": "2026-07-23T11:35:20Z",
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
@@ -247,7 +256,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27175,
+    "stars": 27176,
     "updated_at": "2026-07-23T10:33:26Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11746,
-    "updated_at": "2026-07-23T11:30:06Z",
+    "updated_at": "2026-07-23T11:42:51Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -340,15 +349,6 @@
     "stars": 1282,
     "updated_at": "2026-07-23T11:25:33Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5639,
-    "updated_at": "2026-07-23T09:50:58Z",
-    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "OpenTelemetry + Wireshark + Cloudflare for AI Agents. Monitor, inspect, secure, replay, and optimize all traffic between",
