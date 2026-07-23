@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:45:10Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-23T01:45:06Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
+    "id": "kimtth/azure-openai-llm-wiki",
+    "language": "Python",
+    "name": "kimtth/azure-openai-llm-wiki",
+    "stars": 404,
+    "updated_at": "2026-07-23T01:44:57Z",
+    "url": "https://github.com/kimtth/azure-openai-llm-wiki"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-23T01:44:53Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A pure-Python static contract validator for prompt templates \u2014 three passes, zero dependencies, catches breaking variabl",
+    "id": "Emmimal/promptctl",
+    "language": "Python",
+    "name": "Emmimal/promptctl",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:41:35Z",
+    "url": "https://github.com/Emmimal/promptctl"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54409,
+    "updated_at": "2026-07-23T01:41:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2456,
+    "updated_at": "2026-07-23T01:38:42Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-23T01:36:16Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T01:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
     "id": "Eval-core/evalcore",
     "language": "Rust",
@@ -7,15 +88,6 @@
     "stars": 14,
     "updated_at": "2026-07-23T01:29:26Z",
     "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54405,
-    "updated_at": "2026-07-23T01:28:14Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -27,24 +99,6 @@
     "url": "https://github.com/memoturn/memoturn"
   },
   {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T01:22:46Z",
-    "url": "https://github.com/wlsdks/reactor"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-23T01:18:29Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
     "id": "JonyKarmakar/vision-command-ai",
     "language": "TypeScript",
@@ -54,21 +108,12 @@
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T01:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-23T01:15:12Z",
+    "updated_at": "2026-07-23T01:37:46Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -81,13 +126,13 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-23T01:15:05Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20781,
+    "updated_at": "2026-07-23T01:02:52Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
@@ -122,7 +167,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-23T01:23:57Z",
+    "updated_at": "2026-07-23T01:43:23Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -131,17 +176,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-23T01:24:37Z",
+    "updated_at": "2026-07-23T01:38:55Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20780,
-    "updated_at": "2026-07-23T01:02:52Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -153,21 +189,12 @@
     "url": "https://github.com/tmusser/ai-engineering-skills"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-23T00:26:29Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10683,
-    "updated_at": "2026-07-23T01:26:31Z",
+    "updated_at": "2026-07-23T01:34:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3412,
-    "updated_at": "2026-07-23T01:24:27Z",
+    "updated_at": "2026-07-23T01:42:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -328,7 +355,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31673,
+    "stars": 31674,
     "updated_at": "2026-07-22T22:58:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-22T21:17:52Z",
     "url": "https://github.com/IshanGaikwad/GenAI-Quality-Lab"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-07-22T23:42:32Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Deterministic offline replay verifier for gateway-path evidence bundles.",
-    "id": "Rul1an/gateway-evidence-replay",
-    "language": "Rust",
-    "name": "Rul1an/gateway-evidence-replay",
-    "stars": 0,
-    "updated_at": "2026-07-22T21:06:09Z",
-    "url": "https://github.com/Rul1an/gateway-evidence-replay"
-  },
-  {
-    "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
-    "id": "salmanzafar949/ctxdiff",
-    "language": "Python",
-    "name": "salmanzafar949/ctxdiff",
-    "stars": 0,
-    "updated_at": "2026-07-22T21:02:39Z",
-    "url": "https://github.com/salmanzafar949/ctxdiff"
   }
 ]
