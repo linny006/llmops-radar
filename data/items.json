@@ -1,21 +1,39 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-23T14:58:44Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
     "id": "wlsdks/reactor",
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-23T14:43:57Z",
+    "updated_at": "2026-07-23T14:56:48Z",
     "url": "https://github.com/wlsdks/reactor"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T14:54:25Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31729,
-    "updated_at": "2026-07-23T14:45:14Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "memoturn/memoturn",
+    "stars": 1,
+    "updated_at": "2026-07-23T14:53:27Z",
+    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -23,8 +41,53 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 10,
-    "updated_at": "2026-07-23T14:41:44Z",
+    "updated_at": "2026-07-23T14:51:53Z",
     "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-07-23T14:50:24Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 2,
+    "updated_at": "2026-07-23T14:50:09Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31730,
+    "updated_at": "2026-07-23T15:00:24Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T14:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 1,
+    "updated_at": "2026-07-23T14:44:39Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -34,6 +97,15 @@
     "stars": 2,
     "updated_at": "2026-07-23T14:39:45Z",
     "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-23T14:39:01Z",
+    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-23T14:37:03Z",
+    "updated_at": "2026-07-23T14:58:54Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -70,33 +142,6 @@
     "stars": 48,
     "updated_at": "2026-07-23T14:34:50Z",
     "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-23T14:39:01Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T14:32:21Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T14:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-23T14:44:23Z",
+    "updated_at": "2026-07-23T14:57:08Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10697,
-    "updated_at": "2026-07-23T14:33:31Z",
+    "updated_at": "2026-07-23T14:57:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -166,7 +211,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54479,
+    "stars": 54482,
     "updated_at": "2026-07-23T14:18:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20797,
-    "updated_at": "2026-07-23T14:17:22Z",
+    "updated_at": "2026-07-23T14:58:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T14:08:08Z",
     "url": "https://github.com/hanzala-bhutto/ApplySync"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 1,
-    "updated_at": "2026-07-23T14:43:34Z",
-    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -277,15 +313,6 @@
     "stars": 4,
     "updated_at": "2026-07-23T13:41:54Z",
     "url": "https://github.com/qmmughal/AgentWire"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-23T13:29:30Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -347,7 +374,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6730,
-    "updated_at": "2026-07-23T13:11:18Z",
+    "updated_at": "2026-07-23T14:58:16Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -367,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T12:56:48Z",
     "url": "https://github.com/acornops/docs-website"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-07-23T12:56:35Z",
-    "url": "https://github.com/acornops/acornops-deployment"
   },
   {
     "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3415,
-    "updated_at": "2026-07-23T14:32:12Z",
+    "updated_at": "2026-07-23T14:53:59Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3105,
-    "updated_at": "2026-07-23T14:37:14Z",
+    "updated_at": "2026-07-23T14:48:46Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-23T12:27:33Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-23T12:26:12Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
