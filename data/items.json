@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31696,
+    "updated_at": "2026-07-23T07:26:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5706,
+    "updated_at": "2026-07-23T07:22:20Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Build reliable, secure, and production-ready AI apps easily.",
+    "id": "Portkey-AI/portkey-python-sdk",
+    "language": "Python",
+    "name": "Portkey-AI/portkey-python-sdk",
+    "stars": 117,
+    "updated_at": "2026-07-23T07:22:19Z",
+    "url": "https://github.com/Portkey-AI/portkey-python-sdk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T07:17:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
     "id": "wlsdks/reactor",
     "language": "Python",
@@ -9,15 +45,6 @@
     "url": "https://github.com/wlsdks/reactor"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T07:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
     "id": "zhasouris/llm-model-router",
     "language": "TypeScript",
@@ -25,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-07-23T07:11:20Z",
     "url": "https://github.com/zhasouris/llm-model-router"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11747,
+    "updated_at": "2026-07-23T07:10:20Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -52,6 +88,15 @@
     "stars": 404,
     "updated_at": "2026-07-23T07:06:59Z",
     "url": "https://github.com/kimtth/azure-openai-llm-wiki"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5637,
+    "updated_at": "2026-07-23T07:05:53Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -103,8 +148,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54436,
-    "updated_at": "2026-07-23T06:51:26Z",
+    "stars": 54439,
+    "updated_at": "2026-07-23T07:27:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -121,9 +166,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10688,
+    "stars": 10689,
     "updated_at": "2026-07-23T06:42:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6714,
+    "updated_at": "2026-07-23T07:29:13Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20785,
-    "updated_at": "2026-07-23T06:51:54Z",
+    "updated_at": "2026-07-23T07:29:48Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-23T07:12:47Z",
+    "updated_at": "2026-07-23T07:13:35Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-23T07:16:29Z",
+    "updated_at": "2026-07-23T07:24:13Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T06:19:05Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6713,
-    "updated_at": "2026-07-23T06:41:50Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI",
@@ -214,24 +259,6 @@
     "stars": 27172,
     "updated_at": "2026-07-23T06:07:32Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11746,
-    "updated_at": "2026-07-23T07:10:20Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5636,
-    "updated_at": "2026-07-23T07:05:53Z",
-    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T03:45:47Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31695,
-    "updated_at": "2026-07-23T03:33:25Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 0,
-    "updated_at": "2026-07-23T03:25:08Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Open-source local policy, recovery, and audit layer for explicit Codex execution.",
-    "id": "MHW888888/aegisloop",
-    "language": "JavaScript",
-    "name": "MHW888888/aegisloop",
-    "stars": 17,
-    "updated_at": "2026-07-23T03:24:47Z",
-    "url": "https://github.com/MHW888888/aegisloop"
   }
 ]
