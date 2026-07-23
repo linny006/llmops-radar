@@ -1,12 +1,66 @@
 [
   {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:11:35Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:11:22Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-23T00:57:55Z",
+    "updated_at": "2026-07-23T01:09:04Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-23T01:07:24Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
+    "id": "seaworld008/aiops-system",
+    "language": "Go",
+    "name": "seaworld008/aiops-system",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:01:23Z",
+    "url": "https://github.com/seaworld008/aiops-system"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T01:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54404,
+    "updated_at": "2026-07-23T01:11:56Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -16,33 +70,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T00:55:56Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T00:53:34Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54402,
-    "updated_at": "2026-07-23T00:58:00Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T01:00:21Z",
-    "url": "https://github.com/wlsdks/reactor"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -68,17 +95,8 @@
     "language": "TypeScript",
     "name": "JonyKarmakar/vision-command-ai",
     "stars": 0,
-    "updated_at": "2026-07-23T00:48:44Z",
+    "updated_at": "2026-07-23T01:11:26Z",
     "url": "https://github.com/JonyKarmakar/vision-command-ai"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-23T00:58:58Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -88,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-07-23T00:46:21Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T00:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20780,
-    "updated_at": "2026-07-23T00:32:56Z",
+    "updated_at": "2026-07-23T01:02:52Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10683,
-    "updated_at": "2026-07-23T00:59:31Z",
+    "updated_at": "2026-07-23T01:01:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -257,7 +266,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29331,
-    "updated_at": "2026-07-22T23:20:35Z",
+    "updated_at": "2026-07-23T01:11:53Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 201,
-    "updated_at": "2026-07-23T00:55:34Z",
+    "updated_at": "2026-07-23T01:01:59Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8018,
-    "updated_at": "2026-07-23T00:39:06Z",
+    "updated_at": "2026-07-23T01:09:28Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 315,
     "updated_at": "2026-07-22T20:37:57Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27164,
-    "updated_at": "2026-07-22T23:19:26Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
