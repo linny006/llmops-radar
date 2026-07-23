@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10683,
+    "updated_at": "2026-07-23T01:59:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
     "id": "wlsdks/reactor",
     "language": "Python",
     "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-23T01:45:10Z",
+    "updated_at": "2026-07-23T01:56:04Z",
     "url": "https://github.com/wlsdks/reactor"
   },
   {
@@ -14,8 +23,53 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-23T01:45:06Z",
+    "updated_at": "2026-07-23T01:55:35Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:58:09Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
+    "id": "JonyKarmakar/vision-command-ai",
+    "language": "TypeScript",
+    "name": "JonyKarmakar/vision-command-ai",
+    "stars": 0,
+    "updated_at": "2026-07-23T01:50:32Z",
+    "url": "https://github.com/JonyKarmakar/vision-command-ai"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54412,
+    "updated_at": "2026-07-23T01:58:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A pure-Python static contract validator for prompt templates \u2014 three passes, zero dependencies, catches breaking variabl",
+    "id": "Emmimal/promptctl",
+    "language": "Python",
+    "name": "Emmimal/promptctl",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:48:11Z",
+    "url": "https://github.com/Emmimal/promptctl"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T01:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "kimtth/azure-openai-llm-wiki",
     "stars": 404,
-    "updated_at": "2026-07-23T01:44:57Z",
+    "updated_at": "2026-07-23T02:00:08Z",
     "url": "https://github.com/kimtth/azure-openai-llm-wiki"
   },
   {
@@ -34,24 +88,6 @@
     "stars": 16,
     "updated_at": "2026-07-23T01:44:53Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "A pure-Python static contract validator for prompt templates \u2014 three passes, zero dependencies, catches breaking variabl",
-    "id": "Emmimal/promptctl",
-    "language": "Python",
-    "name": "Emmimal/promptctl",
-    "stars": 1,
-    "updated_at": "2026-07-23T01:41:35Z",
-    "url": "https://github.com/Emmimal/promptctl"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54409,
-    "updated_at": "2026-07-23T01:41:04Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -68,17 +104,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-23T01:36:16Z",
+    "updated_at": "2026-07-23T01:54:34Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T01:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
@@ -97,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T01:25:01Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "End-to-end AI computer vision studio with YOLO detection, crop/blur editing, command workflows, PostgreSQL logging, Dock",
-    "id": "JonyKarmakar/vision-command-ai",
-    "language": "TypeScript",
-    "name": "JonyKarmakar/vision-command-ai",
-    "stars": 0,
-    "updated_at": "2026-07-23T01:15:59Z",
-    "url": "https://github.com/JonyKarmakar/vision-command-ai"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -162,15 +180,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-23T01:43:23Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -187,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T00:29:28Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10683,
-    "updated_at": "2026-07-23T01:34:01Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -257,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3412,
-    "updated_at": "2026-07-23T01:42:12Z",
+    "updated_at": "2026-07-23T01:51:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -338,7 +338,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 201,
-    "updated_at": "2026-07-23T01:25:40Z",
+    "updated_at": "2026-07-23T01:48:25Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
