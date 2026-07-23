@@ -1,12 +1,66 @@
 [
   {
-    "description": "Diff your AI agent's behavior between two runs. See exactly which tool calls, args, costs and outputs changed when you s",
-    "id": "arthi-arumugam-git/whatbroke",
-    "language": "TypeScript",
-    "name": "arthi-arumugam-git/whatbroke",
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-07-23T13:58:10Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
     "stars": 1,
-    "updated_at": "2026-07-23T13:46:08Z",
-    "url": "https://github.com/arthi-arumugam-git/whatbroke"
+    "updated_at": "2026-07-23T13:56:37Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-23T13:57:20Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:53:43Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-23T13:51:11Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:50:20Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20798,
+    "updated_at": "2026-07-23T13:56:50Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31727,
-    "updated_at": "2026-07-23T13:48:10Z",
+    "updated_at": "2026-07-23T13:55:17Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -23,8 +77,35 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 4,
-    "updated_at": "2026-07-23T13:45:31Z",
+    "updated_at": "2026-07-23T13:48:53Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 2,
+    "updated_at": "2026-07-23T13:48:22Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "Turn Portkey & Langsmith data into OTEL signals",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:49:13Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Diff your AI agent's behavior between two runs. See exactly which tool calls, args, costs and outputs changed when you s",
+    "id": "arthi-arumugam-git/whatbroke",
+    "language": "TypeScript",
+    "name": "arthi-arumugam-git/whatbroke",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:46:08Z",
+    "url": "https://github.com/arthi-arumugam-git/whatbroke"
   },
   {
     "description": "Point it at any Grafana \u2192 full AI/LLM observability: FinOps by sovereignty, agents, EU AI Act \u2014 generated, deployed, vis",
@@ -36,13 +117,13 @@
     "url": "https://github.com/alebgl77/grafana-llmops-forge"
   },
   {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T13:43:54Z",
-    "url": "https://github.com/wlsdks/reactor"
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1283,
+    "updated_at": "2026-07-23T13:59:39Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "OpenTelemetry + Wireshark + Cloudflare for AI Agents. Monitor, inspect, secure, replay, and optimize all traffic between",
@@ -70,33 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T13:36:37Z",
     "url": "https://github.com/zhasouris/corgi-ai-gateway"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20798,
-    "updated_at": "2026-07-23T13:48:08Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 2,
-    "updated_at": "2026-07-23T13:48:22Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-23T13:45:29Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -167,17 +221,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 318,
-    "updated_at": "2026-07-23T13:15:23Z",
+    "updated_at": "2026-07-23T13:57:44Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T13:45:03Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -239,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3415,
-    "updated_at": "2026-07-23T13:43:30Z",
+    "updated_at": "2026-07-23T13:57:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10697,
-    "updated_at": "2026-07-23T13:28:40Z",
+    "updated_at": "2026-07-23T13:54:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-23T13:37:23Z",
+    "updated_at": "2026-07-23T13:51:12Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -284,7 +329,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3105,
-    "updated_at": "2026-07-23T13:43:16Z",
+    "updated_at": "2026-07-23T13:55:18Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -304,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T12:26:12Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-23T12:24:35Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -383,7 +419,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5639,
-    "updated_at": "2026-07-23T13:41:24Z",
+    "updated_at": "2026-07-23T13:54:53Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:07:46Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e",
     "id": "Ambuj123-lab/agentic-rag-financial-parser",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 64,
     "updated_at": "2026-07-23T11:07:29Z",
     "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 1,
-    "updated_at": "2026-07-23T10:55:09Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 174,
-    "updated_at": "2026-07-23T10:49:05Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-23T10:45:01Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
