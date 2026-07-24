@@ -1,5 +1,59 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27186,
+    "updated_at": "2026-07-24T02:14:16Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-24T02:09:39Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-24T02:06:31Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10707,
+    "updated_at": "2026-07-24T02:03:15Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
+    "id": "wjlgatech/FM-os",
+    "language": "Python",
+    "name": "wjlgatech/FM-os",
+    "stars": 2,
+    "updated_at": "2026-07-24T02:00:46Z",
+    "url": "https://github.com/wjlgatech/FM-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-24T02:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54522,
-    "updated_at": "2026-07-24T01:51:19Z",
+    "updated_at": "2026-07-24T02:07:25Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-24T01:48:02Z",
+    "updated_at": "2026-07-24T02:14:06Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-07-24T01:47:45Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-24T01:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -99,22 +144,22 @@
     "url": "https://github.com/acornops/execution-engine"
   },
   {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-07-24T01:40:25Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
     "id": "OrlojHQ/orloj",
     "language": "Go",
     "name": "OrlojHQ/orloj",
-    "stars": 110,
+    "stars": 111,
     "updated_at": "2026-07-24T01:38:09Z",
     "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2463,
+    "updated_at": "2026-07-24T01:32:57Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-24T01:32:46Z",
+    "updated_at": "2026-07-24T02:12:14Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -135,21 +180,12 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-24T01:23:12Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
     "id": "Bobcatsfan33/AI-Security-Platform",
     "language": "Python",
     "name": "Bobcatsfan33/AI-Security-Platform",
     "stars": 1,
-    "updated_at": "2026-07-24T01:59:49Z",
+    "updated_at": "2026-07-24T02:05:31Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
@@ -160,6 +196,15 @@
     "stars": 4,
     "updated_at": "2026-07-24T01:21:26Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20807,
+    "updated_at": "2026-07-24T01:00:39Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
@@ -207,24 +252,6 @@
     "url": "https://github.com/memoturn/memoturn"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10706,
-    "updated_at": "2026-07-24T01:53:55Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
-    "id": "wjlgatech/FM-os",
-    "language": "Python",
-    "name": "wjlgatech/FM-os",
-    "stars": 2,
-    "updated_at": "2026-07-24T02:00:18Z",
-    "url": "https://github.com/wjlgatech/FM-os"
-  },
-  {
     "description": "Terminal-native financial-risk copilot. Framework-free multi-agent workflow with MCP, runs in Claude Code keyless. Tests",
     "id": "muhammadtalhaishtiaq/vigil",
     "language": "Python",
@@ -232,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T00:33:43Z",
     "url": "https://github.com/muhammadtalhaishtiaq/vigil"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20805,
-    "updated_at": "2026-07-24T01:00:39Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -319,7 +337,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6745,
+    "stars": 6746,
     "updated_at": "2026-07-23T23:20:26Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -328,7 +346,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31751,
+    "stars": 31752,
     "updated_at": "2026-07-23T23:02:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T21:34:43Z",
     "url": "https://github.com/zhasouris/corgi-ai-gateway"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-07-23T20:59:10Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "HTML",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 2,
-    "updated_at": "2026-07-23T20:44:14Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
   }
 ]
