@@ -1,5 +1,59 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-24T06:56:11Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6752,
+    "updated_at": "2026-07-24T06:54:51Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54548,
+    "updated_at": "2026-07-24T06:59:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-24T06:52:32Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11756,
+    "updated_at": "2026-07-24T06:56:34Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-24T06:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -7,24 +61,6 @@
     "stars": 2466,
     "updated_at": "2026-07-24T06:44:44Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54546,
-    "updated_at": "2026-07-24T06:45:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6751,
-    "updated_at": "2026-07-24T06:38:38Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
@@ -40,18 +76,9 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29344,
-    "updated_at": "2026-07-24T06:35:54Z",
+    "stars": 29345,
+    "updated_at": "2026-07-24T06:58:23Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-24T06:35:35Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T06:34:34Z",
     "url": "https://github.com/salmanzafar949/ctxdiff"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-24T06:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -135,6 +153,15 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27189,
+    "updated_at": "2026-07-24T06:08:22Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 10708,
     "updated_at": "2026-07-24T06:40:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27188,
-    "updated_at": "2026-07-24T06:08:22Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3416,
-    "updated_at": "2026-07-24T06:08:05Z",
+    "updated_at": "2026-07-24T06:58:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -261,15 +279,6 @@
     "url": "https://github.com/sauravbhattacharya001/prompt"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11755,
-    "updated_at": "2026-07-24T06:24:41Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -302,7 +311,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5642,
-    "updated_at": "2026-07-24T06:25:13Z",
+    "updated_at": "2026-07-24T06:58:04Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -349,15 +358,6 @@
     "stars": 72,
     "updated_at": "2026-07-24T02:59:28Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-24T02:51:47Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "ThakiCloud Tech Blog",
