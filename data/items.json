@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31770,
+    "updated_at": "2026-07-24T09:15:13Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
+    "id": "dativo-io/talon",
+    "language": "Go",
+    "name": "dativo-io/talon",
+    "stars": 11,
+    "updated_at": "2026-07-24T09:10:15Z",
+    "url": "https://github.com/dativo-io/talon"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27189,
+    "updated_at": "2026-07-24T09:07:26Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-24T09:04:23Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20816,
+    "updated_at": "2026-07-24T09:15:29Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10710,
+    "updated_at": "2026-07-24T09:13:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-24T09:03:37Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-24T09:03:03Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 66,
+    "updated_at": "2026-07-24T09:13:42Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-24T09:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Distill Claude's topic classification into a local TF-IDF+LogReg student (real Haiku teacher on Bedrock). Recovers 81% o",
     "id": "tkarim45/model-distillation",
     "language": "Python",
@@ -27,15 +117,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31770,
-    "updated_at": "2026-07-24T09:00:25Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Semantic (similarity) cache for LLM apps \u2014 serve cached answers to paraphrased queries, benchmarked on cost/latency save",
     "id": "tkarim45/semantic-cache",
     "language": "Python",
@@ -52,15 +133,6 @@
     "stars": 5,
     "updated_at": "2026-07-24T08:57:01Z",
     "url": "https://github.com/atliq/guardex-ai"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10710,
-    "updated_at": "2026-07-24T08:52:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM observability & tracing: per-request spans (prompt, tokens, latency, cost), online quality evals (groundedness/toxic",
@@ -81,15 +153,6 @@
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
-    "description": "Open-source AI governance gateway for EU teams: enforce PII, cost, model, data residency, and tool policies for LLMs and",
-    "id": "dativo-io/talon",
-    "language": "Go",
-    "name": "dativo-io/talon",
-    "stars": 11,
-    "updated_at": "2026-07-24T08:47:29Z",
-    "url": "https://github.com/dativo-io/talon"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -97,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T08:45:39Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-24T08:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -144,15 +198,6 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-24T08:58:13Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Teach + benchmark every layer of production RAG on one shared harness \u2014 chunking, embeddings, indexing, retrieval, reran",
     "id": "tkarim45/production-rag-lab",
     "language": "Python",
@@ -166,7 +211,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8028,
+    "stars": 8029,
     "updated_at": "2026-07-24T08:32:27Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "salmanzafar949/ctxdiff",
     "stars": 0,
-    "updated_at": "2026-07-24T08:26:18Z",
+    "updated_at": "2026-07-24T09:06:38Z",
     "url": "https://github.com/salmanzafar949/ctxdiff"
   },
   {
@@ -243,31 +288,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27189,
-    "updated_at": "2026-07-24T08:22:11Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1285,
-    "updated_at": "2026-07-24T08:15:52Z",
+    "updated_at": "2026-07-24T09:14:20Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20816,
-    "updated_at": "2026-07-24T08:59:44Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -302,7 +329,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6757,
-    "updated_at": "2026-07-24T07:46:18Z",
+    "updated_at": "2026-07-24T09:11:32Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -313,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T07:44:08Z",
     "url": "https://github.com/api-evangelist/log10"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-24T07:30:59Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T06:05:57Z",
     "url": "https://github.com/wlsdks/reactor"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-24T06:03:45Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23552,
-    "updated_at": "2026-07-24T05:48:06Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
