@@ -1,11 +1,38 @@
 [
   {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 7,
+    "updated_at": "2026-07-24T04:44:07Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
+    "id": "salmanzafar949/ctxdiff",
+    "language": "Python",
+    "name": "salmanzafar949/ctxdiff",
+    "stars": 0,
+    "updated_at": "2026-07-24T04:44:04Z",
+    "url": "https://github.com/salmanzafar949/ctxdiff"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-24T04:40:55Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 4,
-    "updated_at": "2026-07-24T04:30:23Z",
+    "updated_at": "2026-07-24T04:30:46Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -40,7 +67,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54536,
+    "stars": 54538,
     "updated_at": "2026-07-24T04:13:00Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -52,15 +79,6 @@
     "stars": 27188,
     "updated_at": "2026-07-24T04:10:27Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-24T04:26:54Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -108,15 +126,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 7,
-    "updated_at": "2026-07-24T04:22:18Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -149,7 +158,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5642,
-    "updated_at": "2026-07-24T03:48:01Z",
+    "updated_at": "2026-07-24T04:34:27Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-24T04:22:34Z",
+    "updated_at": "2026-07-24T04:41:20Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -185,7 +194,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8027,
-    "updated_at": "2026-07-24T03:24:37Z",
+    "updated_at": "2026-07-24T04:41:55Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -220,9 +229,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23549,
+    "stars": 23550,
     "updated_at": "2026-07-24T03:11:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10708,
+    "updated_at": "2026-07-24T04:44:31Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
@@ -232,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T03:09:06Z",
     "url": "https://github.com/wjlgatech/FM-os"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10707,
-    "updated_at": "2026-07-24T03:10:59Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -266,7 +275,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6748,
-    "updated_at": "2026-07-24T02:57:03Z",
+    "updated_at": "2026-07-24T04:44:40Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -286,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-07-24T04:08:57Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
-    "id": "salmanzafar949/ctxdiff",
-    "language": "Python",
-    "name": "salmanzafar949/ctxdiff",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:30:27Z",
-    "url": "https://github.com/salmanzafar949/ctxdiff"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
