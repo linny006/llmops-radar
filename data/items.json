@@ -1,11 +1,74 @@
 [
   {
+    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
+    "id": "yptang98/CostMarshal",
+    "language": "Python",
+    "name": "yptang98/CostMarshal",
+    "stars": 2,
+    "updated_at": "2026-07-24T00:59:06Z",
+    "url": "https://github.com/yptang98/CostMarshal"
+  },
+  {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 2,
+    "updated_at": "2026-07-24T00:56:56Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
+    "id": "KIM3310/enterprise-llm-adoption-kit",
+    "language": "Python",
+    "name": "KIM3310/enterprise-llm-adoption-kit",
+    "stars": 0,
+    "updated_at": "2026-07-24T00:55:25Z",
+    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
+  },
+  {
+    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
+    "id": "OrlojHQ/orloj",
+    "language": "Go",
+    "name": "OrlojHQ/orloj",
+    "stars": 110,
+    "updated_at": "2026-07-24T00:49:55Z",
+    "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "MCP server for LLM and agent run telemetry: cost, tokens, latency, and reliability observability",
+    "id": "Aptica-Solutions/a-mcp-runmeter",
+    "language": "Python",
+    "name": "Aptica-Solutions/a-mcp-runmeter",
+    "stars": 0,
+    "updated_at": "2026-07-24T00:48:40Z",
+    "url": "https://github.com/Aptica-Solutions/a-mcp-runmeter"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 1,
+    "updated_at": "2026-07-24T00:46:35Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-24T00:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10706,
-    "updated_at": "2026-07-24T00:45:02Z",
+    "updated_at": "2026-07-24T00:47:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 2,
-    "updated_at": "2026-07-24T00:35:06Z",
-    "url": "https://github.com/wlsdks/reactor"
-  },
-  {
     "description": "Terminal-native financial-risk copilot. Framework-free multi-agent workflow with MCP, runs in Claude Code keyless. Tests",
     "id": "muhammadtalhaishtiaq/vigil",
     "language": "Python",
@@ -63,15 +117,6 @@
     "url": "https://github.com/muhammadtalhaishtiaq/vigil"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-24T00:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
@@ -79,6 +124,15 @@
     "stars": 2,
     "updated_at": "2026-07-24T00:25:40Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20805,
+    "updated_at": "2026-07-24T00:21:11Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -115,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T23:56:35Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
-    "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 110,
-    "updated_at": "2026-07-24T00:04:05Z",
-    "url": "https://github.com/OrlojHQ/orloj"
   },
   {
     "description": "Evidently AI APIs.json profile for API Evangelist catalog",
@@ -175,7 +220,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6744,
+    "stars": 6745,
     "updated_at": "2026-07-23T23:20:26Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -184,7 +229,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31747,
+    "stars": 31748,
     "updated_at": "2026-07-23T23:02:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -256,7 +301,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23536,
+    "stars": 23538,
     "updated_at": "2026-07-23T22:06:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -315,15 +360,6 @@
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 1,
-    "updated_at": "2026-07-24T00:40:38Z",
-    "url": "https://github.com/memoturn/memoturn"
-  },
-  {
     "description": "Context optimization for AI agents \u2014 97 domain knowledge graphs, MCP-native traversal. 4\u00d7 F1 of RAG, 11\u00d7 fewer tokens pe",
     "id": "Yarmoluk/ckg-mcp",
     "language": "Python",
@@ -342,6 +378,15 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27186,
+    "updated_at": "2026-07-23T20:29:04Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "AuditPilot: auditable enterprise AI agents for evidence-grounded workflows, governed tools, evaluation harnesses, human ",
     "id": "Ricky-7-Yan/intelligent-audit-system",
     "language": "Python",
@@ -349,15 +394,6 @@
     "stars": 1162,
     "updated_at": "2026-07-23T20:28:07Z",
     "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27184,
-    "updated_at": "2026-07-23T20:29:04Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "Kkartik14/Earshot",
     "stars": 2,
-    "updated_at": "2026-07-24T00:12:10Z",
+    "updated_at": "2026-07-24T00:59:09Z",
     "url": "https://github.com/Kkartik14/Earshot"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T19:44:41Z",
     "url": "https://github.com/TalBenAmii/llm-d-benchmarking-agent"
-  },
-  {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:44:10Z",
-    "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20804,
-    "updated_at": "2026-07-24T00:21:11Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
-    "id": "NicoGrassetto/Cosmopilot",
-    "language": "Python",
-    "name": "NicoGrassetto/Cosmopilot",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:36:13Z",
-    "url": "https://github.com/NicoGrassetto/Cosmopilot"
-  },
-  {
-    "description": "Stdlib-only LLMOps: cost-aware model routing, evals, and honest telemetry \u2014 measured on real usage (162 tests)",
-    "id": "evince55/aria-llmops",
-    "language": "Python",
-    "name": "evince55/aria-llmops",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:34:36Z",
-    "url": "https://github.com/evince55/aria-llmops"
   }
 ]
