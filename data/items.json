@@ -1,10 +1,73 @@
 [
   {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 9,
+    "updated_at": "2026-07-24T17:13:02Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-24T17:12:00Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 3,
+    "updated_at": "2026-07-24T17:10:15Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-24T17:14:34Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10716,
+    "updated_at": "2026-07-24T17:10:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
+    "id": "rrbanda/agent-lens",
+    "language": "Python",
+    "name": "rrbanda/agent-lens",
+    "stars": 0,
+    "updated_at": "2026-07-24T17:01:30Z",
+    "url": "https://github.com/rrbanda/agent-lens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-24T17:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open-source control plane for shared AI agents",
     "id": "openloop-team/openloop",
     "language": "Python",
     "name": "openloop-team/openloop",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-24T16:58:39Z",
     "url": "https://github.com/openloop-team/openloop"
   },
@@ -14,7 +77,7 @@
     "language": "Rust",
     "name": "mezmo/aura",
     "stars": 235,
-    "updated_at": "2026-07-24T16:57:36Z",
+    "updated_at": "2026-07-24T17:09:43Z",
     "url": "https://github.com/mezmo/aura"
   },
   {
@@ -27,13 +90,13 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-24T16:59:46Z",
-    "url": "https://github.com/NekomyaDev/nudge"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23566,
+    "updated_at": "2026-07-24T16:56:30Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI ",
@@ -50,7 +113,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-24T16:53:01Z",
+    "updated_at": "2026-07-24T17:11:56Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -77,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3416,
-    "updated_at": "2026-07-24T17:00:30Z",
+    "updated_at": "2026-07-24T17:15:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -113,7 +176,7 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 24,
-    "updated_at": "2026-07-24T16:50:36Z",
+    "updated_at": "2026-07-24T17:03:14Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
@@ -142,24 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T16:50:07Z",
     "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-24T17:00:06Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-24T16:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -265,7 +310,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54610,
+    "stars": 54612,
     "updated_at": "2026-07-24T16:30:12Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -347,7 +392,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6771,
-    "updated_at": "2026-07-24T16:18:15Z",
+    "updated_at": "2026-07-24T17:05:06Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-24T16:11:24Z",
     "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:10:37Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:10:17Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
-    "id": "rrbanda/agent-lens",
-    "language": "Python",
-    "name": "rrbanda/agent-lens",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:51:38Z",
-    "url": "https://github.com/rrbanda/agent-lens"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:08:22Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 29,
-    "updated_at": "2026-07-24T16:06:31Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
   }
 ]
