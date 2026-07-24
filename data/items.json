@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31766,
+    "updated_at": "2026-07-24T08:14:42Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-24T08:12:51Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
+    "id": "salmanzafar949/ctxdiff",
+    "language": "Python",
+    "name": "salmanzafar949/ctxdiff",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:08:57Z",
+    "url": "https://github.com/salmanzafar949/ctxdiff"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2468,
+    "updated_at": "2026-07-24T08:14:58Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54560,
+    "updated_at": "2026-07-24T08:15:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-24T08:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -7,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T07:59:18Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31766,
-    "updated_at": "2026-07-24T07:59:51Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -32,17 +77,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3416,
-    "updated_at": "2026-07-24T08:00:21Z",
+    "updated_at": "2026-07-24T08:12:33Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2468,
-    "updated_at": "2026-07-24T07:50:31Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
@@ -52,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T07:49:38Z",
     "url": "https://github.com/runcycles/cycles-spring-boot-starter"
-  },
-  {
-    "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
-    "id": "salmanzafar949/ctxdiff",
-    "language": "Python",
-    "name": "salmanzafar949/ctxdiff",
-    "stars": 0,
-    "updated_at": "2026-07-24T07:49:38Z",
-    "url": "https://github.com/salmanzafar949/ctxdiff"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -76,27 +103,9 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6754,
+    "stars": 6755,
     "updated_at": "2026-07-24T07:46:18Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54555,
-    "updated_at": "2026-07-24T07:46:14Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-24T07:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Log10 APIs.json profile for API Evangelist catalog",
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10710,
-    "updated_at": "2026-07-24T07:27:15Z",
+    "updated_at": "2026-07-24T08:14:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8028,
-    "updated_at": "2026-07-24T07:54:50Z",
+    "updated_at": "2026-07-24T08:10:57Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -241,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T06:30:19Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-24T07:46:43Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
@@ -286,6 +286,15 @@
     "stars": 0,
     "updated_at": "2026-07-24T06:05:57Z",
     "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-24T06:03:45Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 66,
-    "updated_at": "2026-07-24T07:45:43Z",
+    "updated_at": "2026-07-24T08:13:12Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 107,
-    "updated_at": "2026-07-24T03:54:22Z",
+    "updated_at": "2026-07-24T08:03:14Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-24T03:22:01Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 72,
-    "updated_at": "2026-07-24T02:59:28Z",
-    "url": "https://github.com/api7/aisix"
   }
 ]
