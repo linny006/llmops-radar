@@ -1,10 +1,64 @@
 [
   {
+    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2338,
+    "updated_at": "2026-07-24T06:11:59Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10707,
+    "updated_at": "2026-07-24T06:07:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27188,
+    "updated_at": "2026-07-24T06:08:22Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 0,
+    "updated_at": "2026-07-24T06:05:57Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2466,
+    "updated_at": "2026-07-24T06:04:57Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-24T06:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6748,
+    "stars": 6749,
     "updated_at": "2026-07-24T05:57:55Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54544,
-    "updated_at": "2026-07-24T05:54:47Z",
+    "updated_at": "2026-07-24T06:06:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T05:55:14Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 0,
-    "updated_at": "2026-07-24T05:52:03Z",
-    "url": "https://github.com/wlsdks/reactor"
   },
   {
     "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
@@ -61,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T05:46:54Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-24T05:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -126,15 +162,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10707,
-    "updated_at": "2026-07-24T05:56:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3416,
-    "updated_at": "2026-07-24T05:45:05Z",
+    "updated_at": "2026-07-24T06:08:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T04:26:04Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27188,
-    "updated_at": "2026-07-24T05:54:32Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -243,15 +261,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2466,
-    "updated_at": "2026-07-24T04:04:57Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -275,7 +284,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8027,
-    "updated_at": "2026-07-24T04:41:55Z",
+    "updated_at": "2026-07-24T06:11:23Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -338,7 +347,7 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-07-24T05:01:44Z",
+    "updated_at": "2026-07-24T06:13:36Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 111,
     "updated_at": "2026-07-24T01:38:09Z",
     "url": "https://github.com/OrlojHQ/orloj"
-  },
-  {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 1,
-    "updated_at": "2026-07-24T02:05:31Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   }
 ]
