@@ -1,21 +1,48 @@
 [
   {
-    "description": "Evaluate any AI automation behind an HTTP endpoint \u2014 n8n, FastAPI, LangGraph. Deterministic-first graders + adversarial ",
-    "id": "Redsf/agent-evals",
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8026,
+    "updated_at": "2026-07-24T02:45:14Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-24T02:41:17Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
     "language": "Python",
-    "name": "Redsf/agent-evals",
-    "stars": 0,
-    "updated_at": "2026-07-24T02:24:26Z",
-    "url": "https://github.com/Redsf/agent-evals"
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 1,
+    "updated_at": "2026-07-24T02:39:32Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54522,
-    "updated_at": "2026-07-24T02:22:36Z",
+    "stars": 54528,
+    "updated_at": "2026-07-24T02:37:33Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-24T02:44:22Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-24T02:28:32Z",
+    "updated_at": "2026-07-24T02:32:59Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-24T02:31:14Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +68,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 4,
-    "updated_at": "2026-07-24T02:15:24Z",
+    "updated_at": "2026-07-24T02:30:24Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Evaluate any AI automation behind an HTTP endpoint \u2014 n8n, FastAPI, LangGraph. Deterministic-first graders + adversarial ",
+    "id": "Redsf/agent-evals",
+    "language": "Python",
+    "name": "Redsf/agent-evals",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:24:26Z",
+    "url": "https://github.com/Redsf/agent-evals"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10707,
-    "updated_at": "2026-07-24T02:25:41Z",
+    "updated_at": "2026-07-24T02:39:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-24T01:47:45Z",
+    "updated_at": "2026-07-24T02:44:03Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -167,24 +212,15 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2463,
-    "updated_at": "2026-07-24T01:32:57Z",
+    "updated_at": "2026-07-24T02:30:29Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-24T02:12:14Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23540,
+    "stars": 23541,
     "updated_at": "2026-07-24T01:32:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -261,13 +297,13 @@
     "url": "https://github.com/muhammadtalhaishtiaq/vigil"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
-    "updated_at": "2026-07-24T00:00:18Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29341,
+    "updated_at": "2026-07-24T00:33:17Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -277,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T23:58:53Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-23T23:56:35Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Evidently AI APIs.json profile for API Evangelist catalog",
@@ -346,7 +373,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31752,
+    "stars": 31753,
     "updated_at": "2026-07-23T23:02:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -421,32 +448,5 @@
     "stars": 29,
     "updated_at": "2026-07-23T22:05:20Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29340,
-    "updated_at": "2026-07-24T00:33:17Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 107,
-    "updated_at": "2026-07-24T01:53:01Z",
-    "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
-    "id": "zhasouris/corgi-ai-gateway",
-    "language": "TypeScript",
-    "name": "zhasouris/corgi-ai-gateway",
-    "stars": 1,
-    "updated_at": "2026-07-23T21:34:43Z",
-    "url": "https://github.com/zhasouris/corgi-ai-gateway"
   }
 ]
