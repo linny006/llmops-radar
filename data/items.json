@@ -1,12 +1,21 @@
 [
   {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
+    "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
+    "id": "rrbanda/agent-lens",
     "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-07-24T19:59:33Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
+    "name": "rrbanda/agent-lens",
+    "stars": 0,
+    "updated_at": "2026-07-24T20:14:55Z",
+    "url": "https://github.com/rrbanda/agent-lens"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-24T20:12:58Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
@@ -14,8 +23,62 @@
     "language": "Rust",
     "name": "NekomyaDev/nudge",
     "stars": 3,
-    "updated_at": "2026-07-24T19:57:18Z",
+    "updated_at": "2026-07-24T20:10:15Z",
     "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-24T20:09:13Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
+    "id": "Amitcoh1/agentbreaker",
+    "language": "TypeScript",
+    "name": "Amitcoh1/agentbreaker",
+    "stars": 2,
+    "updated_at": "2026-07-24T20:08:18Z",
+    "url": "https://github.com/Amitcoh1/agentbreaker"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54617,
+    "updated_at": "2026-07-24T20:15:10Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-24T20:03:15Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-24T20:00:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-07-24T19:59:33Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10718,
-    "updated_at": "2026-07-24T19:56:19Z",
+    "updated_at": "2026-07-24T20:01:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -45,33 +108,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54616,
-    "updated_at": "2026-07-24T19:59:11Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-24T19:56:34Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
-    "id": "rrbanda/agent-lens",
-    "language": "Python",
-    "name": "rrbanda/agent-lens",
-    "stars": 0,
-    "updated_at": "2026-07-24T19:48:54Z",
-    "url": "https://github.com/rrbanda/agent-lens"
-  },
-  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -81,21 +117,12 @@
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-24T19:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-07-24T19:48:27Z",
+    "updated_at": "2026-07-24T20:01:26Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -140,17 +167,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6772,
-    "updated_at": "2026-07-24T20:00:30Z",
+    "updated_at": "2026-07-24T20:08:23Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
-    "id": "Amitcoh1/agentbreaker",
-    "language": "TypeScript",
-    "name": "Amitcoh1/agentbreaker",
-    "stars": 2,
-    "updated_at": "2026-07-24T19:27:08Z",
-    "url": "https://github.com/Amitcoh1/agentbreaker"
   },
   {
     "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
@@ -225,15 +243,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-24T19:42:25Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -293,7 +302,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-24T19:43:23Z",
+    "updated_at": "2026-07-24T20:15:07Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T18:47:04Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-24T18:46:50Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   }
 ]
