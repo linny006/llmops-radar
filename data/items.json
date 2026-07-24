@@ -1,12 +1,30 @@
 [
   {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "wlsdks/reactor",
+    "name": "BerriAI/litellm",
+    "stars": 54514,
+    "updated_at": "2026-07-23T23:59:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-23T23:58:53Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-07-23T23:43:11Z",
-    "url": "https://github.com/wlsdks/reactor"
+    "updated_at": "2026-07-23T23:56:35Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
@@ -14,8 +32,71 @@
     "language": "Go",
     "name": "OrlojHQ/orloj",
     "stars": 110,
-    "updated_at": "2026-07-23T23:42:08Z",
+    "updated_at": "2026-07-23T23:58:11Z",
     "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T23:53:50Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-23T23:58:12Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-23T23:50:06Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Evidently AI APIs.json profile for API Evangelist catalog",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-07-23T23:49:34Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-23T23:59:40Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Routes each AI task to the cheapest model that passes your quality bar, local or cloud, and shows you the receipts. An e",
+    "id": "jasonjknapp/cheapskate",
+    "language": "Python",
+    "name": "jasonjknapp/cheapskate",
+    "stars": 0,
+    "updated_at": "2026-07-23T23:54:37Z",
+    "url": "https://github.com/jasonjknapp/cheapskate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-23T23:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -27,21 +108,12 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54513,
-    "updated_at": "2026-07-23T23:44:45Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10705,
-    "updated_at": "2026-07-23T23:39:29Z",
+    "updated_at": "2026-07-23T23:49:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -63,40 +135,13 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-23T23:30:19Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-23T23:30:31Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6742,
+    "stars": 6743,
     "updated_at": "2026-07-23T23:20:26Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-23T23:43:35Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -126,40 +171,13 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-23T23:01:20Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 321,
-    "updated_at": "2026-07-23T23:32:47Z",
+    "updated_at": "2026-07-23T23:45:54Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-23T22:54:41Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T22:46:52Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "GenAI governance and AI agent launch-readiness framework with golden evals, risk gates, automation boundaries, human esc",
@@ -221,8 +239,17 @@
     "language": "Python",
     "name": "GenesisClawbot/llm-drift",
     "stars": 1,
-    "updated_at": "2026-07-23T22:10:29Z",
+    "updated_at": "2026-07-24T00:00:18Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23536,
+    "updated_at": "2026-07-23T22:06:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29340,
-    "updated_at": "2026-07-23T22:01:42Z",
+    "updated_at": "2026-07-23T23:51:05Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -342,20 +369,11 @@
     "url": "https://github.com/mezmo/aura"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23537,
-    "updated_at": "2026-07-23T22:06:56Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 3415,
+    "stars": 3414,
     "updated_at": "2026-07-23T20:17:54Z",
     "url": "https://github.com/langwatch/langwatch"
   },
@@ -400,7 +418,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20806,
+    "stars": 20804,
     "updated_at": "2026-07-23T19:43:02Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T19:06:20Z",
     "url": "https://github.com/kai2055/incident-postmortem-assistant"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3457,
-    "updated_at": "2026-07-23T18:58:17Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Platform Genesis AI Platform \u2022 LLMOps, ML Platform & Model Serving",
-    "id": "Junwu0615/PG-Cortex",
-    "language": "\u2014",
-    "name": "Junwu0615/PG-Cortex",
-    "stars": 1,
-    "updated_at": "2026-07-23T18:57:14Z",
-    "url": "https://github.com/Junwu0615/PG-Cortex"
   }
 ]
