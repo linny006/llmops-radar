@@ -1,12 +1,48 @@
 [
   {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 2,
+    "updated_at": "2026-07-24T04:26:04Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 16,
+    "updated_at": "2026-07-24T04:24:47Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 10,
-    "updated_at": "2026-07-24T04:12:45Z",
+    "updated_at": "2026-07-24T04:20:00Z",
     "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-24T04:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54536,
+    "updated_at": "2026-07-24T04:13:00Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-24T04:05:39Z",
+    "updated_at": "2026-07-24T04:26:54Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -50,17 +86,8 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11755,
-    "updated_at": "2026-07-24T04:02:55Z",
+    "updated_at": "2026-07-24T04:22:06Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-24T04:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 7,
-    "updated_at": "2026-07-24T03:52:09Z",
+    "updated_at": "2026-07-24T04:22:18Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-24T03:28:25Z",
+    "updated_at": "2026-07-24T04:22:34Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 23549,
     "updated_at": "2026-07-24T03:11:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 16,
-    "updated_at": "2026-07-24T03:10:15Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
@@ -286,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T02:39:32Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54534,
-    "updated_at": "2026-07-24T04:13:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -409,7 +418,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20808,
+    "stars": 20811,
     "updated_at": "2026-07-24T01:00:39Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T00:48:40Z",
     "url": "https://github.com/Aptica-Solutions/a-mcp-runmeter"
-  },
-  {
-    "description": "Terminal-native financial-risk copilot. Framework-free multi-agent workflow with MCP, runs in Claude Code keyless. Tests",
-    "id": "muhammadtalhaishtiaq/vigil",
-    "language": "Python",
-    "name": "muhammadtalhaishtiaq/vigil",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:33:43Z",
-    "url": "https://github.com/muhammadtalhaishtiaq/vigil"
   }
 ]
