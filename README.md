@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-24 07:15 UTC
+> ⏰ Last updated: 2026-07-24 07:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-07-24 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54550 | Python | 2026-07-24 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8028 | Rust | 2026-07-24 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 4 | [charliechenye/OpenEvalGate](https://github.com/charliechenye/OpenEvalGate) | 1 | Python | 2026-07-24 | GenAI governance and AI agent launch-readiness framework with golden evals, risk gates, automation boundaries, human esc |
-| 5 | [GeniusBotsLab/im](https://github.com/GeniusBotsLab/im) | 0 | — | 2026-07-24 | Autonomous AI systems, multi-agent orchestration, LLMOps, AgentOps and 24/7 automation. |
-| 6 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-24 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 7 | [scttfrdmn/hf-bedrock-map](https://github.com/scttfrdmn/hf-bedrock-map) | 0 | Go | 2026-07-24 | Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF↔Bedrock mapping (US regions) with a free st |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-07-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-07-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-07-24 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54550 | Python | 2026-07-24 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8028 | Rust | 2026-07-24 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 5 | [charliechenye/OpenEvalGate](https://github.com/charliechenye/OpenEvalGate) | 1 | Python | 2026-07-24 | GenAI governance and AI agent launch-readiness framework with golden evals, risk gates, automation boundaries, human esc |
+| 6 | [GeniusBotsLab/im](https://github.com/GeniusBotsLab/im) | 0 | — | 2026-07-24 | Autonomous AI systems, multi-agent orchestration, LLMOps, AgentOps and 24/7 automation. |
+| 7 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-24 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 8 | [scttfrdmn/hf-bedrock-map](https://github.com/scttfrdmn/hf-bedrock-map) | 0 | Go | 2026-07-24 | Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF↔Bedrock mapping (US regions) with a free st |
 | 9 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29346 | TypeScript | 2026-07-24 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 10 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11755 | Python | 2026-07-24 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
 | 11 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6752 | Go | 2026-07-24 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
@@ -83,7 +83,7 @@ expired items removed — so you can rely on what you see being current.
 | 39 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5642 | Go | 2026-07-24 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
 | 40 | [dr-gareth-roberts/insideLLMs](https://github.com/dr-gareth-roberts/insideLLMs) | 2 | Python | 2026-07-24 | insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h |
 | 41 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 107 | Python | 2026-07-24 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
-| 42 | [wjlgatech/FM-os](https://github.com/wjlgatech/FM-os) | 2 | Python | 2026-07-24 | 🛠️ FM-os: the living, SLM-first map of foundation-model operations — pre-training, post-training, fine-tuning & RL. Cura |
+| 42 | [wjlgatech/FM-os](https://github.com/wjlgatech/FM-os) | 1 | Python | 2026-07-24 | 🛠️ FM-os: the living, SLM-first map of foundation-model operations — pre-training, post-training, fine-tuning & RL. Cura |
 | 43 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 1 | Go | 2026-07-24 | Temporal workers and clients for wrapping access to different LLMs |
 | 44 | [api7/aisix](https://github.com/api7/aisix) | 72 | Rust | 2026-07-24 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
 | 45 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-24 | ThakiCloud Tech Blog |
