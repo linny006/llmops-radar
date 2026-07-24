@@ -1,5 +1,68 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6749,
+    "updated_at": "2026-07-24T06:26:58Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-24T06:25:59Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
+    "id": "ahmeedatm/infer-router",
+    "language": "Python",
+    "name": "ahmeedatm/infer-router",
+    "stars": 0,
+    "updated_at": "2026-07-24T06:25:21Z",
+    "url": "https://github.com/ahmeedatm/infer-router"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-24T06:23:55Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-24T06:23:09Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
+    "id": "melaya-labs/melaya",
+    "language": "Python",
+    "name": "melaya-labs/melaya",
+    "stars": 4,
+    "updated_at": "2026-07-24T06:16:54Z",
+    "url": "https://github.com/melaya-labs/melaya"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-24T06:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
     "id": "bionic-gpt/bionic-gpt",
     "language": "Rust",
@@ -9,11 +72,20 @@
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8028,
+    "updated_at": "2026-07-24T06:11:23Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10707,
+    "stars": 10708,
     "updated_at": "2026-07-24T06:07:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -45,30 +117,12 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-24T06:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6749,
-    "updated_at": "2026-07-24T05:57:55Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54544,
-    "updated_at": "2026-07-24T06:06:43Z",
+    "updated_at": "2026-07-24T06:30:20Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T05:55:14Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
-    "id": "melaya-labs/melaya",
-    "language": "Python",
-    "name": "melaya-labs/melaya",
-    "stars": 4,
-    "updated_at": "2026-07-24T05:53:58Z",
-    "url": "https://github.com/melaya-labs/melaya"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -104,7 +149,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-07-24T05:46:54Z",
+    "updated_at": "2026-07-24T06:30:19Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 10,
-    "updated_at": "2026-07-24T05:43:05Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -133,15 +169,6 @@
     "stars": 7,
     "updated_at": "2026-07-24T05:40:00Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-24T05:35:12Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 66,
-    "updated_at": "2026-07-24T05:09:40Z",
+    "updated_at": "2026-07-24T06:27:37Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11755,
-    "updated_at": "2026-07-24T04:22:06Z",
+    "updated_at": "2026-07-24T06:24:41Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -266,26 +293,8 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5642,
-    "updated_at": "2026-07-24T04:34:27Z",
+    "updated_at": "2026-07-24T06:25:13Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:33:00Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8027,
-    "updated_at": "2026-07-24T06:11:23Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-24T01:40:29Z",
     "url": "https://github.com/acornops/execution-engine"
-  },
-  {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
-    "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 111,
-    "updated_at": "2026-07-24T01:38:09Z",
-    "url": "https://github.com/OrlojHQ/orloj"
   }
 ]
