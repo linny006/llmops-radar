@@ -1,11 +1,38 @@
 [
   {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 39,
+    "updated_at": "2026-07-24T19:45:19Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
+    "id": "rrbanda/agent-lens",
+    "language": "Python",
+    "name": "rrbanda/agent-lens",
+    "stars": 0,
+    "updated_at": "2026-07-24T19:42:44Z",
+    "url": "https://github.com/rrbanda/agent-lens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-24T19:41:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-07-24T19:39:20Z",
+    "updated_at": "2026-07-24T19:42:19Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -54,21 +81,12 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-24T19:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6772,
-    "updated_at": "2026-07-24T19:38:26Z",
+    "updated_at": "2026-07-24T19:44:36Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -77,7 +95,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-24T19:37:53Z",
+    "updated_at": "2026-07-24T19:44:34Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-24T19:21:59Z",
+    "updated_at": "2026-07-24T19:42:25Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-24T19:29:26Z",
+    "updated_at": "2026-07-24T19:43:23Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -284,17 +302,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54616,
-    "updated_at": "2026-07-24T19:39:56Z",
+    "updated_at": "2026-07-24T19:44:10Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
-    "id": "rrbanda/agent-lens",
-    "language": "Python",
-    "name": "rrbanda/agent-lens",
-    "stars": 0,
-    "updated_at": "2026-07-24T19:38:53Z",
-    "url": "https://github.com/rrbanda/agent-lens"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T18:45:04Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-24T18:44:21Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   }
 ]
