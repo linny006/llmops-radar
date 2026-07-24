@@ -1,5 +1,50 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6748,
+    "updated_at": "2026-07-24T04:57:47Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54540,
+    "updated_at": "2026-07-24T04:56:36Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
+    "id": "salmanzafar949/ctxdiff",
+    "language": "Python",
+    "name": "salmanzafar949/ctxdiff",
+    "stars": 0,
+    "updated_at": "2026-07-24T04:50:26Z",
+    "url": "https://github.com/salmanzafar949/ctxdiff"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 1,
+    "updated_at": "2026-07-24T04:54:18Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-24T04:45:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -9,15 +54,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
-    "id": "salmanzafar949/ctxdiff",
-    "language": "Python",
-    "name": "salmanzafar949/ctxdiff",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:44:04Z",
-    "url": "https://github.com/salmanzafar949/ctxdiff"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -25,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T04:40:55Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-24T04:30:46Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -61,15 +88,6 @@
     "stars": 10,
     "updated_at": "2026-07-24T04:20:00Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54538,
-    "updated_at": "2026-07-24T04:13:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 66,
-    "updated_at": "2026-07-24T03:52:43Z",
+    "updated_at": "2026-07-24T04:58:13Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 5642,
     "updated_at": "2026-07-24T04:34:27Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 1,
-    "updated_at": "2026-07-24T03:47:37Z",
-    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10708,
-    "updated_at": "2026-07-24T04:44:31Z",
+    "updated_at": "2026-07-24T05:00:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -270,15 +279,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6748,
-    "updated_at": "2026-07-24T04:44:40Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -293,7 +293,7 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-07-24T04:08:57Z",
+    "updated_at": "2026-07-24T05:00:12Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
