@@ -1,12 +1,12 @@
 [
   {
-    "description": "Distill Claude's topic classification into a local TF-IDF+LogReg student (real Haiku teacher on Bedrock). Recovers 81% o",
-    "id": "tkarim45/model-distillation",
-    "language": "Python",
-    "name": "tkarim45/model-distillation",
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "stars": 0,
-    "updated_at": "2026-07-25T06:59:10Z",
-    "url": "https://github.com/tkarim45/model-distillation"
+    "updated_at": "2026-07-25T07:13:20Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -14,8 +14,44 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-25T06:58:31Z",
+    "updated_at": "2026-07-25T07:08:59Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Teach + benchmark every layer of production RAG on one shared harness \u2014 chunking, embeddings, indexing, retrieval, reran",
+    "id": "tkarim45/production-rag-lab",
+    "language": "Python",
+    "name": "tkarim45/production-rag-lab",
+    "stars": 1,
+    "updated_at": "2026-07-25T07:08:38Z",
+    "url": "https://github.com/tkarim45/production-rag-lab"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-25T07:01:05Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-25T07:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Distill Claude's topic classification into a local TF-IDF+LogReg student (real Haiku teacher on Bedrock). Recovers 81% o",
+    "id": "tkarim45/model-distillation",
+    "language": "Python",
+    "name": "tkarim45/model-distillation",
+    "stars": 0,
+    "updated_at": "2026-07-25T06:59:10Z",
+    "url": "https://github.com/tkarim45/model-distillation"
   },
   {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
@@ -117,15 +153,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-25T06:56:16Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -133,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-25T06:46:14Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-25T06:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T06:08:52Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-07-25T06:08:12Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 3,
-    "updated_at": "2026-07-25T06:05:16Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
   }
 ]
