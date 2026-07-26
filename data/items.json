@@ -1,12 +1,57 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10733,
+    "updated_at": "2026-07-26T06:59:22Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
+    "id": "renezander030/draftcat",
+    "language": "Go",
+    "name": "renezander030/draftcat",
+    "stars": 10,
+    "updated_at": "2026-07-26T06:57:14Z",
+    "url": "https://github.com/renezander030/draftcat"
+  },
+  {
     "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
     "id": "Amitcoh1/agentbreaker",
     "language": "TypeScript",
     "name": "Amitcoh1/agentbreaker",
     "stars": 3,
-    "updated_at": "2026-07-26T06:44:59Z",
+    "updated_at": "2026-07-26T06:52:31Z",
     "url": "https://github.com/Amitcoh1/agentbreaker"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 10,
+    "updated_at": "2026-07-26T06:50:08Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 48,
+    "updated_at": "2026-07-26T06:46:56Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T06:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Seven patterns for adding AI features to existing products: sidecar vs in-process, streaming, caching tiers, eval-gated ",
@@ -18,20 +63,11 @@
     "url": "https://github.com/amin-ale/ai-retrofit-playbook"
   },
   {
-    "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
-    "id": "renezander030/draftcat",
-    "language": "Go",
-    "name": "renezander030/draftcat",
-    "stars": 10,
-    "updated_at": "2026-07-26T06:35:37Z",
-    "url": "https://github.com/renezander030/draftcat"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
     "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-26T06:34:55Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
@@ -54,15 +90,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T06:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Stdlib-only LLMOps: cost-aware model routing, evals, and honest telemetry \u2014 measured on real usage (162 tests)",
     "id": "evince55/aria-llmops",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T06:19:04Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 48,
-    "updated_at": "2026-07-26T06:43:52Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
@@ -121,7 +139,7 @@
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
     "name": "GenesisClawbot/llm-drift",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-26T06:05:38Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54703,
-    "updated_at": "2026-07-26T05:57:10Z",
+    "updated_at": "2026-07-26T06:57:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-26T05:25:50Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-26T05:25:17Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-07-26T05:25:17Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
