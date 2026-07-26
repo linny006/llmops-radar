@@ -1,5 +1,59 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 19,
+    "updated_at": "2026-07-26T18:59:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 74,
+    "updated_at": "2026-07-26T18:58:31Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 67,
+    "updated_at": "2026-07-26T18:57:35Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23622,
+    "updated_at": "2026-07-26T18:47:41Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Evaluate any AI automation behind an HTTP endpoint \u2014 n8n, FastAPI, LangGraph. Deterministic-first graders + adversarial ",
+    "id": "Redsf/agent-evals",
+    "language": "Python",
+    "name": "Redsf/agent-evals",
+    "stars": 0,
+    "updated_at": "2026-07-26T18:46:12Z",
+    "url": "https://github.com/Redsf/agent-evals"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T18:45:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -9,24 +63,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 19,
-    "updated_at": "2026-07-26T18:44:11Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T18:43:10Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -34,6 +70,15 @@
     "stars": 48,
     "updated_at": "2026-07-26T18:44:12Z",
     "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8057,
+    "updated_at": "2026-07-26T18:40:58Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -122,7 +167,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6804,
-    "updated_at": "2026-07-26T18:33:46Z",
+    "updated_at": "2026-07-26T18:55:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3419,
-    "updated_at": "2026-07-26T18:45:08Z",
+    "updated_at": "2026-07-26T18:50:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31888,
-    "updated_at": "2026-07-26T18:04:38Z",
+    "updated_at": "2026-07-26T18:56:50Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 339,
-    "updated_at": "2026-07-26T18:44:48Z",
+    "updated_at": "2026-07-26T18:48:07Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23621,
-    "updated_at": "2026-07-26T17:33:06Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-26T17:30:55Z",
     "url": "https://github.com/zhasouris/corgi-ai-gateway"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:27:49Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-26T18:41:32Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:22:54Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 2,
-    "updated_at": "2026-07-26T17:22:12Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
   }
 ]
