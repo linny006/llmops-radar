@@ -1,11 +1,38 @@
 [
   {
+    "description": "A token-spend profiler and cost-regression gate for AI agents.",
+    "id": "faizannraza/wattage",
+    "language": "Python",
+    "name": "faizannraza/wattage",
+    "stars": 0,
+    "updated_at": "2026-07-26T22:29:44Z",
+    "url": "https://github.com/faizannraza/wattage"
+  },
+  {
+    "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
+    "id": "rrbanda/agentlens",
+    "language": "Python",
+    "name": "rrbanda/agentlens",
+    "stars": 0,
+    "updated_at": "2026-07-26T22:28:33Z",
+    "url": "https://github.com/rrbanda/agentlens"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-26T22:28:08Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
     "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
     "id": "kai2055/incident-postmortem-assistant",
     "language": "Python",
     "name": "kai2055/incident-postmortem-assistant",
     "stars": 0,
-    "updated_at": "2026-07-26T22:13:45Z",
+    "updated_at": "2026-07-26T22:26:09Z",
     "url": "https://github.com/kai2055/incident-postmortem-assistant"
   },
   {
@@ -14,8 +41,80 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 534,
-    "updated_at": "2026-07-26T22:13:45Z",
+    "updated_at": "2026-07-26T22:25:03Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-26T22:23:41Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Evaluation discipline for agentic apps, operated through your coding agent \u2014 honest, local-first scorecards where a gree",
+    "id": "Syntelesis-Lab/evalglass",
+    "language": "Python",
+    "name": "Syntelesis-Lab/evalglass",
+    "stars": 0,
+    "updated_at": "2026-07-26T22:22:32Z",
+    "url": "https://github.com/Syntelesis-Lab/evalglass"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-26T22:26:01Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54748,
+    "updated_at": "2026-07-26T22:17:33Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 19,
+    "updated_at": "2026-07-26T22:17:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 1,
+    "updated_at": "2026-07-26T22:16:51Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-26T22:16:05Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T22:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
@@ -32,17 +131,8 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 39,
-    "updated_at": "2026-07-26T22:14:34Z",
+    "updated_at": "2026-07-26T22:24:26Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-26T22:11:29Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
@@ -59,7 +149,7 @@
     "language": "TypeScript",
     "name": "acornops/management-console",
     "stars": 2,
-    "updated_at": "2026-07-26T22:09:57Z",
+    "updated_at": "2026-07-26T22:21:27Z",
     "url": "https://github.com/acornops/management-console"
   },
   {
@@ -77,17 +167,8 @@
     "language": "TypeScript",
     "name": "acornops/control-plane",
     "stars": 2,
-    "updated_at": "2026-07-26T22:09:48Z",
+    "updated_at": "2026-07-26T22:21:25Z",
     "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
-    "id": "rrbanda/agentlens",
-    "language": "Python",
-    "name": "rrbanda/agentlens",
-    "stars": 0,
-    "updated_at": "2026-07-26T22:07:29Z",
-    "url": "https://github.com/rrbanda/agentlens"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -97,15 +178,6 @@
     "stars": 33,
     "updated_at": "2026-07-26T22:04:27Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 19,
-    "updated_at": "2026-07-26T22:04:02Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -126,15 +198,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T22:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -142,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-26T21:59:07Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "A token-spend profiler and cost-regression gate for AI agents.",
-    "id": "faizannraza/wattage",
-    "language": "Python",
-    "name": "faizannraza/wattage",
-    "stars": 0,
-    "updated_at": "2026-07-26T21:58:44Z",
-    "url": "https://github.com/faizannraza/wattage"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -261,15 +315,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-26T22:12:47Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
     "id": "acr3463/systemprompt-demo",
     "language": "\u2014",
@@ -338,7 +383,7 @@
     "language": "\u2014",
     "name": "AethosHub/AgentAccessManager",
     "stars": 0,
-    "updated_at": "2026-07-26T22:07:59Z",
+    "updated_at": "2026-07-26T22:26:43Z",
     "url": "https://github.com/AethosHub/AgentAccessManager"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 8,
     "updated_at": "2026-07-26T21:03:01Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-07-26T21:02:42Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20891,
-    "updated_at": "2026-07-26T21:00:54Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-07-26T20:58:19Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 48,
-    "updated_at": "2026-07-26T20:54:56Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 1,
-    "updated_at": "2026-07-26T20:54:34Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
