@@ -1,5 +1,59 @@
 [
   {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 9,
+    "updated_at": "2026-07-26T09:44:40Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-26T09:43:37Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Cited document Q&A over your PDFs. FastAPI + pgvector with hybrid retrieval, reranking, per-claim citation verification,",
+    "id": "codebybilal18/documind-api",
+    "language": "Python",
+    "name": "codebybilal18/documind-api",
+    "stars": 1,
+    "updated_at": "2026-07-26T09:43:04Z",
+    "url": "https://github.com/codebybilal18/documind-api"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-26T09:40:11Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 179,
+    "updated_at": "2026-07-26T09:42:21Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T09:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI site & property inspection copilot using vision-grounded measurements, citation-backed RAG compliance checks, and mul",
     "id": "suryaaxc/SiteSynapse",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 3419,
     "updated_at": "2026-07-26T09:30:19Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 179,
-    "updated_at": "2026-07-26T09:25:56Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
@@ -117,15 +162,6 @@
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T09:15:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -178,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-26T09:10:42Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-26T09:21:15Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -243,15 +270,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Cited document Q&A over your PDFs. FastAPI + pgvector with hybrid retrieval, reranking, per-claim citation verification,",
-    "id": "codebybilal18/documind-api",
-    "language": "Python",
-    "name": "codebybilal18/documind-api",
-    "stars": 0,
-    "updated_at": "2026-07-26T09:01:09Z",
-    "url": "https://github.com/codebybilal18/documind-api"
-  },
-  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54717,
-    "updated_at": "2026-07-26T08:55:57Z",
+    "updated_at": "2026-07-26T09:39:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 24,
     "updated_at": "2026-07-26T08:46:51Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 1,
-    "updated_at": "2026-07-26T08:44:24Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-26T08:44:14Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   }
 ]
