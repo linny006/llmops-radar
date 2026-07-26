@@ -1,5 +1,122 @@
 [
   {
+    "description": "Your AI agent is a black box. Make it glass. Zero-config local tracing for LLM agents \u2014 one import, no account, no Docke",
+    "id": "JamesJoe716/clearbox",
+    "language": "Python",
+    "name": "JamesJoe716/clearbox",
+    "stars": 0,
+    "updated_at": "2026-07-26T15:29:05Z",
+    "url": "https://github.com/JamesJoe716/clearbox"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-26T15:28:38Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 18,
+    "updated_at": "2026-07-26T15:28:15Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-07-26T15:28:06Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
+    "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
+    "language": "JavaScript",
+    "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
+    "stars": 0,
+    "updated_at": "2026-07-26T15:28:02Z",
+    "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 2,
+    "updated_at": "2026-07-26T15:23:49Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-26T15:23:47Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-07-26T15:24:21Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 19,
+    "updated_at": "2026-07-26T15:18:33Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
+    "id": "acr3463/systemprompt-demo",
+    "language": "\u2014",
+    "name": "acr3463/systemprompt-demo",
+    "stars": 1,
+    "updated_at": "2026-07-26T15:17:56Z",
+    "url": "https://github.com/acr3463/systemprompt-demo"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
+    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "language": "HTML",
+    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "stars": 0,
+    "updated_at": "2026-07-26T15:16:25Z",
+    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
+  },
+  {
+    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
+    "id": "Frayagronomist166/LiteRT.js-Mocap",
+    "language": "\u2014",
+    "name": "Frayagronomist166/LiteRT.js-Mocap",
+    "stars": 1,
+    "updated_at": "2026-07-26T15:15:57Z",
+    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T15:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
     "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
     "language": "\u2014",
@@ -27,24 +144,6 @@
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   },
   {
-    "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
-    "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "language": "JavaScript",
-    "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "stars": 0,
-    "updated_at": "2026-07-26T15:10:07Z",
-    "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 19,
-    "updated_at": "2026-07-26T15:09:33Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -70,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T15:08:33Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "Your AI agent is a black box. Make it glass. Zero-config local tracing for LLM agents \u2014 one import, no account, no Docke",
-    "id": "JamesJoe716/clearbox",
-    "language": "Python",
-    "name": "JamesJoe716/clearbox",
-    "stars": 0,
-    "updated_at": "2026-07-26T15:08:31Z",
-    "url": "https://github.com/JamesJoe716/clearbox"
   },
   {
     "description": "Cycles budget and action guard for OpenClaw agents",
@@ -167,7 +257,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-07-26T15:04:09Z",
+    "updated_at": "2026-07-26T15:25:25Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -187,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-07-26T15:03:25Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-07-26T15:03:17Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -232,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-07-26T15:00:53Z",
     "url": "https://github.com/runcycles/cycles-server-admin"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T15:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
@@ -329,7 +401,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3419,
-    "updated_at": "2026-07-26T15:11:03Z",
+    "updated_at": "2026-07-26T15:27:09Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-26T14:45:39Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 6,
-    "updated_at": "2026-07-26T14:45:29Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
-    "id": "kreftamarcio/prompt-forge",
-    "language": "TypeScript",
-    "name": "kreftamarcio/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-07-26T14:43:39Z",
-    "url": "https://github.com/kreftamarcio/prompt-forge"
-  },
-  {
-    "description": "Open protocol for runtime budget and action authority over AI agents",
-    "id": "runcycles/cycles-protocol",
-    "language": "Python",
-    "name": "runcycles/cycles-protocol",
-    "stars": 3,
-    "updated_at": "2026-07-26T14:41:23Z",
-    "url": "https://github.com/runcycles/cycles-protocol"
-  },
-  {
-    "description": "GitHub org config, CI workflows, and community health files for Cycles",
-    "id": "runcycles/.github",
-    "language": "Shell",
-    "name": "runcycles/.github",
-    "stars": 0,
-    "updated_at": "2026-07-26T14:41:21Z",
-    "url": "https://github.com/runcycles/.github"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-26T14:41:06Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-07-26T14:39:35Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-26T14:39:32Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-07-26T14:38:58Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
