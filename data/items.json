@@ -1,5 +1,95 @@
 [
   {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 48,
+    "updated_at": "2026-07-26T18:42:10Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 19,
+    "updated_at": "2026-07-26T18:39:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-26T18:37:52Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
+    "id": "rrbanda/agentlens",
+    "language": "Python",
+    "name": "rrbanda/agentlens",
+    "stars": 0,
+    "updated_at": "2026-07-26T18:35:26Z",
+    "url": "https://github.com/rrbanda/agentlens"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 39,
+    "updated_at": "2026-07-26T18:33:11Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-26T18:32:24Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The AI agent memory layer you can audit \u2014 local-first memory governance for AI agents: citations, trust policies, trace ",
+    "id": "phenomenoner/openclaw-mem",
+    "language": "Python",
+    "name": "phenomenoner/openclaw-mem",
+    "stars": 28,
+    "updated_at": "2026-07-26T18:32:23Z",
+    "url": "https://github.com/phenomenoner/openclaw-mem"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-26T18:32:14Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Measure what Anthropic prompt caching actually saves on the bill, not on input tokens alone.",
+    "id": "temperaturezerodev/prompt-caching-benchmark",
+    "language": "Python",
+    "name": "temperaturezerodev/prompt-caching-benchmark",
+    "stars": 0,
+    "updated_at": "2026-07-26T18:31:56Z",
+    "url": "https://github.com/temperaturezerodev/prompt-caching-benchmark"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T18:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
@@ -18,22 +108,13 @@
     "url": "https://github.com/vul-os/llmux"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
     "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 19,
-    "updated_at": "2026-07-26T18:21:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-26T18:20:53Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "name": "maximhq/bifrost",
+    "stars": 6804,
+    "updated_at": "2026-07-26T18:33:46Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -41,26 +122,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3419,
-    "updated_at": "2026-07-26T18:26:10Z",
+    "updated_at": "2026-07-26T18:41:43Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Measure what Anthropic prompt caching actually saves on the bill, not on input tokens alone.",
-    "id": "temperaturezerodev/prompt-caching-benchmark",
-    "language": "Python",
-    "name": "temperaturezerodev/prompt-caching-benchmark",
-    "stars": 0,
-    "updated_at": "2026-07-26T18:16:52Z",
-    "url": "https://github.com/temperaturezerodev/prompt-caching-benchmark"
-  },
-  {
-    "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
-    "id": "rrbanda/agentlens",
-    "language": "Python",
-    "name": "rrbanda/agentlens",
-    "stars": 0,
-    "updated_at": "2026-07-26T18:16:52Z",
-    "url": "https://github.com/rrbanda/agentlens"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -70,15 +133,6 @@
     "stars": 27217,
     "updated_at": "2026-07-26T18:17:36Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T18:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
@@ -139,7 +193,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31887,
+    "stars": 31888,
     "updated_at": "2026-07-26T18:04:38Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -151,6 +205,15 @@
     "stars": 2,
     "updated_at": "2026-07-26T18:03:48Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10747,
+    "updated_at": "2026-07-26T18:02:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -178,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-26T17:57:24Z",
     "url": "https://github.com/acr3463/systemprompt-demo"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 48,
-    "updated_at": "2026-07-26T18:21:00Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
@@ -266,7 +320,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 339,
-    "updated_at": "2026-07-26T17:43:44Z",
+    "updated_at": "2026-07-26T18:39:40Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -328,7 +382,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23620,
+    "stars": 23621,
     "updated_at": "2026-07-26T17:33:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -374,7 +428,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-26T17:48:11Z",
+    "updated_at": "2026-07-26T18:41:32Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-26T17:22:12Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:22:06Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:21:31Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:20:05Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 11,
-    "updated_at": "2026-07-26T17:18:45Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:15:38Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:14:11Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
