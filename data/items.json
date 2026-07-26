@@ -1,5 +1,41 @@
 [
   {
+    "description": "Cycles budget and action guard for OpenClaw agents",
+    "id": "runcycles/cycles-openclaw-budget-guard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-openclaw-budget-guard",
+    "stars": 7,
+    "updated_at": "2026-07-26T10:23:51Z",
+    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
+  },
+  {
+    "description": "A production-oriented LLM engineering platform with OpenAI-compatible serving, streaming, observability, evaluation, rep",
+    "id": "200lz/llm-engineering-platform",
+    "language": "Python",
+    "name": "200lz/llm-engineering-platform",
+    "stars": 0,
+    "updated_at": "2026-07-26T10:26:04Z",
+    "url": "https://github.com/200lz/llm-engineering-platform"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 2,
+    "updated_at": "2026-07-26T10:22:25Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T10:21:54Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Cited document Q&A over your PDFs. FastAPI + pgvector with hybrid retrieval, reranking, per-claim citation verification,",
     "id": "codebybilal18/documind-api",
     "language": "Python",
@@ -54,30 +90,12 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "A production-oriented LLM engineering platform with OpenAI-compatible serving, streaming, observability, evaluation, rep",
-    "id": "200lz/llm-engineering-platform",
-    "language": "Python",
-    "name": "200lz/llm-engineering-platform",
-    "stars": 0,
-    "updated_at": "2026-07-26T10:15:33Z",
-    "url": "https://github.com/200lz/llm-engineering-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T10:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-26T10:12:51Z",
+    "updated_at": "2026-07-26T10:26:57Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-07-26T09:40:11Z",
+    "updated_at": "2026-07-26T10:28:20Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3419,
-    "updated_at": "2026-07-26T10:16:50Z",
+    "updated_at": "2026-07-26T10:28:30Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-26T09:08:26Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-07-26T09:05:47Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-07-26T09:04:50Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   }
 ]
