@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-27 22:00 UTC
+> ⏰ Last updated: 2026-07-27 22:03 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54855 | Python | 2026-07-27 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 2 | [tmusser/ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills) | 3 | Python | 2026-07-27 | Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve |
-| 3 | [SaifPunjwani/truescore](https://github.com/SaifPunjwani/truescore) | 0 | Python | 2026-07-27 | Statistics for LLM-judged evaluations: bias-corrected scores, real confidence intervals, and comparisons that hold up |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54855 | Python | 2026-07-27 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [tmusser/ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills) | 3 | Python | 2026-07-27 | Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve |
+| 4 | [SaifPunjwani/truescore](https://github.com/SaifPunjwani/truescore) | 0 | Python | 2026-07-27 | Statistics for LLM-judged evaluations: bias-corrected scores, real confidence intervals, and comparisons that hold up |
 | 5 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 2 | Go | 2026-07-27 | Temporal workers and clients for wrapping access to different LLMs |
 | 6 | [crewhaus/factory](https://github.com/crewhaus/factory) | 4 | TypeScript | 2026-07-27 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
 | 7 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 3 | Rust | 2026-07-27 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
