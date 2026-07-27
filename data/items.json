@@ -1,21 +1,75 @@
 [
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-27T11:29:09Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31937,
-    "updated_at": "2026-07-27T11:27:06Z",
+    "updated_at": "2026-07-27T11:45:12Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Self-hosted AI gateway and broker: one OpenAI-compatible endpoint in front of every LLM provider, with virtual keys, sco",
+    "id": "AethosHub/AgentAccessManager",
+    "language": "\u2014",
+    "name": "AethosHub/AgentAccessManager",
+    "stars": 2,
+    "updated_at": "2026-07-27T11:44:01Z",
+    "url": "https://github.com/AethosHub/AgentAccessManager"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-27T11:43:34Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 20,
+    "updated_at": "2026-07-27T11:43:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 1,
+    "updated_at": "2026-07-27T11:43:02Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54821,
+    "updated_at": "2026-07-27T11:37:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
+    "id": "hamidmatiny/Vulcan",
+    "language": "Python",
+    "name": "hamidmatiny/Vulcan",
+    "stars": 0,
+    "updated_at": "2026-07-27T11:37:44Z",
+    "url": "https://github.com/hamidmatiny/Vulcan"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-27T11:44:59Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -23,8 +77,26 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 11,
-    "updated_at": "2026-07-27T11:26:19Z",
+    "updated_at": "2026-07-27T11:32:43Z",
     "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T11:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-27T11:35:24Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20908,
-    "updated_at": "2026-07-27T11:21:03Z",
+    "updated_at": "2026-07-27T11:32:51Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -117,15 +189,6 @@
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T11:16:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Rechecks a completion claim against the repository itself and holds the workflow when the required proof is missing.",
     "id": "OnourImpram/mergen",
     "language": "Python",
@@ -133,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T11:16:58Z",
     "url": "https://github.com/OnourImpram/mergen"
-  },
-  {
-    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
-    "id": "hamidmatiny/Vulcan",
-    "language": "Python",
-    "name": "hamidmatiny/Vulcan",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:13:36Z",
-    "url": "https://github.com/hamidmatiny/Vulcan"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 20,
-    "updated_at": "2026-07-27T11:11:33Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "MnemoIR \u2014 Causal Memory Incident Response for AI agents. Trace the blast radius of a bad/poisoned memory, repair the aff",
@@ -360,15 +405,6 @@
     "url": "https://github.com/Citrous-districtline59/agent-trace"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-27T10:46:19Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
     "id": "thesecretrapper786-netizen/catalyst-n1",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T10:42:21Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:40:44Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:40:39Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 2,
-    "updated_at": "2026-07-27T10:40:07Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:40:05Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
