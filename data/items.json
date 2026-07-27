@@ -1,30 +1,138 @@
 [
   {
+    "description": "Helix gives you agents that actually behave in production: hard budget limits, semantic caching that cuts API costs by 4",
+    "id": "sarcasticdhruv/helix-agent",
+    "language": "Python",
+    "name": "sarcasticdhruv/helix-agent",
+    "stars": 0,
+    "updated_at": "2026-07-27T14:29:10Z",
+    "url": "https://github.com/sarcasticdhruv/helix-agent"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-27T14:27:20Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
+    "id": "hamidmatiny/Vulcan",
+    "language": "Python",
+    "name": "hamidmatiny/Vulcan",
+    "stars": 0,
+    "updated_at": "2026-07-27T14:26:44Z",
+    "url": "https://github.com/hamidmatiny/Vulcan"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3422,
+    "updated_at": "2026-07-27T14:30:07Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 183,
+    "updated_at": "2026-07-27T14:23:49Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 20,
+    "updated_at": "2026-07-27T14:23:25Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31950,
-    "updated_at": "2026-07-27T14:13:54Z",
+    "updated_at": "2026-07-27T14:29:12Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10762,
-    "updated_at": "2026-07-27T14:12:43Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6819,
-    "updated_at": "2026-07-27T14:08:54Z",
+    "stars": 6820,
+    "updated_at": "2026-07-27T14:22:43Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
+    "id": "thangldw/ragops",
+    "language": "Python",
+    "name": "thangldw/ragops",
+    "stars": 0,
+    "updated_at": "2026-07-27T14:21:01Z",
+    "url": "https://github.com/thangldw/ragops"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54830,
+    "updated_at": "2026-07-27T14:20:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-07-27T14:19:01Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 53,
+    "updated_at": "2026-07-27T14:15:56Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T14:15:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27234,
+    "updated_at": "2026-07-27T14:14:07Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10763,
+    "updated_at": "2026-07-27T14:29:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -41,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20910,
-    "updated_at": "2026-07-27T14:06:14Z",
+    "updated_at": "2026-07-27T14:27:24Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -54,15 +162,6 @@
     "url": "https://github.com/danieldanielda/agent-pipeline-eval"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-27T14:11:33Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -70,24 +169,6 @@
     "stars": 11,
     "updated_at": "2026-07-27T14:01:33Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T14:00:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 183,
-    "updated_at": "2026-07-27T14:11:54Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
@@ -108,15 +189,6 @@
     "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 20,
-    "updated_at": "2026-07-27T13:52:01Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
@@ -124,24 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T13:49:57Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3421,
-    "updated_at": "2026-07-27T14:15:08Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
-    "id": "hamidmatiny/Vulcan",
-    "language": "Python",
-    "name": "hamidmatiny/Vulcan",
-    "stars": 0,
-    "updated_at": "2026-07-27T13:41:51Z",
-    "url": "https://github.com/hamidmatiny/Vulcan"
   },
   {
     "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-27T14:09:00Z",
+    "updated_at": "2026-07-27T14:19:51Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-demo",
     "stars": 2,
-    "updated_at": "2026-07-27T14:14:13Z",
+    "updated_at": "2026-07-27T14:29:50Z",
     "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
@@ -232,15 +286,6 @@
     "stars": 89,
     "updated_at": "2026-07-27T13:10:41Z",
     "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54829,
-    "updated_at": "2026-07-27T13:09:52Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
@@ -259,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T13:39:58Z",
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27234,
-    "updated_at": "2026-07-27T14:14:07Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T12:13:03Z",
     "url": "https://github.com/DheerajPranav/mnemo-ir"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-27T13:15:53Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
-    "id": "neurarch-ai/awesome-llm-system-design",
-    "language": "Python",
-    "name": "neurarch-ai/awesome-llm-system-design",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:52:02Z",
-    "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
-  },
-  {
-    "description": "Self-hosted AI gateway and broker: one OpenAI-compatible endpoint in front of every LLM provider, with virtual keys, sco",
-    "id": "AethosHub/AgentAccessManager",
-    "language": "\u2014",
-    "name": "AethosHub/AgentAccessManager",
-    "stars": 2,
-    "updated_at": "2026-07-27T11:57:28Z",
-    "url": "https://github.com/AethosHub/AgentAccessManager"
-  },
-  {
-    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
-    "id": "acr3463/systemprompt-demo",
-    "language": "\u2014",
-    "name": "acr3463/systemprompt-demo",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:25:23Z",
-    "url": "https://github.com/acr3463/systemprompt-demo"
   }
 ]
