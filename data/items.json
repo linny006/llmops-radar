@@ -1,12 +1,30 @@
 [
   {
+    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
+    "id": "AshwinUgale/muteval",
+    "language": "Python",
+    "name": "AshwinUgale/muteval",
+    "stars": 1,
+    "updated_at": "2026-07-27T20:58:07Z",
+    "url": "https://github.com/AshwinUgale/muteval"
+  },
+  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 4,
-    "updated_at": "2026-07-27T20:49:22Z",
+    "updated_at": "2026-07-27T20:59:04Z",
     "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10766,
+    "updated_at": "2026-07-27T20:55:45Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 4,
-    "updated_at": "2026-07-27T20:45:27Z",
+    "updated_at": "2026-07-27T20:50:48Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -25,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T20:40:53Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10766,
-    "updated_at": "2026-07-27T20:36:50Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -54,6 +63,15 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20922,
+    "updated_at": "2026-07-27T20:30:10Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Graduate AI skills into cheap, fast, deterministic workflows",
     "id": "trevhud/rote",
     "language": "Python",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 0,
-    "updated_at": "2026-07-27T20:49:42Z",
+    "updated_at": "2026-07-27T21:00:06Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3422,
-    "updated_at": "2026-07-27T20:50:32Z",
+    "updated_at": "2026-07-27T20:59:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/routeplane-core/routeplane-ce"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20921,
-    "updated_at": "2026-07-27T20:30:10Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-27T18:17:35Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 6,
-    "updated_at": "2026-07-27T18:15:55Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   }
 ]
