@@ -1,5 +1,59 @@
 [
   {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 3,
+    "updated_at": "2026-07-27T13:58:52Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "\u041a\u0430\u0440\u043a\u0430\u0441 \u0434\u043b\u044f \u043f\u0430\u0439\u043f\u043b\u0430\u0439\u043d\u043e\u0432 \u0438\u0437 LLM-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043e\u0440\u043a\u0435\u0441\u0442\u0440\u0430\u0446\u0438\u044f, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0442\u0435\u043b\u0438, \u044d\u0432\u0430\u043b-\u0445\u0430\u0440\u043d\u0435\u0441",
+    "id": "danieldanielda/agent-pipeline-eval",
+    "language": "Python",
+    "name": "danieldanielda/agent-pipeline-eval",
+    "stars": 0,
+    "updated_at": "2026-07-27T13:58:48Z",
+    "url": "https://github.com/danieldanielda/agent-pipeline-eval"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20909,
+    "updated_at": "2026-07-27T13:57:07Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 0,
+    "updated_at": "2026-07-27T13:54:25Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T13:52:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 20,
+    "updated_at": "2026-07-27T13:52:01Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
@@ -14,17 +68,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3421,
-    "updated_at": "2026-07-27T13:51:28Z",
+    "updated_at": "2026-07-27T14:00:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T13:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "dshakes/distil",
+    "stars": 8,
+    "updated_at": "2026-07-27T14:00:15Z",
+    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
@@ -77,17 +131,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31947,
-    "updated_at": "2026-07-27T13:51:35Z",
+    "updated_at": "2026-07-27T13:59:49Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20909,
-    "updated_at": "2026-07-27T13:34:13Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -144,20 +189,11 @@
     "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 20,
-    "updated_at": "2026-07-27T13:52:01Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54828,
+    "stars": 54829,
     "updated_at": "2026-07-27T13:09:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -216,15 +252,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 8,
-    "updated_at": "2026-07-27T13:48:52Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
     "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
     "id": "runcycles/cycles-server",
     "language": "Java",
@@ -266,7 +293,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 2,
-    "updated_at": "2026-07-27T13:49:41Z",
+    "updated_at": "2026-07-27T13:59:51Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-27T13:03:04Z",
+    "updated_at": "2026-07-27T13:55:48Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6819,
-    "updated_at": "2026-07-27T13:20:09Z",
+    "updated_at": "2026-07-27T13:55:23Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T11:23:40Z",
     "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:21:52Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:21:42Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 2,
-    "updated_at": "2026-07-27T11:21:37Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   }
 ]
