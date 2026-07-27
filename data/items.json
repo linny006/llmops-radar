@@ -1,5 +1,77 @@
 [
   {
+    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
+    "id": "hamidmatiny/Vulcan",
+    "language": "Python",
+    "name": "hamidmatiny/Vulcan",
+    "stars": 0,
+    "updated_at": "2026-07-27T15:14:21Z",
+    "url": "https://github.com/hamidmatiny/Vulcan"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6821,
+    "updated_at": "2026-07-27T15:11:58Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-27T15:11:36Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 9,
+    "updated_at": "2026-07-27T15:14:03Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 20,
+    "updated_at": "2026-07-27T15:05:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T15:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Helix gives you agents that actually behave in production: hard budget limits, semantic caching that cuts API costs by 4",
+    "id": "sarcasticdhruv/helix-agent",
+    "language": "Python",
+    "name": "sarcasticdhruv/helix-agent",
+    "stars": 0,
+    "updated_at": "2026-07-27T14:59:41Z",
+    "url": "https://github.com/sarcasticdhruv/helix-agent"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-27T15:13:31Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
     "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
     "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "language": "TypeScript",
@@ -13,7 +85,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2501,
+    "stars": 2502,
     "updated_at": "2026-07-27T14:54:32Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -23,17 +95,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31951,
-    "updated_at": "2026-07-27T14:59:57Z",
+    "updated_at": "2026-07-27T15:10:36Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-27T14:53:38Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20912,
-    "updated_at": "2026-07-27T14:47:18Z",
+    "updated_at": "2026-07-27T15:15:01Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -54,31 +117,13 @@
     "url": "https://github.com/okfriansyah-moh/the-foundry"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T14:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
     "id": "Bobcatsfan33/AI-Security-Platform",
     "language": "Python",
     "name": "Bobcatsfan33/AI-Security-Platform",
     "stars": 1,
-    "updated_at": "2026-07-27T14:43:13Z",
+    "updated_at": "2026-07-27T15:02:02Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 20,
-    "updated_at": "2026-07-27T14:42:37Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10763,
-    "updated_at": "2026-07-27T14:54:44Z",
+    "updated_at": "2026-07-27T15:10:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -108,30 +153,12 @@
     "url": "https://github.com/umutkeltek/switchback"
   },
   {
-    "description": "Helix gives you agents that actually behave in production: hard budget limits, semantic caching that cuts API costs by 4",
-    "id": "sarcasticdhruv/helix-agent",
-    "language": "Python",
-    "name": "sarcasticdhruv/helix-agent",
-    "stars": 0,
-    "updated_at": "2026-07-27T14:59:41Z",
-    "url": "https://github.com/sarcasticdhruv/helix-agent"
-  },
-  {
-    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
-    "id": "hamidmatiny/Vulcan",
-    "language": "Python",
-    "name": "hamidmatiny/Vulcan",
-    "stars": 0,
-    "updated_at": "2026-07-27T14:26:44Z",
-    "url": "https://github.com/hamidmatiny/Vulcan"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3422,
-    "updated_at": "2026-07-27T14:55:52Z",
+    "updated_at": "2026-07-27T15:09:55Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -142,15 +169,6 @@
     "stars": 183,
     "updated_at": "2026-07-27T14:23:49Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6820,
-    "updated_at": "2026-07-27T14:54:01Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54832,
-    "updated_at": "2026-07-27T14:20:44Z",
+    "updated_at": "2026-07-27T15:09:27Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 27234,
     "updated_at": "2026-07-27T14:14:07Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 9,
-    "updated_at": "2026-07-27T14:54:43Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "\u041a\u0430\u0440\u043a\u0430\u0441 \u0434\u043b\u044f \u043f\u0430\u0439\u043f\u043b\u0430\u0439\u043d\u043e\u0432 \u0438\u0437 LLM-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043e\u0440\u043a\u0435\u0441\u0442\u0440\u0430\u0446\u0438\u044f, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0442\u0435\u043b\u0438, \u044d\u0432\u0430\u043b-\u0445\u0430\u0440\u043d\u0435\u0441",
@@ -223,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-07-27T13:54:25Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5523,
+    "updated_at": "2026-07-27T13:52:15Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-27T14:19:51Z",
+    "updated_at": "2026-07-27T15:12:53Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 29405,
     "updated_at": "2026-07-27T12:30:37Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-27T14:59:14Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-27T12:29:33Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
