@@ -1,12 +1,66 @@
 [
   {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-07-27T00:59:30Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 48,
-    "updated_at": "2026-07-27T00:42:27Z",
+    "updated_at": "2026-07-27T00:57:58Z",
     "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 9,
+    "updated_at": "2026-07-27T00:57:16Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-27T00:56:20Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
+    "id": "tmusser/ai-engineering-skills",
+    "language": "Python",
+    "name": "tmusser/ai-engineering-skills",
+    "stars": 3,
+    "updated_at": "2026-07-27T00:50:10Z",
+    "url": "https://github.com/tmusser/ai-engineering-skills"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-27T00:57:24Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T00:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -63,15 +117,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-07-27T00:33:16Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
     "description": "Statistics for LLM-judged evaluations: bias-corrected scores, real confidence intervals, and comparisons that hold up",
     "id": "SaifPunjwani/truescore",
     "language": "Python",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T00:31:10Z",
     "url": "https://github.com/SaifPunjwani/truescore"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T00:30:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8063,
-    "updated_at": "2026-07-27T00:07:46Z",
+    "updated_at": "2026-07-27T00:53:06Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-07-26T23:58:42Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-27T00:43:20Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Open-source tracing for long-running agents. Self-hosted observability that shows what your agent decided, and why.",
@@ -338,7 +365,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23625,
-    "updated_at": "2026-07-26T23:28:13Z",
+    "updated_at": "2026-07-27T00:46:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-26T23:17:20Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-26T23:17:18Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-07-26T23:16:42Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54756,
-    "updated_at": "2026-07-26T23:16:31Z",
-    "url": "https://github.com/BerriAI/litellm"
   }
 ]
