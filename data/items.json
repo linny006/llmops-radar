@@ -1,21 +1,57 @@
 [
   {
-    "description": "Open source framework for spec-driven agentic software engineering. PRDs, prompts, agents, skills, workflows, and coding",
-    "id": "Enovatr-Labs/SpecRoute",
-    "language": "Shell",
-    "name": "Enovatr-Labs/SpecRoute",
-    "stars": 2,
-    "updated_at": "2026-07-27T19:00:09Z",
-    "url": "https://github.com/Enovatr-Labs/SpecRoute"
+    "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
+    "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
+    "language": "JavaScript",
+    "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
+    "stars": 0,
+    "updated_at": "2026-07-27T19:14:44Z",
+    "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
   },
   {
-    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
-    "id": "Amitcoh1/agentbreaker",
-    "language": "TypeScript",
-    "name": "Amitcoh1/agentbreaker",
-    "stars": 3,
-    "updated_at": "2026-07-27T18:57:58Z",
-    "url": "https://github.com/Amitcoh1/agentbreaker"
+    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
+    "id": "shaikn6/shaikn6",
+    "language": "Python",
+    "name": "shaikn6/shaikn6",
+    "stars": 0,
+    "updated_at": "2026-07-27T19:12:41Z",
+    "url": "https://github.com/shaikn6/shaikn6"
+  },
+  {
+    "description": "Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every",
+    "id": "dcondrey/misterdev",
+    "language": "Python",
+    "name": "dcondrey/misterdev",
+    "stars": 1,
+    "updated_at": "2026-07-27T19:14:10Z",
+    "url": "https://github.com/dcondrey/misterdev"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54849,
+    "updated_at": "2026-07-27T19:11:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-27T19:10:40Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-07-27T19:09:08Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "Context optimization for AI agents \u2014 97 domain knowledge graphs, MCP-native traversal. 4\u00d7 F1 of RAG, 11\u00d7 fewer tokens pe",
@@ -23,8 +59,44 @@
     "language": "Python",
     "name": "Yarmoluk/ckg-mcp",
     "stars": 4,
-    "updated_at": "2026-07-27T18:57:46Z",
+    "updated_at": "2026-07-27T19:09:04Z",
     "url": "https://github.com/Yarmoluk/ckg-mcp"
+  },
+  {
+    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
+    "id": "Amitcoh1/agentbreaker",
+    "language": "TypeScript",
+    "name": "Amitcoh1/agentbreaker",
+    "stars": 3,
+    "updated_at": "2026-07-27T19:09:15Z",
+    "url": "https://github.com/Amitcoh1/agentbreaker"
+  },
+  {
+    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
+    "id": "hamidmatiny/Vulcan",
+    "language": "Python",
+    "name": "hamidmatiny/Vulcan",
+    "stars": 0,
+    "updated_at": "2026-07-27T19:03:49Z",
+    "url": "https://github.com/hamidmatiny/Vulcan"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T19:00:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open source framework for spec-driven agentic software engineering. PRDs, prompts, agents, skills, workflows, and coding",
+    "id": "Enovatr-Labs/SpecRoute",
+    "language": "Shell",
+    "name": "Enovatr-Labs/SpecRoute",
+    "stars": 2,
+    "updated_at": "2026-07-27T19:15:22Z",
+    "url": "https://github.com/Enovatr-Labs/SpecRoute"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -63,22 +135,13 @@
     "url": "https://github.com/umutkeltek/switchback"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-27T18:57:44Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T18:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3119,
+    "updated_at": "2026-07-27T18:43:50Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -97,15 +160,6 @@
     "stars": 9,
     "updated_at": "2026-07-27T18:40:17Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54847,
-    "updated_at": "2026-07-27T18:59:50Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -130,7 +184,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23663,
+    "stars": 23664,
     "updated_at": "2026-07-27T18:32:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -160,15 +214,6 @@
     "stars": 107,
     "updated_at": "2026-07-27T18:46:48Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
-    "id": "hamidmatiny/Vulcan",
-    "language": "Python",
-    "name": "hamidmatiny/Vulcan",
-    "stars": 0,
-    "updated_at": "2026-07-27T18:25:38Z",
-    "url": "https://github.com/hamidmatiny/Vulcan"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T17:41:53Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
-    "id": "salmanzafar949/ctxdiff",
-    "language": "Python",
-    "name": "salmanzafar949/ctxdiff",
-    "stars": 4,
-    "updated_at": "2026-07-27T17:24:57Z",
-    "url": "https://github.com/salmanzafar949/ctxdiff"
-  },
-  {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 1,
-    "updated_at": "2026-07-27T17:36:37Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
-    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-spring-boot-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-boot-starter",
-    "stars": 2,
-    "updated_at": "2026-07-27T17:21:57Z",
-    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
-  },
-  {
-    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-client-rust",
-    "language": "Rust",
-    "name": "runcycles/cycles-client-rust",
-    "stars": 1,
-    "updated_at": "2026-07-27T17:21:55Z",
-    "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
-    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
-    "id": "runcycles/cycles-client-typescript",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-client-typescript",
-    "stars": 0,
-    "updated_at": "2026-07-27T17:21:53Z",
-    "url": "https://github.com/runcycles/cycles-client-typescript"
   }
 ]
