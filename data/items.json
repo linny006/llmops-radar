@@ -1,5 +1,104 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6816,
+    "updated_at": "2026-07-27T07:14:02Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Self-hosted AI gateway and broker: one OpenAI-compatible endpoint in front of every LLM provider, with virtual keys, sco",
+    "id": "AethosHub/AgentAccessManager",
+    "language": "\u2014",
+    "name": "AethosHub/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-07-27T07:13:24Z",
+    "url": "https://github.com/AethosHub/AgentAccessManager"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 48,
+    "updated_at": "2026-07-27T07:11:59Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 1,
+    "updated_at": "2026-07-27T07:10:08Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "See where your Claude Code spend actually goes \u2014 per project, model, MCP server, subagent and branch. Local-first, zero ",
+    "id": "Se1foo/agentledger",
+    "language": "TypeScript",
+    "name": "Se1foo/agentledger",
+    "stars": 0,
+    "updated_at": "2026-07-27T07:10:06Z",
+    "url": "https://github.com/Se1foo/agentledger"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-27T07:09:16Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-27T07:07:33Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 24,
+    "updated_at": "2026-07-27T07:07:03Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 19,
+    "updated_at": "2026-07-27T07:05:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-27T07:15:17Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T07:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Statistics for LLM-judged evaluations: bias-corrected scores, real confidence intervals, and comparisons that hold up",
     "id": "SaifPunjwani/truescore",
     "language": "Python",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20904,
-    "updated_at": "2026-07-27T06:57:36Z",
+    "updated_at": "2026-07-27T07:05:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -40,7 +139,7 @@
     "id": "liam8421/faster-llm",
     "language": "Python",
     "name": "liam8421/faster-llm",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-27T06:56:42Z",
     "url": "https://github.com/liam8421/faster-llm"
   },
@@ -81,15 +180,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 19,
-    "updated_at": "2026-07-27T06:51:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
     "id": "recetariodmix/garak",
     "language": "Python",
@@ -124,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T06:47:18Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T06:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -176,7 +257,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-27T06:41:24Z",
+    "updated_at": "2026-07-27T07:03:54Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -270,15 +351,6 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6815,
-    "updated_at": "2026-07-27T06:52:13Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -302,7 +374,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29401,
-    "updated_at": "2026-07-27T06:55:20Z",
+    "updated_at": "2026-07-27T07:10:35Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -331,15 +403,6 @@
     "stars": 11,
     "updated_at": "2026-07-27T06:10:00Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 24,
-    "updated_at": "2026-07-27T06:07:50Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Version-controlled, replayable eval cases for AI agents \u2014 catch regressions in CI.",
@@ -378,15 +441,6 @@
     "url": "https://github.com/HarryKane11/kibitz"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-27T06:59:18Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -394,59 +448,5 @@
     "stars": 44,
     "updated_at": "2026-07-27T05:38:38Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23640,
-    "updated_at": "2026-07-27T05:36:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-27T05:33:47Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
-    "id": "acr3463/systemprompt-demo",
-    "language": "\u2014",
-    "name": "acr3463/systemprompt-demo",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:30:23Z",
-    "url": "https://github.com/acr3463/systemprompt-demo"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
-    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "language": "HTML",
-    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:29:02Z",
-    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:28:34Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:27:10Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   }
 ]
