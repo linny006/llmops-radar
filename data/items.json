@@ -1,5 +1,41 @@
 [
   {
+    "description": "Statistics for LLM-judged evaluations: bias-corrected scores, real confidence intervals, and comparisons that hold up",
+    "id": "SaifPunjwani/truescore",
+    "language": "Python",
+    "name": "SaifPunjwani/truescore",
+    "stars": 0,
+    "updated_at": "2026-07-27T07:47:27Z",
+    "url": "https://github.com/SaifPunjwani/truescore"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T07:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-27T07:45:20Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-27T07:45:20Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -7,15 +43,6 @@
     "stars": 19,
     "updated_at": "2026-07-27T07:44:36Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Statistics for LLM-judged evaluations: bias-corrected scores, real confidence intervals, and comparisons that hold up",
-    "id": "SaifPunjwani/truescore",
-    "language": "Python",
-    "name": "SaifPunjwani/truescore",
-    "stars": 0,
-    "updated_at": "2026-07-27T07:43:57Z",
-    "url": "https://github.com/SaifPunjwani/truescore"
   },
   {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20904,
-    "updated_at": "2026-07-27T07:39:40Z",
+    "updated_at": "2026-07-27T07:46:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -115,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-07-27T07:39:00Z",
     "url": "https://github.com/Se1foo/agentledger"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11775,
+    "updated_at": "2026-07-27T07:37:56Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
@@ -243,15 +279,6 @@
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T07:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
     "id": "sedai194443/langfuse-go",
     "language": "Go",
@@ -360,15 +387,6 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-07-27T07:45:20Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -385,15 +403,6 @@
     "stars": 21,
     "updated_at": "2026-07-27T06:56:29Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-27T07:45:20Z",
-    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T06:48:57Z",
     "url": "https://github.com/po4yka/llm-wiki-skills"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-07-27T06:47:18Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   }
 ]
