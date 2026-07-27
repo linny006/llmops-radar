@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
+    "id": "bytebeast/check-endpoint",
+    "language": "Python",
+    "name": "bytebeast/check-endpoint",
+    "stars": 6,
+    "updated_at": "2026-07-27T23:26:55Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-27T23:26:14Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54858,
+    "updated_at": "2026-07-27T23:29:42Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T23:19:05Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -18,15 +54,6 @@
     "url": "https://github.com/Siddharthpatni/Sentinel"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T23:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
     "id": "psyb0t/aigate",
     "language": "Shell",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "wjlgatech/FM-os",
     "stars": 2,
-    "updated_at": "2026-07-27T23:13:32Z",
+    "updated_at": "2026-07-27T23:24:53Z",
     "url": "https://github.com/wjlgatech/FM-os"
   },
   {
@@ -54,21 +81,12 @@
     "url": "https://github.com/voly-codes/voly"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54857,
-    "updated_at": "2026-07-27T23:12:47Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 9,
-    "updated_at": "2026-07-27T23:12:43Z",
+    "updated_at": "2026-07-27T23:25:51Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -108,15 +126,6 @@
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-27T23:06:25Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Find out why an LLM pipeline failed, by counterfactual replay instead of guesswork.",
     "id": "alex-hahn/whydunit",
     "language": "Python",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10768,
-    "updated_at": "2026-07-27T23:17:14Z",
+    "updated_at": "2026-07-27T23:26:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -142,6 +151,15 @@
     "stars": 1,
     "updated_at": "2026-07-27T22:59:12Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31964,
+    "updated_at": "2026-07-27T22:58:03Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
@@ -216,6 +234,15 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27237,
+    "updated_at": "2026-07-27T22:05:08Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -232,15 +259,6 @@
     "stars": 11,
     "updated_at": "2026-07-27T22:03:53Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27237,
-    "updated_at": "2026-07-27T22:05:08Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8074,
-    "updated_at": "2026-07-27T23:14:16Z",
+    "updated_at": "2026-07-27T23:29:33Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -288,21 +306,12 @@
     "url": "https://github.com/umutkeltek/switchback"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31965,
-    "updated_at": "2026-07-27T22:58:03Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Rust",
     "name": "dshakes/clickllm",
     "stars": 0,
-    "updated_at": "2026-07-27T23:15:06Z",
+    "updated_at": "2026-07-27T23:21:08Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-27T23:15:13Z",
+    "updated_at": "2026-07-27T23:25:26Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T19:50:42Z",
     "url": "https://github.com/yptang98/CostMarshal"
-  },
-  {
-    "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
-    "id": "kai2055/incident-postmortem-assistant",
-    "language": "Python",
-    "name": "kai2055/incident-postmortem-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-27T19:48:35Z",
-    "url": "https://github.com/kai2055/incident-postmortem-assistant"
   }
 ]
