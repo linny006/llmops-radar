@@ -1,12 +1,120 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6822,
+    "updated_at": "2026-07-27T20:13:50Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54851,
-    "updated_at": "2026-07-27T19:57:27Z",
+    "stars": 54852,
+    "updated_at": "2026-07-27T20:11:40Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-07-27T20:11:32Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 4,
+    "updated_at": "2026-07-27T20:13:37Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-27T20:09:41Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
+    "id": "holasoymalva/manyllm-app",
+    "language": "Swift",
+    "name": "holasoymalva/manyllm-app",
+    "stars": 0,
+    "updated_at": "2026-07-27T20:07:22Z",
+    "url": "https://github.com/holasoymalva/manyllm-app"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-07-27T20:12:18Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27237,
+    "updated_at": "2026-07-27T20:07:50Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-27T20:12:03Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-27T20:11:56Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 2,
+    "updated_at": "2026-07-27T20:11:48Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-27T20:02:27Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T20:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -45,15 +153,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-07-27T19:48:56Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
     "id": "kai2055/incident-postmortem-assistant",
     "language": "Python",
@@ -61,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T19:48:35Z",
     "url": "https://github.com/kai2055/incident-postmortem-assistant"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T19:47:12Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
@@ -90,15 +180,6 @@
     "url": "https://github.com/dcondrey/misterdev"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-27T19:46:23Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -117,31 +198,13 @@
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
-    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
-    "id": "hamidmatiny/Vulcan",
-    "language": "Python",
-    "name": "hamidmatiny/Vulcan",
-    "stars": 0,
-    "updated_at": "2026-07-27T19:35:13Z",
-    "url": "https://github.com/hamidmatiny/Vulcan"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3465,
+    "stars": 3466,
     "updated_at": "2026-07-27T19:32:54Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6822,
-    "updated_at": "2026-07-27T19:55:12Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -158,7 +221,7 @@
     "language": "TypeScript",
     "name": "Amitcoh1/agentbreaker",
     "stars": 3,
-    "updated_at": "2026-07-27T19:45:44Z",
+    "updated_at": "2026-07-27T20:04:12Z",
     "url": "https://github.com/Amitcoh1/agentbreaker"
   },
   {
@@ -184,7 +247,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31959,
+    "stars": 31961,
     "updated_at": "2026-07-27T19:17:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -248,7 +311,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3422,
-    "updated_at": "2026-07-27T18:55:53Z",
+    "updated_at": "2026-07-27T20:13:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-27T17:57:35Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
-    "id": "neurarch-ai/awesome-llm-system-design",
-    "language": "Python",
-    "name": "neurarch-ai/awesome-llm-system-design",
-    "stars": 0,
-    "updated_at": "2026-07-27T17:57:07Z",
-    "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
-  },
-  {
-    "description": "Cycles budget and action guard for OpenClaw agents",
-    "id": "runcycles/cycles-openclaw-budget-guard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-openclaw-budget-guard",
-    "stars": 7,
-    "updated_at": "2026-07-27T17:56:13Z",
-    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
-  },
-  {
-    "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
-    "id": "runcycles/langchain-runcycles",
-    "language": "Python",
-    "name": "runcycles/langchain-runcycles",
-    "stars": 1,
-    "updated_at": "2026-07-27T17:56:04Z",
-    "url": "https://github.com/runcycles/langchain-runcycles"
-  },
-  {
-    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
-    "id": "JumpMasters/tollgate",
-    "language": "Python",
-    "name": "JumpMasters/tollgate",
-    "stars": 0,
-    "updated_at": "2026-07-27T17:55:55Z",
-    "url": "https://github.com/JumpMasters/tollgate"
-  },
-  {
-    "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
-    "id": "runcycles/cycles-openai-agents",
-    "language": "Python",
-    "name": "runcycles/cycles-openai-agents",
-    "stars": 0,
-    "updated_at": "2026-07-27T17:55:42Z",
-    "url": "https://github.com/runcycles/cycles-openai-agents"
-  },
-  {
-    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
-    "id": "runcycles/cycles-spring-ai-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-ai-starter",
-    "stars": 0,
-    "updated_at": "2026-07-27T17:55:26Z",
-    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27237,
-    "updated_at": "2026-07-27T17:50:07Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
