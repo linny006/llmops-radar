@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-27 19:27 UTC
+> ⏰ Last updated: 2026-07-27 19:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mezmo/aura](https://github.com/mezmo/aura) | 236 | Rust | 2026-07-27 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
-| 2 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6822 | Go | 2026-07-27 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 3 | [dcondrey/misterdev](https://github.com/dcondrey/misterdev) | 1 | Python | 2026-07-27 | Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every |
-| 4 | [systempromptio/systemprompt-demo](https://github.com/systempromptio/systemprompt-demo) | 2 | Rust | 2026-07-27 | AI Governance Infrastructure — open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a |
-| 5 | [Amitcoh1/agentbreaker](https://github.com/Amitcoh1/agentbreaker) | 3 | TypeScript | 2026-07-27 | Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy. |
-| 6 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 3 | Rust | 2026-07-27 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
-| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54850 | Python | 2026-07-27 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 8 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-07-27 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 9 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 2 | HTML | 2026-07-27 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 10 | [truera/trulens](https://github.com/truera/trulens) | 3465 | Python | 2026-07-27 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 11 | [Yarmoluk/ckg-mcp](https://github.com/Yarmoluk/ckg-mcp) | 4 | Python | 2026-07-27 | Context optimization for AI agents — 97 domain knowledge graphs, MCP-native traversal. 4× F1 of RAG, 11× fewer tokens pe |
-| 12 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 13 | [DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine](https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine) | 0 | JavaScript | 2026-07-27 | **Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal |
-| 14 | [shaikn6/shaikn6](https://github.com/shaikn6/shaikn6) | 0 | Python | 2026-07-27 | Nagizaaz Shaik — ML & AI Systems Engineer |
-| 15 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 2 | Go | 2026-07-27 | Temporal workers and clients for wrapping access to different LLMs |
-| 16 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-07-27 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
-| 17 | [hamidmatiny/Vulcan](https://github.com/hamidmatiny/Vulcan) | 0 | Python | 2026-07-27 | Multi-backend LLM & model-serving platform — vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co |
-| 18 | [Enovatr-Labs/SpecRoute](https://github.com/Enovatr-Labs/SpecRoute) | 2 | Shell | 2026-07-27 | Open source framework for spec-driven agentic software engineering. PRDs, prompts, agents, skills, workflows, and coding |
-| 19 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10766 | Python | 2026-07-27 | AI Observability & Evaluation |
-| 20 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3422 | TypeScript | 2026-07-27 | The platform for LLM evaluations and AI agent testing |
-| 21 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | TypeScript | 2026-07-27 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 1 | [systempromptio/systemprompt-demo](https://github.com/systempromptio/systemprompt-demo) | 2 | Rust | 2026-07-27 | AI Governance Infrastructure — open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54850 | Python | 2026-07-27 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6822 | Go | 2026-07-27 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 4 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | TypeScript | 2026-07-27 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [mezmo/aura](https://github.com/mezmo/aura) | 236 | Rust | 2026-07-27 | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor |
+| 7 | [dcondrey/misterdev](https://github.com/dcondrey/misterdev) | 1 | Python | 2026-07-27 | Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every |
+| 8 | [Amitcoh1/agentbreaker](https://github.com/Amitcoh1/agentbreaker) | 3 | TypeScript | 2026-07-27 | Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy. |
+| 9 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 3 | Rust | 2026-07-27 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
+| 10 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-07-27 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
+| 11 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 2 | HTML | 2026-07-27 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 12 | [truera/trulens](https://github.com/truera/trulens) | 3465 | Python | 2026-07-27 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 13 | [Yarmoluk/ckg-mcp](https://github.com/Yarmoluk/ckg-mcp) | 4 | Python | 2026-07-27 | Context optimization for AI agents — 97 domain knowledge graphs, MCP-native traversal. 4× F1 of RAG, 11× fewer tokens pe |
+| 14 | [DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine](https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine) | 0 | JavaScript | 2026-07-27 | **Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal |
+| 15 | [shaikn6/shaikn6](https://github.com/shaikn6/shaikn6) | 0 | Python | 2026-07-27 | Nagizaaz Shaik — ML & AI Systems Engineer |
+| 16 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 2 | Go | 2026-07-27 | Temporal workers and clients for wrapping access to different LLMs |
+| 17 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-07-27 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
+| 18 | [hamidmatiny/Vulcan](https://github.com/hamidmatiny/Vulcan) | 0 | Python | 2026-07-27 | Multi-backend LLM & model-serving platform — vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co |
+| 19 | [Enovatr-Labs/SpecRoute](https://github.com/Enovatr-Labs/SpecRoute) | 2 | Shell | 2026-07-27 | Open source framework for spec-driven agentic software engineering. PRDs, prompts, agents, skills, workflows, and coding |
+| 20 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10766 | Python | 2026-07-27 | AI Observability & Evaluation |
+| 21 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3422 | TypeScript | 2026-07-27 | The platform for LLM evaluations and AI agent testing |
 | 22 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3119 | TypeScript | 2026-07-27 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
 | 23 | [dshakes/distil](https://github.com/dshakes/distil) | 9 | Python | 2026-07-27 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
 | 24 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 0 | Python | 2026-07-27 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
