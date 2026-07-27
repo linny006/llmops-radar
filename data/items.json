@@ -5,17 +5,62 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 75,
-    "updated_at": "2026-07-27T12:42:31Z",
+    "updated_at": "2026-07-27T12:59:04Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
     "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-27T12:42:27Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:55:10Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
+    "id": "hamidmatiny/Vulcan",
+    "language": "Python",
+    "name": "hamidmatiny/Vulcan",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:55:10Z",
+    "url": "https://github.com/hamidmatiny/Vulcan"
+  },
+  {
+    "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
+    "id": "rrbanda/agentlens",
+    "language": "Python",
+    "name": "rrbanda/agentlens",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:53:46Z",
+    "url": "https://github.com/rrbanda/agentlens"
+  },
+  {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-07-27T12:49:56Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-27T12:49:28Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 8,
+    "updated_at": "2026-07-27T12:49:04Z",
+    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
@@ -23,8 +68,80 @@
     "language": "Java",
     "name": "runcycles/cycles-server",
     "stars": 3,
-    "updated_at": "2026-07-27T12:43:58Z",
+    "updated_at": "2026-07-27T12:47:36Z",
     "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 20,
+    "updated_at": "2026-07-27T12:46:48Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Strip fact-bearing examples out of your LLM fine-tuning data \u2014 teach behavior, retrieve facts. Tiny, dependency-free SFT",
+    "id": "Mari-kn/advisory-only-sft",
+    "language": "Python",
+    "name": "Mari-kn/advisory-only-sft",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:46:36Z",
+    "url": "https://github.com/Mari-kn/advisory-only-sft"
+  },
+  {
+    "description": "Catch the 3 silent ways fine-tuning breaks a model \u2014 over-refusal, mode collapse, memorization. Deterministic, no LLM ju",
+    "id": "Mari-kn/finetune-regressions",
+    "language": "Python",
+    "name": "Mari-kn/finetune-regressions",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:46:34Z",
+    "url": "https://github.com/Mari-kn/finetune-regressions"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31942,
+    "updated_at": "2026-07-27T12:59:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI agent action authority \u2014 demo of blocking unapproved tool calls with Cycles",
+    "id": "runcycles/cycles-agent-action-authority-demo",
+    "language": "Python",
+    "name": "runcycles/cycles-agent-action-authority-demo",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:45:48Z",
+    "url": "https://github.com/runcycles/cycles-agent-action-authority-demo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T12:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-27T12:44:54Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-27T12:48:47Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
@@ -34,33 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T12:41:23Z",
     "url": "https://github.com/wjlgatech/FM-os"
-  },
-  {
-    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-client-rust",
-    "language": "Rust",
-    "name": "runcycles/cycles-client-rust",
-    "stars": 1,
-    "updated_at": "2026-07-27T12:43:58Z",
-    "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
-    "description": "AI agent action authority \u2014 demo of blocking unapproved tool calls with Cycles",
-    "id": "runcycles/cycles-agent-action-authority-demo",
-    "language": "Python",
-    "name": "runcycles/cycles-agent-action-authority-demo",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:43:58Z",
-    "url": "https://github.com/runcycles/cycles-agent-action-authority-demo"
-  },
-  {
-    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
-    "id": "hamidmatiny/Vulcan",
-    "language": "Python",
-    "name": "hamidmatiny/Vulcan",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:39:04Z",
-    "url": "https://github.com/hamidmatiny/Vulcan"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -81,15 +171,6 @@
     "url": "https://github.com/Mari-kn/compliance-gate"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31942,
-    "updated_at": "2026-07-27T12:44:50Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -104,17 +185,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3421,
-    "updated_at": "2026-07-27T12:45:18Z",
+    "updated_at": "2026-07-27T12:52:45Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 8,
-    "updated_at": "2026-07-27T12:41:55Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -124,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T12:43:45Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T12:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -167,7 +230,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6819,
-    "updated_at": "2026-07-27T12:29:42Z",
+    "updated_at": "2026-07-27T12:56:28Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -178,24 +241,6 @@
     "stars": 11,
     "updated_at": "2026-07-27T12:23:20Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 20,
-    "updated_at": "2026-07-27T12:22:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Catch the 3 silent ways fine-tuning breaks a model \u2014 over-refusal, mode collapse, memorization. Deterministic, no LLM ju",
-    "id": "Mari-kn/finetune-regressions",
-    "language": "Python",
-    "name": "Mari-kn/finetune-regressions",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:20:43Z",
-    "url": "https://github.com/Mari-kn/finetune-regressions"
   },
   {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
@@ -234,40 +279,13 @@
     "url": "https://github.com/DheerajPranav/mnemo-ir"
   },
   {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:00:37Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
-    "description": "Strip fact-bearing examples out of your LLM fine-tuning data \u2014 teach behavior, retrieve facts. Tiny, dependency-free SFT",
-    "id": "Mari-kn/advisory-only-sft",
-    "language": "Python",
-    "name": "Mari-kn/advisory-only-sft",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:59:26Z",
-    "url": "https://github.com/Mari-kn/advisory-only-sft"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54822,
+    "stars": 54823,
     "updated_at": "2026-07-27T11:59:14Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-27T12:44:54Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20908,
-    "updated_at": "2026-07-27T12:34:26Z",
+    "updated_at": "2026-07-27T12:59:18Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 151,
     "updated_at": "2026-07-27T12:41:39Z",
     "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:06:01Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:04:57Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   }
 ]
