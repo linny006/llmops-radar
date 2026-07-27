@@ -1,12 +1,75 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6822,
+    "updated_at": "2026-07-27T16:43:58Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3463,
+    "updated_at": "2026-07-27T16:41:36Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
+    "id": "salmanzafar949/ctxdiff",
+    "language": "Python",
+    "name": "salmanzafar949/ctxdiff",
+    "stars": 4,
+    "updated_at": "2026-07-27T16:38:12Z",
+    "url": "https://github.com/salmanzafar949/ctxdiff"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54840,
+    "updated_at": "2026-07-27T16:45:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "AuditPilot: auditable enterprise AI agents for evidence-grounded workflows, governed tools, evaluation harnesses, human ",
     "id": "Ricky-7-Yan/intelligent-audit-system",
     "language": "Python",
     "name": "Ricky-7-Yan/intelligent-audit-system",
     "stars": 1164,
-    "updated_at": "2026-07-27T16:30:11Z",
+    "updated_at": "2026-07-27T16:34:49Z",
     "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-27T16:33:26Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T16:30:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-27T16:28:29Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "zhasouris/corgi-ai-gateway",
     "stars": 1,
-    "updated_at": "2026-07-27T16:26:13Z",
+    "updated_at": "2026-07-27T16:39:32Z",
     "url": "https://github.com/zhasouris/corgi-ai-gateway"
   },
   {
@@ -23,17 +86,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31955,
-    "updated_at": "2026-07-27T16:30:28Z",
+    "updated_at": "2026-07-27T16:38:25Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6821,
-    "updated_at": "2026-07-27T16:24:37Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
@@ -72,40 +126,13 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T16:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3118,
-    "updated_at": "2026-07-27T16:13:52Z",
+    "updated_at": "2026-07-27T16:37:41Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-27T16:13:29Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54837,
-    "updated_at": "2026-07-27T16:28:35Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
@@ -115,6 +142,15 @@
     "stars": 3,
     "updated_at": "2026-07-27T16:08:43Z",
     "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20915,
+    "updated_at": "2026-07-27T16:07:02Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -130,7 +166,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10763,
+    "stars": 10764,
     "updated_at": "2026-07-27T16:03:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -189,15 +225,6 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20914,
-    "updated_at": "2026-07-27T16:07:02Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -241,15 +268,6 @@
     "stars": 24,
     "updated_at": "2026-07-27T15:56:44Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-27T16:28:29Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3422,
-    "updated_at": "2026-07-27T16:23:39Z",
+    "updated_at": "2026-07-27T16:39:54Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5523,
     "updated_at": "2026-07-27T13:52:15Z",
     "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
-    "id": "Amitcoh1/agentbreaker",
-    "language": "TypeScript",
-    "name": "Amitcoh1/agentbreaker",
-    "stars": 3,
-    "updated_at": "2026-07-27T13:41:18Z",
-    "url": "https://github.com/Amitcoh1/agentbreaker"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-27T13:33:49Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
