@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
+    "id": "InftyAI/Awesome-LLMOps",
+    "language": "Python",
+    "name": "InftyAI/Awesome-LLMOps",
+    "stars": 254,
+    "updated_at": "2026-07-27T23:42:37Z",
+    "url": "https://github.com/InftyAI/Awesome-LLMOps"
+  },
+  {
+    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 107,
+    "updated_at": "2026-07-27T23:39:17Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
+    "id": "wjlgatech/FM-os",
+    "language": "Python",
+    "name": "wjlgatech/FM-os",
+    "stars": 2,
+    "updated_at": "2026-07-27T23:36:25Z",
+    "url": "https://github.com/wjlgatech/FM-os"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 9,
+    "updated_at": "2026-07-27T23:35:05Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Get the knowledge you need to develop your agents.",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-27T23:32:17Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T23:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
     "id": "bytebeast/check-endpoint",
     "language": "Python",
@@ -23,17 +77,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54858,
-    "updated_at": "2026-07-27T23:29:42Z",
+    "updated_at": "2026-07-27T23:45:13Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T23:19:05Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -63,15 +108,6 @@
     "url": "https://github.com/psyb0t/aigate"
   },
   {
-    "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
-    "id": "wjlgatech/FM-os",
-    "language": "Python",
-    "name": "wjlgatech/FM-os",
-    "stars": 2,
-    "updated_at": "2026-07-27T23:24:53Z",
-    "url": "https://github.com/wjlgatech/FM-os"
-  },
-  {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
     "id": "voly-codes/voly",
     "language": "Python",
@@ -81,21 +117,12 @@
     "url": "https://github.com/voly-codes/voly"
   },
   {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 9,
-    "updated_at": "2026-07-27T23:25:51Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
     "description": "Graduate AI skills into cheap, fast, deterministic workflows",
     "id": "trevhud/rote",
     "language": "Python",
     "name": "trevhud/rote",
     "stars": 3,
-    "updated_at": "2026-07-27T23:11:12Z",
+    "updated_at": "2026-07-27T23:41:12Z",
     "url": "https://github.com/trevhud/rote"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10768,
-    "updated_at": "2026-07-27T23:26:36Z",
+    "updated_at": "2026-07-27T23:32:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6825,
-    "updated_at": "2026-07-27T22:26:35Z",
+    "updated_at": "2026-07-27T23:42:18Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "dshakes/clickllm",
     "stars": 0,
-    "updated_at": "2026-07-27T23:21:08Z",
+    "updated_at": "2026-07-27T23:42:12Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -369,24 +396,6 @@
     "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
   },
   {
-    "description": "Get the knowledge you need to develop your agents.",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-27T23:25:26Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 107,
-    "updated_at": "2026-07-27T22:42:44Z",
-    "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T19:53:48Z",
     "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
-    "id": "yptang98/CostMarshal",
-    "language": "Python",
-    "name": "yptang98/CostMarshal",
-    "stars": 2,
-    "updated_at": "2026-07-27T19:50:42Z",
-    "url": "https://github.com/yptang98/CostMarshal"
   }
 ]
