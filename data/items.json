@@ -1,5 +1,86 @@
 [
   {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 1,
+    "updated_at": "2026-07-27T14:43:13Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 2,
+    "updated_at": "2026-07-27T14:42:19Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20910,
+    "updated_at": "2026-07-27T14:41:36Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10763,
+    "updated_at": "2026-07-27T14:40:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
+    "id": "okfriansyah-moh/the-foundry",
+    "language": "Go",
+    "name": "okfriansyah-moh/the-foundry",
+    "stars": 0,
+    "updated_at": "2026-07-27T14:32:50Z",
+    "url": "https://github.com/okfriansyah-moh/the-foundry"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 3,
+    "updated_at": "2026-07-27T14:32:35Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-07-27T14:32:20Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T14:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31951,
+    "updated_at": "2026-07-27T14:43:09Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Helix gives you agents that actually behave in production: hard budget limits, semantic caching that cuts API costs by 4",
     "id": "sarcasticdhruv/helix-agent",
     "language": "Python",
@@ -32,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3422,
-    "updated_at": "2026-07-27T14:30:07Z",
+    "updated_at": "2026-07-27T14:37:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -50,17 +131,8 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 20,
-    "updated_at": "2026-07-27T14:23:25Z",
+    "updated_at": "2026-07-27T14:42:37Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31950,
-    "updated_at": "2026-07-27T14:29:12Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -85,18 +157,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54830,
+    "stars": 54832,
     "updated_at": "2026-07-27T14:20:44Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-07-27T14:19:01Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
@@ -108,15 +171,6 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T14:15:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -126,31 +180,13 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10763,
-    "updated_at": "2026-07-27T14:29:18Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 9,
-    "updated_at": "2026-07-27T14:07:41Z",
+    "updated_at": "2026-07-27T14:40:42Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20910,
-    "updated_at": "2026-07-27T14:27:24Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\u041a\u0430\u0440\u043a\u0430\u0441 \u0434\u043b\u044f \u043f\u0430\u0439\u043f\u043b\u0430\u0439\u043d\u043e\u0432 \u0438\u0437 LLM-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043e\u0440\u043a\u0435\u0441\u0442\u0440\u0430\u0446\u0438\u044f, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0442\u0435\u043b\u0438, \u044d\u0432\u0430\u043b-\u0445\u0430\u0440\u043d\u0435\u0441",
@@ -169,15 +205,6 @@
     "stars": 11,
     "updated_at": "2026-07-27T14:01:33Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 3,
-    "updated_at": "2026-07-27T13:58:52Z",
-    "url": "https://github.com/umutkeltek/switchback"
   },
   {
     "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
@@ -268,15 +295,6 @@
     "stars": 2499,
     "updated_at": "2026-07-27T13:23:47Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 2,
-    "updated_at": "2026-07-27T14:29:50Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
     "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T12:29:33Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:15:45Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "MnemoIR \u2014 Causal Memory Incident Response for AI agents. Incident-response framework for tracing, quarantining, repairin",
-    "id": "DheerajPranav/mnemo-ir",
-    "language": "Python",
-    "name": "DheerajPranav/mnemo-ir",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:13:03Z",
-    "url": "https://github.com/DheerajPranav/mnemo-ir"
   }
 ]
