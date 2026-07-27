@@ -1,12 +1,93 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31944,
+    "updated_at": "2026-07-27T13:14:41Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
+    "id": "aws-samples/sample-genai-on-eks-starter-kit",
+    "language": "JavaScript",
+    "name": "aws-samples/sample-genai-on-eks-starter-kit",
+    "stars": 89,
+    "updated_at": "2026-07-27T13:10:41Z",
+    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 20,
+    "updated_at": "2026-07-27T13:10:11Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
+    "id": "marcusschiesser/agentpond",
+    "language": "TypeScript",
+    "name": "marcusschiesser/agentpond",
+    "stars": 12,
+    "updated_at": "2026-07-27T13:07:36Z",
+    "url": "https://github.com/marcusschiesser/agentpond"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-07-27T13:08:32Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27230,
+    "updated_at": "2026-07-27T13:06:07Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
+    "id": "hamidmatiny/Vulcan",
+    "language": "Python",
+    "name": "hamidmatiny/Vulcan",
+    "stars": 0,
+    "updated_at": "2026-07-27T13:02:57Z",
+    "url": "https://github.com/hamidmatiny/Vulcan"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 75,
-    "updated_at": "2026-07-27T12:59:04Z",
+    "updated_at": "2026-07-27T13:02:13Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T13:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20907,
+    "updated_at": "2026-07-27T13:13:53Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T12:55:10Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
-    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
-    "id": "hamidmatiny/Vulcan",
-    "language": "Python",
-    "name": "hamidmatiny/Vulcan",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:55:10Z",
-    "url": "https://github.com/hamidmatiny/Vulcan"
   },
   {
     "description": "Evaluate, annotate, and gate AI agents you didn't build \u2014 conversational AgentOps on MLflow + MCP for OpenShift AI",
@@ -72,15 +144,6 @@
     "url": "https://github.com/runcycles/cycles-server"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 20,
-    "updated_at": "2026-07-27T12:46:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Strip fact-bearing examples out of your LLM fine-tuning data \u2014 teach behavior, retrieve facts. Tiny, dependency-free SFT",
     "id": "Mari-kn/advisory-only-sft",
     "language": "Python",
@@ -99,15 +162,6 @@
     "url": "https://github.com/Mari-kn/finetune-regressions"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31942,
-    "updated_at": "2026-07-27T12:59:45Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AI agent action authority \u2014 demo of blocking unapproved tool calls with Cycles",
     "id": "runcycles/cycles-agent-action-authority-demo",
     "language": "Python",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T12:45:48Z",
     "url": "https://github.com/runcycles/cycles-agent-action-authority-demo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T12:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-27T12:48:47Z",
+    "updated_at": "2026-07-27T13:14:49Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3421,
-    "updated_at": "2026-07-27T12:52:45Z",
+    "updated_at": "2026-07-27T13:13:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -198,12 +243,21 @@
     "url": "https://github.com/srjn45/warden"
   },
   {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29404,
+    "updated_at": "2026-07-27T12:30:37Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-27T12:37:22Z",
+    "updated_at": "2026-07-27T13:03:04Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -216,21 +270,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29403,
-    "updated_at": "2026-07-27T12:30:37Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6819,
-    "updated_at": "2026-07-27T12:56:28Z",
+    "updated_at": "2026-07-27T13:04:41Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -241,15 +286,6 @@
     "stars": 11,
     "updated_at": "2026-07-27T12:23:20Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 3,
-    "updated_at": "2026-07-27T12:18:51Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54823,
-    "updated_at": "2026-07-27T11:59:14Z",
+    "updated_at": "2026-07-27T13:09:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20908,
-    "updated_at": "2026-07-27T12:59:18Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 2338,
     "updated_at": "2026-07-27T11:10:01Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 24,
-    "updated_at": "2026-07-27T11:09:09Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:08:41Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 151,
-    "updated_at": "2026-07-27T12:41:39Z",
-    "url": "https://github.com/langfuse/langfuse-js"
   }
 ]
