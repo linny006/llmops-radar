@@ -1,12 +1,93 @@
 [
   {
+    "description": "AuditPilot: auditable enterprise AI agents for evidence-grounded workflows, governed tools, evaluation harnesses, human ",
+    "id": "Ricky-7-Yan/intelligent-audit-system",
+    "language": "Python",
+    "name": "Ricky-7-Yan/intelligent-audit-system",
+    "stars": 1164,
+    "updated_at": "2026-07-27T16:30:11Z",
+    "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system"
+  },
+  {
+    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
+    "id": "zhasouris/corgi-ai-gateway",
+    "language": "TypeScript",
+    "name": "zhasouris/corgi-ai-gateway",
+    "stars": 1,
+    "updated_at": "2026-07-27T16:26:13Z",
+    "url": "https://github.com/zhasouris/corgi-ai-gateway"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31955,
+    "updated_at": "2026-07-27T16:30:28Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6821,
+    "updated_at": "2026-07-27T16:24:37Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 2,
+    "updated_at": "2026-07-27T16:22:43Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-27T16:22:06Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 2,
+    "updated_at": "2026-07-27T16:19:21Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-27T16:16:30Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 4,
-    "updated_at": "2026-07-27T16:14:28Z",
+    "updated_at": "2026-07-27T16:15:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3118,
+    "updated_at": "2026-07-27T16:13:52Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -18,21 +99,12 @@
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31954,
-    "updated_at": "2026-07-27T16:14:51Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54836,
-    "updated_at": "2026-07-27T16:10:30Z",
+    "stars": 54837,
+    "updated_at": "2026-07-27T16:28:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -76,7 +148,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2503,
+    "stars": 2502,
     "updated_at": "2026-07-27T15:57:20Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -88,15 +160,6 @@
     "stars": 75,
     "updated_at": "2026-07-27T15:51:07Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6821,
-    "updated_at": "2026-07-27T15:51:05Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
@@ -185,26 +248,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-27T16:10:23Z",
+    "updated_at": "2026-07-27T16:28:29Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 2,
-    "updated_at": "2026-07-27T15:29:47Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "Drop-in OpenAI-compatible proxy that routes each request to the best model by cost, quality, or latency \u2014 with a pluggab",
-    "id": "zhasouris/corgi-ai-gateway",
-    "language": "TypeScript",
-    "name": "zhasouris/corgi-ai-gateway",
-    "stars": 1,
-    "updated_at": "2026-07-27T16:09:03Z",
-    "url": "https://github.com/zhasouris/corgi-ai-gateway"
   },
   {
     "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
@@ -223,15 +268,6 @@
     "stars": 20,
     "updated_at": "2026-07-27T15:26:09Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-27T15:57:24Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3422,
-    "updated_at": "2026-07-27T16:12:22Z",
+    "updated_at": "2026-07-27T16:23:39Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -405,24 +441,6 @@
     "url": "https://github.com/Amitcoh1/agentbreaker"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 2,
-    "updated_at": "2026-07-27T13:38:53Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-27T13:37:48Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T13:33:49Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-27T16:15:06Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-07-27T13:26:34Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
   }
 ]
