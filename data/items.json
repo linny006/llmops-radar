@@ -1,11 +1,110 @@
 [
   {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 71,
+    "updated_at": "2026-07-27T09:15:05Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27227,
+    "updated_at": "2026-07-27T09:14:58Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 9,
+    "updated_at": "2026-07-27T09:12:29Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 3,
+    "updated_at": "2026-07-27T09:11:28Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20905,
+    "updated_at": "2026-07-27T09:11:21Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Running a Claude agent in unattended production with real money at stake. The engineering diary, incidents included.",
+    "id": "amitsmarty1123-dotcom/unattended-log",
+    "language": "\u2014",
+    "name": "amitsmarty1123-dotcom/unattended-log",
+    "stars": 0,
+    "updated_at": "2026-07-27T09:11:15Z",
+    "url": "https://github.com/amitsmarty1123-dotcom/unattended-log"
+  },
+  {
+    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 524,
+    "updated_at": "2026-07-27T09:07:36Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 20,
+    "updated_at": "2026-07-27T09:04:45Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31929,
+    "updated_at": "2026-07-27T09:13:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1633,
+    "updated_at": "2026-07-27T09:00:45Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T09:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23646,
-    "updated_at": "2026-07-27T08:58:56Z",
+    "updated_at": "2026-07-27T09:13:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,15 +133,6 @@
     "stars": 53,
     "updated_at": "2026-07-27T08:56:26Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 19,
-    "updated_at": "2026-07-27T08:55:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
@@ -135,21 +225,12 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T08:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5652,
-    "updated_at": "2026-07-27T08:47:39Z",
+    "updated_at": "2026-07-27T09:05:47Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -167,7 +248,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2497,
-    "updated_at": "2026-07-27T08:43:12Z",
+    "updated_at": "2026-07-27T09:04:07Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -178,15 +259,6 @@
     "stars": 29404,
     "updated_at": "2026-07-27T08:41:12Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31928,
-    "updated_at": "2026-07-27T08:46:34Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Native macOS menu-bar dashboard for Langfuse cost, tokens, latency, errors, and model usage",
@@ -310,7 +382,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54808,
+    "stars": 54811,
     "updated_at": "2026-07-27T08:24:33Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T08:19:01Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20905,
-    "updated_at": "2026-07-27T08:42:20Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Statistics for LLM-judged evaluations: bias-corrected scores, real confidence intervals, and comparisons that hold up",
-    "id": "SaifPunjwani/truescore",
-    "language": "Python",
-    "name": "SaifPunjwani/truescore",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:18:17Z",
-    "url": "https://github.com/SaifPunjwani/truescore"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-07-27T08:14:35Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:13:05Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 2,
-    "updated_at": "2026-07-27T08:13:02Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:12:32Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine.",
-    "id": "Rodiun/frugon",
-    "language": "Python",
-    "name": "Rodiun/frugon",
-    "stars": 194,
-    "updated_at": "2026-07-27T08:12:17Z",
-    "url": "https://github.com/Rodiun/frugon"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-07-27T08:11:12Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
