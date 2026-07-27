@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-27 11:15 UTC
+> ⏰ Last updated: 2026-07-27 11:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [OnourImpram/mergen](https://github.com/OnourImpram/mergen) | 0 | Python | 2026-07-27 | Rechecks a completion claim against the repository itself and holds the workflow when the required proof is missing. |
-| 2 | [hamidmatiny/Vulcan](https://github.com/hamidmatiny/Vulcan) | 0 | Python | 2026-07-27 | Multi-backend LLM & model-serving platform — vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co |
-| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 20 | Go | 2026-07-27 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 4 | [DheerajPranav/mnemo-ir](https://github.com/DheerajPranav/mnemo-ir) | 0 | Python | 2026-07-27 | MnemoIR — Causal Memory Incident Response for AI agents. Trace the blast radius of a bad/poisoned memory, repair the aff |
-| 5 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-07-27 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
-| 6 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-07-27 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
-| 7 | [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) | 2338 | Rust | 2026-07-27 | Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data  |
-| 8 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20907 | Python | 2026-07-27 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 9 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 24 | TypeScript | 2026-07-27 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
-| 10 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 1 | Python | 2026-07-27 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 11 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 2 | Go | 2026-07-27 | Temporal workers and clients for wrapping access to different LLMs |
-| 12 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 381 | Python | 2026-07-27 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
-| 13 | [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) | 151 | TypeScript | 2026-07-27 | 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework |
-| 14 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-07-27 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
-| 15 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-07-27 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
-| 16 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-07-27 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
-| 17 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [OnourImpram/mergen](https://github.com/OnourImpram/mergen) | 0 | Python | 2026-07-27 | Rechecks a completion claim against the repository itself and holds the workflow when the required proof is missing. |
+| 3 | [hamidmatiny/Vulcan](https://github.com/hamidmatiny/Vulcan) | 0 | Python | 2026-07-27 | Multi-backend LLM & model-serving platform — vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co |
+| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 20 | Go | 2026-07-27 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 5 | [DheerajPranav/mnemo-ir](https://github.com/DheerajPranav/mnemo-ir) | 0 | Python | 2026-07-27 | MnemoIR — Causal Memory Incident Response for AI agents. Trace the blast radius of a bad/poisoned memory, repair the aff |
+| 6 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-07-27 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
+| 7 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-07-27 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
+| 8 | [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) | 2338 | Rust | 2026-07-27 | Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data  |
+| 9 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20907 | Python | 2026-07-27 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 10 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 24 | TypeScript | 2026-07-27 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
+| 11 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 1 | Python | 2026-07-27 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
+| 12 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 2 | Go | 2026-07-27 | Temporal workers and clients for wrapping access to different LLMs |
+| 13 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 381 | Python | 2026-07-27 | The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (advers |
+| 14 | [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) | 151 | TypeScript | 2026-07-27 | 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework |
+| 15 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-07-27 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
+| 16 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-07-27 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
+| 17 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-07-27 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
 | 18 | [retardingforcerightbank635/dm-gateway-bot](https://github.com/retardingforcerightbank635/dm-gateway-bot) | 0 | Python | 2026-07-27 | Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k |
 | 19 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-27 | ThakiCloud Tech Blog |
 | 20 | [harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent) | 0 | — | 2026-07-27 | Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules |
