@@ -1,5 +1,113 @@
 [
   {
+    "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
+    "id": "runcycles/langchain-runcycles",
+    "language": "Python",
+    "name": "runcycles/langchain-runcycles",
+    "stars": 1,
+    "updated_at": "2026-07-27T17:56:04Z",
+    "url": "https://github.com/runcycles/langchain-runcycles"
+  },
+  {
+    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
+    "id": "JumpMasters/tollgate",
+    "language": "Python",
+    "name": "JumpMasters/tollgate",
+    "stars": 0,
+    "updated_at": "2026-07-27T17:55:55Z",
+    "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
+    "id": "runcycles/cycles-openai-agents",
+    "language": "Python",
+    "name": "runcycles/cycles-openai-agents",
+    "stars": 0,
+    "updated_at": "2026-07-27T17:55:42Z",
+    "url": "https://github.com/runcycles/cycles-openai-agents"
+  },
+  {
+    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
+    "id": "runcycles/cycles-spring-ai-starter",
+    "language": "Java",
+    "name": "runcycles/cycles-spring-ai-starter",
+    "stars": 0,
+    "updated_at": "2026-07-27T17:55:26Z",
+    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3464,
+    "updated_at": "2026-07-27T17:53:27Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
+    "id": "runcycles/cycles-mcp-server",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-27T17:53:11Z",
+    "url": "https://github.com/runcycles/cycles-mcp-server"
+  },
+  {
+    "description": "Cycles budget and action guard for OpenClaw agents",
+    "id": "runcycles/cycles-openclaw-budget-guard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-openclaw-budget-guard",
+    "stars": 7,
+    "updated_at": "2026-07-27T17:56:13Z",
+    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-07-27T17:54:34Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
+    "id": "gmaheshraju/Hands-on-AgenticAI",
+    "language": "JavaScript",
+    "name": "gmaheshraju/Hands-on-AgenticAI",
+    "stars": 1,
+    "updated_at": "2026-07-27T17:50:06Z",
+    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 344,
+    "updated_at": "2026-07-27T17:52:05Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-27T17:46:39Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T17:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
     "id": "yptang98/CostMarshal",
     "language": "Python",
@@ -23,17 +131,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27236,
-    "updated_at": "2026-07-27T17:42:55Z",
+    "updated_at": "2026-07-27T17:50:07Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
-    "id": "JumpMasters/tollgate",
-    "language": "Python",
-    "name": "JumpMasters/tollgate",
-    "stars": 0,
-    "updated_at": "2026-07-27T17:44:41Z",
-    "url": "https://github.com/JumpMasters/tollgate"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -58,18 +157,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54841,
-    "updated_at": "2026-07-27T17:40:23Z",
+    "stars": 54844,
+    "updated_at": "2026-07-27T17:56:31Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3464,
-    "updated_at": "2026-07-27T17:39:54Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -77,17 +167,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20916,
-    "updated_at": "2026-07-27T17:39:13Z",
+    "updated_at": "2026-07-27T17:47:40Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-27T17:39:03Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
@@ -113,7 +194,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-07-27T17:35:38Z",
+    "updated_at": "2026-07-27T17:47:29Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -124,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T17:41:53Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T17:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -212,17 +284,8 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 4,
-    "updated_at": "2026-07-27T17:21:26Z",
+    "updated_at": "2026-07-27T17:51:45Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 344,
-    "updated_at": "2026-07-27T17:36:31Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 67,
-    "updated_at": "2026-07-27T17:30:40Z",
+    "updated_at": "2026-07-27T17:51:19Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -329,7 +392,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 2,
-    "updated_at": "2026-07-27T17:45:00Z",
+    "updated_at": "2026-07-27T17:54:58Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -338,7 +401,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-27T17:39:14Z",
+    "updated_at": "2026-07-27T17:53:18Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -374,7 +437,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3118,
-    "updated_at": "2026-07-27T17:44:13Z",
+    "updated_at": "2026-07-27T17:50:41Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-27T16:08:43Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 31,
-    "updated_at": "2026-07-27T16:05:44Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 151,
-    "updated_at": "2026-07-27T16:00:45Z",
-    "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2502,
-    "updated_at": "2026-07-27T15:57:20Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-27T15:51:07Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
-    "id": "kreftamarcio/prompt-forge",
-    "language": "TypeScript",
-    "name": "kreftamarcio/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-07-27T15:49:45Z",
-    "url": "https://github.com/kreftamarcio/prompt-forge"
-  },
-  {
-    "description": "5 axioms for production-ready AI system integration. The principles for LLM engineering.",
-    "id": "NicolasYusim/TRUST-AI-Engineering",
-    "language": "Python",
-    "name": "NicolasYusim/TRUST-AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-07-27T16:11:41Z",
-    "url": "https://github.com/NicolasYusim/TRUST-AI-Engineering"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 48,
-    "updated_at": "2026-07-27T15:47:49Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   }
 ]
