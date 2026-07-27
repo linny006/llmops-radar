@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 4,
+    "updated_at": "2026-07-27T20:49:22Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T20:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
     "id": "umutkeltek/switchback",
     "language": "Rust",
@@ -7,15 +25,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T20:40:53Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 4,
-    "updated_at": "2026-07-27T20:39:10Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -45,15 +54,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T20:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Graduate AI skills into cheap, fast, deterministic workflows",
     "id": "trevhud/rote",
     "language": "Python",
@@ -68,7 +68,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 0,
-    "updated_at": "2026-07-27T20:39:06Z",
+    "updated_at": "2026-07-27T20:49:42Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -153,6 +153,15 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27237,
+    "updated_at": "2026-07-27T20:07:50Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
     "id": "holasoymalva/manyllm-app",
     "language": "Swift",
@@ -169,15 +178,6 @@
     "stars": 16,
     "updated_at": "2026-07-27T20:15:32Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27237,
-    "updated_at": "2026-07-27T20:07:50Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
@@ -311,7 +311,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31961,
-    "updated_at": "2026-07-27T20:43:53Z",
+    "updated_at": "2026-07-27T20:50:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -356,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3422,
-    "updated_at": "2026-07-27T20:40:01Z",
+    "updated_at": "2026-07-27T20:50:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {

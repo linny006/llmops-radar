@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-27 20:45 UTC
+> ⏰ Last updated: 2026-07-27 20:50 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 3 | Rust | 2026-07-27 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
-| 2 | [crewhaus/factory](https://github.com/crewhaus/factory) | 4 | TypeScript | 2026-07-27 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10766 | Python | 2026-07-27 | AI Observability & Evaluation |
-| 4 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-07-27 | Generative AI proxy, with cost ledger and crash safety baked in. |
-| 5 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6823 | Go | 2026-07-27 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [crewhaus/factory](https://github.com/crewhaus/factory) | 4 | TypeScript | 2026-07-27 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 4 | Python | 2026-07-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 3 | Rust | 2026-07-27 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10766 | Python | 2026-07-27 | AI Observability & Evaluation |
+| 5 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-07-27 | Generative AI proxy, with cost ledger and crash safety baked in. |
+| 6 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6823 | Go | 2026-07-27 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 7 | [trevhud/rote](https://github.com/trevhud/rote) | 3 | Python | 2026-07-27 | Graduate AI skills into cheap, fast, deterministic workflows |
 | 8 | [dshakes/clickllm](https://github.com/dshakes/clickllm) | 0 | Python | 2026-07-27 | Prove which open model can replace your closed one — on your traffic, your hardware, your budget. Then move you there wi |
 | 9 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 54852 | Python | 2026-07-27 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
@@ -59,9 +59,9 @@ expired items removed — so you can rely on what you see being current.
 | 15 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 107 | Python | 2026-07-27 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
 | 16 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 2 | Go | 2026-07-27 | Temporal workers and clients for wrapping access to different LLMs |
 | 17 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 7 | Rust | 2026-07-27 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 18 | [holasoymalva/manyllm-app](https://github.com/holasoymalva/manyllm-app) | 0 | Swift | 2026-07-27 | Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi |
-| 19 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-07-27 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
-| 20 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27237 | Python | 2026-07-27 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 18 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27237 | Python | 2026-07-27 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 19 | [holasoymalva/manyllm-app](https://github.com/holasoymalva/manyllm-app) | 0 | Swift | 2026-07-27 | Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi |
+| 20 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-07-27 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
 | 21 | [acornops/management-console](https://github.com/acornops/management-console) | 2 | TypeScript | 2026-07-27 | Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations |
 | 22 | [acornops/control-plane](https://github.com/acornops/control-plane) | 2 | TypeScript | 2026-07-27 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
 | 23 | [acornops/llm-gateway](https://github.com/acornops/llm-gateway) | 2 | Python | 2026-07-27 | LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials. |
