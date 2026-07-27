@@ -1,12 +1,57 @@
 [
   {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-07-27T21:14:49Z",
-    "url": "https://github.com/a-novel/service-genai"
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 4,
+    "updated_at": "2026-07-27T21:28:53Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 3,
+    "updated_at": "2026-07-27T21:26:52Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31962,
+    "updated_at": "2026-07-27T21:24:21Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54853,
+    "updated_at": "2026-07-27T21:29:35Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-27T21:15:57Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T21:15:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -18,31 +63,13 @@
     "url": "https://github.com/dshakes/clickllm"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54853,
-    "updated_at": "2026-07-27T21:07:17Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 4,
-    "updated_at": "2026-07-27T21:08:29Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-27T21:06:12Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-07-27T21:14:49Z",
+    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -54,21 +81,12 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T21:00:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3423,
-    "updated_at": "2026-07-27T21:12:31Z",
+    "updated_at": "2026-07-27T21:23:39Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -81,21 +99,12 @@
     "url": "https://github.com/AshwinUgale/muteval"
   },
   {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 3,
-    "updated_at": "2026-07-27T20:40:53Z",
-    "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6823,
-    "updated_at": "2026-07-27T20:32:37Z",
+    "updated_at": "2026-07-27T21:20:50Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 2,
-    "updated_at": "2026-07-27T20:16:46Z",
+    "updated_at": "2026-07-27T21:29:45Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -333,15 +342,6 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31961,
-    "updated_at": "2026-07-27T21:06:12Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Context optimization for AI agents \u2014 97 domain knowledge graphs, MCP-native traversal. 4\u00d7 F1 of RAG, 11\u00d7 fewer tokens pe",
     "id": "Yarmoluk/ckg-mcp",
     "language": "Python",
@@ -374,7 +374,7 @@
     "language": "Shell",
     "name": "Enovatr-Labs/SpecRoute",
     "stars": 2,
-    "updated_at": "2026-07-27T19:16:21Z",
+    "updated_at": "2026-07-27T21:27:28Z",
     "url": "https://github.com/Enovatr-Labs/SpecRoute"
   },
   {
@@ -383,7 +383,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3119,
-    "updated_at": "2026-07-27T19:38:43Z",
+    "updated_at": "2026-07-27T21:28:50Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
