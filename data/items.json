@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 344,
+    "updated_at": "2026-07-27T18:12:48Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "MnemoIR \u2014 Causal Memory Incident Response for AI agents. Incident-response framework for tracing, quarantining, repairin",
+    "id": "DheerajPranav/mnemo-ir",
+    "language": "Python",
+    "name": "DheerajPranav/mnemo-ir",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:10:04Z",
+    "url": "https://github.com/DheerajPranav/mnemo-ir"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-27T18:08:28Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-27T18:09:35Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 2,
+    "updated_at": "2026-07-27T18:05:02Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "Multi-backend LLM & model-serving platform \u2014 vLLM, Triton Inference Server, Ray Serve, KServe, and BentoML behind one co",
+    "id": "hamidmatiny/Vulcan",
+    "language": "Python",
+    "name": "hamidmatiny/Vulcan",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:03:41Z",
+    "url": "https://github.com/hamidmatiny/Vulcan"
+  },
+  {
+    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
+    "id": "runcycles/cycles-mcp-server",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:01:26Z",
+    "url": "https://github.com/runcycles/cycles-mcp-server"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T18:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T17:57:07Z",
     "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T17:57:00Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Cycles budget and action guard for OpenClaw agents",
@@ -81,15 +144,6 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-27T17:53:11Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
     "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
     "id": "gmaheshraju/Hands-on-AgenticAI",
     "language": "JavaScript",
@@ -99,13 +153,13 @@
     "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 344,
-    "updated_at": "2026-07-27T17:57:48Z",
-    "url": "https://github.com/mozilla-ai/otari"
+    "name": "comet-ml/opik",
+    "stars": 20917,
+    "updated_at": "2026-07-27T18:14:27Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -124,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T17:44:22Z",
     "url": "https://github.com/yptang98/CostMarshal"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 2,
-    "updated_at": "2026-07-27T17:43:23Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -167,17 +212,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54844,
-    "updated_at": "2026-07-27T17:56:31Z",
+    "updated_at": "2026-07-27T18:13:51Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20916,
-    "updated_at": "2026-07-27T17:47:40Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
@@ -214,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T17:41:53Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-27T17:43:44Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10765,
-    "updated_at": "2026-07-27T17:03:38Z",
+    "updated_at": "2026-07-27T18:15:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6822,
-    "updated_at": "2026-07-27T17:03:06Z",
+    "updated_at": "2026-07-27T18:12:05Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -394,15 +421,6 @@
     "stars": 1164,
     "updated_at": "2026-07-27T16:34:49Z",
     "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-27T17:58:25Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T16:19:21Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-27T16:16:30Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3118,
-    "updated_at": "2026-07-27T17:59:28Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
