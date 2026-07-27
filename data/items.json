@@ -1,12 +1,21 @@
 [
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
+    "description": "Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every",
+    "id": "dcondrey/misterdev",
     "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
+    "name": "dcondrey/misterdev",
     "stars": 1,
-    "updated_at": "2026-07-27T22:15:02Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+    "updated_at": "2026-07-27T22:28:52Z",
+    "url": "https://github.com/dcondrey/misterdev"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54856,
+    "updated_at": "2026-07-27T22:25:06Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
@@ -14,8 +23,35 @@
     "language": "Swift",
     "name": "holasoymalva/manyllm-app",
     "stars": 0,
-    "updated_at": "2026-07-27T22:14:17Z",
+    "updated_at": "2026-07-27T22:25:04Z",
     "url": "https://github.com/holasoymalva/manyllm-app"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-07-27T22:20:02Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T22:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-27T22:15:49Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -23,7 +59,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 2,
-    "updated_at": "2026-07-27T22:13:30Z",
+    "updated_at": "2026-07-27T22:17:42Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T22:06:54Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54856,
-    "updated_at": "2026-07-27T22:05:53Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -79,15 +106,6 @@
     "stars": 27237,
     "updated_at": "2026-07-27T22:05:08Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T22:03:11Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -149,7 +167,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6824,
-    "updated_at": "2026-07-27T21:54:41Z",
+    "updated_at": "2026-07-27T22:26:35Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "dshakes/clickllm",
     "stars": 0,
-    "updated_at": "2026-07-27T22:05:31Z",
+    "updated_at": "2026-07-27T22:16:00Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10766,
-    "updated_at": "2026-07-27T22:14:12Z",
+    "updated_at": "2026-07-27T22:28:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -212,7 +230,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29405,
-    "updated_at": "2026-07-27T20:33:58Z",
+    "updated_at": "2026-07-27T22:17:22Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T20:29:51Z",
     "url": "https://github.com/trevhud/rote"
-  },
-  {
-    "description": "Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every",
-    "id": "dcondrey/misterdev",
-    "language": "Python",
-    "name": "dcondrey/misterdev",
-    "stars": 1,
-    "updated_at": "2026-07-27T20:21:07Z",
-    "url": "https://github.com/dcondrey/misterdev"
   },
   {
     "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 107,
-    "updated_at": "2026-07-27T22:04:48Z",
+    "updated_at": "2026-07-27T22:17:17Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -277,15 +286,6 @@
     "stars": 7,
     "updated_at": "2026-07-27T20:09:41Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-07-27T20:15:32Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
