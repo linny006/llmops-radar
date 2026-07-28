@@ -1,5 +1,23 @@
 [
   {
+    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
+    "id": "vul-os/llmux",
+    "language": "Go",
+    "name": "vul-os/llmux",
+    "stars": 2,
+    "updated_at": "2026-07-28T18:45:20Z",
+    "url": "https://github.com/vul-os/llmux"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T18:44:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -88,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T18:31:23Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T18:30:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Stdlib-only LLMOps: cost-aware model routing, evals, and honest telemetry \u2014 measured on real usage (162 tests)",
@@ -196,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T18:08:22Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
-    "id": "vul-os/llmux",
-    "language": "Go",
-    "name": "vul-os/llmux",
-    "stars": 2,
-    "updated_at": "2026-07-28T18:05:41Z",
-    "url": "https://github.com/vul-os/llmux"
   },
   {
     "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
