@@ -5,8 +5,62 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29412,
-    "updated_at": "2026-07-28T09:44:22Z",
+    "updated_at": "2026-07-28T09:59:16Z",
     "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 67,
+    "updated_at": "2026-07-28T09:58:57Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32002,
+    "updated_at": "2026-07-28T09:59:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 11,
+    "updated_at": "2026-07-28T09:51:08Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20935,
+    "updated_at": "2026-07-28T09:55:38Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T09:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-07-28T09:44:51Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "\u041a\u0430\u0440\u043a\u0430\u0441 \u0434\u043b\u044f \u043f\u0430\u0439\u043f\u043b\u0430\u0439\u043d\u043e\u0432 \u0438\u0437 LLM-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043e\u0440\u043a\u0435\u0441\u0442\u0440\u0430\u0446\u0438\u044f, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0442\u0435\u043b\u0438, \u044d\u0432\u0430\u043b-\u0445\u0430\u0440\u043d\u0435\u0441",
@@ -18,21 +72,12 @@
     "url": "https://github.com/danieldanielda/agent-pipeline-eval"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32002,
-    "updated_at": "2026-07-28T09:43:47Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3425,
-    "updated_at": "2026-07-28T09:44:53Z",
+    "updated_at": "2026-07-28T09:51:59Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -81,15 +126,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T09:30:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
@@ -97,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T09:29:29Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-07-28T09:44:51Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "Terminal trace debugger for AI agents.",
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-07-28T09:37:16Z",
+    "updated_at": "2026-07-28T09:48:12Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "orq-ai/orq-arena",
     "stars": 18,
-    "updated_at": "2026-07-28T09:30:50Z",
+    "updated_at": "2026-07-28T09:45:37Z",
     "url": "https://github.com/orq-ai/orq-arena"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6843,
-    "updated_at": "2026-07-28T09:19:17Z",
+    "updated_at": "2026-07-28T09:59:01Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -171,13 +198,13 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20935,
-    "updated_at": "2026-07-28T09:45:02Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "mlflow/mlflow",
+    "stars": 27244,
+    "updated_at": "2026-07-28T09:16:00Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -187,15 +214,6 @@
     "stars": 75,
     "updated_at": "2026-07-28T09:15:00Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27243,
-    "updated_at": "2026-07-28T09:16:00Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
@@ -225,15 +243,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 11,
-    "updated_at": "2026-07-28T09:05:38Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
     "id": "ashishki/telegram-research-agent",
     "language": "Python",
@@ -250,15 +259,6 @@
     "stars": 7,
     "updated_at": "2026-07-28T08:48:06Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 67,
-    "updated_at": "2026-07-28T08:48:03Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Get the knowledge you need to develop your agents.",
@@ -338,7 +338,7 @@
     "language": "\u2014",
     "name": "anhermon/awesome-agent-observability",
     "stars": 0,
-    "updated_at": "2026-07-28T08:16:25Z",
+    "updated_at": "2026-07-28T09:47:15Z",
     "url": "https://github.com/anhermon/awesome-agent-observability"
   },
   {
@@ -347,7 +347,7 @@
     "language": "Go",
     "name": "okfriansyah-moh/the-foundry",
     "stars": 0,
-    "updated_at": "2026-07-28T09:41:44Z",
+    "updated_at": "2026-07-28T09:54:17Z",
     "url": "https://github.com/okfriansyah-moh/the-foundry"
   },
   {
@@ -356,7 +356,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5652,
-    "updated_at": "2026-07-28T09:20:19Z",
+    "updated_at": "2026-07-28T09:56:13Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -437,7 +437,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1288,
-    "updated_at": "2026-07-28T09:44:26Z",
+    "updated_at": "2026-07-28T09:59:58Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
