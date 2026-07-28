@@ -1,12 +1,102 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27243,
+    "updated_at": "2026-07-28T09:14:34Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31998,
-    "updated_at": "2026-07-28T08:59:23Z",
+    "stars": 31999,
+    "updated_at": "2026-07-28T09:11:30Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-28T09:11:16Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-28T09:10:27Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3424,
+    "updated_at": "2026-07-28T09:14:27Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-28T09:07:14Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
+    "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
+    "language": "JavaScript",
+    "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
+    "stars": 0,
+    "updated_at": "2026-07-28T09:06:13Z",
+    "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 11,
+    "updated_at": "2026-07-28T09:05:38Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-07-28T09:03:31Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20934,
+    "updated_at": "2026-07-28T09:02:13Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T09:00:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -14,8 +104,17 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 75,
-    "updated_at": "2026-07-28T08:57:49Z",
+    "updated_at": "2026-07-28T09:15:00Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6842,
+    "updated_at": "2026-07-28T08:56:35Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Terminal trace debugger for AI agents.",
@@ -23,17 +122,8 @@
     "language": "Go",
     "name": "tonquoc0407/capybara",
     "stars": 11,
-    "updated_at": "2026-07-28T08:53:46Z",
+    "updated_at": "2026-07-28T09:07:33Z",
     "url": "https://github.com/tonquoc0407/capybara"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27242,
-    "updated_at": "2026-07-28T08:49:34Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -45,21 +135,12 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-28T08:47:28Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29413,
-    "updated_at": "2026-07-28T08:49:41Z",
+    "updated_at": "2026-07-28T09:09:43Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 67,
     "updated_at": "2026-07-28T08:48:03Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T08:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Get the knowledge you need to develop your agents.",
@@ -122,17 +194,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-28T08:40:56Z",
+    "updated_at": "2026-07-28T09:07:32Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 11,
-    "updated_at": "2026-07-28T08:38:40Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
@@ -171,15 +234,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3423,
-    "updated_at": "2026-07-28T08:51:10Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
     "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "language": "TypeScript",
@@ -207,15 +261,6 @@
     "url": "https://github.com/ssbeatty/agentflow"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6841,
-    "updated_at": "2026-07-28T08:56:35Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Curated list of tools, standards, and platforms for LLM and AI-agent observability: OpenTelemetry GenAI conventions, tra",
     "id": "anhermon/awesome-agent-observability",
     "language": "\u2014",
@@ -230,7 +275,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 2,
-    "updated_at": "2026-07-28T08:04:41Z",
+    "updated_at": "2026-07-28T09:07:37Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Go",
     "name": "okfriansyah-moh/the-foundry",
     "stars": 0,
-    "updated_at": "2026-07-28T08:04:06Z",
+    "updated_at": "2026-07-28T09:14:01Z",
     "url": "https://github.com/okfriansyah-moh/the-foundry"
   },
   {
@@ -248,17 +293,8 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5652,
-    "updated_at": "2026-07-28T08:27:21Z",
+    "updated_at": "2026-07-28T09:06:51Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20935,
-    "updated_at": "2026-07-28T08:59:47Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -338,7 +374,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1288,
-    "updated_at": "2026-07-28T08:52:47Z",
+    "updated_at": "2026-07-28T09:13:01Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54897,
-    "updated_at": "2026-07-28T07:09:46Z",
+    "updated_at": "2026-07-28T09:10:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11784,
-    "updated_at": "2026-07-28T08:47:26Z",
+    "updated_at": "2026-07-28T09:03:49Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T06:23:05Z",
     "url": "https://github.com/matuteiglesias/kb-contracts"
-  },
-  {
-    "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
-    "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "language": "JavaScript",
-    "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "stars": 0,
-    "updated_at": "2026-07-28T05:58:46Z",
-    "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 4,
-    "updated_at": "2026-07-28T05:54:31Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 73,
-    "updated_at": "2026-07-28T05:50:49Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
-    "id": "KIM3310/llm-onprem-deployment-kit",
-    "language": "HCL",
-    "name": "KIM3310/llm-onprem-deployment-kit",
-    "stars": 0,
-    "updated_at": "2026-07-28T05:50:44Z",
-    "url": "https://github.com/KIM3310/llm-onprem-deployment-kit"
   }
 ]
