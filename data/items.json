@@ -1,11 +1,83 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32007,
+    "updated_at": "2026-07-28T10:57:51Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-07-28T10:52:47Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Framework to bring LLM applications to production",
+    "id": "TensorOpsAI/LLMstudio",
+    "language": "Python",
+    "name": "TensorOpsAI/LLMstudio",
+    "stars": 386,
+    "updated_at": "2026-07-28T10:50:20Z",
+    "url": "https://github.com/TensorOpsAI/LLMstudio"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-07-28T10:50:05Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Get the knowledge you need to develop your agents.",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-28T10:46:51Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Benchmark LLMs head-to-head on your own prompts. ",
+    "id": "orq-ai/orq-arena",
+    "language": "Python",
+    "name": "orq-ai/orq-arena",
+    "stars": 18,
+    "updated_at": "2026-07-28T10:58:01Z",
+    "url": "https://github.com/orq-ai/orq-arena"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20939,
+    "updated_at": "2026-07-28T10:52:18Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T10:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 2,
-    "updated_at": "2026-07-28T10:44:16Z",
+    "updated_at": "2026-07-28T10:46:37Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -18,13 +90,13 @@
     "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 3,
-    "updated_at": "2026-07-28T10:44:25Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6846,
+    "updated_at": "2026-07-28T10:58:12Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3425,
-    "updated_at": "2026-07-28T10:45:08Z",
+    "updated_at": "2026-07-28T10:58:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 74,
-    "updated_at": "2026-07-28T10:33:00Z",
+    "updated_at": "2026-07-28T10:53:25Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -72,22 +144,13 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
     "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-07-28T10:31:54Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T10:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "ComposioHQ/composio",
+    "stars": 29413,
+    "updated_at": "2026-07-28T10:49:16Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "The Requesty integration package for the Vercel AI SDK.",
@@ -97,24 +160,6 @@
     "stars": 8,
     "updated_at": "2026-07-28T10:30:18Z",
     "url": "https://github.com/requestyai/ai-sdk-requesty"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32007,
-    "updated_at": "2026-07-28T10:25:25Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6845,
-    "updated_at": "2026-07-28T10:39:21Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 24,
-    "updated_at": "2026-07-28T10:22:10Z",
+    "updated_at": "2026-07-28T10:57:13Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 12,
     "updated_at": "2026-07-28T10:17:55Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20939,
-    "updated_at": "2026-07-28T10:35:44Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8080,
-    "updated_at": "2026-07-28T10:35:26Z",
+    "updated_at": "2026-07-28T10:55:05Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
-    "description": "Get the knowledge you need to develop your agents.",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-28T10:29:37Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
     "id": "GeiserX/LynxPrompt",
     "language": "TypeScript",
@@ -241,15 +268,6 @@
     "stars": 43,
     "updated_at": "2026-07-28T10:03:54Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29412,
-    "updated_at": "2026-07-28T10:30:35Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -311,17 +329,8 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-07-28T10:44:22Z",
+    "updated_at": "2026-07-28T10:53:44Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Benchmark LLMs head-to-head on your own prompts. ",
-    "id": "orq-ai/orq-arena",
-    "language": "Python",
-    "name": "orq-ai/orq-arena",
-    "stars": 18,
-    "updated_at": "2026-07-28T09:45:37Z",
-    "url": "https://github.com/orq-ai/orq-arena"
   },
   {
     "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
@@ -373,7 +382,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54904,
+    "stars": 54903,
     "updated_at": "2026-07-28T09:10:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -439,14 +448,5 @@
     "stars": 18,
     "updated_at": "2026-07-28T08:30:23Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
-    "id": "Prathamg042004/tokensave",
-    "language": "TypeScript",
-    "name": "Prathamg042004/tokensave",
-    "stars": 1,
-    "updated_at": "2026-07-28T08:19:49Z",
-    "url": "https://github.com/Prathamg042004/tokensave"
   }
 ]
