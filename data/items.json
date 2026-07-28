@@ -1,5 +1,104 @@
 [
   {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-07-28T18:42:24Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 3,
+    "updated_at": "2026-07-28T18:42:18Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27250,
+    "updated_at": "2026-07-28T18:41:19Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 77,
+    "updated_at": "2026-07-28T18:39:48Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-28T18:39:08Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54930,
+    "updated_at": "2026-07-28T18:37:19Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-28T18:36:19Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-07-28T18:35:26Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 23,
+    "updated_at": "2026-07-28T18:34:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-07-28T18:31:23Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T18:30:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Stdlib-only LLMOps: cost-aware model routing, evals, and honest telemetry \u2014 measured on real usage (162 tests)",
     "id": "evince55/aria-llmops",
     "language": "Python",
@@ -14,7 +113,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32031,
-    "updated_at": "2026-07-28T18:27:13Z",
+    "updated_at": "2026-07-28T18:31:56Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -27,24 +126,6 @@
     "url": "https://github.com/openloop-team/openloop"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54930,
-    "updated_at": "2026-07-28T18:23:39Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 23,
-    "updated_at": "2026-07-28T18:18:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -52,24 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T18:18:40Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 77,
-    "updated_at": "2026-07-28T18:15:53Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T18:15:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -86,7 +149,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-28T18:28:58Z",
+    "updated_at": "2026-07-28T18:42:58Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-28T18:22:04Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
     "id": "vul-os/llmux",
     "language": "Go",
@@ -180,15 +234,6 @@
     "url": "https://github.com/virinchisai/aidlc-passport"
   },
   {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-07-28T17:44:50Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
     "description": "Supplemental resources for the book Private Agent Systems by Daniele Ver\u00ec - reusable templates, source register, and com",
     "id": "yuzushi-dev/Private-Agent-Systems",
     "language": "Python",
@@ -205,15 +250,6 @@
     "stars": 6859,
     "updated_at": "2026-07-28T17:38:49Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-28T18:26:49Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -324,15 +360,6 @@
     "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
   },
   {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-07-28T16:46:39Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
     "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
     "id": "RafineriaAI/aos-workflow-gate",
     "language": "Python",
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-28T18:25:08Z",
+    "updated_at": "2026-07-28T18:44:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T16:12:32Z",
     "url": "https://github.com/Shubham-S151/Routing-and-Agentic-RAG"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20944,
-    "updated_at": "2026-07-28T18:20:15Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 32,
-    "updated_at": "2026-07-28T16:05:47Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Test suite for LLM applications: golden data, a judge calibrated against human labels with Cohen's kappa, and CI gates t",
-    "id": "Abdr007/evalops",
-    "language": "Python",
-    "name": "Abdr007/evalops",
-    "stars": 0,
-    "updated_at": "2026-07-28T16:04:46Z",
-    "url": "https://github.com/Abdr007/evalops"
   }
 ]
