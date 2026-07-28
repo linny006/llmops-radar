@@ -1,5 +1,68 @@
 [
   {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-07-28T01:55:41Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 0,
+    "updated_at": "2026-07-28T01:59:15Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-28T01:54:47Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-07-28T01:51:40Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
+    "id": "domestique-labs/domestique-oss",
+    "language": "Python",
+    "name": "domestique-labs/domestique-oss",
+    "stars": 2,
+    "updated_at": "2026-07-28T01:51:39Z",
+    "url": "https://github.com/domestique-labs/domestique-oss"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-28T01:51:46Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T01:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -13,7 +76,7 @@
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
-    "stars": 73,
+    "stars": 74,
     "updated_at": "2026-07-28T01:35:02Z",
     "url": "https://github.com/api7/aisix"
   },
@@ -22,7 +85,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54862,
+    "stars": 54863,
     "updated_at": "2026-07-28T01:32:58Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -45,15 +108,6 @@
     "url": "https://github.com/evince55/aria-llmops"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T01:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -63,15 +117,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-28T01:28:38Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
     "id": "Bobcatsfan33/AI-Security-Platform",
     "language": "Python",
@@ -79,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T01:28:18Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-28T01:19:18Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -122,7 +158,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-28T01:42:41Z",
+    "updated_at": "2026-07-28T01:56:49Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/openloop-team/openloop"
   },
   {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Rust",
-    "name": "dshakes/clickllm",
-    "stars": 0,
-    "updated_at": "2026-07-28T00:18:35Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -184,7 +211,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6827,
+    "stars": 6828,
     "updated_at": "2026-07-28T00:08:05Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23667,
-    "updated_at": "2026-07-27T22:11:50Z",
+    "updated_at": "2026-07-28T01:47:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 31,
     "updated_at": "2026-07-27T22:05:45Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27238,
-    "updated_at": "2026-07-27T22:05:08Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-07-27T21:52:29Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Statistics for LLM-judged evaluations: bias-corrected scores, real confidence intervals, and comparisons that hold up",
-    "id": "SaifPunjwani/truescore",
-    "language": "Python",
-    "name": "SaifPunjwani/truescore",
-    "stars": 0,
-    "updated_at": "2026-07-27T21:49:58Z",
-    "url": "https://github.com/SaifPunjwani/truescore"
   }
 ]
