@@ -1,12 +1,39 @@
 [
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
+    "id": "bytebeast/check-endpoint",
     "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 0,
-    "updated_at": "2026-07-28T00:12:39Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
+    "name": "bytebeast/check-endpoint",
+    "stars": 6,
+    "updated_at": "2026-07-28T00:29:03Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 3,
+    "updated_at": "2026-07-28T00:28:25Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54859,
+    "updated_at": "2026-07-28T00:28:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20925,
+    "updated_at": "2026-07-28T00:22:35Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -14,8 +41,35 @@
     "language": "Rust",
     "name": "dshakes/clickllm",
     "stars": 0,
-    "updated_at": "2026-07-28T00:14:21Z",
+    "updated_at": "2026-07-28T00:18:35Z",
     "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-28T00:27:52Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T00:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 0,
+    "updated_at": "2026-07-28T00:12:39Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -45,24 +99,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-28T00:12:39Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T00:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -88,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T23:53:40Z",
     "url": "https://github.com/wjlgatech/FM-os"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54858,
-    "updated_at": "2026-07-28T00:15:12Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -151,15 +178,6 @@
     "stars": 381,
     "updated_at": "2026-07-27T23:32:17Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
-    "id": "bytebeast/check-endpoint",
-    "language": "Python",
-    "name": "bytebeast/check-endpoint",
-    "stars": 6,
-    "updated_at": "2026-07-28T00:15:24Z",
-    "url": "https://github.com/bytebeast/check-endpoint"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10768,
-    "updated_at": "2026-07-28T00:08:36Z",
+    "updated_at": "2026-07-28T00:26:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-27T22:59:12Z",
+    "updated_at": "2026-07-28T00:27:53Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/AshwinUgale/muteval"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20924,
-    "updated_at": "2026-07-27T20:30:10Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
     "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T20:12:03Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-07-27T20:11:56Z",
-    "url": "https://github.com/acornops/control-plane"
   }
 ]
