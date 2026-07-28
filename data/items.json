@@ -1,5 +1,50 @@
 [
   {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-28T02:44:26Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27238,
+    "updated_at": "2026-07-28T02:41:49Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 11,
+    "updated_at": "2026-07-28T02:40:09Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8075,
+    "updated_at": "2026-07-28T02:31:44Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T02:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -13,8 +58,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 54865,
-    "updated_at": "2026-07-28T02:22:54Z",
+    "stars": 54867,
+    "updated_at": "2026-07-28T02:45:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 0,
-    "updated_at": "2026-07-28T02:18:35Z",
+    "updated_at": "2026-07-28T02:42:33Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -43,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T02:17:48Z",
     "url": "https://github.com/AshwinUgale/muteval"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T02:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-28T02:23:01Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T02:07:52Z",
     "url": "https://github.com/Siris2314/deep-paper-reader"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 11,
-    "updated_at": "2026-07-28T02:06:49Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
@@ -117,12 +135,21 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23668,
+    "updated_at": "2026-07-28T01:47:46Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 67,
-    "updated_at": "2026-07-28T01:43:56Z",
+    "updated_at": "2026-07-28T02:44:17Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-28T02:07:15Z",
+    "updated_at": "2026-07-28T02:40:07Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -212,7 +239,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2503,
-    "updated_at": "2026-07-28T01:10:34Z",
+    "updated_at": "2026-07-28T02:30:34Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -220,18 +247,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20926,
+    "stars": 20927,
     "updated_at": "2026-07-28T01:00:07Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8075,
-    "updated_at": "2026-07-28T02:12:27Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -414,39 +432,21 @@
     "url": "https://github.com/alex-hahn/whydunit"
   },
   {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1062,
+    "updated_at": "2026-07-27T22:59:22Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31966,
+    "stars": 31967,
     "updated_at": "2026-07-27T22:58:03Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Understand and improve how you use AI coding tools. A local web app that turns raw usage data into a live dashboard \u2014 to",
-    "id": "starbringer/AI-Insights",
-    "language": "TypeScript",
-    "name": "starbringer/AI-Insights",
-    "stars": 2,
-    "updated_at": "2026-07-27T22:53:57Z",
-    "url": "https://github.com/starbringer/AI-Insights"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3120,
-    "updated_at": "2026-07-27T22:39:35Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
-    "id": "katanemo/plano",
-    "language": "Rust",
-    "name": "katanemo/plano",
-    "stars": 6904,
-    "updated_at": "2026-07-27T22:36:50Z",
-    "url": "https://github.com/katanemo/plano"
   }
 ]
