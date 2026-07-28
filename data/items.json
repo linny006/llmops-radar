@@ -1,5 +1,77 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-28T18:58:55Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10783,
+    "updated_at": "2026-07-28T18:59:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-28T18:56:41Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-07-28T18:55:25Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-07-28T18:55:23Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29422,
+    "updated_at": "2026-07-28T18:56:54Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54932,
+    "updated_at": "2026-07-28T18:56:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T18:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
     "id": "vul-os/llmux",
     "language": "Go",
@@ -9,13 +81,13 @@
     "url": "https://github.com/vul-os/llmux"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T18:44:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "sarkars/agent-failure-modes",
+    "stars": 0,
+    "updated_at": "2026-07-28T18:44:01Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27250,
-    "updated_at": "2026-07-28T18:41:19Z",
+    "updated_at": "2026-07-28T18:56:03Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -59,26 +131,8 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 2,
-    "updated_at": "2026-07-28T18:39:08Z",
+    "updated_at": "2026-07-28T18:59:49Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54930,
-    "updated_at": "2026-07-28T18:37:19Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-28T18:36:19Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-07-28T18:35:26Z",
+    "updated_at": "2026-07-28T18:57:37Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -97,6 +151,15 @@
     "stars": 23,
     "updated_at": "2026-07-28T18:34:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32032,
+    "updated_at": "2026-07-28T18:31:56Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -115,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T18:30:07Z",
     "url": "https://github.com/evince55/aria-llmops"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32031,
-    "updated_at": "2026-07-28T18:31:56Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "openloop-team/openloop",
-    "language": "Python",
-    "name": "openloop-team/openloop",
-    "stars": 2,
-    "updated_at": "2026-07-28T18:23:33Z",
-    "url": "https://github.com/openloop-team/openloop"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-28T18:42:58Z",
+    "updated_at": "2026-07-28T18:58:33Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T18:13:35Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-28T18:30:14Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
@@ -211,7 +247,7 @@
     "id": "yptang98/CostMarshal",
     "language": "Python",
     "name": "yptang98/CostMarshal",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-28T17:57:40Z",
     "url": "https://github.com/yptang98/CostMarshal"
   },
@@ -248,17 +284,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6859,
-    "updated_at": "2026-07-28T17:38:49Z",
+    "updated_at": "2026-07-28T18:59:36Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10783,
-    "updated_at": "2026-07-28T18:16:58Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
@@ -315,15 +342,6 @@
     "url": "https://github.com/openlit/openlit"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29422,
-    "updated_at": "2026-07-28T17:14:09Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "A typed coherence layer for portable organizational AI agents.",
     "id": "buchk/TypeFerence",
     "language": "Go",
@@ -338,7 +356,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3123,
-    "updated_at": "2026-07-28T17:50:45Z",
+    "updated_at": "2026-07-28T18:53:22Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -346,7 +364,7 @@
     "id": "krishkumar4400/weights-to-prod",
     "language": "Jupyter Notebook",
     "name": "krishkumar4400/weights-to-prod",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-28T17:00:45Z",
     "url": "https://github.com/krishkumar4400/weights-to-prod"
   },
@@ -367,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T16:45:24Z",
     "url": "https://github.com/RafineriaAI/aos-workflow-gate"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-07-28T16:45:18Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Benchmark LLMs head-to-head on your own prompts. ",
@@ -405,6 +414,15 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5723,
+    "updated_at": "2026-07-28T16:37:18Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
     "id": "8pig/llm-ops",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-28T16:20:13Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3426,
-    "updated_at": "2026-07-28T18:44:20Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Hybrid Local/Web Agentic RAG system featuring layout-aware PDF parsing, cross-encoder reranking, and Ragas evaluation.",
-    "id": "Shubham-S151/Routing-and-Agentic-RAG",
-    "language": "Python",
-    "name": "Shubham-S151/Routing-and-Agentic-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-28T16:12:32Z",
-    "url": "https://github.com/Shubham-S151/Routing-and-Agentic-RAG"
   }
 ]
