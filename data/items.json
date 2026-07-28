@@ -1,12 +1,30 @@
 [
   {
-    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
-    "id": "Everton-baptista/agenteARQ",
-    "language": "Go",
-    "name": "Everton-baptista/agenteARQ",
-    "stars": 0,
-    "updated_at": "2026-07-28T19:44:13Z",
-    "url": "https://github.com/Everton-baptista/agenteARQ"
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-28T19:59:39Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-28T19:59:11Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
+    "id": "neurarch-ai/awesome-llm-system-design",
+    "language": "Python",
+    "name": "neurarch-ai/awesome-llm-system-design",
+    "stars": 1,
+    "updated_at": "2026-07-28T19:59:09Z",
+    "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
   },
   {
     "description": "Version control for AI systems. Git tells you what changed; aigit tells you why the AI behaves differently immutable sna",
@@ -14,8 +32,44 @@
     "language": "Python",
     "name": "sainitish1609/aigit",
     "stars": 0,
-    "updated_at": "2026-07-28T19:42:18Z",
+    "updated_at": "2026-07-28T19:57:29Z",
     "url": "https://github.com/sainitish1609/aigit"
+  },
+  {
+    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
+    "id": "Everton-baptista/agenteARQ",
+    "language": "Go",
+    "name": "Everton-baptista/agenteARQ",
+    "stars": 0,
+    "updated_at": "2026-07-28T19:57:19Z",
+    "url": "https://github.com/Everton-baptista/agenteARQ"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54934,
+    "updated_at": "2026-07-28T20:00:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-28T19:52:35Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-07-28T19:51:40Z",
+    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Production rules and 5 skills for building agentic AI systems \u2014 design review, agent scaffolding, tool schema design, in",
@@ -23,16 +77,34 @@
     "language": "Go Template",
     "name": "iushv/agentic-ai-skills",
     "stars": 1,
-    "updated_at": "2026-07-28T19:41:07Z",
+    "updated_at": "2026-07-28T19:50:38Z",
     "url": "https://github.com/iushv/agentic-ai-skills"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 23,
+    "updated_at": "2026-07-28T19:50:27Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T19:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20944,
-    "updated_at": "2026-07-28T19:41:00Z",
+    "stars": 20943,
+    "updated_at": "2026-07-28T19:56:33Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -49,18 +121,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32033,
+    "stars": 32034,
     "updated_at": "2026-07-28T19:35:16Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 23,
-    "updated_at": "2026-07-28T19:33:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -70,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T19:31:57Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T19:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "RAG chatbot for R+V private-customer insurance conditions (German), grounded in a Qdrant-indexed document corpus.",
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-28T19:45:29Z",
+    "updated_at": "2026-07-28T19:56:36Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -153,21 +207,12 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54933,
-    "updated_at": "2026-07-28T19:45:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-28T19:39:31Z",
+    "updated_at": "2026-07-28T19:57:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10784,
-    "updated_at": "2026-07-28T19:38:26Z",
+    "updated_at": "2026-07-28T20:00:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -194,17 +239,8 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 2,
-    "updated_at": "2026-07-28T18:59:49Z",
+    "updated_at": "2026-07-28T19:56:21Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-28T19:25:18Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29422,
-    "updated_at": "2026-07-28T19:42:39Z",
+    "updated_at": "2026-07-28T19:50:16Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T18:44:01Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-07-28T19:27:35Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "yptang98/CostMarshal",
     "stars": 3,
-    "updated_at": "2026-07-28T17:57:40Z",
+    "updated_at": "2026-07-28T19:58:18Z",
     "url": "https://github.com/yptang98/CostMarshal"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3123,
     "updated_at": "2026-07-28T18:53:22Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
-    "id": "krishkumar4400/weights-to-prod",
-    "language": "Jupyter Notebook",
-    "name": "krishkumar4400/weights-to-prod",
-    "stars": 2,
-    "updated_at": "2026-07-28T17:00:45Z",
-    "url": "https://github.com/krishkumar4400/weights-to-prod"
-  },
-  {
-    "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
-    "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "language": "JavaScript",
-    "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "stars": 0,
-    "updated_at": "2026-07-28T16:47:14Z",
-    "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
-  },
-  {
-    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
-    "id": "RafineriaAI/aos-workflow-gate",
-    "language": "Python",
-    "name": "RafineriaAI/aos-workflow-gate",
-    "stars": 0,
-    "updated_at": "2026-07-28T16:45:24Z",
-    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
   }
 ]
