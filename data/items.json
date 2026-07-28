@@ -1,11 +1,56 @@
 [
   {
+    "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
+    "id": "KIM3310/llm-onprem-deployment-kit",
+    "language": "HCL",
+    "name": "KIM3310/llm-onprem-deployment-kit",
+    "stars": 0,
+    "updated_at": "2026-07-28T09:17:37Z",
+    "url": "https://github.com/KIM3310/llm-onprem-deployment-kit"
+  },
+  {
+    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
+    "id": "KIM3310/enterprise-llm-adoption-kit",
+    "language": "Python",
+    "name": "KIM3310/enterprise-llm-adoption-kit",
+    "stars": 0,
+    "updated_at": "2026-07-28T09:17:28Z",
+    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 2,
+    "updated_at": "2026-07-28T09:17:01Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T09:15:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-28T09:15:00Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27243,
-    "updated_at": "2026-07-28T09:14:34Z",
+    "updated_at": "2026-07-28T09:16:00Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -13,7 +58,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31999,
+    "stars": 32000,
     "updated_at": "2026-07-28T09:11:30Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -86,26 +131,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20934,
-    "updated_at": "2026-07-28T09:02:13Z",
+    "updated_at": "2026-07-28T09:15:37Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T09:00:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-28T09:15:00Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -113,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6842,
-    "updated_at": "2026-07-28T08:56:35Z",
+    "updated_at": "2026-07-28T09:17:45Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T07:03:35Z",
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
-    "id": "Drlinglong/Remis",
-    "language": "Python",
-    "name": "Drlinglong/Remis",
-    "stars": 24,
-    "updated_at": "2026-07-28T06:56:06Z",
-    "url": "https://github.com/Drlinglong/Remis"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 10,
-    "updated_at": "2026-07-28T08:08:17Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
-    "id": "matuteiglesias/kb-contracts",
-    "language": "TypeScript",
-    "name": "matuteiglesias/kb-contracts",
-    "stars": 1,
-    "updated_at": "2026-07-28T06:23:05Z",
-    "url": "https://github.com/matuteiglesias/kb-contracts"
   }
 ]
