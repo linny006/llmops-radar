@@ -1,12 +1,57 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-28T00:44:07Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 1,
+    "updated_at": "2026-07-28T00:43:07Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
     "id": "bytebeast/check-endpoint",
     "language": "Python",
     "name": "bytebeast/check-endpoint",
     "stars": 6,
-    "updated_at": "2026-07-28T00:29:03Z",
+    "updated_at": "2026-07-28T00:42:01Z",
     "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-28T00:43:08Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 1,
+    "updated_at": "2026-07-28T00:31:22Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T00:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54859,
-    "updated_at": "2026-07-28T00:28:03Z",
+    "updated_at": "2026-07-28T00:44:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -31,7 +76,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20925,
+    "stars": 20926,
     "updated_at": "2026-07-28T00:22:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -43,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T00:18:35Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-28T00:27:52Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T00:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -79,6 +106,15 @@
     "stars": 11,
     "updated_at": "2026-07-28T00:05:53Z",
     "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8075,
+    "updated_at": "2026-07-28T00:04:49Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -131,7 +167,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 2,
-    "updated_at": "2026-07-27T23:47:17Z",
+    "updated_at": "2026-07-28T00:44:41Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 9,
-    "updated_at": "2026-07-27T23:35:05Z",
+    "updated_at": "2026-07-28T00:39:05Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10768,
-    "updated_at": "2026-07-28T00:26:35Z",
+    "updated_at": "2026-07-28T00:36:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/SaifPunjwani/truescore"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8074,
-    "updated_at": "2026-07-28T00:04:49Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T20:58:07Z",
     "url": "https://github.com/AshwinUgale/muteval"
-  },
-  {
-    "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
-    "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "language": "JavaScript",
-    "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "stars": 0,
-    "updated_at": "2026-07-27T20:20:00Z",
-    "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-27T20:09:41Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-27T20:12:03Z",
-    "url": "https://github.com/acornops/management-console"
   }
 ]
