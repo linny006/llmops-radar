@@ -1,5 +1,59 @@
 [
   {
+    "description": "Evaluation discipline for agentic apps, operated through your coding agent \u2014 honest, local-first scorecards where a gree",
+    "id": "Syntelesis-Lab/evalglass",
+    "language": "Python",
+    "name": "Syntelesis-Lab/evalglass",
+    "stars": 0,
+    "updated_at": "2026-07-28T20:15:05Z",
+    "url": "https://github.com/Syntelesis-Lab/evalglass"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-28T20:13:30Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
+    "id": "Everton-baptista/agenteARQ",
+    "language": "Go",
+    "name": "Everton-baptista/agenteARQ",
+    "stars": 0,
+    "updated_at": "2026-07-28T20:12:55Z",
+    "url": "https://github.com/Everton-baptista/agenteARQ"
+  },
+  {
+    "description": "RAG chatbot for R+V private-customer insurance conditions (German), grounded in a Qdrant-indexed document corpus.",
+    "id": "justinwalger/versicherag",
+    "language": "Python",
+    "name": "justinwalger/versicherag",
+    "stars": 0,
+    "updated_at": "2026-07-28T20:08:04Z",
+    "url": "https://github.com/justinwalger/versicherag"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54935,
+    "updated_at": "2026-07-28T20:15:27Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T20:07:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T20:04:02Z",
     "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T20:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -52,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T19:57:29Z",
     "url": "https://github.com/sainitish1609/aigit"
-  },
-  {
-    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
-    "id": "Everton-baptista/agenteARQ",
-    "language": "Go",
-    "name": "Everton-baptista/agenteARQ",
-    "stars": 0,
-    "updated_at": "2026-07-28T19:57:19Z",
-    "url": "https://github.com/Everton-baptista/agenteARQ"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54934,
-    "updated_at": "2026-07-28T20:00:15Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -130,7 +157,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32034,
+    "stars": 32035,
     "updated_at": "2026-07-28T19:35:16Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T19:31:57Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "RAG chatbot for R+V private-customer insurance conditions (German), grounded in a Qdrant-indexed document corpus.",
-    "id": "justinwalger/versicherag",
-    "language": "Python",
-    "name": "justinwalger/versicherag",
-    "stars": 0,
-    "updated_at": "2026-07-28T19:27:48Z",
-    "url": "https://github.com/justinwalger/versicherag"
   },
   {
     "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-28T20:05:23Z",
+    "updated_at": "2026-07-28T20:10:36Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-28T20:05:16Z",
+    "updated_at": "2026-07-28T20:13:06Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T18:30:07Z",
     "url": "https://github.com/evince55/aria-llmops"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-28T18:18:40Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T17:12:33Z",
     "url": "https://github.com/buchk/TypeFerence"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3123,
-    "updated_at": "2026-07-28T18:53:22Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
