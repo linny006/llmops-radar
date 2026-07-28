@@ -1,5 +1,59 @@
 [
   {
+    "description": "Rechecks a completion claim against the repository itself and holds the workflow when the required proof is missing.",
+    "id": "OnourImpram/mergen",
+    "language": "Python",
+    "name": "OnourImpram/mergen",
+    "stars": 0,
+    "updated_at": "2026-07-28T06:14:20Z",
+    "url": "https://github.com/OnourImpram/mergen"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 11,
+    "updated_at": "2026-07-28T06:13:36Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
+    "id": "matuteiglesias/kb-contracts",
+    "language": "TypeScript",
+    "name": "matuteiglesias/kb-contracts",
+    "stars": 1,
+    "updated_at": "2026-07-28T06:07:58Z",
+    "url": "https://github.com/matuteiglesias/kb-contracts"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20931,
+    "updated_at": "2026-07-28T06:14:57Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-28T06:04:27Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T06:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
     "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
     "language": "JavaScript",
@@ -7,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-07-28T05:58:46Z",
     "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31978,
+    "updated_at": "2026-07-28T06:10:59Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI systems observability platform for tracing, evaluating, and debugging LLM applications, agents, and RAG pipelines.",
@@ -27,15 +90,6 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 11,
-    "updated_at": "2026-07-28T05:54:13Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T05:52:10Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31977,
-    "updated_at": "2026-07-28T05:57:23Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
@@ -90,15 +135,6 @@
     "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20931,
-    "updated_at": "2026-07-28T05:55:11Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
     "id": "taishan666/MaxKB4j",
     "language": "Java",
@@ -117,15 +153,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T05:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
     "id": "thequantumfalcon/kry",
     "language": "Python",
@@ -135,13 +162,13 @@
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-28T05:40:36Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54877,
+    "updated_at": "2026-07-28T05:34:20Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
@@ -198,15 +225,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
-    "id": "matuteiglesias/kb-contracts",
-    "language": "TypeScript",
-    "name": "matuteiglesias/kb-contracts",
-    "stars": 1,
-    "updated_at": "2026-07-28T05:56:52Z",
-    "url": "https://github.com/matuteiglesias/kb-contracts"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -234,15 +252,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54875,
-    "updated_at": "2026-07-28T05:34:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
     "id": "okfriansyah-moh/the-foundry",
     "language": "Go",
@@ -257,7 +266,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2505,
-    "updated_at": "2026-07-28T05:02:01Z",
+    "updated_at": "2026-07-28T06:13:50Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1287,
-    "updated_at": "2026-07-28T05:37:40Z",
+    "updated_at": "2026-07-28T06:01:26Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-28T03:48:22Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Local, provider-agnostic efficiency & security micro-kernel for LLM apps (Rust + Python). Cuts 80-97% of input tokens an",
-    "id": "jonathascordeiro20/bioma-framework",
-    "language": "Python",
-    "name": "jonathascordeiro20/bioma-framework",
-    "stars": 2,
-    "updated_at": "2026-07-28T03:04:20Z",
-    "url": "https://github.com/jonathascordeiro20/bioma-framework"
   }
 ]
