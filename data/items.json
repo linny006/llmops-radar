@@ -1,10 +1,82 @@
 [
   {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 0,
+    "updated_at": "2026-07-28T00:12:39Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Rust",
+    "name": "dshakes/clickllm",
+    "stars": 0,
+    "updated_at": "2026-07-28T00:14:21Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 11,
+    "updated_at": "2026-07-28T00:05:53Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-28T00:03:04Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 2,
+    "updated_at": "2026-07-28T00:01:38Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-28T00:12:39Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T00:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-28T00:00:17Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
     "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-27T23:55:41Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54858,
-    "updated_at": "2026-07-27T23:57:12Z",
+    "updated_at": "2026-07-28T00:15:12Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -34,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T23:47:17Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-27T23:58:34Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T23:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
@@ -68,7 +122,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6826,
-    "updated_at": "2026-07-27T23:42:18Z",
+    "updated_at": "2026-07-28T00:08:05Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "bytebeast/check-endpoint",
     "stars": 6,
-    "updated_at": "2026-07-27T23:26:55Z",
+    "updated_at": "2026-07-28T00:15:24Z",
     "url": "https://github.com/bytebeast/check-endpoint"
   },
   {
@@ -153,15 +207,6 @@
     "url": "https://github.com/trevhud/rote"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-27T23:08:09Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10768,
-    "updated_at": "2026-07-27T23:47:33Z",
+    "updated_at": "2026-07-28T00:08:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -214,6 +259,15 @@
     "stars": 31964,
     "updated_at": "2026-07-27T22:58:03Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29406,
+    "updated_at": "2026-07-27T22:46:18Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
@@ -248,7 +302,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-27T22:44:35Z",
+    "updated_at": "2026-07-28T00:12:18Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 23666,
     "updated_at": "2026-07-27T22:11:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 2,
-    "updated_at": "2026-07-27T22:06:54Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -283,27 +328,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27237,
+    "stars": 27238,
     "updated_at": "2026-07-27T22:05:08Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-28T00:00:17Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 11,
-    "updated_at": "2026-07-27T22:03:53Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8074,
-    "updated_at": "2026-07-27T23:29:33Z",
+    "updated_at": "2026-07-28T00:04:49Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T21:26:52Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Rust",
-    "name": "dshakes/clickllm",
-    "stars": 0,
-    "updated_at": "2026-07-27T23:45:24Z",
-    "url": "https://github.com/dshakes/clickllm"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -385,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T20:58:07Z",
     "url": "https://github.com/AshwinUgale/muteval"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29405,
-    "updated_at": "2026-07-27T22:46:18Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T20:11:56Z",
     "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 2,
-    "updated_at": "2026-07-27T20:11:48Z",
-    "url": "https://github.com/acornops/llm-gateway"
   }
 ]
