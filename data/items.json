@@ -1,12 +1,84 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 23,
+    "updated_at": "2026-07-28T17:13:44Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Context optimization for AI agents \u2014 97 domain knowledge graphs, MCP-native traversal. 4\u00d7 F1 of RAG, 11\u00d7 fewer tokens pe",
+    "id": "Yarmoluk/ckg-mcp",
+    "language": "Python",
+    "name": "Yarmoluk/ckg-mcp",
+    "stars": 4,
+    "updated_at": "2026-07-28T17:12:43Z",
+    "url": "https://github.com/Yarmoluk/ckg-mcp"
+  },
+  {
+    "description": "A typed coherence layer for portable organizational AI agents.",
+    "id": "buchk/TypeFerence",
+    "language": "Go",
+    "name": "buchk/TypeFerence",
+    "stars": 0,
+    "updated_at": "2026-07-28T17:12:33Z",
+    "url": "https://github.com/buchk/TypeFerence"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54926,
-    "updated_at": "2026-07-28T17:06:49Z",
+    "updated_at": "2026-07-28T17:12:16Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10783,
+    "updated_at": "2026-07-28T17:11:20Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2655,
+    "updated_at": "2026-07-28T17:11:06Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T17:09:19Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-28T17:13:51Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3123,
+    "updated_at": "2026-07-28T17:15:22Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-28T17:05:35Z",
+    "updated_at": "2026-07-28T17:13:43Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -43,42 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T17:00:45Z",
     "url": "https://github.com/krishkumar4400/weights-to-prod"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T17:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Context optimization for AI agents \u2014 97 domain knowledge graphs, MCP-native traversal. 4\u00d7 F1 of RAG, 11\u00d7 fewer tokens pe",
-    "id": "Yarmoluk/ckg-mcp",
-    "language": "Python",
-    "name": "Yarmoluk/ckg-mcp",
-    "stars": 4,
-    "updated_at": "2026-07-28T16:52:58Z",
-    "url": "https://github.com/Yarmoluk/ckg-mcp"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 23,
-    "updated_at": "2026-07-28T16:51:26Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-28T17:09:14Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29420,
-    "updated_at": "2026-07-28T16:42:17Z",
+    "updated_at": "2026-07-28T17:14:09Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32030,
-    "updated_at": "2026-07-28T16:25:03Z",
+    "updated_at": "2026-07-28T17:15:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-28T17:05:18Z",
+    "updated_at": "2026-07-28T17:15:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20944,
-    "updated_at": "2026-07-28T16:07:11Z",
+    "updated_at": "2026-07-28T17:14:27Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T15:59:48Z",
     "url": "https://github.com/Everton-baptista/agenteARQ"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10781,
-    "updated_at": "2026-07-28T17:07:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
@@ -421,32 +448,5 @@
     "stars": 381,
     "updated_at": "2026-07-28T15:13:49Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "MnemoIR \u2014 Causal Memory Incident Response for AI agents. Incident-response framework for tracing, quarantining, repairin",
-    "id": "DheerajPranav/mnemo-ir",
-    "language": "Python",
-    "name": "DheerajPranav/mnemo-ir",
-    "stars": 0,
-    "updated_at": "2026-07-28T15:02:44Z",
-    "url": "https://github.com/DheerajPranav/mnemo-ir"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 3,
-    "updated_at": "2026-07-28T14:58:08Z",
-    "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 2,
-    "updated_at": "2026-07-28T14:57:16Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
