@@ -1,5 +1,32 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-28T00:46:18Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54860,
+    "updated_at": "2026-07-28T00:47:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T00:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "Bobcatsfan33/AI-Security-Platform",
     "stars": 1,
-    "updated_at": "2026-07-28T00:43:07Z",
+    "updated_at": "2026-07-28T00:52:54Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
@@ -23,17 +50,8 @@
     "language": "Python",
     "name": "bytebeast/check-endpoint",
     "stars": 6,
-    "updated_at": "2026-07-28T00:42:01Z",
+    "updated_at": "2026-07-28T00:49:47Z",
     "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-28T00:43:08Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
@@ -41,17 +59,8 @@
     "language": "TypeScript",
     "name": "Bobcatsfan33/Pharos",
     "stars": 1,
-    "updated_at": "2026-07-28T00:31:22Z",
+    "updated_at": "2026-07-28T00:52:27Z",
     "url": "https://github.com/Bobcatsfan33/Pharos"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T00:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -61,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T00:28:25Z",
     "url": "https://github.com/openloop-team/openloop"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54859,
-    "updated_at": "2026-07-28T00:44:04Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -167,7 +167,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 2,
-    "updated_at": "2026-07-28T00:44:41Z",
+    "updated_at": "2026-07-28T00:50:17Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 9,
-    "updated_at": "2026-07-28T00:39:05Z",
+    "updated_at": "2026-07-28T00:47:13Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -319,7 +319,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29406,
+    "stars": 29408,
     "updated_at": "2026-07-27T22:46:18Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -364,7 +364,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23666,
+    "stars": 23667,
     "updated_at": "2026-07-27T22:11:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
