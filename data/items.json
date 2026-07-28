@@ -1,12 +1,75 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-28T06:28:53Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AI systems observability platform for tracing, evaluating, and debugging LLM applications, agents, and RAG pipelines.",
+    "id": "Roshan3580/Helios",
+    "language": "Python",
+    "name": "Roshan3580/Helios",
+    "stars": 0,
+    "updated_at": "2026-07-28T06:27:33Z",
+    "url": "https://github.com/Roshan3580/Helios"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-28T06:25:24Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-07-28T06:25:11Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31979,
+    "updated_at": "2026-07-28T06:22:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Rechecks a completion claim against the repository itself and holds the workflow when the required proof is missing.",
     "id": "OnourImpram/mergen",
     "language": "Python",
     "name": "OnourImpram/mergen",
     "stars": 0,
-    "updated_at": "2026-07-28T06:14:20Z",
+    "updated_at": "2026-07-28T06:18:05Z",
     "url": "https://github.com/OnourImpram/mergen"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6837,
+    "updated_at": "2026-07-28T06:26:43Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-28T06:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "matuteiglesias/kb-contracts",
     "stars": 1,
-    "updated_at": "2026-07-28T06:07:58Z",
+    "updated_at": "2026-07-28T06:23:05Z",
     "url": "https://github.com/matuteiglesias/kb-contracts"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-28T06:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
     "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
     "language": "JavaScript",
@@ -61,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T05:58:46Z",
     "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31978,
-    "updated_at": "2026-07-28T06:10:59Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI systems observability platform for tracing, evaluating, and debugging LLM applications, agents, and RAG pipelines.",
-    "id": "Roshan3580/Helios",
-    "language": "Python",
-    "name": "Roshan3580/Helios",
-    "stars": 0,
-    "updated_at": "2026-07-28T05:55:31Z",
-    "url": "https://github.com/Roshan3580/Helios"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -99,13 +135,13 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-28T05:52:10Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10774,
+    "updated_at": "2026-07-28T05:54:02Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54877,
-    "updated_at": "2026-07-28T05:34:20Z",
+    "updated_at": "2026-07-28T06:17:59Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -176,7 +212,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 10,
-    "updated_at": "2026-07-28T05:52:13Z",
+    "updated_at": "2026-07-28T06:17:09Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -225,24 +261,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-28T05:16:24Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10773,
-    "updated_at": "2026-07-28T05:54:02Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -275,7 +293,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1287,
-    "updated_at": "2026-07-28T06:01:26Z",
+    "updated_at": "2026-07-28T06:27:28Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -301,7 +319,7 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11780,
+    "stars": 11781,
     "updated_at": "2026-07-28T04:50:49Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -313,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T04:47:43Z",
     "url": "https://github.com/ahmadrishi/llm-evaluation-framework"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6835,
-    "updated_at": "2026-07-28T04:46:41Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-28T03:39:31Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 9,
-    "updated_at": "2026-07-28T03:48:22Z",
-    "url": "https://github.com/dshakes/distil"
   }
 ]
