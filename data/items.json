@@ -1,12 +1,102 @@
 [
   {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 10,
+    "updated_at": "2026-07-29T14:27:47Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "stars": 1,
-    "updated_at": "2026-07-29T14:11:13Z",
-    "url": "https://github.com/acornops/docs-website"
+    "updated_at": "2026-07-29T14:26:00Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Control plane for company AI use cases \u2014 one self-hosted operating layer for shared budgets, policies, reliability, and ",
+    "id": "dativo-io/talon",
+    "language": "Go",
+    "name": "dativo-io/talon",
+    "stars": 11,
+    "updated_at": "2026-07-29T14:25:56Z",
+    "url": "https://github.com/dativo-io/talon"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 3,
+    "updated_at": "2026-07-29T14:25:14Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-29T14:29:02Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:29:23Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-29T14:21:30Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10796,
+    "updated_at": "2026-07-29T14:26:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 77,
+    "updated_at": "2026-07-29T14:20:50Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32094,
+    "updated_at": "2026-07-29T14:30:23Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T14:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
@@ -18,22 +108,76 @@
     "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
+    "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
+    "id": "acornops/acornops",
+    "language": "JavaScript",
+    "name": "acornops/acornops",
+    "stars": 11,
+    "updated_at": "2026-07-29T14:11:23Z",
+    "url": "https://github.com/acornops/acornops"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-07-29T14:11:13Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-29T14:11:12Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-29T14:10:58Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
+    "id": "runcycles/cycles-client-typescript",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-client-typescript",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:10:32Z",
+    "url": "https://github.com/runcycles/cycles-client-typescript"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-07-29T14:09:16Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55011,
+    "updated_at": "2026-07-29T14:08:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1519,
-    "updated_at": "2026-07-29T14:07:04Z",
+    "stars": 1520,
+    "updated_at": "2026-07-29T14:30:20Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10796,
-    "updated_at": "2026-07-29T14:05:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -41,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-29T14:11:37Z",
+    "updated_at": "2026-07-29T14:30:15Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -50,7 +194,7 @@
     "language": "Rust",
     "name": "runcycles/cycles-client-rust",
     "stars": 1,
-    "updated_at": "2026-07-29T14:04:05Z",
+    "updated_at": "2026-07-29T14:16:45Z",
     "url": "https://github.com/runcycles/cycles-client-rust"
   },
   {
@@ -99,15 +243,6 @@
     "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T14:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -126,40 +261,13 @@
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-29T13:59:30Z",
-    "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-29T14:14:07Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-07-29T13:57:42Z",
+    "updated_at": "2026-07-29T14:26:23Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-29T14:12:18Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -189,13 +297,13 @@
     "url": "https://github.com/adriencr81/Check-Alfred"
   },
   {
-    "description": "Control plane for company AI use cases \u2014 one self-hosted operating layer for shared budgets, policies, reliability, and ",
-    "id": "dativo-io/talon",
-    "language": "Go",
-    "name": "dativo-io/talon",
-    "stars": 11,
-    "updated_at": "2026-07-29T14:07:47Z",
-    "url": "https://github.com/dativo-io/talon"
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5724,
+    "updated_at": "2026-07-29T13:41:14Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -203,7 +311,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20959,
-    "updated_at": "2026-07-29T14:14:52Z",
+    "updated_at": "2026-07-29T14:28:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -211,27 +319,9 @@
     "id": "QuesmaOrg/awesome-ai-tokenomics",
     "language": "Python",
     "name": "QuesmaOrg/awesome-ai-tokenomics",
-    "stars": 84,
+    "stars": 85,
     "updated_at": "2026-07-29T13:37:30Z",
     "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32093,
-    "updated_at": "2026-07-29T14:14:28Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 10,
-    "updated_at": "2026-07-29T14:13:25Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -284,7 +374,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3125,
-    "updated_at": "2026-07-29T13:44:56Z",
+    "updated_at": "2026-07-29T14:27:55Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -306,21 +396,12 @@
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-29T13:58:23Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2521,
-    "updated_at": "2026-07-29T13:49:03Z",
+    "updated_at": "2026-07-29T14:25:05Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -329,7 +410,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6876,
-    "updated_at": "2026-07-29T14:02:38Z",
+    "updated_at": "2026-07-29T14:26:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 12,
     "updated_at": "2026-07-29T12:43:28Z",
     "url": "https://github.com/voly-codes/voly"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-29T12:40:11Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
-    "id": "MaximSTH/meta-layer-starter",
-    "language": "Shell",
-    "name": "MaximSTH/meta-layer-starter",
-    "stars": 2,
-    "updated_at": "2026-07-29T12:27:21Z",
-    "url": "https://github.com/MaximSTH/meta-layer-starter"
-  },
-  {
-    "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
-    "id": "bosun-ai/swiftide",
-    "language": "Rust",
-    "name": "bosun-ai/swiftide",
-    "stars": 722,
-    "updated_at": "2026-07-29T12:18:15Z",
-    "url": "https://github.com/bosun-ai/swiftide"
-  },
-  {
-    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
-    "id": "avikalpg/byok-relay",
-    "language": "JavaScript",
-    "name": "avikalpg/byok-relay",
-    "stars": 53,
-    "updated_at": "2026-07-29T12:05:22Z",
-    "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-29T11:59:01Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
-    "id": "ur-grue/toptop",
-    "language": "Rust",
-    "name": "ur-grue/toptop",
-    "stars": 1,
-    "updated_at": "2026-07-29T11:52:17Z",
-    "url": "https://github.com/ur-grue/toptop"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1061,
-    "updated_at": "2026-07-29T13:57:36Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-07-29T11:36:10Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 186,
-    "updated_at": "2026-07-29T11:36:08Z",
-    "url": "https://github.com/fkiene/llmtrim"
   }
 ]
