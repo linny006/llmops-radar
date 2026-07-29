@@ -1,12 +1,75 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10795,
+    "updated_at": "2026-07-29T13:28:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "novafabric/novafabric",
+    "language": "Python",
+    "name": "novafabric/novafabric",
+    "stars": 1,
+    "updated_at": "2026-07-29T13:27:29Z",
+    "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-07-29T13:23:52Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-29T13:19:25Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T13:15:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3125,
+    "updated_at": "2026-07-29T13:13:08Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
     "description": "Provider-agnostic local API usage, balance, quota, and rate-limit monitor",
     "id": "Ruivalim/usage-monitor",
-    "language": "\u2014",
+    "language": "Python",
     "name": "Ruivalim/usage-monitor",
     "stars": 0,
     "updated_at": "2026-07-29T13:13:05Z",
     "url": "https://github.com/Ruivalim/usage-monitor"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32093,
+    "updated_at": "2026-07-29T13:25:47Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -18,13 +81,13 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-29T13:10:47Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1518,
+    "updated_at": "2026-07-29T13:11:26Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
@@ -45,21 +108,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32092,
-    "updated_at": "2026-07-29T13:12:34Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T13:12:47Z",
+    "updated_at": "2026-07-29T13:26:46Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -72,31 +126,13 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T13:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-29T13:10:59Z",
+    "updated_at": "2026-07-29T13:25:42Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1518,
-    "updated_at": "2026-07-29T13:11:26Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -104,17 +140,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6876,
-    "updated_at": "2026-07-29T13:02:13Z",
+    "updated_at": "2026-07-29T13:26:50Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-07-29T12:50:45Z",
-    "url": "https://github.com/runcycles/cycles-docs"
   },
   {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 10,
-    "updated_at": "2026-07-29T12:50:19Z",
+    "updated_at": "2026-07-29T13:27:32Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3468,
-    "updated_at": "2026-07-29T12:49:23Z",
+    "updated_at": "2026-07-29T13:28:47Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20959,
-    "updated_at": "2026-07-29T12:50:48Z",
+    "updated_at": "2026-07-29T13:28:30Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -297,21 +324,12 @@
     "url": "https://github.com/ur-grue/toptop"
   },
   {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 1,
-    "updated_at": "2026-07-29T11:49:37Z",
-    "url": "https://github.com/novafabric/novafabric"
-  },
-  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1061,
-    "updated_at": "2026-07-29T13:01:12Z",
+    "updated_at": "2026-07-29T13:20:52Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T10:50:14Z",
     "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "Arize Phoenix APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/phoenix",
-    "language": "\u2014",
-    "name": "api-evangelist/phoenix",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:42:17Z",
-    "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-07-29T11:09:55Z",
-    "url": "https://github.com/dshakes/clickllm"
   }
 ]
