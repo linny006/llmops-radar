@@ -1,5 +1,59 @@
 [
   {
+    "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
+    "id": "golikovichev/pytest-resilience-agent",
+    "language": "Python",
+    "name": "golikovichev/pytest-resilience-agent",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:14:39Z",
+    "url": "https://github.com/golikovichev/pytest-resilience-agent"
+  },
+  {
+    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
+    "id": "Everton-baptista/agenteARQ",
+    "language": "Go",
+    "name": "Everton-baptista/agenteARQ",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:14:14Z",
+    "url": "https://github.com/Everton-baptista/agenteARQ"
+  },
+  {
+    "description": "The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more",
+    "id": "adaline/gateway",
+    "language": "TypeScript",
+    "name": "adaline/gateway",
+    "stars": 601,
+    "updated_at": "2026-07-29T19:11:29Z",
+    "url": "https://github.com/adaline/gateway"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 24,
+    "updated_at": "2026-07-29T19:02:44Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T19:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55025,
+    "updated_at": "2026-07-29T19:15:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
     "id": "symphos-ai/orcho-core",
     "language": "Python",
@@ -32,7 +86,7 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 12,
-    "updated_at": "2026-07-29T18:57:00Z",
+    "updated_at": "2026-07-29T19:14:35Z",
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
@@ -41,17 +95,8 @@
     "language": "Rust",
     "name": "NekomyaDev/nudge",
     "stars": 3,
-    "updated_at": "2026-07-29T18:56:59Z",
+    "updated_at": "2026-07-29T19:13:30Z",
     "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55024,
-    "updated_at": "2026-07-29T19:00:10Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -59,7 +104,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T18:59:58Z",
+    "updated_at": "2026-07-29T19:07:01Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 3427,
     "updated_at": "2026-07-29T18:53:14Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T18:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
@@ -103,9 +139,18 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29445,
+    "stars": 29446,
     "updated_at": "2026-07-29T18:41:12Z",
     "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 608,
+    "updated_at": "2026-07-29T18:40:09Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -115,15 +160,6 @@
     "stars": 10801,
     "updated_at": "2026-07-29T18:59:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 24,
-    "updated_at": "2026-07-29T18:30:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
@@ -139,8 +175,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32105,
-    "updated_at": "2026-07-29T18:23:15Z",
+    "stars": 32106,
+    "updated_at": "2026-07-29T19:13:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -175,7 +211,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23730,
+    "stars": 23731,
     "updated_at": "2026-07-29T18:14:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -185,7 +221,7 @@
     "language": "Shell",
     "name": "DYAI2025/Plumbline",
     "stars": 6,
-    "updated_at": "2026-07-29T18:57:28Z",
+    "updated_at": "2026-07-29T19:03:00Z",
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
-    "id": "Everton-baptista/agenteARQ",
-    "language": "Go",
-    "name": "Everton-baptista/agenteARQ",
-    "stars": 0,
-    "updated_at": "2026-07-29T18:01:51Z",
-    "url": "https://github.com/Everton-baptista/agenteARQ"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -248,7 +275,7 @@
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 26,
-    "updated_at": "2026-07-29T17:54:55Z",
+    "updated_at": "2026-07-29T19:06:14Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -274,7 +301,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27263,
+    "stars": 27264,
     "updated_at": "2026-07-29T17:38:03Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3472,
-    "updated_at": "2026-07-29T18:58:55Z",
+    "updated_at": "2026-07-29T19:05:20Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6880,
-    "updated_at": "2026-07-29T18:59:56Z",
+    "updated_at": "2026-07-29T19:03:33Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8089,
-    "updated_at": "2026-07-29T18:57:26Z",
+    "updated_at": "2026-07-29T19:12:10Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1061,
     "updated_at": "2026-07-29T18:32:12Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "A minimal, provider-neutral Python starter for testing AI outputs in CI.",
-    "id": "attractorhq/ai-evals-starter",
-    "language": "Python",
-    "name": "attractorhq/ai-evals-starter",
-    "stars": 0,
-    "updated_at": "2026-07-29T16:25:44Z",
-    "url": "https://github.com/attractorhq/ai-evals-starter"
-  },
-  {
-    "description": "Hands-on TypeScript exercises for taking a RAG prototype from plausible to production-ready.",
-    "id": "attractorhq/rag-quality-workshop",
-    "language": "TypeScript",
-    "name": "attractorhq/rag-quality-workshop",
-    "stars": 0,
-    "updated_at": "2026-07-29T16:25:46Z",
-    "url": "https://github.com/attractorhq/rag-quality-workshop"
-  },
-  {
-    "description": "An evidence-based checklist and practical toolkit for shipping reliable AI features.",
-    "id": "attractorhq/production-ai-checklist",
-    "language": "TypeScript",
-    "name": "attractorhq/production-ai-checklist",
-    "stars": 0,
-    "updated_at": "2026-07-29T16:25:41Z",
-    "url": "https://github.com/attractorhq/production-ai-checklist"
   }
 ]
