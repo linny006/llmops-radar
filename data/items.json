@@ -1,11 +1,110 @@
 [
   {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-07-29T17:29:41Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1520,
+    "updated_at": "2026-07-29T17:29:39Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "A curated, auto-updating list of open-source guardrails for LLM applications: prompt-injection defense, PII, content saf",
+    "id": "royalpinto007/awesome-llm-guardrails",
+    "language": "HTML",
+    "name": "royalpinto007/awesome-llm-guardrails",
+    "stars": 0,
+    "updated_at": "2026-07-29T17:27:22Z",
+    "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
+  },
+  {
+    "description": "A curated list of tools, frameworks, benchmarks, and ideas for evaluating AI agents.",
+    "id": "royalpinto007/awesome-agent-evals",
+    "language": "HTML",
+    "name": "royalpinto007/awesome-agent-evals",
+    "stars": 0,
+    "updated_at": "2026-07-29T17:27:20Z",
+    "url": "https://github.com/royalpinto007/awesome-agent-evals"
+  },
+  {
+    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
+    "id": "Everton-baptista/agenteARQ",
+    "language": "Go",
+    "name": "Everton-baptista/agenteARQ",
+    "stars": 0,
+    "updated_at": "2026-07-29T17:25:47Z",
+    "url": "https://github.com/Everton-baptista/agenteARQ"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 349,
+    "updated_at": "2026-07-29T17:25:02Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 3,
+    "updated_at": "2026-07-29T17:24:53Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32104,
+    "updated_at": "2026-07-29T17:23:01Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-29T17:19:43Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-29T17:19:18Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T17:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T17:13:11Z",
+    "updated_at": "2026-07-29T17:30:10Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -18,47 +117,20 @@
     "url": "https://github.com/attractorhq/tips-for-building-ai"
   },
   {
-    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
-    "id": "Everton-baptista/agenteARQ",
-    "language": "Go",
-    "name": "Everton-baptista/agenteARQ",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:03:42Z",
-    "url": "https://github.com/Everton-baptista/agenteARQ"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32103,
-    "updated_at": "2026-07-29T17:14:43Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "A curated, auto-updating list of open-source guardrails for LLM applications: prompt-injection defense, PII, content saf",
-    "id": "royalpinto007/awesome-llm-guardrails",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-llm-guardrails",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:02:55Z",
-    "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
-  },
-  {
-    "description": "A curated list of tools, frameworks, benchmarks, and ideas for evaluating AI agents.",
-    "id": "royalpinto007/awesome-agent-evals",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-agent-evals",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:02:26Z",
-    "url": "https://github.com/royalpinto007/awesome-agent-evals"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10800,
+    "updated_at": "2026-07-29T17:10:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55020,
+    "stars": 55021,
     "updated_at": "2026-07-29T17:01:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -72,24 +144,6 @@
     "url": "https://github.com/Hal-Hanami/incident-triage-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T17:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-29T16:58:15Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -97,15 +151,6 @@
     "stars": 16,
     "updated_at": "2026-07-29T16:57:27Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10799,
-    "updated_at": "2026-07-29T17:10:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-29T16:40:36Z",
+    "updated_at": "2026-07-29T17:27:45Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T16:37:04Z",
     "url": "https://github.com/Anonymousyz/awesome-ai-production-readiness"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:49:46Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
     "description": "AI deployment readiness toolkit: local 70-point CLI, veto gates, governance artifacts, and fictional cases.",
@@ -284,7 +320,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-29T16:19:44Z",
+    "updated_at": "2026-07-29T17:23:05Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T16:18:49Z",
     "url": "https://github.com/ghoshp83/nl2sql-finetune-lab"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-29T16:18:02Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -421,32 +448,5 @@
     "stars": 3427,
     "updated_at": "2026-07-29T15:51:14Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 6,
-    "updated_at": "2026-07-29T15:37:25Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:51:52Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e",
-    "id": "Ambuj123-lab/agentic-rag-financial-parser",
-    "language": "Python",
-    "name": "Ambuj123-lab/agentic-rag-financial-parser",
-    "stars": 82,
-    "updated_at": "2026-07-29T15:35:38Z",
-    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
   }
 ]
