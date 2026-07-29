@@ -1,11 +1,56 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-29T02:21:07Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27252,
+    "updated_at": "2026-07-29T02:20:32Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2516,
+    "updated_at": "2026-07-29T02:30:26Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-07-29T02:18:30Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-29T02:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T02:14:33Z",
+    "updated_at": "2026-07-29T02:22:19Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -27,15 +72,6 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2516,
-    "updated_at": "2026-07-29T02:02:33Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -54,15 +90,6 @@
     "url": "https://github.com/kensterinvest/tidus"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-29T02:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
     "id": "becloudready/workshops",
     "language": "HTML",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 54948,
-    "updated_at": "2026-07-29T02:10:08Z",
+    "updated_at": "2026-07-29T02:24:09Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-29T02:14:26Z",
+    "updated_at": "2026-07-29T02:28:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 44,
     "updated_at": "2026-07-29T01:54:52Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-07-29T02:09:24Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -153,15 +171,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27252,
-    "updated_at": "2026-07-29T01:20:25Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -175,7 +184,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20948,
+    "stars": 20949,
     "updated_at": "2026-07-29T01:01:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-07-29T02:11:45Z",
+    "updated_at": "2026-07-29T02:27:12Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6863,
-    "updated_at": "2026-07-29T00:31:20Z",
+    "updated_at": "2026-07-29T02:26:05Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -241,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T00:50:47Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-29T00:01:32Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -320,7 +320,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-29T02:07:46Z",
+    "updated_at": "2026-07-29T02:27:52Z",
     "url": "https://github.com/iblai/os"
   },
   {
