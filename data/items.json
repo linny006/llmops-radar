@@ -5,8 +5,80 @@
     "language": "MDX",
     "name": "acornops/docs-website",
     "stars": 1,
-    "updated_at": "2026-07-29T04:56:29Z",
+    "updated_at": "2026-07-29T05:13:39Z",
     "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "Production rules and 5 skills for building agentic AI systems \u2014 design review, agent scaffolding, tool schema design, in",
+    "id": "iushv/agentic-ai-skills",
+    "language": "Go Template",
+    "name": "iushv/agentic-ai-skills",
+    "stars": 1,
+    "updated_at": "2026-07-29T05:12:20Z",
+    "url": "https://github.com/iushv/agentic-ai-skills"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-07-29T05:12:52Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54962,
+    "updated_at": "2026-07-29T05:15:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 9,
+    "updated_at": "2026-07-29T05:03:57Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-07-29T05:03:09Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-29T05:02:42Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-07-29T05:02:17Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-29T05:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -14,7 +86,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 24,
-    "updated_at": "2026-07-29T04:53:22Z",
+    "updated_at": "2026-07-29T05:00:52Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -27,30 +99,12 @@
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54961,
-    "updated_at": "2026-07-29T04:52:00Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 9,
-    "updated_at": "2026-07-29T04:54:49Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 24,
-    "updated_at": "2026-07-29T05:00:09Z",
+    "updated_at": "2026-07-29T05:14:25Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -63,22 +117,13 @@
     "url": "https://github.com/acornops/management-console"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-29T04:45:45Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-29T04:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "dataelement/bisheng",
+    "stars": 11789,
+    "updated_at": "2026-07-29T04:37:01Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10790,
-    "updated_at": "2026-07-29T04:54:53Z",
+    "updated_at": "2026-07-29T05:06:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -198,24 +243,6 @@
     "url": "https://github.com/trevhud/rote"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-07-29T04:55:39Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 3,
-    "updated_at": "2026-07-29T04:00:16Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
     "id": "cuihuan/awesome-ai-gateway",
     "language": "HTML",
@@ -248,7 +275,7 @@
     "language": "JavaScript",
     "name": "avikalpg/byok-relay",
     "stars": 53,
-    "updated_at": "2026-07-29T04:06:10Z",
+    "updated_at": "2026-07-29T05:06:21Z",
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 2518,
     "updated_at": "2026-07-29T03:43:31Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-07-29T04:44:52Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Bella OpenAPI\u662f\u4e00\u4e2a\u63d0\u4f9b\u4e86\u4e30\u5bcc\u7684AI\u8c03\u7528\u80fd\u529b\u7684API\u7f51\u5173\uff0c\u53ef\u7c7b\u6bd4openrouter\uff0c\u4e0e\u4e4b\u4e0d\u540c\u7684\u662f\u9664\u4e86\u63d0\u4f9b\u804a\u5929\u8865\u5168(chat-completion)\u80fd\u529b\u5916\uff0c\u8fd8\u63d0\u4f9b\u4e86\u6587\u672c\u5411\u91cf\u5316(text-embedding)\u3001\u8bed\u97f3\u8bc6\u522b(ASR)\u3001",
@@ -302,7 +320,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6865,
-    "updated_at": "2026-07-29T04:47:15Z",
+    "updated_at": "2026-07-29T05:06:44Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -320,7 +338,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-29T04:56:41Z",
+    "updated_at": "2026-07-29T05:11:44Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -328,18 +346,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20952,
+    "stars": 20953,
     "updated_at": "2026-07-29T02:56:37Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11788,
-    "updated_at": "2026-07-29T04:37:01Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -391,7 +400,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29428,
+    "stars": 29429,
     "updated_at": "2026-07-29T01:50:09Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-29T00:41:15Z",
     "url": "https://github.com/Bobcatsfan33/Pharos"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-07-29T00:50:47Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
   }
 ]
