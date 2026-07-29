@@ -1,21 +1,39 @@
 [
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-29T15:29:55Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 24,
+    "updated_at": "2026-07-29T15:43:31Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "357 Claude agent roles across 6 business layers. Portable Memvid memory, enforced cost caps, bash policy gate, durable c",
+    "id": "TechTideOhio/swarm-357",
+    "language": "Python",
+    "name": "TechTideOhio/swarm-357",
+    "stars": 2,
+    "updated_at": "2026-07-29T15:40:04Z",
+    "url": "https://github.com/TechTideOhio/swarm-357"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32096,
-    "updated_at": "2026-07-29T15:28:05Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "langwatch/langwatch",
+    "stars": 3427,
+    "updated_at": "2026-07-29T15:41:09Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 6,
+    "updated_at": "2026-07-29T15:37:25Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e",
@@ -23,8 +41,17 @@
     "language": "Python",
     "name": "Ambuj123-lab/agentic-rag-financial-parser",
     "stars": 82,
-    "updated_at": "2026-07-29T15:23:58Z",
+    "updated_at": "2026-07-29T15:35:38Z",
     "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-29T15:35:35Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Hybrid Local/Web Agentic RAG system featuring layout-aware PDF parsing, cross-encoder reranking, and Ragas evaluation.",
@@ -32,17 +59,62 @@
     "language": "Python",
     "name": "Shubham-S151/Agentic-RAG-Researcher",
     "stars": 0,
-    "updated_at": "2026-07-29T15:22:41Z",
+    "updated_at": "2026-07-29T15:35:32Z",
     "url": "https://github.com/Shubham-S151/Agentic-RAG-Researcher"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 24,
-    "updated_at": "2026-07-29T15:22:34Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2521,
+    "updated_at": "2026-07-29T15:32:24Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T15:30:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-29T15:45:12Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 10,
+    "updated_at": "2026-07-29T15:28:39Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32096,
+    "updated_at": "2026-07-29T15:45:17Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
+    "id": "Arize-ai/arize-skills",
+    "language": "Python",
+    "name": "Arize-ai/arize-skills",
+    "stars": 40,
+    "updated_at": "2026-07-29T15:24:20Z",
+    "url": "https://github.com/Arize-ai/arize-skills"
   },
   {
     "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
@@ -50,7 +122,7 @@
     "language": "Rust",
     "name": "NekomyaDev/nudge",
     "stars": 3,
-    "updated_at": "2026-07-29T15:21:08Z",
+    "updated_at": "2026-07-29T15:44:42Z",
     "url": "https://github.com/NekomyaDev/nudge"
   },
   {
@@ -63,21 +135,12 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3427,
-    "updated_at": "2026-07-29T15:29:33Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 77,
-    "updated_at": "2026-07-29T15:18:23Z",
+    "updated_at": "2026-07-29T15:34:22Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T15:18:06Z",
     "url": "https://github.com/kreftamarcio/prompt-forge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T15:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "",
@@ -113,7 +167,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6878,
-    "updated_at": "2026-07-29T15:20:46Z",
+    "updated_at": "2026-07-29T15:31:05Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5724,
-    "updated_at": "2026-07-29T15:11:40Z",
+    "updated_at": "2026-07-29T15:35:12Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55017,
-    "updated_at": "2026-07-29T15:23:15Z",
+    "updated_at": "2026-07-29T15:44:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10798,
-    "updated_at": "2026-07-29T15:27:09Z",
+    "updated_at": "2026-07-29T15:42:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 26,
     "updated_at": "2026-07-29T15:03:43Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 6,
-    "updated_at": "2026-07-29T15:26:52Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-29T15:15:47Z",
+    "updated_at": "2026-07-29T15:38:30Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -243,15 +288,6 @@
     "url": "https://github.com/marcusschiesser/agentpond"
   },
   {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 10,
-    "updated_at": "2026-07-29T15:28:39Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -266,7 +302,7 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 186,
-    "updated_at": "2026-07-29T14:30:50Z",
+    "updated_at": "2026-07-29T15:44:32Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T15:29:49Z",
+    "updated_at": "2026-07-29T15:41:44Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-29T14:01:23Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1289,
-    "updated_at": "2026-07-29T14:56:21Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11793,
-    "updated_at": "2026-07-29T13:52:53Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 100+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 73,
-    "updated_at": "2026-07-29T13:52:06Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Accountability layer for AI agents. Turns OpenTelemetry GenAI traces into a daily digest where every line is anchored to",
-    "id": "adriencr81/Check-Alfred",
-    "language": "Python",
-    "name": "adriencr81/Check-Alfred",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:49:53Z",
-    "url": "https://github.com/adriencr81/Check-Alfred"
   }
 ]
