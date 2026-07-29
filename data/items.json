@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 6,
+    "updated_at": "2026-07-29T12:18:25Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 3,
+    "updated_at": "2026-07-29T12:17:08Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T12:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -14,17 +41,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T12:12:00Z",
+    "updated_at": "2026-07-29T12:19:48Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-29T12:11:49Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -32,7 +50,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32086,
-    "updated_at": "2026-07-29T12:11:30Z",
+    "updated_at": "2026-07-29T12:17:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -50,7 +68,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse-js",
     "stars": 152,
-    "updated_at": "2026-07-29T12:14:25Z",
+    "updated_at": "2026-07-29T12:18:31Z",
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
@@ -59,7 +77,7 @@
     "language": "Rust",
     "name": "bosun-ai/swiftide",
     "stars": 722,
-    "updated_at": "2026-07-29T12:06:50Z",
+    "updated_at": "2026-07-29T12:18:15Z",
     "url": "https://github.com/bosun-ai/swiftide"
   },
   {
@@ -90,15 +108,6 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T12:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "QuesmaOrg/awesome-ai-tokenomics",
     "stars": 81,
-    "updated_at": "2026-07-29T11:55:49Z",
+    "updated_at": "2026-07-29T12:19:33Z",
     "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6876,
-    "updated_at": "2026-07-29T12:07:38Z",
+    "updated_at": "2026-07-29T12:19:03Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T11:10:05Z",
     "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 6,
-    "updated_at": "2026-07-29T11:10:05Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
@@ -373,7 +373,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55006,
+    "stars": 55005,
     "updated_at": "2026-07-29T10:37:06Z",
     "url": "https://github.com/BerriAI/litellm"
   },
