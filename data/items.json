@@ -1,5 +1,41 @@
 [
   {
+    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
+    "id": "Everton-baptista/agenteARQ",
+    "language": "Go",
+    "name": "Everton-baptista/agenteARQ",
+    "stars": 0,
+    "updated_at": "2026-07-29T17:36:18Z",
+    "url": "https://github.com/Everton-baptista/agenteARQ"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-29T17:32:27Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T17:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6880,
+    "updated_at": "2026-07-29T17:30:26Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -36,15 +72,6 @@
     "url": "https://github.com/royalpinto007/awesome-agent-evals"
   },
   {
-    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
-    "id": "Everton-baptista/agenteARQ",
-    "language": "Go",
-    "name": "Everton-baptista/agenteARQ",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:25:47Z",
-    "url": "https://github.com/Everton-baptista/agenteARQ"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32104,
-    "updated_at": "2026-07-29T17:23:01Z",
+    "updated_at": "2026-07-29T17:32:43Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -90,21 +117,12 @@
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T17:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T17:30:10Z",
+    "updated_at": "2026-07-29T17:35:10Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -126,12 +144,21 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3471,
+    "updated_at": "2026-07-29T17:36:52Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55021,
-    "updated_at": "2026-07-29T17:01:11Z",
+    "updated_at": "2026-07-29T17:37:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27263,
-    "updated_at": "2026-07-29T16:44:11Z",
+    "updated_at": "2026-07-29T17:36:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -185,17 +212,8 @@
     "language": "JavaScript",
     "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
     "stars": 0,
-    "updated_at": "2026-07-29T16:40:36Z",
+    "updated_at": "2026-07-29T17:37:28Z",
     "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-29T17:27:45Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Curated, machine-readable resources for AI evaluation, observability, guardrails, governance, security, and deployment.",
@@ -396,15 +414,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6879,
-    "updated_at": "2026-07-29T16:32:16Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
     "id": "okfriansyah-moh/the-foundry",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-29T15:40:04Z",
     "url": "https://github.com/TechTideOhio/swarm-357"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3427,
-    "updated_at": "2026-07-29T15:51:14Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
