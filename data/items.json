@@ -1,5 +1,32 @@
 [
   {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "novafabric/novafabric",
+    "language": "Python",
+    "name": "novafabric/novafabric",
+    "stars": 1,
+    "updated_at": "2026-07-29T22:34:52Z",
+    "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1522,
+    "updated_at": "2026-07-29T22:31:38Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T22:30:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
     "id": "wjlgatech/FM-os",
     "language": "Python",
@@ -7,15 +34,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T22:29:59Z",
     "url": "https://github.com/wjlgatech/FM-os"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 1,
-    "updated_at": "2026-07-29T22:28:57Z",
-    "url": "https://github.com/novafabric/novafabric"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55033,
-    "updated_at": "2026-07-29T22:24:35Z",
+    "updated_at": "2026-07-29T22:36:33Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -58,9 +76,18 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27265,
+    "stars": 27264,
     "updated_at": "2026-07-29T22:19:08Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23734,
+    "updated_at": "2026-07-29T22:17:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Self-hosted multi-agent AI orchestration with governance built in: one router in, cost tiers and isolated lanes, PII scr",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T22:16:29Z",
     "url": "https://github.com/jgobuilds/ai-control-plane-public"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T22:15:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T22:30:04Z",
+    "updated_at": "2026-07-29T22:35:34Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -193,7 +211,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32111,
+    "stars": 32112,
     "updated_at": "2026-07-29T21:24:43Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -214,6 +232,15 @@
     "stars": 2,
     "updated_at": "2026-07-29T21:17:47Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 351,
+    "updated_at": "2026-07-29T21:11:32Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "VibePod/vibepod-cli",
     "stars": 104,
-    "updated_at": "2026-07-29T21:08:51Z",
+    "updated_at": "2026-07-29T22:45:18Z",
     "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29448,
-    "updated_at": "2026-07-29T22:22:09Z",
+    "updated_at": "2026-07-29T22:44:47Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-29T19:30:34Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Conversational product recommender: one rating-aware ranking core, two retrieval backends - Qdrant hybrid RAG over your ",
-    "id": "ghourimarti/Product-Recommender-Engine",
-    "language": "Python",
-    "name": "ghourimarti/Product-Recommender-Engine",
-    "stars": 0,
-    "updated_at": "2026-07-29T18:43:08Z",
-    "url": "https://github.com/ghourimarti/Product-Recommender-Engine"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 350,
-    "updated_at": "2026-07-29T21:11:32Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 41,
-    "updated_at": "2026-07-29T21:04:36Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   }
 ]
