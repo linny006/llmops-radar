@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-29T04:30:10Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-07-29T04:43:17Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 24,
+    "updated_at": "2026-07-29T04:36:44Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27253,
-    "updated_at": "2026-07-29T04:28:44Z",
+    "updated_at": "2026-07-29T04:35:54Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-07-29T04:35:03Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10790,
+    "updated_at": "2026-07-29T04:32:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-29T04:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54961,
+    "updated_at": "2026-07-29T04:37:43Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Understand and improve how you use AI coding tools. A local web app that turns raw usage data into a live dashboard \u2014 to",
@@ -45,24 +90,6 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 24,
-    "updated_at": "2026-07-29T04:22:41Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54960,
-    "updated_at": "2026-07-29T04:27:38Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
@@ -70,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T04:17:40Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-07-29T04:16:01Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-07-29T04:26:35Z",
+    "updated_at": "2026-07-29T04:34:45Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -198,12 +216,21 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2518,
+    "updated_at": "2026-07-29T03:43:31Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-07-29T03:41:53Z",
+    "updated_at": "2026-07-29T04:44:52Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -252,31 +279,13 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2517,
-    "updated_at": "2026-07-29T03:43:31Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-29T04:24:58Z",
+    "updated_at": "2026-07-29T04:44:52Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10789,
-    "updated_at": "2026-07-29T04:28:20Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11788,
-    "updated_at": "2026-07-29T04:06:29Z",
+    "updated_at": "2026-07-29T04:37:01Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -373,7 +382,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23712,
+    "stars": 23713,
     "updated_at": "2026-07-29T01:30:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -392,7 +401,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8084,
-    "updated_at": "2026-07-29T04:20:18Z",
+    "updated_at": "2026-07-29T04:35:09Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T23:51:37Z",
     "url": "https://github.com/cendorhq/cendor-libs"
-  },
-  {
-    "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and",
-    "id": "0p9b/TLDR",
-    "language": "JavaScript",
-    "name": "0p9b/TLDR",
-    "stars": 20,
-    "updated_at": "2026-07-28T23:46:07Z",
-    "url": "https://github.com/0p9b/TLDR"
   }
 ]
