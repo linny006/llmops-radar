@@ -1,5 +1,68 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:14:33Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 24,
+    "updated_at": "2026-07-29T02:06:51Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 73,
+    "updated_at": "2026-07-29T02:04:35Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2516,
+    "updated_at": "2026-07-29T02:02:33Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10787,
+    "updated_at": "2026-07-29T02:12:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
+    "id": "kensterinvest/tidus",
+    "language": "HTML",
+    "name": "kensterinvest/tidus",
+    "stars": 1,
+    "updated_at": "2026-07-29T02:00:31Z",
+    "url": "https://github.com/kensterinvest/tidus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-29T02:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
     "id": "becloudready/workshops",
     "language": "HTML",
@@ -9,22 +72,22 @@
     "url": "https://github.com/becloudready/workshops"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54948,
+    "updated_at": "2026-07-29T02:10:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-29T01:59:40Z",
+    "updated_at": "2026-07-29T02:14:26Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 73,
-    "updated_at": "2026-07-29T01:56:47Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -36,21 +99,12 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54949,
-    "updated_at": "2026-07-29T01:58:44Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 9,
-    "updated_at": "2026-07-29T01:50:47Z",
+    "updated_at": "2026-07-29T02:09:24Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
@@ -63,29 +117,11 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-29T01:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 24,
-    "updated_at": "2026-07-29T01:32:41Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23709,
+    "stars": 23710,
     "updated_at": "2026-07-29T01:30:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -126,11 +162,20 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8084,
+    "updated_at": "2026-07-29T01:13:36Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20947,
+    "stars": 20948,
     "updated_at": "2026-07-29T01:01:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -140,17 +185,8 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-07-29T00:57:37Z",
+    "updated_at": "2026-07-29T02:11:45Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-29T01:04:40Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -162,15 +198,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10787,
-    "updated_at": "2026-07-29T01:55:09Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
     "id": "Bobcatsfan33/Pharos",
     "language": "TypeScript",
@@ -180,20 +207,11 @@
     "url": "https://github.com/Bobcatsfan33/Pharos"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8083,
-    "updated_at": "2026-07-29T01:13:36Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6862,
+    "stars": 6863,
     "updated_at": "2026-07-29T00:31:20Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -223,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T00:50:47Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2516,
-    "updated_at": "2026-07-29T01:25:50Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -284,7 +293,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-07-28T23:45:03Z",
+    "updated_at": "2026-07-29T02:06:05Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -311,7 +320,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-28T23:29:26Z",
+    "updated_at": "2026-07-29T02:07:46Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 32,
     "updated_at": "2026-07-28T22:04:41Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 2,
-    "updated_at": "2026-07-28T22:04:31Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   }
 ]
