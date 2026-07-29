@@ -1,5 +1,140 @@
 [
   {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 10,
+    "updated_at": "2026-07-29T06:44:05Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
+    "id": "kimtth/azure-openai-llm-wiki",
+    "language": "Python",
+    "name": "kimtth/azure-openai-llm-wiki",
+    "stars": 405,
+    "updated_at": "2026-07-29T06:43:20Z",
+    "url": "https://github.com/kimtth/azure-openai-llm-wiki"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 73,
+    "updated_at": "2026-07-29T06:43:17Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents",
+    "id": "naturaljam/SpanVouch",
+    "language": "Python",
+    "name": "naturaljam/SpanVouch",
+    "stars": 0,
+    "updated_at": "2026-07-29T06:42:16Z",
+    "url": "https://github.com/naturaljam/SpanVouch"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-29T06:36:23Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32053,
+    "updated_at": "2026-07-29T06:37:37Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
+    "id": "acornops/acornops",
+    "language": "JavaScript",
+    "name": "acornops/acornops",
+    "stars": 11,
+    "updated_at": "2026-07-29T06:33:15Z",
+    "url": "https://github.com/acornops/acornops"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-29T06:33:13Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-07-29T06:33:10Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-07-29T06:33:10Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-29T06:32:57Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 2,
+    "updated_at": "2026-07-29T06:32:47Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27254,
+    "updated_at": "2026-07-29T06:30:56Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
+    "id": "shaikn6/shaikn6",
+    "language": "Python",
+    "name": "shaikn6/shaikn6",
+    "stars": 0,
+    "updated_at": "2026-07-29T06:30:41Z",
+    "url": "https://github.com/shaikn6/shaikn6"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-29T06:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -18,15 +153,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 73,
-    "updated_at": "2026-07-29T06:30:22Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
@@ -34,15 +160,6 @@
     "stars": 1288,
     "updated_at": "2026-07-29T06:28:13Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-29T06:24:14Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -67,7 +184,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6870,
+    "stars": 6872,
     "updated_at": "2026-07-29T06:22:21Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -77,7 +194,7 @@
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 26,
-    "updated_at": "2026-07-29T06:19:57Z",
+    "updated_at": "2026-07-29T06:43:45Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -86,7 +203,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-07-29T06:19:54Z",
+    "updated_at": "2026-07-29T06:43:24Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -97,15 +214,6 @@
     "stars": 10,
     "updated_at": "2026-07-29T06:16:32Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-29T06:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -135,6 +243,15 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10791,
+    "updated_at": "2026-07-29T06:05:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
@@ -162,15 +279,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-29T05:39:44Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -185,7 +293,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-29T06:23:33Z",
+    "updated_at": "2026-07-29T06:41:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -194,17 +302,8 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 24,
-    "updated_at": "2026-07-29T06:30:21Z",
+    "updated_at": "2026-07-29T06:30:48Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-07-29T05:13:39Z",
-    "url": "https://github.com/acornops/docs-website"
   },
   {
     "description": "Production rules and 5 skills for building agentic AI systems \u2014 design review, agent scaffolding, tool schema design, in",
@@ -225,21 +324,12 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 10,
-    "updated_at": "2026-07-29T06:06:10Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-07-29T05:03:09Z",
+    "updated_at": "2026-07-29T06:33:00Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -270,15 +360,6 @@
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27254,
-    "updated_at": "2026-07-29T06:28:36Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -297,15 +378,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10790,
-    "updated_at": "2026-07-29T06:05:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Understand and improve how you use AI coding tools. A local web app that turns raw usage data into a live dashboard \u2014 to",
     "id": "starbringer/AI-Insights",
     "language": "TypeScript",
@@ -320,7 +392,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 78,
-    "updated_at": "2026-07-29T04:25:44Z",
+    "updated_at": "2026-07-29T06:35:34Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -329,7 +401,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T04:17:40Z",
+    "updated_at": "2026-07-29T06:42:06Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-29T04:01:43Z",
     "url": "https://github.com/trevhud/rote"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 10,
-    "updated_at": "2026-07-29T03:50:16Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-29T04:34:45Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-07-29T03:48:30Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Bella OpenAPI\u662f\u4e00\u4e2a\u63d0\u4f9b\u4e86\u4e30\u5bcc\u7684AI\u8c03\u7528\u80fd\u529b\u7684API\u7f51\u5173\uff0c\u53ef\u7c7b\u6bd4openrouter\uff0c\u4e0e\u4e4b\u4e0d\u540c\u7684\u662f\u9664\u4e86\u63d0\u4f9b\u804a\u5929\u8865\u5168(chat-completion)\u80fd\u529b\u5916\uff0c\u8fd8\u63d0\u4f9b\u4e86\u6587\u672c\u5411\u91cf\u5316(text-embedding)\u3001\u8bed\u97f3\u8bc6\u522b(ASR)\u3001",
-    "id": "LianjiaTech/bella-openapi",
-    "language": "Java",
-    "name": "LianjiaTech/bella-openapi",
-    "stars": 236,
-    "updated_at": "2026-07-29T03:40:22Z",
-    "url": "https://github.com/LianjiaTech/bella-openapi"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-29T03:36:05Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 67,
-    "updated_at": "2026-07-29T06:10:45Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20954,
-    "updated_at": "2026-07-29T02:56:37Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-07-29T02:36:06Z",
-    "url": "https://github.com/dshakes/clickllm"
   }
 ]
