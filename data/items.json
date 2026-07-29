@@ -1,21 +1,129 @@
 [
   {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 3,
+    "updated_at": "2026-07-29T09:12:42Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 24,
+    "updated_at": "2026-07-29T09:12:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Agent hooks for LLM Observability.",
+    "id": "HikaruEgashira/otel-hooks",
+    "language": "Python",
+    "name": "HikaruEgashira/otel-hooks",
+    "stars": 8,
+    "updated_at": "2026-07-29T09:12:10Z",
+    "url": "https://github.com/HikaruEgashira/otel-hooks"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:10:22Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1288,
+    "updated_at": "2026-07-29T09:14:49Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32073,
+    "updated_at": "2026-07-29T09:08:29Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54991,
+    "updated_at": "2026-07-29T09:07:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-07-29T09:05:56Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20955,
-    "updated_at": "2026-07-29T08:59:27Z",
+    "updated_at": "2026-07-29T09:09:53Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-07-29T09:03:43Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
     "id": "ur-grue/toptop",
     "language": "Rust",
     "name": "ur-grue/toptop",
-    "stars": 0,
-    "updated_at": "2026-07-29T08:58:09Z",
+    "stars": 1,
+    "updated_at": "2026-07-29T09:02:10Z",
     "url": "https://github.com/ur-grue/toptop"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 348,
+    "updated_at": "2026-07-29T09:01:38Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
+    "id": "MaximSTH/meta-layer-starter",
+    "language": "Shell",
+    "name": "MaximSTH/meta-layer-starter",
+    "stars": 2,
+    "updated_at": "2026-07-29T09:09:37Z",
+    "url": "https://github.com/MaximSTH/meta-layer-starter"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-29T09:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
@@ -25,15 +133,6 @@
     "stars": 73,
     "updated_at": "2026-07-29T08:55:19Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-07-29T08:54:56Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -49,18 +148,9 @@
     "id": "NicoGrassetto/Cosmopilot",
     "language": "HTML",
     "name": "NicoGrassetto/Cosmopilot",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-29T08:53:46Z",
     "url": "https://github.com/NicoGrassetto/Cosmopilot"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32072,
-    "updated_at": "2026-07-29T08:52:52Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -72,31 +162,13 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-29T08:51:52Z",
-    "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
     "description": "Get the knowledge you need to develop your agents. The collaboration layer for AI teams: domain experts annotate and rev",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-29T08:51:00Z",
+    "updated_at": "2026-07-29T09:03:30Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
-    "id": "MaximSTH/meta-layer-starter",
-    "language": "Shell",
-    "name": "MaximSTH/meta-layer-starter",
-    "stars": 2,
-    "updated_at": "2026-07-29T08:50:28Z",
-    "url": "https://github.com/MaximSTH/meta-layer-starter"
   },
   {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
@@ -117,15 +189,6 @@
     "url": "https://github.com/dativo-io/talon"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-29T08:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -140,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6874,
-    "updated_at": "2026-07-29T08:40:02Z",
+    "updated_at": "2026-07-29T09:02:04Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -225,12 +288,21 @@
     "url": "https://github.com/novafabric/novafabric"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8085,
+    "updated_at": "2026-07-29T08:20:55Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 186,
-    "updated_at": "2026-07-29T08:14:32Z",
+    "updated_at": "2026-07-29T09:15:13Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -241,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T08:10:13Z",
     "url": "https://github.com/Aaa2122/HyperAgent"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 24,
-    "updated_at": "2026-07-29T08:09:15Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -268,33 +331,6 @@
     "stars": 78,
     "updated_at": "2026-07-29T08:04:15Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-07-29T08:04:08Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1288,
-    "updated_at": "2026-07-29T08:59:04Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54989,
-    "updated_at": "2026-07-29T07:58:43Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
@@ -347,7 +383,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5655,
-    "updated_at": "2026-07-29T08:36:03Z",
+    "updated_at": "2026-07-29T09:02:33Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T07:05:54Z",
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "Turn Portkey & Langsmith data into OTEL signals",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-07-29T06:55:15Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27259,
-    "updated_at": "2026-07-29T06:50:05Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e",
-    "id": "Ambuj123-lab/agentic-rag-financial-parser",
-    "language": "Python",
-    "name": "Ambuj123-lab/agentic-rag-financial-parser",
-    "stars": 81,
-    "updated_at": "2026-07-29T06:47:49Z",
-    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
-  },
-  {
-    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
-    "id": "kimtth/azure-openai-llm-wiki",
-    "language": "Python",
-    "name": "kimtth/azure-openai-llm-wiki",
-    "stars": 405,
-    "updated_at": "2026-07-29T06:43:20Z",
-    "url": "https://github.com/kimtth/azure-openai-llm-wiki"
   }
 ]
