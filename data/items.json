@@ -1,5 +1,50 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 24,
+    "updated_at": "2026-07-29T03:26:58Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-07-29T03:19:10Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54957,
+    "updated_at": "2026-07-29T03:25:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-29T03:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6865,
+    "updated_at": "2026-07-29T03:14:04Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -9,30 +54,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54957,
-    "updated_at": "2026-07-29T03:12:48Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 24,
-    "updated_at": "2026-07-29T03:07:50Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2517,
-    "updated_at": "2026-07-29T03:15:27Z",
+    "updated_at": "2026-07-29T03:26:32Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-29T03:05:17Z",
+    "updated_at": "2026-07-29T03:25:13Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -63,13 +90,13 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-29T03:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "comet-ml/opik",
+    "stars": 20950,
+    "updated_at": "2026-07-29T02:56:37Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
@@ -77,7 +104,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-07-29T02:53:25Z",
+    "updated_at": "2026-07-29T03:21:13Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T02:36:06Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6864,
-    "updated_at": "2026-07-29T03:14:04Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -225,15 +243,6 @@
     "url": "https://github.com/runtm-ai/runtm"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-07-29T03:04:01Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -248,17 +257,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8084,
-    "updated_at": "2026-07-29T01:13:36Z",
+    "updated_at": "2026-07-29T03:26:28Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20949,
-    "updated_at": "2026-07-29T02:56:37Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -400,7 +400,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32042,
+    "stars": 32046,
     "updated_at": "2026-07-28T22:58:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
