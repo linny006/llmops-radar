@@ -1,5 +1,167 @@
 [
   {
+    "description": "Running Claude Code headless (claude -p --output-format json) from cron, CI or an agent loop: verified failure modes wit",
+    "id": "19800104zhao-svg/claude-code-unattended",
+    "language": "Shell",
+    "name": "19800104zhao-svg/claude-code-unattended",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:43:09Z",
+    "url": "https://github.com/19800104zhao-svg/claude-code-unattended"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 73,
+    "updated_at": "2026-07-29T09:42:58Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-07-29T09:42:57Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20958,
+    "updated_at": "2026-07-29T09:45:19Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-29T09:41:45Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Ask Cloudflare AI Gateway for a quality tier, not a model name. Free-tier primary with automatic paid failover, plus the",
+    "id": "montrealks/ai-gateway-tiers",
+    "language": "Shell",
+    "name": "montrealks/ai-gateway-tiers",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:41:25Z",
+    "url": "https://github.com/montrealks/ai-gateway-tiers"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-29T09:39:21Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32076,
+    "updated_at": "2026-07-29T09:42:52Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 186,
+    "updated_at": "2026-07-29T09:36:59Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54995,
+    "updated_at": "2026-07-29T09:36:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11792,
+    "updated_at": "2026-07-29T09:40:08Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-29T09:35:25Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2521,
+    "updated_at": "2026-07-29T09:38:35Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:33:12Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Self-hosted multi-agent AI orchestration with governance built in: one router in, cost tiers and isolated lanes, PII scr",
+    "id": "jgobuilds/ai-control-plane-public",
+    "language": "Python",
+    "name": "jgobuilds/ai-control-plane-public",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:31:19Z",
+    "url": "https://github.com/jgobuilds/ai-control-plane-public"
+  },
+  {
+    "description": "Control plane for company AI use cases \u2014 one self-hosted operating layer for shared budgets, policies, reliability, and ",
+    "id": "dativo-io/talon",
+    "language": "Go",
+    "name": "dativo-io/talon",
+    "stars": 12,
+    "updated_at": "2026-07-29T09:31:05Z",
+    "url": "https://github.com/dativo-io/talon"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-29T09:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
+    "id": "Amitcoh1/agentbreaker",
+    "language": "TypeScript",
+    "name": "Amitcoh1/agentbreaker",
+    "stars": 3,
+    "updated_at": "2026-07-29T09:30:25Z",
+    "url": "https://github.com/Amitcoh1/agentbreaker"
+  },
+  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -27,58 +189,13 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2521,
-    "updated_at": "2026-07-29T09:20:01Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
-    "id": "Amitcoh1/agentbreaker",
-    "language": "TypeScript",
-    "name": "Amitcoh1/agentbreaker",
-    "stars": 3,
-    "updated_at": "2026-07-29T09:30:25Z",
-    "url": "https://github.com/Amitcoh1/agentbreaker"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-07-29T09:18:23Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 73,
-    "updated_at": "2026-07-29T09:16:24Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54993,
-    "updated_at": "2026-07-29T09:16:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-29T09:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-29T09:18:08Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
@@ -122,17 +239,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1288,
-    "updated_at": "2026-07-29T09:29:08Z",
+    "updated_at": "2026-07-29T09:34:46Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32075,
-    "updated_at": "2026-07-29T09:27:51Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
@@ -140,17 +248,8 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 48,
-    "updated_at": "2026-07-29T09:05:56Z",
+    "updated_at": "2026-07-29T09:30:43Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20955,
-    "updated_at": "2026-07-29T09:27:12Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
@@ -160,6 +259,15 @@
     "stars": 4,
     "updated_at": "2026-07-29T09:03:43Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5657,
+    "updated_at": "2026-07-29T09:02:33Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
@@ -189,15 +297,6 @@
     "url": "https://github.com/MaximSTH/meta-layer-starter"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-29T08:54:41Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
     "id": "NicoGrassetto/Cosmopilot",
     "language": "HTML",
@@ -216,15 +315,6 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "Get the knowledge you need to develop your agents. The collaboration layer for AI teams: domain experts annotate and rev",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-29T09:18:08Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
@@ -234,21 +324,12 @@
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
-    "description": "Control plane for company AI use cases \u2014 one self-hosted operating layer for shared budgets, policies, reliability, and ",
-    "id": "dativo-io/talon",
-    "language": "Go",
-    "name": "dativo-io/talon",
-    "stars": 12,
-    "updated_at": "2026-07-29T09:22:34Z",
-    "url": "https://github.com/dativo-io/talon"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6874,
-    "updated_at": "2026-07-29T09:28:29Z",
+    "updated_at": "2026-07-29T09:44:45Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -270,15 +351,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "Running Claude Code headless (claude -p --output-format json) from cron, CI or an agent loop: verified failure modes wit",
-    "id": "19800104zhao-svg/claude-code-unattended",
-    "language": "Shell",
-    "name": "19800104zhao-svg/claude-code-unattended",
-    "stars": 0,
-    "updated_at": "2026-07-29T08:34:57Z",
-    "url": "https://github.com/19800104zhao-svg/claude-code-unattended"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -297,15 +369,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-29T08:29:44Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
     "id": "novafabric/novafabric",
     "language": "Python",
@@ -322,15 +385,6 @@
     "stars": 8084,
     "updated_at": "2026-07-29T08:20:55Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 186,
-    "updated_at": "2026-07-29T09:24:33Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "Reliability-first LangGraph trading agent for Hyperliquid with xAI, FastAPI and React observability.",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-29T07:52:20Z",
     "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11791,
-    "updated_at": "2026-07-29T09:20:59Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5655,
-    "updated_at": "2026-07-29T09:02:33Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 67,
-    "updated_at": "2026-07-29T08:51:25Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents",
-    "id": "naturaljam/SpanVouch",
-    "language": "Python",
-    "name": "naturaljam/SpanVouch",
-    "stars": 1,
-    "updated_at": "2026-07-29T07:36:12Z",
-    "url": "https://github.com/naturaljam/SpanVouch"
-  },
-  {
-    "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
-    "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "language": "JavaScript",
-    "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "stars": 0,
-    "updated_at": "2026-07-29T07:32:43Z",
-    "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10793,
-    "updated_at": "2026-07-29T07:30:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
