@@ -1,5 +1,95 @@
 [
   {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-07-29T20:24:28Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Autonomous multi-agent issue-to-PR system for AI software engineering workflows",
+    "id": "ramshetty01/multiagent-software-team",
+    "language": "Python",
+    "name": "ramshetty01/multiagent-software-team",
+    "stars": 0,
+    "updated_at": "2026-07-29T20:30:21Z",
+    "url": "https://github.com/ramshetty01/multiagent-software-team"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-29T20:24:30Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-29T20:22:11Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32108,
+    "updated_at": "2026-07-29T20:25:40Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "novafabric/novafabric",
+    "language": "Python",
+    "name": "novafabric/novafabric",
+    "stars": 1,
+    "updated_at": "2026-07-29T20:20:15Z",
+    "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 3,
+    "updated_at": "2026-07-29T20:20:10Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55028,
+    "updated_at": "2026-07-29T20:29:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
+    "language": "Python",
+    "name": "VibePod/vibepod-cli",
+    "stars": 104,
+    "updated_at": "2026-07-29T20:18:33Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T20:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -16,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T20:11:29Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32108,
-    "updated_at": "2026-07-29T20:13:45Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Curated, machine-readable resources for AI evaluation, observability, guardrails, governance, security, and deployment.",
@@ -63,13 +144,13 @@
     "url": "https://github.com/katanemo/plano"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T20:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6880,
+    "updated_at": "2026-07-29T20:04:44Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -79,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-07-29T19:58:38Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-29T20:14:11Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -113,7 +185,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T20:07:09Z",
+    "updated_at": "2026-07-29T20:23:19Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -126,15 +198,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-29T19:37:29Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
     "id": "runtm-ai/runtm",
     "language": "Python",
@@ -142,24 +205,6 @@
     "stars": 286,
     "updated_at": "2026-07-29T19:37:20Z",
     "url": "https://github.com/runtm-ai/runtm"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55026,
-    "updated_at": "2026-07-29T20:07:09Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-29T19:26:36Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -189,30 +234,12 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6879,
-    "updated_at": "2026-07-29T20:04:44Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-07-29T20:02:47Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10801,
-    "updated_at": "2026-07-29T19:59:40Z",
+    "updated_at": "2026-07-29T20:19:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -297,6 +324,15 @@
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 350,
+    "updated_at": "2026-07-29T18:31:22Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-29T20:01:52Z",
+    "updated_at": "2026-07-29T20:18:14Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1521,
     "updated_at": "2026-07-29T17:29:39Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "A curated, auto-updating list of open-source guardrails for LLM applications: prompt-injection defense, PII, content saf",
-    "id": "royalpinto007/awesome-llm-guardrails",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-llm-guardrails",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:27:22Z",
-    "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
-  },
-  {
-    "description": "A curated list of tools, frameworks, benchmarks, and ideas for evaluating AI agents.",
-    "id": "royalpinto007/awesome-agent-evals",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-agent-evals",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:27:20Z",
-    "url": "https://github.com/royalpinto007/awesome-agent-evals"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 349,
-    "updated_at": "2026-07-29T18:31:22Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-07-29T17:24:53Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
   }
 ]
