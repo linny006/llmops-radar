@@ -1,5 +1,68 @@
 [
   {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 6,
+    "updated_at": "2026-07-29T19:58:38Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 3,
+    "updated_at": "2026-07-29T19:57:33Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-29T19:51:46Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-07-29T19:51:14Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-29T19:57:27Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-29T19:49:11Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T19:45:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -23,17 +86,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55026,
-    "updated_at": "2026-07-29T19:32:57Z",
+    "updated_at": "2026-07-29T19:53:25Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T19:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -61,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T19:24:15Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-29T19:22:42Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
@@ -113,7 +158,7 @@
     "language": "Shell",
     "name": "DYAI2025/Plumbline",
     "stars": 6,
-    "updated_at": "2026-07-29T19:45:00Z",
+    "updated_at": "2026-07-29T19:58:32Z",
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10801,
-    "updated_at": "2026-07-29T19:18:12Z",
+    "updated_at": "2026-07-29T19:59:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32107,
-    "updated_at": "2026-07-29T19:17:23Z",
+    "updated_at": "2026-07-29T20:00:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -198,15 +243,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-29T19:44:55Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -221,7 +257,7 @@
     "language": "Rust",
     "name": "katanemo/plano",
     "stars": 6911,
-    "updated_at": "2026-07-29T18:46:00Z",
+    "updated_at": "2026-07-29T19:49:00Z",
     "url": "https://github.com/katanemo/plano"
   },
   {
@@ -266,7 +302,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-29T18:18:49Z",
+    "updated_at": "2026-07-29T19:59:31Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -283,7 +319,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23731,
+    "stars": 23732,
     "updated_at": "2026-07-29T18:14:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -315,21 +351,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-29T19:06:14Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3127,
-    "updated_at": "2026-07-29T19:44:18Z",
+    "updated_at": "2026-07-29T19:51:06Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3472,
-    "updated_at": "2026-07-29T19:44:28Z",
+    "updated_at": "2026-07-29T19:58:49Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-29T17:24:53Z",
     "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 2,
-    "updated_at": "2026-07-29T17:19:18Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Practical, opinionated advice for teams building AI products that need to work in the real world.",
-    "id": "attractorhq/tips-for-building-ai",
-    "language": "\u2014",
-    "name": "attractorhq/tips-for-building-ai",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:12:58Z",
-    "url": "https://github.com/attractorhq/tips-for-building-ai"
-  },
-  {
-    "description": "Read-only first-pass incident triage on the Claude Agent SDK + MCP: classifies an alert, retrieves the matching runbook,",
-    "id": "Hal-Hanami/incident-triage-agent",
-    "language": "Python",
-    "name": "Hal-Hanami/incident-triage-agent",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:00:50Z",
-    "url": "https://github.com/Hal-Hanami/incident-triage-agent"
   }
 ]
