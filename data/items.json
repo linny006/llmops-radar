@@ -1,5 +1,131 @@
 [
   {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-07-29T16:45:01Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27263,
+    "updated_at": "2026-07-29T16:44:11Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55020,
+    "updated_at": "2026-07-29T16:42:30Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-29T16:45:18Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
+    "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
+    "language": "JavaScript",
+    "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
+    "stars": 0,
+    "updated_at": "2026-07-29T16:40:36Z",
+    "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
+  },
+  {
+    "description": "Read-only first-pass incident triage on the Claude Agent SDK + MCP: classifies an alert, retrieves the matching runbook,",
+    "id": "Hal-Hanami/incident-triage-agent",
+    "language": "Python",
+    "name": "Hal-Hanami/incident-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-07-29T16:40:15Z",
+    "url": "https://github.com/Hal-Hanami/incident-triage-agent"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-29T16:40:36Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "A curated list of tools, frameworks, benchmarks, and ideas for evaluating AI agents.",
+    "id": "royalpinto007/awesome-agent-evals",
+    "language": "\u2014",
+    "name": "royalpinto007/awesome-agent-evals",
+    "stars": 0,
+    "updated_at": "2026-07-29T16:38:15Z",
+    "url": "https://github.com/royalpinto007/awesome-agent-evals"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32101,
+    "updated_at": "2026-07-29T16:37:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Curated, machine-readable resources for AI evaluation, observability, guardrails, governance, security, and deployment.",
+    "id": "Anonymousyz/awesome-ai-production-readiness",
+    "language": "Python",
+    "name": "Anonymousyz/awesome-ai-production-readiness",
+    "stars": 0,
+    "updated_at": "2026-07-29T16:37:04Z",
+    "url": "https://github.com/Anonymousyz/awesome-ai-production-readiness"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 3,
+    "updated_at": "2026-07-29T16:36:55Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "AI deployment readiness toolkit: local 70-point CLI, veto gates, governance artifacts, and fictional cases.",
+    "id": "Anonymousyz/ai-prototype-to-production-toolkit",
+    "language": "Python",
+    "name": "Anonymousyz/ai-prototype-to-production-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-29T16:36:38Z",
+    "url": "https://github.com/Anonymousyz/ai-prototype-to-production-toolkit"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20961,
+    "updated_at": "2026-07-29T16:34:39Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T16:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
     "id": "NekomyaDev/nudge",
     "language": "Rust",
@@ -14,17 +140,8 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1061,
-    "updated_at": "2026-07-29T16:27:54Z",
+    "updated_at": "2026-07-29T16:35:54Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:24:38Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
     "description": "A minimal, provider-neutral Python starter for testing AI outputs in CI.",
@@ -81,15 +198,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32100,
-    "updated_at": "2026-07-29T16:21:37Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -97,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T16:21:22Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-07-29T16:21:14Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -135,15 +234,6 @@
     "url": "https://github.com/ghoshp83/nl2sql-finetune-lab"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:27:05Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -151,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T16:18:02Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:15:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -176,17 +257,8 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 10,
-    "updated_at": "2026-07-29T16:14:26Z",
+    "updated_at": "2026-07-29T16:43:30Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55019,
-    "updated_at": "2026-07-29T16:20:25Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -196,15 +268,6 @@
     "stars": 186,
     "updated_at": "2026-07-29T16:11:09Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Read-only first-pass incident triage on the Claude Agent SDK + MCP: classifies an alert, retrieves the matching runbook,",
-    "id": "Hal-Hanami/incident-triage-agent",
-    "language": "Python",
-    "name": "Hal-Hanami/incident-triage-agent",
-    "stars": 0,
-    "updated_at": "2026-07-29T16:07:04Z",
-    "url": "https://github.com/Hal-Hanami/incident-triage-agent"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -248,7 +311,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-07-29T15:58:09Z",
+    "updated_at": "2026-07-29T16:31:58Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -257,7 +320,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6879,
-    "updated_at": "2026-07-29T15:55:36Z",
+    "updated_at": "2026-07-29T16:32:16Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -284,17 +347,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10799,
-    "updated_at": "2026-07-29T16:27:18Z",
+    "updated_at": "2026-07-29T16:38:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20960,
-    "updated_at": "2026-07-29T16:22:16Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
@@ -351,15 +405,6 @@
     "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-29T15:58:02Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Hybrid Local/Web Agentic RAG system featuring layout-aware PDF parsing, cross-encoder reranking, and Ragas evaluation.",
     "id": "Shubham-S151/Agentic-RAG-Researcher",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T15:18:06Z",
     "url": "https://github.com/kreftamarcio/prompt-forge"
-  },
-  {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "TypeScript",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-07-29T15:13:49Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5724,
-    "updated_at": "2026-07-29T16:07:39Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
-    "id": "SemeAIPletinnya/semeai-gate-basic",
-    "language": "Python",
-    "name": "SemeAIPletinnya/semeai-gate-basic",
-    "stars": 1,
-    "updated_at": "2026-07-29T15:07:57Z",
-    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-29T15:03:43Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
-    "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "language": "JavaScript",
-    "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "stars": 0,
-    "updated_at": "2026-07-29T14:59:21Z",
-    "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
   }
 ]
