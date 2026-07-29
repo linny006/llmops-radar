@@ -1,11 +1,119 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20959,
+    "updated_at": "2026-07-29T13:44:50Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Accountability layer for AI agents. Turns OpenTelemetry GenAI traces into a daily digest where every line is anchored to",
+    "id": "adriencr81/Check-Alfred",
+    "language": "Python",
+    "name": "adriencr81/Check-Alfred",
+    "stars": 1,
+    "updated_at": "2026-07-29T13:38:32Z",
+    "url": "https://github.com/adriencr81/Check-Alfred"
+  },
+  {
+    "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-pas",
+    "id": "QuesmaOrg/awesome-ai-tokenomics",
+    "language": "Python",
+    "name": "QuesmaOrg/awesome-ai-tokenomics",
+    "stars": 84,
+    "updated_at": "2026-07-29T13:37:30Z",
+    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32093,
+    "updated_at": "2026-07-29T13:44:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 10,
+    "updated_at": "2026-07-29T13:36:43Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 100+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 73,
+    "updated_at": "2026-07-29T13:34:20Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-29T13:44:13Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "",
+    "id": "coffeehc/xagent-docs",
+    "language": "TypeScript",
+    "name": "coffeehc/xagent-docs",
+    "stars": 1,
+    "updated_at": "2026-07-29T13:32:18Z",
+    "url": "https://github.com/coffeehc/xagent-docs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T13:30:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-29T13:30:38Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 0,
+    "updated_at": "2026-07-29T13:29:45Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
+    "id": "Arize-ai/arize-skills",
+    "language": "Python",
+    "name": "Arize-ai/arize-skills",
+    "stars": 40,
+    "updated_at": "2026-07-29T13:29:31Z",
+    "url": "https://github.com/Arize-ai/arize-skills"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10795,
-    "updated_at": "2026-07-29T13:28:47Z",
+    "updated_at": "2026-07-29T13:40:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -27,30 +135,12 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-29T13:19:25Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T13:15:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3125,
-    "updated_at": "2026-07-29T13:13:08Z",
+    "updated_at": "2026-07-29T13:44:56Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -63,21 +153,12 @@
     "url": "https://github.com/Ruivalim/usage-monitor"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32093,
-    "updated_at": "2026-07-29T13:25:47Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 24,
-    "updated_at": "2026-07-29T13:12:13Z",
+    "updated_at": "2026-07-29T13:43:13Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1518,
-    "updated_at": "2026-07-29T13:11:26Z",
+    "updated_at": "2026-07-29T13:38:09Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -113,7 +194,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T13:26:46Z",
+    "updated_at": "2026-07-29T13:42:03Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -131,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-29T13:25:42Z",
+    "updated_at": "2026-07-29T13:44:36Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -140,17 +221,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6876,
-    "updated_at": "2026-07-29T13:26:50Z",
+    "updated_at": "2026-07-29T13:44:10Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 10,
-    "updated_at": "2026-07-29T13:27:32Z",
-    "url": "https://github.com/spanlens/Spanlens"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3468,
-    "updated_at": "2026-07-29T13:28:47Z",
+    "updated_at": "2026-07-29T13:32:59Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -198,33 +270,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-pas",
-    "id": "QuesmaOrg/awesome-ai-tokenomics",
-    "language": "Python",
-    "name": "QuesmaOrg/awesome-ai-tokenomics",
-    "stars": 83,
-    "updated_at": "2026-07-29T12:38:20Z",
-    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-29T13:15:27Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 100+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 73,
-    "updated_at": "2026-07-29T12:30:09Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
     "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
     "id": "MaximSTH/meta-layer-starter",
     "language": "Shell",
@@ -239,17 +284,8 @@
     "language": "Rust",
     "name": "NekomyaDev/nudge",
     "stars": 3,
-    "updated_at": "2026-07-29T12:17:08Z",
+    "updated_at": "2026-07-29T13:43:03Z",
     "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "TypeScript",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-07-29T12:09:30Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
     "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
@@ -297,15 +333,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20959,
-    "updated_at": "2026-07-29T13:28:30Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1061,
-    "updated_at": "2026-07-29T13:20:52Z",
+    "updated_at": "2026-07-29T13:41:56Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "malkreide/zh-education-mcp",
     "stars": 0,
-    "updated_at": "2026-07-29T11:28:43Z",
+    "updated_at": "2026-07-29T13:39:04Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T11:04:43Z",
     "url": "https://github.com/api-evangelist/log10"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 2,
-    "updated_at": "2026-07-29T10:55:52Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Seldon APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/seldon",
-    "language": "\u2014",
-    "name": "api-evangelist/seldon",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:51:51Z",
-    "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "Evidently AI APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/evidently",
-    "language": "\u2014",
-    "name": "api-evangelist/evidently",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:50:14Z",
-    "url": "https://github.com/api-evangelist/evidently"
   }
 ]
