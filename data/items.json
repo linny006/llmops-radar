@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 54966,
+    "updated_at": "2026-07-29T05:41:01Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-29T05:39:44Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 2,
+    "updated_at": "2026-07-29T05:38:43Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 73,
+    "updated_at": "2026-07-29T05:33:53Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3426,
+    "updated_at": "2026-07-29T05:43:23Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 4,
+    "updated_at": "2026-07-29T05:30:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6869,
+    "updated_at": "2026-07-29T05:30:13Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -23,7 +86,7 @@
     "language": "JavaScript",
     "name": "avikalpg/byok-relay",
     "stars": 53,
-    "updated_at": "2026-07-29T05:25:16Z",
+    "updated_at": "2026-07-29T05:41:25Z",
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
@@ -34,24 +97,6 @@
     "stars": 24,
     "updated_at": "2026-07-29T05:26:22Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 4,
-    "updated_at": "2026-07-29T05:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 54962,
-    "updated_at": "2026-07-29T05:30:05Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
@@ -81,20 +126,11 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6866,
-    "updated_at": "2026-07-29T05:30:13Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-07-29T05:03:57Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
@@ -126,15 +162,6 @@
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-29T04:49:10Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
@@ -148,9 +175,18 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27253,
+    "stars": 27254,
     "updated_at": "2026-07-29T04:35:54Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8085,
+    "updated_at": "2026-07-29T04:35:09Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-29T05:18:47Z",
+    "updated_at": "2026-07-29T05:40:58Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -261,15 +297,6 @@
     "url": "https://github.com/trevhud/rote"
   },
   {
-    "description": "\u26a1 Awesome AI Gateway \u2014 curated comparison of 100+ AI gateways & LLM proxies (LiteLLM, OpenRouter, Portkey, Kong, Higress",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 73,
-    "updated_at": "2026-07-29T03:59:54Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -331,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T03:13:06Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3426,
-    "updated_at": "2026-07-29T05:15:25Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -423,15 +441,6 @@
     "url": "https://github.com/runtm-ai/runtm"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8084,
-    "updated_at": "2026-07-29T04:35:09Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-29T00:55:24Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
-    "id": "Bobcatsfan33/Pharos",
-    "language": "TypeScript",
-    "name": "Bobcatsfan33/Pharos",
-    "stars": 2,
-    "updated_at": "2026-07-29T00:41:15Z",
-    "url": "https://github.com/Bobcatsfan33/Pharos"
   }
 ]
