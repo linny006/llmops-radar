@@ -1,12 +1,75 @@
 [
   {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 2,
+    "updated_at": "2026-07-29T16:58:15Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "A curated, auto-updating list of open-source guardrails for LLM applications: prompt-injection defense, PII, content saf",
+    "id": "royalpinto007/awesome-llm-guardrails",
+    "language": "HTML",
+    "name": "royalpinto007/awesome-llm-guardrails",
+    "stars": 0,
+    "updated_at": "2026-07-29T16:57:57Z",
+    "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
+  },
+  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-29T16:45:01Z",
+    "updated_at": "2026-07-29T16:57:27Z",
     "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "A curated list of tools, frameworks, benchmarks, and ideas for evaluating AI agents.",
+    "id": "royalpinto007/awesome-agent-evals",
+    "language": "\u2014",
+    "name": "royalpinto007/awesome-agent-evals",
+    "stars": 0,
+    "updated_at": "2026-07-29T16:55:09Z",
+    "url": "https://github.com/royalpinto007/awesome-agent-evals"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10799,
+    "updated_at": "2026-07-29T16:58:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 10,
+    "updated_at": "2026-07-29T16:52:34Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55020,
+    "updated_at": "2026-07-29T16:59:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T16:45:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -18,22 +81,22 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55020,
-    "updated_at": "2026-07-29T16:42:30Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T16:45:18Z",
+    "updated_at": "2026-07-29T17:00:09Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23728,
+    "updated_at": "2026-07-29T16:40:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
@@ -63,21 +126,12 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "A curated list of tools, frameworks, benchmarks, and ideas for evaluating AI agents.",
-    "id": "royalpinto007/awesome-agent-evals",
-    "language": "\u2014",
-    "name": "royalpinto007/awesome-agent-evals",
-    "stars": 0,
-    "updated_at": "2026-07-29T16:38:15Z",
-    "url": "https://github.com/royalpinto007/awesome-agent-evals"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32101,
-    "updated_at": "2026-07-29T16:37:33Z",
+    "updated_at": "2026-07-29T17:00:02Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-demo",
     "stars": 3,
-    "updated_at": "2026-07-29T16:36:55Z",
+    "updated_at": "2026-07-29T16:49:46Z",
     "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
     "id": "NekomyaDev/nudge",
     "language": "Rust",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1061,
-    "updated_at": "2026-07-29T16:35:54Z",
+    "updated_at": "2026-07-29T16:50:31Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -252,15 +297,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 10,
-    "updated_at": "2026-07-29T16:43:30Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
     "id": "fkiene/llmtrim",
     "language": "Rust",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-29T16:02:48Z",
+    "updated_at": "2026-07-29T16:46:22Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -311,7 +347,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-07-29T16:31:58Z",
+    "updated_at": "2026-07-29T16:51:14Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -342,21 +378,12 @@
     "url": "https://github.com/Masoud-Masoori/masoud-masoori"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10799,
-    "updated_at": "2026-07-29T16:38:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3126,
-    "updated_at": "2026-07-29T16:07:42Z",
+    "updated_at": "2026-07-29T16:48:38Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 3,
-    "updated_at": "2026-07-29T15:36:07Z",
+    "updated_at": "2026-07-29T16:51:52Z",
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2521,
     "updated_at": "2026-07-29T15:32:24Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
-    "id": "Arize-ai/arize-skills",
-    "language": "Python",
-    "name": "Arize-ai/arize-skills",
-    "stars": 40,
-    "updated_at": "2026-07-29T15:24:20Z",
-    "url": "https://github.com/Arize-ai/arize-skills"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-29T15:19:51Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
-    "id": "kreftamarcio/prompt-forge",
-    "language": "TypeScript",
-    "name": "kreftamarcio/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-07-29T15:18:06Z",
-    "url": "https://github.com/kreftamarcio/prompt-forge"
   }
 ]
