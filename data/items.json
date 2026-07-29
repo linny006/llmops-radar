@@ -1,5 +1,59 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 24,
+    "updated_at": "2026-07-29T16:14:36Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 10,
+    "updated_at": "2026-07-29T16:14:26Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55019,
+    "updated_at": "2026-07-29T16:13:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
+    "id": "msanket9/stillsane",
+    "language": "Python",
+    "name": "msanket9/stillsane",
+    "stars": 0,
+    "updated_at": "2026-07-29T16:12:58Z",
+    "url": "https://github.com/msanket9/stillsane"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 186,
+    "updated_at": "2026-07-29T16:11:09Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T16:09:53Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
     "id": "NekomyaDev/nudge",
     "language": "Rust",
@@ -18,13 +72,13 @@
     "url": "https://github.com/Hal-Hanami/incident-triage-agent"
   },
   {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 186,
-    "updated_at": "2026-07-29T16:06:27Z",
-    "url": "https://github.com/fkiene/llmtrim"
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 2,
+    "updated_at": "2026-07-29T16:05:26Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -32,7 +86,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T16:06:23Z",
+    "updated_at": "2026-07-29T16:11:54Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 24,
-    "updated_at": "2026-07-29T16:03:02Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -63,13 +108,13 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32099,
+    "updated_at": "2026-07-29T15:59:10Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
@@ -79,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-07-29T15:58:57Z",
     "url": "https://github.com/kai2055/incident-postmortem-assistant"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-29T15:58:09Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -117,15 +171,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55018,
-    "updated_at": "2026-07-29T16:06:24Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Masoud Masoori \u2014 Founder & CEO of MAS-AI Technologies; governed AI, agent orchestration, AI safety and security.",
     "id": "Masoud-Masoori/masoud-masoori",
     "language": "\u2014",
@@ -133,24 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T15:49:13Z",
     "url": "https://github.com/Masoud-Masoori/masoud-masoori"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-29T15:58:09Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32097,
-    "updated_at": "2026-07-29T15:59:10Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
@@ -252,15 +279,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 10,
-    "updated_at": "2026-07-29T16:05:47Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
     "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
     "id": "Arize-ai/arize-skills",
     "language": "Python",
@@ -304,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T15:13:49Z",
     "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
-    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
-    "id": "msanket9/stillsane",
-    "language": "Python",
-    "name": "msanket9/stillsane",
-    "stars": 0,
-    "updated_at": "2026-07-29T15:11:49Z",
-    "url": "https://github.com/msanket9/stillsane"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T14:15:04Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
-  },
-  {
-    "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
-    "id": "acornops/acornops",
-    "language": "JavaScript",
-    "name": "acornops/acornops",
-    "stars": 11,
-    "updated_at": "2026-07-29T14:11:23Z",
-    "url": "https://github.com/acornops/acornops"
   }
 ]
