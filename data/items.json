@@ -1,5 +1,86 @@
 [
   {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 3,
+    "updated_at": "2026-07-29T16:09:19Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Read-only first-pass incident triage on the Claude Agent SDK + MCP: classifies an alert, retrieves the matching runbook,",
+    "id": "Hal-Hanami/incident-triage-agent",
+    "language": "Python",
+    "name": "Hal-Hanami/incident-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-07-29T16:07:04Z",
+    "url": "https://github.com/Hal-Hanami/incident-triage-agent"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 186,
+    "updated_at": "2026-07-29T16:06:27Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-07-29T16:06:23Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 37,
+    "updated_at": "2026-07-29T16:04:12Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 24,
+    "updated_at": "2026-07-29T16:03:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-29T16:02:48Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T16:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
+    "id": "kai2055/incident-postmortem-assistant",
+    "language": "Python",
+    "name": "kai2055/incident-postmortem-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-29T15:58:57Z",
+    "url": "https://github.com/kai2055/incident-postmortem-assistant"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -14,26 +95,17 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-29T15:57:33Z",
+    "updated_at": "2026-07-29T16:02:07Z",
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
-    "id": "kai2055/incident-postmortem-assistant",
-    "language": "Python",
-    "name": "kai2055/incident-postmortem-assistant",
+    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
+    "id": "okfriansyah-moh/the-foundry",
+    "language": "Go",
+    "name": "okfriansyah-moh/the-foundry",
     "stars": 0,
-    "updated_at": "2026-07-29T15:58:57Z",
-    "url": "https://github.com/kai2055/incident-postmortem-assistant"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-07-29T15:57:23Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "updated_at": "2026-07-29T15:52:49Z",
+    "url": "https://github.com/okfriansyah-moh/the-foundry"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -50,17 +122,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55018,
-    "updated_at": "2026-07-29T15:51:37Z",
+    "updated_at": "2026-07-29T16:06:24Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 186,
-    "updated_at": "2026-07-29T15:51:10Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "Masoud Masoori \u2014 Founder & CEO of MAS-AI Technologies; governed AI, agent orchestration, AI safety and security.",
@@ -81,24 +144,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 3,
-    "updated_at": "2026-07-29T15:48:03Z",
-    "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T15:45:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -115,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T15:45:04Z",
     "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 24,
-    "updated_at": "2026-07-29T15:43:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3126,
-    "updated_at": "2026-07-29T15:40:34Z",
+    "updated_at": "2026-07-29T16:07:42Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T15:40:04Z",
     "url": "https://github.com/TechTideOhio/swarm-357"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-29T15:55:04Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 10,
-    "updated_at": "2026-07-29T15:28:39Z",
+    "updated_at": "2026-07-29T16:05:47Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 77,
-    "updated_at": "2026-07-29T15:34:22Z",
+    "updated_at": "2026-07-29T16:05:57Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5724,
-    "updated_at": "2026-07-29T15:57:07Z",
+    "updated_at": "2026-07-29T16:07:39Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -331,6 +358,15 @@
     "stars": 0,
     "updated_at": "2026-07-29T14:59:05Z",
     "url": "https://github.com/leptoquark/agentic-ai-book"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5658,
+    "updated_at": "2026-07-29T14:54:02Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-07-29T14:11:23Z",
     "url": "https://github.com/acornops/acornops"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-07-29T14:11:13Z",
-    "url": "https://github.com/acornops/docs-website"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-29T14:11:12Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-07-29T14:10:58Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
-    "id": "runcycles/cycles-client-typescript",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-client-typescript",
-    "stars": 0,
-    "updated_at": "2026-07-29T14:10:32Z",
-    "url": "https://github.com/runcycles/cycles-client-typescript"
   }
 ]
