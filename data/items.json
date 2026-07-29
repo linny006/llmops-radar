@@ -1,12 +1,48 @@
 [
   {
-    "description": "Hybrid Local/Web Agentic RAG system featuring layout-aware PDF parsing, cross-encoder reranking, and Ragas evaluation.",
-    "id": "Shubham-S151/Routing-and-Agentic-RAG",
+    "description": "Codice, fixture e laboratori del libro Architetture Agentiche",
+    "id": "leptoquark/agentic-ai-book",
     "language": "Python",
-    "name": "Shubham-S151/Routing-and-Agentic-RAG",
+    "name": "leptoquark/agentic-ai-book",
     "stars": 0,
-    "updated_at": "2026-07-29T14:45:28Z",
-    "url": "https://github.com/Shubham-S151/Routing-and-Agentic-RAG"
+    "updated_at": "2026-07-29T14:59:05Z",
+    "url": "https://github.com/leptoquark/agentic-ai-book"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-29T14:56:51Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 24,
+    "updated_at": "2026-07-29T14:56:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10797,
+    "updated_at": "2026-07-29T14:56:13Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5724,
+    "updated_at": "2026-07-29T14:54:12Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
@@ -14,17 +50,8 @@
     "language": "Rust",
     "name": "NekomyaDev/nudge",
     "stars": 3,
-    "updated_at": "2026-07-29T14:44:00Z",
+    "updated_at": "2026-07-29T14:53:33Z",
     "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T14:40:17Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -32,8 +59,71 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32095,
-    "updated_at": "2026-07-29T14:44:21Z",
+    "updated_at": "2026-07-29T14:59:43Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
+    "id": "msanket9/stillsane",
+    "language": "\u2014",
+    "name": "msanket9/stillsane",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:52:19Z",
+    "url": "https://github.com/msanket9/stillsane"
+  },
+  {
+    "description": "Hybrid Local/Web Agentic RAG system featuring layout-aware PDF parsing, cross-encoder reranking, and Ragas evaluation.",
+    "id": "Shubham-S151/Agentic-RAG-Researcher",
+    "language": "Python",
+    "name": "Shubham-S151/Agentic-RAG-Researcher",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:51:03Z",
+    "url": "https://github.com/Shubham-S151/Agentic-RAG-Researcher"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1520,
+    "updated_at": "2026-07-29T14:51:00Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-29T15:00:09Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T14:45:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55013,
+    "updated_at": "2026-07-29T14:44:27Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3426,
+    "updated_at": "2026-07-29T14:56:36Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
@@ -41,7 +131,7 @@
     "language": "JavaScript",
     "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
     "stars": 0,
-    "updated_at": "2026-07-29T14:39:28Z",
+    "updated_at": "2026-07-29T14:59:21Z",
     "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
   },
   {
@@ -81,24 +171,6 @@
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-29T14:42:41Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 24,
-    "updated_at": "2026-07-29T14:34:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -130,7 +202,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6876,
+    "stars": 6878,
     "updated_at": "2026-07-29T14:26:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -158,17 +230,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-07-29T14:45:03Z",
+    "updated_at": "2026-07-29T14:59:05Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10796,
-    "updated_at": "2026-07-29T14:42:14Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -243,33 +306,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55011,
-    "updated_at": "2026-07-29T14:44:27Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1520,
-    "updated_at": "2026-07-29T14:30:20Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3426,
-    "updated_at": "2026-07-29T14:43:40Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
     "id": "runcycles/cycles-client-rust",
     "language": "Rust",
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "coffeehc/xagent-docs",
     "stars": 1,
-    "updated_at": "2026-07-29T14:00:59Z",
+    "updated_at": "2026-07-29T14:59:09Z",
     "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1289,
-    "updated_at": "2026-07-29T14:37:01Z",
+    "updated_at": "2026-07-29T14:56:21Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -369,21 +405,12 @@
     "url": "https://github.com/adriencr81/Check-Alfred"
   },
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5724,
-    "updated_at": "2026-07-29T14:42:33Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20959,
-    "updated_at": "2026-07-29T14:36:37Z",
+    "updated_at": "2026-07-29T14:46:14Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -401,7 +428,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-29T13:30:38Z",
+    "updated_at": "2026-07-29T14:54:09Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 40,
     "updated_at": "2026-07-29T13:29:31Z",
     "url": "https://github.com/Arize-ai/arize-skills"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:27:29Z",
-    "url": "https://github.com/novafabric/novafabric"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-07-29T13:23:52Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3125,
-    "updated_at": "2026-07-29T14:45:06Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
