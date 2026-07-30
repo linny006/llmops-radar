@@ -1,21 +1,39 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10802,
-    "updated_at": "2026-07-30T01:30:25Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55038,
-    "updated_at": "2026-07-30T01:29:12Z",
+    "updated_at": "2026-07-30T01:44:01Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2523,
+    "updated_at": "2026-07-30T01:39:34Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T01:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10802,
+    "updated_at": "2026-07-30T01:41:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents",
@@ -52,24 +70,6 @@
     "stars": 75,
     "updated_at": "2026-07-30T01:17:22Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2522,
-    "updated_at": "2026-07-30T01:15:49Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T01:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
@@ -158,7 +158,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29449,
-    "updated_at": "2026-07-30T00:21:48Z",
+    "updated_at": "2026-07-30T01:41:30Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -193,7 +193,7 @@
     "id": "Yacine-ai-tech/RAGeval",
     "language": "TypeScript",
     "name": "Yacine-ai-tech/RAGeval",
-    "stars": 3,
+    "stars": 2,
     "updated_at": "2026-07-30T00:10:53Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
@@ -256,7 +256,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6882,
+    "stars": 6883,
     "updated_at": "2026-07-29T23:27:01Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -284,7 +284,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 68,
-    "updated_at": "2026-07-30T01:06:36Z",
+    "updated_at": "2026-07-30T01:40:45Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -310,7 +310,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32118,
+    "stars": 32119,
     "updated_at": "2026-07-29T22:55:23Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -328,7 +328,7 @@
     "id": "wjlgatech/FM-os",
     "language": "Python",
     "name": "wjlgatech/FM-os",
-    "stars": 2,
+    "stars": 1,
     "updated_at": "2026-07-29T22:48:34Z",
     "url": "https://github.com/wjlgatech/FM-os"
   },
@@ -337,7 +337,7 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1524,
+    "stars": 1525,
     "updated_at": "2026-07-29T22:31:38Z",
     "url": "https://github.com/future-agi/future-agi"
   },
