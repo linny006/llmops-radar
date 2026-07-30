@@ -1,12 +1,75 @@
 [
   {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Python",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:08:26Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 24,
+    "updated_at": "2026-07-30T07:06:09Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
+    "id": "bosun-ai/swiftide",
+    "language": "Rust",
+    "name": "bosun-ai/swiftide",
+    "stars": 739,
+    "updated_at": "2026-07-30T07:06:43Z",
+    "url": "https://github.com/bosun-ai/swiftide"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:03:45Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6888,
+    "updated_at": "2026-07-30T07:02:51Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55064,
-    "updated_at": "2026-07-30T06:59:05Z",
+    "stars": 55066,
+    "updated_at": "2026-07-30T07:01:34Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 2,
+    "updated_at": "2026-07-30T07:01:09Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T07:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -41,17 +104,17 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 12,
-    "updated_at": "2026-07-30T06:48:37Z",
+    "updated_at": "2026-07-30T07:14:00Z",
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T06:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "future-agi/future-agi",
+    "stars": 1527,
+    "updated_at": "2026-07-30T06:45:27Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
@@ -99,6 +162,24 @@
     "url": "https://github.com/Debasish-87/SLP"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10807,
+    "updated_at": "2026-07-30T07:09:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8094,
+    "updated_at": "2026-07-30T06:24:47Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -108,21 +189,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6887,
-    "updated_at": "2026-07-30T06:54:31Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27272,
-    "updated_at": "2026-07-30T06:49:19Z",
+    "updated_at": "2026-07-30T07:13:54Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -139,18 +211,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23746,
+    "stars": 23747,
     "updated_at": "2026-07-30T06:04:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8093,
-    "updated_at": "2026-07-30T06:24:47Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
@@ -175,7 +238,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29454,
+    "stars": 29455,
     "updated_at": "2026-07-30T05:54:37Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -234,15 +297,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10806,
-    "updated_at": "2026-07-30T06:26:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -261,15 +315,6 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
-    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
-    "id": "Bobcatsfan33/Pharos",
-    "language": "TypeScript",
-    "name": "Bobcatsfan33/Pharos",
-    "stars": 2,
-    "updated_at": "2026-07-30T06:58:39Z",
-    "url": "https://github.com/Bobcatsfan33/Pharos"
-  },
-  {
     "description": "Explainability as a pipeline stage \u2014 versioned, partitioned, queryable explanations for production ML (Parquet store + a",
     "id": "shashwatsaxena571/explainops",
     "language": "Python",
@@ -284,7 +329,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3428,
-    "updated_at": "2026-07-30T06:57:54Z",
+    "updated_at": "2026-07-30T07:14:35Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -320,17 +365,8 @@
     "language": "JavaScript",
     "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
     "stars": 0,
-    "updated_at": "2026-07-30T04:51:57Z",
+    "updated_at": "2026-07-30T07:13:15Z",
     "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 24,
-    "updated_at": "2026-07-30T05:43:22Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T03:40:46Z",
     "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-07-30T03:39:43Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Arize Phoenix APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/phoenix",
-    "language": "\u2014",
-    "name": "api-evangelist/phoenix",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:34:53Z",
-    "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:33:23Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Opik APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/opik",
-    "language": "\u2014",
-    "name": "api-evangelist/opik",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:33:14Z",
-    "url": "https://github.com/api-evangelist/opik"
   }
 ]
