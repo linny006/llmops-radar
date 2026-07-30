@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-30 23:30 UTC
+> ⏰ Last updated: 2026-07-30 23:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-30 | ThakiCloud Tech Blog |
-| 2 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | TypeScript | 2026-07-30 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 3 | [Drlinglong/Remis](https://github.com/Drlinglong/Remis) | 24 | Python | 2026-07-30 | AI-native desktop localization system for Paradox mods—LLM orchestration, context engineering, structured validation, re |
-| 4 | [evince55/aria-llmops](https://github.com/evince55/aria-llmops) | 0 | Python | 2026-07-30 | Stdlib-only LLMOps: cost-aware model routing, evals, and honest telemetry — measured on real usage (162 tests) |
-| 5 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29473 | TypeScript | 2026-07-30 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 633 | Python | 2026-07-30 | Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + lo |
+| 1 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 633 | Python | 2026-07-30 | Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + lo |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-07-30 | ThakiCloud Tech Blog |
+| 4 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | TypeScript | 2026-07-30 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 5 | [Drlinglong/Remis](https://github.com/Drlinglong/Remis) | 24 | Python | 2026-07-30 | AI-native desktop localization system for Paradox mods—LLM orchestration, context engineering, structured validation, re |
+| 6 | [evince55/aria-llmops](https://github.com/evince55/aria-llmops) | 0 | Python | 2026-07-30 | Stdlib-only LLMOps: cost-aware model routing, evals, and honest telemetry — measured on real usage (162 tests) |
+| 7 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29473 | TypeScript | 2026-07-30 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 8 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-07-30 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
 | 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10818 | Python | 2026-07-30 | AI Observability & Evaluation |
 | 10 | [dshakes/clickllm](https://github.com/dshakes/clickllm) | 1 | Python | 2026-07-30 | Prove which open model can replace your closed one — on your traffic, your hardware, your budget. Then move you there wi |
@@ -83,7 +83,7 @@ expired items removed — so you can rely on what you see being current.
 | 39 | [runcycles/cycles-claude-plugin](https://github.com/runcycles/cycles-claude-plugin) | 0 | JavaScript | 2026-07-30 | Hard budget enforcement for Claude Code tool calls — PreToolUse gating, AI-agent cost control, Cycles usage metering, an |
 | 40 | [novafabric/novafabric](https://github.com/novafabric/novafabric) | 1 | Python | 2026-07-30 | Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted |
 | 41 | [Yacine-ai-tech/RAGeval](https://github.com/Yacine-ai-tech/RAGeval) | 1 | TypeScript | 2026-07-30 | Drop-in LLMOps observability for RAG — multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT |
-| 42 | [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) | 751 | Rust | 2026-07-30 | Fast, streaming indexing, query, and agentic LLM applications in Rust |
+| 42 | [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) | 752 | Rust | 2026-07-30 | Fast, streaming indexing, query, and agentic LLM applications in Rust |
 | 43 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27285 | Python | 2026-07-30 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 44 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32184 | TypeScript | 2026-07-30 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 45 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-07-30 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
