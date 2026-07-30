@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
+    "id": "aibim-ai/AI-Supply-Chain-Trust",
+    "language": "Rust",
+    "name": "aibim-ai/AI-Supply-Chain-Trust",
+    "stars": 2,
+    "updated_at": "2026-07-29T23:59:32Z",
+    "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-07-29T23:58:58Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 24,
+    "updated_at": "2026-07-29T23:45:33Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T23:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55034,
-    "updated_at": "2026-07-29T23:45:10Z",
+    "updated_at": "2026-07-29T23:59:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -59,17 +95,8 @@
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 3,
-    "updated_at": "2026-07-29T23:38:34Z",
+    "updated_at": "2026-07-29T23:48:52Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T23:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29448,
-    "updated_at": "2026-07-29T23:45:05Z",
+    "updated_at": "2026-07-29T23:58:51Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -135,15 +162,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-07-29T22:59:37Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
     "id": "santiag6001/llm-engineering-platform",
     "language": "Python",
@@ -160,6 +178,15 @@
     "stars": 3,
     "updated_at": "2026-07-29T22:58:45Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32115,
+    "updated_at": "2026-07-29T22:55:23Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10801,
-    "updated_at": "2026-07-29T23:32:05Z",
+    "updated_at": "2026-07-29T23:56:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -295,24 +322,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T21:42:49Z",
     "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 24,
-    "updated_at": "2026-07-29T21:38:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32114,
-    "updated_at": "2026-07-29T22:55:23Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Autonomous multi-agent issue-to-PR system for AI software engineering workflows",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-29T19:58:38Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-07-29T19:51:14Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
