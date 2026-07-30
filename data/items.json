@@ -1,5 +1,86 @@
 [
   {
+    "description": "Terminal-first, self-hosted AI gateway for models, agents, knowledge and tools. One-command Docker demo; no account or A",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-07-30T10:14:10Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-30T10:12:33Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-pas",
+    "id": "QuesmaOrg/awesome-ai-tokenomics",
+    "language": "Python",
+    "name": "QuesmaOrg/awesome-ai-tokenomics",
+    "stars": 96,
+    "updated_at": "2026-07-30T10:11:56Z",
+    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29461,
+    "updated_at": "2026-07-30T10:11:00Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Zero-dependency Go LLM gateway: provider failover, response caching, per-tenant budgets, and cost accounting that reconc",
+    "id": "harsha-moparthy/llmgw",
+    "language": "Go",
+    "name": "harsha-moparthy/llmgw",
+    "stars": 0,
+    "updated_at": "2026-07-30T10:06:50Z",
+    "url": "https://github.com/harsha-moparthy/llmgw"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 6,
+    "updated_at": "2026-07-30T10:04:32Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 77,
+    "updated_at": "2026-07-30T10:09:03Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T10:00:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55079,
+    "updated_at": "2026-07-30T10:00:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Hands-on LLMOps learning lab - LLM gateway, RAG pipeline, AI security concepts, Prometheus/Grafana observability",
     "id": "DerbSwag/llmops-platform-lab",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Open, terminal-first AI gateway for multi-model routing, governed agents, knowledge and tools. Local, credential-free fi",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-07-30T09:57:52Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -40,18 +112,9 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6892,
+    "stars": 6893,
     "updated_at": "2026-07-30T09:54:03Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29459,
-    "updated_at": "2026-07-30T09:55:38Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-30T09:50:04Z",
+    "updated_at": "2026-07-30T10:07:47Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -90,22 +153,13 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T09:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-30T09:51:51Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+    "name": "dataelement/bisheng",
+    "stars": 11800,
+    "updated_at": "2026-07-30T10:06:11Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27274,
-    "updated_at": "2026-07-30T09:40:06Z",
+    "updated_at": "2026-07-30T10:11:50Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -167,17 +221,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32153,
-    "updated_at": "2026-07-30T09:58:50Z",
+    "updated_at": "2026-07-30T10:14:53Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 77,
-    "updated_at": "2026-07-30T10:00:13Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Route the task before you run it - surface, model and budget in one card. A Claude skill for spending tokens where they ",
@@ -203,17 +248,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3430,
-    "updated_at": "2026-07-30T09:59:19Z",
+    "updated_at": "2026-07-30T10:11:14Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55078,
-    "updated_at": "2026-07-30T10:00:22Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -257,7 +293,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 2,
-    "updated_at": "2026-07-30T09:08:12Z",
+    "updated_at": "2026-07-30T10:01:50Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -274,7 +310,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10811,
+    "stars": 10812,
     "updated_at": "2026-07-30T08:58:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -288,15 +324,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Zero-dependency Go LLM gateway: provider failover, response caching, per-tenant budgets, and cost accounting that reconc",
-    "id": "harsha-moparthy/llmgw",
-    "language": "Go",
-    "name": "harsha-moparthy/llmgw",
-    "stars": 0,
-    "updated_at": "2026-07-30T08:52:15Z",
-    "url": "https://github.com/harsha-moparthy/llmgw"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -306,21 +333,12 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 6,
-    "updated_at": "2026-07-30T08:48:33Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 24,
-    "updated_at": "2026-07-30T09:34:30Z",
+    "updated_at": "2026-07-30T10:08:55Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20978,
-    "updated_at": "2026-07-30T10:00:33Z",
+    "updated_at": "2026-07-30T10:10:01Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -340,24 +358,6 @@
     "stars": 7,
     "updated_at": "2026-07-30T08:44:22Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11799,
-    "updated_at": "2026-07-30T09:40:13Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-pas",
-    "id": "QuesmaOrg/awesome-ai-tokenomics",
-    "language": "Python",
-    "name": "QuesmaOrg/awesome-ai-tokenomics",
-    "stars": 96,
-    "updated_at": "2026-07-30T09:22:54Z",
-    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics"
   },
   {
     "description": "Benchmark LLMs head-to-head on your own prompts. ",
