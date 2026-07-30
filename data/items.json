@@ -1,12 +1,30 @@
 [
   {
-    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 26,
-    "updated_at": "2026-07-30T21:56:32Z",
-    "url": "https://github.com/solomon2773/nora"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55117,
+    "updated_at": "2026-07-30T22:11:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-30T22:10:53Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-07-30T22:10:31Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
@@ -14,8 +32,62 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kmemo",
     "stars": 4,
-    "updated_at": "2026-07-30T21:57:14Z",
+    "updated_at": "2026-07-30T22:10:01Z",
     "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 10,
+    "updated_at": "2026-07-30T22:07:24Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Read-only first-pass incident triage on the Claude Agent SDK + MCP: classifies an alert, retrieves the matching runbook,",
+    "id": "Hal-Hanami/incident-triage-agent",
+    "language": "Python",
+    "name": "Hal-Hanami/incident-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-07-30T22:05:35Z",
+    "url": "https://github.com/Hal-Hanami/incident-triage-agent"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 38,
+    "updated_at": "2026-07-30T22:02:49Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
+    "id": "cendorhq/cendor-cookbook",
+    "language": "Python",
+    "name": "cendorhq/cendor-cookbook",
+    "stars": 0,
+    "updated_at": "2026-07-30T22:06:13Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T22:00:52Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 26,
+    "updated_at": "2026-07-30T21:56:32Z",
+    "url": "https://github.com/solomon2773/nora"
   },
   {
     "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
@@ -41,35 +113,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-30T21:58:17Z",
+    "updated_at": "2026-07-30T22:14:35Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55116,
-    "updated_at": "2026-07-30T21:54:30Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Read-only first-pass incident triage on the Claude Agent SDK + MCP: classifies an alert, retrieves the matching runbook,",
-    "id": "Hal-Hanami/incident-triage-agent",
-    "language": "Python",
-    "name": "Hal-Hanami/incident-triage-agent",
-    "stars": 0,
-    "updated_at": "2026-07-30T21:46:19Z",
-    "url": "https://github.com/Hal-Hanami/incident-triage-agent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T21:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23763,
-    "updated_at": "2026-07-30T21:36:09Z",
+    "updated_at": "2026-07-30T22:03:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -144,15 +189,6 @@
     "url": "https://github.com/runcycles/cycles-claude-plugin"
   },
   {
-    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
-    "id": "cendorhq/cendor-cookbook",
-    "language": "Python",
-    "name": "cendorhq/cendor-cookbook",
-    "stars": 0,
-    "updated_at": "2026-07-30T21:19:00Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -171,15 +207,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-30T21:04:17Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
     "id": "novafabric/novafabric",
     "language": "Python",
@@ -189,21 +216,12 @@
     "url": "https://github.com/novafabric/novafabric"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-07-30T21:21:46Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10817,
-    "updated_at": "2026-07-30T21:43:22Z",
+    "updated_at": "2026-07-30T22:14:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -212,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3436,
-    "updated_at": "2026-07-30T22:00:31Z",
+    "updated_at": "2026-07-30T22:13:45Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -256,7 +274,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32183,
+    "stars": 32184,
     "updated_at": "2026-07-30T20:15:01Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T18:06:57Z",
     "url": "https://github.com/wjlgatech/FM-os"
-  },
-  {
-    "description": "Starter kit for building Cortex Agents like software: semantic views, agent specs, evaluations, and scheduling as code i",
-    "id": "innovation-igloo/cortex-agents-dbt-project-template",
-    "language": "\u2014",
-    "name": "innovation-igloo/cortex-agents-dbt-project-template",
-    "stars": 2,
-    "updated_at": "2026-07-30T17:59:37Z",
-    "url": "https://github.com/innovation-igloo/cortex-agents-dbt-project-template"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-07-30T17:38:44Z",
-    "url": "https://github.com/umutkeltek/switchback"
   }
 ]
