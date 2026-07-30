@@ -5,8 +5,44 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kmemo",
     "stars": 4,
-    "updated_at": "2026-07-30T22:27:18Z",
+    "updated_at": "2026-07-30T22:42:16Z",
     "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10818,
+    "updated_at": "2026-07-30T22:41:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 633,
+    "updated_at": "2026-07-30T22:40:17Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-30T22:43:34Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T22:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
@@ -27,21 +63,12 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10817,
-    "updated_at": "2026-07-30T22:26:55Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
     "id": "solomon2773/nora",
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 26,
-    "updated_at": "2026-07-30T22:23:26Z",
+    "updated_at": "2026-07-30T22:41:45Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
@@ -54,22 +81,22 @@
     "url": "https://github.com/Drlinglong/Remis"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T22:18:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55117,
-    "updated_at": "2026-07-30T22:20:53Z",
+    "updated_at": "2026-07-30T22:33:54Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23764,
+    "updated_at": "2026-07-30T22:16:16Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -135,15 +162,6 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-30T22:28:15Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -162,15 +180,6 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23763,
-    "updated_at": "2026-07-30T22:16:16Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
     "id": "cendorhq/cendor-libs",
     "language": "Python",
@@ -180,6 +189,15 @@
     "url": "https://github.com/cendorhq/cendor-libs"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6907,
+    "updated_at": "2026-07-30T21:32:46Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -187,15 +205,6 @@
     "stars": 16,
     "updated_at": "2026-07-30T22:19:48Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6906,
-    "updated_at": "2026-07-30T21:32:46Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -248,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3436,
-    "updated_at": "2026-07-30T22:13:45Z",
+    "updated_at": "2026-07-30T22:32:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -355,7 +364,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 354,
+    "stars": 355,
     "updated_at": "2026-07-30T19:45:51Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -437,16 +446,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-30T22:22:33Z",
+    "updated_at": "2026-07-30T22:40:29Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-07-30T18:36:58Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
   }
 ]
