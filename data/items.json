@@ -1,11 +1,56 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10817,
+    "updated_at": "2026-07-30T20:44:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 8,
+    "updated_at": "2026-07-30T20:40:50Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3436,
+    "updated_at": "2026-07-30T20:45:10Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 1,
+    "updated_at": "2026-07-30T20:33:45Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T20:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55116,
-    "updated_at": "2026-07-30T20:29:52Z",
+    "updated_at": "2026-07-30T20:41:05Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -27,15 +72,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T20:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -43,6 +79,15 @@
     "stars": 32182,
     "updated_at": "2026-07-30T20:15:01Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6904,
+    "updated_at": "2026-07-30T20:02:37Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -70,6 +115,15 @@
     "stars": 2,
     "updated_at": "2026-07-30T19:58:36Z",
     "url": "https://github.com/Kkartik14/Earshot"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20994,
+    "updated_at": "2026-07-30T19:54:10Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
@@ -126,21 +180,12 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3436,
-    "updated_at": "2026-07-30T20:30:11Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-30T20:29:57Z",
+    "updated_at": "2026-07-30T20:43:45Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-30T20:26:19Z",
+    "updated_at": "2026-07-30T20:45:00Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T19:20:02Z",
     "url": "https://github.com/harsha-moparthy/tripwire"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10817,
-    "updated_at": "2026-07-30T20:08:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
@@ -257,17 +293,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-30T20:13:33Z",
+    "updated_at": "2026-07-30T20:35:12Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20993,
-    "updated_at": "2026-07-30T19:54:10Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
@@ -277,15 +304,6 @@
     "stars": 750,
     "updated_at": "2026-07-30T20:22:54Z",
     "url": "https://github.com/bosun-ai/swiftide"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6903,
-    "updated_at": "2026-07-30T20:02:37Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T16:43:04Z",
     "url": "https://github.com/acornops/docs-website"
-  },
-  {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:41:03Z",
-    "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
-    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
-    "id": "acornops/agentk",
-    "language": "TypeScript",
-    "name": "acornops/agentk",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:41:03Z",
-    "url": "https://github.com/acornops/agentk"
   }
 ]
