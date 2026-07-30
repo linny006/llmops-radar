@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 0,
+    "updated_at": "2026-07-30T00:14:34Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T00:12:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
     "id": "novafabric/novafabric",
     "language": "Python",
@@ -45,6 +63,15 @@
     "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10802,
+    "updated_at": "2026-07-30T00:02:45Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -52,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-07-30T00:02:28Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T00:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55034,
-    "updated_at": "2026-07-30T00:12:09Z",
+    "updated_at": "2026-07-30T00:14:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29448,
-    "updated_at": "2026-07-30T00:10:35Z",
+    "updated_at": "2026-07-30T00:12:54Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3427,
-    "updated_at": "2026-07-30T00:10:00Z",
+    "updated_at": "2026-07-30T00:14:01Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -268,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T22:16:29Z",
     "url": "https://github.com/jgobuilds/ai-control-plane-public"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10801,
-    "updated_at": "2026-07-30T00:02:45Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T20:10:36Z",
     "url": "https://github.com/Anonymousyz/awesome-ai-production-readiness"
-  },
-  {
-    "description": "AI deployment readiness toolkit: local 70-point CLI, veto gates, governance artifacts, and fictional cases.",
-    "id": "Anonymousyz/ai-prototype-to-production-toolkit",
-    "language": "Python",
-    "name": "Anonymousyz/ai-prototype-to-production-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-29T20:09:44Z",
-    "url": "https://github.com/Anonymousyz/ai-prototype-to-production-toolkit"
   }
 ]
