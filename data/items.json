@@ -1,11 +1,65 @@
 [
   {
+    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
+    "id": "vul-os/llmux",
+    "language": "Go",
+    "name": "vul-os/llmux",
+    "stars": 2,
+    "updated_at": "2026-07-30T21:29:50Z",
+    "url": "https://github.com/vul-os/llmux"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 2,
+    "updated_at": "2026-07-30T21:28:02Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55116,
+    "updated_at": "2026-07-30T21:27:33Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Hard budget enforcement for Claude Code tool calls \u2014 PreToolUse gating, AI-agent cost control, Cycles usage metering, an",
+    "id": "runcycles/cycles-claude-plugin",
+    "language": "JavaScript",
+    "name": "runcycles/cycles-claude-plugin",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:24:09Z",
+    "url": "https://github.com/runcycles/cycles-claude-plugin"
+  },
+  {
+    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
+    "id": "cendorhq/cendor-cookbook",
+    "language": "Python",
+    "name": "cendorhq/cendor-cookbook",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:19:00Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T21:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-30T21:15:07Z",
+    "updated_at": "2026-07-30T21:29:52Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 6905,
     "updated_at": "2026-07-30T21:11:26Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55116,
-    "updated_at": "2026-07-30T21:10:28Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T21:07:06Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T21:04:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -76,7 +112,7 @@
     "id": "SourceShift/mini-ork",
     "language": "Python",
     "name": "SourceShift/mini-ork",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-07-30T20:49:47Z",
     "url": "https://github.com/SourceShift/mini-ork"
   },
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-30T20:46:40Z",
+    "updated_at": "2026-07-30T21:21:46Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -104,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3436,
-    "updated_at": "2026-07-30T21:14:03Z",
+    "updated_at": "2026-07-30T21:25:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -124,6 +160,15 @@
     "stars": 751,
     "updated_at": "2026-07-30T20:22:54Z",
     "url": "https://github.com/bosun-ai/swiftide"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27285,
+    "updated_at": "2026-07-30T20:19:41Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 68,
-    "updated_at": "2026-07-30T21:13:55Z",
+    "updated_at": "2026-07-30T21:22:44Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -297,21 +342,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
-    "id": "vul-os/llmux",
-    "language": "Go",
-    "name": "vul-os/llmux",
-    "stars": 2,
-    "updated_at": "2026-07-30T18:54:47Z",
-    "url": "https://github.com/vul-os/llmux"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-30T20:35:12Z",
+    "updated_at": "2026-07-30T21:26:30Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-07-30T20:54:53Z",
+    "updated_at": "2026-07-30T21:17:35Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
-    "id": "acornops/acornops",
-    "language": "JavaScript",
-    "name": "acornops/acornops",
-    "stars": 11,
-    "updated_at": "2026-07-30T16:57:11Z",
-    "url": "https://github.com/acornops/acornops"
-  },
-  {
-    "description": "Curated list of tools, standards, and platforms for LLM and AI-agent observability: OpenTelemetry GenAI conventions, tra",
-    "id": "anhermon/awesome-agent-observability",
-    "language": "\u2014",
-    "name": "anhermon/awesome-agent-observability",
-    "stars": 0,
-    "updated_at": "2026-07-30T16:51:23Z",
-    "url": "https://github.com/anhermon/awesome-agent-observability"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:50:40Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Terminal-first, self-hosted AI gateway with an 8-tool Codex MCP server. One-command Docker demo; no account or API key r",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:43:48Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   }
 ]
