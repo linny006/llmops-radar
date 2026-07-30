@@ -1,12 +1,111 @@
 [
   {
+    "description": "Terminal-first, self-hosted AI gateway with an 8-tool Codex MCP server. One-command Docker demo; no account or API key r",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-07-30T16:43:48Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 2,
+    "updated_at": "2026-07-30T16:41:03Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
+    "id": "acornops/execution-engine",
+    "language": "Python",
+    "name": "acornops/execution-engine",
+    "stars": 2,
+    "updated_at": "2026-07-30T16:41:03Z",
+    "url": "https://github.com/acornops/execution-engine"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-07-30T16:41:03Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
+    "id": "wjlgatech/FM-os",
+    "language": "Python",
+    "name": "wjlgatech/FM-os",
+    "stars": 1,
+    "updated_at": "2026-07-30T16:40:10Z",
+    "url": "https://github.com/wjlgatech/FM-os"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-30T16:39:13Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-30T16:39:08Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Out-Of-Tree Llama Stack Eval Provider for Red Teaming LLM Systems with Garak",
+    "id": "trustyai-explainability/llama-stack-provider-trustyai-garak",
+    "language": "Python",
+    "name": "trustyai-explainability/llama-stack-provider-trustyai-garak",
+    "stars": 2,
+    "updated_at": "2026-07-30T16:38:24Z",
+    "url": "https://github.com/trustyai-explainability/llama-stack-provider-trustyai-garak"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1123,
+    "updated_at": "2026-07-30T16:37:08Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32175,
-    "updated_at": "2026-07-30T16:28:26Z",
+    "updated_at": "2026-07-30T16:45:20Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 71,
+    "updated_at": "2026-07-30T16:44:11Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T16:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -14,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3435,
-    "updated_at": "2026-07-30T16:26:38Z",
+    "updated_at": "2026-07-30T16:35:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -23,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20988,
-    "updated_at": "2026-07-30T16:25:12Z",
+    "updated_at": "2026-07-30T16:37:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -32,7 +131,7 @@
     "language": "MDX",
     "name": "acornops/docs-website",
     "stars": 1,
-    "updated_at": "2026-07-30T16:18:20Z",
+    "updated_at": "2026-07-30T16:43:04Z",
     "url": "https://github.com/acornops/docs-website"
   },
   {
@@ -43,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T16:18:19Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Out-Of-Tree Llama Stack Eval Provider for Red Teaming LLM Systems with Garak",
-    "id": "trustyai-explainability/llama-stack-provider-trustyai-garak",
-    "language": "Python",
-    "name": "trustyai-explainability/llama-stack-provider-trustyai-garak",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:30:13Z",
-    "url": "https://github.com/trustyai-explainability/llama-stack-provider-trustyai-garak"
   },
   {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
@@ -67,7 +157,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29466,
+    "stars": 29467,
     "updated_at": "2026-07-30T16:16:59Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -77,17 +167,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10815,
-    "updated_at": "2026-07-30T16:15:37Z",
+    "updated_at": "2026-07-30T16:45:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
@@ -104,17 +185,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-30T16:12:58Z",
+    "updated_at": "2026-07-30T16:40:43Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Terminal-first, self-hosted AI gateway with an 8-tool Codex MCP server. One-command Docker demo; no account or API key r",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:12:51Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -130,7 +202,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6900,
+    "stars": 6901,
     "updated_at": "2026-07-30T16:10:56Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -153,15 +225,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
-    "id": "wjlgatech/FM-os",
-    "language": "Python",
-    "name": "wjlgatech/FM-os",
-    "stars": 1,
-    "updated_at": "2026-07-30T16:06:19Z",
-    "url": "https://github.com/wjlgatech/FM-os"
-  },
-  {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
     "id": "sauravbhattacharya001/prompt",
     "language": "C#",
@@ -176,7 +239,7 @@
     "language": "TypeScript",
     "name": "Amitcoh1/agentbreaker",
     "stars": 4,
-    "updated_at": "2026-07-30T16:04:43Z",
+    "updated_at": "2026-07-30T16:42:25Z",
     "url": "https://github.com/Amitcoh1/agentbreaker"
   },
   {
@@ -194,17 +257,8 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-07-30T15:58:51Z",
+    "updated_at": "2026-07-30T16:37:35Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 71,
-    "updated_at": "2026-07-30T16:30:22Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -232,24 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T15:51:30Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1123,
-    "updated_at": "2026-07-30T16:29:16Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-30T15:49:02Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
@@ -295,6 +331,15 @@
     "stars": 0,
     "updated_at": "2026-07-30T15:21:48Z",
     "url": "https://github.com/kreftamarcio/prompt-forge"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23760,
+    "updated_at": "2026-07-30T15:20:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
@@ -360,15 +405,6 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-30T16:27:44Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
     "id": "bosun-ai/swiftide",
     "language": "Rust",
@@ -412,41 +448,5 @@
     "stars": 24,
     "updated_at": "2026-07-30T15:44:58Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-30T14:36:57Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
-    "id": "runcycles/cycles-server",
-    "language": "Java",
-    "name": "runcycles/cycles-server",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:36:52Z",
-    "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-07-30T16:24:25Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 1,
-    "updated_at": "2026-07-30T14:20:37Z",
-    "url": "https://github.com/novafabric/novafabric"
   }
 ]
