@@ -1,5 +1,77 @@
 [
   {
+    "description": "Explainability as a pipeline stage \u2014 versioned, partitioned, queryable explanations for production ML (Parquet store + a",
+    "id": "shashwatsaxena571/explainops",
+    "language": "Python",
+    "name": "shashwatsaxena571/explainops",
+    "stars": 0,
+    "updated_at": "2026-07-30T05:13:59Z",
+    "url": "https://github.com/shashwatsaxena571/explainops"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3428,
+    "updated_at": "2026-07-30T05:08:43Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27270,
+    "updated_at": "2026-07-30T05:08:43Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-30T05:05:02Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
+    "id": "okfriansyah-moh/the-foundry",
+    "language": "Go",
+    "name": "okfriansyah-moh/the-foundry",
+    "stars": 0,
+    "updated_at": "2026-07-30T05:00:47Z",
+    "url": "https://github.com/okfriansyah-moh/the-foundry"
+  },
+  {
+    "description": "Conversational product recommender: one rating-aware ranking core, two retrieval backends - Qdrant hybrid RAG over your ",
+    "id": "ghourimarti/Product-Recommender-Engine",
+    "language": "Python",
+    "name": "ghourimarti/Product-Recommender-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-30T05:00:43Z",
+    "url": "https://github.com/ghourimarti/Product-Recommender-Engine"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T05:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "",
+    "id": "coffeehc/xagent-docs",
+    "language": "TypeScript",
+    "name": "coffeehc/xagent-docs",
+    "stars": 1,
+    "updated_at": "2026-07-30T05:00:10Z",
+    "url": "https://github.com/coffeehc/xagent-docs"
+  },
+  {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
     "id": "Bobcatsfan33/AI-Security-Platform",
     "language": "Python",
@@ -18,21 +90,12 @@
     "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T04:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
     "id": "Bobcatsfan33/Pharos",
     "language": "TypeScript",
     "name": "Bobcatsfan33/Pharos",
     "stars": 2,
-    "updated_at": "2026-07-30T04:38:45Z",
+    "updated_at": "2026-07-30T05:14:03Z",
     "url": "https://github.com/Bobcatsfan33/Pharos"
   },
   {
@@ -41,17 +104,8 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 24,
-    "updated_at": "2026-07-30T04:34:06Z",
+    "updated_at": "2026-07-30T05:13:07Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27269,
-    "updated_at": "2026-07-30T04:30:09Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55056,
-    "updated_at": "2026-07-30T05:00:07Z",
+    "updated_at": "2026-07-30T05:13:41Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-07-30T04:48:17Z",
+    "updated_at": "2026-07-30T05:14:45Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -76,7 +130,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6884,
+    "stars": 6886,
     "updated_at": "2026-07-30T04:15:56Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -171,6 +225,15 @@
     "url": "https://github.com/api-evangelist/zenml"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10805,
+    "updated_at": "2026-07-30T03:44:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents",
     "id": "naturaljam/SpanVouch",
     "language": "Python",
@@ -205,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T03:34:53Z",
     "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "TypeScript",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-07-30T05:00:10Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -295,15 +349,6 @@
     "stars": 1290,
     "updated_at": "2026-07-30T04:54:22Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10804,
-    "updated_at": "2026-07-30T03:44:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
@@ -403,50 +448,5 @@
     "stars": 20970,
     "updated_at": "2026-07-30T01:47:56Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-07-30T01:46:51Z",
-    "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2525,
-    "updated_at": "2026-07-30T01:39:34Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-30T02:20:29Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
-    "id": "runcycles/cycles-spring-ai-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-ai-starter",
-    "stars": 0,
-    "updated_at": "2026-07-30T00:55:33Z",
-    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
-  },
-  {
-    "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
-    "id": "aibim-ai/AI-Supply-Chain-Trust",
-    "language": "Rust",
-    "name": "aibim-ai/AI-Supply-Chain-Trust",
-    "stars": 2,
-    "updated_at": "2026-07-30T00:46:36Z",
-    "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
   }
 ]
