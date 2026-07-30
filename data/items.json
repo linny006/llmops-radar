@@ -1,5 +1,140 @@
 [
   {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-30T08:29:30Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 77,
+    "updated_at": "2026-07-30T08:29:13Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Benchmark LLMs head-to-head on your own prompts. ",
+    "id": "orq-ai/orq-arena",
+    "language": "Python",
+    "name": "orq-ai/orq-arena",
+    "stars": 18,
+    "updated_at": "2026-07-30T08:27:51Z",
+    "url": "https://github.com/orq-ai/orq-arena"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 2,
+    "updated_at": "2026-07-30T08:26:42Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-07-30T08:25:58Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32144,
+    "updated_at": "2026-07-30T08:25:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-30T08:25:45Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-07-30T08:23:14Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 18,
+    "updated_at": "2026-07-30T08:22:24Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
+    "id": "marcusschiesser/agentpond",
+    "language": "TypeScript",
+    "name": "marcusschiesser/agentpond",
+    "stars": 13,
+    "updated_at": "2026-07-30T08:22:13Z",
+    "url": "https://github.com/marcusschiesser/agentpond"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2529,
+    "updated_at": "2026-07-30T08:21:50Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open, local-first AI gateway for multi-model routing, governed agents, knowledge and tools. Credential-free first run wi",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-07-30T08:21:26Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55072,
+    "updated_at": "2026-07-30T08:20:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T08:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
+    "id": "evilstar2016/skill-doctor",
+    "language": "TypeScript",
+    "name": "evilstar2016/skill-doctor",
+    "stars": 0,
+    "updated_at": "2026-07-30T08:13:39Z",
+    "url": "https://github.com/evilstar2016/skill-doctor"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
@@ -14,7 +149,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11798,
-    "updated_at": "2026-07-30T08:06:38Z",
+    "updated_at": "2026-07-30T08:24:29Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -23,7 +158,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29459,
-    "updated_at": "2026-07-30T08:05:10Z",
+    "updated_at": "2026-07-30T08:25:49Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -54,42 +189,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-30T08:00:39Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T08:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 2,
-    "updated_at": "2026-07-30T08:10:57Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32143,
-    "updated_at": "2026-07-30T08:13:55Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -97,15 +196,6 @@
     "stars": 6,
     "updated_at": "2026-07-30T07:57:14Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55072,
-    "updated_at": "2026-07-30T08:11:50Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -158,7 +248,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6888,
-    "updated_at": "2026-07-30T08:13:10Z",
+    "updated_at": "2026-07-30T08:27:51Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -225,15 +315,6 @@
     "url": "https://github.com/keelapi/keel-go"
   },
   {
-    "description": "Open, local-first AI gateway for multi-model routing, governed agents, knowledge and tools. Credential-free first run wi",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-07-30T07:17:15Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
     "id": "bosun-ai/swiftide",
     "language": "Rust",
@@ -279,30 +360,12 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2529,
-    "updated_at": "2026-07-30T08:03:32Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 77,
-    "updated_at": "2026-07-30T08:09:02Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1527,
-    "updated_at": "2026-07-30T08:01:56Z",
+    "updated_at": "2026-07-30T08:24:46Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -347,7 +410,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10807,
-    "updated_at": "2026-07-30T07:48:29Z",
+    "updated_at": "2026-07-30T08:26:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 113,
     "updated_at": "2026-07-30T06:00:02Z",
     "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
-    "description": "Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents",
-    "id": "naturaljam/SpanVouch",
-    "language": "Python",
-    "name": "naturaljam/SpanVouch",
-    "stars": 1,
-    "updated_at": "2026-07-30T05:52:26Z",
-    "url": "https://github.com/naturaljam/SpanVouch"
-  },
-  {
-    "description": "Evidence-grounded evaluation for AI agents \u2014 verifies each claim against the agent's real tool outputs (constrained, evi",
-    "id": "adepeju4/attest",
-    "language": "Python",
-    "name": "adepeju4/attest",
-    "stars": 17,
-    "updated_at": "2026-07-30T06:09:07Z",
-    "url": "https://github.com/adepeju4/attest"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 1,
-    "updated_at": "2026-07-30T05:43:05Z",
-    "url": "https://github.com/novafabric/novafabric"
-  },
-  {
-    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
-    "id": "msanket9/stillsane",
-    "language": "Python",
-    "name": "msanket9/stillsane",
-    "stars": 0,
-    "updated_at": "2026-07-30T05:40:57Z",
-    "url": "https://github.com/msanket9/stillsane"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-07-30T05:40:45Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-07-30T05:39:13Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 2,
-    "updated_at": "2026-07-30T05:24:45Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
