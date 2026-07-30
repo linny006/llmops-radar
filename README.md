@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-30 21:00 UTC
+> ⏰ Last updated: 2026-07-30 21:04 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [novafabric/novafabric](https://github.com/novafabric/novafabric) | 1 | Python | 2026-07-30 | Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted |
-| 2 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 8 | Python | 2026-07-30 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55116 | Python | 2026-07-30 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-07-30 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [novafabric/novafabric](https://github.com/novafabric/novafabric) | 1 | Python | 2026-07-30 | Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted |
+| 3 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 8 | Python | 2026-07-30 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55116 | Python | 2026-07-30 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-07-30 | LLM Systems Manager — real-time observability and control for LLM systems |
 | 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10817 | Python | 2026-07-30 | AI Observability & Evaluation |
 | 7 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3436 | TypeScript | 2026-07-30 | The platform for LLM evaluations and AI agent testing |
 | 8 | [Yacine-ai-tech/RAGeval](https://github.com/Yacine-ai-tech/RAGeval) | 1 | TypeScript | 2026-07-30 | Drop-in LLMOps observability for RAG — multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT |
