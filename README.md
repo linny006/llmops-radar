@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-30 03:29 UTC
+> ⏰ Last updated: 2026-07-30 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [solomon2773/nora](https://github.com/solomon2773/nora) | 26 | TypeScript | 2026-07-30 | Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes — REST, CLI, and MCP |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55050 | Python | 2026-07-30 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [api-evangelist/log10](https://github.com/api-evangelist/log10) | 1 | — | 2026-07-30 | Log10 APIs.json profile for API Evangelist catalog |
-| 4 | [naturaljam/SpanVouch](https://github.com/naturaljam/SpanVouch) | 1 | Python | 2026-07-30 | Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents |
-| 5 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8091 | Rust | 2026-07-30 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 6 | [tonquoc0407/capybara](https://github.com/tonquoc0407/capybara) | 11 | Go | 2026-07-30 | Terminal trace debugger for AI agents. |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-07-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-07-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [solomon2773/nora](https://github.com/solomon2773/nora) | 26 | TypeScript | 2026-07-30 | Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes — REST, CLI, and MCP |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55050 | Python | 2026-07-30 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [api-evangelist/log10](https://github.com/api-evangelist/log10) | 1 | — | 2026-07-30 | Log10 APIs.json profile for API Evangelist catalog |
+| 5 | [naturaljam/SpanVouch](https://github.com/naturaljam/SpanVouch) | 1 | Python | 2026-07-30 | Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents |
+| 6 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8091 | Rust | 2026-07-30 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 7 | [tonquoc0407/capybara](https://github.com/tonquoc0407/capybara) | 11 | Go | 2026-07-30 | Terminal trace debugger for AI agents. |
 | 8 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 12 | TypeScript | 2026-07-30 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
 | 9 | [api-evangelist/evidently](https://github.com/api-evangelist/evidently) | 0 | — | 2026-07-30 | Evidently AI APIs.json profile for API Evangelist catalog |
 | 10 | [coffeehc/xagent-docs](https://github.com/coffeehc/xagent-docs) | 1 | TypeScript | 2026-07-30 |  |
