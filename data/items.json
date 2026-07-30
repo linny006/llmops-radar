@@ -1,5 +1,50 @@
 [
   {
+    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
+    "id": "Amitcoh1/agentbreaker",
+    "language": "TypeScript",
+    "name": "Amitcoh1/agentbreaker",
+    "stars": 4,
+    "updated_at": "2026-07-30T19:51:01Z",
+    "url": "https://github.com/Amitcoh1/agentbreaker"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-07-30T19:50:00Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
+    "id": "runcycles/cycles-server",
+    "language": "Java",
+    "name": "runcycles/cycles-server",
+    "stars": 2,
+    "updated_at": "2026-07-30T19:49:37Z",
+    "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T19:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55114,
+    "updated_at": "2026-07-30T19:50:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
     "id": "NaCode-Studios/Kmemo",
     "language": "Kotlin",
@@ -7,15 +52,6 @@
     "stars": 4,
     "updated_at": "2026-07-30T19:42:31Z",
     "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
-    "id": "Amitcoh1/agentbreaker",
-    "language": "TypeScript",
-    "name": "Amitcoh1/agentbreaker",
-    "stars": 4,
-    "updated_at": "2026-07-30T19:40:42Z",
-    "url": "https://github.com/Amitcoh1/agentbreaker"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -32,7 +68,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3436,
-    "updated_at": "2026-07-30T19:39:54Z",
+    "updated_at": "2026-07-30T19:52:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -41,17 +77,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-30T19:32:09Z",
+    "updated_at": "2026-07-30T19:47:09Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T19:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-30T19:44:37Z",
+    "updated_at": "2026-07-30T19:52:37Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -122,17 +149,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10817,
-    "updated_at": "2026-07-30T19:43:07Z",
+    "updated_at": "2026-07-30T19:52:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55113,
-    "updated_at": "2026-07-30T19:45:25Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "bosun-ai/swiftide",
     "stars": 750,
-    "updated_at": "2026-07-30T19:06:58Z",
+    "updated_at": "2026-07-30T19:52:45Z",
     "url": "https://github.com/bosun-ai/swiftide"
   },
   {
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29469,
-    "updated_at": "2026-07-30T19:30:33Z",
+    "updated_at": "2026-07-30T19:48:03Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T16:38:24Z",
     "url": "https://github.com/trustyai-explainability/llama-stack-provider-trustyai-garak"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1123,
-    "updated_at": "2026-07-30T19:23:18Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:18:19Z",
-    "url": "https://github.com/acornops/management-console"
   }
 ]
