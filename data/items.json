@@ -1,5 +1,32 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55038,
+    "updated_at": "2026-07-30T01:14:19Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2521,
+    "updated_at": "2026-07-30T01:08:58Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T01:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
     "id": "runcycles/cycles-spring-ai-starter",
     "language": "Java",
@@ -36,15 +63,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55037,
-    "updated_at": "2026-07-30T00:59:47Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
     "id": "aibim-ai/AI-Supply-Chain-Trust",
     "language": "Rust",
@@ -61,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T00:46:07Z",
     "url": "https://github.com/novafabric/novafabric"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T00:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "Bobcatsfan33/AI-Security-Platform",
     "stars": 2,
-    "updated_at": "2026-07-30T00:36:37Z",
+    "updated_at": "2026-07-30T01:03:04Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 68,
-    "updated_at": "2026-07-29T23:04:06Z",
+    "updated_at": "2026-07-30T01:06:36Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -274,7 +283,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32117,
+    "stars": 32118,
     "updated_at": "2026-07-29T22:55:23Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -301,7 +310,7 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1522,
+    "stars": 1524,
     "updated_at": "2026-07-29T22:31:38Z",
     "url": "https://github.com/future-agi/future-agi"
   },
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 351,
-    "updated_at": "2026-07-30T00:57:18Z",
+    "updated_at": "2026-07-30T01:05:23Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T20:49:22Z",
     "url": "https://github.com/isatimur/mash-core"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20966,
-    "updated_at": "2026-07-29T20:44:09Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
