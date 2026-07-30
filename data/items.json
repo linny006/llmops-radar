@@ -1,11 +1,74 @@
 [
   {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-30T07:43:36Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
+    "id": "josondev/neuronworks-travel-agent",
+    "language": "Python",
+    "name": "josondev/neuronworks-travel-agent",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:38:45Z",
+    "url": "https://github.com/josondev/neuronworks-travel-agent"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 2,
+    "updated_at": "2026-07-30T07:36:13Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:34:51Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "An email-driven job application tracker that pulls your applications out of your inbox and into one place, no matter whi",
+    "id": "hanzala-bhutto/ApplySync",
+    "language": "Python",
+    "name": "hanzala-bhutto/ApplySync",
+    "stars": 1,
+    "updated_at": "2026-07-30T07:43:49Z",
+    "url": "https://github.com/hanzala-bhutto/ApplySync"
+  },
+  {
+    "description": "Curated list of tools, standards, and platforms for LLM and AI-agent observability: OpenTelemetry GenAI conventions, tra",
+    "id": "anhermon/awesome-agent-observability",
+    "language": "\u2014",
+    "name": "anhermon/awesome-agent-observability",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:32:32Z",
+    "url": "https://github.com/anhermon/awesome-agent-observability"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T07:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6888,
-    "updated_at": "2026-07-30T07:27:54Z",
+    "updated_at": "2026-07-30T07:43:48Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -18,20 +81,11 @@
     "url": "https://github.com/holasoymalva/manyllm-app"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-30T07:26:53Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55069,
+    "stars": 55070,
     "updated_at": "2026-07-30T07:25:57Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -45,13 +99,13 @@
     "url": "https://github.com/keelapi/keel-go"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T07:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mlflow/mlflow",
+    "stars": 27273,
+    "updated_at": "2026-07-30T07:13:54Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
@@ -63,13 +117,13 @@
     "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Python",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-07-30T07:08:26Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
+    "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
+    "id": "bosun-ai/swiftide",
+    "language": "Rust",
+    "name": "bosun-ai/swiftide",
+    "stars": 740,
+    "updated_at": "2026-07-30T07:06:43Z",
+    "url": "https://github.com/bosun-ai/swiftide"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -79,15 +133,6 @@
     "stars": 24,
     "updated_at": "2026-07-30T07:29:31Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
-    "id": "bosun-ai/swiftide",
-    "language": "Rust",
-    "name": "bosun-ai/swiftide",
-    "stars": 739,
-    "updated_at": "2026-07-30T07:06:43Z",
-    "url": "https://github.com/bosun-ai/swiftide"
   },
   {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
@@ -121,7 +166,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2528,
+    "stars": 2529,
     "updated_at": "2026-07-30T06:51:30Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "Bobcatsfan33/AI-Security-Platform",
     "stars": 2,
-    "updated_at": "2026-07-30T06:40:25Z",
+    "updated_at": "2026-07-30T07:42:09Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8095,
-    "updated_at": "2026-07-30T06:24:47Z",
+    "updated_at": "2026-07-30T07:41:53Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T06:23:56Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27272,
-    "updated_at": "2026-07-30T07:13:54Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 71,
-    "updated_at": "2026-07-30T06:51:40Z",
+    "updated_at": "2026-07-30T07:36:12Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -356,7 +392,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3428,
-    "updated_at": "2026-07-30T07:29:48Z",
+    "updated_at": "2026-07-30T07:39:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11797,
-    "updated_at": "2026-07-30T07:28:56Z",
+    "updated_at": "2026-07-30T07:39:22Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 26,
-    "updated_at": "2026-07-30T04:04:47Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 38,
-    "updated_at": "2026-07-30T04:03:38Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI",
-    "id": "ProofAgent-ai/proofagent-harness",
-    "language": "Python",
-    "name": "ProofAgent-ai/proofagent-harness",
-    "stars": 20,
-    "updated_at": "2026-07-30T04:09:14Z",
-    "url": "https://github.com/ProofAgent-ai/proofagent-harness"
-  },
-  {
-    "description": "Learn agentic AI engineering with a hands-on multi-agent workflow runtime.",
-    "id": "SaiSandeepKantareddy/NexusOps",
-    "language": "Python",
-    "name": "SaiSandeepKantareddy/NexusOps",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:50:58Z",
-    "url": "https://github.com/SaiSandeepKantareddy/NexusOps"
   }
 ]
