@@ -1,5 +1,68 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6888,
+    "updated_at": "2026-07-30T07:27:54Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
+    "id": "holasoymalva/manyllm-app",
+    "language": "Swift",
+    "name": "holasoymalva/manyllm-app",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:27:15Z",
+    "url": "https://github.com/holasoymalva/manyllm-app"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-30T07:26:53Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55069,
+    "updated_at": "2026-07-30T07:25:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Official Go SDK for the Keel AI control plane",
+    "id": "keelapi/keel-go",
+    "language": "Go",
+    "name": "keelapi/keel-go",
+    "stars": 3,
+    "updated_at": "2026-07-30T07:19:35Z",
+    "url": "https://github.com/keelapi/keel-go"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T07:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
+    "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
+    "language": "JavaScript",
+    "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:13:15Z",
+    "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
+  },
+  {
     "description": "Continuous Evaluation Infrastructure for Production AI",
     "id": "Red1-Rahman/NiriZan",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 24,
-    "updated_at": "2026-07-30T07:06:09Z",
+    "updated_at": "2026-07-30T07:29:31Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -36,24 +99,6 @@
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6888,
-    "updated_at": "2026-07-30T07:02:51Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55066,
-    "updated_at": "2026-07-30T07:01:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
     "id": "Bobcatsfan33/Pharos",
     "language": "TypeScript",
@@ -61,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T07:01:09Z",
     "url": "https://github.com/Bobcatsfan33/Pharos"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T07:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -85,7 +121,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2527,
+    "stars": 2528,
     "updated_at": "2026-07-30T06:51:30Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -99,21 +135,12 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-30T07:14:00Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1527,
-    "updated_at": "2026-07-30T06:45:27Z",
+    "updated_at": "2026-07-30T07:18:48Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -175,7 +202,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8094,
+    "stars": 8095,
     "updated_at": "2026-07-30T06:24:47Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -211,7 +238,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23747,
+    "stars": 23748,
     "updated_at": "2026-07-30T06:04:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -238,7 +265,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29455,
+    "stars": 29456,
     "updated_at": "2026-07-30T05:54:37Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3428,
-    "updated_at": "2026-07-30T07:14:35Z",
+    "updated_at": "2026-07-30T07:29:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -360,15 +387,6 @@
     "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
-    "description": "**Vigilant Agent** is an agentic AI platform using Azure Video Indexer, LangGraph, and Groq Llama-3 LPUs for multi-modal",
-    "id": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "language": "JavaScript",
-    "name": "DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine",
-    "stars": 0,
-    "updated_at": "2026-07-30T07:13:15Z",
-    "url": "https://github.com/DevSahuIit/Azure-Multimodal-Compliance-orchestration-engine"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11797,
-    "updated_at": "2026-07-30T06:46:29Z",
+    "updated_at": "2026-07-30T07:28:56Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T03:50:58Z",
     "url": "https://github.com/SaiSandeepKantareddy/NexusOps"
-  },
-  {
-    "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:48:12Z",
-    "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "Seldon APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/seldon",
-    "language": "\u2014",
-    "name": "api-evangelist/seldon",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:40:46Z",
-    "url": "https://github.com/api-evangelist/seldon"
   }
 ]
