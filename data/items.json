@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-07-30T19:59:56Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Earshot \u2014 the open-source Voice Observability SDK for evidence-first telemetry, latency analysis, and portable incident ",
+    "id": "Kkartik14/Earshot",
+    "language": "Python",
+    "name": "Kkartik14/Earshot",
+    "stars": 2,
+    "updated_at": "2026-07-30T19:58:36Z",
+    "url": "https://github.com/Kkartik14/Earshot"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T19:53:08Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
     "id": "Amitcoh1/agentbreaker",
     "language": "TypeScript",
@@ -27,13 +54,13 @@
     "url": "https://github.com/runcycles/cycles-server"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T19:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29470,
+    "updated_at": "2026-07-30T19:48:03Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55114,
-    "updated_at": "2026-07-30T19:50:31Z",
+    "updated_at": "2026-07-30T19:55:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3436,
-    "updated_at": "2026-07-30T19:52:12Z",
+    "updated_at": "2026-07-30T20:00:07Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-30T19:47:09Z",
+    "updated_at": "2026-07-30T20:00:25Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-30T19:52:37Z",
+    "updated_at": "2026-07-30T19:56:23Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20993,
-    "updated_at": "2026-07-30T18:49:50Z",
+    "updated_at": "2026-07-30T19:54:10Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Rust",
     "name": "bosun-ai/swiftide",
     "stars": 750,
-    "updated_at": "2026-07-30T19:52:45Z",
+    "updated_at": "2026-07-30T19:56:09Z",
     "url": "https://github.com/bosun-ai/swiftide"
   },
   {
@@ -229,18 +256,9 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6902,
+    "stars": 6903,
     "updated_at": "2026-07-30T18:38:38Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29469,
-    "updated_at": "2026-07-30T19:48:03Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T16:41:03Z",
     "url": "https://github.com/acornops/execution-engine"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:41:03Z",
-    "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "Out-Of-Tree Llama Stack Eval Provider for Red Teaming LLM Systems with Garak",
-    "id": "trustyai-explainability/llama-stack-provider-trustyai-garak",
-    "language": "Python",
-    "name": "trustyai-explainability/llama-stack-provider-trustyai-garak",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:38:24Z",
-    "url": "https://github.com/trustyai-explainability/llama-stack-provider-trustyai-garak"
   }
 ]
