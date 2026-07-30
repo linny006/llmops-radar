@@ -1,12 +1,39 @@
 [
   {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-07-30T01:57:41Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55038,
-    "updated_at": "2026-07-30T01:44:01Z",
+    "stars": 55041,
+    "updated_at": "2026-07-30T01:59:26Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-07-30T01:46:51Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T01:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -18,21 +45,12 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T01:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10802,
-    "updated_at": "2026-07-30T01:41:37Z",
+    "updated_at": "2026-07-30T01:49:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-30T00:11:11Z",
+    "updated_at": "2026-07-30T01:54:39Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -310,7 +328,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32119,
+    "stars": 32120,
     "updated_at": "2026-07-29T22:55:23Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -382,18 +400,9 @@
     "id": "mikehasa/agentacct",
     "language": "Python",
     "name": "mikehasa/agentacct",
-    "stars": 528,
+    "stars": 529,
     "updated_at": "2026-07-29T21:57:57Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-07-29T21:55:25Z",
-    "url": "https://github.com/dshakes/clickllm"
   },
   {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
@@ -401,7 +410,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-07-29T21:53:44Z",
+    "updated_at": "2026-07-30T01:58:24Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -409,7 +418,7 @@
     "id": "katanemo/plano",
     "language": "Rust",
     "name": "katanemo/plano",
-    "stars": 6911,
+    "stars": 6910,
     "updated_at": "2026-07-29T21:49:55Z",
     "url": "https://github.com/katanemo/plano"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-29T21:17:47Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 351,
-    "updated_at": "2026-07-30T01:20:26Z",
-    "url": "https://github.com/mozilla-ai/otari"
   }
 ]
