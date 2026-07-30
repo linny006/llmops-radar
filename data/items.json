@@ -1,12 +1,66 @@
 [
   {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "novafabric/novafabric",
+    "language": "Python",
+    "name": "novafabric/novafabric",
+    "stars": 1,
+    "updated_at": "2026-07-30T00:11:58Z",
+    "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-30T00:11:11Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 3,
+    "updated_at": "2026-07-30T00:10:53Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-30T00:05:29Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
     "id": "aibim-ai/AI-Supply-Chain-Trust",
     "language": "Rust",
     "name": "aibim-ai/AI-Supply-Chain-Trust",
     "stars": 2,
-    "updated_at": "2026-07-29T23:59:32Z",
+    "updated_at": "2026-07-30T00:04:35Z",
     "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-30T00:02:28Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T00:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -27,15 +81,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T23:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -45,21 +90,12 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 1,
-    "updated_at": "2026-07-29T23:43:30Z",
-    "url": "https://github.com/novafabric/novafabric"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55034,
-    "updated_at": "2026-07-29T23:59:39Z",
+    "updated_at": "2026-07-30T00:12:09Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -122,17 +158,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29448,
-    "updated_at": "2026-07-29T23:58:51Z",
+    "updated_at": "2026-07-30T00:10:35Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-29T23:08:59Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -151,15 +178,6 @@
     "stars": 68,
     "updated_at": "2026-07-29T23:04:06Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-29T23:01:49Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -198,15 +216,6 @@
     "url": "https://github.com/aimd54/palan"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-29T22:51:55Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
     "id": "wjlgatech/FM-os",
     "language": "Python",
@@ -230,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3427,
-    "updated_at": "2026-07-29T23:41:58Z",
+    "updated_at": "2026-07-30T00:10:00Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10801,
-    "updated_at": "2026-07-29T23:56:06Z",
+    "updated_at": "2026-07-30T00:02:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 351,
-    "updated_at": "2026-07-29T21:11:32Z",
+    "updated_at": "2026-07-30T00:04:45Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T20:09:44Z",
     "url": "https://github.com/Anonymousyz/ai-prototype-to-production-toolkit"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 6,
-    "updated_at": "2026-07-29T19:58:38Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   }
 ]
