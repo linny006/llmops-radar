@@ -1,20 +1,65 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10802,
+    "updated_at": "2026-07-30T01:30:25Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55038,
-    "updated_at": "2026-07-30T01:14:19Z",
+    "updated_at": "2026-07-30T01:29:12Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents",
+    "id": "naturaljam/SpanVouch",
+    "language": "Python",
+    "name": "naturaljam/SpanVouch",
+    "stars": 1,
+    "updated_at": "2026-07-30T01:23:13Z",
+    "url": "https://github.com/naturaljam/SpanVouch"
+  },
+  {
+    "description": "Graduate AI skills into cheap, fast, deterministic workflows",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 3,
+    "updated_at": "2026-07-30T01:27:47Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-30T01:20:26Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-30T01:17:22Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2521,
-    "updated_at": "2026-07-30T01:08:58Z",
+    "stars": 2522,
+    "updated_at": "2026-07-30T01:15:49Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-07-30T01:00:26Z",
+    "updated_at": "2026-07-30T01:15:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 27266,
     "updated_at": "2026-07-30T00:50:09Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-07-30T00:49:43Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
@@ -171,15 +207,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10802,
-    "updated_at": "2026-07-30T00:59:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 3,
-    "updated_at": "2026-07-29T23:48:52Z",
+    "updated_at": "2026-07-30T01:29:09Z",
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 351,
-    "updated_at": "2026-07-30T01:05:23Z",
+    "updated_at": "2026-07-30T01:20:26Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 612,
-    "updated_at": "2026-07-29T21:05:03Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-29T20:59:51Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "",
-    "id": "isatimur/mash-core",
-    "language": "Python",
-    "name": "isatimur/mash-core",
-    "stars": 0,
-    "updated_at": "2026-07-29T20:49:22Z",
-    "url": "https://github.com/isatimur/mash-core"
   }
 ]
