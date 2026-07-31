@@ -1,11 +1,38 @@
 [
   {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 4,
+    "updated_at": "2026-07-31T08:22:51Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 10,
+    "updated_at": "2026-07-31T08:17:37Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T08:15:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55149,
-    "updated_at": "2026-07-31T08:12:59Z",
+    "stars": 55150,
+    "updated_at": "2026-07-31T08:27:56Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -14,7 +41,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1291,
-    "updated_at": "2026-07-31T08:12:48Z",
+    "updated_at": "2026-07-31T08:29:49Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -25,6 +52,15 @@
     "stars": 2339,
     "updated_at": "2026-07-31T08:09:28Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10825,
+    "updated_at": "2026-07-31T08:08:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
@@ -54,15 +90,6 @@
     "url": "https://github.com/acornops/control-plane"
   },
   {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 4,
-    "updated_at": "2026-07-31T08:12:49Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -72,21 +99,12 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1534,
-    "updated_at": "2026-07-31T08:00:26Z",
+    "updated_at": "2026-07-31T08:29:12Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -97,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-07-31T07:58:58Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27294,
+    "updated_at": "2026-07-31T07:54:55Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -112,18 +139,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32219,
-    "updated_at": "2026-07-31T07:53:22Z",
+    "stars": 32220,
+    "updated_at": "2026-07-31T08:24:23Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27293,
-    "updated_at": "2026-07-31T07:54:55Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -133,15 +151,6 @@
     "stars": 71,
     "updated_at": "2026-07-31T07:50:29Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10825,
-    "updated_at": "2026-07-31T08:08:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -162,21 +171,12 @@
     "url": "https://github.com/acornops/management-console"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 10,
-    "updated_at": "2026-07-31T07:41:15Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6927,
-    "updated_at": "2026-07-31T08:12:26Z",
+    "updated_at": "2026-07-31T08:21:29Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -212,7 +212,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2534,
-    "updated_at": "2026-07-31T07:56:31Z",
+    "updated_at": "2026-07-31T08:29:42Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -239,7 +239,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11803,
-    "updated_at": "2026-07-31T08:05:05Z",
+    "updated_at": "2026-07-31T08:25:10Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -284,7 +284,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29474,
-    "updated_at": "2026-07-31T06:58:44Z",
+    "updated_at": "2026-07-31T08:26:27Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -356,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3439,
-    "updated_at": "2026-07-31T08:14:07Z",
+    "updated_at": "2026-07-31T08:29:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
