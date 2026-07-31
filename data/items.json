@@ -1,11 +1,56 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-31T07:44:38Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-31T07:42:07Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 10,
+    "updated_at": "2026-07-31T07:41:15Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6926,
+    "updated_at": "2026-07-31T07:38:09Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T07:35:58Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-31T07:34:04Z",
+    "updated_at": "2026-07-31T07:45:04Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-31T07:33:37Z",
+    "updated_at": "2026-07-31T07:36:26Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -36,21 +81,12 @@
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T07:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32216,
-    "updated_at": "2026-07-31T07:27:21Z",
+    "updated_at": "2026-07-31T07:45:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -77,17 +113,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-31T07:34:54Z",
+    "updated_at": "2026-07-31T07:43:45Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 10,
-    "updated_at": "2026-07-31T07:19:32Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 71,
-    "updated_at": "2026-07-31T07:23:24Z",
+    "updated_at": "2026-07-31T07:42:42Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11803,
-    "updated_at": "2026-07-31T07:14:03Z",
+    "updated_at": "2026-07-31T07:36:03Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -216,21 +243,12 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6926,
-    "updated_at": "2026-07-31T07:35:40Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1291,
-    "updated_at": "2026-07-31T07:35:31Z",
+    "updated_at": "2026-07-31T07:39:11Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8108,
-    "updated_at": "2026-07-31T05:48:44Z",
+    "updated_at": "2026-07-31T07:43:51Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T05:24:55Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 0,
-    "updated_at": "2026-07-31T05:06:39Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-07-31T04:57:40Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   }
 ]
