@@ -5,8 +5,71 @@
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 26,
-    "updated_at": "2026-07-31T19:14:38Z",
+    "updated_at": "2026-07-31T19:30:02Z",
     "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10835,
+    "updated_at": "2026-07-31T19:30:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Routes, caches, and batches LLM requests: 73% cheaper. Now also measures whether the routing is correct, which the keywo",
+    "id": "ahmeddoghri/vllm-cost-router",
+    "language": "Python",
+    "name": "ahmeddoghri/vllm-cost-router",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:25:36Z",
+    "url": "https://github.com/ahmeddoghri/vllm-cost-router"
+  },
+  {
+    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2341,
+    "updated_at": "2026-07-31T19:23:22Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "",
+    "id": "coffeehc/xagent-docs",
+    "language": "TypeScript",
+    "name": "coffeehc/xagent-docs",
+    "stars": 1,
+    "updated_at": "2026-07-31T19:22:41Z",
+    "url": "https://github.com/coffeehc/xagent-docs"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55192,
+    "updated_at": "2026-07-31T19:29:35Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
+    "id": "RafineriaAI/aos-workflow-gate",
+    "language": "Python",
+    "name": "RafineriaAI/aos-workflow-gate",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:15:35Z",
+    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T19:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
@@ -50,35 +113,8 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-07-31T19:13:41Z",
+    "updated_at": "2026-07-31T19:18:25Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55192,
-    "updated_at": "2026-07-31T19:14:47Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10835,
-    "updated_at": "2026-07-31T19:15:22Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T19:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -90,12 +126,21 @@
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3442,
+    "updated_at": "2026-07-31T18:58:37Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32248,
-    "updated_at": "2026-07-31T19:13:30Z",
+    "updated_at": "2026-07-31T19:23:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -104,7 +149,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-31T19:08:34Z",
+    "updated_at": "2026-07-31T19:28:43Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 27306,
     "updated_at": "2026-07-31T18:48:35Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
-    "id": "RafineriaAI/aos-workflow-gate",
-    "language": "Python",
-    "name": "RafineriaAI/aos-workflow-gate",
-    "stars": 0,
-    "updated_at": "2026-07-31T19:11:29Z",
-    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
   },
   {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-31T19:10:31Z",
+    "updated_at": "2026-07-31T19:28:29Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-31T17:18:11Z",
+    "updated_at": "2026-07-31T19:20:35Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/NaCode-Studios/Kmemo"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3441,
-    "updated_at": "2026-07-31T18:58:37Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
     "id": "Neeeophytee/awesome-ai-workflows",
     "language": "Shell",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-31T16:26:17Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:25:17Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-07-31T16:21:34Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 385,
-    "updated_at": "2026-07-31T16:18:32Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   }
 ]
