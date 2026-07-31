@@ -1,5 +1,77 @@
 [
   {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:58:58Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 4,
+    "updated_at": "2026-07-31T07:56:12Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-31T07:53:34Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27293,
+    "updated_at": "2026-07-31T07:54:55Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 71,
+    "updated_at": "2026-07-31T07:50:29Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-31T07:56:32Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32216,
+    "updated_at": "2026-07-31T07:53:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T07:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -31,18 +103,9 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6926,
+    "stars": 6927,
     "updated_at": "2026-07-31T07:38:09Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T07:35:58Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -50,17 +113,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-31T07:45:04Z",
+    "updated_at": "2026-07-31T07:52:24Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:36:26Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
@@ -68,7 +122,7 @@
     "language": "TypeScript",
     "name": "Amitcoh1/agentbreaker",
     "stars": 4,
-    "updated_at": "2026-07-31T07:33:07Z",
+    "updated_at": "2026-07-31T07:51:06Z",
     "url": "https://github.com/Amitcoh1/agentbreaker"
   },
   {
@@ -81,13 +135,13 @@
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32216,
-    "updated_at": "2026-07-31T07:45:29Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55146,
+    "updated_at": "2026-07-31T07:58:35Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -104,26 +158,8 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2534,
-    "updated_at": "2026-07-31T07:22:08Z",
+    "updated_at": "2026-07-31T07:56:31Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-31T07:43:45Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 71,
-    "updated_at": "2026-07-31T07:42:42Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
@@ -167,17 +203,8 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11803,
-    "updated_at": "2026-07-31T07:36:03Z",
+    "updated_at": "2026-07-31T07:54:37Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55145,
-    "updated_at": "2026-07-31T07:29:21Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
@@ -205,15 +232,6 @@
     "stars": 69,
     "updated_at": "2026-07-31T07:03:32Z",
     "url": "https://github.com/langfuse/langfuse-java"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27293,
-    "updated_at": "2026-07-31T06:59:21Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\ubb38\uc11c\ub9cc \uc8fc\uba74 \ub370\uc774\ud130 \uc0dd\uc131\u00b7\ud559\uc2b5\u00b7\ud3c9\uac00\uae4c\uc9c0 \uc54c\uc544\uc11c \ub3c4\uba54\uc778 LLM\uc744 \ub9cc\ub4e4\uc5b4\uc8fc\ub294 Agentic LLMOps \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\uc5f0\uc5b4 \uc9c0\uc2dc + Human-in-the-Loop, \ub85c\uceec \uad6c\ucd95. Chat-driven LLMOps age",
@@ -248,7 +266,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1291,
-    "updated_at": "2026-07-31T07:39:11Z",
+    "updated_at": "2026-07-31T07:58:32Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -311,7 +329,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3439,
-    "updated_at": "2026-07-31T07:27:14Z",
+    "updated_at": "2026-07-31T07:54:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -349,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T06:11:24Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-31T06:08:35Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10824,
-    "updated_at": "2026-07-31T05:35:45Z",
+    "updated_at": "2026-07-31T07:49:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T05:19:48Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-07-31T05:24:55Z",
-    "url": "https://github.com/dshakes/clickllm"
   }
 ]
