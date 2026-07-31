@@ -1,12 +1,138 @@
 [
   {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-31T14:29:36Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1060,
+    "updated_at": "2026-07-31T14:29:09Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:28:43Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32238,
+    "updated_at": "2026-07-31T14:26:01Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 4,
+    "updated_at": "2026-07-31T14:25:11Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:30:06Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:23:14Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
+    "id": "cendorhq/cendor-libs",
+    "language": "Python",
+    "name": "cendorhq/cendor-libs",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:22:26Z",
+    "url": "https://github.com/cendorhq/cendor-libs"
+  },
+  {
+    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
+    "id": "cendorhq/cendor-cookbook-js",
+    "language": "JavaScript",
+    "name": "cendorhq/cendor-cookbook-js",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:22:08Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook-js"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-07-31T14:21:24Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 658,
+    "updated_at": "2026-07-31T14:28:24Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Sentry-grade issue tracking for agent behavior. Clusters OpenTelemetry GenAI traces into stable, trackable themes with I",
+    "id": "rohansx/sift",
+    "language": "TypeScript",
+    "name": "rohansx/sift",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:27:34Z",
+    "url": "https://github.com/rohansx/sift"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55170,
-    "updated_at": "2026-07-31T14:15:10Z",
+    "updated_at": "2026-07-31T14:24:24Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 383,
+    "updated_at": "2026-07-31T14:07:44Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -14,7 +140,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 11,
-    "updated_at": "2026-07-31T14:05:52Z",
+    "updated_at": "2026-07-31T14:27:01Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -34,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T14:05:34Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 658,
-    "updated_at": "2026-07-31T14:09:47Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
@@ -72,22 +189,13 @@
     "url": "https://github.com/openlit/openlit"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32236,
-    "updated_at": "2026-07-31T14:12:27Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T14:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "promptfoo/promptfoo",
+    "stars": 23790,
+    "updated_at": "2026-07-31T13:58:46Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -115,15 +223,6 @@
     "stars": 10,
     "updated_at": "2026-07-31T13:56:07Z",
     "url": "https://github.com/psyb0t/aigate"
-  },
-  {
-    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
-    "id": "cendorhq/cendor-libs",
-    "language": "Python",
-    "name": "cendorhq/cendor-libs",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:53:25Z",
-    "url": "https://github.com/cendorhq/cendor-libs"
   },
   {
     "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
@@ -171,15 +270,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 4,
-    "updated_at": "2026-07-31T13:37:04Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -187,15 +277,6 @@
     "stars": 21002,
     "updated_at": "2026-07-31T13:56:18Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-07-31T14:14:02Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -225,15 +306,6 @@
     "url": "https://github.com/voly-codes/voly"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-31T14:12:22Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
     "id": "ahmeedatm/infer-router",
     "language": "Python",
@@ -243,21 +315,12 @@
     "url": "https://github.com/ahmeedatm/infer-router"
   },
   {
-    "description": "Sentry-grade issue tracking for agent behavior. Clusters OpenTelemetry GenAI traces into stable, trackable themes with I",
-    "id": "rohansx/sift",
-    "language": "TypeScript",
-    "name": "rohansx/sift",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:14:39Z",
-    "url": "https://github.com/rohansx/sift"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3440,
-    "updated_at": "2026-07-31T14:06:44Z",
+    "updated_at": "2026-07-31T14:23:26Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -274,7 +337,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29476,
+    "stars": 29477,
     "updated_at": "2026-07-31T13:24:36Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -286,15 +349,6 @@
     "stars": 6,
     "updated_at": "2026-07-31T13:20:03Z",
     "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 382,
-    "updated_at": "2026-07-31T14:07:44Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "cubestudio\u5f00\u6e90\u4e91\u539f\u751f\u4e00\u7ad9\u5f0f\u673a\u5668\u5b66\u4e60/\u6df1\u5ea6\u5b66\u4e60/\u5927\u6a21\u578bAI\u5e73\u53f0/MaaS/mlops/\u4eba\u5de5\u667a\u80fd\u5e73\u53f0/\u8bad\u63a8\u5e73\u53f0\uff0c\u7b97\u6cd5\u5168\u94fe\u8def\u6d41\u7a0b\uff0c\u591a\u79df\u6237\uff0c\u7b97\u529b\u79df\u8d41\u5e73\u53f0\uff0ctoken\u4e2d\u8f6c\uff0c\u62d6\u62c9\u62fd\u4efb\u52a1\u6d41pipeline\u7f16\u6392\uff0c\u591a\u673a\u591a\u5361\u5206\u5e03\u5f0f\u8bad\u7ec3\uff0c\u8d85\u53c2\u641c\u7d22\uff0c\u63a8\u7406",
@@ -311,7 +365,7 @@
     "language": "TypeScript",
     "name": "requestyai/ai-sdk-requesty",
     "stars": 8,
-    "updated_at": "2026-07-31T13:09:13Z",
+    "updated_at": "2026-07-31T14:30:12Z",
     "url": "https://github.com/requestyai/ai-sdk-requesty"
   },
   {
@@ -374,7 +428,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1292,
-    "updated_at": "2026-07-31T14:04:46Z",
+    "updated_at": "2026-07-31T14:25:58Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T12:58:24Z",
     "url": "https://github.com/okfriansyah-moh/the-foundry"
-  },
-  {
-    "description": "Production RAG over SEC 10-K filings with pgvector hybrid retrieval, reranking and versioned LLM evaluations.",
-    "id": "Aaa2122/secrag",
-    "language": "Python",
-    "name": "Aaa2122/secrag",
-    "stars": 0,
-    "updated_at": "2026-07-31T12:52:22Z",
-    "url": "https://github.com/Aaa2122/secrag"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6939,
-    "updated_at": "2026-07-31T13:49:44Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-07-31T12:41:43Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-31T12:40:20Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
-    "id": "cendorhq/cendor-cookbook-js",
-    "language": "JavaScript",
-    "name": "cendorhq/cendor-cookbook-js",
-    "stars": 0,
-    "updated_at": "2026-07-31T12:25:37Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook-js"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-07-31T14:07:18Z",
-    "url": "https://github.com/dshakes/clickllm"
   }
 ]
