@@ -1,12 +1,48 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27289,
+    "updated_at": "2026-07-31T03:11:24Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 12,
-    "updated_at": "2026-07-31T02:59:00Z",
+    "updated_at": "2026-07-31T03:10:13Z",
     "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 68,
+    "updated_at": "2026-07-31T03:11:41Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55129,
+    "updated_at": "2026-07-31T03:08:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T03:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
@@ -25,15 +61,6 @@
     "stars": 5,
     "updated_at": "2026-07-31T02:55:15Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55128,
-    "updated_at": "2026-07-31T02:58:09Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -59,17 +86,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23773,
-    "updated_at": "2026-07-31T02:49:49Z",
+    "updated_at": "2026-07-31T03:08:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T02:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -243,15 +261,6 @@
     "url": "https://github.com/msanket9/stillsane"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27288,
-    "updated_at": "2026-07-31T02:20:59Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Observable diagnostics, failure attribution, metrics, and no-key replay for multi-agent runtimes.",
     "id": "try1004/FlowLens-AgentOps",
     "language": "Python",
@@ -275,7 +284,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2532,
-    "updated_at": "2026-07-31T01:40:24Z",
+    "updated_at": "2026-07-31T03:12:22Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -329,7 +338,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3437,
-    "updated_at": "2026-07-31T01:24:05Z",
+    "updated_at": "2026-07-31T03:14:34Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-30T23:57:08Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
-    "id": "boundflow/boundflow",
-    "language": "Python",
-    "name": "boundflow/boundflow",
-    "stars": 6,
-    "updated_at": "2026-07-30T23:51:13Z",
-    "url": "https://github.com/boundflow/boundflow"
   }
 ]
