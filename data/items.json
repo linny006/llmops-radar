@@ -1,11 +1,56 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3439,
+    "updated_at": "2026-07-31T12:25:18Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-31T12:23:41Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 10,
+    "updated_at": "2026-07-31T12:17:07Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 657,
+    "updated_at": "2026-07-31T12:16:29Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21001,
-    "updated_at": "2026-07-31T12:12:35Z",
+    "updated_at": "2026-07-31T12:19:43Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -18,12 +63,21 @@
     "url": "https://github.com/dshakes/clickllm"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55161,
+    "updated_at": "2026-07-31T12:09:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6936,
-    "updated_at": "2026-07-31T12:08:53Z",
+    "stars": 6937,
+    "updated_at": "2026-07-31T12:24:19Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -54,21 +108,12 @@
     "url": "https://github.com/vul-os/llmux"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T12:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32228,
-    "updated_at": "2026-07-31T12:09:59Z",
+    "updated_at": "2026-07-31T12:25:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -117,24 +162,6 @@
     "url": "https://github.com/AgentEra/Agently"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-31T12:06:58Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55160,
-    "updated_at": "2026-07-31T12:09:38Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
     "id": "novafabric/novafabric",
     "language": "Python",
@@ -160,15 +187,6 @@
     "stars": 13,
     "updated_at": "2026-07-31T11:51:08Z",
     "url": "https://github.com/marcusschiesser/agentpond"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 657,
-    "updated_at": "2026-07-31T11:48:53Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -203,7 +221,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-31T11:33:38Z",
+    "updated_at": "2026-07-31T12:20:19Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -302,7 +320,7 @@
     "language": "JavaScript",
     "name": "cendorhq/cendor-cookbook-js",
     "stars": 0,
-    "updated_at": "2026-07-31T11:12:23Z",
+    "updated_at": "2026-07-31T12:25:37Z",
     "url": "https://github.com/cendorhq/cendor-cookbook-js"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3439,
-    "updated_at": "2026-07-31T12:08:43Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 27297,
     "updated_at": "2026-07-31T10:00:14Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 10,
-    "updated_at": "2026-07-31T09:56:16Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
   }
 ]
