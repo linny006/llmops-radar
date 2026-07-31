@@ -1,5 +1,41 @@
 [
   {
+    "description": "Understand and improve how you use AI coding tools. A local web app that turns raw usage data into a live dashboard \u2014 to",
+    "id": "starbringer/AI-Insights",
+    "language": "TypeScript",
+    "name": "starbringer/AI-Insights",
+    "stars": 2,
+    "updated_at": "2026-07-31T03:28:39Z",
+    "url": "https://github.com/starbringer/AI-Insights"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:27:58Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-31T03:21:20Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T03:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -9,21 +45,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-31T03:10:13Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 68,
-    "updated_at": "2026-07-31T03:11:41Z",
+    "updated_at": "2026-07-31T03:24:30Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -32,17 +59,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55129,
-    "updated_at": "2026-07-31T03:08:31Z",
+    "updated_at": "2026-07-31T03:25:45Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T03:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
@@ -50,7 +68,7 @@
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 26,
-    "updated_at": "2026-07-31T02:56:54Z",
+    "updated_at": "2026-07-31T03:29:49Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -142,6 +160,15 @@
     "stars": 10,
     "updated_at": "2026-07-31T02:21:44Z",
     "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10823,
+    "updated_at": "2026-07-31T02:19:19Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
@@ -270,15 +297,6 @@
     "url": "https://github.com/try1004/FlowLens-AgentOps"
   },
   {
-    "description": "Understand and improve how you use AI coding tools. A local web app that turns raw usage data into a live dashboard \u2014 to",
-    "id": "starbringer/AI-Insights",
-    "language": "TypeScript",
-    "name": "starbringer/AI-Insights",
-    "stars": 2,
-    "updated_at": "2026-07-31T01:40:33Z",
-    "url": "https://github.com/starbringer/AI-Insights"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -293,17 +311,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-31T02:15:33Z",
+    "updated_at": "2026-07-31T03:17:26Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10822,
-    "updated_at": "2026-07-31T02:19:19Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -365,7 +374,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 201,
-    "updated_at": "2026-07-31T01:00:13Z",
+    "updated_at": "2026-07-31T03:25:58Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 53,
     "updated_at": "2026-07-31T02:16:04Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-07-30T23:57:08Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
   }
 ]
