@@ -1,12 +1,48 @@
 [
   {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-31T03:45:01Z",
-    "url": "https://github.com/cubxxw/blog"
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-07-31T03:58:54Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23774,
+    "updated_at": "2026-07-31T03:57:09Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:53:52Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:50:30Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Drop-in guards against the ways LLM pipelines fail while reporting success. Zero dependencies, 75 tests, one file.",
+    "id": "LordBlackSwan/silent-failure-guards",
+    "language": "Python",
+    "name": "LordBlackSwan/silent-failure-guards",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:50:18Z",
+    "url": "https://github.com/LordBlackSwan/silent-failure-guards"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -14,8 +50,53 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 68,
-    "updated_at": "2026-07-31T03:43:50Z",
+    "updated_at": "2026-07-31T03:52:32Z",
     "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-31T03:48:31Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-31T03:46:45Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 77,
+    "updated_at": "2026-07-31T03:49:59Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-31T03:46:11Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T03:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Sentry-grade issue tracking for agent behavior. Clusters OpenTelemetry GenAI traces into stable, trackable themes with I",
@@ -34,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-07-31T03:41:17Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-31T03:40:57Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -67,7 +139,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32198,
+    "stars": 32200,
     "updated_at": "2026-07-31T03:34:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -76,18 +148,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55131,
-    "updated_at": "2026-07-31T03:32:07Z",
+    "stars": 55132,
+    "updated_at": "2026-07-31T03:57:54Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T03:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Understand and improve how you use AI coding tools. A local web app that turns raw usage data into a live dashboard \u2014 to",
@@ -97,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T03:28:39Z",
     "url": "https://github.com/starbringer/AI-Insights"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-31T03:31:28Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -151,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T02:48:45Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23773,
-    "updated_at": "2026-07-31T03:08:28Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 10,
-    "updated_at": "2026-07-31T02:21:44Z",
+    "updated_at": "2026-07-31T03:55:13Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11803,
-    "updated_at": "2026-07-31T03:41:02Z",
+    "updated_at": "2026-07-31T03:52:50Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -349,15 +394,6 @@
     "stars": 2532,
     "updated_at": "2026-07-31T03:12:22Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-31T03:40:36Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-31T00:52:18Z",
     "url": "https://github.com/vul-os/llmux"
-  },
-  {
-    "description": "An open-source reliability scorecard for LLM agents \u2014 measure grounding, safety, PII, and task-completion against fixed ",
-    "id": "assevra/assevra",
-    "language": "Python",
-    "name": "assevra/assevra",
-    "stars": 2,
-    "updated_at": "2026-07-31T00:38:04Z",
-    "url": "https://github.com/assevra/assevra"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20998,
-    "updated_at": "2026-07-31T00:34:06Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Version, evaluate, diff, and roll back compiled DSPy programs \u2014 a prompt-optimization workflow that stores every run as ",
-    "id": "backblaze-b2-samples/dspy-compiled-program-versioning",
-    "language": "TypeScript",
-    "name": "backblaze-b2-samples/dspy-compiled-program-versioning",
-    "stars": 0,
-    "updated_at": "2026-07-31T00:40:49Z",
-    "url": "https://github.com/backblaze-b2-samples/dspy-compiled-program-versioning"
-  },
-  {
-    "description": "Starter kit for building Cortex Agents like software: semantic views, agent specs, evaluations, and scheduling as code i",
-    "id": "innovation-igloo/cortex-agents-dbt-project-template",
-    "language": "\u2014",
-    "name": "innovation-igloo/cortex-agents-dbt-project-template",
-    "stars": 2,
-    "updated_at": "2026-07-31T00:26:15Z",
-    "url": "https://github.com/innovation-igloo/cortex-agents-dbt-project-template"
   }
 ]
