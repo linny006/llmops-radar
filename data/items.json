@@ -1,5 +1,41 @@
 [
   {
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
+    "language": "Python",
+    "name": "VibePod/vibepod-cli",
+    "stars": 104,
+    "updated_at": "2026-07-31T20:37:18Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
+  },
+  {
+    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
+    "id": "RafineriaAI/aos-workflow-gate",
+    "language": "Python",
+    "name": "RafineriaAI/aos-workflow-gate",
+    "stars": 0,
+    "updated_at": "2026-07-31T20:36:46Z",
+    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55194,
+    "updated_at": "2026-07-31T20:39:40Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T20:30:42Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -72,24 +108,6 @@
     "url": "https://github.com/cendorhq/cendor-libs"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T20:15:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
-    "id": "RafineriaAI/aos-workflow-gate",
-    "language": "Python",
-    "name": "RafineriaAI/aos-workflow-gate",
-    "stars": 0,
-    "updated_at": "2026-07-31T20:12:36Z",
-    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
-  },
-  {
     "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
     "id": "cendorhq/cendor-cookbook-js",
     "language": "JavaScript",
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "Amitcoh1/agentbreaker",
     "stars": 4,
-    "updated_at": "2026-07-31T20:28:35Z",
+    "updated_at": "2026-07-31T20:44:30Z",
     "url": "https://github.com/Amitcoh1/agentbreaker"
   },
   {
@@ -135,13 +153,13 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55193,
-    "updated_at": "2026-07-31T20:30:13Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "Arize-ai/phoenix",
+    "stars": 10836,
+    "updated_at": "2026-07-31T19:56:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-31T19:50:51Z",
+    "updated_at": "2026-07-31T20:35:52Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -207,6 +225,15 @@
     "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32252,
+    "updated_at": "2026-07-31T20:43:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -234,15 +261,6 @@
     "url": "https://github.com/holasoymalva/manyllm-app"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32250,
-    "updated_at": "2026-07-31T19:45:40Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
@@ -250,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T20:12:49Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10835,
-    "updated_at": "2026-07-31T19:56:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Routes, caches, and batches LLM requests: 73% cheaper. Now also measures whether the routing is correct, which the keywo",
@@ -373,7 +382,7 @@
     "id": "mikehasa/agentacct",
     "language": "Python",
     "name": "mikehasa/agentacct",
-    "stars": 539,
+    "stars": 540,
     "updated_at": "2026-07-31T17:58:54Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
@@ -439,14 +448,5 @@
     "stars": 24,
     "updated_at": "2026-07-31T17:10:05Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
-    "id": "Tourinhan/Fund-of-Brian",
-    "language": "HTML",
-    "name": "Tourinhan/Fund-of-Brian",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:05:21Z",
-    "url": "https://github.com/Tourinhan/Fund-of-Brian"
   }
 ]
