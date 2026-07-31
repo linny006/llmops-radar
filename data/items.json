@@ -1,12 +1,165 @@
 [
   {
+    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
+    "id": "voly-codes/voly",
+    "language": "Python",
+    "name": "voly-codes/voly",
+    "stars": 15,
+    "updated_at": "2026-07-31T11:15:00Z",
+    "url": "https://github.com/voly-codes/voly"
+  },
+  {
+    "description": "qKnow is an open-source agent platform for enterprise knowledge intelligence and industry AI. It provides knowledge grap",
+    "id": "qiantongtech/qKnow",
+    "language": "Java",
+    "name": "qiantongtech/qKnow",
+    "stars": 260,
+    "updated_at": "2026-07-31T11:14:10Z",
+    "url": "https://github.com/qiantongtech/qKnow"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1060,
+    "updated_at": "2026-07-31T11:12:42Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
+    "id": "wjlgatech/FM-os",
+    "language": "Python",
+    "name": "wjlgatech/FM-os",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:12:41Z",
+    "url": "https://github.com/wjlgatech/FM-os"
+  },
+  {
+    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
+    "id": "cendorhq/cendor-cookbook-js",
+    "language": "JavaScript",
+    "name": "cendorhq/cendor-cookbook-js",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:12:23Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook-js"
+  },
+  {
     "description": "Open-source LLM observability and drift detection for AI apps",
     "id": "cognifityai/verdict",
     "language": "Python",
     "name": "cognifityai/verdict",
     "stars": 0,
-    "updated_at": "2026-07-31T10:59:54Z",
+    "updated_at": "2026-07-31T11:12:06Z",
     "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-07-31T11:12:35Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
+    "id": "obervinov/readme-spotlight",
+    "language": "Go",
+    "name": "obervinov/readme-spotlight",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:12:16Z",
+    "url": "https://github.com/obervinov/readme-spotlight"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-31T11:10:24Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:09:53Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:09:44Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:09:33Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 4,
+    "updated_at": "2026-07-31T11:08:37Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:07:24Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 79,
+    "updated_at": "2026-07-31T11:07:10Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-31T11:13:18Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Sentry-grade issue tracking for agent behavior. Clusters OpenTelemetry GenAI traces into stable, trackable themes with I",
+    "id": "rohansx/sift",
+    "language": "TypeScript",
+    "name": "rohansx/sift",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:05:02Z",
+    "url": "https://github.com/rohansx/sift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,7 +167,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32228,
-    "updated_at": "2026-07-31T10:58:08Z",
+    "updated_at": "2026-07-31T11:07:42Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -27,24 +180,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 4,
-    "updated_at": "2026-07-31T10:57:01Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-31T10:56:36Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -54,31 +189,13 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-31T10:53:21Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21001,
-    "updated_at": "2026-07-31T10:59:52Z",
+    "updated_at": "2026-07-31T11:13:17Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T10:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -90,31 +207,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-31T10:48:58Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 654,
+    "stars": 656,
     "updated_at": "2026-07-31T10:43:39Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-31T10:37:41Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -131,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3439,
-    "updated_at": "2026-07-31T10:56:35Z",
+    "updated_at": "2026-07-31T11:13:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -149,7 +248,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 71,
-    "updated_at": "2026-07-31T10:34:44Z",
+    "updated_at": "2026-07-31T11:06:15Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -189,15 +288,6 @@
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-07-31T10:04:35Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -216,15 +306,6 @@
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 79,
-    "updated_at": "2026-07-31T09:55:26Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -238,8 +319,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55157,
-    "updated_at": "2026-07-31T09:45:24Z",
+    "stars": 55158,
+    "updated_at": "2026-07-31T11:13:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -259,6 +340,15 @@
     "stars": 0,
     "updated_at": "2026-07-31T09:42:42Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8109,
+    "updated_at": "2026-07-31T09:38:27Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
@@ -356,97 +446,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29475,
-    "updated_at": "2026-07-31T10:53:17Z",
+    "updated_at": "2026-07-31T11:06:19Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 48,
-    "updated_at": "2026-07-31T08:50:52Z",
-    "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 6,
-    "updated_at": "2026-07-31T08:48:02Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:42:25Z",
-    "url": "https://github.com/acornops/docs-website"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:00:25Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 18,
-    "updated_at": "2026-07-31T08:46:01Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
-    "id": "obervinov/readme-spotlight",
-    "language": "Go",
-    "name": "obervinov/readme-spotlight",
-    "stars": 0,
-    "updated_at": "2026-07-31T09:15:46Z",
-    "url": "https://github.com/obervinov/readme-spotlight"
-  },
-  {
-    "description": "Agent-native control plane for governed customer-support AI: procedures, tools, hooks, human handoff, traces, scenarios,",
-    "id": "CurtisYoung18/intera-agent",
-    "language": "TypeScript",
-    "name": "CurtisYoung18/intera-agent",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:44:21Z",
-    "url": "https://github.com/CurtisYoung18/intera-agent"
-  },
-  {
-    "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
-    "id": "domestique-labs/domestique-oss",
-    "language": "Python",
-    "name": "domestique-labs/domestique-oss",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:30:34Z",
-    "url": "https://github.com/domestique-labs/domestique-oss"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 10,
-    "updated_at": "2026-07-31T08:17:37Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1291,
-    "updated_at": "2026-07-31T10:30:10Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   }
 ]
