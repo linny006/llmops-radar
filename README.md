@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-31 23:30 UTC
+> ⏰ Last updated: 2026-07-31 23:41 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [brunovicco/verifiable-ai-governance](https://github.com/brunovicco/verifiable-ai-governance) | 0 | Python | 2026-07-31 | Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv |
-| 2 | [techlab-innov/llmtrace](https://github.com/techlab-innov/llmtrace) | 52 | Python | 2026-07-31 | Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O |
+| 1 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-07-31 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 2 | [brunovicco/verifiable-ai-governance](https://github.com/brunovicco/verifiable-ai-governance) | 0 | Python | 2026-07-31 | Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv |
 | 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55202 | Python | 2026-07-31 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-31 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 2 | Python | 2026-07-31 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 6 | [Sahojit/AssistantBench-](https://github.com/Sahojit/AssistantBench-) | 0 | Python | 2026-07-31 | Side-by-side benchmark comparing Llama 3.1 8B (OSS) vs Llama 3.3 70B (Frontier) — multi-turn chat, 4-layer guardrails, L |
-| 7 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 47 | Rust | 2026-07-31 | Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or |
-| 8 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-07-31 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 9 | [ajankuv/omniswarm](https://github.com/ajankuv/omniswarm) | 1 | Python | 2026-07-31 | Self-hosted trust layer for cheap AI: offload bulk LLM work to free models, QC'd by a multi-model council — a vetted ans |
-| 10 | [mtuann/llm-updated-papers](https://github.com/mtuann/llm-updated-papers) | 14 | — | 2026-07-31 | Papers related to Large Language Models in all top venues |
-| 11 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-07-31 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
-| 12 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-07-31 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 13 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10837 | Python | 2026-07-31 | AI Observability & Evaluation |
-| 14 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32253 | TypeScript | 2026-07-31 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 15 | [VibePod/vibepod-cli](https://github.com/VibePod/vibepod-cli) | 104 | Python | 2026-07-31 | Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi |
-| 16 | [malkreide/zh-education-mcp](https://github.com/malkreide/zh-education-mcp) | 0 | Python | 2026-07-31 | MCP server for education statistics of Canton and City of Zurich (BISTA) |
-| 17 | [Everton-baptista/agenteARQ](https://github.com/Everton-baptista/agenteARQ) | 0 | Python | 2026-07-31 | An open, versioned, verifiable standard for building AI agents — machine-readable manifests, guardrails, MCP allowlists  |
-| 18 | [cendorhq/cendor-libs](https://github.com/cendorhq/cendor-libs) | 0 | Python | 2026-07-31 | Production plumbing for LLM apps: context, cost, testing & governance — composable, framework-agnostic Python libraries. |
-| 19 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-07-31 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 5 | [techlab-innov/llmtrace](https://github.com/techlab-innov/llmtrace) | 52 | Python | 2026-07-31 | Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O |
+| 6 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 2 | Python | 2026-07-31 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 7 | [Sahojit/AssistantBench-](https://github.com/Sahojit/AssistantBench-) | 0 | Python | 2026-07-31 | Side-by-side benchmark comparing Llama 3.1 8B (OSS) vs Llama 3.3 70B (Frontier) — multi-turn chat, 4-layer guardrails, L |
+| 8 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 47 | Rust | 2026-07-31 | Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or |
+| 9 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-07-31 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 10 | [ajankuv/omniswarm](https://github.com/ajankuv/omniswarm) | 1 | Python | 2026-07-31 | Self-hosted trust layer for cheap AI: offload bulk LLM work to free models, QC'd by a multi-model council — a vetted ans |
+| 11 | [mtuann/llm-updated-papers](https://github.com/mtuann/llm-updated-papers) | 14 | — | 2026-07-31 | Papers related to Large Language Models in all top venues |
+| 12 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-07-31 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
+| 13 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-07-31 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
+| 14 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10837 | Python | 2026-07-31 | AI Observability & Evaluation |
+| 15 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32253 | TypeScript | 2026-07-31 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 16 | [VibePod/vibepod-cli](https://github.com/VibePod/vibepod-cli) | 104 | Python | 2026-07-31 | Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi |
+| 17 | [malkreide/zh-education-mcp](https://github.com/malkreide/zh-education-mcp) | 0 | Python | 2026-07-31 | MCP server for education statistics of Canton and City of Zurich (BISTA) |
+| 18 | [Everton-baptista/agenteARQ](https://github.com/Everton-baptista/agenteARQ) | 0 | Python | 2026-07-31 | An open, versioned, verifiable standard for building AI agents — machine-readable manifests, guardrails, MCP allowlists  |
+| 19 | [cendorhq/cendor-libs](https://github.com/cendorhq/cendor-libs) | 0 | Python | 2026-07-31 | Production plumbing for LLM apps: context, cost, testing & governance — composable, framework-agnostic Python libraries. |
 | 20 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-07-31 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
 | 21 | [cendorhq/cendor-cookbook-js](https://github.com/cendorhq/cendor-cookbook-js) | 0 | JavaScript | 2026-07-31 | Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries — cost, context, testing, governance. |
 | 22 | [cendorhq/cendor-cookbook](https://github.com/cendorhq/cendor-cookbook) | 0 | Python | 2026-07-31 | Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries — cost, context, testing, governance (Py + TS). |
