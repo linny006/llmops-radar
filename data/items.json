@@ -1,11 +1,74 @@
 [
   {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "novafabric/novafabric",
+    "language": "Python",
+    "name": "novafabric/novafabric",
+    "stars": 1,
+    "updated_at": "2026-07-31T12:28:31Z",
+    "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:27:39Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32228,
+    "updated_at": "2026-07-31T12:28:38Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-07-31T12:27:33Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:27:28Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:25:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
+    "id": "cendorhq/cendor-cookbook-js",
+    "language": "JavaScript",
+    "name": "cendorhq/cendor-cookbook-js",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:25:37Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook-js"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3439,
-    "updated_at": "2026-07-31T12:25:18Z",
+    "updated_at": "2026-07-31T12:28:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -36,15 +99,6 @@
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T12:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -67,7 +121,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55161,
+    "stars": 55162,
     "updated_at": "2026-07-31T12:09:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -106,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T12:05:01Z",
     "url": "https://github.com/vul-os/llmux"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32228,
-    "updated_at": "2026-07-31T12:25:25Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -162,24 +207,6 @@
     "url": "https://github.com/AgentEra/Agently"
   },
   {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:48:36Z",
-    "url": "https://github.com/novafabric/novafabric"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:48:35Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
     "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
     "id": "marcusschiesser/agentpond",
     "language": "TypeScript",
@@ -221,7 +248,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-31T12:20:19Z",
+    "updated_at": "2026-07-31T12:26:08Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1060,
-    "updated_at": "2026-07-31T12:04:49Z",
+    "updated_at": "2026-07-31T12:27:42Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -315,15 +342,6 @@
     "url": "https://github.com/wjlgatech/FM-os"
   },
   {
-    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
-    "id": "cendorhq/cendor-cookbook-js",
-    "language": "JavaScript",
-    "name": "cendorhq/cendor-cookbook-js",
-    "stars": 0,
-    "updated_at": "2026-07-31T12:25:37Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook-js"
-  },
-  {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
     "id": "runcycles/cycles-docs",
     "language": "Vue",
@@ -331,24 +349,6 @@
     "stars": 4,
     "updated_at": "2026-07-31T11:12:35Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:09:53Z",
-    "url": "https://github.com/acornops/docs-website"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:09:33Z",
-    "url": "https://github.com/acornops/control-plane"
   },
   {
     "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
