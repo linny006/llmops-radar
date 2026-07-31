@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [cubxxw/blog](https://github.com/cubxxw/blog) | 26 | CSS | 2026-07-31 | Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro |
-| 2 | [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) | 2339 | Rust | 2026-07-31 | Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data  |
-| 3 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 12 | TypeScript | 2026-07-31 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
-| 4 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-07-31 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
-| 5 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 38 | — | 2026-07-31 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
-| 6 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21001 | Python | 2026-07-31 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-31 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-07-31 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [cubxxw/blog](https://github.com/cubxxw/blog) | 26 | CSS | 2026-07-31 | Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro |
+| 3 | [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) | 2339 | Rust | 2026-07-31 | Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data  |
+| 4 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 12 | TypeScript | 2026-07-31 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
+| 5 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-07-31 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
+| 6 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 38 | — | 2026-07-31 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
+| 7 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21001 | Python | 2026-07-31 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 8 | [project-arbr/arbr-control-plane](https://github.com/project-arbr/arbr-control-plane) | 10 | JavaScript | 2026-07-31 | Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing |
 | 9 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2535 | C++ | 2026-07-31 | Community maintained hardware plugin for vLLM on Ascend |
 | 10 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6933 | Go | 2026-07-31 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
