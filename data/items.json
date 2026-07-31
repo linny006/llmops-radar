@@ -1,10 +1,73 @@
 [
   {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-07-30T23:57:08Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 355,
+    "updated_at": "2026-07-30T23:56:34Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-07-30T23:55:13Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
+    "language": "Python",
+    "name": "boundflow/boundflow",
+    "stars": 6,
+    "updated_at": "2026-07-30T23:51:13Z",
+    "url": "https://github.com/boundflow/boundflow"
+  },
+  {
+    "description": "An open-source reliability scorecard for LLM agents \u2014 measure grounding, safety, PII, and task-completion against fixed ",
+    "id": "assevra/assevra",
+    "language": "Python",
+    "name": "assevra/assevra",
+    "stars": 2,
+    "updated_at": "2026-07-30T23:50:30Z",
+    "url": "https://github.com/assevra/assevra"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55119,
+    "updated_at": "2026-07-30T23:59:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T23:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6907,
+    "stars": 6908,
     "updated_at": "2026-07-30T23:41:00Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -45,15 +108,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55119,
-    "updated_at": "2026-07-30T23:35:26Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
     "id": "GetBusbar/busbar",
     "language": "Rust",
@@ -61,15 +115,6 @@
     "stars": 109,
     "updated_at": "2026-07-30T23:33:57Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T23:32:09Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1123,
-    "updated_at": "2026-07-30T22:56:44Z",
+    "updated_at": "2026-07-30T23:47:46Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8105,
-    "updated_at": "2026-07-30T22:39:13Z",
+    "updated_at": "2026-07-30T23:52:10Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 538,
-    "updated_at": "2026-07-30T21:52:17Z",
+    "updated_at": "2026-07-30T23:54:34Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-07-30T23:43:47Z",
+    "updated_at": "2026-07-30T23:47:07Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -391,7 +436,7 @@
     "id": "bosun-ai/swiftide",
     "language": "Rust",
     "name": "bosun-ai/swiftide",
-    "stars": 752,
+    "stars": 753,
     "updated_at": "2026-07-30T20:22:54Z",
     "url": "https://github.com/bosun-ai/swiftide"
   },
@@ -403,50 +448,5 @@
     "stars": 27285,
     "updated_at": "2026-07-30T20:19:41Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32184,
-    "updated_at": "2026-07-30T22:58:21Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-07-30T19:59:56Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Earshot \u2014 the open-source Voice Observability SDK for evidence-first telemetry, latency analysis, and portable incident ",
-    "id": "Kkartik14/Earshot",
-    "language": "Python",
-    "name": "Kkartik14/Earshot",
-    "stars": 2,
-    "updated_at": "2026-07-30T19:58:36Z",
-    "url": "https://github.com/Kkartik14/Earshot"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20994,
-    "updated_at": "2026-07-30T20:54:29Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
-    "id": "Amitcoh1/agentbreaker",
-    "language": "TypeScript",
-    "name": "Amitcoh1/agentbreaker",
-    "stars": 4,
-    "updated_at": "2026-07-30T19:51:01Z",
-    "url": "https://github.com/Amitcoh1/agentbreaker"
   }
 ]
