@@ -1,12 +1,111 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55186,
+    "updated_at": "2026-07-31T16:26:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-07-31T16:26:17Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:25:17Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2661,
+    "updated_at": "2026-07-31T16:22:17Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-07-31T16:21:34Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21006,
+    "updated_at": "2026-07-31T16:18:47Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
     "id": "runcycles/cycles-spring-boot-starter",
     "language": "Java",
     "name": "runcycles/cycles-spring-boot-starter",
     "stars": 1,
-    "updated_at": "2026-07-31T16:13:37Z",
+    "updated_at": "2026-07-31T16:17:56Z",
     "url": "https://github.com/runcycles/cycles-spring-boot-starter"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3441,
+    "updated_at": "2026-07-31T16:28:46Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-07-31T16:15:37Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Kotlin Multiplatform semantic cache for LLM calls \u2014 eleven guards against false cache hits, measured on blind corpora, c",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 4,
+    "updated_at": "2026-07-31T16:16:28Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:29:33Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
@@ -16,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T16:10:00Z",
     "url": "https://github.com/Tourinhan/Fund-of-Brian"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21004,
-    "updated_at": "2026-07-31T16:13:31Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
@@ -45,33 +135,6 @@
     "url": "https://github.com/sauravbhattacharya001/prompt"
   },
   {
-    "description": "Kotlin Multiplatform semantic cache for LLM calls \u2014 eleven guards against false cache hits, measured on blind corpora, c",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 4,
-    "updated_at": "2026-07-31T16:15:28Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:14:06Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2661,
-    "updated_at": "2026-07-31T16:03:15Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -81,22 +144,13 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
     "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-07-31T16:02:40Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:00:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mozilla-ai/otari",
+    "stars": 358,
+    "updated_at": "2026-07-31T16:02:07Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -106,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-07-31T15:58:07Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55184,
-    "updated_at": "2026-07-31T16:13:38Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open Source OpenTelemetry-native Observability tool for GenAI and LLMs designed to provide developers with complete capa",
@@ -142,24 +187,6 @@
     "stars": 10,
     "updated_at": "2026-07-31T15:43:29Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3441,
-    "updated_at": "2026-07-31T16:10:43Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:34:43Z",
-    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "The Requesty integration package for the Vercel AI SDK.",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-31T15:49:56Z",
+    "updated_at": "2026-07-31T16:26:26Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 384,
-    "updated_at": "2026-07-31T15:17:09Z",
+    "updated_at": "2026-07-31T16:18:32Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32243,
-    "updated_at": "2026-07-31T16:07:42Z",
+    "updated_at": "2026-07-31T16:17:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 202,
-    "updated_at": "2026-07-31T16:13:16Z",
+    "updated_at": "2026-07-31T16:23:04Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10832,
-    "updated_at": "2026-07-31T16:13:02Z",
+    "updated_at": "2026-07-31T16:21:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 10,
     "updated_at": "2026-07-31T13:56:07Z",
     "url": "https://github.com/psyb0t/aigate"
-  },
-  {
-    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
-    "id": "Everton-baptista/agenteARQ",
-    "language": "Python",
-    "name": "Everton-baptista/agenteARQ",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:46:34Z",
-    "url": "https://github.com/Everton-baptista/agenteARQ"
-  },
-  {
-    "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
-    "id": "obervinov/readme-spotlight",
-    "language": "Go",
-    "name": "obervinov/readme-spotlight",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:45:45Z",
-    "url": "https://github.com/obervinov/readme-spotlight"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1536,
-    "updated_at": "2026-07-31T15:20:40Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
