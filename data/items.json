@@ -1,12 +1,102 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2534,
+    "updated_at": "2026-07-31T08:43:56Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
+    "id": "obervinov/readme-spotlight",
+    "language": "Go",
+    "name": "obervinov/readme-spotlight",
+    "stars": 0,
+    "updated_at": "2026-07-31T08:41:44Z",
+    "url": "https://github.com/obervinov/readme-spotlight"
+  },
+  {
+    "description": "Agent-native control plane for governed customer-support AI: procedures, tools, hooks, human handoff, traces, scenarios,",
+    "id": "CurtisYoung18/intera-agent",
+    "language": "TypeScript",
+    "name": "CurtisYoung18/intera-agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T08:44:21Z",
+    "url": "https://github.com/CurtisYoung18/intera-agent"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-31T08:35:55Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-31T08:35:38Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
+    "id": "domestique-labs/domestique-oss",
+    "language": "Python",
+    "name": "domestique-labs/domestique-oss",
+    "stars": 2,
+    "updated_at": "2026-07-31T08:30:34Z",
+    "url": "https://github.com/domestique-labs/domestique-oss"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T08:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55151,
+    "updated_at": "2026-07-31T08:37:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32220,
+    "updated_at": "2026-07-31T08:24:23Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
     "id": "NaCode-Studios/Kmemo",
     "language": "Kotlin",
     "name": "NaCode-Studios/Kmemo",
     "stars": 4,
-    "updated_at": "2026-07-31T08:22:51Z",
+    "updated_at": "2026-07-31T08:45:24Z",
     "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6928,
+    "updated_at": "2026-07-31T08:44:36Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -18,30 +108,12 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:15:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55150,
-    "updated_at": "2026-07-31T08:27:56Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1291,
-    "updated_at": "2026-07-31T08:29:49Z",
+    "updated_at": "2026-07-31T08:42:35Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -79,15 +151,6 @@
     "stars": 53,
     "updated_at": "2026-07-31T08:05:27Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:05:16Z",
-    "url": "https://github.com/acornops/control-plane"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -135,15 +198,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32220,
-    "updated_at": "2026-07-31T08:24:23Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
@@ -158,26 +212,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-31T07:44:38Z",
+    "updated_at": "2026-07-31T08:37:36Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-31T07:42:07Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6927,
-    "updated_at": "2026-07-31T08:21:29Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -207,15 +243,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2534,
-    "updated_at": "2026-07-31T08:29:42Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
     "id": "acornops/acornops-deployment",
     "language": "JavaScript",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11803,
-    "updated_at": "2026-07-31T08:25:10Z",
+    "updated_at": "2026-07-31T08:44:45Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -356,7 +383,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3439,
-    "updated_at": "2026-07-31T08:29:57Z",
+    "updated_at": "2026-07-31T08:41:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8108,
-    "updated_at": "2026-07-31T07:43:51Z",
+    "updated_at": "2026-07-31T08:35:28Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 100+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 74,
-    "updated_at": "2026-07-31T05:47:30Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
-    "id": "katanemo/plano",
-    "language": "Rust",
-    "name": "katanemo/plano",
-    "stars": 6915,
-    "updated_at": "2026-07-31T05:31:26Z",
-    "url": "https://github.com/katanemo/plano"
-  },
-  {
-    "description": "A reliability harness for an LLM triage agent \u2014 proves you can detect when the agent is silently wrong. 8 planted failur",
-    "id": "siddchauhan77/complaint-triage-harness",
-    "language": "HTML",
-    "name": "siddchauhan77/complaint-triage-harness",
-    "stars": 0,
-    "updated_at": "2026-07-31T05:30:04Z",
-    "url": "https://github.com/siddchauhan77/complaint-triage-harness"
   }
 ]
