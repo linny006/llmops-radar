@@ -1,5 +1,95 @@
 [
   {
+    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
+    "id": "okfriansyah-moh/the-foundry",
+    "language": "Go",
+    "name": "okfriansyah-moh/the-foundry",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:58:24Z",
+    "url": "https://github.com/okfriansyah-moh/the-foundry"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 538,
+    "updated_at": "2026-07-31T12:56:08Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Production RAG over SEC 10-K filings with pgvector hybrid retrieval, reranking and versioned LLM evaluations.",
+    "id": "Aaa2122/secrag",
+    "language": "Python",
+    "name": "Aaa2122/secrag",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:52:22Z",
+    "url": "https://github.com/Aaa2122/secrag"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-07-31T12:51:39Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:51:39Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:51:39Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "novafabric/novafabric",
+    "language": "Python",
+    "name": "novafabric/novafabric",
+    "stars": 1,
+    "updated_at": "2026-07-31T12:47:26Z",
+    "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32229,
+    "updated_at": "2026-07-31T12:46:21Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:46:36Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -36,60 +126,6 @@
     "url": "https://github.com/cendorhq/cendor-libs"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T12:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 1,
-    "updated_at": "2026-07-31T12:28:31Z",
-    "url": "https://github.com/novafabric/novafabric"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-07-31T12:27:39Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32228,
-    "updated_at": "2026-07-31T12:38:30Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-07-31T12:27:33Z",
-    "url": "https://github.com/acornops/docs-website"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-31T12:27:28Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
     "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
     "id": "cendorhq/cendor-cookbook-js",
     "language": "JavaScript",
@@ -104,8 +140,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3439,
-    "updated_at": "2026-07-31T12:42:21Z",
+    "updated_at": "2026-07-31T13:00:16Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21000,
+    "updated_at": "2026-07-31T12:19:43Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -126,15 +171,6 @@
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21001,
-    "updated_at": "2026-07-31T12:19:43Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Python",
@@ -148,8 +184,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55164,
-    "updated_at": "2026-07-31T12:09:38Z",
+    "stars": 55165,
+    "updated_at": "2026-07-31T12:57:13Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6937,
-    "updated_at": "2026-07-31T12:35:05Z",
+    "updated_at": "2026-07-31T12:51:12Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -221,7 +257,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-07-31T11:56:01Z",
+    "updated_at": "2026-07-31T12:59:26Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -265,18 +301,9 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2535,
+    "stars": 2536,
     "updated_at": "2026-07-31T11:37:31Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-07-31T12:32:04Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
@@ -419,34 +446,7 @@
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 26,
-    "updated_at": "2026-07-31T10:33:00Z",
+    "updated_at": "2026-07-31T13:00:06Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2339,
-    "updated_at": "2026-07-31T10:10:50Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5726,
-    "updated_at": "2026-07-31T10:06:29Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 38,
-    "updated_at": "2026-07-31T10:03:51Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
   }
 ]
