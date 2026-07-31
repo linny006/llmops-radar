@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T21:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "CI gate that blocks LLM prompt and model changes which regress on a golden eval suite. Three deterministic checks (token",
+    "id": "tkgo1599-max/prompt-regression-gate",
+    "language": "Python",
+    "name": "tkgo1599-max/prompt-regression-gate",
+    "stars": 0,
+    "updated_at": "2026-07-31T21:13:10Z",
+    "url": "https://github.com/tkgo1599-max/prompt-regression-gate"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -23,8 +41,17 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55195,
-    "updated_at": "2026-07-31T21:14:30Z",
+    "updated_at": "2026-07-31T21:18:37Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32253,
+    "updated_at": "2026-07-31T21:08:38Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -34,15 +61,6 @@
     "stars": 10836,
     "updated_at": "2026-07-31T21:02:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T21:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
@@ -243,15 +261,6 @@
     "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32252,
-    "updated_at": "2026-07-31T21:08:38Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -365,7 +374,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-07-31T18:29:17Z",
+    "updated_at": "2026-07-31T21:17:21Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -382,7 +391,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 666,
+    "stars": 667,
     "updated_at": "2026-07-31T18:23:39Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T17:26:48Z",
     "url": "https://github.com/rohansx/sift"
-  },
-  {
-    "description": "AI Infrastructure OS execution plane: OpenAI-compatible gateway, MCP tool governance, intent proxy, vLLM/KServe/KEDA, OI",
-    "id": "justrunme/ai-runtime-platform",
-    "language": "Python",
-    "name": "justrunme/ai-runtime-platform",
-    "stars": 1,
-    "updated_at": "2026-07-31T17:17:36Z",
-    "url": "https://github.com/justrunme/ai-runtime-platform"
   }
 ]
