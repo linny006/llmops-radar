@@ -1,5 +1,41 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55134,
+    "updated_at": "2026-07-31T05:11:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 0,
+    "updated_at": "2026-07-31T05:06:39Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-31T05:05:28Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T05:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -18,39 +54,12 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-31T05:00:00Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55134,
-    "updated_at": "2026-07-31T04:58:27Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T04:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 24,
-    "updated_at": "2026-07-31T04:56:09Z",
+    "updated_at": "2026-07-31T05:15:12Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27292,
-    "updated_at": "2026-07-31T04:26:12Z",
+    "updated_at": "2026-07-31T05:15:20Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -149,7 +158,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-31T04:58:12Z",
+    "updated_at": "2026-07-31T05:14:12Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -238,7 +247,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32205,
+    "stars": 32206,
     "updated_at": "2026-07-31T03:34:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -256,8 +265,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6918,
-    "updated_at": "2026-07-31T03:24:43Z",
+    "stars": 6919,
+    "updated_at": "2026-07-31T05:12:28Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-31T04:25:52Z",
+    "updated_at": "2026-07-31T05:01:18Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -414,6 +423,15 @@
     "url": "https://github.com/acornops/acornops-deployment"
   },
   {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1533,
+    "updated_at": "2026-07-31T02:13:40Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T02:09:03Z",
     "url": "https://github.com/Everton-baptista/agenteARQ"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11803,
-    "updated_at": "2026-07-31T03:52:50Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Observable diagnostics, failure attribution, metrics, and no-key replay for multi-agent runtimes.",
-    "id": "try1004/FlowLens-AgentOps",
-    "language": "Python",
-    "name": "try1004/FlowLens-AgentOps",
-    "stars": 28,
-    "updated_at": "2026-07-31T01:48:17Z",
-    "url": "https://github.com/try1004/FlowLens-AgentOps"
   }
 ]
