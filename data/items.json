@@ -1,11 +1,47 @@
 [
   {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-07-31T14:55:06Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 383,
+    "updated_at": "2026-07-31T14:47:36Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21002,
+    "updated_at": "2026-07-31T14:53:43Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:45:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-07-31T14:43:41Z",
+    "updated_at": "2026-07-31T14:46:16Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32241,
-    "updated_at": "2026-07-31T14:38:47Z",
+    "updated_at": "2026-07-31T14:57:03Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,17 +68,8 @@
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-31T14:44:47Z",
+    "updated_at": "2026-07-31T14:55:11Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 383,
-    "updated_at": "2026-07-31T14:37:19Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -50,8 +77,17 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 11,
-    "updated_at": "2026-07-31T14:34:18Z",
+    "updated_at": "2026-07-31T14:55:22Z",
     "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6940,
+    "updated_at": "2026-07-31T14:34:04Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
@@ -70,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-07-31T14:32:23Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T14:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
@@ -130,7 +157,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55171,
+    "stars": 55173,
     "updated_at": "2026-07-31T14:24:24Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -160,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T14:22:08Z",
     "url": "https://github.com/cendorhq/cendor-cookbook-js"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-07-31T14:21:24Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -274,7 +292,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10830,
+    "stars": 10831,
     "updated_at": "2026-07-31T13:45:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1536,
-    "updated_at": "2026-07-31T14:09:26Z",
+    "updated_at": "2026-07-31T14:46:17Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -293,24 +311,15 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2536,
-    "updated_at": "2026-07-31T14:44:10Z",
+    "updated_at": "2026-07-31T14:55:21Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21002,
-    "updated_at": "2026-07-31T14:39:48Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27301,
+    "stars": 27302,
     "updated_at": "2026-07-31T13:33:50Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -347,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3440,
-    "updated_at": "2026-07-31T14:45:28Z",
+    "updated_at": "2026-07-31T14:53:30Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3476,
     "updated_at": "2026-07-31T13:03:57Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1292,
-    "updated_at": "2026-07-31T14:25:58Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   }
 ]
