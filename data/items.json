@@ -1,12 +1,75 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55177,
+    "updated_at": "2026-07-31T15:12:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32242,
+    "updated_at": "2026-07-31T15:08:35Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 11,
+    "updated_at": "2026-07-31T15:07:18Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-07-31T15:05:02Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 202,
+    "updated_at": "2026-07-31T15:14:28Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3441,
+    "updated_at": "2026-07-31T15:15:22Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T14:57:17Z",
+    "updated_at": "2026-07-31T15:00:40Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10832,
+    "updated_at": "2026-07-31T14:58:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -23,7 +86,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-07-31T14:55:06Z",
+    "updated_at": "2026-07-31T15:08:21Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-07-31T14:59:32Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
     "description": "The Requesty integration package for the Vercel AI SDK.",
     "id": "requestyai/ai-sdk-requesty",
     "language": "TypeScript",
@@ -63,31 +117,13 @@
     "url": "https://github.com/requestyai/ai-sdk-requesty"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32241,
-    "updated_at": "2026-07-31T14:57:03Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "TypeScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-31T14:55:11Z",
+    "updated_at": "2026-07-31T15:14:58Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 11,
-    "updated_at": "2026-07-31T14:58:23Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -95,7 +131,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6940,
-    "updated_at": "2026-07-31T14:34:04Z",
+    "updated_at": "2026-07-31T15:08:25Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -122,7 +158,7 @@
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 26,
-    "updated_at": "2026-07-31T14:44:23Z",
+    "updated_at": "2026-07-31T15:12:53Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1060,
-    "updated_at": "2026-07-31T14:31:52Z",
+    "updated_at": "2026-07-31T15:08:49Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -139,7 +175,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 659,
+    "stars": 661,
     "updated_at": "2026-07-31T14:28:24Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -158,17 +194,8 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kmemo",
     "stars": 4,
-    "updated_at": "2026-07-31T14:25:11Z",
+    "updated_at": "2026-07-31T15:14:45Z",
     "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55174,
-    "updated_at": "2026-07-31T14:24:24Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -198,6 +225,15 @@
     "url": "https://github.com/cendorhq/cendor-cookbook-js"
   },
   {
+    "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
+    "id": "bosun-ai/swiftide",
+    "language": "Rust",
+    "name": "bosun-ai/swiftide",
+    "stars": 755,
+    "updated_at": "2026-07-31T14:12:39Z",
+    "url": "https://github.com/bosun-ai/swiftide"
+  },
+  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
@@ -214,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T14:05:34Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
-    "id": "bosun-ai/swiftide",
-    "language": "Rust",
-    "name": "bosun-ai/swiftide",
-    "stars": 754,
-    "updated_at": "2026-07-31T14:12:39Z",
-    "url": "https://github.com/bosun-ai/swiftide"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -247,8 +274,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23790,
-    "updated_at": "2026-07-31T13:58:46Z",
+    "stars": 23791,
+    "updated_at": "2026-07-31T15:15:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -295,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T13:45:45Z",
     "url": "https://github.com/obervinov/readme-spotlight"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10831,
-    "updated_at": "2026-07-31T14:58:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -358,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T13:30:59Z",
     "url": "https://github.com/ahmeedatm/infer-router"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3440,
-    "updated_at": "2026-07-31T15:00:25Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-31T13:04:24Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:04:23Z",
-    "url": "https://github.com/acornops/control-plane"
   }
 ]
