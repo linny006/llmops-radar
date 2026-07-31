@@ -1,12 +1,57 @@
 [
   {
+    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-spring-boot-starter",
+    "language": "Java",
+    "name": "runcycles/cycles-spring-boot-starter",
+    "stars": 1,
+    "updated_at": "2026-07-31T16:13:37Z",
+    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
+  },
+  {
+    "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
+    "id": "Tourinhan/Fund-of-Brian",
+    "language": "HTML",
+    "name": "Tourinhan/Fund-of-Brian",
+    "stars": 0,
+    "updated_at": "2026-07-31T16:10:00Z",
+    "url": "https://github.com/Tourinhan/Fund-of-Brian"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21004,
+    "updated_at": "2026-07-31T16:13:31Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
     "id": "vul-os/llmux",
     "language": "Go",
     "name": "vul-os/llmux",
     "stars": 2,
-    "updated_at": "2026-07-31T15:59:32Z",
+    "updated_at": "2026-07-31T16:06:23Z",
     "url": "https://github.com/vul-os/llmux"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-07-31T16:05:10Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "Kotlin Multiplatform semantic cache for LLM calls \u2014 eleven guards against false cache hits, measured on blind corpora, c",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 4,
+    "updated_at": "2026-07-31T16:15:28Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -14,8 +59,26 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-31T15:57:21Z",
+    "updated_at": "2026-07-31T16:14:06Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2661,
+    "updated_at": "2026-07-31T16:03:15Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 38,
+    "updated_at": "2026-07-31T16:03:07Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -23,16 +86,34 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-07-31T15:55:16Z",
+    "updated_at": "2026-07-31T16:02:40Z",
     "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:00:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-07-31T15:58:07Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55181,
-    "updated_at": "2026-07-31T15:49:24Z",
+    "stars": 55184,
+    "updated_at": "2026-07-31T16:13:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,17 +131,8 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-31T15:46:08Z",
+    "updated_at": "2026-07-31T16:12:18Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -72,21 +144,12 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Kotlin Multiplatform semantic cache for LLM calls \u2014 eleven guards against false cache hits, measured on blind corpora, c",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 4,
-    "updated_at": "2026-07-31T15:59:47Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3441,
-    "updated_at": "2026-07-31T16:00:31Z",
+    "updated_at": "2026-07-31T16:10:43Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -144,33 +207,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
-    "id": "Tourinhan/Fund-of-Brian",
-    "language": "HTML",
-    "name": "Tourinhan/Fund-of-Brian",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:24:12Z",
-    "url": "https://github.com/Tourinhan/Fund-of-Brian"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2661,
-    "updated_at": "2026-07-31T15:22:59Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21003,
-    "updated_at": "2026-07-31T16:00:21Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32243,
-    "updated_at": "2026-07-31T15:08:35Z",
+    "updated_at": "2026-07-31T16:07:42Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 202,
-    "updated_at": "2026-07-31T15:45:13Z",
+    "updated_at": "2026-07-31T16:13:16Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10832,
-    "updated_at": "2026-07-31T15:59:09Z",
+    "updated_at": "2026-07-31T16:13:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 152,
     "updated_at": "2026-07-31T14:34:03Z",
     "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-07-31T15:58:07Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -421,32 +448,5 @@
     "stars": 1536,
     "updated_at": "2026-07-31T15:20:40Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2536,
-    "updated_at": "2026-07-31T14:55:21Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27303,
-    "updated_at": "2026-07-31T13:33:50Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
-    "id": "voly-codes/voly",
-    "language": "Python",
-    "name": "voly-codes/voly",
-    "stars": 15,
-    "updated_at": "2026-07-31T13:32:59Z",
-    "url": "https://github.com/voly-codes/voly"
   }
 ]
