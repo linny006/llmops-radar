@@ -1,5 +1,77 @@
 [
   {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 4,
+    "updated_at": "2026-07-31T15:41:38Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3441,
+    "updated_at": "2026-07-31T15:45:15Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open Source OpenTelemetry-native Observability tool for GenAI and LLMs designed to provide developers with complete capa",
+    "id": "openlit/website",
+    "language": "TypeScript",
+    "name": "openlit/website",
+    "stars": 10,
+    "updated_at": "2026-07-31T15:39:09Z",
+    "url": "https://github.com/openlit/website"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:44:23Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55181,
+    "updated_at": "2026-07-31T15:36:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:34:43Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:30:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The Requesty integration package for the Vercel AI SDK.",
+    "id": "requestyai/ai-sdk-requesty",
+    "language": "TypeScript",
+    "name": "requestyai/ai-sdk-requesty",
+    "stars": 8,
+    "updated_at": "2026-07-31T15:29:48Z",
+    "url": "https://github.com/requestyai/ai-sdk-requesty"
+  },
+  {
     "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
     "id": "Mrg77/tfforge",
     "language": "Go",
@@ -18,12 +90,21 @@
     "url": "https://github.com/kreftamarcio/prompt-forge"
   },
   {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-07-31T15:37:12Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-07-31T15:27:12Z",
+    "updated_at": "2026-07-31T15:44:49Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -59,26 +140,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21003,
-    "updated_at": "2026-07-31T15:22:44Z",
+    "updated_at": "2026-07-31T15:34:23Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55179,
-    "updated_at": "2026-07-31T15:22:04Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:30:15Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -99,15 +162,6 @@
     "url": "https://github.com/eduxfernandes05/agentic-sdlc-azure"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -121,7 +175,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32242,
+    "stars": 32243,
     "updated_at": "2026-07-31T15:08:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -140,17 +194,8 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 202,
-    "updated_at": "2026-07-31T15:24:34Z",
+    "updated_at": "2026-07-31T15:45:13Z",
     "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3441,
-    "updated_at": "2026-07-31T15:29:01Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10832,
-    "updated_at": "2026-07-31T15:27:00Z",
+    "updated_at": "2026-07-31T15:44:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -176,17 +221,8 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-07-31T15:08:21Z",
+    "updated_at": "2026-07-31T15:40:36Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "The Requesty integration package for the Vercel AI SDK.",
-    "id": "requestyai/ai-sdk-requesty",
-    "language": "TypeScript",
-    "name": "requestyai/ai-sdk-requesty",
-    "stars": 8,
-    "updated_at": "2026-07-31T15:29:48Z",
-    "url": "https://github.com/requestyai/ai-sdk-requesty"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -212,7 +248,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-31T14:32:23Z",
+    "updated_at": "2026-07-31T15:37:52Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T14:27:34Z",
     "url": "https://github.com/rohansx/sift"
-  },
-  {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 4,
-    "updated_at": "2026-07-31T15:25:30Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -311,7 +338,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23791,
-    "updated_at": "2026-07-31T15:15:12Z",
+    "updated_at": "2026-07-31T15:43:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -382,7 +409,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27302,
+    "stars": 27303,
     "updated_at": "2026-07-31T13:33:50Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T13:24:58Z",
     "url": "https://github.com/novafabric/novafabric"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29477,
-    "updated_at": "2026-07-31T13:24:36Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
-    "id": "bytebeast/check-endpoint",
-    "language": "Python",
-    "name": "bytebeast/check-endpoint",
-    "stars": 6,
-    "updated_at": "2026-07-31T13:20:03Z",
-    "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "cubestudio\u5f00\u6e90\u4e91\u539f\u751f\u4e00\u7ad9\u5f0f\u673a\u5668\u5b66\u4e60/\u6df1\u5ea6\u5b66\u4e60/\u5927\u6a21\u578bAI\u5e73\u53f0/MaaS/mlops/\u4eba\u5de5\u667a\u80fd\u5e73\u53f0/\u8bad\u63a8\u5e73\u53f0\uff0c\u7b97\u6cd5\u5168\u94fe\u8def\u6d41\u7a0b\uff0c\u591a\u79df\u6237\uff0c\u7b97\u529b\u79df\u8d41\u5e73\u53f0\uff0ctoken\u4e2d\u8f6c\uff0c\u62d6\u62c9\u62fd\u4efb\u52a1\u6d41pipeline\u7f16\u6392\uff0c\u591a\u673a\u591a\u5361\u5206\u5e03\u5f0f\u8bad\u7ec3\uff0c\u8d85\u53c2\u641c\u7d22\uff0c\u63a8\u7406",
-    "id": "data-infra/cube-studio",
-    "language": "Python",
-    "name": "data-infra/cube-studio",
-    "stars": 2385,
-    "updated_at": "2026-07-31T13:14:53Z",
-    "url": "https://github.com/data-infra/cube-studio"
   }
 ]
