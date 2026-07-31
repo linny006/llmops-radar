@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 24,
+    "updated_at": "2026-07-31T04:44:52Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T04:42:57Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 10,
+    "updated_at": "2026-07-31T04:42:53Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
     "id": "alexejsailer/agentic-nets",
     "language": "TypeScript",
@@ -25,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T04:30:36Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T04:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
@@ -76,7 +94,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27291,
+    "stars": 27292,
     "updated_at": "2026-07-31T04:26:12Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 12,
-    "updated_at": "2026-07-31T04:20:36Z",
+    "updated_at": "2026-07-31T04:45:21Z",
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
@@ -306,15 +324,6 @@
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 10,
-    "updated_at": "2026-07-31T04:42:53Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2532,
     "updated_at": "2026-07-31T03:12:22Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-31T01:31:46Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
