@@ -1,12 +1,120 @@
 [
   {
+    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
+    "id": "Mrg77/tfforge",
+    "language": "Go",
+    "name": "Mrg77/tfforge",
+    "stars": 0,
+    "updated_at": "2026-07-31T15:28:25Z",
+    "url": "https://github.com/Mrg77/tfforge"
+  },
+  {
+    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
+    "id": "kreftamarcio/prompt-forge",
+    "language": "TypeScript",
+    "name": "kreftamarcio/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-07-31T15:28:05Z",
+    "url": "https://github.com/kreftamarcio/prompt-forge"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-07-31T15:27:12Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-31T15:25:50Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
+    "id": "Tourinhan/Fund-of-Brian",
+    "language": "HTML",
+    "name": "Tourinhan/Fund-of-Brian",
+    "stars": 0,
+    "updated_at": "2026-07-31T15:24:12Z",
+    "url": "https://github.com/Tourinhan/Fund-of-Brian"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2661,
+    "updated_at": "2026-07-31T15:22:59Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21003,
+    "updated_at": "2026-07-31T15:22:44Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55177,
-    "updated_at": "2026-07-31T15:12:24Z",
+    "stars": 55179,
+    "updated_at": "2026-07-31T15:22:04Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "TypeScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:30:15Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 384,
+    "updated_at": "2026-07-31T15:17:09Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Agentic SDLC on Azure: a natural-language request becomes a governed, reviewed pull request and a live Azure deployment ",
+    "id": "eduxfernandes05/agentic-sdlc-azure",
+    "language": "TypeScript",
+    "name": "eduxfernandes05/agentic-sdlc-azure",
+    "stars": 0,
+    "updated_at": "2026-07-31T15:16:56Z",
+    "url": "https://github.com/eduxfernandes05/agentic-sdlc-azure"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-31T15:12:53Z",
+    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -27,21 +135,12 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-07-31T15:05:02Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
     "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 202,
-    "updated_at": "2026-07-31T15:14:28Z",
+    "updated_at": "2026-07-31T15:24:34Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -50,17 +149,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3441,
-    "updated_at": "2026-07-31T15:15:22Z",
+    "updated_at": "2026-07-31T15:29:01Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:00:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -68,7 +158,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10832,
-    "updated_at": "2026-07-31T14:58:23Z",
+    "updated_at": "2026-07-31T15:27:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -90,40 +180,13 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 383,
-    "updated_at": "2026-07-31T14:47:36Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21002,
-    "updated_at": "2026-07-31T14:53:43Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The Requesty integration package for the Vercel AI SDK.",
     "id": "requestyai/ai-sdk-requesty",
     "language": "TypeScript",
     "name": "requestyai/ai-sdk-requesty",
     "stars": 8,
-    "updated_at": "2026-07-31T14:41:06Z",
+    "updated_at": "2026-07-31T15:29:48Z",
     "url": "https://github.com/requestyai/ai-sdk-requesty"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "TypeScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:14:58Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -151,15 +214,6 @@
     "stars": 5,
     "updated_at": "2026-07-31T14:32:23Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-31T15:12:53Z",
-    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -194,7 +248,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kmemo",
     "stars": 4,
-    "updated_at": "2026-07-31T15:14:45Z",
+    "updated_at": "2026-07-31T15:25:30Z",
     "url": "https://github.com/NaCode-Studios/Kmemo"
   },
   {
@@ -250,24 +304,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T14:05:34Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-31T14:02:16Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2661,
-    "updated_at": "2026-07-31T14:02:13Z",
-    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1536,
-    "updated_at": "2026-07-31T14:46:17Z",
+    "updated_at": "2026-07-31T15:20:40Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2385,
     "updated_at": "2026-07-31T13:14:53Z",
     "url": "https://github.com/data-infra/cube-studio"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-07-31T13:04:34Z",
-    "url": "https://github.com/acornops/docs-website"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:04:30Z",
-    "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
-    "id": "acornops/agentk",
-    "language": "TypeScript",
-    "name": "acornops/agentk",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:04:26Z",
-    "url": "https://github.com/acornops/agentk"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:04:24Z",
-    "url": "https://github.com/acornops/management-console"
   }
 ]
