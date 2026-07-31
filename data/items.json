@@ -1,11 +1,65 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-31T02:27:58Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 109,
+    "updated_at": "2026-07-31T02:27:28Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-31T02:27:19Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55123,
+    "updated_at": "2026-07-31T02:28:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 10,
+    "updated_at": "2026-07-31T02:21:44Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
+    "id": "acornops/agentv",
+    "language": "TypeScript",
+    "name": "acornops/agentv",
+    "stars": 1,
+    "updated_at": "2026-07-31T02:16:40Z",
+    "url": "https://github.com/acornops/agentv"
+  },
+  {
     "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
     "id": "acornops/llm-gateway",
     "language": "Python",
     "name": "acornops/llm-gateway",
     "stars": 2,
-    "updated_at": "2026-07-31T02:12:57Z",
+    "updated_at": "2026-07-31T02:16:38Z",
     "url": "https://github.com/acornops/llm-gateway"
   },
   {
@@ -14,8 +68,71 @@
     "language": "Python",
     "name": "acornops/execution-engine",
     "stars": 2,
-    "updated_at": "2026-07-31T02:12:56Z",
+    "updated_at": "2026-07-31T02:16:38Z",
     "url": "https://github.com/acornops/execution-engine"
+  },
+  {
+    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
+    "id": "acornops/agentk",
+    "language": "TypeScript",
+    "name": "acornops/agentk",
+    "stars": 2,
+    "updated_at": "2026-07-31T02:15:45Z",
+    "url": "https://github.com/acornops/agentk"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-31T02:15:43Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-07-31T02:15:40Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-07-31T02:15:40Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
+    "id": "acornops/acornops",
+    "language": "JavaScript",
+    "name": "acornops/acornops",
+    "stars": 11,
+    "updated_at": "2026-07-31T02:15:40Z",
+    "url": "https://github.com/acornops/acornops"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-07-31T02:15:40Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T02:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -27,15 +144,6 @@
     "url": "https://github.com/dshakes/clickllm"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-31T02:09:21Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
     "id": "Everton-baptista/agenteARQ",
     "language": "Python",
@@ -43,33 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T02:09:03Z",
     "url": "https://github.com/Everton-baptista/agenteARQ"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55122,
-    "updated_at": "2026-07-31T02:10:13Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T02:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 10,
-    "updated_at": "2026-07-31T02:13:55Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -104,7 +185,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27288,
-    "updated_at": "2026-07-31T01:48:46Z",
+    "updated_at": "2026-07-31T02:20:59Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -140,7 +221,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-31T01:38:32Z",
+    "updated_at": "2026-07-31T02:15:33Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -149,7 +230,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-31T01:37:51Z",
+    "updated_at": "2026-07-31T02:27:29Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -158,7 +239,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10822,
-    "updated_at": "2026-07-31T01:55:49Z",
+    "updated_at": "2026-07-31T02:19:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -288,21 +369,12 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-31T00:06:40Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
     "id": "avikalpg/byok-relay",
     "language": "JavaScript",
     "name": "avikalpg/byok-relay",
     "stars": 53,
-    "updated_at": "2026-07-31T00:06:05Z",
+    "updated_at": "2026-07-31T02:16:04Z",
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
@@ -337,7 +409,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6913,
+    "stars": 6915,
     "updated_at": "2026-07-30T23:41:00Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -364,18 +436,9 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 635,
+    "stars": 636,
     "updated_at": "2026-07-30T23:36:08Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 109,
-    "updated_at": "2026-07-30T23:33:57Z",
-    "url": "https://github.com/GetBusbar/busbar"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-31T00:29:24Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
-    "id": "Drlinglong/Remis",
-    "language": "Python",
-    "name": "Drlinglong/Remis",
-    "stars": 24,
-    "updated_at": "2026-07-31T01:00:09Z",
-    "url": "https://github.com/Drlinglong/Remis"
-  },
-  {
-    "description": "Stdlib-only LLMOps: cost-aware model routing, evals, and honest telemetry \u2014 measured on real usage (162 tests)",
-    "id": "evince55/aria-llmops",
-    "language": "Python",
-    "name": "evince55/aria-llmops",
-    "stars": 0,
-    "updated_at": "2026-07-30T23:18:38Z",
-    "url": "https://github.com/evince55/aria-llmops"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-07-30T23:14:14Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 2,
-    "updated_at": "2026-07-30T23:07:08Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-30T23:05:02Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "A collection of tricks and tools to speed up transformer models",
-    "id": "OpenMachine-ai/transformer-tricks",
-    "language": "TeX",
-    "name": "OpenMachine-ai/transformer-tricks",
-    "stars": 220,
-    "updated_at": "2026-07-30T23:03:19Z",
-    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32188,
-    "updated_at": "2026-07-30T22:58:21Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
