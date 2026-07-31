@@ -1,12 +1,48 @@
 [
   {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-07-31T16:59:37Z",
-    "url": "https://github.com/soapbucket/sbproxy"
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-31T17:13:06Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 24,
+    "updated_at": "2026-07-31T17:10:05Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10833,
+    "updated_at": "2026-07-31T17:14:50Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
+    "id": "cendorhq/cendor-libs",
+    "language": "Python",
+    "name": "cendorhq/cendor-libs",
+    "stars": 0,
+    "updated_at": "2026-07-31T17:06:40Z",
+    "url": "https://github.com/cendorhq/cendor-libs"
+  },
+  {
+    "description": "Accountability layer for AI agents. Turns OpenTelemetry GenAI traces into a daily digest where every line is anchored to",
+    "id": "adriencr81/Check-Alfred",
+    "language": "Python",
+    "name": "adriencr81/Check-Alfred",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:05:56Z",
+    "url": "https://github.com/adriencr81/Check-Alfred"
   },
   {
     "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
@@ -14,8 +50,71 @@
     "language": "HTML",
     "name": "Tourinhan/Fund-of-Brian",
     "stars": 0,
-    "updated_at": "2026-07-31T16:59:15Z",
+    "updated_at": "2026-07-31T17:05:21Z",
     "url": "https://github.com/Tourinhan/Fund-of-Brian"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1126,
+    "updated_at": "2026-07-31T17:03:41Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "AI Infrastructure OS execution plane: OpenAI-compatible gateway, MCP tool governance, intent proxy, vLLM/KServe/KEDA, OI",
+    "id": "justrunme/ai-runtime-platform",
+    "language": "Python",
+    "name": "justrunme/ai-runtime-platform",
+    "stars": 1,
+    "updated_at": "2026-07-31T17:03:48Z",
+    "url": "https://github.com/justrunme/ai-runtime-platform"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:15:16Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 68,
+    "updated_at": "2026-07-31T17:02:02Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2661,
+    "updated_at": "2026-07-31T17:00:19Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-07-31T16:59:37Z",
+    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -36,15 +135,6 @@
     "url": "https://github.com/RafineriaAI/aos-workflow-gate"
   },
   {
-    "description": "AI Infrastructure OS execution plane: OpenAI-compatible gateway, MCP tool governance, intent proxy, vLLM/KServe/KEDA, OI",
-    "id": "justrunme/ai-runtime-platform",
-    "language": "Python",
-    "name": "justrunme/ai-runtime-platform",
-    "stars": 1,
-    "updated_at": "2026-07-31T16:56:55Z",
-    "url": "https://github.com/justrunme/ai-runtime-platform"
-  },
-  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -59,17 +149,17 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55188,
-    "updated_at": "2026-07-31T16:52:52Z",
+    "updated_at": "2026-07-31T17:10:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:59:06Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 663,
+    "updated_at": "2026-07-31T16:52:45Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -79,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-07-31T16:48:40Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:46:54Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -140,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3441,
-    "updated_at": "2026-07-31T16:52:16Z",
+    "updated_at": "2026-07-31T17:09:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -171,15 +252,6 @@
     "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
   },
   {
-    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 68,
-    "updated_at": "2026-07-31T17:00:20Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -205,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T16:25:17Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2661,
-    "updated_at": "2026-07-31T17:00:19Z",
-    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -302,7 +365,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-31T16:41:46Z",
+    "updated_at": "2026-07-31T17:10:42Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -337,7 +400,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23792,
+    "stars": 23793,
     "updated_at": "2026-07-31T15:43:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T15:16:56Z",
     "url": "https://github.com/eduxfernandes05/agentic-sdlc-azure"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-31T15:12:53Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6941,
-    "updated_at": "2026-07-31T15:08:25Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 11,
-    "updated_at": "2026-07-31T15:07:18Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 202,
-    "updated_at": "2026-07-31T16:55:17Z",
-    "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10832,
-    "updated_at": "2026-07-31T16:58:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-07-31T14:56:01Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 152,
-    "updated_at": "2026-07-31T14:34:03Z",
-    "url": "https://github.com/langfuse/langfuse-js"
   }
 ]
