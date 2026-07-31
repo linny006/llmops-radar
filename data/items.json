@@ -1,11 +1,119 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3439,
+    "updated_at": "2026-07-31T09:14:59Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 381,
+    "updated_at": "2026-07-31T09:14:14Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-07-31T09:13:50Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 4,
+    "updated_at": "2026-07-31T09:11:24Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:11:09Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27294,
+    "updated_at": "2026-07-31T09:09:22Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2339,
+    "updated_at": "2026-07-31T09:06:10Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55152,
+    "updated_at": "2026-07-31T09:09:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32220,
+    "updated_at": "2026-07-31T09:12:48Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-31T09:05:39Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 68,
+    "updated_at": "2026-07-31T09:08:41Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 648,
+    "updated_at": "2026-07-31T09:03:05Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20998,
-    "updated_at": "2026-07-31T08:58:37Z",
+    "stars": 21000,
+    "updated_at": "2026-07-31T09:02:56Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -14,17 +122,17 @@
     "language": "Shell",
     "name": "wjllg1981-lang/aialma-api-examples",
     "stars": 0,
-    "updated_at": "2026-07-31T08:58:30Z",
+    "updated_at": "2026-07-31T09:02:34Z",
     "url": "https://github.com/wjllg1981-lang/aialma-api-examples"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55151,
-    "updated_at": "2026-07-31T08:57:37Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T09:00:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -36,33 +144,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:55:52Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 4,
-    "updated_at": "2026-07-31T08:54:34Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-31T08:53:34Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
     "id": "sxueck/llm-gateway",
     "language": "TypeScript",
@@ -70,15 +151,6 @@
     "stars": 48,
     "updated_at": "2026-07-31T08:50:52Z",
     "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32219,
-    "updated_at": "2026-07-31T08:56:37Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T08:47:02Z",
     "url": "https://github.com/cendorhq/cendor-libs"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -203,17 +266,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1291,
-    "updated_at": "2026-07-31T08:58:22Z",
+    "updated_at": "2026-07-31T09:07:23Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2339,
-    "updated_at": "2026-07-31T08:09:28Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-31T08:46:14Z",
+    "updated_at": "2026-07-31T09:14:51Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -257,17 +311,8 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-31T08:59:28Z",
+    "updated_at": "2026-07-31T09:07:49Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27294,
-    "updated_at": "2026-07-31T07:54:55Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -297,15 +342,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 381,
-    "updated_at": "2026-07-31T08:06:37Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
     "id": "Amitcoh1/agentbreaker",
     "language": "TypeScript",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11803,
-    "updated_at": "2026-07-31T08:59:28Z",
+    "updated_at": "2026-07-31T09:01:28Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-31T06:33:25Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Conversational product recommender: one rating-aware ranking core, two retrieval backends - Qdrant hybrid RAG over your ",
-    "id": "ghourimarti/Product-Recommender-Engine",
-    "language": "Python",
-    "name": "ghourimarti/Product-Recommender-Engine",
-    "stars": 0,
-    "updated_at": "2026-07-31T06:25:35Z",
-    "url": "https://github.com/ghourimarti/Product-Recommender-Engine"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1124,
-    "updated_at": "2026-07-31T07:14:24Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3439,
-    "updated_at": "2026-07-31T08:49:59Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 2,
-    "updated_at": "2026-07-31T06:13:33Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   }
 ]
