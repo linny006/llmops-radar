@@ -1,5 +1,95 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21001,
+    "updated_at": "2026-07-31T12:12:35Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-07-31T12:12:25Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6936,
+    "updated_at": "2026-07-31T12:08:53Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:06:53Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 53,
+    "updated_at": "2026-07-31T12:05:11Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
+    "id": "vul-os/llmux",
+    "language": "Go",
+    "name": "vul-os/llmux",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:05:01Z",
+    "url": "https://github.com/vul-os/llmux"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32228,
+    "updated_at": "2026-07-31T12:09:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 79,
+    "updated_at": "2026-07-31T12:10:00Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:59:58Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -27,21 +117,12 @@
     "url": "https://github.com/AgentEra/Agently"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6935,
-    "updated_at": "2026-07-31T11:56:16Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 381,
-    "updated_at": "2026-07-31T11:53:07Z",
+    "updated_at": "2026-07-31T12:06:58Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55160,
-    "updated_at": "2026-07-31T11:49:24Z",
+    "updated_at": "2026-07-31T12:09:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -72,15 +153,6 @@
     "url": "https://github.com/acornops/management-console"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32228,
-    "updated_at": "2026-07-31T12:00:01Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
     "id": "marcusschiesser/agentpond",
     "language": "TypeScript",
@@ -97,15 +169,6 @@
     "stars": 657,
     "updated_at": "2026-07-31T11:48:53Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -133,15 +196,6 @@
     "stars": 2535,
     "updated_at": "2026-07-31T11:37:31Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-07-31T11:54:58Z",
-    "url": "https://github.com/cognifityai/verdict"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1060,
-    "updated_at": "2026-07-31T11:50:19Z",
+    "updated_at": "2026-07-31T12:04:49Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -288,15 +342,6 @@
     "url": "https://github.com/NaCode-Studios/Kmemo"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 79,
-    "updated_at": "2026-07-31T11:59:59Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "Sentry-grade issue tracking for agent behavior. Clusters OpenTelemetry GenAI traces into stable, trackable themes with I",
     "id": "rohansx/sift",
     "language": "TypeScript",
@@ -324,15 +369,6 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21001,
-    "updated_at": "2026-07-31T11:59:25Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3439,
-    "updated_at": "2026-07-31T11:51:39Z",
+    "updated_at": "2026-07-31T12:08:43Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-31T10:34:51Z",
+    "updated_at": "2026-07-31T12:15:01Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-07-31T09:56:16Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:59:58Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8109,
-    "updated_at": "2026-07-31T09:38:27Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-07-31T09:31:22Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 24,
-    "updated_at": "2026-07-31T11:58:20Z",
-    "url": "https://github.com/byte5ai/omadia"
   }
 ]
