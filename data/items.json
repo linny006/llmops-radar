@@ -1,12 +1,84 @@
 [
   {
+    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-07-31T19:14:38Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 10,
+    "updated_at": "2026-07-31T19:12:25Z",
+    "url": "https://github.com/psyb0t/aigate"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 3,
+    "updated_at": "2026-07-31T19:07:38Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "Accountability layer for AI agents. Turns OpenTelemetry GenAI traces into a daily digest where every line is anchored to",
+    "id": "adriencr81/Check-Alfred",
+    "language": "Python",
+    "name": "adriencr81/Check-Alfred",
+    "stars": 3,
+    "updated_at": "2026-07-31T19:06:19Z",
+    "url": "https://github.com/adriencr81/Check-Alfred"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
+    "id": "wjlgatech/FM-os",
+    "language": "Python",
+    "name": "wjlgatech/FM-os",
+    "stars": 2,
+    "updated_at": "2026-07-31T19:06:04Z",
+    "url": "https://github.com/wjlgatech/FM-os"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-07-31T19:13:41Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55194,
-    "updated_at": "2026-07-31T19:00:08Z",
+    "stars": 55192,
+    "updated_at": "2026-07-31T19:14:47Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10835,
+    "updated_at": "2026-07-31T19:15:22Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T19:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -18,31 +90,22 @@
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32248,
+    "updated_at": "2026-07-31T19:13:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-31T18:57:24Z",
+    "updated_at": "2026-07-31T19:08:34Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T18:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
-    "id": "wjlgatech/FM-os",
-    "language": "Python",
-    "name": "wjlgatech/FM-os",
-    "stars": 1,
-    "updated_at": "2026-07-31T18:44:55Z",
-    "url": "https://github.com/wjlgatech/FM-os"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "RafineriaAI/aos-workflow-gate",
     "stars": 0,
-    "updated_at": "2026-07-31T18:44:03Z",
+    "updated_at": "2026-07-31T19:11:29Z",
     "url": "https://github.com/RafineriaAI/aos-workflow-gate"
   },
   {
@@ -88,33 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T18:28:20Z",
     "url": "https://github.com/Bobcatsfan33/Pharos"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10835,
-    "updated_at": "2026-07-31T18:48:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-07-31T18:27:49Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-07-31T18:26:27Z",
-    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
@@ -180,15 +216,6 @@
     "url": "https://github.com/cendorhq/cendor-cookbook-js"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32247,
-    "updated_at": "2026-07-31T18:57:01Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-07-31T18:48:26Z",
+    "updated_at": "2026-07-31T19:10:31Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -247,7 +274,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21008,
+    "stars": 21006,
     "updated_at": "2026-07-31T17:29:31Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -297,15 +324,6 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "Accountability layer for AI agents. Turns OpenTelemetry GenAI traces into a daily digest where every line is anchored to",
-    "id": "adriencr81/Check-Alfred",
-    "language": "Python",
-    "name": "adriencr81/Check-Alfred",
-    "stars": 3,
-    "updated_at": "2026-07-31T17:05:56Z",
-    "url": "https://github.com/adriencr81/Check-Alfred"
-  },
-  {
     "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
     "id": "Tourinhan/Fund-of-Brian",
     "language": "HTML",
@@ -333,15 +351,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-07-31T18:56:38Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -358,6 +367,15 @@
     "stars": 1,
     "updated_at": "2026-07-31T18:21:03Z",
     "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3131,
+    "updated_at": "2026-07-31T16:47:24Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
@@ -430,23 +448,5 @@
     "stars": 385,
     "updated_at": "2026-07-31T16:18:32Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-spring-boot-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-boot-starter",
-    "stars": 1,
-    "updated_at": "2026-07-31T16:17:56Z",
-    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-31T16:15:37Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
