@@ -1,5 +1,68 @@
 [
   {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 539,
+    "updated_at": "2026-07-31T17:58:54Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:59:01Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2661,
+    "updated_at": "2026-07-31T17:52:41Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:51:29Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
+    "id": "cendorhq/cendor-cookbook",
+    "language": "Python",
+    "name": "cendorhq/cendor-cookbook",
+    "stars": 0,
+    "updated_at": "2026-07-31T17:48:27Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook"
+  },
+  {
+    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
+    "id": "cendorhq/cendor-libs",
+    "language": "Python",
+    "name": "cendorhq/cendor-libs",
+    "stars": 0,
+    "updated_at": "2026-07-31T17:48:23Z",
+    "url": "https://github.com/cendorhq/cendor-libs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -9,13 +72,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-07-31T17:44:26Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55192,
+    "updated_at": "2026-07-31T17:43:34Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32244,
-    "updated_at": "2026-07-31T17:44:35Z",
+    "updated_at": "2026-07-31T17:53:18Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -50,33 +113,15 @@
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 26,
-    "updated_at": "2026-07-31T17:36:40Z",
+    "updated_at": "2026-07-31T17:57:52Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55189,
-    "updated_at": "2026-07-31T17:43:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T17:30:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21007,
+    "stars": 21008,
     "updated_at": "2026-07-31T17:29:31Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -135,15 +180,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
-    "id": "cendorhq/cendor-libs",
-    "language": "Python",
-    "name": "cendorhq/cendor-libs",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:06:40Z",
-    "url": "https://github.com/cendorhq/cendor-libs"
-  },
-  {
     "description": "Accountability layer for AI agents. Turns OpenTelemetry GenAI traces into a daily digest where every line is anchored to",
     "id": "adriencr81/Check-Alfred",
     "language": "Python",
@@ -178,15 +214,6 @@
     "stars": 68,
     "updated_at": "2026-07-31T17:02:02Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2661,
-    "updated_at": "2026-07-31T17:00:19Z",
-    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 663,
-    "updated_at": "2026-07-31T16:52:45Z",
+    "updated_at": "2026-07-31T17:55:07Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -268,15 +295,6 @@
     "stars": 3441,
     "updated_at": "2026-07-31T17:39:11Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:39:41Z",
-    "url": "https://github.com/umutkeltek/switchback"
   },
   {
     "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
@@ -430,23 +448,5 @@
     "stars": 29477,
     "updated_at": "2026-07-31T15:41:28Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The Requesty integration package for the Vercel AI SDK.",
-    "id": "requestyai/ai-sdk-requesty",
-    "language": "TypeScript",
-    "name": "requestyai/ai-sdk-requesty",
-    "stars": 8,
-    "updated_at": "2026-07-31T15:29:48Z",
-    "url": "https://github.com/requestyai/ai-sdk-requesty"
-  },
-  {
-    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
-    "id": "Mrg77/tfforge",
-    "language": "Go",
-    "name": "Mrg77/tfforge",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:28:25Z",
-    "url": "https://github.com/Mrg77/tfforge"
   }
 ]
