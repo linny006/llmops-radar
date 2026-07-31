@@ -1,5 +1,77 @@
 [
   {
+    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
+    "id": "RafineriaAI/aos-workflow-gate",
+    "language": "Python",
+    "name": "RafineriaAI/aos-workflow-gate",
+    "stars": 0,
+    "updated_at": "2026-07-31T20:12:36Z",
+    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
+  },
+  {
+    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
+    "id": "cendorhq/cendor-cookbook-js",
+    "language": "JavaScript",
+    "name": "cendorhq/cendor-cookbook-js",
+    "stars": 0,
+    "updated_at": "2026-07-31T20:11:51Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook-js"
+  },
+  {
+    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
+    "id": "Amitcoh1/agentbreaker",
+    "language": "TypeScript",
+    "name": "Amitcoh1/agentbreaker",
+    "stars": 4,
+    "updated_at": "2026-07-31T20:10:06Z",
+    "url": "https://github.com/Amitcoh1/agentbreaker"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 53,
+    "updated_at": "2026-07-31T20:10:00Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "Lightweight, self-hosted LLMOps evaluation & observability platform with multi-provider tracking (OpenRouter, OpenAI, An",
+    "id": "vipulchinmay/llmops-evals",
+    "language": "Python",
+    "name": "vipulchinmay/llmops-evals",
+    "stars": 0,
+    "updated_at": "2026-07-31T20:05:56Z",
+    "url": "https://github.com/vipulchinmay/llmops-evals"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T20:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-07-31T20:00:24Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55193,
+    "updated_at": "2026-07-31T20:15:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal gro",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -81,15 +153,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T19:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Accountability layer for AI agents. Turns OpenTelemetry GenAI traces into a daily digest where every line is anchored to",
     "id": "adriencr81/Check-Alfred",
     "language": "Python",
@@ -104,7 +167,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-07-31T19:59:29Z",
+    "updated_at": "2026-07-31T20:12:24Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -140,7 +203,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-07-31T19:46:53Z",
+    "updated_at": "2026-07-31T20:12:49Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -178,24 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T19:22:41Z",
     "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55192,
-    "updated_at": "2026-07-31T19:59:29Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
-    "id": "RafineriaAI/aos-workflow-gate",
-    "language": "Python",
-    "name": "RafineriaAI/aos-workflow-gate",
-    "stars": 0,
-    "updated_at": "2026-07-31T19:15:35Z",
-    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
   },
   {
     "description": "\ud83d\udee0\ufe0f FM-os: the living, SLM-first map of foundation-model operations \u2014 pre-training, post-training, fine-tuning & RL. Cura",
@@ -292,18 +337,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23796,
+    "stars": 23797,
     "updated_at": "2026-07-31T18:05:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
-    "id": "cendorhq/cendor-cookbook-js",
-    "language": "JavaScript",
-    "name": "cendorhq/cendor-cookbook-js",
-    "stars": 0,
-    "updated_at": "2026-07-31T18:01:23Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook-js"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "malkreide/zh-education-mcp",
     "stars": 0,
-    "updated_at": "2026-07-31T17:13:06Z",
+    "updated_at": "2026-07-31T20:12:44Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1126,
     "updated_at": "2026-07-31T18:46:30Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 68,
-    "updated_at": "2026-07-31T17:02:02Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-07-31T16:58:23Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-07-31T18:21:03Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3131,
-    "updated_at": "2026-07-31T16:47:24Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
