@@ -1,12 +1,39 @@
 [
   {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-07-31T23:17:50Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
+    "id": "techlab-innov/llmtrace",
+    "language": "Python",
+    "name": "techlab-innov/llmtrace",
+    "stars": 52,
+    "updated_at": "2026-07-31T23:16:16Z",
+    "url": "https://github.com/techlab-innov/llmtrace"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55201,
-    "updated_at": "2026-07-31T23:13:42Z",
+    "stars": 55202,
+    "updated_at": "2026-07-31T23:15:48Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T23:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -54,15 +81,6 @@
     "url": "https://github.com/ajankuv/omniswarm"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T23:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Papers related to Large Language Models in all top venues",
     "id": "mtuann/llm-updated-papers",
     "language": "\u2014",
@@ -77,7 +95,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-31T23:11:43Z",
+    "updated_at": "2026-07-31T23:23:20Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10837,
-    "updated_at": "2026-07-31T23:10:41Z",
+    "updated_at": "2026-07-31T23:15:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-31T23:00:30Z",
+    "updated_at": "2026-07-31T23:28:57Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-31T19:47:41Z",
     "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-07-31T19:47:13Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6941,
-    "updated_at": "2026-07-31T19:45:28Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
