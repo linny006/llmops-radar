@@ -1,5 +1,50 @@
 [
   {
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
+    "language": "Python",
+    "name": "amro/evaling",
+    "stars": 0,
+    "updated_at": "2026-07-31T21:37:47Z",
+    "url": "https://github.com/amro/evaling"
+  },
+  {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2497,
+    "updated_at": "2026-07-31T21:37:26Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
+    "description": "A typed coherence layer for portable organizational AI agents.",
+    "id": "buchk/TypeFerence",
+    "language": "Go",
+    "name": "buchk/TypeFerence",
+    "stars": 0,
+    "updated_at": "2026-07-31T21:37:07Z",
+    "url": "https://github.com/buchk/TypeFerence"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55197,
+    "updated_at": "2026-07-31T21:43:01Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T21:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-07-31T21:29:48Z",
+    "updated_at": "2026-07-31T21:39:22Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T21:25:40Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T21:20:42Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Retrieval-quality harness for RAG: recall@10 and MRR against labeled queries across chunkers and retrievers. Chunk size ",
@@ -72,15 +108,6 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55195,
-    "updated_at": "2026-07-31T21:28:44Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -94,7 +121,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10836,
+    "stars": 10837,
     "updated_at": "2026-07-31T21:02:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "VibePod/vibepod-cli",
     "stars": 104,
-    "updated_at": "2026-07-31T21:24:03Z",
+    "updated_at": "2026-07-31T21:32:59Z",
     "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T20:05:56Z",
     "url": "https://github.com/vipulchinmay/llmops-evals"
-  },
-  {
-    "description": "CLI tool for comparing prompt variants and models",
-    "id": "amro/evaling",
-    "language": "Python",
-    "name": "amro/evaling",
-    "stars": 0,
-    "updated_at": "2026-07-31T20:04:52Z",
-    "url": "https://github.com/amro/evaling"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "wjlgatech/FM-os",
     "stars": 2,
-    "updated_at": "2026-07-31T19:06:04Z",
+    "updated_at": "2026-07-31T21:35:21Z",
     "url": "https://github.com/wjlgatech/FM-os"
   },
   {
@@ -383,7 +401,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3442,
-    "updated_at": "2026-07-31T19:31:22Z",
+    "updated_at": "2026-07-31T21:43:00Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-31T18:21:33Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23798,
-    "updated_at": "2026-07-31T21:27:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 540,
-    "updated_at": "2026-07-31T17:58:54Z",
-    "url": "https://github.com/mikehasa/agentacct"
   }
 ]
