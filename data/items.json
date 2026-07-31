@@ -1,12 +1,57 @@
 [
   {
+    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
+    "id": "Everton-baptista/agenteARQ",
+    "language": "Python",
+    "name": "Everton-baptista/agenteARQ",
+    "stars": 0,
+    "updated_at": "2026-07-31T00:57:57Z",
+    "url": "https://github.com/Everton-baptista/agenteARQ"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-07-31T00:56:03Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-07-31T00:55:02Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 355,
-    "updated_at": "2026-07-31T00:41:19Z",
+    "updated_at": "2026-07-31T00:55:00Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
+    "id": "vul-os/llmux",
+    "language": "Go",
+    "name": "vul-os/llmux",
+    "stars": 2,
+    "updated_at": "2026-07-31T00:52:18Z",
+    "url": "https://github.com/vul-os/llmux"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T00:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,17 +59,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55119,
-    "updated_at": "2026-07-31T00:40:35Z",
+    "updated_at": "2026-07-31T00:58:01Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "An open, versioned, verifiable standard for building AI agents \u2014 machine-readable manifests, guardrails, MCP allowlists ",
-    "id": "Everton-baptista/agenteARQ",
-    "language": "Python",
-    "name": "Everton-baptista/agenteARQ",
-    "stars": 0,
-    "updated_at": "2026-07-31T00:38:33Z",
-    "url": "https://github.com/Everton-baptista/agenteARQ"
   },
   {
     "description": "An open-source reliability scorecard for LLM agents \u2014 measure grounding, safety, PII, and task-completion against fixed ",
@@ -45,6 +81,15 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20995,
+    "updated_at": "2026-07-31T00:34:06Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Version, evaluate, diff, and roll back compiled DSPy programs \u2014 a prompt-optimization workflow that stores every run as ",
     "id": "backblaze-b2-samples/dspy-compiled-program-versioning",
     "language": "TypeScript",
@@ -54,21 +99,12 @@
     "url": "https://github.com/backblaze-b2-samples/dspy-compiled-program-versioning"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T00:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-07-31T00:30:23Z",
+    "updated_at": "2026-07-31T01:00:22Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 47,
     "updated_at": "2026-07-31T00:25:42Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-07-31T00:15:22Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -139,7 +166,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6908,
+    "stars": 6909,
     "updated_at": "2026-07-30T23:41:00Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -175,7 +202,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 634,
+    "stars": 635,
     "updated_at": "2026-07-30T23:36:08Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "Drlinglong/Remis",
     "stars": 24,
-    "updated_at": "2026-07-30T23:20:39Z",
+    "updated_at": "2026-07-31T01:00:09Z",
     "url": "https://github.com/Drlinglong/Remis"
   },
   {
@@ -324,15 +351,6 @@
     "url": "https://github.com/solomon2773/nora"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-31T00:30:47Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
@@ -405,15 +423,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
-    "id": "vul-os/llmux",
-    "language": "Go",
-    "name": "vul-os/llmux",
-    "stars": 2,
-    "updated_at": "2026-07-30T21:54:26Z",
-    "url": "https://github.com/vul-os/llmux"
-  },
-  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T21:34:08Z",
     "url": "https://github.com/cendorhq/cendor-libs"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 2,
-    "updated_at": "2026-07-30T21:28:02Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
