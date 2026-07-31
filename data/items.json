@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-07-31T10:59:54Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32228,
+    "updated_at": "2026-07-31T10:58:08Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:57:15Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 4,
+    "updated_at": "2026-07-31T10:57:01Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-07-31T10:56:36Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 81,
+    "updated_at": "2026-07-31T10:55:12Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-31T10:53:21Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21001,
+    "updated_at": "2026-07-31T10:59:52Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T10:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -9,21 +90,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-31T10:45:24Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-07-31T10:40:40Z",
+    "updated_at": "2026-07-31T10:48:58Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -45,12 +117,21 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5662,
+    "updated_at": "2026-07-31T10:36:34Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3439,
-    "updated_at": "2026-07-31T10:40:18Z",
+    "updated_at": "2026-07-31T10:56:35Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -72,24 +153,6 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T10:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21001,
-    "updated_at": "2026-07-31T10:36:38Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
     "id": "cendorhq/cendor-libs",
     "language": "Python",
@@ -97,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T10:22:09Z",
     "url": "https://github.com/cendorhq/cendor-libs"
-  },
-  {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 4,
-    "updated_at": "2026-07-31T10:42:03Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32227,
-    "updated_at": "2026-07-31T10:16:24Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -193,7 +238,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55155,
+    "stars": 55157,
     "updated_at": "2026-07-31T09:45:24Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T09:31:22Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-07-31T09:42:17Z",
-    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29475,
-    "updated_at": "2026-07-31T09:00:24Z",
+    "updated_at": "2026-07-31T10:53:17Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -356,7 +392,7 @@
     "language": "TypeScript",
     "name": "acornops/control-plane",
     "stars": 2,
-    "updated_at": "2026-07-31T09:40:37Z",
+    "updated_at": "2026-07-31T11:00:25Z",
     "url": "https://github.com/acornops/control-plane"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1291,
     "updated_at": "2026-07-31T10:30:10Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10826,
-    "updated_at": "2026-07-31T08:08:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
-    "id": "avikalpg/byok-relay",
-    "language": "JavaScript",
-    "name": "avikalpg/byok-relay",
-    "stars": 53,
-    "updated_at": "2026-07-31T10:11:12Z",
-    "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1534,
-    "updated_at": "2026-07-31T10:36:55Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
-    "id": "Amitcoh1/agentbreaker",
-    "language": "TypeScript",
-    "name": "Amitcoh1/agentbreaker",
-    "stars": 4,
-    "updated_at": "2026-07-31T07:51:06Z",
-    "url": "https://github.com/Amitcoh1/agentbreaker"
   }
 ]
