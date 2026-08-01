@@ -1,5 +1,68 @@
 [
   {
+    "description": "Asturias Software Crafters Workshop",
+    "id": "resizes/asc-workshop",
+    "language": "Vue",
+    "name": "resizes/asc-workshop",
+    "stars": 5,
+    "updated_at": "2026-08-01T21:30:01Z",
+    "url": "https://github.com/resizes/asc-workshop"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-01T21:26:27Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-08-01T21:25:49Z",
+    "url": "https://github.com/aimd54/palan"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23820,
+    "updated_at": "2026-08-01T21:28:40Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
+    "id": "cendorhq/cendor-cookbook-js",
+    "language": "JavaScript",
+    "name": "cendorhq/cendor-cookbook-js",
+    "stars": 0,
+    "updated_at": "2026-08-01T21:21:20Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook-js"
+  },
+  {
+    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
+    "id": "cendorhq/cendor-cookbook",
+    "language": "Python",
+    "name": "cendorhq/cendor-cookbook",
+    "stars": 0,
+    "updated_at": "2026-08-01T21:21:17Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T21:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55283,
-    "updated_at": "2026-08-01T21:13:19Z",
+    "updated_at": "2026-08-01T21:29:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -34,33 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T21:07:34Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Asturias Software Crafters Workshop",
-    "id": "resizes/asc-workshop",
-    "language": "Vue",
-    "name": "resizes/asc-workshop",
-    "stars": 5,
-    "updated_at": "2026-08-01T21:03:40Z",
-    "url": "https://github.com/resizes/asc-workshop"
-  },
-  {
-    "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
-    "id": "aimd54/palan",
-    "language": "Go",
-    "name": "aimd54/palan",
-    "stars": 0,
-    "updated_at": "2026-08-01T21:03:23Z",
-    "url": "https://github.com/aimd54/palan"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T21:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -90,15 +126,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-01T20:45:26Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -113,17 +140,8 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-08-01T20:31:50Z",
+    "updated_at": "2026-08-01T21:23:47Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23820,
-    "updated_at": "2026-08-01T20:28:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Multi-tenant AI runtime control plane for risk scoring, policy enforcement, and evidence-preserving agent operations.",
@@ -131,7 +149,7 @@
     "language": "TypeScript",
     "name": "shivanshgupta365/RiskDelta-AI",
     "stars": 5,
-    "updated_at": "2026-08-01T20:28:02Z",
+    "updated_at": "2026-08-01T21:28:43Z",
     "url": "https://github.com/shivanshgupta365/RiskDelta-AI"
   },
   {
@@ -257,7 +275,7 @@
     "language": "TypeScript",
     "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "stars": 4,
-    "updated_at": "2026-08-01T19:24:54Z",
+    "updated_at": "2026-08-01T21:29:53Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 21,
     "updated_at": "2026-08-01T18:17:20Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 19,
-    "updated_at": "2026-08-01T18:07:49Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32284,
-    "updated_at": "2026-08-01T18:03:32Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
