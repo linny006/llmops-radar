@@ -1,20 +1,11 @@
 [
   {
-    "description": "AI-powered natural language SQL analytics platform that converts business questions into SQL queries, insights, and visu",
-    "id": "aadhya-code/QueryMind",
-    "language": "Python",
-    "name": "aadhya-code/QueryMind",
-    "stars": 0,
-    "updated_at": "2026-08-01T10:55:17Z",
-    "url": "https://github.com/aadhya-code/QueryMind"
-  },
-  {
     "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
     "id": "josondev/neuronworks-travel-agent",
     "language": "Python",
     "name": "josondev/neuronworks-travel-agent",
     "stars": 0,
-    "updated_at": "2026-08-01T10:54:06Z",
+    "updated_at": "2026-08-01T10:58:53Z",
     "url": "https://github.com/josondev/neuronworks-travel-agent"
   },
   {
@@ -23,8 +14,44 @@
     "language": "Python",
     "name": "justrunme/ai-infra-control-plane",
     "stars": 1,
-    "updated_at": "2026-08-01T10:55:45Z",
+    "updated_at": "2026-08-01T10:58:09Z",
     "url": "https://github.com/justrunme/ai-infra-control-plane"
+  },
+  {
+    "description": "Drop-in guards against the ways LLM pipelines fail while reporting success. Zero dependencies, 75 tests, one file.",
+    "id": "Vexithon/silent-failure-guards",
+    "language": "Python",
+    "name": "Vexithon/silent-failure-guards",
+    "stars": 0,
+    "updated_at": "2026-08-01T10:57:11Z",
+    "url": "https://github.com/Vexithon/silent-failure-guards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T10:56:19Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8117,
+    "updated_at": "2026-08-01T10:56:13Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "AI-powered natural language SQL analytics platform that converts business questions into SQL queries, insights, and visu",
+    "id": "aadhya-code/QueryMind",
+    "language": "Python",
+    "name": "aadhya-code/QueryMind",
+    "stars": 0,
+    "updated_at": "2026-08-01T10:55:17Z",
+    "url": "https://github.com/aadhya-code/QueryMind"
   },
   {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T10:47:59Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T10:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -187,15 +205,6 @@
     "stars": 43,
     "updated_at": "2026-08-01T10:04:35Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8116,
-    "updated_at": "2026-08-01T10:56:13Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
@@ -347,7 +356,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6955,
-    "updated_at": "2026-08-01T08:52:08Z",
+    "updated_at": "2026-08-01T10:56:40Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55236,
-    "updated_at": "2026-08-01T08:27:45Z",
+    "updated_at": "2026-08-01T10:57:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T07:57:12Z",
     "url": "https://github.com/S3curethecloud/traditional-ml-genai-policy-agent-lab"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-08-01T08:26:34Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
