@@ -1,12 +1,75 @@
 [
   {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 540,
+    "updated_at": "2026-08-01T08:44:25Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
+    "id": "Mrg77/tfforge",
+    "language": "Go",
+    "name": "Mrg77/tfforge",
+    "stars": 0,
+    "updated_at": "2026-08-01T08:41:30Z",
+    "url": "https://github.com/Mrg77/tfforge"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-01T08:39:37Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
     "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
     "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "language": "TypeScript",
     "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "stars": 4,
-    "updated_at": "2026-08-01T08:28:14Z",
+    "updated_at": "2026-08-01T08:38:49Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Turn Portkey & Langsmith data into OTEL signals",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-01T08:37:15Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-01T08:31:53Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T08:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55229,
+    "updated_at": "2026-08-01T08:27:45Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -45,15 +108,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
-    "id": "Mrg77/tfforge",
-    "language": "Go",
-    "name": "Mrg77/tfforge",
-    "stars": 0,
-    "updated_at": "2026-08-01T08:19:40Z",
-    "url": "https://github.com/Mrg77/tfforge"
-  },
-  {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
     "id": "dyronrh/awesome-agentops-landscape",
     "language": "Python",
@@ -72,13 +126,13 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T08:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": " Turn any PC \u2014 Windows or Linux \u2014 into a secure, agent-controllable workstation. One authenticated REST + MCP gateway ex",
+    "id": "cogniziocompany/agentic-remote-pc",
+    "language": "JavaScript",
+    "name": "cogniziocompany/agentic-remote-pc",
+    "stars": 0,
+    "updated_at": "2026-08-01T08:15:00Z",
+    "url": "https://github.com/cogniziocompany/agentic-remote-pc"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1543,
-    "updated_at": "2026-08-01T08:13:36Z",
+    "updated_at": "2026-08-01T08:33:02Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/S3curethecloud/traditional-ml-genai-policy-agent-lab"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55229,
-    "updated_at": "2026-08-01T08:27:45Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -130,7 +175,7 @@
     "id": "bionic-gpt/bionic-gpt",
     "language": "Rust",
     "name": "bionic-gpt/bionic-gpt",
-    "stars": 2341,
+    "stars": 2342,
     "updated_at": "2026-08-01T07:39:07Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
@@ -139,7 +184,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27313,
+    "stars": 27312,
     "updated_at": "2026-08-01T07:34:22Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -198,6 +243,15 @@
     "url": "https://github.com/cendorhq/cendor-cookbook"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6953,
+    "updated_at": "2026-08-01T06:58:09Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -214,6 +268,15 @@
     "stars": 15,
     "updated_at": "2026-08-01T06:57:22Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3446,
+    "updated_at": "2026-08-01T06:53:13Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "A zero-to-100 learning path for applied AI engineering \u2014 RAG, embeddings, vector search, agents, MCP, and the production",
@@ -252,15 +315,6 @@
     "url": "https://github.com/vipulchinmay/llmops-evals"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3445,
-    "updated_at": "2026-08-01T06:53:13Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -295,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T05:27:33Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Turn Portkey & Langsmith data into OTEL signals",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-01T08:29:44Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
@@ -369,15 +414,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-01T03:58:53Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
     "description": "Ask for a capability tier, never a model. Azure-first fallback chains on Cloudflare AI Gateway's universal endpoint, wit",
     "id": "montrealks/ai-gateway-tiers",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 24,
     "updated_at": "2026-08-01T03:32:48Z",
     "url": "https://github.com/Drlinglong/Remis"
-  },
-  {
-    "description": "Deterministic prefilter and cheap-to-chief escalation pipeline for reducing expensive LLM calls in agentic workflows.",
-    "id": "krivonosoff161/llm-cheap-filter",
-    "language": "Python",
-    "name": "krivonosoff161/llm-cheap-filter",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:37:12Z",
-    "url": "https://github.com/krivonosoff161/llm-cheap-filter"
-  },
-  {
-    "description": "Small cost-aware LLM router for role-tiered OpenAI-compatible and Yandex calls with per-call usage logging.",
-    "id": "krivonosoff161/llm-router",
-    "language": "Python",
-    "name": "krivonosoff161/llm-router",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:37:07Z",
-    "url": "https://github.com/krivonosoff161/llm-router"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2536,
-    "updated_at": "2026-08-01T02:54:47Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
-    "id": "Alpha-W0lf/alphaguard",
-    "language": "Python",
-    "name": "Alpha-W0lf/alphaguard",
-    "stars": 0,
-    "updated_at": "2026-08-01T02:49:40Z",
-    "url": "https://github.com/Alpha-W0lf/alphaguard"
   }
 ]
