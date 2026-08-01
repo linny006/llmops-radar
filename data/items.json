@@ -1,12 +1,75 @@
 [
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
+    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
+    "id": "okfriansyah-moh/the-foundry",
+    "language": "Go",
+    "name": "okfriansyah-moh/the-foundry",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:12:29Z",
+    "url": "https://github.com/okfriansyah-moh/the-foundry"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1127,
+    "updated_at": "2026-08-01T16:12:06Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
     "stars": 1,
-    "updated_at": "2026-08-01T16:00:47Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "updated_at": "2026-08-01T16:11:02Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "Local CLI to turn failed AI agent traces (wrong tool, bad args, over-refusals) from LangSmith/Langfuse into clean SFT/DP",
+    "id": "wane528/trace2train",
+    "language": "Python",
+    "name": "wane528/trace2train",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:10:19Z",
+    "url": "https://github.com/wane528/trace2train"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:08:08Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:07:08Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
+    "id": "jimyoshida/dx-devops-landscape",
+    "language": "JavaScript",
+    "name": "jimyoshida/dx-devops-landscape",
+    "stars": 5,
+    "updated_at": "2026-08-01T16:05:29Z",
+    "url": "https://github.com/jimyoshida/dx-devops-landscape"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-01T16:15:16Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T16:00:30Z",
+    "updated_at": "2026-08-01T16:02:03Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-01T16:00:47Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -54,13 +126,13 @@
     "url": "https://github.com/marcusschiesser/agentpond"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-01T16:01:33Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23815,
+    "updated_at": "2026-08-01T16:05:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "",
@@ -99,15 +171,6 @@
     "url": "https://github.com/cendorhq/cendor-libs"
   },
   {
-    "description": "Local CLI to turn failed AI agent traces (wrong tool, bad args, over-refusals) from LangSmith/Langfuse into clean SFT/DP",
-    "id": "wane528/trace2train",
-    "language": "Python",
-    "name": "wane528/trace2train",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:49:32Z",
-    "url": "https://github.com/wane528/trace2train"
-  },
-  {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
     "id": "psyb0t/aigate",
     "language": "Shell",
@@ -124,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T15:42:52Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23814,
-    "updated_at": "2026-08-01T15:52:51Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Infrastructure OS execution plane: OpenAI-compatible gateway, MCP tool governance, intent proxy, vLLM/KServe/KEDA, OI",
@@ -167,7 +221,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-01T15:35:08Z",
+    "updated_at": "2026-08-01T16:13:48Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 5,
     "updated_at": "2026-08-01T15:32:13Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:28:04Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T15:12:57Z",
     "url": "https://github.com/Azoqoz/LLM-Evaluation-Toolkit"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-01T14:58:40Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
@@ -412,41 +448,5 @@
     "stars": 75,
     "updated_at": "2026-08-01T12:52:24Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
-    "id": "thangldw/ragops",
-    "language": "Python",
-    "name": "thangldw/ragops",
-    "stars": 0,
-    "updated_at": "2026-08-01T12:50:28Z",
-    "url": "https://github.com/thangldw/ragops"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-01T12:32:24Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 185,
-    "updated_at": "2026-08-01T12:26:23Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
-    "id": "josondev/neuronworks-travel-agent",
-    "language": "Python",
-    "name": "josondev/neuronworks-travel-agent",
-    "stars": 0,
-    "updated_at": "2026-08-01T12:13:26Z",
-    "url": "https://github.com/josondev/neuronworks-travel-agent"
   }
 ]
