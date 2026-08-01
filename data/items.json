@@ -1,5 +1,32 @@
 [
   {
+    "description": "Conversational product recommender: one rating-aware ranking core, two retrieval backends - Qdrant hybrid RAG over your ",
+    "id": "ghourimarti/Product-Recommender-Engine",
+    "language": "Python",
+    "name": "ghourimarti/Product-Recommender-Engine",
+    "stars": 0,
+    "updated_at": "2026-08-01T06:09:21Z",
+    "url": "https://github.com/ghourimarti/Product-Recommender-Engine"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 13,
+    "updated_at": "2026-08-01T06:03:58Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T06:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Lightweight, self-hosted LLMOps evaluation & observability platform with multi-provider tracking (OpenRouter, OpenAI, An",
     "id": "vipulchinmay/llmops-evals",
     "language": "Python",
@@ -27,21 +54,12 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T05:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3445,
-    "updated_at": "2026-08-01T05:59:31Z",
+    "updated_at": "2026-08-01T06:07:02Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -77,7 +95,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-01T05:33:04Z",
+    "updated_at": "2026-08-01T06:05:12Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T05:27:57Z",
     "url": "https://github.com/ahmeddoghri/guardrail-gate"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 13,
-    "updated_at": "2026-08-01T05:27:20Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55221,
-    "updated_at": "2026-08-01T05:53:28Z",
+    "updated_at": "2026-08-01T06:07:41Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -153,6 +162,15 @@
     "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
   },
   {
+    "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
+    "id": "taichuy/1flowbase",
+    "language": "Rust",
+    "name": "taichuy/1flowbase",
+    "stars": 204,
+    "updated_at": "2026-08-01T04:57:16Z",
+    "url": "https://github.com/taichuy/1flowbase"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -166,7 +184,7 @@
     "id": "Arize-ai/openinference",
     "language": "Python",
     "name": "Arize-ai/openinference",
-    "stars": 1126,
+    "stars": 1127,
     "updated_at": "2026-08-01T04:45:03Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10841,
-    "updated_at": "2026-08-01T05:19:52Z",
+    "updated_at": "2026-08-01T06:09:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T03:49:08Z",
     "url": "https://github.com/rohansx/sift"
-  },
-  {
-    "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
-    "id": "taichuy/1flowbase",
-    "language": "Rust",
-    "name": "taichuy/1flowbase",
-    "stars": 203,
-    "updated_at": "2026-08-01T04:57:16Z",
-    "url": "https://github.com/taichuy/1flowbase"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T01:18:23Z",
     "url": "https://github.com/cendorhq/cendor-cookbook"
-  },
-  {
-    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
-    "id": "cendorhq/cendor-cookbook-js",
-    "language": "JavaScript",
-    "name": "cendorhq/cendor-cookbook-js",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:46:57Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook-js"
   }
 ]
