@@ -1,12 +1,39 @@
 [
   {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-01T23:03:00Z",
-    "url": "https://github.com/soapbucket/sbproxy"
+    "description": "Terminal-first, self-hosted AI gateway and 8-tool MCP server for Codex, Cursor, and Cline. One-command Docker demo; no A",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-01T23:26:18Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
+    "id": "cendorhq/cendor-libs",
+    "language": "Python",
+    "name": "cendorhq/cendor-libs",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:25:54Z",
+    "url": "https://github.com/cendorhq/cendor-libs"
+  },
+  {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:18:00Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-01T23:16:00Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T23:00:24Z",
+    "updated_at": "2026-08-01T23:15:29Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55289,
+    "updated_at": "2026-08-01T23:22:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-01T23:03:00Z",
+    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -45,24 +90,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:15:21Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55288,
-    "updated_at": "2026-08-01T23:12:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Reproducible behavioral-control audits and sealed drift attestation for deployed LLM agents. Stdlib-only, per-install ca",
     "id": "USTechAutomations/agent-audit",
     "language": "Python",
@@ -86,26 +113,8 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-08-01T22:40:06Z",
+    "updated_at": "2026-08-01T23:22:32Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-01T23:05:34Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Terminal-first, self-hosted AI gateway and 8-tool MCP server for Codex, Cursor, and Cline. One-command Docker demo; no A",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-08-01T22:14:54Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -310,7 +319,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21034,
+    "stars": 21035,
     "updated_at": "2026-08-01T19:46:38Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-01T19:01:54Z",
     "url": "https://github.com/acornops/execution-engine"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-08-01T18:46:35Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
