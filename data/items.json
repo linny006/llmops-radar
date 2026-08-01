@@ -1,12 +1,12 @@
 [
   {
-    "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
-    "id": "Palo-Alto-AI-Research-Lab/awesome-verified-agents",
-    "language": "\u2014",
-    "name": "Palo-Alto-AI-Research-Lab/awesome-verified-agents",
+    "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
     "stars": 0,
-    "updated_at": "2026-08-01T17:15:17Z",
-    "url": "https://github.com/Palo-Alto-AI-Research-Lab/awesome-verified-agents"
+    "updated_at": "2026-08-01T17:29:59Z",
+    "url": "https://github.com/aimd54/palan"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -14,8 +14,35 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-01T17:13:59Z",
+    "updated_at": "2026-08-01T17:29:17Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-01T17:27:29Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55260,
+    "updated_at": "2026-08-01T17:30:10Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 10,
+    "updated_at": "2026-08-01T17:19:41Z",
+    "url": "https://github.com/psyb0t/aigate"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,17 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T17:13:21Z",
+    "updated_at": "2026-08-01T17:15:32Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55259,
-    "updated_at": "2026-08-01T17:08:57Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
+    "id": "Palo-Alto-AI-Research-Lab/awesome-verified-agents",
+    "language": "\u2014",
+    "name": "Palo-Alto-AI-Research-Lab/awesome-verified-agents",
+    "stars": 0,
+    "updated_at": "2026-08-01T17:15:17Z",
+    "url": "https://github.com/Palo-Alto-AI-Research-Lab/awesome-verified-agents"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -85,7 +112,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23817,
+    "stars": 23818,
     "updated_at": "2026-08-01T16:54:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -142,15 +169,6 @@
     "stars": 43,
     "updated_at": "2026-08-01T16:21:40Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-01T16:17:31Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
     "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
@@ -270,15 +288,6 @@
     "url": "https://github.com/cendorhq/cendor-libs"
   },
   {
-    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
-    "id": "psyb0t/aigate",
-    "language": "Shell",
-    "name": "psyb0t/aigate",
-    "stars": 10,
-    "updated_at": "2026-08-01T15:44:09Z",
-    "url": "https://github.com/psyb0t/aigate"
-  },
-  {
     "description": "AI Infrastructure OS execution plane: OpenAI-compatible gateway, MCP tool governance, intent proxy, vLLM/KServe/KEDA, OI",
     "id": "justrunme/ai-runtime-platform",
     "language": "Python",
@@ -310,7 +319,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2539,
+    "stars": 2540,
     "updated_at": "2026-08-01T15:34:09Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "Bobcatsfan33/AI-Security-Platform",
     "stars": 2,
-    "updated_at": "2026-08-01T15:15:09Z",
+    "updated_at": "2026-08-01T17:26:39Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
@@ -418,7 +427,7 @@
     "id": "Neeeophytee/awesome-ai-workflows",
     "language": "Shell",
     "name": "Neeeophytee/awesome-ai-workflows",
-    "stars": 25,
+    "stars": 26,
     "updated_at": "2026-08-01T14:17:29Z",
     "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T13:55:17Z",
     "url": "https://github.com/BudEcosystem/simulator"
-  },
-  {
-    "description": "Deterministic-first execution engine for agent workflows in Go: the LLM extracts at the edge, a deterministic state mach",
-    "id": "p0nymc1/cee",
-    "language": "Go",
-    "name": "p0nymc1/cee",
-    "stars": 2,
-    "updated_at": "2026-08-01T13:40:47Z",
-    "url": "https://github.com/p0nymc1/cee"
   }
 ]
