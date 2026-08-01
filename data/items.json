@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI Infrastructure OS control plane for governed private AI: policy, identity, audit, intent, MCP, FinOps, SLOs, Redis, P",
+    "id": "justrunme/ai-infra-control-plane",
+    "language": "Python",
+    "name": "justrunme/ai-infra-control-plane",
+    "stars": 1,
+    "updated_at": "2026-08-01T14:29:24Z",
+    "url": "https://github.com/justrunme/ai-infra-control-plane"
+  },
+  {
     "description": "AI Infrastructure OS execution plane: OpenAI-compatible gateway, MCP tool governance, intent proxy, vLLM/KServe/KEDA, OI",
     "id": "justrunme/ai-runtime-platform",
     "language": "Python",
     "name": "justrunme/ai-runtime-platform",
     "stars": 1,
-    "updated_at": "2026-08-01T14:14:24Z",
+    "updated_at": "2026-08-01T14:28:59Z",
     "url": "https://github.com/justrunme/ai-runtime-platform"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-08-01T14:25:46Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-01T14:21:30Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-08-01T14:21:01Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
+    "id": "cendorhq/cendor-cookbook-js",
+    "language": "JavaScript",
+    "name": "cendorhq/cendor-cookbook-js",
+    "stars": 0,
+    "updated_at": "2026-08-01T14:19:04Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook-js"
+  },
+  {
+    "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
+    "id": "Neeeophytee/awesome-ai-workflows",
+    "language": "Shell",
+    "name": "Neeeophytee/awesome-ai-workflows",
+    "stars": 25,
+    "updated_at": "2026-08-01T14:17:29Z",
+    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
   },
   {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
@@ -14,17 +68,17 @@
     "language": "Shell",
     "name": "psyb0t/aigate",
     "stars": 10,
-    "updated_at": "2026-08-01T14:09:12Z",
+    "updated_at": "2026-08-01T14:16:20Z",
     "url": "https://github.com/psyb0t/aigate"
   },
   {
-    "description": "AI Infrastructure OS control plane for governed private AI: policy, identity, audit, intent, MCP, FinOps, SLOs, Redis, P",
-    "id": "justrunme/ai-infra-control-plane",
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
     "language": "Python",
-    "name": "justrunme/ai-infra-control-plane",
-    "stars": 1,
-    "updated_at": "2026-08-01T14:14:37Z",
-    "url": "https://github.com/justrunme/ai-infra-control-plane"
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T14:15:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -34,24 +88,6 @@
     "stars": 3,
     "updated_at": "2026-08-01T14:04:39Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-01T14:09:36Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T14:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Decoder only, Encoder only, Diffusion model simulation for SLO, Memory, Infra calculations. For model inference and trai",
@@ -81,21 +117,12 @@
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
-    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
-    "id": "cendorhq/cendor-cookbook-js",
-    "language": "JavaScript",
-    "name": "cendorhq/cendor-cookbook-js",
-    "stars": 0,
-    "updated_at": "2026-08-01T13:49:43Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook-js"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-08-01T13:44:59Z",
+    "updated_at": "2026-08-01T14:26:02Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "paolo-notaro/llmops-workbench",
     "stars": 0,
-    "updated_at": "2026-08-01T13:21:20Z",
+    "updated_at": "2026-08-01T14:24:57Z",
     "url": "https://github.com/paolo-notaro/llmops-workbench"
   },
   {
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29484,
-    "updated_at": "2026-08-01T13:10:20Z",
+    "updated_at": "2026-08-01T14:28:51Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -315,15 +342,6 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-08-01T12:53:47Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
     "id": "okfriansyah-moh/the-foundry",
     "language": "Go",
@@ -391,7 +409,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55244,
+    "stars": 55246,
     "updated_at": "2026-08-01T10:57:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -430,23 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-01T10:38:58Z",
     "url": "https://github.com/tonquoc0407/capybara"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 24,
-    "updated_at": "2026-08-01T10:37:05Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 540,
-    "updated_at": "2026-08-01T10:36:14Z",
-    "url": "https://github.com/mikehasa/agentacct"
   }
 ]
