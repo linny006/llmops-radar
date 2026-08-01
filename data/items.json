@@ -1,12 +1,21 @@
 [
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
+    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
+    "id": "SemeAIPletinnya/semeai-gate-basic",
     "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1126,
-    "updated_at": "2026-08-01T04:45:03Z",
-    "url": "https://github.com/Arize-ai/openinference"
+    "name": "SemeAIPletinnya/semeai-gate-basic",
+    "stars": 1,
+    "updated_at": "2026-08-01T04:59:42Z",
+    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 10,
+    "updated_at": "2026-08-01T04:58:46Z",
+    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
@@ -14,8 +23,26 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-01T04:42:57Z",
+    "updated_at": "2026-08-01T04:55:21Z",
     "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-08-01T04:48:12Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
+    "id": "kimbeomgyu/budget-guard",
+    "language": "TypeScript",
+    "name": "kimbeomgyu/budget-guard",
+    "stars": 0,
+    "updated_at": "2026-08-01T04:47:11Z",
+    "url": "https://github.com/kimbeomgyu/budget-guard"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T04:38:01Z",
+    "updated_at": "2026-08-01T04:45:22Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1126,
+    "updated_at": "2026-08-01T04:45:03Z",
+    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -45,21 +81,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
-    "id": "kimbeomgyu/budget-guard",
-    "language": "TypeScript",
-    "name": "kimbeomgyu/budget-guard",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:17:52Z",
-    "url": "https://github.com/kimbeomgyu/budget-guard"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55218,
-    "updated_at": "2026-08-01T04:43:35Z",
+    "updated_at": "2026-08-01T04:58:16Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 203,
-    "updated_at": "2026-08-01T03:42:23Z",
+    "updated_at": "2026-08-01T04:57:16Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 68,
-    "updated_at": "2026-08-01T02:43:59Z",
+    "updated_at": "2026-08-01T04:54:13Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -400,7 +427,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6950,
+    "stars": 6951,
     "updated_at": "2026-07-31T23:52:59Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -421,32 +448,5 @@
     "stars": 52,
     "updated_at": "2026-07-31T23:16:16Z",
     "url": "https://github.com/techlab-innov/llmtrace"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 678,
-    "updated_at": "2026-07-31T23:03:02Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Self-hosted trust layer for cheap AI: offload bulk LLM work to free models, QC'd by a multi-model council \u2014 a vetted ans",
-    "id": "ajankuv/omniswarm",
-    "language": "Python",
-    "name": "ajankuv/omniswarm",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:00:36Z",
-    "url": "https://github.com/ajankuv/omniswarm"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1542,
-    "updated_at": "2026-07-31T22:58:35Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
