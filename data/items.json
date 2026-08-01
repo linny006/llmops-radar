@@ -1,5 +1,50 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55261,
+    "updated_at": "2026-08-01T17:36:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 2,
+    "updated_at": "2026-08-01T17:35:25Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 2,
+    "updated_at": "2026-08-01T17:44:04Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
+    "description": "Self-hosted trust layer for cheap AI: offload bulk LLM work to free models, QC'd by a multi-model council \u2014 a vetted ans",
+    "id": "ajankuv/omniswarm",
+    "language": "Python",
+    "name": "ajankuv/omniswarm",
+    "stars": 1,
+    "updated_at": "2026-08-01T17:31:05Z",
+    "url": "https://github.com/ajankuv/omniswarm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T17:30:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
     "id": "aimd54/palan",
     "language": "Go",
@@ -27,15 +72,6 @@
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55260,
-    "updated_at": "2026-08-01T17:30:10Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
     "id": "psyb0t/aigate",
     "language": "Shell",
@@ -43,15 +79,6 @@
     "stars": 10,
     "updated_at": "2026-08-01T17:19:41Z",
     "url": "https://github.com/psyb0t/aigate"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T17:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
@@ -122,7 +149,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-08-01T16:46:52Z",
+    "updated_at": "2026-08-01T17:36:51Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -130,7 +157,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27318,
+    "stars": 27319,
     "updated_at": "2026-08-01T16:46:47Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-08-01T16:39:48Z",
+    "updated_at": "2026-08-01T17:44:50Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -319,7 +346,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2540,
+    "stars": 2538,
     "updated_at": "2026-08-01T15:34:09Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -360,15 +387,6 @@
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 2,
-    "updated_at": "2026-08-01T17:26:39Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
     "description": "Offline LLM, RAG, chatbot, and agent response evaluation toolkit with semantic scoring, rule-based checks, contradiction",
     "id": "Azoqoz/LLM-Evaluation-Toolkit",
     "language": "Python",
@@ -376,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T15:12:57Z",
     "url": "https://github.com/Azoqoz/LLM-Evaluation-Toolkit"
-  },
-  {
-    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
-    "id": "Bobcatsfan33/Pharos",
-    "language": "TypeScript",
-    "name": "Bobcatsfan33/Pharos",
-    "stars": 2,
-    "updated_at": "2026-08-01T14:55:56Z",
-    "url": "https://github.com/Bobcatsfan33/Pharos"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -400,7 +409,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29487,
+    "stars": 29488,
     "updated_at": "2026-08-01T14:40:07Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-01T14:04:39Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Decoder only, Encoder only, Diffusion model simulation for SLO, Memory, Infra calculations. For model inference and trai",
-    "id": "BudEcosystem/simulator",
-    "language": "Python",
-    "name": "BudEcosystem/simulator",
-    "stars": 1,
-    "updated_at": "2026-08-01T13:55:17Z",
-    "url": "https://github.com/BudEcosystem/simulator"
   }
 ]
