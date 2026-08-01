@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-01T03:28:39Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-01T03:28:11Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T03:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55213,
+    "updated_at": "2026-08-01T03:08:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Deterministic prefilter and cheap-to-chief escalation pipeline for reducing expensive LLM calls in agentic workflows.",
     "id": "krivonosoff161/llm-cheap-filter",
     "language": "Python",
@@ -16,33 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T03:06:22Z",
     "url": "https://github.com/krivonosoff161/llm-router"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55212,
-    "updated_at": "2026-08-01T03:08:08Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-01T03:01:23Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T03:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -112,7 +121,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10839,
+    "stars": 10840,
     "updated_at": "2026-08-01T02:36:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27309,
-    "updated_at": "2026-08-01T00:36:36Z",
+    "updated_at": "2026-08-01T03:27:57Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -247,7 +256,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8116,
+    "stars": 8115,
     "updated_at": "2026-08-01T00:21:47Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -268,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T00:05:33Z",
     "url": "https://github.com/paulosalem/weavemark"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:58:17Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Side-by-side benchmark comparing Llama 3.1 8B (OSS) vs Llama 3.3 70B (Frontier) \u2014 multi-turn chat, 4-layer guardrails, L",
@@ -319,7 +319,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 677,
+    "stars": 678,
     "updated_at": "2026-07-31T23:03:02Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -346,7 +346,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32260,
+    "stars": 32261,
     "updated_at": "2026-07-31T22:58:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
