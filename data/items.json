@@ -1,10 +1,46 @@
 [
   {
+    "description": "Model what speculative decoding actually buys you, no GPU required. Found the i.i.d.-agreement assumption was hiding a r",
+    "id": "ahmeddoghri/speculabench",
+    "language": "Python",
+    "name": "ahmeddoghri/speculabench",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:40:27Z",
+    "url": "https://github.com/ahmeddoghri/speculabench"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-01T16:39:48Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23816,
+    "updated_at": "2026-08-01T16:40:39Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T16:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55253,
+    "stars": 55256,
     "updated_at": "2026-08-01T16:29:27Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -32,7 +68,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-01T16:27:56Z",
+    "updated_at": "2026-08-01T16:41:28Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T16:17:31Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T16:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
@@ -117,15 +144,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23816,
-    "updated_at": "2026-08-01T16:05:35Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
     "id": "jimyoshida/dx-devops-landscape",
     "language": "JavaScript",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10850,
-    "updated_at": "2026-08-01T16:17:47Z",
+    "updated_at": "2026-08-01T16:41:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -225,15 +243,6 @@
     "url": "https://github.com/psyb0t/aigate"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-01T16:29:49Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "AI Infrastructure OS execution plane: OpenAI-compatible gateway, MCP tool governance, intent proxy, vLLM/KServe/KEDA, OI",
     "id": "justrunme/ai-runtime-platform",
     "language": "Python",
@@ -259,6 +268,15 @@
     "stars": 9,
     "updated_at": "2026-08-01T15:37:45Z",
     "url": "https://github.com/hwdsl2/docker-litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2538,
+    "updated_at": "2026-08-01T15:34:09Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "A local-first workbench for LLM evaluation, RAG observability, safety checks, and production-style GenAI operations.",
@@ -387,15 +405,6 @@
     "url": "https://github.com/BudEcosystem/simulator"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2537,
-    "updated_at": "2026-08-01T15:34:09Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Deterministic-first execution engine for agent workflows in Go: the LLM extracts at the edge, a deterministic state mach",
     "id": "p0nymc1/cee",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-01T13:25:49Z",
     "url": "https://github.com/adriencr81/Check-Alfred"
-  },
-  {
-    "description": "llmcfo",
-    "id": "lisn0/tidal",
-    "language": "Nunjucks",
-    "name": "lisn0/tidal",
-    "stars": 0,
-    "updated_at": "2026-08-01T12:58:18Z",
-    "url": "https://github.com/lisn0/tidal"
   }
 ]
