@@ -1,5 +1,50 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-01T03:44:45Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-08-01T03:36:30Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Ask Cloudflare AI Gateway for a quality tier, not a model name. Free-tier primary with automatic paid failover, plus the",
+    "id": "montrealks/ai-gateway-tiers",
+    "language": "Shell",
+    "name": "montrealks/ai-gateway-tiers",
+    "stars": 0,
+    "updated_at": "2026-08-01T03:34:39Z",
+    "url": "https://github.com/montrealks/ai-gateway-tiers"
+  },
+  {
+    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
+    "id": "Drlinglong/Remis",
+    "language": "Python",
+    "name": "Drlinglong/Remis",
+    "stars": 24,
+    "updated_at": "2026-08-01T03:32:48Z",
+    "url": "https://github.com/Drlinglong/Remis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T03:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -18,21 +63,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T03:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55213,
-    "updated_at": "2026-08-01T03:08:08Z",
+    "stars": 55215,
+    "updated_at": "2026-08-01T03:37:45Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -121,7 +157,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10840,
+    "stars": 10841,
     "updated_at": "2026-08-01T02:36:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -130,7 +166,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23802,
+    "stars": 23804,
     "updated_at": "2026-08-01T02:27:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T02:18:53Z",
     "url": "https://github.com/okfriansyah-moh/the-foundry"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-01T02:17:35Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -346,7 +373,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32261,
+    "stars": 32262,
     "updated_at": "2026-07-31T22:58:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-31T22:22:51Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
-    "id": "holasoymalva/manyllm-app",
-    "language": "Swift",
-    "name": "holasoymalva/manyllm-app",
-    "stars": 0,
-    "updated_at": "2026-07-31T22:13:39Z",
-    "url": "https://github.com/holasoymalva/manyllm-app"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 39,
-    "updated_at": "2026-07-31T22:03:57Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
-    "id": "obervinov/readme-spotlight",
-    "language": "Go",
-    "name": "obervinov/readme-spotlight",
-    "stars": 0,
-    "updated_at": "2026-07-31T21:53:22Z",
-    "url": "https://github.com/obervinov/readme-spotlight"
   }
 ]
