@@ -1,5 +1,32 @@
 [
   {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-08-01T04:37:22Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1126,
+    "updated_at": "2026-08-01T04:37:38Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T04:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -18,6 +45,15 @@
     "url": "https://github.com/kimbeomgyu/budget-guard"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55218,
+    "updated_at": "2026-08-01T04:17:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
     "id": "acornops/llm-gateway",
     "language": "Python",
@@ -27,15 +63,6 @@
     "url": "https://github.com/acornops/llm-gateway"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T04:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 10841,
     "updated_at": "2026-08-01T04:16:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55217,
-    "updated_at": "2026-08-01T04:17:51Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T03:54:25Z",
     "url": "https://github.com/montrealks/ai-gateway-tiers"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:12:32Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Sentry-grade issue tracking for agent behavior. Clusters OpenTelemetry GenAI traces into stable, trackable themes with I",
@@ -149,7 +158,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-01T04:30:16Z",
+    "updated_at": "2026-08-01T04:36:47Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -247,7 +256,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23806,
+    "stars": 23807,
     "updated_at": "2026-08-01T02:27:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -365,7 +374,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8115,
-    "updated_at": "2026-08-01T00:21:47Z",
+    "updated_at": "2026-08-01T04:31:27Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1542,
     "updated_at": "2026-07-31T22:58:35Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32262,
-    "updated_at": "2026-07-31T22:58:07Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
