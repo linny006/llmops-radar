@@ -1,5 +1,50 @@
 [
   {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:44:53Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-01T23:43:14Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
+    "id": "cendorhq/cendor-cookbook",
+    "language": "Python",
+    "name": "cendorhq/cendor-cookbook",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:41:12Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook"
+  },
+  {
+    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
+    "id": "cendorhq/cendor-cookbook-js",
+    "language": "JavaScript",
+    "name": "cendorhq/cendor-cookbook-js",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:40:58Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook-js"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T23:40:18Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Terminal-first, self-hosted AI gateway and 8-tool MCP server for Codex, Cursor, and Cline. One-command Docker demo; no A",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
@@ -23,17 +68,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55289,
-    "updated_at": "2026-08-01T23:38:59Z",
+    "updated_at": "2026-08-01T23:40:55Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T23:30:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
@@ -54,21 +90,12 @@
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-01T23:35:03Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-01T23:03:00Z",
+    "updated_at": "2026-08-01T23:45:01Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-08-01T22:40:39Z",
     "url": "https://github.com/shivanshgupta365/RiskDelta-AI"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:22:32Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -184,27 +202,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23821,
+    "stars": 23822,
     "updated_at": "2026-08-01T21:28:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
-    "id": "cendorhq/cendor-cookbook-js",
-    "language": "JavaScript",
-    "name": "cendorhq/cendor-cookbook-js",
-    "stars": 0,
-    "updated_at": "2026-08-01T21:21:20Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook-js"
-  },
-  {
-    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
-    "id": "cendorhq/cendor-cookbook",
-    "language": "Python",
-    "name": "cendorhq/cendor-cookbook",
-    "stars": 0,
-    "updated_at": "2026-08-01T21:21:17Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -220,7 +220,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29490,
+    "stars": 29491,
     "updated_at": "2026-08-01T21:02:51Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
