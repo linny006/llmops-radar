@@ -1,21 +1,21 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
+    "id": "Alpha-W0lf/alphaguard",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T01:14:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Alpha-W0lf/alphaguard",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:28:54Z",
+    "url": "https://github.com/Alpha-W0lf/alphaguard"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55207,
-    "updated_at": "2026-08-01T01:10:51Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
+    "id": "becloudready/workshops",
+    "language": "HTML",
+    "name": "becloudready/workshops",
+    "stars": 4,
+    "updated_at": "2026-08-01T01:22:40Z",
+    "url": "https://github.com/becloudready/workshops"
   },
   {
     "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
@@ -23,8 +23,44 @@
     "language": "TypeScript",
     "name": "Bobcatsfan33/Pharos",
     "stars": 2,
-    "updated_at": "2026-08-01T01:10:20Z",
+    "updated_at": "2026-08-01T01:20:03Z",
     "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
+    "id": "neurarch-ai/awesome-llm-system-design",
+    "language": "Python",
+    "name": "neurarch-ai/awesome-llm-system-design",
+    "stars": 1,
+    "updated_at": "2026-08-01T01:19:30Z",
+    "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55207,
+    "updated_at": "2026-08-01T01:30:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
+    "id": "cendorhq/cendor-cookbook",
+    "language": "Python",
+    "name": "cendorhq/cendor-cookbook",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:18:23Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T00:46:57Z",
     "url": "https://github.com/cendorhq/cendor-cookbook-js"
-  },
-  {
-    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
-    "id": "cendorhq/cendor-cookbook",
-    "language": "Python",
-    "name": "cendorhq/cendor-cookbook",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:46:54Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -238,7 +265,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32255,
+    "stars": 32256,
     "updated_at": "2026-07-31T22:58:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T21:13:10Z",
     "url": "https://github.com/tkgo1599-max/prompt-regression-gate"
-  },
-  {
-    "description": "GitHub Action + CLI for replayable CI/PR/release gate decisions - zero-config Self-Test turning checks, scanners, and AI",
-    "id": "RafineriaAI/aos-workflow-gate",
-    "language": "Python",
-    "name": "RafineriaAI/aos-workflow-gate",
-    "stars": 0,
-    "updated_at": "2026-07-31T20:59:05Z",
-    "url": "https://github.com/RafineriaAI/aos-workflow-gate"
-  },
-  {
-    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
-    "id": "Amitcoh1/agentbreaker",
-    "language": "TypeScript",
-    "name": "Amitcoh1/agentbreaker",
-    "stars": 4,
-    "updated_at": "2026-07-31T20:56:46Z",
-    "url": "https://github.com/Amitcoh1/agentbreaker"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-07-31T22:02:55Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
   }
 ]
