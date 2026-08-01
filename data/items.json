@@ -1,11 +1,56 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-01T00:08:41Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55203,
+    "updated_at": "2026-08-01T00:14:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27306,
+    "updated_at": "2026-08-01T00:07:19Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T00:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-01T00:00:19Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
     "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
     "id": "paulosalem/weavemark",
     "language": "Python",
     "name": "paulosalem/weavemark",
     "stars": 2,
-    "updated_at": "2026-07-31T23:59:10Z",
+    "updated_at": "2026-08-01T00:05:33Z",
     "url": "https://github.com/paulosalem/weavemark"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10837,
-    "updated_at": "2026-07-31T23:58:30Z",
+    "updated_at": "2026-08-01T00:01:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -36,6 +81,15 @@
     "url": "https://github.com/Sahojit/AssistantBench-"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6943,
+    "updated_at": "2026-07-31T23:52:59Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
     "id": "umutkeltek/switchback",
     "language": "Rust",
@@ -43,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T23:50:45Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55202,
-    "updated_at": "2026-07-31T23:55:27Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T23:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -108,6 +144,15 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 675,
+    "updated_at": "2026-07-31T23:03:02Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
     "description": "Self-hosted trust layer for cheap AI: offload bulk LLM work to free models, QC'd by a multi-model council \u2014 a vetted ans",
     "id": "ajankuv/omniswarm",
     "language": "Python",
@@ -142,15 +187,6 @@
     "stars": 16,
     "updated_at": "2026-07-31T23:23:20Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-07-31T22:55:21Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
@@ -243,24 +279,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:00:19Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 674,
-    "updated_at": "2026-07-31T23:03:02Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
     "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
     "id": "obervinov/readme-spotlight",
     "language": "Go",
@@ -277,15 +295,6 @@
     "stars": 2555,
     "updated_at": "2026-07-31T21:57:28Z",
     "url": "https://github.com/apache/hamilton"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27306,
-    "updated_at": "2026-07-31T22:32:57Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -410,7 +419,7 @@
     "language": "JavaScript",
     "name": "avikalpg/byok-relay",
     "stars": 53,
-    "updated_at": "2026-07-31T22:11:22Z",
+    "updated_at": "2026-08-01T00:06:33Z",
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T19:52:45Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Conversational product recommender: one rating-aware ranking core, two retrieval backends - Qdrant hybrid RAG over your ",
-    "id": "ghourimarti/Product-Recommender-Engine",
-    "language": "Python",
-    "name": "ghourimarti/Product-Recommender-Engine",
-    "stars": 0,
-    "updated_at": "2026-07-31T19:50:00Z",
-    "url": "https://github.com/ghourimarti/Product-Recommender-Engine"
   }
 ]
