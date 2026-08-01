@@ -1,5 +1,50 @@
 [
   {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 19,
+    "updated_at": "2026-08-01T18:07:49Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-01T18:07:41Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Terminal-first, self-hosted AI gateway with an 8-tool Codex MCP server. One-command Docker demo; no account or API key r",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-01T18:04:22Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3449,
+    "updated_at": "2026-08-01T18:11:03Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T18:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -16,6 +61,15 @@
     "stars": 2,
     "updated_at": "2026-08-01T17:59:56Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55264,
+    "updated_at": "2026-08-01T17:59:55Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -72,33 +126,6 @@
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-01T17:47:47Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T17:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55263,
-    "updated_at": "2026-08-01T17:59:55Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
     "id": "Bobcatsfan33/Pharos",
     "language": "TypeScript",
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T17:15:17Z",
     "url": "https://github.com/Palo-Alto-AI-Research-Lab/awesome-verified-agents"
-  },
-  {
-    "description": "Terminal-first, self-hosted AI gateway with an 8-tool Codex MCP server. One-command Docker demo; no account or API key r",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-08-01T17:00:46Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-01T17:56:44Z",
+    "updated_at": "2026-08-01T18:07:59Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10850,
-    "updated_at": "2026-08-01T16:41:36Z",
+    "updated_at": "2026-08-01T18:09:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 26,
     "updated_at": "2026-08-01T14:21:01Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
-    "id": "Neeeophytee/awesome-ai-workflows",
-    "language": "Shell",
-    "name": "Neeeophytee/awesome-ai-workflows",
-    "stars": 26,
-    "updated_at": "2026-08-01T14:17:29Z",
-    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-01T14:04:39Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
