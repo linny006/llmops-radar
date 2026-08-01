@@ -1,20 +1,11 @@
 [
   {
-    "description": "AI Infrastructure OS control plane for governed private AI: policy, identity, audit, intent, MCP, FinOps, SLOs, Redis, P",
-    "id": "justrunme/ai-infra-control-plane",
-    "language": "Python",
-    "name": "justrunme/ai-infra-control-plane",
-    "stars": 1,
-    "updated_at": "2026-08-01T14:29:24Z",
-    "url": "https://github.com/justrunme/ai-infra-control-plane"
-  },
-  {
     "description": "AI Infrastructure OS execution plane: OpenAI-compatible gateway, MCP tool governance, intent proxy, vLLM/KServe/KEDA, OI",
     "id": "justrunme/ai-runtime-platform",
     "language": "Python",
     "name": "justrunme/ai-runtime-platform",
     "stars": 1,
-    "updated_at": "2026-08-01T14:28:59Z",
+    "updated_at": "2026-08-01T14:44:47Z",
     "url": "https://github.com/justrunme/ai-runtime-platform"
   },
   {
@@ -23,8 +14,17 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-08-01T14:25:46Z",
+    "updated_at": "2026-08-01T14:43:25Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
+    "id": "kreftamarcio/prompt-forge",
+    "language": "TypeScript",
+    "name": "kreftamarcio/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-08-01T14:40:05Z",
+    "url": "https://github.com/kreftamarcio/prompt-forge"
   },
   {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
@@ -32,8 +32,44 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-01T14:21:30Z",
+    "updated_at": "2026-08-01T14:44:50Z",
     "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-01T14:35:37Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 2,
+    "updated_at": "2026-08-01T14:35:00Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T14:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Infrastructure OS control plane for governed private AI: policy, identity, audit, intent, MCP, FinOps, SLOs, Redis, P",
+    "id": "justrunme/ai-infra-control-plane",
+    "language": "Python",
+    "name": "justrunme/ai-infra-control-plane",
+    "stars": 1,
+    "updated_at": "2026-08-01T14:43:17Z",
+    "url": "https://github.com/justrunme/ai-infra-control-plane"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -72,15 +108,6 @@
     "url": "https://github.com/psyb0t/aigate"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T14:15:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T13:49:34Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-01T14:26:02Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Deterministic-first execution engine for agent workflows in Go: the LLM extracts at the edge, a deterministic state mach",
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29484,
-    "updated_at": "2026-08-01T14:28:51Z",
+    "updated_at": "2026-08-01T14:40:07Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -333,6 +351,15 @@
     "url": "https://github.com/josondev/neuronworks-travel-agent"
   },
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3447,
+    "updated_at": "2026-08-01T12:04:02Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -364,7 +391,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 720,
+    "stars": 721,
     "updated_at": "2026-08-01T11:45:32Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T10:57:11Z",
     "url": "https://github.com/Vexithon/silent-failure-guards"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8119,
-    "updated_at": "2026-08-01T10:56:13Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "AI-powered natural language SQL analytics platform that converts business questions into SQL queries, insights, and visu",
-    "id": "aadhya-code/QueryMind",
-    "language": "Python",
-    "name": "aadhya-code/QueryMind",
-    "stars": 0,
-    "updated_at": "2026-08-01T10:55:17Z",
-    "url": "https://github.com/aadhya-code/QueryMind"
-  },
-  {
-    "description": "Terminal trace debugger for AI agents.",
-    "id": "tonquoc0407/capybara",
-    "language": "Go",
-    "name": "tonquoc0407/capybara",
-    "stars": 11,
-    "updated_at": "2026-08-01T10:38:58Z",
-    "url": "https://github.com/tonquoc0407/capybara"
   }
 ]
