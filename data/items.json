@@ -1,12 +1,21 @@
 [
   {
-    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
-    "id": "cendorhq/cendor-cookbook-js",
-    "language": "JavaScript",
-    "name": "cendorhq/cendor-cookbook-js",
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "stars": 0,
-    "updated_at": "2026-08-01T07:14:34Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook-js"
+    "updated_at": "2026-08-01T07:25:39Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-08-01T07:16:12Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T07:14:33Z",
+    "updated_at": "2026-08-01T07:15:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
+    "id": "cendorhq/cendor-cookbook-js",
+    "language": "JavaScript",
+    "name": "cendorhq/cendor-cookbook-js",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:14:34Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook-js"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55222,
-    "updated_at": "2026-08-01T06:07:41Z",
+    "updated_at": "2026-08-01T07:23:47Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27313,
-    "updated_at": "2026-08-01T05:42:02Z",
+    "updated_at": "2026-08-01T07:30:23Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -243,15 +261,6 @@
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-08-01T04:48:12Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -259,15 +268,6 @@
     "stars": 1127,
     "updated_at": "2026-08-01T04:45:03Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:18:53Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
