@@ -1,12 +1,48 @@
 [
   {
+    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
+    "id": "marcusschiesser/agentpond",
+    "language": "TypeScript",
+    "name": "marcusschiesser/agentpond",
+    "stars": 13,
+    "updated_at": "2026-08-01T11:15:03Z",
+    "url": "https://github.com/marcusschiesser/agentpond"
+  },
+  {
     "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
     "id": "josondev/neuronworks-travel-agent",
     "language": "Python",
     "name": "josondev/neuronworks-travel-agent",
     "stars": 0,
-    "updated_at": "2026-08-01T10:58:53Z",
+    "updated_at": "2026-08-01T11:14:41Z",
     "url": "https://github.com/josondev/neuronworks-travel-agent"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-01T11:13:16Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2343,
+    "updated_at": "2026-08-01T11:09:06Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2536,
+    "updated_at": "2026-08-01T11:08:28Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "AI Infrastructure OS control plane for governed private AI: policy, identity, audit, intent, MCP, FinOps, SLOs, Redis, P",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "justrunme/ai-infra-control-plane",
     "stars": 1,
-    "updated_at": "2026-08-01T10:58:09Z",
+    "updated_at": "2026-08-01T11:12:50Z",
     "url": "https://github.com/justrunme/ai-infra-control-plane"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-08-01T11:03:56Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T11:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Drop-in guards against the ways LLM pipelines fail while reporting success. Zero dependencies, 75 tests, one file.",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T10:57:11Z",
     "url": "https://github.com/Vexithon/silent-failure-guards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T10:56:19Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -90,15 +135,6 @@
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2536,
-    "updated_at": "2026-08-01T10:40:25Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -124,15 +160,6 @@
     "stars": 24,
     "updated_at": "2026-08-01T10:37:05Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2343,
-    "updated_at": "2026-08-01T10:37:03Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -261,15 +288,6 @@
     "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-01T09:39:02Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -313,15 +331,6 @@
     "stars": 53,
     "updated_at": "2026-08-01T10:05:13Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-01T09:09:42Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-01T08:00:23Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Enterprise AI incident-diagnostic platform combining traditional ML, permission-aware RAG, GenAI reasoning, deterministi",
-    "id": "S3curethecloud/traditional-ml-genai-policy-agent-lab",
-    "language": "Python",
-    "name": "S3curethecloud/traditional-ml-genai-policy-agent-lab",
-    "stars": 1,
-    "updated_at": "2026-08-01T07:57:12Z",
-    "url": "https://github.com/S3curethecloud/traditional-ml-genai-policy-agent-lab"
   }
 ]
