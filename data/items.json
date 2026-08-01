@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-08-01T08:00:17Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Enterprise AI incident-diagnostic platform combining traditional ML, permission-aware RAG, GenAI reasoning, deterministi",
+    "id": "S3curethecloud/traditional-ml-genai-policy-agent-lab",
+    "language": "Python",
+    "name": "S3curethecloud/traditional-ml-genai-policy-agent-lab",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:57:12Z",
+    "url": "https://github.com/S3curethecloud/traditional-ml-genai-policy-agent-lab"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-01T07:53:34Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-08-01T07:54:02Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T07:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
     "id": "Mrg77/tfforge",
     "language": "Go",
@@ -7,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T07:44:14Z",
     "url": "https://github.com/Mrg77/tfforge"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-01T07:45:02Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
@@ -36,15 +72,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T07:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -58,8 +85,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55224,
-    "updated_at": "2026-08-01T07:23:47Z",
+    "stars": 55227,
+    "updated_at": "2026-08-01T07:57:08Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -126,15 +153,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-01T07:32:50Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -148,7 +166,7 @@
     "id": "karthikreddy-7/ai-engineering-playbook",
     "language": "HTML",
     "name": "karthikreddy-7/ai-engineering-playbook",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-01T06:35:44Z",
     "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
   },
@@ -301,7 +319,7 @@
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
     "name": "xlabs-club/awesome-x-ops",
-    "stars": 42,
+    "stars": 43,
     "updated_at": "2026-08-01T04:03:24Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
@@ -430,23 +448,5 @@
     "stars": 23807,
     "updated_at": "2026-08-01T02:27:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
-    "id": "okfriansyah-moh/the-foundry",
-    "language": "Go",
-    "name": "okfriansyah-moh/the-foundry",
-    "stars": 0,
-    "updated_at": "2026-08-01T02:18:53Z",
-    "url": "https://github.com/okfriansyah-moh/the-foundry"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-08-01T02:06:31Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
