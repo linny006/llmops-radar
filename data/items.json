@@ -1,5 +1,41 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2536,
+    "updated_at": "2026-08-01T13:51:17Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-01T13:49:34Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
+    "id": "cendorhq/cendor-cookbook-js",
+    "language": "JavaScript",
+    "name": "cendorhq/cendor-cookbook-js",
+    "stars": 0,
+    "updated_at": "2026-08-01T13:49:43Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook-js"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T13:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -50,7 +86,7 @@
     "language": "TypeScript",
     "name": "Amitcoh1/agentbreaker",
     "stars": 4,
-    "updated_at": "2026-08-01T13:37:39Z",
+    "updated_at": "2026-08-01T13:49:33Z",
     "url": "https://github.com/Amitcoh1/agentbreaker"
   },
   {
@@ -68,7 +104,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-01T13:34:58Z",
+    "updated_at": "2026-08-01T13:49:21Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -86,17 +122,17 @@
     "language": "Python",
     "name": "justrunme/ai-runtime-platform",
     "stars": 1,
-    "updated_at": "2026-08-01T13:34:00Z",
+    "updated_at": "2026-08-01T13:51:02Z",
     "url": "https://github.com/justrunme/ai-runtime-platform"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T13:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Arize-ai/phoenix",
+    "stars": 10850,
+    "updated_at": "2026-08-01T13:29:59Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -216,15 +252,6 @@
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
-    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
-    "id": "cendorhq/cendor-cookbook-js",
-    "language": "JavaScript",
-    "name": "cendorhq/cendor-cookbook-js",
-    "stars": 0,
-    "updated_at": "2026-08-01T12:31:53Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook-js"
-  },
-  {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
     "id": "Yigtwxx/awesome-rag-production",
     "language": "Python",
@@ -288,15 +315,6 @@
     "url": "https://github.com/Drlinglong/Remis"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10849,
-    "updated_at": "2026-08-01T13:29:59Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "justrunme/ai-infra-control-plane",
     "stars": 1,
-    "updated_at": "2026-08-01T11:32:53Z",
+    "updated_at": "2026-08-01T13:52:26Z",
     "url": "https://github.com/justrunme/ai-infra-control-plane"
   },
   {
@@ -342,15 +360,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2536,
-    "updated_at": "2026-08-01T11:34:31Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -364,7 +373,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55242,
+    "stars": 55243,
     "updated_at": "2026-08-01T10:57:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -437,16 +446,7 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 190,
-    "updated_at": "2026-08-01T10:29:43Z",
+    "updated_at": "2026-08-01T13:49:32Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-01T10:15:43Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
