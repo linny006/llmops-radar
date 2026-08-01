@@ -1,5 +1,50 @@
 [
   {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-01T18:39:39Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Terminal-first, self-hosted AI gateway with an 8-tool Codex MCP server. One-command Docker demo; no account or API key r",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-01T18:33:44Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
+    "language": "Python",
+    "name": "amro/evaling",
+    "stars": 1,
+    "updated_at": "2026-08-01T18:33:36Z",
+    "url": "https://github.com/amro/evaling"
+  },
+  {
+    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-08-01T18:31:55Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T18:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Searchable, leveled learning map of AI/ML tools \u2014 each with a Read link + the code, sorted by concept depth (Level 0\u21924).",
     "id": "maneesh-kumar-thakur/self-serve-learnings-4-all",
     "language": "HTML",
@@ -63,15 +108,6 @@
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T18:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -90,30 +126,12 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-01T18:07:41Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "Terminal-first, self-hosted AI gateway with an 8-tool Codex MCP server. One-command Docker demo; no account or API key r",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-08-01T18:04:22Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3449,
-    "updated_at": "2026-08-01T18:11:03Z",
+    "updated_at": "2026-08-01T18:41:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -121,7 +139,7 @@
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
     "name": "GenesisClawbot/llm-drift",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-01T18:00:05Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55270,
-    "updated_at": "2026-08-01T17:59:55Z",
+    "updated_at": "2026-08-01T18:43:41Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2538,
     "updated_at": "2026-08-01T15:34:09Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "A local-first workbench for LLM evaluation, RAG observability, safety checks, and production-style GenAI operations.",
-    "id": "paolo-notaro/llmops-workbench",
-    "language": "Python",
-    "name": "paolo-notaro/llmops-workbench",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:32:54Z",
-    "url": "https://github.com/paolo-notaro/llmops-workbench"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-08-01T17:15:21Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
