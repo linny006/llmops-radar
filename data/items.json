@@ -1,5 +1,50 @@
 [
   {
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "Nunjucks",
+    "name": "lisn0/tidal",
+    "stars": 0,
+    "updated_at": "2026-08-01T12:29:44Z",
+    "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 185,
+    "updated_at": "2026-08-01T12:26:23Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
+    "id": "cendorhq/cendor-libs",
+    "language": "Python",
+    "name": "cendorhq/cendor-libs",
+    "stars": 0,
+    "updated_at": "2026-08-01T12:24:22Z",
+    "url": "https://github.com/cendorhq/cendor-libs"
+  },
+  {
+    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2343,
+    "updated_at": "2026-08-01T12:22:13Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T12:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -18,21 +63,12 @@
     "url": "https://github.com/josondev/neuronworks-travel-agent"
   },
   {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 184,
-    "updated_at": "2026-08-01T12:11:25Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
     "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
     "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "language": "TypeScript",
     "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "stars": 4,
-    "updated_at": "2026-08-01T12:05:15Z",
+    "updated_at": "2026-08-01T12:19:50Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T12:01:39Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T12:01:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
@@ -167,17 +194,8 @@
     "language": "TypeScript",
     "name": "marcusschiesser/agentpond",
     "stars": 13,
-    "updated_at": "2026-08-01T11:52:31Z",
+    "updated_at": "2026-08-01T12:17:52Z",
     "url": "https://github.com/marcusschiesser/agentpond"
-  },
-  {
-    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2343,
-    "updated_at": "2026-08-01T11:09:06Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -202,7 +220,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55238,
+    "stars": 55240,
     "updated_at": "2026-08-01T10:57:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -427,26 +445,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23811,
+    "stars": 23812,
     "updated_at": "2026-08-01T08:53:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
-    "id": "Mrg77/tfforge",
-    "language": "Go",
-    "name": "Mrg77/tfforge",
-    "stars": 0,
-    "updated_at": "2026-08-01T08:41:30Z",
-    "url": "https://github.com/Mrg77/tfforge"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-01T08:39:37Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
