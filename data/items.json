@@ -1,5 +1,41 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-01T01:52:52Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:51:29Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:57:54Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
     "id": "brunovicco/verifiable-ai-governance",
     "language": "Python",
@@ -27,13 +63,13 @@
     "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T01:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Arize-ai/phoenix",
+    "stars": 10838,
+    "updated_at": "2026-08-01T01:47:21Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
@@ -52,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-08-01T01:22:40Z",
     "url": "https://github.com/becloudready/workshops"
-  },
-  {
-    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
-    "id": "Bobcatsfan33/Pharos",
-    "language": "TypeScript",
-    "name": "Bobcatsfan33/Pharos",
-    "stars": 2,
-    "updated_at": "2026-08-01T01:43:09Z",
-    "url": "https://github.com/Bobcatsfan33/Pharos"
   },
   {
     "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
@@ -90,15 +117,6 @@
     "url": "https://github.com/cendorhq/cendor-cookbook"
   },
   {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 2,
-    "updated_at": "2026-08-01T01:41:26Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
     "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
     "id": "cendorhq/cendor-cookbook-js",
     "language": "JavaScript",
@@ -117,11 +135,20 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27307,
+    "updated_at": "2026-08-01T00:36:36Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 3443,
+    "stars": 3444,
     "updated_at": "2026-08-01T00:29:44Z",
     "url": "https://github.com/langwatch/langwatch"
   },
@@ -144,15 +171,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27306,
-    "updated_at": "2026-08-01T00:36:36Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -169,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T00:05:33Z",
     "url": "https://github.com/paulosalem/weavemark"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10837,
-    "updated_at": "2026-08-01T01:34:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -202,7 +211,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6944,
+    "stars": 6945,
     "updated_at": "2026-07-31T23:52:59Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-07-31T23:38:44Z",
+    "updated_at": "2026-08-01T02:00:14Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -283,7 +292,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32256,
+    "stars": 32257,
     "updated_at": "2026-07-31T22:58:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T21:37:07Z",
     "url": "https://github.com/buchk/TypeFerence"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-07-31T21:25:40Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
