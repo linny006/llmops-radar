@@ -1,5 +1,68 @@
 [
   {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 81,
+    "updated_at": "2026-08-01T11:58:39Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
+    "id": "josondev/neuronworks-travel-agent",
+    "language": "Python",
+    "name": "josondev/neuronworks-travel-agent",
+    "stars": 0,
+    "updated_at": "2026-08-01T11:57:51Z",
+    "url": "https://github.com/josondev/neuronworks-travel-agent"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-08-01T11:51:43Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
+    "id": "okfriansyah-moh/the-foundry",
+    "language": "Go",
+    "name": "okfriansyah-moh/the-foundry",
+    "stars": 0,
+    "updated_at": "2026-08-01T11:51:31Z",
+    "url": "https://github.com/okfriansyah-moh/the-foundry"
+  },
+  {
+    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
+    "id": "Drlinglong/Remis",
+    "language": "Python",
+    "name": "Drlinglong/Remis",
+    "stars": 24,
+    "updated_at": "2026-08-01T11:50:24Z",
+    "url": "https://github.com/Drlinglong/Remis"
+  },
+  {
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 712,
+    "updated_at": "2026-08-01T11:45:32Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T11:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Infrastructure OS execution plane: OpenAI-compatible gateway, MCP tool governance, intent proxy, vLLM/KServe/KEDA, OI",
     "id": "justrunme/ai-runtime-platform",
     "language": "Python",
@@ -18,15 +81,6 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 710,
-    "updated_at": "2026-08-01T11:37:03Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
     "description": "AI Infrastructure OS control plane for governed private AI: policy, identity, audit, intent, MCP, FinOps, SLOs, Redis, P",
     "id": "justrunme/ai-infra-control-plane",
     "language": "Python",
@@ -36,22 +90,13 @@
     "url": "https://github.com/justrunme/ai-infra-control-plane"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T11:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
-    "id": "josondev/neuronworks-travel-agent",
-    "language": "Python",
-    "name": "josondev/neuronworks-travel-agent",
-    "stars": 0,
-    "updated_at": "2026-08-01T11:26:26Z",
-    "url": "https://github.com/josondev/neuronworks-travel-agent"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6955,
+    "updated_at": "2026-08-01T11:27:01Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "LangGraph-first security regression testing for document agents",
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "stars": 4,
-    "updated_at": "2026-08-01T11:22:46Z",
+    "updated_at": "2026-08-01T11:58:08Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "marcusschiesser/agentpond",
     "stars": 13,
-    "updated_at": "2026-08-01T11:15:56Z",
+    "updated_at": "2026-08-01T11:52:31Z",
     "url": "https://github.com/marcusschiesser/agentpond"
   },
   {
@@ -153,15 +198,6 @@
     "url": "https://github.com/Vexithon/silent-failure-guards"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6954,
-    "updated_at": "2026-08-01T11:27:01Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -205,15 +241,6 @@
     "stars": 29484,
     "updated_at": "2026-08-01T10:49:01Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-08-01T11:30:06Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -270,15 +297,6 @@
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
-    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
-    "id": "Drlinglong/Remis",
-    "language": "Python",
-    "name": "Drlinglong/Remis",
-    "stars": 24,
-    "updated_at": "2026-08-01T11:36:23Z",
-    "url": "https://github.com/Drlinglong/Remis"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -322,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T10:00:11Z",
     "url": "https://github.com/vul-os/llmux"
-  },
-  {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 81,
-    "updated_at": "2026-08-01T09:58:17Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-01T08:39:37Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Turn Portkey & Langsmith data into OTEL signals",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-01T08:37:15Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   }
 ]
