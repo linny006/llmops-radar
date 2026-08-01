@@ -1,5 +1,41 @@
 [
   {
+    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2343,
+    "updated_at": "2026-08-01T12:42:13Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-08-01T12:32:24Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
+    "id": "cendorhq/cendor-cookbook-js",
+    "language": "JavaScript",
+    "name": "cendorhq/cendor-cookbook-js",
+    "stars": 0,
+    "updated_at": "2026-08-01T12:31:53Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook-js"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T12:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "llmcfo",
     "id": "lisn0/tidal",
     "language": "Nunjucks",
@@ -27,24 +63,6 @@
     "url": "https://github.com/cendorhq/cendor-libs"
   },
   {
-    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2343,
-    "updated_at": "2026-08-01T12:22:13Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T12:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T12:13:26Z",
     "url": "https://github.com/josondev/neuronworks-travel-agent"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-01T12:19:50Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -95,7 +104,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-08-01T11:51:43Z",
+    "updated_at": "2026-08-01T12:44:57Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -121,7 +130,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 712,
+    "stars": 714,
     "updated_at": "2026-08-01T11:45:32Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-01T08:58:53Z",
     "url": "https://github.com/tokenpanel/tokenpanel"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23812,
-    "updated_at": "2026-08-01T08:53:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
