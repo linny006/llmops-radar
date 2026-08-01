@@ -1,12 +1,12 @@
 [
   {
-    "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
-    "id": "kimbeomgyu/budget-guard",
-    "language": "TypeScript",
-    "name": "kimbeomgyu/budget-guard",
+    "description": "Catches PII leaks and ungrounded claims in one pass. Now measured against the hard half: hallucinations that reuse the s",
+    "id": "ahmeddoghri/guardrail-gate",
+    "language": "Python",
+    "name": "ahmeddoghri/guardrail-gate",
     "stars": 0,
-    "updated_at": "2026-08-01T05:14:47Z",
-    "url": "https://github.com/kimbeomgyu/budget-guard"
+    "updated_at": "2026-08-01T05:27:57Z",
+    "url": "https://github.com/ahmeddoghri/guardrail-gate"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 13,
-    "updated_at": "2026-08-01T05:11:36Z",
+    "updated_at": "2026-08-01T05:27:20Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-01T05:27:33Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
+    "id": "Mrg77/tfforge",
+    "language": "Go",
+    "name": "Mrg77/tfforge",
+    "stars": 0,
+    "updated_at": "2026-08-01T05:22:19Z",
+    "url": "https://github.com/Mrg77/tfforge"
+  },
+  {
+    "description": "Turn Portkey & Langsmith data into OTEL signals",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-01T05:18:01Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55220,
+    "updated_at": "2026-08-01T05:21:52Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T05:00:32Z",
+    "updated_at": "2026-08-01T05:15:23Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
+    "id": "kimbeomgyu/budget-guard",
+    "language": "TypeScript",
+    "name": "kimbeomgyu/budget-guard",
+    "stars": 0,
+    "updated_at": "2026-08-01T05:14:47Z",
+    "url": "https://github.com/kimbeomgyu/budget-guard"
   },
   {
     "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
@@ -36,21 +81,12 @@
     "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55219,
-    "updated_at": "2026-08-01T05:14:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-01T04:55:21Z",
+    "updated_at": "2026-08-01T05:28:10Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10841,
-    "updated_at": "2026-08-01T04:16:57Z",
+    "updated_at": "2026-08-01T05:19:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T03:49:08Z",
     "url": "https://github.com/rohansx/sift"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-01T03:44:45Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T23:58:12Z",
     "url": "https://github.com/Sahojit/AssistantBench-"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6952,
-    "updated_at": "2026-07-31T23:52:59Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-07-31T23:50:45Z",
-    "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for O",
-    "id": "techlab-innov/llmtrace",
-    "language": "Python",
-    "name": "techlab-innov/llmtrace",
-    "stars": 52,
-    "updated_at": "2026-07-31T23:16:16Z",
-    "url": "https://github.com/techlab-innov/llmtrace"
   }
 ]
