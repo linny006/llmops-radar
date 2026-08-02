@@ -1,5 +1,95 @@
 [
   {
+    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
+    "id": "runcycles/cycles-mcp-server",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:38:42Z",
+    "url": "https://github.com/runcycles/cycles-mcp-server"
+  },
+  {
+    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
+    "id": "runcycles/cycles-dashboard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-dashboard",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:38:35Z",
+    "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 27,
+    "updated_at": "2026-08-02T18:37:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
+    "id": "runcycles/cycles-server-admin",
+    "language": "Java",
+    "name": "runcycles/cycles-server-admin",
+    "stars": 1,
+    "updated_at": "2026-08-02T18:35:50Z",
+    "url": "https://github.com/runcycles/cycles-server-admin"
+  },
+  {
+    "description": "Runaway AI agent spend prevention \u2014 demo using Cycles ($6 in 30s \u2192 hard stop at $1)",
+    "id": "runcycles/cycles-runaway-demo",
+    "language": "Python",
+    "name": "runcycles/cycles-runaway-demo",
+    "stars": 3,
+    "updated_at": "2026-08-02T18:35:43Z",
+    "url": "https://github.com/runcycles/cycles-runaway-demo"
+  },
+  {
+    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
+    "id": "runcycles/cycles-server-events",
+    "language": "Java",
+    "name": "runcycles/cycles-server-events",
+    "stars": 1,
+    "updated_at": "2026-08-02T18:35:41Z",
+    "url": "https://github.com/runcycles/cycles-server-events"
+  },
+  {
+    "description": "Python SDK for Cycles \u2014 reserve, commit, release budget and risk for AI agents",
+    "id": "runcycles/cycles-client-python",
+    "language": "Python",
+    "name": "runcycles/cycles-client-python",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:35:03Z",
+    "url": "https://github.com/runcycles/cycles-client-python"
+  },
+  {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:32:47Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21060,
+    "updated_at": "2026-08-02T18:35:49Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
     "id": "paulosalem/weavemark",
     "language": "Python",
@@ -27,15 +117,6 @@
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 27,
-    "updated_at": "2026-08-02T18:21:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
     "id": "Yesol-Pilot/neosignal-check",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T18:19:16Z",
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -167,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3455,
-    "updated_at": "2026-08-02T18:29:40Z",
+    "updated_at": "2026-08-02T18:36:52Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -205,15 +277,6 @@
     "stars": 13,
     "updated_at": "2026-08-02T17:06:04Z",
     "url": "https://github.com/marcusschiesser/agentpond"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21059,
-    "updated_at": "2026-08-02T18:28:52Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T15:45:01Z",
     "url": "https://github.com/ahmeedatm/infer-router"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-02T15:33:34Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 2,
-    "updated_at": "2026-08-02T15:33:08Z",
-    "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-08-02T15:32:56Z",
-    "url": "https://github.com/acornops/docs-website"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-02T15:32:39Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-client-rust",
-    "language": "Rust",
-    "name": "runcycles/cycles-client-rust",
-    "stars": 1,
-    "updated_at": "2026-08-02T15:32:23Z",
-    "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
-    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-spring-boot-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-boot-starter",
-    "stars": 1,
-    "updated_at": "2026-08-02T15:25:19Z",
-    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-02T15:21:51Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
