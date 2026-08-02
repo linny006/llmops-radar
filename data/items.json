@@ -1,5 +1,77 @@
 [
   {
+    "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-02T14:43:54Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
+    "id": "ahmeedatm/infer-router",
+    "language": "Python",
+    "name": "ahmeedatm/infer-router",
+    "stars": 0,
+    "updated_at": "2026-08-02T14:43:31Z",
+    "url": "https://github.com/ahmeedatm/infer-router"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-02T14:42:38Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
+    "id": "kreftamarcio/prompt-forge",
+    "language": "TypeScript",
+    "name": "kreftamarcio/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-08-02T14:42:27Z",
+    "url": "https://github.com/kreftamarcio/prompt-forge"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-08-02T14:39:53Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
+    "id": "paulosalem/weavemark",
+    "language": "Python",
+    "name": "paulosalem/weavemark",
+    "stars": 2,
+    "updated_at": "2026-08-02T14:45:22Z",
+    "url": "https://github.com/paulosalem/weavemark"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-02T14:38:11Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T14:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
     "id": "api-evangelist/zenml",
     "language": "\u2014",
@@ -34,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T14:16:31Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T14:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
@@ -126,24 +189,6 @@
     "url": "https://github.com/okfriansyah-moh/the-foundry"
   },
   {
-    "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
-    "id": "paulosalem/weavemark",
-    "language": "Python",
-    "name": "paulosalem/weavemark",
-    "stars": 2,
-    "updated_at": "2026-08-02T13:47:22Z",
-    "url": "https://github.com/paulosalem/weavemark"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-02T13:43:44Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -160,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T13:34:38Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
-  },
-  {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
-    "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-02T13:45:16Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
-  },
-  {
-    "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-02T13:22:12Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3453,
-    "updated_at": "2026-08-02T14:25:22Z",
+    "updated_at": "2026-08-02T14:33:53Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -333,15 +360,6 @@
     "url": "https://github.com/gaurav-gs7/Judikt"
   },
   {
-    "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
-    "id": "ahmeedatm/infer-router",
-    "language": "Python",
-    "name": "ahmeedatm/infer-router",
-    "stars": 0,
-    "updated_at": "2026-08-02T11:15:16Z",
-    "url": "https://github.com/ahmeedatm/infer-router"
-  },
-  {
     "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
     "id": "arash9233/phoenix-lua-executor-windows",
     "language": "HTML",
@@ -382,7 +400,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21050,
+    "stars": 21052,
     "updated_at": "2026-08-02T10:12:00Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -430,23 +448,5 @@
     "stars": 47,
     "updated_at": "2026-08-02T13:42:05Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 68,
-    "updated_at": "2026-08-02T11:10:55Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Multi-tenant AI runtime control plane for risk scoring, policy enforcement, and evidence-preserving agent operations.",
-    "id": "shivanshgupta365/RiskDelta-AI",
-    "language": "TypeScript",
-    "name": "shivanshgupta365/RiskDelta-AI",
-    "stars": 6,
-    "updated_at": "2026-08-02T09:12:13Z",
-    "url": "https://github.com/shivanshgupta365/RiskDelta-AI"
   }
 ]
