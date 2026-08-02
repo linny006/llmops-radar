@@ -1,11 +1,74 @@
 [
   {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:59:23Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "Deterministic evidence kernel for replayable PASS/WARN/BLOCK decisions - the core behind aos-workflow-gate. Public demon",
+    "id": "RafineriaAI/aos-kernel",
+    "language": "Python",
+    "name": "RafineriaAI/aos-kernel",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:59:13Z",
+    "url": "https://github.com/RafineriaAI/aos-kernel"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:58:00Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:57:07Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
+    "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
+    "id": "paulosalem/weavemark",
+    "language": "Python",
+    "name": "paulosalem/weavemark",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:56:16Z",
+    "url": "https://github.com/paulosalem/weavemark"
+  },
+  {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-08-02T18:55:19Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:59:19Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-02T18:40:01Z",
+    "updated_at": "2026-08-02T18:45:24Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/runcycles/cycles-client-python"
   },
   {
-    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
-    "id": "acblabs/agent-assure",
-    "language": "Python",
-    "name": "acblabs/agent-assure",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:32:47Z",
-    "url": "https://github.com/acblabs/agent-assure"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 21060,
     "updated_at": "2026-08-02T18:35:49Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
-    "id": "paulosalem/weavemark",
-    "language": "Python",
-    "name": "paulosalem/weavemark",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:27:41Z",
-    "url": "https://github.com/paulosalem/weavemark"
   },
   {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
@@ -139,7 +184,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23850,
+    "stars": 23849,
     "updated_at": "2026-08-02T18:03:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T17:50:32Z",
     "url": "https://github.com/cendorhq/cendor-libs"
-  },
-  {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:50:28Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -310,7 +346,7 @@
     "id": "karthikreddy-7/ai-engineering-playbook",
     "language": "MDX",
     "name": "karthikreddy-7/ai-engineering-playbook",
-    "stars": 14,
+    "stars": 16,
     "updated_at": "2026-08-02T16:46:16Z",
     "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
   },
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-02T15:59:00Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Implementing arXiv research in production voice and RAG systems \u2014 and measuring whether it actually works.",
-    "id": "saran-io/paper-to-production",
-    "language": "HTML",
-    "name": "saran-io/paper-to-production",
-    "stars": 1,
-    "updated_at": "2026-08-02T15:56:44Z",
-    "url": "https://github.com/saran-io/paper-to-production"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:56:24Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
-    "id": "Amitcoh1/agentbreaker",
-    "language": "TypeScript",
-    "name": "Amitcoh1/agentbreaker",
-    "stars": 4,
-    "updated_at": "2026-08-02T15:48:24Z",
-    "url": "https://github.com/Amitcoh1/agentbreaker"
-  },
-  {
-    "description": "Routes natural-language network intents to the cheapest LLM that meets a quality floor indexed on the intent's criticali",
-    "id": "ahmeedatm/infer-router",
-    "language": "Python",
-    "name": "ahmeedatm/infer-router",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:45:01Z",
-    "url": "https://github.com/ahmeedatm/infer-router"
   }
 ]
