@@ -1,5 +1,50 @@
 [
   {
+    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
+    "id": "cendorhq/cendor-libs",
+    "language": "Python",
+    "name": "cendorhq/cendor-libs",
+    "stars": 0,
+    "updated_at": "2026-08-02T08:38:03Z",
+    "url": "https://github.com/cendorhq/cendor-libs"
+  },
+  {
+    "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
+    "id": "renezander030/draftcat",
+    "language": "Go",
+    "name": "renezander030/draftcat",
+    "stars": 9,
+    "updated_at": "2026-08-02T08:38:04Z",
+    "url": "https://github.com/renezander030/draftcat"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-02T08:34:43Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-02T08:31:02Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T08:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
     "id": "msanket9/stillsane",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T08:24:26Z",
     "url": "https://github.com/runcycles/langchain-runcycles"
-  },
-  {
-    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
-    "id": "cendorhq/cendor-libs",
-    "language": "Python",
-    "name": "cendorhq/cendor-libs",
-    "stars": 0,
-    "updated_at": "2026-08-02T08:23:50Z",
-    "url": "https://github.com/cendorhq/cendor-libs"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -59,7 +95,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-02T08:18:36Z",
+    "updated_at": "2026-08-02T08:36:31Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T08:16:46Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T08:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -126,6 +153,15 @@
     "url": "https://github.com/okfriansyah-moh/the-foundry"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27325,
+    "updated_at": "2026-08-02T07:58:29Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-08-02T07:47:04Z",
+    "updated_at": "2026-08-02T08:32:17Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "Drlinglong/Remis",
     "stars": 25,
-    "updated_at": "2026-08-02T07:42:54Z",
+    "updated_at": "2026-08-02T08:37:16Z",
     "url": "https://github.com/Drlinglong/Remis"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T07:31:51Z",
     "url": "https://github.com/cogniziocompany/agentic-remote-pc"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-02T08:20:36Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Terminal-first, self-hosted AI and MCP gateway for Codex, Cursor, and Cline. 8 governed tools, one Docker command, no AP",
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3452,
-    "updated_at": "2026-08-02T07:09:27Z",
+    "updated_at": "2026-08-02T08:43:09Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -256,7 +283,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55318,
+    "stars": 55319,
     "updated_at": "2026-08-02T06:50:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -387,21 +414,12 @@
     "url": "https://github.com/vipulchinmay/llmops-evals"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27324,
-    "updated_at": "2026-08-02T07:58:29Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 206,
-    "updated_at": "2026-08-02T08:21:26Z",
+    "updated_at": "2026-08-02T08:42:44Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 44,
     "updated_at": "2026-08-02T04:03:28Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-02T04:02:22Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-08-02T03:45:13Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
