@@ -1,12 +1,57 @@
 [
   {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:42:22Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-02T09:38:06Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-02T09:36:58Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-02T09:35:11Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-02T09:30:23Z",
+    "updated_at": "2026-08-02T09:31:40Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3453,
+    "updated_at": "2026-08-02T09:41:53Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -14,17 +59,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 68,
-    "updated_at": "2026-08-02T09:27:02Z",
+    "updated_at": "2026-08-02T09:35:13Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-08-02T09:20:48Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Multi-tenant AI runtime control plane for risk scoring, policy enforcement, and evidence-preserving agent operations.",
@@ -34,15 +70,6 @@
     "stars": 6,
     "updated_at": "2026-08-02T09:12:13Z",
     "url": "https://github.com/shivanshgupta365/RiskDelta-AI"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-02T09:25:34Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "llmcfo",
@@ -76,7 +103,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55324,
+    "stars": 55325,
     "updated_at": "2026-08-02T08:55:41Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -88,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-08-02T08:54:11Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3452,
-    "updated_at": "2026-08-02T09:30:15Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
@@ -124,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-08-02T08:34:43Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-02T09:28:12Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
@@ -250,15 +259,6 @@
     "stars": 27325,
     "updated_at": "2026-08-02T07:58:29Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-02T07:57:02Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": " Turn any PC \u2014 Windows or Linux \u2014 into a secure, agent-controllable workstation. One authenticated REST + MCP gateway ex",
