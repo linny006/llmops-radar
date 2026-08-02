@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 17:30 UTC
+> ⏰ Last updated: 2026-08-02 17:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 27 | Go | 2026-08-02 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 2 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 541 | Python | 2026-08-02 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
-| 3 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 21 | TypeScript | 2026-08-02 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 4 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 47 | Rust | 2026-08-02 | Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or |
-| 5 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 2 | Rust | 2026-08-02 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
-| 6 | [Bobcatsfan33/AI-Security-Platform](https://github.com/Bobcatsfan33/AI-Security-Platform) | 2 | Python | 2026-08-02 | Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 27 | Go | 2026-08-02 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 3 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 541 | Python | 2026-08-02 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
+| 4 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 21 | TypeScript | 2026-08-02 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 5 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 47 | Rust | 2026-08-02 | Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or |
+| 6 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 2 | Rust | 2026-08-02 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
+| 7 | [Bobcatsfan33/AI-Security-Platform](https://github.com/Bobcatsfan33/AI-Security-Platform) | 2 | Python | 2026-08-02 | Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass |
 | 8 | [vul-os/llmux](https://github.com/vul-os/llmux) | 2 | Go | 2026-08-02 | The sovereign OpenAI-compatible AI gateway — routing, fallbacks, per-key budgets, caching, and live cost across every pr |
 | 9 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-08-02 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 10 | [cendorhq/cendor-cookbook](https://github.com/cendorhq/cendor-cookbook) | 0 | Python | 2026-08-02 | Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries — cost, context, testing, governance (Py + TS). |
