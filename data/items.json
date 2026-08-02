@@ -1,12 +1,93 @@
 [
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
+    "id": "acornops/agentk",
+    "language": "TypeScript",
+    "name": "acornops/agentk",
     "stars": 2,
-    "updated_at": "2026-08-02T21:14:35Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "updated_at": "2026-08-02T21:28:05Z",
+    "url": "https://github.com/acornops/agentk"
+  },
+  {
+    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
+    "id": "acornops/agentv",
+    "language": "TypeScript",
+    "name": "acornops/agentv",
+    "stars": 1,
+    "updated_at": "2026-08-02T21:27:45Z",
+    "url": "https://github.com/acornops/agentv"
+  },
+  {
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
+    "id": "bytebeast/check-endpoint",
+    "language": "Python",
+    "name": "bytebeast/check-endpoint",
+    "stars": 6,
+    "updated_at": "2026-08-02T21:21:10Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-08-02T21:21:01Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-08-02T21:21:00Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-02T21:27:45Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
+    "id": "acornops/acornops",
+    "language": "JavaScript",
+    "name": "acornops/acornops",
+    "stars": 12,
+    "updated_at": "2026-08-02T21:21:00Z",
+    "url": "https://github.com/acornops/acornops"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-08-02T21:27:03Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 2,
+    "updated_at": "2026-08-02T21:27:45Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
+    "id": "acornops/execution-engine",
+    "language": "Python",
+    "name": "acornops/execution-engine",
+    "stars": 2,
+    "updated_at": "2026-08-02T21:27:45Z",
+    "url": "https://github.com/acornops/execution-engine"
   },
   {
     "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
@@ -14,8 +95,17 @@
     "language": "TypeScript",
     "name": "Bobcatsfan33/Pharos",
     "stars": 2,
-    "updated_at": "2026-08-02T21:14:30Z",
+    "updated_at": "2026-08-02T21:19:24Z",
     "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
+    "id": "vul-os/llmux",
+    "language": "Go",
+    "name": "vul-os/llmux",
+    "stars": 2,
+    "updated_at": "2026-08-02T21:17:19Z",
+    "url": "https://github.com/vul-os/llmux"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +113,35 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-02T21:00:28Z",
+    "updated_at": "2026-08-02T21:15:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-02T21:15:09Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-02T21:29:56Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 359,
+    "updated_at": "2026-08-02T21:11:20Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -43,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T20:50:38Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-02T21:08:31Z",
-    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
@@ -140,7 +248,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6975,
-    "updated_at": "2026-08-02T19:50:18Z",
+    "updated_at": "2026-08-02T21:27:07Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T18:35:41Z",
     "url": "https://github.com/runcycles/cycles-server-events"
-  },
-  {
-    "description": "Python SDK for Cycles \u2014 reserve, commit, release budget and risk for AI agents",
-    "id": "runcycles/cycles-client-python",
-    "language": "Python",
-    "name": "runcycles/cycles-client-python",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:35:03Z",
-    "url": "https://github.com/runcycles/cycles-client-python"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-02T20:03:17Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23849,
-    "updated_at": "2026-08-02T18:03:51Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 3,
-    "updated_at": "2026-08-02T17:55:28Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
-    "id": "Neeeophytee/awesome-ai-workflows",
-    "language": "Shell",
-    "name": "Neeeophytee/awesome-ai-workflows",
-    "stars": 26,
-    "updated_at": "2026-08-02T17:51:51Z",
-    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-02T17:41:51Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Read-only, cross-rail agent spend collector: LLM token + x402 payments in one FOCUS-shaped ledger, with anomaly detectio",
-    "id": "ywutian/agent-spend-collector",
-    "language": "Python",
-    "name": "ywutian/agent-spend-collector",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:39:51Z",
-    "url": "https://github.com/ywutian/agent-spend-collector"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-08-02T17:36:24Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 541,
-    "updated_at": "2026-08-02T20:51:04Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:21:18Z",
-    "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3455,
-    "updated_at": "2026-08-02T21:13:57Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
-    "id": "vul-os/llmux",
-    "language": "Go",
-    "name": "vul-os/llmux",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:13:13Z",
-    "url": "https://github.com/vul-os/llmux"
   }
 ]
