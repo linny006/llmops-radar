@@ -1,12 +1,66 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-08-02T00:41:07Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-02T00:39:52Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
+    "id": "cendorhq/cendor-cookbook",
+    "language": "Python",
+    "name": "cendorhq/cendor-cookbook",
+    "stars": 0,
+    "updated_at": "2026-08-02T00:35:38Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook"
+  },
+  {
+    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
+    "id": "cendorhq/cendor-cookbook-js",
+    "language": "JavaScript",
+    "name": "cendorhq/cendor-cookbook-js",
+    "stars": 0,
+    "updated_at": "2026-08-02T00:35:21Z",
+    "url": "https://github.com/cendorhq/cendor-cookbook-js"
+  },
+  {
+    "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
+    "id": "becloudready/workshops",
+    "language": "TypeScript",
+    "name": "becloudready/workshops",
+    "stars": 4,
+    "updated_at": "2026-08-02T00:33:55Z",
+    "url": "https://github.com/becloudready/workshops"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55290,
-    "updated_at": "2026-08-02T00:28:55Z",
+    "updated_at": "2026-08-02T00:42:05Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T00:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
@@ -63,15 +117,6 @@
     "url": "https://github.com/USTechAutomations/agent-audit"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T00:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
     "id": "kirklasalle/PrismRefraction",
     "language": "TypeScript",
@@ -88,6 +133,15 @@
     "stars": 3,
     "updated_at": "2026-08-02T00:05:49Z",
     "url": "https://github.com/runcycles/cycles-protocol"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21036,
+    "updated_at": "2026-08-02T00:01:07Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10852,
-    "updated_at": "2026-08-01T23:45:45Z",
+    "updated_at": "2026-08-02T00:35:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -149,35 +203,8 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-08-01T23:44:53Z",
+    "updated_at": "2026-08-02T00:35:04Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-02T00:30:07Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
-    "id": "cendorhq/cendor-cookbook",
-    "language": "Python",
-    "name": "cendorhq/cendor-cookbook",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:41:12Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook"
-  },
-  {
-    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
-    "id": "cendorhq/cendor-cookbook-js",
-    "language": "JavaScript",
-    "name": "cendorhq/cendor-cookbook-js",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:40:58Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook-js"
   },
   {
     "description": "AI Agent hooks for LLM Observability.",
@@ -283,7 +310,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29492,
+    "stars": 29493,
     "updated_at": "2026-08-01T21:02:51Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -302,7 +329,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-08-02T00:14:14Z",
+    "updated_at": "2026-08-02T00:36:25Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -369,15 +396,6 @@
     "url": "https://github.com/psyb0t/aigate"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21035,
-    "updated_at": "2026-08-02T00:01:07Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T19:07:18Z",
     "url": "https://github.com/chowdarymcs/llm-cost-observatory"
-  },
-  {
-    "description": "CLI tool for comparing prompt variants and models",
-    "id": "amro/evaling",
-    "language": "Python",
-    "name": "amro/evaling",
-    "stars": 1,
-    "updated_at": "2026-08-01T19:09:00Z",
-    "url": "https://github.com/amro/evaling"
-  },
-  {
-    "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
-    "id": "acornops/acornops",
-    "language": "JavaScript",
-    "name": "acornops/acornops",
-    "stars": 11,
-    "updated_at": "2026-08-01T19:02:46Z",
-    "url": "https://github.com/acornops/acornops"
   }
 ]
