@@ -1,11 +1,47 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-02T17:41:51Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Read-only, cross-rail agent spend collector: LLM token + x402 payments in one FOCUS-shaped ledger, with anomaly detectio",
+    "id": "ywutian/agent-spend-collector",
+    "language": "Python",
+    "name": "ywutian/agent-spend-collector",
+    "stars": 2,
+    "updated_at": "2026-08-02T17:39:51Z",
+    "url": "https://github.com/ywutian/agent-spend-collector"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-02T17:37:26Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-08-02T17:36:24Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-02T17:30:29Z",
+    "updated_at": "2026-08-02T17:32:09Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -27,24 +63,6 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-02T17:23:48Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-02T17:22:34Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
     "id": "umutkeltek/switchback",
     "language": "Rust",
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "Bobcatsfan33/AI-Security-Platform",
     "stars": 2,
-    "updated_at": "2026-08-02T17:23:14Z",
+    "updated_at": "2026-08-02T17:36:15Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
@@ -135,15 +153,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-08-02T16:55:32Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -214,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-08-02T16:15:48Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Kubernetes-native LLM inference gateway (FastAPI + Ollama/vLLM) with Prometheus metrics, an offline quality-eval harness",
+    "id": "raulcmz/k8s-llmops-inference-platform",
+    "language": "Python",
+    "name": "raulcmz/k8s-llmops-inference-platform",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:14:34Z",
+    "url": "https://github.com/raulcmz/k8s-llmops-inference-platform"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T15:09:02Z",
     "url": "https://github.com/cendorhq/cendor-cookbook-js"
-  },
-  {
-    "description": "Seldon APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/seldon",
-    "language": "\u2014",
-    "name": "api-evangelist/seldon",
-    "stars": 0,
-    "updated_at": "2026-08-02T14:59:01Z",
-    "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "Evidently AI APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/evidently",
-    "language": "\u2014",
-    "name": "api-evangelist/evidently",
-    "stars": 0,
-    "updated_at": "2026-08-02T14:57:03Z",
-    "url": "https://github.com/api-evangelist/evidently"
   }
 ]
