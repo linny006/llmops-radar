@@ -1,12 +1,48 @@
 [
   {
-    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
-    "id": "kirklasalle/PrismRefraction",
-    "language": "TypeScript",
-    "name": "kirklasalle/PrismRefraction",
-    "stars": 3,
-    "updated_at": "2026-08-02T00:09:50Z",
-    "url": "https://github.com/kirklasalle/PrismRefraction"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55290,
+    "updated_at": "2026-08-02T00:28:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
+    "id": "cendorhq/cendor-libs",
+    "language": "Python",
+    "name": "cendorhq/cendor-libs",
+    "stars": 0,
+    "updated_at": "2026-08-02T00:23:20Z",
+    "url": "https://github.com/cendorhq/cendor-libs"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-02T00:21:51Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": " Turn any PC \u2014 Windows or Linux \u2014 into a secure, agent-controllable workstation. One authenticated REST + MCP gateway ex",
+    "id": "cogniziocompany/agentic-remote-pc",
+    "language": "JavaScript",
+    "name": "cogniziocompany/agentic-remote-pc",
+    "stars": 0,
+    "updated_at": "2026-08-02T00:18:41Z",
+    "url": "https://github.com/cogniziocompany/agentic-remote-pc"
+  },
+  {
+    "description": "Terminal-first, self-hosted AI gateway and 8-tool MCP server for Codex, Cursor, and Cline. One-command Docker demo; no A",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-02T00:17:02Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 0,
-    "updated_at": "2026-08-02T00:07:57Z",
+    "updated_at": "2026-08-02T00:15:42Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Reproducible behavioral-control audits and sealed drift attestation for deployed LLM agents. Stdlib-only, per-install ca",
+    "id": "USTechAutomations/agent-audit",
+    "language": "Python",
+    "name": "USTechAutomations/agent-audit",
+    "stars": 0,
+    "updated_at": "2026-08-02T00:15:31Z",
+    "url": "https://github.com/USTechAutomations/agent-audit"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T00:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
+    "id": "kirklasalle/PrismRefraction",
+    "language": "TypeScript",
+    "name": "kirklasalle/PrismRefraction",
+    "stars": 3,
+    "updated_at": "2026-08-02T00:09:50Z",
+    "url": "https://github.com/kirklasalle/PrismRefraction"
   },
   {
     "description": "Open protocol for runtime budget and action authority over AI agents",
@@ -27,15 +90,6 @@
     "url": "https://github.com/runcycles/cycles-protocol"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55290,
-    "updated_at": "2026-08-02T00:14:56Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -45,21 +99,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T00:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
     "id": "brunovicco/verifiable-ai-governance",
     "language": "Python",
     "name": "brunovicco/verifiable-ai-governance",
     "stars": 0,
-    "updated_at": "2026-08-01T23:59:53Z",
+    "updated_at": "2026-08-02T00:18:50Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-08-01T23:57:39Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Terminal-first, self-hosted AI gateway and 8-tool MCP server for Codex, Cursor, and Cline. One-command Docker demo; no A",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-08-01T23:57:11Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-08-01T23:43:14Z",
+    "updated_at": "2026-08-02T00:30:07Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -151,33 +187,6 @@
     "stars": 8,
     "updated_at": "2026-08-01T23:36:30Z",
     "url": "https://github.com/HikaruEgashira/otel-hooks"
-  },
-  {
-    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
-    "id": "cendorhq/cendor-libs",
-    "language": "Python",
-    "name": "cendorhq/cendor-libs",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:25:54Z",
-    "url": "https://github.com/cendorhq/cendor-libs"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-02T00:05:34Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Reproducible behavioral-control audits and sealed drift attestation for deployed LLM agents. Stdlib-only, per-install ca",
-    "id": "USTechAutomations/agent-audit",
-    "language": "Python",
-    "name": "USTechAutomations/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-08-01T22:44:06Z",
-    "url": "https://github.com/USTechAutomations/agent-audit"
   },
   {
     "description": "Multi-tenant AI runtime control plane for risk scoring, policy enforcement, and evidence-preserving agent operations.",
@@ -295,15 +304,6 @@
     "stars": 5,
     "updated_at": "2026-08-02T00:14:14Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": " Turn any PC \u2014 Windows or Linux \u2014 into a secure, agent-controllable workstation. One authenticated REST + MCP gateway ex",
-    "id": "cogniziocompany/agentic-remote-pc",
-    "language": "JavaScript",
-    "name": "cogniziocompany/agentic-remote-pc",
-    "stars": 0,
-    "updated_at": "2026-08-01T20:25:15Z",
-    "url": "https://github.com/cogniziocompany/agentic-remote-pc"
   },
   {
     "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
