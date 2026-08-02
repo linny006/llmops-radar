@@ -1,5 +1,32 @@
 [
   {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-02T09:58:04Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
+    "id": "bosun-ai/swiftide",
+    "language": "Rust",
+    "name": "bosun-ai/swiftide",
+    "stars": 757,
+    "updated_at": "2026-08-02T09:50:43Z",
+    "url": "https://github.com/bosun-ai/swiftide"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T09:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "mfow/llm-temporal-worker",
     "language": "Go",
@@ -36,21 +63,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T09:31:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3453,
-    "updated_at": "2026-08-02T09:41:53Z",
+    "updated_at": "2026-08-02T09:53:22Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 68,
-    "updated_at": "2026-08-02T09:35:13Z",
+    "updated_at": "2026-08-02T09:46:25Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -103,7 +121,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55325,
+    "stars": 55326,
     "updated_at": "2026-08-02T08:55:41Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -261,6 +279,15 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8135,
+    "updated_at": "2026-08-02T07:45:10Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": " Turn any PC \u2014 Windows or Linux \u2014 into a secure, agent-controllable workstation. One authenticated REST + MCP gateway ex",
     "id": "cogniziocompany/agentic-remote-pc",
     "language": "JavaScript",
@@ -360,15 +387,6 @@
     "url": "https://github.com/runcycles/cycles-dashboard"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8134,
-    "updated_at": "2026-08-02T07:45:10Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -405,15 +423,6 @@
     "url": "https://github.com/acornops/control-plane"
   },
   {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-02T08:28:38Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
     "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
     "id": "thangldw/ragops",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 75,
     "updated_at": "2026-08-02T05:39:25Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Lightweight, self-hosted LLMOps evaluation & observability platform with multi-provider tracking (OpenRouter, OpenAI, An",
-    "id": "vipulchinmay/llmops-evals",
-    "language": "Python",
-    "name": "vipulchinmay/llmops-evals",
-    "stars": 0,
-    "updated_at": "2026-08-02T05:18:27Z",
-    "url": "https://github.com/vipulchinmay/llmops-evals"
   }
 ]
