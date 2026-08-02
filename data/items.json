@@ -1,21 +1,57 @@
 [
   {
-    "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
-    "id": "neurarch-ai/awesome-llm-system-design",
-    "language": "Python",
-    "name": "neurarch-ai/awesome-llm-system-design",
-    "stars": 1,
-    "updated_at": "2026-08-02T03:14:03Z",
-    "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
-  },
-  {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
     "id": "Vishalvk2219/Ringdown",
     "language": "Python",
     "name": "Vishalvk2219/Ringdown",
     "stars": 0,
-    "updated_at": "2026-08-02T03:04:50Z",
+    "updated_at": "2026-08-02T03:28:20Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55300,
+    "updated_at": "2026-08-02T03:25:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Terminal-first, self-hosted AI gateway with 8 MCP tools for Codex, Cursor, and Cline. One Docker command, no API key.",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-02T03:25:14Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-02T03:21:45Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T03:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
+    "id": "neurarch-ai/awesome-llm-system-design",
+    "language": "Python",
+    "name": "neurarch-ai/awesome-llm-system-design",
+    "stars": 1,
+    "updated_at": "2026-08-02T03:17:03Z",
+    "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
   },
   {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
@@ -25,33 +61,6 @@
     "stars": 6,
     "updated_at": "2026-08-02T03:04:16Z",
     "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "Terminal-first, self-hosted AI gateway with 8 MCP tools for Codex, Cursor, and Cline. One Docker command, no API key.",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-08-02T03:01:58Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T03:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55299,
-    "updated_at": "2026-08-02T02:59:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -104,7 +113,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-08-02T02:38:27Z",
+    "updated_at": "2026-08-02T03:28:54Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-08-02T02:37:28Z",
+    "updated_at": "2026-08-02T03:20:13Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -142,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T02:26:02Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-02T03:08:41Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -202,7 +202,7 @@
     "id": "NaCode-Studios/Kmemo",
     "language": "Kotlin",
     "name": "NaCode-Studios/Kmemo",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-08-02T01:46:09Z",
     "url": "https://github.com/NaCode-Studios/Kmemo"
   },
@@ -239,7 +239,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 109,
-    "updated_at": "2026-08-02T03:11:25Z",
+    "updated_at": "2026-08-02T03:23:26Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
