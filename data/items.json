@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
+    "id": "neurarch-ai/awesome-llm-system-design",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55297,
-    "updated_at": "2026-08-02T02:59:00Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "neurarch-ai/awesome-llm-system-design",
+    "stars": 1,
+    "updated_at": "2026-08-02T03:14:03Z",
+    "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
   },
   {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "Vishalvk2219/Ringdown",
     "stars": 0,
-    "updated_at": "2026-08-02T02:58:16Z",
+    "updated_at": "2026-08-02T03:04:50Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
+  },
+  {
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
+    "id": "bytebeast/check-endpoint",
+    "language": "Python",
+    "name": "bytebeast/check-endpoint",
+    "stars": 6,
+    "updated_at": "2026-08-02T03:04:16Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
+    "description": "Terminal-first, self-hosted AI gateway with 8 MCP tools for Codex, Cursor, and Cline. One Docker command, no API key.",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-02T03:01:58Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T03:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55299,
+    "updated_at": "2026-08-02T02:59:00Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -36,24 +72,6 @@
     "url": "https://github.com/runcycles/cycles-client-typescript"
   },
   {
-    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
-    "id": "bytebeast/check-endpoint",
-    "language": "Python",
-    "name": "bytebeast/check-endpoint",
-    "stars": 6,
-    "updated_at": "2026-08-02T02:52:49Z",
-    "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "Terminal-first, self-hosted AI gateway with 8 MCP tools for Codex, Cursor, and Cline. One Docker command, no API key.",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-08-02T02:47:54Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -70,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-08-02T02:46:02Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T02:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
@@ -140,7 +149,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-02T02:17:37Z",
+    "updated_at": "2026-08-02T03:08:41Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -202,7 +211,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8129,
+    "stars": 8131,
     "updated_at": "2026-08-02T01:37:02Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -230,7 +239,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 109,
-    "updated_at": "2026-08-02T03:00:17Z",
+    "updated_at": "2026-08-02T03:11:25Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -409,7 +418,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23826,
+    "stars": 23827,
     "updated_at": "2026-08-01T23:47:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-01T23:36:30Z",
     "url": "https://github.com/HikaruEgashira/otel-hooks"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5727,
-    "updated_at": "2026-08-01T23:22:37Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   }
 ]
