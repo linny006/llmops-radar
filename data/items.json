@@ -1,12 +1,21 @@
 [
   {
-    "description": "A local-first workbench for LLM evaluation, RAG observability, safety checks, and production-style GenAI operations.",
-    "id": "paolo-notaro/llmops-workbench",
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
-    "name": "paolo-notaro/llmops-workbench",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-02T12:29:01Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
+    "id": "cendorhq/cendor-libs",
+    "language": "Python",
+    "name": "cendorhq/cendor-libs",
     "stars": 0,
-    "updated_at": "2026-08-02T12:13:03Z",
-    "url": "https://github.com/paolo-notaro/llmops-workbench"
+    "updated_at": "2026-08-02T12:17:42Z",
+    "url": "https://github.com/cendorhq/cendor-libs"
   },
   {
     "description": "Lightweight, self-hosted LLMOps evaluation & observability platform with multi-provider tracking (OpenRouter, OpenAI, An",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "vipulchinmay/llmops-evals",
     "stars": 0,
-    "updated_at": "2026-08-02T12:13:02Z",
+    "updated_at": "2026-08-02T12:17:15Z",
     "url": "https://github.com/vipulchinmay/llmops-evals"
+  },
+  {
+    "description": "Open-source AI reseller panel with customer API keys, prepaid balances, usage limits, model pricing, and profit analytic",
+    "id": "tokenpanel/tokenpanel",
+    "language": "TypeScript",
+    "name": "tokenpanel/tokenpanel",
+    "stars": 3,
+    "updated_at": "2026-08-02T12:17:11Z",
+    "url": "https://github.com/tokenpanel/tokenpanel"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T12:15:14Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A local-first workbench for LLM evaluation, RAG observability, safety checks, and production-style GenAI operations.",
+    "id": "paolo-notaro/llmops-workbench",
+    "language": "Python",
+    "name": "paolo-notaro/llmops-workbench",
+    "stars": 0,
+    "updated_at": "2026-08-02T12:29:17Z",
+    "url": "https://github.com/paolo-notaro/llmops-workbench"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -54,15 +90,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T12:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
     "id": "thangldw/ragops",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 2345,
     "updated_at": "2026-08-02T11:52:25Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-02T11:53:42Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -131,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3453,
-    "updated_at": "2026-08-02T12:14:29Z",
+    "updated_at": "2026-08-02T12:17:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "acornops/management-console",
     "stars": 2,
-    "updated_at": "2026-08-02T11:56:22Z",
+    "updated_at": "2026-08-02T12:19:41Z",
     "url": "https://github.com/acornops/management-console"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T10:11:03Z",
     "url": "https://github.com/aimd54/palan"
-  },
-  {
-    "description": "Open-source AI reseller panel with customer API keys, prepaid balances, usage limits, model pricing, and profit analytic",
-    "id": "tokenpanel/tokenpanel",
-    "language": "TypeScript",
-    "name": "tokenpanel/tokenpanel",
-    "stars": 3,
-    "updated_at": "2026-08-02T10:06:55Z",
-    "url": "https://github.com/tokenpanel/tokenpanel"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -230,7 +239,7 @@
     "language": "Rust",
     "name": "bosun-ai/swiftide",
     "stars": 758,
-    "updated_at": "2026-08-02T10:01:22Z",
+    "updated_at": "2026-08-02T12:27:20Z",
     "url": "https://github.com/bosun-ai/swiftide"
   },
   {
@@ -295,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-08-02T08:54:11Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
-    "id": "cendorhq/cendor-libs",
-    "language": "Python",
-    "name": "cendorhq/cendor-libs",
-    "stars": 0,
-    "updated_at": "2026-08-02T08:38:03Z",
-    "url": "https://github.com/cendorhq/cendor-libs"
   },
   {
     "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
@@ -391,7 +391,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27327,
+    "stars": 27328,
     "updated_at": "2026-08-02T07:58:29Z",
     "url": "https://github.com/mlflow/mlflow"
   },
