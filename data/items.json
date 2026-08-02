@@ -1,5 +1,50 @@
 [
   {
+    "description": "Terminal-first, self-hosted AI gateway with 8 MCP tools for Codex, Cursor, and Cline. One Docker command, no API key.",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-02T01:36:40Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
+    "id": "runcycles/cycles-server-events",
+    "language": "Java",
+    "name": "runcycles/cycles-server-events",
+    "stars": 1,
+    "updated_at": "2026-08-02T01:34:56Z",
+    "url": "https://github.com/runcycles/cycles-server-events"
+  },
+  {
+    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
+    "id": "cendorhq/cendor-libs",
+    "language": "Python",
+    "name": "cendorhq/cendor-libs",
+    "stars": 0,
+    "updated_at": "2026-08-02T01:32:31Z",
+    "url": "https://github.com/cendorhq/cendor-libs"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 109,
+    "updated_at": "2026-08-02T01:32:17Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T01:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
     "id": "cendorhq/cendor-cookbook",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-08-02T01:26:14Z",
+    "updated_at": "2026-08-02T01:45:10Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kmemo",
     "stars": 4,
-    "updated_at": "2026-08-02T01:27:18Z",
+    "updated_at": "2026-08-02T01:41:51Z",
     "url": "https://github.com/NaCode-Studios/Kmemo"
   },
   {
@@ -90,21 +135,12 @@
     "url": "https://github.com/acornops/agentk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T01:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55291,
-    "updated_at": "2026-08-02T01:25:36Z",
+    "updated_at": "2026-08-02T01:34:45Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -126,15 +162,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Terminal-first, self-hosted AI gateway with 8 MCP tools for Codex, Cursor, and Cline. One Docker command, no API key.",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-08-02T00:58:32Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -149,7 +176,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-08-02T00:56:53Z",
+    "updated_at": "2026-08-02T01:45:03Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-08-02T00:33:55Z",
     "url": "https://github.com/becloudready/workshops"
-  },
-  {
-    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
-    "id": "cendorhq/cendor-libs",
-    "language": "Python",
-    "name": "cendorhq/cendor-libs",
-    "stars": 0,
-    "updated_at": "2026-08-02T00:23:20Z",
-    "url": "https://github.com/cendorhq/cendor-libs"
   },
   {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
@@ -283,7 +301,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23824,
+    "stars": 23825,
     "updated_at": "2026-08-01T23:47:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T20:10:35Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "\ud83c\udfcb\ufe0f Train your AI agents with measurement, not vibes. Eval harness + scenario rubrics + subagent judges + prompt tourname",
-    "id": "luisroquette/ai-gym",
-    "language": "TypeScript",
-    "name": "luisroquette/ai-gym",
-    "stars": 0,
-    "updated_at": "2026-08-01T20:09:08Z",
-    "url": "https://github.com/luisroquette/ai-gym"
-  },
-  {
-    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
-    "id": "avikalpg/byok-relay",
-    "language": "JavaScript",
-    "name": "avikalpg/byok-relay",
-    "stars": 53,
-    "updated_at": "2026-08-01T22:05:03Z",
-    "url": "https://github.com/avikalpg/byok-relay"
   }
 ]
