@@ -1,12 +1,84 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-02T20:45:17Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-02T20:40:35Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-02T20:40:02Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
+    "id": "yptang98/CostMarshal",
+    "language": "Python",
+    "name": "yptang98/CostMarshal",
+    "stars": 3,
+    "updated_at": "2026-08-02T20:37:10Z",
+    "url": "https://github.com/yptang98/CostMarshal"
+  },
+  {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-02T20:35:59Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 5,
+    "updated_at": "2026-08-02T20:34:52Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "A zero-to-100 learning path for applied AI engineering \u2014 RAG, embeddings, vector search, agents, MCP, and the production",
+    "id": "karthikreddy-7/ai-engineering-playbook",
+    "language": "MDX",
+    "name": "karthikreddy-7/ai-engineering-playbook",
+    "stars": 18,
+    "updated_at": "2026-08-02T20:33:27Z",
+    "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
+  },
+  {
     "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
     "id": "Bobcatsfan33/Pharos",
     "language": "TypeScript",
     "name": "Bobcatsfan33/Pharos",
     "stars": 2,
-    "updated_at": "2026-08-02T20:30:10Z",
+    "updated_at": "2026-08-02T20:43:06Z",
     "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T20:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Infrastructure-as-code for AI agent workflows",
@@ -16,15 +88,6 @@
     "stars": 11,
     "updated_at": "2026-08-02T20:23:09Z",
     "url": "https://github.com/hensu-project/hensu"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T20:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -45,15 +108,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
-    "id": "yptang98/CostMarshal",
-    "language": "Python",
-    "name": "yptang98/CostMarshal",
-    "stars": 3,
-    "updated_at": "2026-08-02T20:05:49Z",
-    "url": "https://github.com/yptang98/CostMarshal"
-  },
-  {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
     "id": "avikalpg/byok-relay",
     "language": "JavaScript",
@@ -68,8 +122,17 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-08-02T20:25:55Z",
+    "updated_at": "2026-08-02T20:38:24Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6975,
+    "updated_at": "2026-08-02T19:50:18Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
@@ -108,24 +171,6 @@
     "url": "https://github.com/tmusser/ai-engineering-skills"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-02T20:26:12Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:43:30Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -160,15 +205,6 @@
     "stars": 41,
     "updated_at": "2026-08-02T19:30:21Z",
     "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
-  },
-  {
-    "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:19:29Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
     "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
@@ -259,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T18:55:19Z",
     "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-02T20:26:31Z",
-    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3455,
-    "updated_at": "2026-08-02T20:28:58Z",
+    "updated_at": "2026-08-02T20:35:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-02T17:13:13Z",
     "url": "https://github.com/vul-os/llmux"
-  },
-  {
-    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
-    "id": "cendorhq/cendor-cookbook",
-    "language": "Python",
-    "name": "cendorhq/cendor-cookbook",
-    "stars": 0,
-    "updated_at": "2026-08-02T17:05:53Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook"
-  },
-  {
-    "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
-    "id": "marcusschiesser/agentpond",
-    "language": "TypeScript",
-    "name": "marcusschiesser/agentpond",
-    "stars": 13,
-    "updated_at": "2026-08-02T17:06:04Z",
-    "url": "https://github.com/marcusschiesser/agentpond"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 109,
-    "updated_at": "2026-08-02T20:03:33Z",
-    "url": "https://github.com/GetBusbar/busbar"
   }
 ]
