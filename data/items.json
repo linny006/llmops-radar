@@ -1,5 +1,59 @@
 [
   {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-02T07:59:55Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
+    "id": "okfriansyah-moh/the-foundry",
+    "language": "Go",
+    "name": "okfriansyah-moh/the-foundry",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:58:50Z",
+    "url": "https://github.com/okfriansyah-moh/the-foundry"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-02T07:57:02Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:47:04Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 5,
+    "updated_at": "2026-08-02T07:48:37Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T07:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
     "id": "Vishalvk2219/Ringdown",
     "language": "Python",
@@ -36,15 +90,6 @@
     "url": "https://github.com/cogniziocompany/agentic-remote-pc"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T07:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -63,15 +108,6 @@
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-02T07:21:21Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "Reference architectures for designing, deploying, and operating enterprise AI systems on AWS and Azure \u2014 Well-Architecte",
     "id": "neuralrhythms/Enterprise-AI-Solutions",
     "language": "Python",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "krivonosoff161/llm-cheap-filter",
     "stars": 0,
-    "updated_at": "2026-08-02T07:44:48Z",
+    "updated_at": "2026-08-02T07:50:59Z",
     "url": "https://github.com/krivonosoff161/llm-cheap-filter"
   },
   {
@@ -95,8 +131,17 @@
     "language": "Python",
     "name": "krivonosoff161/llm-router",
     "stars": 0,
-    "updated_at": "2026-08-02T07:44:48Z",
+    "updated_at": "2026-08-02T07:50:59Z",
     "url": "https://github.com/krivonosoff161/llm-router"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6966,
+    "updated_at": "2026-08-02T07:15:23Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T07:02:38Z",
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-02T07:02:21Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
@@ -148,7 +184,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55315,
+    "stars": 55316,
     "updated_at": "2026-08-02T06:50:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -160,24 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T06:49:37Z",
     "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6966,
-    "updated_at": "2026-08-02T07:15:23Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-08-02T07:23:55Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27324,
-    "updated_at": "2026-08-02T04:53:41Z",
+    "updated_at": "2026-08-02T07:58:29Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 206,
-    "updated_at": "2026-08-02T04:38:19Z",
+    "updated_at": "2026-08-02T07:58:18Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-02T02:41:37Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10206,
-    "updated_at": "2026-08-02T02:39:13Z",
-    "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Detect context bloat, cache misses, and model over-spend in production LLM systems. Langfuse/ClickHouse observability wi",
-    "id": "chowdarymcs/llm-cost-observatory",
-    "language": "Python",
-    "name": "chowdarymcs/llm-cost-observatory",
-    "stars": 0,
-    "updated_at": "2026-08-02T02:33:45Z",
-    "url": "https://github.com/chowdarymcs/llm-cost-observatory"
   }
 ]
