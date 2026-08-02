@@ -1,5 +1,59 @@
 [
   {
+    "description": "",
+    "id": "openlit/.github",
+    "language": "\u2014",
+    "name": "openlit/.github",
+    "stars": 3,
+    "updated_at": "2026-08-02T22:24:05Z",
+    "url": "https://github.com/openlit/.github"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-02T22:24:24Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-02T22:27:14Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "AI cofounder OS \u2014 multi-agent orchestration with approval gates, hard budget caps, and a tamper-evident SHA-256 audit lo",
+    "id": "DreadpiratePickles/trent",
+    "language": "TypeScript",
+    "name": "DreadpiratePickles/trent",
+    "stars": 0,
+    "updated_at": "2026-08-02T22:22:37Z",
+    "url": "https://github.com/DreadpiratePickles/trent"
+  },
+  {
+    "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
+    "id": "erjonb19/Security-Constrained-Agent-Runtime",
+    "language": "Python",
+    "name": "erjonb19/Security-Constrained-Agent-Runtime",
+    "stars": 0,
+    "updated_at": "2026-08-02T22:15:35Z",
+    "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T22:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
     "id": "cendorhq/cendor-cookbook-js",
     "language": "JavaScript",
@@ -34,15 +88,6 @@
     "stars": 44,
     "updated_at": "2026-08-02T22:03:29Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T22:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -122,17 +167,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-08-02T21:39:57Z",
+    "updated_at": "2026-08-02T22:25:14Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-02T22:15:25Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6976,
-    "updated_at": "2026-08-02T21:58:11Z",
+    "updated_at": "2026-08-02T22:27:50Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -292,7 +328,7 @@
     "id": "karthikreddy-7/ai-engineering-playbook",
     "language": "MDX",
     "name": "karthikreddy-7/ai-engineering-playbook",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-08-02T20:33:27Z",
     "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
   },
@@ -304,6 +340,15 @@
     "stars": 11,
     "updated_at": "2026-08-02T20:23:09Z",
     "url": "https://github.com/hensu-project/hensu"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 27,
+    "updated_at": "2026-08-02T20:14:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
@@ -322,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T20:38:24Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 27,
-    "updated_at": "2026-08-02T20:14:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Terminal-first, self-hosted AI/MCP gateway and Codex plugin that turns plain language into structured work through 9 gov",
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-02T19:02:40Z",
     "url": "https://github.com/psyb0t/aigate"
-  },
-  {
-    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
-    "id": "acblabs/agent-assure",
-    "language": "Python",
-    "name": "acblabs/agent-assure",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:27:01Z",
-    "url": "https://github.com/acblabs/agent-assure"
-  },
-  {
-    "description": "Deterministic evidence kernel for replayable PASS/WARN/BLOCK decisions - the core behind aos-workflow-gate. Public demon",
-    "id": "RafineriaAI/aos-kernel",
-    "language": "Python",
-    "name": "RafineriaAI/aos-kernel",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:59:13Z",
-    "url": "https://github.com/RafineriaAI/aos-kernel"
-  },
-  {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:57:07Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
-    "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
-    "id": "paulosalem/weavemark",
-    "language": "Python",
-    "name": "paulosalem/weavemark",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:56:16Z",
-    "url": "https://github.com/paulosalem/weavemark"
   }
 ]
