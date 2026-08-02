@@ -1,5 +1,77 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-02T06:59:33Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": " Turn any PC \u2014 Windows or Linux \u2014 into a secure, agent-controllable workstation. One authenticated REST + MCP gateway ex",
+    "id": "cogniziocompany/agentic-remote-pc",
+    "language": "JavaScript",
+    "name": "cogniziocompany/agentic-remote-pc",
+    "stars": 0,
+    "updated_at": "2026-08-02T06:55:56Z",
+    "url": "https://github.com/cogniziocompany/agentic-remote-pc"
+  },
+  {
+    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
+    "id": "acornops/agentk",
+    "language": "TypeScript",
+    "name": "acornops/agentk",
+    "stars": 2,
+    "updated_at": "2026-08-02T06:53:36Z",
+    "url": "https://github.com/acornops/agentk"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-02T06:53:22Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 109,
+    "updated_at": "2026-08-02T06:51:19Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55313,
+    "updated_at": "2026-08-02T06:50:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-08-02T06:49:37Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T06:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Terminal-first, self-hosted AI and MCP gateway for Codex, Cursor, and Cline. 8 governed tools, one Docker command, no AP",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
@@ -27,15 +99,6 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T06:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Multi-tenant AI runtime control plane for risk scoring, policy enforcement, and evidence-preserving agent operations.",
     "id": "shivanshgupta365/RiskDelta-AI",
     "language": "TypeScript",
@@ -54,24 +117,6 @@
     "url": "https://github.com/neuralrhythms/Enterprise-AI-Solutions"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55312,
-    "updated_at": "2026-08-02T06:23:54Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-02T06:17:50Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
     "id": "runcycles/cycles-dashboard",
     "language": "TypeScript",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T06:17:01Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-02T06:41:17Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -135,15 +171,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 109,
-    "updated_at": "2026-08-02T05:55:24Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
     "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
     "id": "acornops/docs-website",
     "language": "MDX",
@@ -167,7 +194,7 @@
     "language": "TypeScript",
     "name": "acornops/management-console",
     "stars": 2,
-    "updated_at": "2026-08-02T06:27:19Z",
+    "updated_at": "2026-08-02T06:53:42Z",
     "url": "https://github.com/acornops/management-console"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "Vishalvk2219/Ringdown",
     "stars": 0,
-    "updated_at": "2026-08-02T06:39:16Z",
+    "updated_at": "2026-08-02T06:53:51Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T01:34:56Z",
     "url": "https://github.com/runcycles/cycles-server-events"
-  },
-  {
-    "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
-    "id": "cendorhq/cendor-libs",
-    "language": "Python",
-    "name": "cendorhq/cendor-libs",
-    "stars": 0,
-    "updated_at": "2026-08-02T01:32:31Z",
-    "url": "https://github.com/cendorhq/cendor-libs"
-  },
-  {
-    "description": "Copy-paste, run-offline recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance (Py + TS).",
-    "id": "cendorhq/cendor-cookbook",
-    "language": "Python",
-    "name": "cendorhq/cendor-cookbook",
-    "stars": 0,
-    "updated_at": "2026-08-02T01:29:07Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook"
-  },
-  {
-    "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
-    "id": "acornops/acornops",
-    "language": "JavaScript",
-    "name": "acornops/acornops",
-    "stars": 11,
-    "updated_at": "2026-08-02T01:18:02Z",
-    "url": "https://github.com/acornops/acornops"
   }
 ]
