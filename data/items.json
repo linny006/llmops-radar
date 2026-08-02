@@ -1,12 +1,48 @@
 [
   {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-02T13:43:44Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
     "language": "Python",
-    "name": "malkreide/zh-education-mcp",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-02T13:39:21Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "A zero-to-100 learning path for applied AI engineering \u2014 RAG, embeddings, vector search, agents, MCP, and the production",
+    "id": "karthikreddy-7/ai-engineering-playbook",
+    "language": "HTML",
+    "name": "karthikreddy-7/ai-engineering-playbook",
+    "stars": 11,
+    "updated_at": "2026-08-02T13:36:32Z",
+    "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
+  },
+  {
+    "description": "Terminal-first, self-hosted AI and MCP gateway for Codex, Cursor, and Cline. 8 governed tools, one Docker command, no AP",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-02T13:35:00Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
+    "id": "Vishalvk2219/Ringdown",
+    "language": "Python",
+    "name": "Vishalvk2219/Ringdown",
     "stars": 0,
-    "updated_at": "2026-08-02T13:28:35Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
+    "updated_at": "2026-08-02T13:34:38Z",
+    "url": "https://github.com/Vishalvk2219/Ringdown"
   },
   {
     "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "paulosalem/weavemark",
     "stars": 2,
-    "updated_at": "2026-08-02T13:26:30Z",
+    "updated_at": "2026-08-02T13:33:25Z",
     "url": "https://github.com/paulosalem/weavemark"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T13:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-02T13:45:16Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
@@ -52,15 +106,6 @@
     "stars": 8137,
     "updated_at": "2026-08-02T13:16:31Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T13:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3453,
-    "updated_at": "2026-08-02T13:29:20Z",
+    "updated_at": "2026-08-02T13:44:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -169,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T12:29:17Z",
     "url": "https://github.com/paolo-notaro/llmops-workbench"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-02T12:06:32Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-02T12:02:22Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -274,7 +301,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21047,
+    "stars": 21048,
     "updated_at": "2026-08-02T10:12:00Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-02T09:36:58Z",
+    "updated_at": "2026-08-02T13:42:05Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -373,7 +400,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55340,
+    "stars": 55343,
     "updated_at": "2026-08-02T08:55:41Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T08:29:22Z",
     "url": "https://github.com/msanket9/stillsane"
-  },
-  {
-    "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
-    "id": "runcycles/langchain-runcycles",
-    "language": "Python",
-    "name": "runcycles/langchain-runcycles",
-    "stars": 0,
-    "updated_at": "2026-08-02T08:24:26Z",
-    "url": "https://github.com/runcycles/langchain-runcycles"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 19,
-    "updated_at": "2026-08-02T08:20:52Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6968,
-    "updated_at": "2026-08-02T08:13:48Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
