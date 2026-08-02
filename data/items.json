@@ -1,21 +1,21 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T07:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
     "id": "Vishalvk2219/Ringdown",
     "language": "Python",
     "name": "Vishalvk2219/Ringdown",
     "stars": 0,
-    "updated_at": "2026-08-02T07:15:01Z",
+    "updated_at": "2026-08-02T07:25:55Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-02T07:24:43Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Terminal-first, self-hosted AI and MCP gateway for Codex, Cursor, and Cline. 8 governed tools, one Docker command, no AP",
@@ -23,17 +23,53 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 2,
-    "updated_at": "2026-08-02T07:11:25Z",
+    "updated_at": "2026-08-02T07:23:14Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3452,
-    "updated_at": "2026-08-02T07:09:27Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-02T07:21:21Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Reference architectures for designing, deploying, and operating enterprise AI systems on AWS and Azure \u2014 Well-Architecte",
+    "id": "neuralrhythms/Enterprise-AI-Solutions",
+    "language": "Python",
+    "name": "neuralrhythms/Enterprise-AI-Solutions",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:21:16Z",
+    "url": "https://github.com/neuralrhythms/Enterprise-AI-Solutions"
+  },
+  {
+    "description": "Deterministic prefilter and cheap-to-chief escalation pipeline for reducing expensive LLM calls in agentic workflows.",
+    "id": "krivonosoff161/llm-cheap-filter",
+    "language": "Python",
+    "name": "krivonosoff161/llm-cheap-filter",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:20:32Z",
+    "url": "https://github.com/krivonosoff161/llm-cheap-filter"
+  },
+  {
+    "description": "Small cost-aware LLM router for role-tiered OpenAI-compatible and Yandex calls with per-call usage logging.",
+    "id": "krivonosoff161/llm-router",
+    "language": "Python",
+    "name": "krivonosoff161/llm-router",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:20:26Z",
+    "url": "https://github.com/krivonosoff161/llm-router"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T07:18:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": " Turn any PC \u2014 Windows or Linux \u2014 into a secure, agent-controllable workstation. One authenticated REST + MCP gateway ex",
@@ -43,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-08-02T07:18:21Z",
     "url": "https://github.com/cogniziocompany/agentic-remote-pc"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3452,
+    "updated_at": "2026-08-02T07:09:27Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
@@ -63,15 +108,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-02T07:14:22Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
     "id": "acornops/agentk",
     "language": "TypeScript",
@@ -79,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T06:53:36Z",
     "url": "https://github.com/acornops/agentk"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-02T07:09:21Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -103,7 +130,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55314,
+    "stars": 55315,
     "updated_at": "2026-08-02T06:50:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -131,7 +158,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-08-02T06:36:09Z",
+    "updated_at": "2026-08-02T07:23:55Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 6,
     "updated_at": "2026-08-02T06:27:09Z",
     "url": "https://github.com/shivanshgupta365/RiskDelta-AI"
-  },
-  {
-    "description": "Reference architectures for designing, deploying, and operating enterprise AI systems on AWS and Azure \u2014 Well-Architecte",
-    "id": "neuralrhythms/Enterprise-AI-Solutions",
-    "language": "Python",
-    "name": "neuralrhythms/Enterprise-AI-Solutions",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:44:11Z",
-    "url": "https://github.com/neuralrhythms/Enterprise-AI-Solutions"
   },
   {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
@@ -248,7 +266,7 @@
     "language": "TypeScript",
     "name": "acornops/management-console",
     "stars": 2,
-    "updated_at": "2026-08-02T06:53:42Z",
+    "updated_at": "2026-08-02T07:23:28Z",
     "url": "https://github.com/acornops/management-console"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-02T02:08:33Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-08-02T02:02:39Z",
-    "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "sno-ai/llmix",
-    "language": "Python",
-    "name": "sno-ai/llmix",
-    "stars": 130,
-    "updated_at": "2026-08-02T02:01:51Z",
-    "url": "https://github.com/sno-ai/llmix"
   }
 ]
