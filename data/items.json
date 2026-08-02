@@ -1,5 +1,59 @@
 [
   {
+    "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
+    "id": "paulosalem/weavemark",
+    "language": "Python",
+    "name": "paulosalem/weavemark",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:27:41Z",
+    "url": "https://github.com/paulosalem/weavemark"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-02T18:24:50Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Terminal-first, self-hosted AI and MCP gateway that turns plain language into structured work. 9 governed tools for Code",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:24:02Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 27,
+    "updated_at": "2026-08-02T18:21:04Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:19:16Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 3,
     "updated_at": "2026-08-02T18:06:41Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23850,
+    "updated_at": "2026-08-02T18:03:51Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -18,15 +81,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-08-02T17:55:28Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Terminal-first, self-hosted AI and MCP gateway that turns plain language into structured work. 9 governed tools for Code",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:53:17Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
@@ -54,24 +99,6 @@
     "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
   },
   {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-02T18:01:40Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 27,
-    "updated_at": "2026-08-02T17:51:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
     "id": "cendorhq/cendor-libs",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T17:50:32Z",
     "url": "https://github.com/cendorhq/cendor-libs"
-  },
-  {
-    "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-02T17:47:46Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3455,
-    "updated_at": "2026-08-02T17:13:26Z",
+    "updated_at": "2026-08-02T18:29:40Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -189,6 +207,15 @@
     "url": "https://github.com/marcusschiesser/agentpond"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21059,
+    "updated_at": "2026-08-02T18:28:52Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
     "id": "GetBusbar/busbar",
     "language": "Rust",
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6974,
-    "updated_at": "2026-08-02T18:08:37Z",
+    "updated_at": "2026-08-02T18:22:33Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -211,7 +238,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10860,
+    "stars": 10861,
     "updated_at": "2026-08-02T16:49:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -220,7 +247,7 @@
     "id": "karthikreddy-7/ai-engineering-playbook",
     "language": "MDX",
     "name": "karthikreddy-7/ai-engineering-playbook",
-    "stars": 13,
+    "stars": 14,
     "updated_at": "2026-08-02T16:46:16Z",
     "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
   },
@@ -360,15 +387,6 @@
     "url": "https://github.com/ahmeedatm/infer-router"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21058,
-    "updated_at": "2026-08-02T17:02:04Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
     "id": "acornops/management-console",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T15:21:51Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Opik APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/opik",
-    "language": "\u2014",
-    "name": "api-evangelist/opik",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:20:22Z",
-    "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:18:46Z",
-    "url": "https://github.com/api-evangelist/dify"
   }
 ]
