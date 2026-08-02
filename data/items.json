@@ -1,12 +1,30 @@
 [
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
+    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
+    "id": "Vishalvk2219/Ringdown",
     "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-02T06:59:33Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+    "name": "Vishalvk2219/Ringdown",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:15:01Z",
+    "url": "https://github.com/Vishalvk2219/Ringdown"
+  },
+  {
+    "description": "Terminal-first, self-hosted AI and MCP gateway for Codex, Cursor, and Cline. 8 governed tools, one Docker command, no AP",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-02T07:11:25Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3452,
+    "updated_at": "2026-08-02T07:09:27Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": " Turn any PC \u2014 Windows or Linux \u2014 into a secure, agent-controllable workstation. One authenticated REST + MCP gateway ex",
@@ -14,8 +32,44 @@
     "language": "JavaScript",
     "name": "cogniziocompany/agentic-remote-pc",
     "stars": 0,
-    "updated_at": "2026-08-02T06:55:56Z",
+    "updated_at": "2026-08-02T07:02:50Z",
     "url": "https://github.com/cogniziocompany/agentic-remote-pc"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:02:38Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-02T07:02:21Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T07:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-02T07:14:22Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-02T06:53:22Z",
+    "updated_at": "2026-08-02T07:09:21Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -63,22 +117,13 @@
     "url": "https://github.com/acornops/acornops-deployment"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T06:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Terminal-first, self-hosted AI and MCP gateway for Codex, Cursor, and Cline. 8 governed tools, one Docker command, no AP",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-08-02T06:45:16Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6966,
+    "updated_at": "2026-08-02T07:15:23Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -124,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-08-02T06:17:01Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8134,
+    "updated_at": "2026-08-02T06:14:46Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -243,6 +297,15 @@
     "url": "https://github.com/vipulchinmay/llmops-evals"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27324,
+    "updated_at": "2026-08-02T04:53:41Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
     "id": "taichuy/1flowbase",
     "language": "Rust",
@@ -259,24 +322,6 @@
     "stars": 4,
     "updated_at": "2026-08-02T04:38:15Z",
     "url": "https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6965,
-    "updated_at": "2026-08-02T06:42:09Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8133,
-    "updated_at": "2026-08-02T06:14:46Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
@@ -313,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T03:45:13Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
-    "id": "Vishalvk2219/Ringdown",
-    "language": "Python",
-    "name": "Vishalvk2219/Ringdown",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:53:51Z",
-    "url": "https://github.com/Vishalvk2219/Ringdown"
   },
   {
     "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
@@ -412,41 +448,5 @@
     "stars": 130,
     "updated_at": "2026-08-02T02:01:51Z",
     "url": "https://github.com/sno-ai/llmix"
-  },
-  {
-    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
-    "id": "kensterinvest/tidus",
-    "language": "HTML",
-    "name": "kensterinvest/tidus",
-    "stars": 1,
-    "updated_at": "2026-08-02T02:00:24Z",
-    "url": "https://github.com/kensterinvest/tidus"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-08-02T01:50:54Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 5,
-    "updated_at": "2026-08-02T01:46:09Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
-    "id": "runcycles/cycles-server-events",
-    "language": "Java",
-    "name": "runcycles/cycles-server-events",
-    "stars": 1,
-    "updated_at": "2026-08-02T01:34:56Z",
-    "url": "https://github.com/runcycles/cycles-server-events"
   }
 ]
