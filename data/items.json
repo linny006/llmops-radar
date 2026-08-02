@@ -1,11 +1,29 @@
 [
   {
+    "description": "Routes natural-language network intents to the cheapest LLM that meets a quality floor indexed on the intent's criticali",
+    "id": "ahmeedatm/infer-router",
+    "language": "Python",
+    "name": "ahmeedatm/infer-router",
+    "stars": 0,
+    "updated_at": "2026-08-02T15:45:01Z",
+    "url": "https://github.com/ahmeedatm/infer-router"
+  },
+  {
+    "description": "Terminal-first, self-hosted AI and MCP gateway that turns plain language into structured work. 9 governed tools for Code",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-02T15:43:52Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21053,
-    "updated_at": "2026-08-02T15:29:55Z",
+    "stars": 21054,
+    "updated_at": "2026-08-02T15:37:09Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -14,8 +32,71 @@
     "language": "Python",
     "name": "Yesol-Pilot/neosignal-check",
     "stars": 0,
-    "updated_at": "2026-08-02T15:30:20Z",
+    "updated_at": "2026-08-02T15:34:23Z",
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-02T15:33:34Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 2,
+    "updated_at": "2026-08-02T15:33:08Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-08-02T15:32:56Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-08-02T15:32:39Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-08-02T15:32:23Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-02T15:31:36Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T15:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
@@ -41,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3454,
-    "updated_at": "2026-08-02T15:21:13Z",
+    "updated_at": "2026-08-02T15:42:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -63,31 +144,13 @@
     "url": "https://github.com/api-evangelist/dify"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T15:18:17Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3134,
-    "updated_at": "2026-08-02T15:17:12Z",
+    "updated_at": "2026-08-02T15:43:11Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-02T15:18:08Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Log10 APIs.json profile for API Evangelist catalog",
@@ -126,15 +189,6 @@
     "url": "https://github.com/cendorhq/cendor-cookbook"
   },
   {
-    "description": "Terminal-first, self-hosted AI and MCP gateway that turns plain language into structured work. 9 governed tools for Code",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-08-02T15:03:33Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -149,17 +203,8 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 541,
-    "updated_at": "2026-08-02T15:00:24Z",
+    "updated_at": "2026-08-02T15:33:16Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Adaptive LLM router (Master's thesis, CNAM) \u2014 orchestrates a pool of specialised LLMs with an automated LLM-as-judge eva",
-    "id": "ahmeedatm/infer-router",
-    "language": "Python",
-    "name": "ahmeedatm/infer-router",
-    "stars": 0,
-    "updated_at": "2026-08-02T14:59:38Z",
-    "url": "https://github.com/ahmeedatm/infer-router"
   },
   {
     "description": "Seldon APIs.json profile for API Evangelist catalog",
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-02T15:25:20Z",
+    "updated_at": "2026-08-02T15:41:37Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -346,7 +391,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8137,
+    "stars": 8138,
     "updated_at": "2026-08-02T13:16:31Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -369,15 +414,6 @@
     "url": "https://github.com/thangldw/ragops"
   },
   {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-02T13:05:40Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
     "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
     "id": "krishkumar4400/weights-to-prod",
     "language": "Jupyter Notebook",
@@ -396,15 +432,6 @@
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-02T13:02:14Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
     "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
     "id": "cendorhq/cendor-libs",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T12:17:15Z",
     "url": "https://github.com/vipulchinmay/llmops-evals"
-  },
-  {
-    "description": "Open-source AI reseller panel with customer API keys, prepaid balances, usage limits, model pricing, and profit analytic",
-    "id": "tokenpanel/tokenpanel",
-    "language": "TypeScript",
-    "name": "tokenpanel/tokenpanel",
-    "stars": 3,
-    "updated_at": "2026-08-02T12:17:11Z",
-    "url": "https://github.com/tokenpanel/tokenpanel"
-  },
-  {
-    "description": "A local-first workbench for LLM evaluation, RAG observability, safety checks, and production-style GenAI operations.",
-    "id": "paolo-notaro/llmops-workbench",
-    "language": "Python",
-    "name": "paolo-notaro/llmops-workbench",
-    "stars": 0,
-    "updated_at": "2026-08-02T12:29:17Z",
-    "url": "https://github.com/paolo-notaro/llmops-workbench"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-08-02T12:42:40Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
   }
 ]
