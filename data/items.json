@@ -1,5 +1,50 @@
 [
   {
+    "description": "Multi-tenant AI runtime control plane for risk scoring, policy enforcement, and evidence-preserving agent operations.",
+    "id": "shivanshgupta365/RiskDelta-AI",
+    "language": "TypeScript",
+    "name": "shivanshgupta365/RiskDelta-AI",
+    "stars": 6,
+    "updated_at": "2026-08-02T09:12:13Z",
+    "url": "https://github.com/shivanshgupta365/RiskDelta-AI"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-02T09:09:04Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "Nunjucks",
+    "name": "lisn0/tidal",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:06:59Z",
+    "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2345,
+    "updated_at": "2026-08-02T09:03:43Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T09:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
     "id": "Drlinglong/Remis",
     "language": "Python",
@@ -7,6 +52,15 @@
     "stars": 25,
     "updated_at": "2026-08-02T08:56:12Z",
     "url": "https://github.com/Drlinglong/Remis"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55321,
+    "updated_at": "2026-08-02T08:55:41Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -32,17 +86,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3452,
-    "updated_at": "2026-08-02T08:53:13Z",
+    "updated_at": "2026-08-02T09:01:21Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T08:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
@@ -126,15 +171,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-02T08:36:31Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -157,7 +193,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21042,
+    "stars": 21043,
     "updated_at": "2026-08-02T08:11:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -288,15 +324,6 @@
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55320,
-    "updated_at": "2026-08-02T08:55:41Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
     "id": "acornops/acornops-deployment",
     "language": "JavaScript",
@@ -311,17 +338,8 @@
     "language": "Vue",
     "name": "runcycles/cycles-docs",
     "stars": 4,
-    "updated_at": "2026-08-02T08:05:32Z",
+    "updated_at": "2026-08-02T09:04:58Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Multi-tenant AI runtime control plane for risk scoring, policy enforcement, and evidence-preserving agent operations.",
-    "id": "shivanshgupta365/RiskDelta-AI",
-    "language": "TypeScript",
-    "name": "shivanshgupta365/RiskDelta-AI",
-    "stars": 6,
-    "updated_at": "2026-08-02T06:27:09Z",
-    "url": "https://github.com/shivanshgupta365/RiskDelta-AI"
   },
   {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
@@ -430,23 +448,5 @@
     "stars": 206,
     "updated_at": "2026-08-02T08:53:40Z",
     "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
-    "description": "Portable, self-contained snapshot of a complete Claude Code setup \u2014 36 specialist agents, 150 skills, plugins, MCP serve",
-    "id": "build-with-dhiraj/ai-workflow-framework-portability-kit",
-    "language": "Python",
-    "name": "build-with-dhiraj/ai-workflow-framework-portability-kit",
-    "stars": 4,
-    "updated_at": "2026-08-02T04:38:15Z",
-    "url": "https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit"
-  },
-  {
-    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
-    "id": "avikalpg/byok-relay",
-    "language": "JavaScript",
-    "name": "avikalpg/byok-relay",
-    "stars": 53,
-    "updated_at": "2026-08-02T08:20:18Z",
-    "url": "https://github.com/avikalpg/byok-relay"
   }
 ]
