@@ -1,5 +1,68 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 27,
+    "updated_at": "2026-08-02T17:27:47Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 541,
+    "updated_at": "2026-08-02T17:24:41Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-02T17:23:48Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-02T17:22:34Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 2,
+    "updated_at": "2026-08-02T17:21:18Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 2,
+    "updated_at": "2026-08-02T17:23:14Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T17:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
     "id": "vul-os/llmux",
     "language": "Go",
@@ -54,15 +117,6 @@
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:10:32Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
     "id": "GetBusbar/busbar",
     "language": "Rust",
@@ -72,21 +126,12 @@
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6974,
-    "updated_at": "2026-08-02T17:06:56Z",
+    "updated_at": "2026-08-02T17:15:55Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 26,
     "updated_at": "2026-08-02T16:55:32Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 27,
-    "updated_at": "2026-08-02T16:50:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -121,7 +157,7 @@
     "id": "karthikreddy-7/ai-engineering-playbook",
     "language": "MDX",
     "name": "karthikreddy-7/ai-engineering-playbook",
-    "stars": 12,
+    "stars": 13,
     "updated_at": "2026-08-02T16:46:16Z",
     "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
   },
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T16:15:48Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-02T17:01:07Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -405,15 +432,6 @@
     "url": "https://github.com/cendorhq/cendor-cookbook-js"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 541,
-    "updated_at": "2026-08-02T16:16:01Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
     "description": "Seldon APIs.json profile for API Evangelist catalog",
     "id": "api-evangelist/seldon",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T14:57:03Z",
     "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
-    "id": "runcycles/cycles-server-admin",
-    "language": "Java",
-    "name": "runcycles/cycles-server-admin",
-    "stars": 1,
-    "updated_at": "2026-08-02T14:55:47Z",
-    "url": "https://github.com/runcycles/cycles-server-admin"
-  },
-  {
-    "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
-    "id": "aimd54/palan",
-    "language": "Go",
-    "name": "aimd54/palan",
-    "stars": 0,
-    "updated_at": "2026-08-02T14:50:54Z",
-    "url": "https://github.com/aimd54/palan"
   }
 ]
