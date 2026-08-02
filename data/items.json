@@ -1,5 +1,41 @@
 [
   {
+    "description": "Terminal-first, self-hosted AI and MCP gateway for Codex, Cursor, and Cline. 8 governed tools, one Docker command, no AP",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-02T06:45:16Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-08-02T06:36:09Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-08-02T06:33:13Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T06:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Multi-tenant AI runtime control plane for risk scoring, policy enforcement, and evidence-preserving agent operations.",
     "id": "shivanshgupta365/RiskDelta-AI",
     "language": "TypeScript",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "neuralrhythms/Enterprise-AI-Solutions",
     "stars": 0,
-    "updated_at": "2026-08-02T06:26:45Z",
+    "updated_at": "2026-08-02T06:44:11Z",
     "url": "https://github.com/neuralrhythms/Enterprise-AI-Solutions"
   },
   {
@@ -22,7 +58,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55310,
+    "stars": 55312,
     "updated_at": "2026-08-02T06:23:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -45,21 +81,12 @@
     "url": "https://github.com/runcycles/cycles-dashboard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T06:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 47,
-    "updated_at": "2026-08-02T06:15:02Z",
+    "updated_at": "2026-08-02T06:41:17Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 12,
     "updated_at": "2026-08-02T06:10:05Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Terminal-first, self-hosted AI gateway with 8 MCP tools for Codex, Cursor, and Cline. One Docker command, no API key.",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 2,
-    "updated_at": "2026-08-02T06:08:21Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
@@ -180,15 +198,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:13:58Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 100+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
     "id": "cuihuan/awesome-ai-gateway",
     "language": "HTML",
@@ -230,7 +239,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6965,
-    "updated_at": "2026-08-02T06:08:26Z",
+    "updated_at": "2026-08-02T06:42:09Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "Vishalvk2219/Ringdown",
     "stars": 0,
-    "updated_at": "2026-08-02T03:28:20Z",
+    "updated_at": "2026-08-02T06:39:16Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-02T01:18:02Z",
     "url": "https://github.com/acornops/acornops"
-  },
-  {
-    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
-    "id": "acornops/execution-engine",
-    "language": "Python",
-    "name": "acornops/execution-engine",
-    "stars": 2,
-    "updated_at": "2026-08-02T01:17:50Z",
-    "url": "https://github.com/acornops/execution-engine"
   }
 ]
