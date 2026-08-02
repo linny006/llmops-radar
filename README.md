@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 18:40 UTC
+> ⏰ Last updated: 2026-08-02 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [runcycles/cycles-mcp-server](https://github.com/runcycles/cycles-mcp-server) | 0 | TypeScript | 2026-08-02 | MCP budget and risk authority for Cycles — runtime governance for Claude, Cursor, and Windsurf |
-| 2 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-08-02 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
-| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 27 | Go | 2026-08-02 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 4 | [runcycles/cycles-server-admin](https://github.com/runcycles/cycles-server-admin) | 1 | Java | 2026-08-02 | Admin API for Cycles — tenants, budgets, API keys, webhooks, audit, and governance |
-| 5 | [runcycles/cycles-runaway-demo](https://github.com/runcycles/cycles-runaway-demo) | 3 | Python | 2026-08-02 | Runaway AI agent spend prevention — demo using Cycles ($6 in 30s → hard stop at $1) |
-| 6 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-08-02 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
-| 7 | [runcycles/cycles-client-python](https://github.com/runcycles/cycles-client-python) | 0 | Python | 2026-08-02 | Python SDK for Cycles — reserve, commit, release budget and risk for AI agents |
-| 8 | [acblabs/agent-assure](https://github.com/acblabs/agent-assure) | 0 | Python | 2026-08-02 | Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI  |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [runcycles/cycles-mcp-server](https://github.com/runcycles/cycles-mcp-server) | 0 | TypeScript | 2026-08-02 | MCP budget and risk authority for Cycles — runtime governance for Claude, Cursor, and Windsurf |
+| 3 | [runcycles/cycles-dashboard](https://github.com/runcycles/cycles-dashboard) | 0 | TypeScript | 2026-08-02 | AI agent governance dashboard for Cycles — budgets, action authority, tenants, webhooks, reservations, audit |
+| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 27 | Go | 2026-08-02 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 5 | [runcycles/cycles-server-admin](https://github.com/runcycles/cycles-server-admin) | 1 | Java | 2026-08-02 | Admin API for Cycles — tenants, budgets, API keys, webhooks, audit, and governance |
+| 6 | [runcycles/cycles-runaway-demo](https://github.com/runcycles/cycles-runaway-demo) | 3 | Python | 2026-08-02 | Runaway AI agent spend prevention — demo using Cycles ($6 in 30s → hard stop at $1) |
+| 7 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-08-02 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
+| 8 | [runcycles/cycles-client-python](https://github.com/runcycles/cycles-client-python) | 0 | Python | 2026-08-02 | Python SDK for Cycles — reserve, commit, release budget and risk for AI agents |
+| 9 | [acblabs/agent-assure](https://github.com/acblabs/agent-assure) | 0 | Python | 2026-08-02 | Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI  |
 | 10 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21060 | Python | 2026-08-02 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 11 | [paulosalem/weavemark](https://github.com/paulosalem/weavemark) | 2 | Python | 2026-08-02 | An experimental Markdown-native specification language for readable, reusable, composable prompts |
 | 12 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 47 | Rust | 2026-08-02 | Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or |
