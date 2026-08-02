@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
+    "id": "Drlinglong/Remis",
+    "language": "Python",
+    "name": "Drlinglong/Remis",
+    "stars": 25,
+    "updated_at": "2026-08-02T08:56:12Z",
+    "url": "https://github.com/Drlinglong/Remis"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-02T08:54:11Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "mfow/llm-temporal-worker",
+    "language": "Go",
+    "name": "mfow/llm-temporal-worker",
+    "stars": 0,
+    "updated_at": "2026-08-02T08:55:12Z",
+    "url": "https://github.com/mfow/llm-temporal-worker"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3452,
+    "updated_at": "2026-08-02T08:53:13Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T08:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Production plumbing for LLM apps: context, cost, testing & governance \u2014 composable, framework-agnostic Python libraries.",
     "id": "cendorhq/cendor-libs",
     "language": "Python",
@@ -34,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T08:31:02Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T08:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
@@ -171,24 +207,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-08-02T08:32:17Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
-    "id": "Drlinglong/Remis",
-    "language": "Python",
-    "name": "Drlinglong/Remis",
-    "stars": 25,
-    "updated_at": "2026-08-02T08:37:16Z",
-    "url": "https://github.com/Drlinglong/Remis"
-  },
-  {
     "description": " Turn any PC \u2014 Windows or Linux \u2014 into a secure, agent-controllable workstation. One authenticated REST + MCP gateway ex",
     "id": "cogniziocompany/agentic-remote-pc",
     "language": "JavaScript",
@@ -243,15 +261,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3452,
-    "updated_at": "2026-08-02T08:43:09Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
     "id": "scttfrdmn/hf-bedrock-map",
     "language": "Go",
@@ -283,8 +292,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55319,
-    "updated_at": "2026-08-02T06:50:02Z",
+    "stars": 55320,
+    "updated_at": "2026-08-02T08:55:41Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Rust",
     "name": "taichuy/1flowbase",
     "stars": 206,
-    "updated_at": "2026-08-02T08:42:44Z",
+    "updated_at": "2026-08-02T08:53:40Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 53,
     "updated_at": "2026-08-02T08:20:18Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 44,
-    "updated_at": "2026-08-02T04:03:28Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
   }
 ]
