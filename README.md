@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 05:00 UTC
+> ⏰ Last updated: 2026-08-02 05:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | 109 | Rust | 2026-08-02 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
-| 2 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-08-02 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 3 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 12 | TypeScript | 2026-08-02 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
-| 4 | [shivanshgupta365/RiskDelta-AI](https://github.com/shivanshgupta365/RiskDelta-AI) | 5 | TypeScript | 2026-08-02 | Multi-tenant AI runtime control plane for risk scoring, policy enforcement, and evidence-preserving agent operations. |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [build-with-dhiraj/ai-workflow-framework-portability-kit](https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit) | 4 | Python | 2026-08-02 | Portable, self-contained snapshot of a complete Claude Code setup — 36 specialist agents, 150 skills, plugins, MCP serve |
-| 7 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6965 | Go | 2026-08-02 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 8 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 0 | Go | 2026-08-02 | Temporal workers and clients for wrapping access to different LLMs |
-| 9 | [cubxxw/blog](https://github.com/cubxxw/blog) | 26 | CSS | 2026-08-02 | 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some |
-| 10 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8133 | Rust | 2026-08-02 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 11 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-02 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 12 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 47 | Rust | 2026-08-02 | Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or |
-| 13 | [avikalpg/byok-relay](https://github.com/avikalpg/byok-relay) | 53 | JavaScript | 2026-08-02 | Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h |
-| 14 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 43 | — | 2026-08-02 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
-| 15 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-02 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 16 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 2 | JavaScript | 2026-08-02 | Terminal-first, self-hosted AI gateway with 8 MCP tools for Codex, Cursor, and Cline. One Docker command, no API key. |
-| 17 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-08-02 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 18 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-02 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
-| 19 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55304 | Python | 2026-08-02 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 1 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 12 | TypeScript | 2026-08-02 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55305 | Python | 2026-08-02 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 2 | JavaScript | 2026-08-02 | Terminal-first, self-hosted AI gateway with 8 MCP tools for Codex, Cursor, and Cline. One Docker command, no API key. |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | 109 | Rust | 2026-08-02 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
+| 6 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-08-02 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
+| 7 | [shivanshgupta365/RiskDelta-AI](https://github.com/shivanshgupta365/RiskDelta-AI) | 5 | TypeScript | 2026-08-02 | Multi-tenant AI runtime control plane for risk scoring, policy enforcement, and evidence-preserving agent operations. |
+| 8 | [build-with-dhiraj/ai-workflow-framework-portability-kit](https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit) | 4 | Python | 2026-08-02 | Portable, self-contained snapshot of a complete Claude Code setup — 36 specialist agents, 150 skills, plugins, MCP serve |
+| 9 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6965 | Go | 2026-08-02 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 10 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 0 | Go | 2026-08-02 | Temporal workers and clients for wrapping access to different LLMs |
+| 11 | [cubxxw/blog](https://github.com/cubxxw/blog) | 26 | CSS | 2026-08-02 | 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some |
+| 12 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8133 | Rust | 2026-08-02 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 13 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-02 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 14 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 47 | Rust | 2026-08-02 | Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or |
+| 15 | [avikalpg/byok-relay](https://github.com/avikalpg/byok-relay) | 53 | JavaScript | 2026-08-02 | Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h |
+| 16 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 43 | — | 2026-08-02 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
+| 17 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-02 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 18 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-08-02 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 19 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-02 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
 | 20 | [neurarch-ai/awesome-llm-system-design](https://github.com/neurarch-ai/awesome-llm-system-design) | 1 | Python | 2026-08-02 | LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat |
 | 21 | [bytebeast/check-endpoint](https://github.com/bytebeast/check-endpoint) | 6 | Python | 2026-08-02 | Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each |
 | 22 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 21 | TypeScript | 2026-08-02 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
