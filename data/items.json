@@ -1,5 +1,41 @@
 [
   {
+    "description": "GitHub org config, CI workflows, and community health files for Cycles",
+    "id": "runcycles/.github",
+    "language": "Shell",
+    "name": "runcycles/.github",
+    "stars": 0,
+    "updated_at": "2026-08-02T01:14:02Z",
+    "url": "https://github.com/runcycles/.github"
+  },
+  {
+    "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 4,
+    "updated_at": "2026-08-02T01:14:43Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-08-02T01:01:36Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T01:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Terminal-first, self-hosted AI gateway and 8-tool MCP server for Codex, Cursor, and Cline. One-command Docker demo; no A",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T00:56:53Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T00:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55290,
-    "updated_at": "2026-08-02T00:57:46Z",
+    "updated_at": "2026-08-02T01:14:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -148,7 +175,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21036,
+    "stars": 21035,
     "updated_at": "2026-08-02T00:01:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -214,6 +241,15 @@
     "stars": 8,
     "updated_at": "2026-08-01T23:36:30Z",
     "url": "https://github.com/HikaruEgashira/otel-hooks"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5727,
+    "updated_at": "2026-08-01T23:22:37Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Multi-tenant AI runtime control plane for risk scoring, policy enforcement, and evidence-preserving agent operations.",
@@ -324,15 +360,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-08-02T00:53:16Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
     "id": "api-evangelist/zenml",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 192,
     "updated_at": "2026-08-01T19:14:42Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "AI Infrastructure OS execution plane: OpenAI-compatible gateway, MCP tool governance, intent proxy, vLLM/KServe/KEDA, OI",
-    "id": "justrunme/ai-runtime-platform",
-    "language": "Python",
-    "name": "justrunme/ai-runtime-platform",
-    "stars": 1,
-    "updated_at": "2026-08-01T19:10:30Z",
-    "url": "https://github.com/justrunme/ai-runtime-platform"
-  },
-  {
-    "description": "AI Infrastructure OS control plane for governed private AI: policy, identity, audit, intent, MCP, FinOps, SLOs, Redis, P",
-    "id": "justrunme/ai-infra-control-plane",
-    "language": "Python",
-    "name": "justrunme/ai-infra-control-plane",
-    "stars": 1,
-    "updated_at": "2026-08-01T19:10:25Z",
-    "url": "https://github.com/justrunme/ai-infra-control-plane"
-  },
-  {
-    "description": "Detect context bloat, cache misses, and model over-spend in production LLM systems. Langfuse/ClickHouse observability wi",
-    "id": "chowdarymcs/llm-cost-observatory",
-    "language": "Python",
-    "name": "chowdarymcs/llm-cost-observatory",
-    "stars": 0,
-    "updated_at": "2026-08-01T19:07:18Z",
-    "url": "https://github.com/chowdarymcs/llm-cost-observatory"
   }
 ]
