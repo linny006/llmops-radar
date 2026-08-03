@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2666,
+    "updated_at": "2026-08-03T04:28:51Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-03T04:28:34Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2496,
+    "updated_at": "2026-08-03T04:28:09Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 109,
+    "updated_at": "2026-08-03T04:24:31Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents",
+    "id": "naturaljam/SpanVouch",
+    "language": "Python",
+    "name": "naturaljam/SpanVouch",
+    "stars": 1,
+    "updated_at": "2026-08-03T04:22:15Z",
+    "url": "https://github.com/naturaljam/SpanVouch"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-03T04:21:18Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-03T04:19:26Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
+    "language": "Python",
+    "name": "boundflow/boundflow",
+    "stars": 6,
+    "updated_at": "2026-08-03T04:15:59Z",
+    "url": "https://github.com/boundflow/boundflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T04:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI systems observability platform for tracing, evaluating, and debugging LLM applications, agents, and RAG pipelines.",
     "id": "Roshan3580/Helios",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-08-03T04:06:49Z",
+    "updated_at": "2026-08-03T04:28:51Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
@@ -45,15 +126,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T04:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "",
     "id": "coffeehc/xagent-docs",
     "language": "TypeScript",
@@ -68,7 +140,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5728,
-    "updated_at": "2026-08-03T03:58:11Z",
+    "updated_at": "2026-08-03T04:18:52Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -103,7 +175,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55386,
+    "stars": 55388,
     "updated_at": "2026-08-03T03:42:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-08-03T03:34:41Z",
+    "updated_at": "2026-08-03T04:24:46Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T03:29:55Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-03T03:26:01Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -203,7 +266,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6985,
-    "updated_at": "2026-08-03T04:13:06Z",
+    "updated_at": "2026-08-03T04:16:49Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -221,7 +284,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-03T04:12:24Z",
+    "updated_at": "2026-08-03T04:21:28Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -230,7 +293,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1293,
-    "updated_at": "2026-08-03T03:57:19Z",
+    "updated_at": "2026-08-03T04:27:31Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -259,24 +322,6 @@
     "stars": 207,
     "updated_at": "2026-08-03T03:29:44Z",
     "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-03T02:42:49Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 109,
-    "updated_at": "2026-08-03T02:42:18Z",
-    "url": "https://github.com/GetBusbar/busbar"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -310,7 +355,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29505,
+    "stars": 29506,
     "updated_at": "2026-08-03T02:10:43Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -349,6 +394,15 @@
     "stars": 44,
     "updated_at": "2026-08-03T02:04:57Z",
     "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10862,
+    "updated_at": "2026-08-03T01:54:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-03T01:53:56Z",
     "url": "https://github.com/acornops/agentk"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-03T01:53:53Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
-    "id": "Bobcatsfan33/Pharos",
-    "language": "TypeScript",
-    "name": "Bobcatsfan33/Pharos",
-    "stars": 2,
-    "updated_at": "2026-08-03T01:38:30Z",
-    "url": "https://github.com/Bobcatsfan33/Pharos"
-  },
-  {
-    "description": "Responsible red-teaming of agentic LLMs \u2014 case studies on how coding/agent models can be manipulated into generating har",
-    "id": "darkdarkcocoa/llm-agent-redteaming",
-    "language": "\u2014",
-    "name": "darkdarkcocoa/llm-agent-redteaming",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:31:55Z",
-    "url": "https://github.com/darkdarkcocoa/llm-agent-redteaming"
-  },
-  {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:29:06Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
-    "id": "vul-os/llmux",
-    "language": "Go",
-    "name": "vul-os/llmux",
-    "stars": 2,
-    "updated_at": "2026-08-03T01:10:25Z",
-    "url": "https://github.com/vul-os/llmux"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-03T01:33:08Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   }
 ]
