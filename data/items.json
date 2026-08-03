@@ -1,11 +1,56 @@
 [
   {
+    "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
+    "id": "obervinov/readme-spotlight",
+    "language": "Go",
+    "name": "obervinov/readme-spotlight",
+    "stars": 0,
+    "updated_at": "2026-08-03T14:00:14Z",
+    "url": "https://github.com/obervinov/readme-spotlight"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29508,
+    "updated_at": "2026-08-03T14:00:08Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-03T13:54:06Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21085,
+    "updated_at": "2026-08-03T13:58:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T13:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "One interface across Anthropic, OpenAI and Google Gemini \u2014 with automatic failover, circuit breaking and per-request cos",
     "id": "uaesivakumar/llm-gateway",
     "language": "Python",
     "name": "uaesivakumar/llm-gateway",
     "stars": 0,
-    "updated_at": "2026-08-03T13:42:14Z",
+    "updated_at": "2026-08-03T13:45:38Z",
     "url": "https://github.com/uaesivakumar/llm-gateway"
   },
   {
@@ -14,7 +59,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-03T13:41:56Z",
+    "updated_at": "2026-08-03T14:00:16Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-03T13:44:30Z",
+    "updated_at": "2026-08-03T13:53:24Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -49,7 +94,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7003,
+    "stars": 7004,
     "updated_at": "2026-08-03T13:40:24Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10866,
-    "updated_at": "2026-08-03T13:45:07Z",
+    "updated_at": "2026-08-03T14:00:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -90,31 +135,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-03T13:34:54Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3462,
-    "updated_at": "2026-08-03T13:41:36Z",
+    "updated_at": "2026-08-03T13:55:00Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T13:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-pas",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1577,
-    "updated_at": "2026-08-03T13:45:20Z",
+    "updated_at": "2026-08-03T13:52:12Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -230,8 +257,17 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-08-03T13:05:57Z",
+    "updated_at": "2026-08-03T13:52:21Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+    "id": "traceloop/openllmetry",
+    "language": "Python",
+    "name": "traceloop/openllmetry",
+    "stars": 7353,
+    "updated_at": "2026-08-03T13:02:26Z",
+    "url": "https://github.com/traceloop/openllmetry"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "brunovicco/verifiable-ai-governance",
     "stars": 0,
-    "updated_at": "2026-08-03T12:57:31Z",
+    "updated_at": "2026-08-03T13:49:50Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
@@ -248,17 +284,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-03T12:53:36Z",
+    "updated_at": "2026-08-03T13:59:18Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21085,
-    "updated_at": "2026-08-03T13:22:32Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -268,15 +295,6 @@
     "stars": 16,
     "updated_at": "2026-08-03T12:59:56Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29508,
-    "updated_at": "2026-08-03T13:37:48Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T11:47:44Z",
     "url": "https://github.com/sujithnsn953/pharma-ops-agent"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5662,
-    "updated_at": "2026-08-03T11:41:30Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
-    "id": "NicoGrassetto/Cosmopilot",
-    "language": "Python",
-    "name": "NicoGrassetto/Cosmopilot",
-    "stars": 1,
-    "updated_at": "2026-08-03T11:39:16Z",
-    "url": "https://github.com/NicoGrassetto/Cosmopilot"
   }
 ]
