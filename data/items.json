@@ -1,10 +1,28 @@
 [
   {
+    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2346,
+    "updated_at": "2026-08-03T09:48:03Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T09:45:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 798,
+    "stars": 799,
     "updated_at": "2026-08-03T09:44:20Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -16,6 +34,15 @@
     "stars": 74,
     "updated_at": "2026-08-03T09:43:24Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21081,
+    "updated_at": "2026-08-03T09:50:41Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -72,15 +99,6 @@
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T09:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3462,
-    "updated_at": "2026-08-03T09:28:04Z",
+    "updated_at": "2026-08-03T09:48:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "malkreide/zh-education-mcp",
     "stars": 0,
-    "updated_at": "2026-08-03T09:09:05Z",
+    "updated_at": "2026-08-03T09:49:56Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
@@ -221,17 +239,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1294,
-    "updated_at": "2026-08-03T09:44:33Z",
+    "updated_at": "2026-08-03T09:49:38Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21080,
-    "updated_at": "2026-08-03T09:41:41Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5728,
-    "updated_at": "2026-08-03T09:36:45Z",
+    "updated_at": "2026-08-03T09:47:01Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-03T07:19:14Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
-    "id": "kimtth/azure-openai-llm-wiki",
-    "language": "Python",
-    "name": "kimtth/azure-openai-llm-wiki",
-    "stars": 405,
-    "updated_at": "2026-08-03T06:58:15Z",
-    "url": "https://github.com/kimtth/azure-openai-llm-wiki"
   }
 ]
