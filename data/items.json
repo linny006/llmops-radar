@@ -1,12 +1,57 @@
 [
   {
+    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
+    "id": "haomingkoo/haomingkoo.github.io",
+    "language": "HTML",
+    "name": "haomingkoo/haomingkoo.github.io",
+    "stars": 0,
+    "updated_at": "2026-08-03T03:15:19Z",
+    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
+  },
+  {
+    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
+    "id": "yptang98/CostMarshal",
+    "language": "Python",
+    "name": "yptang98/CostMarshal",
+    "stars": 4,
+    "updated_at": "2026-08-03T03:06:36Z",
+    "url": "https://github.com/yptang98/CostMarshal"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-03T03:07:30Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1293,
+    "updated_at": "2026-08-03T03:14:48Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2543,
-    "updated_at": "2026-08-03T02:57:25Z",
+    "updated_at": "2026-08-03T03:09:11Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T03:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
@@ -25,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-08-03T02:46:57Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T02:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v",
@@ -61,24 +97,6 @@
     "stars": 109,
     "updated_at": "2026-08-03T02:42:18Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:37:42Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-03T02:47:19Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5728,
-    "updated_at": "2026-08-03T02:56:45Z",
+    "updated_at": "2026-08-03T03:12:13Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T02:28:26Z",
     "url": "https://github.com/dberanjr/AIObservability3.0"
-  },
-  {
-    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
-    "id": "yptang98/CostMarshal",
-    "language": "Python",
-    "name": "yptang98/CostMarshal",
-    "stars": 3,
-    "updated_at": "2026-08-03T02:25:50Z",
-    "url": "https://github.com/yptang98/CostMarshal"
   },
   {
     "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T00:12:57Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Autonomous multi-agent issue-to-PR system for AI software engineering workflows",
-    "id": "ramshetty01/multiagent-software-team",
-    "language": "Python",
-    "name": "ramshetty01/multiagent-software-team",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:58:01Z",
-    "url": "https://github.com/ramshetty01/multiagent-software-team"
   }
 ]
