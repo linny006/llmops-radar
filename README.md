@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 22:00 UTC
+> ⏰ Last updated: 2026-08-03 22:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55451 | Python | 2026-08-03 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 2 | [golikovichev/pytest-resilience-agent](https://github.com/golikovichev/pytest-resilience-agent) | 0 | Python | 2026-08-03 | pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail |
-| 3 | [Yesol-Pilot/neosignal-check](https://github.com/Yesol-Pilot/neosignal-check) | 0 | Python | 2026-08-03 | Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date  |
-| 4 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3463 | TypeScript | 2026-08-03 | The platform for LLM evaluations and AI agent testing |
-| 5 | [anmolsharma152/Disha](https://github.com/anmolsharma152/Disha) | 0 | Python | 2026-08-03 | Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m |
-| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10879 | Python | 2026-08-03 | AI Observability & Evaluation |
-| 7 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 48 | Rust | 2026-08-03 | Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or |
-| 8 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-08-03 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 10 | [brunovicco/verifiable-ai-governance](https://github.com/brunovicco/verifiable-ai-governance) | 0 | Python | 2026-08-03 | Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv |
-| 11 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 28 | Go | 2026-08-03 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 12 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-08-03 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 13 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-03 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
-| 14 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3141 | TypeScript | 2026-08-03 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
-| 15 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-08-03 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 16 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27350 | Python | 2026-08-03 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 17 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 2 | Go | 2026-08-03 | Generative AI proxy, with cost ledger and crash safety baked in. |
-| 18 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-03 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 19 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7015 | Go | 2026-08-03 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 20 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23883 | TypeScript | 2026-08-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 21 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8154 | Rust | 2026-08-03 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 22 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 6 | Rust | 2026-08-03 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 23 | [obervinov/readme-spotlight](https://github.com/obervinov/readme-spotlight) | 0 | Go | 2026-08-03 | Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it |
-| 24 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29515 | TypeScript | 2026-08-03 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 25 | [changliu2/assert-ai-action](https://github.com/changliu2/assert-ai-action) | 0 | Python | 2026-08-03 | Run ASSERT evals in CI and gate pull requests on paired safety regressions. |
-| 26 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 68 | Python | 2026-08-03 | Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for |
-| 27 | [pich/ai-economics-mcp](https://github.com/pich/ai-economics-mcp) | 0 | JavaScript | 2026-08-03 | MCP server for AI economics — 12 calculators for token cost, LLM energy, agent-hour, Proof-Adjusted Autonomy, revocation |
-| 28 | [pich/ai-economics-tools](https://github.com/pich/ai-economics-tools) | 0 | HTML | 2026-08-03 | 12 free calculators for AI economics: token cost, context windows, agent-hour, LLM energy, Proof-Adjusted Autonomy, Revo |
-| 29 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 385 | Python | 2026-08-03 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
-| 30 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-03 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 31 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-08-03 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 32 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 16 | Python | 2026-08-03 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
-| 33 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-03 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 34 | [QuesmaOrg/awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) | 116 | Python | 2026-08-03 | A curated list of tools, benchmarks, papers, and copy-paste configs for AI token costs: what tokens cost, where they get |
-| 35 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-08-03 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 36 | [Hilalalpak/CairnOps](https://github.com/Hilalalpak/CairnOps) | 0 | Python | 2026-08-03 | CairnOps — AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea |
-| 37 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 545 | Python | 2026-08-03 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
-| 38 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-08-03 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 39 | [OpenMachine-ai/transformer-tricks](https://github.com/OpenMachine-ai/transformer-tricks) | 220 | TeX | 2026-08-03 | A collection of tricks and tools to speed up transformer models |
-| 40 | [mdzaheerjk/AI-Travel-Planner](https://github.com/mdzaheerjk/AI-Travel-Planner) | 9 | Python | 2026-08-03 | AI Travel Planner is a lightweight Streamlit app that generates personalized one-day travel itineraries using a Groq LLM |
-| 41 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 362 | Python | 2026-08-03 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 42 | [suryaanandan1995-dotcom/ai-freelance-copilot](https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot) | 1 | Python | 2026-08-03 | Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) — hum |
-| 43 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21086 | Python | 2026-08-03 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 44 | [jelonman/agent-failure-triage](https://github.com/jelonman/agent-failure-triage) | 0 | Python | 2026-08-03 | Why your AI agent works when you watch it and fails when you don't. 29 checks, a score, and a ranked fix list. Python st |
-| 45 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 2 | Rust | 2026-08-03 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
-| 46 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-08-03 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
-| 47 | [NicoGrassetto/Cosmopilot](https://github.com/NicoGrassetto/Cosmopilot) | 1 | Python | 2026-08-03 | A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer. |
-| 48 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-03 | ThakiCloud Tech Blog |
-| 49 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-08-03 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
-| 50 | [darian16/rag-demo](https://github.com/darian16/rag-demo) | 0 | JavaScript | 2026-08-03 | Demo for the project Earground. RAG-powered AIS/AES analysis tool. |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10879 | Python | 2026-08-03 | AI Observability & Evaluation |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55451 | Python | 2026-08-03 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-03 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 4 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-08-03 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 5 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-03 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 6 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 44 | — | 2026-08-03 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
+| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 8 | [golikovichev/pytest-resilience-agent](https://github.com/golikovichev/pytest-resilience-agent) | 0 | Python | 2026-08-03 | pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail |
+| 9 | [Yesol-Pilot/neosignal-check](https://github.com/Yesol-Pilot/neosignal-check) | 0 | Python | 2026-08-03 | Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date  |
+| 10 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3463 | TypeScript | 2026-08-03 | The platform for LLM evaluations and AI agent testing |
+| 11 | [anmolsharma152/Disha](https://github.com/anmolsharma152/Disha) | 0 | Python | 2026-08-03 | Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m |
+| 12 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 48 | Rust | 2026-08-03 | Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or |
+| 13 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-08-03 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
+| 14 | [brunovicco/verifiable-ai-governance](https://github.com/brunovicco/verifiable-ai-governance) | 0 | Python | 2026-08-03 | Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv |
+| 15 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 28 | Go | 2026-08-03 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 16 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-08-03 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
+| 17 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-03 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
+| 18 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3141 | TypeScript | 2026-08-03 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
+| 19 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-08-03 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 20 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27352 | Python | 2026-08-03 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 21 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 2 | Go | 2026-08-03 | Generative AI proxy, with cost ledger and crash safety baked in. |
+| 22 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7014 | Go | 2026-08-03 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 23 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23883 | TypeScript | 2026-08-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 24 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8154 | Rust | 2026-08-03 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 25 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 6 | Rust | 2026-08-03 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 26 | [obervinov/readme-spotlight](https://github.com/obervinov/readme-spotlight) | 0 | Go | 2026-08-03 | Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it |
+| 27 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29515 | TypeScript | 2026-08-03 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 28 | [changliu2/assert-ai-action](https://github.com/changliu2/assert-ai-action) | 0 | Python | 2026-08-03 | Run ASSERT evals in CI and gate pull requests on paired safety regressions. |
+| 29 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 68 | Python | 2026-08-03 | Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for |
+| 30 | [pich/ai-economics-mcp](https://github.com/pich/ai-economics-mcp) | 0 | JavaScript | 2026-08-03 | MCP server for AI economics — 12 calculators for token cost, LLM energy, agent-hour, Proof-Adjusted Autonomy, revocation |
+| 31 | [pich/ai-economics-tools](https://github.com/pich/ai-economics-tools) | 0 | HTML | 2026-08-03 | 12 free calculators for AI economics: token cost, context windows, agent-hour, LLM energy, Proof-Adjusted Autonomy, Revo |
+| 32 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 385 | Python | 2026-08-03 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
+| 33 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 16 | Python | 2026-08-03 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
+| 34 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-03 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 35 | [QuesmaOrg/awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) | 116 | Python | 2026-08-03 | A curated list of tools, benchmarks, papers, and copy-paste configs for AI token costs: what tokens cost, where they get |
+| 36 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-08-03 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 37 | [Hilalalpak/CairnOps](https://github.com/Hilalalpak/CairnOps) | 0 | Python | 2026-08-03 | CairnOps — AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea |
+| 38 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 545 | Python | 2026-08-03 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
+| 39 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-08-03 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 40 | [OpenMachine-ai/transformer-tricks](https://github.com/OpenMachine-ai/transformer-tricks) | 220 | TeX | 2026-08-03 | A collection of tricks and tools to speed up transformer models |
+| 41 | [mdzaheerjk/AI-Travel-Planner](https://github.com/mdzaheerjk/AI-Travel-Planner) | 9 | Python | 2026-08-03 | AI Travel Planner is a lightweight Streamlit app that generates personalized one-day travel itineraries using a Groq LLM |
+| 42 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 362 | Python | 2026-08-03 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 43 | [suryaanandan1995-dotcom/ai-freelance-copilot](https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot) | 1 | Python | 2026-08-03 | Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) — hum |
+| 44 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21086 | Python | 2026-08-03 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 45 | [jelonman/agent-failure-triage](https://github.com/jelonman/agent-failure-triage) | 0 | Python | 2026-08-03 | Why your AI agent works when you watch it and fails when you don't. 29 checks, a score, and a ranked fix list. Python st |
+| 46 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 2 | Rust | 2026-08-03 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
+| 47 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-08-03 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
+| 48 | [NicoGrassetto/Cosmopilot](https://github.com/NicoGrassetto/Cosmopilot) | 1 | Python | 2026-08-03 | A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer. |
+| 49 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-03 | ThakiCloud Tech Blog |
+| 50 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-08-03 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
 <!-- TRACKER_TABLE_END -->
 
 ---
