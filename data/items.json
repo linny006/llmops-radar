@@ -1,12 +1,30 @@
 [
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
+    "description": "A collection of tricks and tools to speed up transformer models",
+    "id": "OpenMachine-ai/transformer-tricks",
+    "language": "TeX",
+    "name": "OpenMachine-ai/transformer-tricks",
+    "stars": 220,
+    "updated_at": "2026-08-03T19:11:20Z",
+    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
+  },
+  {
+    "description": "AI Travel Planner is a lightweight Streamlit app that generates personalized one-day travel itineraries using a Groq LLM",
+    "id": "mdzaheerjk/AI-Travel-Planner",
     "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 385,
-    "updated_at": "2026-08-03T19:00:27Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "name": "mdzaheerjk/AI-Travel-Planner",
+    "stars": 9,
+    "updated_at": "2026-08-03T19:11:19Z",
+    "url": "https://github.com/mdzaheerjk/AI-Travel-Planner"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 362,
+    "updated_at": "2026-08-03T19:11:05Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +32,44 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-03T19:00:26Z",
+    "updated_at": "2026-08-03T19:06:30Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
+    "id": "suryaanandan1995-dotcom/ai-freelance-copilot",
+    "language": "Python",
+    "name": "suryaanandan1995-dotcom/ai-freelance-copilot",
+    "stars": 1,
+    "updated_at": "2026-08-03T19:06:27Z",
+    "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-03T19:12:33Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21086,
+    "updated_at": "2026-08-03T19:15:04Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 385,
+    "updated_at": "2026-08-03T19:00:27Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -27,21 +81,12 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "",
-    "id": "mdzaheerjk/AI-Travel-Planner",
-    "language": "Python",
-    "name": "mdzaheerjk/AI-Travel-Planner",
-    "stars": 9,
-    "updated_at": "2026-08-03T18:52:50Z",
-    "url": "https://github.com/mdzaheerjk/AI-Travel-Planner"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3463,
-    "updated_at": "2026-08-03T19:05:13Z",
+    "updated_at": "2026-08-03T19:10:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -113,17 +158,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7012,
-    "updated_at": "2026-08-03T19:03:21Z",
+    "updated_at": "2026-08-03T19:13:52Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-03T19:05:39Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
@@ -140,17 +176,8 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-03T18:36:25Z",
+    "updated_at": "2026-08-03T19:06:52Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
-    "id": "suryaanandan1995-dotcom/ai-freelance-copilot",
-    "language": "Python",
-    "name": "suryaanandan1995-dotcom/ai-freelance-copilot",
-    "stars": 1,
-    "updated_at": "2026-08-03T19:06:26Z",
-    "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10875,
-    "updated_at": "2026-08-03T19:00:28Z",
+    "updated_at": "2026-08-03T19:07:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 27347,
     "updated_at": "2026-08-03T16:37:22Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 27,
-    "updated_at": "2026-08-03T16:27:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 16,
-    "updated_at": "2026-08-03T16:27:28Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-08-03T16:22:03Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
