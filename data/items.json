@@ -1,5 +1,59 @@
 [
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 385,
+    "updated_at": "2026-08-03T18:12:03Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-03T18:05:57Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55441,
+    "updated_at": "2026-08-03T18:05:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-03T18:04:03Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Build, Manage and Deploy AI/ML Systems",
+    "id": "Netflix/metaflow",
+    "language": "Python",
+    "name": "Netflix/metaflow",
+    "stars": 10205,
+    "updated_at": "2026-08-03T18:02:13Z",
+    "url": "https://github.com/Netflix/metaflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T18:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
     "id": "JumpMasters/tollgate",
     "language": "Python",
@@ -18,15 +72,6 @@
     "url": "https://github.com/mdzaheerjk/AI-Travel-Planner"
   },
   {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:56:20Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
     "description": "MCP server for LLM and agent run telemetry: cost, tokens, latency, and reliability observability",
     "id": "Aptica-Solutions/a-mcp-runmeter",
     "language": "Python",
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T17:54:09Z",
     "url": "https://github.com/Aptica-Solutions/a-mcp-runmeter"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T17:45:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
@@ -77,17 +113,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7009,
-    "updated_at": "2026-08-03T17:55:11Z",
+    "updated_at": "2026-08-03T18:13:18Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55439,
-    "updated_at": "2026-08-03T17:59:03Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10875,
-    "updated_at": "2026-08-03T17:34:05Z",
+    "updated_at": "2026-08-03T18:13:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -104,8 +131,17 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-03T17:47:45Z",
+    "updated_at": "2026-08-03T18:14:55Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32435,
+    "updated_at": "2026-08-03T17:27:36Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-08-03T17:59:12Z",
+    "updated_at": "2026-08-03T18:12:41Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 26,
     "updated_at": "2026-08-03T17:00:06Z",
     "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32435,
-    "updated_at": "2026-08-03T17:27:36Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -288,6 +315,15 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 27,
+    "updated_at": "2026-08-03T16:27:35Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 545,
-    "updated_at": "2026-08-03T17:36:49Z",
+    "updated_at": "2026-08-03T18:02:27Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -376,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T16:14:17Z",
     "url": "https://github.com/changliu2/assert-ai-action"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 385,
-    "updated_at": "2026-08-03T17:56:45Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T16:04:41Z",
     "url": "https://github.com/raulcmz/k8s-llmops-inference-platform"
-  },
-  {
-    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
-    "id": "dr-gareth-roberts/insideLLMs",
-    "language": "Python",
-    "name": "dr-gareth-roberts/insideLLMs",
-    "stars": 1,
-    "updated_at": "2026-08-03T15:57:46Z",
-    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1130,
-    "updated_at": "2026-08-03T15:55:08Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 2,
-    "updated_at": "2026-08-03T17:20:08Z",
-    "url": "https://github.com/acornops/llm-gateway"
   }
 ]
