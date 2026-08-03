@@ -1,12 +1,111 @@
 [
   {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 11,
+    "updated_at": "2026-08-03T12:41:58Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-03T12:41:57Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-03T12:40:59Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 544,
+    "updated_at": "2026-08-03T12:42:29Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32412,
-    "updated_at": "2026-08-03T12:29:43Z",
+    "updated_at": "2026-08-03T12:42:47Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 24,
+    "updated_at": "2026-08-03T12:38:14Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-08-03T12:37:29Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3462,
+    "updated_at": "2026-08-03T12:40:06Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
+    "id": "paulosalem/weavemark",
+    "language": "Python",
+    "name": "paulosalem/weavemark",
+    "stars": 2,
+    "updated_at": "2026-08-03T12:40:39Z",
+    "url": "https://github.com/paulosalem/weavemark"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21085,
+    "updated_at": "2026-08-03T12:39:28Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T12:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-03T12:28:02Z",
+    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c",
@@ -18,21 +117,12 @@
     "url": "https://github.com/CAOShurong/evalint"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3462,
-    "updated_at": "2026-08-03T12:29:24Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-03T12:22:21Z",
+    "updated_at": "2026-08-03T12:44:07Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -63,24 +153,6 @@
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T12:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-03T12:07:57Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
     "id": "bionic-gpt/bionic-gpt",
     "language": "Rust",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "malkreide/zh-education-mcp",
     "stars": 0,
-    "updated_at": "2026-08-03T12:06:04Z",
+    "updated_at": "2026-08-03T12:37:48Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
@@ -115,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T12:04:58Z",
     "url": "https://github.com/hari9618/atlas-agentic-research"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-03T12:03:55Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -158,17 +221,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1295,
-    "updated_at": "2026-08-03T11:59:25Z",
+    "updated_at": "2026-08-03T12:43:25Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21084,
-    "updated_at": "2026-08-03T11:52:59Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
@@ -187,15 +241,6 @@
     "stars": 2550,
     "updated_at": "2026-08-03T11:49:47Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 544,
-    "updated_at": "2026-08-03T12:30:01Z",
-    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29507,
-    "updated_at": "2026-08-03T12:19:14Z",
+    "updated_at": "2026-08-03T12:40:52Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -238,8 +283,8 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1575,
-    "updated_at": "2026-08-03T11:45:09Z",
+    "stars": 1576,
+    "updated_at": "2026-08-03T12:44:25Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -265,7 +310,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 804,
+    "stars": 806,
     "updated_at": "2026-08-03T11:34:09Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -288,15 +333,6 @@
     "url": "https://github.com/acornops/docs-website"
   },
   {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-03T12:28:02Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
     "id": "acornops/control-plane",
     "language": "TypeScript",
@@ -311,17 +347,8 @@
     "language": "Python",
     "name": "dr-gareth-roberts/insideLLMs",
     "stars": 1,
-    "updated_at": "2026-08-03T11:19:30Z",
+    "updated_at": "2026-08-03T12:43:54Z",
     "url": "https://github.com/dr-gareth-roberts/insideLLMs"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 24,
-    "updated_at": "2026-08-03T12:25:42Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -421,32 +448,5 @@
     "stars": 82,
     "updated_at": "2026-08-03T10:39:16Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2667,
-    "updated_at": "2026-08-03T10:38:23Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27342,
-    "updated_at": "2026-08-03T11:56:12Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
-    "id": "golikovichev/pytest-resilience-agent",
-    "language": "Python",
-    "name": "golikovichev/pytest-resilience-agent",
-    "stars": 0,
-    "updated_at": "2026-08-03T10:23:10Z",
-    "url": "https://github.com/golikovichev/pytest-resilience-agent"
   }
 ]
