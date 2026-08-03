@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 07:45 UTC
+> ⏰ Last updated: 2026-08-03 08:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,12 +43,12 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [acornops/management-console](https://github.com/acornops/management-console) | 2 | TypeScript | 2026-08-03 | Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations |
-| 2 | [routeplane-core/routeplane-ce](https://github.com/routeplane-core/routeplane-ce) | 4 | Rust | 2026-08-03 | Routeplane Community Edition — a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0. |
-| 3 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1571 | Python | 2026-08-03 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
-| 4 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5666 | Go | 2026-08-03 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
-| 5 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-08-03 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 6 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-03 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [routeplane-core/routeplane-ce](https://github.com/routeplane-core/routeplane-ce) | 4 | Rust | 2026-08-03 | Routeplane Community Edition — a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0. |
+| 4 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1571 | Python | 2026-08-03 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
+| 5 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5666 | Go | 2026-08-03 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
+| 6 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 1 | Python | 2026-08-03 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
+| 7 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-03 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 8 | [acornops/docs-website](https://github.com/acornops/docs-website) | 1 | MDX | 2026-08-03 | Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes. |
 | 9 | [acornops/control-plane](https://github.com/acornops/control-plane) | 2 | TypeScript | 2026-08-03 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
 | 10 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32390 | TypeScript | 2026-08-03 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
@@ -59,15 +59,15 @@ expired items removed — so you can rely on what you see being current.
 | 15 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21076 | Python | 2026-08-03 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 16 | [NicoGrassetto/Cosmopilot](https://github.com/NicoGrassetto/Cosmopilot) | 1 | Python | 2026-08-03 | A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer. |
 | 17 | [naturaljam/SpanVouch](https://github.com/naturaljam/SpanVouch) | 1 | Python | 2026-08-03 | Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents |
-| 18 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2548 | C++ | 2026-08-03 | Community maintained hardware plugin for vLLM on Ascend |
+| 18 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2549 | C++ | 2026-08-03 | Community maintained hardware plugin for vLLM on Ascend |
 | 19 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 12 | TypeScript | 2026-08-03 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
 | 20 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-03 | ThakiCloud Tech Blog |
 | 21 | [kimtth/azure-openai-llm-wiki](https://github.com/kimtth/azure-openai-llm-wiki) | 405 | Python | 2026-08-03 | A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates. |
 | 22 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-08-03 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 23 | [mfow/llm-temporal-worker](https://github.com/mfow/llm-temporal-worker) | 0 | Go | 2026-08-03 | Temporal workers and clients for wrapping access to different LLMs |
-| 24 | [taichuy/1flowbase](https://github.com/taichuy/1flowbase) | 211 | Rust | 2026-08-03 | Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v |
+| 24 | [taichuy/1flowbase](https://github.com/taichuy/1flowbase) | 212 | Rust | 2026-08-03 | Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible v |
 | 25 | [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) | 2346 | Rust | 2026-08-03 | Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data  |
-| 26 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55404 | Python | 2026-08-03 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 26 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55407 | Python | 2026-08-03 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 27 | [Roshan3580/Helios](https://github.com/Roshan3580/Helios) | 0 | Python | 2026-08-03 | AI systems observability platform for tracing, evaluating, and debugging LLM applications, agents, and RAG pipelines. |
 | 28 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 6988 | Go | 2026-08-03 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 29 | [project-arbr/arbr-control-plane](https://github.com/project-arbr/arbr-control-plane) | 10 | JavaScript | 2026-08-03 | Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing |
