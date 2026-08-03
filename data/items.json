@@ -1,12 +1,66 @@
 [
   {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3462,
+    "updated_at": "2026-08-03T13:13:52Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Reveal hidden prompt injection & supply-chain risks in AI agent extensions \u2014 scans Claude/agent Skills, MCP servers & ru",
+    "id": "fevziegeyurtsevenler/uncloak",
     "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
+    "name": "fevziegeyurtsevenler/uncloak",
     "stars": 0,
-    "updated_at": "2026-08-03T12:57:31Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+    "updated_at": "2026-08-03T13:13:37Z",
+    "url": "https://github.com/fevziegeyurtsevenler/uncloak"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-03T13:13:59Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
+    "id": "jimyoshida/dx-devops-landscape",
+    "language": "JavaScript",
+    "name": "jimyoshida/dx-devops-landscape",
+    "stars": 5,
+    "updated_at": "2026-08-03T13:11:17Z",
+    "url": "https://github.com/jimyoshida/dx-devops-landscape"
+  },
+  {
+    "description": "One interface across Anthropic, OpenAI and Google Gemini \u2014 with automatic failover, circuit breaking and per-request cos",
+    "id": "uaesivakumar/llm-gateway",
+    "language": "Python",
+    "name": "uaesivakumar/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:10:46Z",
+    "url": "https://github.com/uaesivakumar/llm-gateway"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 6,
+    "updated_at": "2026-08-03T13:10:29Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-03T13:15:14Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,8 +68,44 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32414,
-    "updated_at": "2026-08-03T12:56:50Z",
+    "updated_at": "2026-08-03T13:14:03Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-03T13:05:57Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7002,
+    "updated_at": "2026-08-03T13:15:08Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T13:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-03T12:57:31Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -27,21 +117,12 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T12:52:53Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21085,
-    "updated_at": "2026-08-03T12:56:57Z",
+    "updated_at": "2026-08-03T13:12:39Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -59,7 +140,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29508,
-    "updated_at": "2026-08-03T12:48:00Z",
+    "updated_at": "2026-08-03T13:12:37Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -95,7 +176,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-03T12:53:05Z",
+    "updated_at": "2026-08-03T13:11:05Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -122,17 +203,8 @@
     "language": "TypeScript",
     "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "stars": 4,
-    "updated_at": "2026-08-03T12:37:29Z",
+    "updated_at": "2026-08-03T13:12:56Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3462,
-    "updated_at": "2026-08-03T12:58:18Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
@@ -160,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T12:24:40Z",
     "url": "https://github.com/CAOShurong/evalint"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 6,
-    "updated_at": "2026-08-03T12:20:03Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-03T12:55:54Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
@@ -225,30 +279,12 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-03T12:01:58Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7001,
-    "updated_at": "2026-08-03T12:00:47Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1295,
-    "updated_at": "2026-08-03T12:43:25Z",
+    "updated_at": "2026-08-03T13:07:31Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -328,7 +364,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 807,
+    "stars": 808,
     "updated_at": "2026-08-03T11:34:09Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T10:57:12Z",
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
-    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 68,
-    "updated_at": "2026-08-03T10:54:27Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Control plane for team LLM access through LiteLLM.",
-    "id": "anggaprytn/loom",
-    "language": "TypeScript",
-    "name": "anggaprytn/loom",
-    "stars": 1,
-    "updated_at": "2026-08-03T10:52:09Z",
-    "url": "https://github.com/anggaprytn/loom"
-  },
-  {
-    "description": "Copy-paste, run-offline TypeScript recipes for the Cendor LLM plumbing libraries \u2014 cost, context, testing, governance.",
-    "id": "cendorhq/cendor-cookbook-js",
-    "language": "JavaScript",
-    "name": "cendorhq/cendor-cookbook-js",
-    "stars": 0,
-    "updated_at": "2026-08-03T10:49:17Z",
-    "url": "https://github.com/cendorhq/cendor-cookbook-js"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-03T10:47:39Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   }
 ]
