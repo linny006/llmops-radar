@@ -1,12 +1,39 @@
 [
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-03T04:59:52Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-03T05:13:20Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:12:06Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "A collection of tricks and tools to speed up transformer models",
+    "id": "OpenMachine-ai/transformer-tricks",
+    "language": "TeX",
+    "name": "OpenMachine-ai/transformer-tricks",
+    "stars": 220,
+    "updated_at": "2026-08-03T05:11:56Z",
+    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
+  },
+  {
+    "description": "",
+    "id": "coffeehc/xagent-docs",
+    "language": "TypeScript",
+    "name": "coffeehc/xagent-docs",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:08:52Z",
+    "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
     "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
@@ -14,7 +41,7 @@
     "language": "Jupyter Notebook",
     "name": "aroraneel/AI-Engineer",
     "stars": 1,
-    "updated_at": "2026-08-03T04:56:43Z",
+    "updated_at": "2026-08-03T05:07:40Z",
     "url": "https://github.com/aroraneel/AI-Engineer"
   },
   {
@@ -23,8 +50,53 @@
     "language": "TypeScript",
     "name": "openlit/openlit",
     "stars": 2666,
-    "updated_at": "2026-08-03T04:55:35Z",
+    "updated_at": "2026-08-03T05:06:01Z",
     "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-03T05:05:45Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-03T05:01:32Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
+    "id": "yptang98/CostMarshal",
+    "language": "Python",
+    "name": "yptang98/CostMarshal",
+    "stars": 4,
+    "updated_at": "2026-08-03T05:01:06Z",
+    "url": "https://github.com/yptang98/CostMarshal"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-03T04:59:52Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -45,30 +117,12 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T04:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-03T04:37:56Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-08-03T04:35:29Z",
+    "updated_at": "2026-08-03T05:13:37Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T04:32:44Z",
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-03T04:41:10Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
@@ -115,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T04:22:15Z",
     "url": "https://github.com/naturaljam/SpanVouch"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:21:18Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
@@ -171,21 +207,12 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "TypeScript",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-08-03T03:55:50Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5728,
-    "updated_at": "2026-08-03T04:18:52Z",
+    "updated_at": "2026-08-03T05:11:21Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -297,21 +324,12 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
-    "id": "yptang98/CostMarshal",
-    "language": "Python",
-    "name": "yptang98/CostMarshal",
-    "stars": 4,
-    "updated_at": "2026-08-03T03:06:36Z",
-    "url": "https://github.com/yptang98/CostMarshal"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1293,
-    "updated_at": "2026-08-03T04:27:31Z",
+    "updated_at": "2026-08-03T05:08:01Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 11814,
     "updated_at": "2026-08-03T03:36:57Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-03T01:53:49Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-08-03T01:45:57Z",
-    "url": "https://github.com/acornops/docs-website"
   }
 ]
