@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 19:45 UTC
+> ⏰ Last updated: 2026-08-03 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [obervinov/readme-spotlight](https://github.com/obervinov/readme-spotlight) | 0 | Go | 2026-08-03 | Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it |
-| 2 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-03 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55446 | Python | 2026-08-03 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [Yesol-Pilot/neosignal-check](https://github.com/Yesol-Pilot/neosignal-check) | 0 | Python | 2026-08-03 | Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date  |
 | 3 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-08-03 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 4 | [Hilalalpak/CairnOps](https://github.com/Hilalalpak/CairnOps) | 0 | Python | 2026-08-03 | CairnOps — AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea |
-| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55444 | Python | 2026-08-03 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 6 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 47 | Rust | 2026-08-03 | Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 545 | Python | 2026-08-03 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
-| 9 | [QuesmaOrg/awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) | 116 | Python | 2026-08-03 | A curated list of tools, benchmarks, papers, and copy-paste configs for AI token costs: what tokens cost, where they get |
-| 10 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-08-03 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
-| 11 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3463 | TypeScript | 2026-08-03 | The platform for LLM evaluations and AI agent testing |
-| 12 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-08-03 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 13 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27347 | Python | 2026-08-03 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 14 | [Yesol-Pilot/neosignal-check](https://github.com/Yesol-Pilot/neosignal-check) | 0 | Python | 2026-08-03 | Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date  |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [Hilalalpak/CairnOps](https://github.com/Hilalalpak/CairnOps) | 0 | Python | 2026-08-03 | CairnOps — AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea |
+| 6 | [obervinov/readme-spotlight](https://github.com/obervinov/readme-spotlight) | 0 | Go | 2026-08-03 | Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it |
+| 7 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-03 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 8 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 47 | Rust | 2026-08-03 | Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or |
+| 9 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 545 | Python | 2026-08-03 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
+| 10 | [QuesmaOrg/awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) | 116 | Python | 2026-08-03 | A curated list of tools, benchmarks, papers, and copy-paste configs for AI token costs: what tokens cost, where they get |
+| 11 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-08-03 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
+| 12 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3463 | TypeScript | 2026-08-03 | The platform for LLM evaluations and AI agent testing |
+| 13 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 1 | Python | 2026-08-03 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 14 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27347 | Python | 2026-08-03 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 15 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10876 | Python | 2026-08-03 | AI Observability & Evaluation |
 | 16 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7013 | Go | 2026-08-03 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 17 | [OpenMachine-ai/transformer-tricks](https://github.com/OpenMachine-ai/transformer-tricks) | 220 | TeX | 2026-08-03 | A collection of tricks and tools to speed up transformer models |

@@ -1,5 +1,50 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55446,
+    "updated_at": "2026-08-03T19:57:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-03T19:52:10Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-03T19:55:29Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T19:45:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "CairnOps \u2014 AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea",
+    "id": "Hilalalpak/CairnOps",
+    "language": "Python",
+    "name": "Hilalalpak/CairnOps",
+    "stars": 0,
+    "updated_at": "2026-08-03T19:45:22Z",
+    "url": "https://github.com/Hilalalpak/CairnOps"
+  },
+  {
     "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
     "id": "obervinov/readme-spotlight",
     "language": "Go",
@@ -18,33 +63,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-03T19:44:08Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "CairnOps \u2014 AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea",
-    "id": "Hilalalpak/CairnOps",
-    "language": "Python",
-    "name": "Hilalalpak/CairnOps",
-    "stars": 0,
-    "updated_at": "2026-08-03T19:45:22Z",
-    "url": "https://github.com/Hilalalpak/CairnOps"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55444,
-    "updated_at": "2026-08-03T19:44:11Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -52,15 +70,6 @@
     "stars": 47,
     "updated_at": "2026-08-03T19:32:32Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T19:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -86,7 +95,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-03T19:27:47Z",
+    "updated_at": "2026-08-03T19:47:20Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -95,7 +104,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3463,
-    "updated_at": "2026-08-03T19:44:33Z",
+    "updated_at": "2026-08-03T19:49:02Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -117,21 +126,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-03T19:20:57Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10876,
-    "updated_at": "2026-08-03T19:19:26Z",
+    "updated_at": "2026-08-03T19:46:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21086,
-    "updated_at": "2026-08-03T19:44:10Z",
+    "updated_at": "2026-08-03T19:58:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -221,7 +221,7 @@
     "language": "Python",
     "name": "brunovicco/verifiable-ai-governance",
     "stars": 0,
-    "updated_at": "2026-08-03T18:47:18Z",
+    "updated_at": "2026-08-03T19:59:33Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "domestique-labs/domestique-oss",
     "stars": 4,
-    "updated_at": "2026-08-03T19:40:42Z",
+    "updated_at": "2026-08-03T19:49:43Z",
     "url": "https://github.com/domestique-labs/domestique-oss"
   },
   {
