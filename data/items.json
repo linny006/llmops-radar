@@ -1,12 +1,75 @@
 [
   {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
+    "name": "BerriAI/litellm",
+    "stars": 55451,
+    "updated_at": "2026-08-03T21:59:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
+    "id": "golikovichev/pytest-resilience-agent",
+    "language": "Python",
+    "name": "golikovichev/pytest-resilience-agent",
     "stars": 0,
-    "updated_at": "2026-08-03T21:46:03Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+    "updated_at": "2026-08-03T21:59:31Z",
+    "url": "https://github.com/golikovichev/pytest-resilience-agent"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:59:10Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3463,
+    "updated_at": "2026-08-03T21:57:39Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
+    "id": "anmolsharma152/Disha",
+    "language": "Python",
+    "name": "anmolsharma152/Disha",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:52:38Z",
+    "url": "https://github.com/anmolsharma152/Disha"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10879,
+    "updated_at": "2026-08-03T22:00:05Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 48,
+    "updated_at": "2026-08-03T21:50:44Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-08-03T21:49:45Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-03T21:45:23Z",
+    "updated_at": "2026-08-03T21:47:34Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:49:15Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -25,24 +97,6 @@
     "stars": 28,
     "updated_at": "2026-08-03T21:38:06Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-03T21:37:12Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55449,
-    "updated_at": "2026-08-03T21:45:02Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -63,15 +117,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
-    "id": "anmolsharma152/Disha",
-    "language": "Python",
-    "name": "anmolsharma152/Disha",
-    "stars": 0,
-    "updated_at": "2026-08-03T21:22:01Z",
-    "url": "https://github.com/anmolsharma152/Disha"
-  },
-  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
@@ -88,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-08-03T21:21:07Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27350,
+    "updated_at": "2026-08-03T21:16:00Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -149,7 +203,7 @@
     "language": "Go",
     "name": "obervinov/readme-spotlight",
     "stars": 0,
-    "updated_at": "2026-08-03T21:39:03Z",
+    "updated_at": "2026-08-03T21:49:30Z",
     "url": "https://github.com/obervinov/readme-spotlight"
   },
   {
@@ -169,33 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T20:47:23Z",
     "url": "https://github.com/changliu2/assert-ai-action"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 48,
-    "updated_at": "2026-08-03T21:38:24Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3463,
-    "updated_at": "2026-08-03T21:40:00Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10878,
-    "updated_at": "2026-08-03T21:32:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -288,15 +315,6 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-08-03T21:32:28Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
     "description": "CairnOps \u2014 AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea",
     "id": "Hilalalpak/CairnOps",
     "language": "Python",
@@ -313,15 +331,6 @@
     "stars": 545,
     "updated_at": "2026-08-03T19:29:51Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27349,
-    "updated_at": "2026-08-03T21:16:00Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 362,
-    "updated_at": "2026-08-03T21:45:14Z",
+    "updated_at": "2026-08-03T21:50:49Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T18:26:42Z",
     "url": "https://github.com/darian16/rag-demo"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10205,
-    "updated_at": "2026-08-03T21:26:34Z",
-    "url": "https://github.com/Netflix/metaflow"
   }
 ]
