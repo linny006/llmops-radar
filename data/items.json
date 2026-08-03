@@ -1,11 +1,92 @@
 [
   {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:39:10Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
+    "id": "routeplane-core/routeplane-ce",
+    "language": "Rust",
+    "name": "routeplane-core/routeplane-ce",
+    "stars": 4,
+    "updated_at": "2026-08-03T07:37:15Z",
+    "url": "https://github.com/routeplane-core/routeplane-ce"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1571,
+    "updated_at": "2026-08-03T07:37:46Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5666,
+    "updated_at": "2026-08-03T07:41:10Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-03T07:35:20Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-03T07:33:04Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-08-03T07:30:22Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:29:58Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32390,
-    "updated_at": "2026-08-03T07:28:46Z",
+    "updated_at": "2026-08-03T07:42:42Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T07:28:23Z",
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
-    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
-    "id": "routeplane-core/routeplane-ce",
-    "language": "Rust",
-    "name": "routeplane-core/routeplane-ce",
-    "stars": 4,
-    "updated_at": "2026-08-03T07:26:08Z",
-    "url": "https://github.com/routeplane-core/routeplane-ce"
   },
   {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27340,
-    "updated_at": "2026-08-03T07:20:56Z",
+    "updated_at": "2026-08-03T07:41:30Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -59,44 +131,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21076,
-    "updated_at": "2026-08-03T07:26:59Z",
+    "updated_at": "2026-08-03T07:32:44Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-08-03T07:30:22Z",
-    "url": "https://github.com/acornops/docs-website"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:30:18Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:29:58Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:15:47Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
@@ -106,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T07:11:23Z",
     "url": "https://github.com/NicoGrassetto/Cosmopilot"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-03T07:25:35Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents",
@@ -130,7 +157,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2547,
+    "stars": 2548,
     "updated_at": "2026-08-03T07:08:40Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -176,7 +203,7 @@
     "language": "Go",
     "name": "mfow/llm-temporal-worker",
     "stars": 0,
-    "updated_at": "2026-08-03T06:54:31Z",
+    "updated_at": "2026-08-03T07:38:49Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
@@ -202,7 +229,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55400,
+    "stars": 55404,
     "updated_at": "2026-08-03T06:51:27Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -221,7 +248,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6988,
-    "updated_at": "2026-08-03T07:27:30Z",
+    "updated_at": "2026-08-03T07:35:01Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3457,
-    "updated_at": "2026-08-03T07:18:19Z",
+    "updated_at": "2026-08-03T07:43:00Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T06:23:53Z",
     "url": "https://github.com/Prathamg042004/tokensave"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-03T06:18:14Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -430,23 +448,5 @@
     "stars": 47,
     "updated_at": "2026-08-03T07:07:14Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-03T05:01:32Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
-    "id": "yptang98/CostMarshal",
-    "language": "Python",
-    "name": "yptang98/CostMarshal",
-    "stars": 4,
-    "updated_at": "2026-08-03T05:01:06Z",
-    "url": "https://github.com/yptang98/CostMarshal"
   }
 ]
