@@ -1,5 +1,41 @@
 [
   {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-03T22:59:17Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Policy-gated runtime for verifiable AI agent actions.",
+    "id": "JoaoToni12/verifiable-agent-runtime",
+    "language": "Python",
+    "name": "JoaoToni12/verifiable-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-03T22:57:55Z",
+    "url": "https://github.com/JoaoToni12/verifiable-agent-runtime"
+  },
+  {
+    "description": "MCP server for AI economics \u2014 12 calculators for token cost, LLM energy, agent-hour, Proof-Adjusted Autonomy, revocation",
+    "id": "pich/ai-economics-mcp",
+    "language": "JavaScript",
+    "name": "pich/ai-economics-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-03T22:56:28Z",
+    "url": "https://github.com/pich/ai-economics-mcp"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-03T22:56:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -18,15 +54,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-03T22:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3464,
-    "updated_at": "2026-08-03T22:54:36Z",
+    "updated_at": "2026-08-03T22:58:18Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55450,
-    "updated_at": "2026-08-03T22:44:41Z",
+    "updated_at": "2026-08-03T22:59:50Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 10880,
     "updated_at": "2026-08-03T22:54:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-03T22:24:04Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
@@ -194,7 +212,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 2,
-    "updated_at": "2026-08-03T21:12:29Z",
+    "updated_at": "2026-08-03T23:00:16Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -202,7 +220,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7015,
+    "stars": 7016,
     "updated_at": "2026-08-03T21:07:02Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -268,15 +286,6 @@
     "stars": 68,
     "updated_at": "2026-08-03T20:33:51Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "MCP server for AI economics \u2014 12 calculators for token cost, LLM energy, agent-hour, Proof-Adjusted Autonomy, revocation",
-    "id": "pich/ai-economics-mcp",
-    "language": "JavaScript",
-    "name": "pich/ai-economics-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-03T20:30:56Z",
-    "url": "https://github.com/pich/ai-economics-mcp"
   },
   {
     "description": "12 free calculators for AI economics: token cost, context windows, agent-hour, LLM energy, Proof-Adjusted Autonomy, Revo",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-03T18:31:34Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-08-03T19:36:21Z",
-    "url": "https://github.com/iblai/os"
   }
 ]
