@@ -1,12 +1,48 @@
 [
   {
+    "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
+    "id": "erjonb19/Security-Constrained-Agent-Runtime",
+    "language": "Python",
+    "name": "erjonb19/Security-Constrained-Agent-Runtime",
+    "stars": 0,
+    "updated_at": "2026-08-03T02:11:51Z",
+    "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-08-03T02:11:17Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-03T01:59:14Z",
+    "updated_at": "2026-08-03T02:09:08Z",
     "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2542,
+    "updated_at": "2026-08-03T02:07:36Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 53,
+    "updated_at": "2026-08-03T02:05:31Z",
+    "url": "https://github.com/avikalpg/byok-relay"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -14,8 +50,26 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-08-03T01:58:16Z",
+    "updated_at": "2026-08-03T02:05:05Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-08-03T02:04:57Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T02:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11814,
-    "updated_at": "2026-08-03T01:50:32Z",
+    "updated_at": "2026-08-03T02:12:21Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T01:49:09Z",
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2542,
-    "updated_at": "2026-08-03T02:00:00Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
@@ -99,15 +144,6 @@
     "url": "https://github.com/acornops/management-console"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T01:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
     "id": "okfriansyah-moh/the-foundry",
     "language": "Go",
@@ -121,7 +157,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 6980,
+    "stars": 6981,
     "updated_at": "2026-08-03T01:42:53Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -166,8 +202,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55376,
-    "updated_at": "2026-08-03T01:32:36Z",
+    "stars": 55377,
+    "updated_at": "2026-08-03T02:14:26Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-08-03T01:09:52Z",
+    "updated_at": "2026-08-03T02:06:10Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29505,
-    "updated_at": "2026-08-03T00:20:29Z",
+    "updated_at": "2026-08-03T02:10:43Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -369,6 +405,15 @@
     "url": "https://github.com/OpenMachine-ai/transformer-tricks"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8144,
+    "updated_at": "2026-08-02T23:49:27Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Humans approve. Agents execute. Everything leaves a trail. Local-first control plane for AI coding agents \u2014 budgets, hum",
     "id": "Abhitodan/agentic-org",
     "language": "Python",
@@ -401,52 +446,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-02T23:07:41Z",
+    "updated_at": "2026-08-03T02:11:31Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:04:08Z",
-    "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-08-02T22:38:11Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-08-02T22:32:48Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "",
-    "id": "openlit/.github",
-    "language": "\u2014",
-    "name": "openlit/.github",
-    "stars": 3,
-    "updated_at": "2026-08-02T22:24:05Z",
-    "url": "https://github.com/openlit/.github"
-  },
-  {
-    "description": "AI cofounder OS \u2014 multi-agent orchestration with approval gates, hard budget caps, and a tamper-evident SHA-256 audit lo",
-    "id": "DreadpiratePickles/trent",
-    "language": "TypeScript",
-    "name": "DreadpiratePickles/trent",
-    "stars": 0,
-    "updated_at": "2026-08-02T22:22:37Z",
-    "url": "https://github.com/DreadpiratePickles/trent"
   }
 ]
