@@ -1,12 +1,84 @@
 [
   {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-08-03T17:42:07Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "CairnOps \u2014 AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea",
+    "id": "Hilalalpak/CairnOps",
+    "language": "Python",
+    "name": "Hilalalpak/CairnOps",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:38:42Z",
+    "url": "https://github.com/Hilalalpak/CairnOps"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 81,
+    "updated_at": "2026-08-03T17:38:28Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
+    "id": "JumpMasters/tollgate",
+    "language": "Python",
+    "name": "JumpMasters/tollgate",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:45:13Z",
+    "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
     "id": "brunovicco/verifiable-ai-governance",
     "language": "Python",
     "name": "brunovicco/verifiable-ai-governance",
     "stars": 0,
-    "updated_at": "2026-08-03T17:29:59Z",
+    "updated_at": "2026-08-03T17:38:42Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7009,
+    "updated_at": "2026-08-03T17:36:25Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55439,
+    "updated_at": "2026-08-03T17:42:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10875,
+    "updated_at": "2026-08-03T17:34:05Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-03T17:34:57Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-03T17:27:47Z",
+    "updated_at": "2026-08-03T17:30:29Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 9,
     "updated_at": "2026-08-03T17:26:45Z",
     "url": "https://github.com/mdzaheerjk/AI-Travel-Planner"
-  },
-  {
-    "description": "CairnOps \u2014 AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea",
-    "id": "Hilalalpak/CairnOps",
-    "language": "Python",
-    "name": "Hilalalpak/CairnOps",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:29:56Z",
-    "url": "https://github.com/Hilalalpak/CairnOps"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T17:17:45Z",
     "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55438,
-    "updated_at": "2026-08-03T17:22:48Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1581,
-    "updated_at": "2026-08-03T16:58:24Z",
+    "updated_at": "2026-08-03T17:35:21Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -171,22 +225,13 @@
     "url": "https://github.com/acornops/management-console"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10874,
-    "updated_at": "2026-08-03T17:03:34Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-08-03T17:22:47Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23880,
+    "updated_at": "2026-08-03T16:52:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "",
@@ -279,15 +324,6 @@
     "url": "https://github.com/api-evangelist/agenta"
   },
   {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 81,
-    "updated_at": "2026-08-03T16:19:31Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
     "id": "katanemo/plano",
     "language": "Rust",
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 545,
-    "updated_at": "2026-08-03T16:17:12Z",
+    "updated_at": "2026-08-03T17:36:49Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -333,21 +369,12 @@
     "url": "https://github.com/changliu2/assert-ai-action"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7008,
-    "updated_at": "2026-08-03T17:29:09Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-03T16:31:20Z",
+    "updated_at": "2026-08-03T17:44:22Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T15:51:24Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
-    "id": "kreftamarcio/prompt-forge",
-    "language": "TypeScript",
-    "name": "kreftamarcio/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:50:39Z",
-    "url": "https://github.com/kreftamarcio/prompt-forge"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-08-03T15:50:13Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
-    "id": "anmolsharma152/Disha",
-    "language": "Python",
-    "name": "anmolsharma152/Disha",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:50:12Z",
-    "url": "https://github.com/anmolsharma152/Disha"
   }
 ]
