@@ -1,12 +1,21 @@
 [
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32412,
+    "updated_at": "2026-08-03T12:29:43Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c",
+    "id": "CAOShurong/evalint",
     "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-03T12:07:57Z",
-    "url": "https://github.com/hanyeol/model-compose"
+    "name": "CAOShurong/evalint",
+    "stars": 0,
+    "updated_at": "2026-08-03T12:24:40Z",
+    "url": "https://github.com/CAOShurong/evalint"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3462,
-    "updated_at": "2026-08-03T12:08:58Z",
+    "updated_at": "2026-08-03T12:29:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -23,8 +32,53 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-03T12:06:22Z",
+    "updated_at": "2026-08-03T12:22:21Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 6,
+    "updated_at": "2026-08-03T12:20:03Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-03T12:18:48Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-03T12:16:20Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T12:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-03T12:07:57Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 361,
-    "updated_at": "2026-08-03T12:13:15Z",
+    "updated_at": "2026-08-03T12:27:25Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -99,15 +153,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T12:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
@@ -117,13 +162,13 @@
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32410,
-    "updated_at": "2026-08-03T12:09:02Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21084,
+    "updated_at": "2026-08-03T11:52:59Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Agentic AI ops architecture for VC dealflow \u2014 Claude + MCP orchestrating CRM, file storage and Notion",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 544,
-    "updated_at": "2026-08-03T11:48:47Z",
+    "updated_at": "2026-08-03T12:30:01Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29507,
-    "updated_at": "2026-08-03T11:45:09Z",
+    "updated_at": "2026-08-03T12:19:14Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 5662,
     "updated_at": "2026-08-03T11:41:30Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21083,
-    "updated_at": "2026-08-03T11:52:59Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
@@ -257,7 +293,7 @@
     "language": "TypeScript",
     "name": "acornops/management-console",
     "stars": 2,
-    "updated_at": "2026-08-03T11:28:19Z",
+    "updated_at": "2026-08-03T12:28:02Z",
     "url": "https://github.com/acornops/management-console"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T11:28:12Z",
     "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:13:52Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
     "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
@@ -293,7 +320,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 24,
-    "updated_at": "2026-08-03T11:09:03Z",
+    "updated_at": "2026-08-03T12:25:42Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T10:23:10Z",
     "url": "https://github.com/golikovichev/pytest-resilience-agent"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5530,
-    "updated_at": "2026-08-03T10:19:37Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-03T10:12:18Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-03T12:10:04Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   }
 ]
