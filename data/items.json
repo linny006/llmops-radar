@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55438,
+    "updated_at": "2026-08-03T17:14:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:11:55Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
+    "id": "domestique-labs/domestique-oss",
+    "language": "Python",
+    "name": "domestique-labs/domestique-oss",
+    "stars": 4,
+    "updated_at": "2026-08-03T17:06:55Z",
+    "url": "https://github.com/domestique-labs/domestique-oss"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:05:40Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:13:05Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:01:30Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T17:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
     "id": "Neeeophytee/awesome-ai-workflows",
     "language": "Shell",
@@ -10,12 +73,21 @@
   },
   {
     "description": "Hierarchical LangGraph multi-agent assistant for a digital music store \u2014 identity verification, tool-grounded catalog & ",
-    "id": "YacoobMJ/Multi-Agent-Music-Store-support",
+    "id": "YacoobMJ/AutoCare-Service-Multi-Agent-Support",
     "language": "Python",
-    "name": "YacoobMJ/Multi-Agent-Music-Store-support",
+    "name": "YacoobMJ/AutoCare-Service-Multi-Agent-Support",
     "stars": 0,
     "updated_at": "2026-08-03T16:59:08Z",
-    "url": "https://github.com/YacoobMJ/Multi-Agent-Music-Store-support"
+    "url": "https://github.com/YacoobMJ/AutoCare-Service-Multi-Agent-Support"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1581,
+    "updated_at": "2026-08-03T16:58:24Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Provider-agnostic Hermes Agent optimization skill with autodiscovery, provenance, and publication-ready docs.",
@@ -54,13 +126,13 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
-    "id": "domestique-labs/domestique-oss",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "domestique-labs/domestique-oss",
-    "stars": 4,
-    "updated_at": "2026-08-03T16:57:52Z",
-    "url": "https://github.com/domestique-labs/domestique-oss"
+    "name": "Arize-ai/phoenix",
+    "stars": 10874,
+    "updated_at": "2026-08-03T17:03:34Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
@@ -79,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T16:45:49Z",
     "url": "https://github.com/mdzaheerjk/AI-Music-Composer"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T16:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -126,15 +189,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10873,
-    "updated_at": "2026-08-03T16:47:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -142,15 +196,6 @@
     "stars": 32434,
     "updated_at": "2026-08-03T16:59:06Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:28:38Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -187,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-08-03T16:22:03Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-03T16:20:30Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
@@ -238,7 +274,7 @@
     "id": "mikehasa/agentacct",
     "language": "Python",
     "name": "mikehasa/agentacct",
-    "stars": 544,
+    "stars": 545,
     "updated_at": "2026-08-03T16:17:12Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
@@ -261,13 +297,13 @@
     "url": "https://github.com/changliu2/assert-ai-action"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55440,
-    "updated_at": "2026-08-03T16:12:30Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7008,
+    "updated_at": "2026-08-03T17:08:33Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-03T15:48:19Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Production-minded contractor operations app with structured AI extraction, evals, observability, CI, and Docker.",
-    "id": "powelldevel/SiteGent",
-    "language": "TypeScript",
-    "name": "powelldevel/SiteGent",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:47:23Z",
-    "url": "https://github.com/powelldevel/SiteGent"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-03T15:47:18Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-03T15:39:48Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
-    "id": "paulosalem/weavemark",
-    "language": "Python",
-    "name": "paulosalem/weavemark",
-    "stars": 2,
-    "updated_at": "2026-08-03T15:47:14Z",
-    "url": "https://github.com/paulosalem/weavemark"
   }
 ]
