@@ -1,5 +1,50 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:23:58Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:21:38Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
+    "id": "golikovichev/pytest-resilience-agent",
+    "language": "Python",
+    "name": "golikovichev/pytest-resilience-agent",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:17:04Z",
+    "url": "https://github.com/golikovichev/pytest-resilience-agent"
+  },
+  {
+    "description": "Dependabot for LLM models \u2014 scans code for outdated AI model strings, opens upgrade PRs automatically",
+    "id": "agamm/llm-upgrade-bot",
+    "language": "TypeScript",
+    "name": "agamm/llm-upgrade-bot",
+    "stars": 3,
+    "updated_at": "2026-08-03T05:16:51Z",
+    "url": "https://github.com/agamm/llm-upgrade-bot"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
@@ -81,15 +126,6 @@
     "url": "https://github.com/yptang98/CostMarshal"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T05:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -104,26 +140,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6985,
-    "updated_at": "2026-08-03T04:50:53Z",
+    "updated_at": "2026-08-03T05:22:50Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-03T04:49:18Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-03T05:13:37Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5728,
-    "updated_at": "2026-08-03T05:11:21Z",
+    "updated_at": "2026-08-03T05:19:23Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -247,7 +265,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55389,
+    "stars": 55391,
     "updated_at": "2026-08-03T03:42:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -292,7 +310,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32380,
+    "stars": 32381,
     "updated_at": "2026-08-03T03:34:47Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -430,23 +448,5 @@
     "stars": 44,
     "updated_at": "2026-08-03T02:04:57Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10863,
-    "updated_at": "2026-08-03T01:54:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11814,
-    "updated_at": "2026-08-03T03:36:57Z",
-    "url": "https://github.com/dataelement/bisheng"
   }
 ]
