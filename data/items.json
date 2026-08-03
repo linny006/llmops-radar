@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32390,
+    "updated_at": "2026-08-03T07:28:46Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:28:23Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
+    "id": "routeplane-core/routeplane-ce",
+    "language": "Rust",
+    "name": "routeplane-core/routeplane-ce",
+    "stars": 4,
+    "updated_at": "2026-08-03T07:26:08Z",
+    "url": "https://github.com/routeplane-core/routeplane-ce"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:21:53Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27340,
+    "updated_at": "2026-08-03T07:20:56Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-03T07:18:26Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21076,
+    "updated_at": "2026-08-03T07:26:59Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
+    "id": "acornops/docs-website",
+    "language": "MDX",
+    "name": "acornops/docs-website",
+    "stars": 1,
+    "updated_at": "2026-08-03T07:30:22Z",
+    "url": "https://github.com/acornops/docs-website"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:30:18Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:29:58Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:15:47Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
     "id": "NicoGrassetto/Cosmopilot",
     "language": "Python",
@@ -14,17 +113,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-08-03T07:10:16Z",
+    "updated_at": "2026-08-03T07:25:35Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:09:57Z",
-    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents",
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "naturaljam/SpanVouch",
     "stars": 1,
-    "updated_at": "2026-08-03T07:08:53Z",
+    "updated_at": "2026-08-03T07:17:30Z",
     "url": "https://github.com/naturaljam/SpanVouch"
   },
   {
@@ -40,18 +130,9 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2545,
+    "stars": 2547,
     "updated_at": "2026-08-03T07:08:40Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-08-03T07:04:54Z",
-    "url": "https://github.com/acornops/docs-website"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -63,49 +144,13 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:04:21Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27340,
-    "updated_at": "2026-08-03T07:13:57Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-08-03T06:59:47Z",
+    "updated_at": "2026-08-03T07:19:14Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21076,
-    "updated_at": "2026-08-03T06:58:40Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
@@ -139,7 +184,7 @@
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
-    "stars": 210,
+    "stars": 211,
     "updated_at": "2026-08-03T06:53:30Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
@@ -157,18 +202,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55399,
+    "stars": 55400,
     "updated_at": "2026-08-03T06:51:27Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32389,
-    "updated_at": "2026-08-03T06:48:13Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI systems observability platform for tracing, evaluating, and debugging LLM applications, agents, and RAG pipelines.",
@@ -180,13 +216,13 @@
     "url": "https://github.com/Roshan3580/Helios"
   },
   {
-    "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-03T06:39:21Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 6988,
+    "updated_at": "2026-08-03T07:27:30Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
@@ -221,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3457,
-    "updated_at": "2026-08-03T07:13:14Z",
+    "updated_at": "2026-08-03T07:18:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -261,21 +297,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 6987,
-    "updated_at": "2026-08-03T06:40:04Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5728,
-    "updated_at": "2026-08-03T07:04:33Z",
+    "updated_at": "2026-08-03T07:27:48Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -329,7 +356,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-03T06:53:35Z",
+    "updated_at": "2026-08-03T07:25:51Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-03T05:01:06Z",
     "url": "https://github.com/yptang98/CostMarshal"
-  },
-  {
-    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
-    "id": "apache/burr",
-    "language": "Python",
-    "name": "apache/burr",
-    "stars": 2497,
-    "updated_at": "2026-08-03T04:28:09Z",
-    "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 109,
-    "updated_at": "2026-08-03T04:24:31Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
-    "id": "boundflow/boundflow",
-    "language": "Python",
-    "name": "boundflow/boundflow",
-    "stars": 6,
-    "updated_at": "2026-08-03T04:15:59Z",
-    "url": "https://github.com/boundflow/boundflow"
   }
 ]
