@@ -1,12 +1,66 @@
 [
   {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:29:06Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 2,
+    "updated_at": "2026-08-03T01:30:08Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-03T01:22:58Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-03T01:21:14Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:19:26Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5727,
-    "updated_at": "2026-08-03T01:14:26Z",
+    "updated_at": "2026-08-03T01:18:36Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T01:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
@@ -45,24 +99,6 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T01:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:58:48Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
     "description": "Risk scoring for deciding how much supervision AI coding agents need.",
     "id": "Aidan2111/agent-autonomy-score",
     "language": "Python",
@@ -72,21 +108,12 @@
     "url": "https://github.com/Aidan2111/agent-autonomy-score"
   },
   {
-    "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:51:20Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6979,
-    "updated_at": "2026-08-03T00:47:11Z",
+    "updated_at": "2026-08-03T01:23:20Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -144,21 +171,12 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-03T00:32:22Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-03T00:54:02Z",
+    "updated_at": "2026-08-03T01:26:21Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T21:27:45Z",
     "url": "https://github.com/acornops/agentv"
-  },
-  {
-    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
-    "id": "bytebeast/check-endpoint",
-    "language": "Python",
-    "name": "bytebeast/check-endpoint",
-    "stars": 6,
-    "updated_at": "2026-08-02T21:21:10Z",
-    "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-08-02T21:21:00Z",
-    "url": "https://github.com/acornops/docs-website"
   }
 ]
