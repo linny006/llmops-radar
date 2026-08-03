@@ -1,11 +1,65 @@
 [
   {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-08-03T18:27:30Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Demo for the project Earground. RAG-powered AIS/AES analysis tool.",
+    "id": "darian16/rag-demo",
+    "language": "JavaScript",
+    "name": "darian16/rag-demo",
+    "stars": 0,
+    "updated_at": "2026-08-03T18:26:42Z",
+    "url": "https://github.com/darian16/rag-demo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10875,
+    "updated_at": "2026-08-03T18:23:53Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55442,
+    "updated_at": "2026-08-03T18:29:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T18:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7010,
+    "updated_at": "2026-08-03T18:13:18Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-03T18:12:03Z",
+    "updated_at": "2026-08-03T18:28:51Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -18,21 +72,12 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55441,
-    "updated_at": "2026-08-03T18:05:54Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
     "id": "brunovicco/verifiable-ai-governance",
     "language": "Python",
     "name": "brunovicco/verifiable-ai-governance",
     "stars": 0,
-    "updated_at": "2026-08-03T18:04:03Z",
+    "updated_at": "2026-08-03T18:26:06Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
@@ -45,15 +90,6 @@
     "url": "https://github.com/Netflix/metaflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T18:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
     "id": "JumpMasters/tollgate",
     "language": "Python",
@@ -61,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-03T18:00:07Z",
     "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23881,
+    "updated_at": "2026-08-03T17:56:41Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "",
@@ -86,7 +131,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-03T17:51:00Z",
+    "updated_at": "2026-08-03T18:17:14Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -108,30 +153,12 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7009,
-    "updated_at": "2026-08-03T18:13:18Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10875,
-    "updated_at": "2026-08-03T18:13:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-03T18:14:55Z",
+    "updated_at": "2026-08-03T18:28:53Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -157,7 +184,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29509,
+    "stars": 29510,
     "updated_at": "2026-08-03T17:21:01Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -259,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T17:20:08Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23880,
-    "updated_at": "2026-08-03T17:56:41Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "",
@@ -430,23 +448,5 @@
     "stars": 44,
     "updated_at": "2026-08-03T16:05:17Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-03T17:20:08Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Kubernetes-native LLM inference gateway (FastAPI + Ollama/vLLM) with Prometheus metrics, an offline quality-eval harness",
-    "id": "raulcmz/k8s-llmops-inference-platform",
-    "language": "Python",
-    "name": "raulcmz/k8s-llmops-inference-platform",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:04:41Z",
-    "url": "https://github.com/raulcmz/k8s-llmops-inference-platform"
   }
 ]
