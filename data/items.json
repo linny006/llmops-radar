@@ -1,21 +1,75 @@
 [
   {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 10,
-    "updated_at": "2026-08-03T08:14:25Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
+    "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-03T08:29:54Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1293,
+    "updated_at": "2026-08-03T08:23:45Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-03T08:23:36Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-03T08:22:20Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3460,
+    "updated_at": "2026-08-03T08:18:43Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32392,
-    "updated_at": "2026-08-03T08:14:24Z",
+    "stars": 32395,
+    "updated_at": "2026-08-03T08:28:15Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T08:15:42Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 10,
+    "updated_at": "2026-08-03T08:17:11Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T08:14:44Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-03T08:12:41Z",
-    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine.",
@@ -54,31 +99,13 @@
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3458,
-    "updated_at": "2026-08-03T08:10:49Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
     "id": "domestique-labs/domestique-oss",
     "language": "Python",
     "name": "domestique-labs/domestique-oss",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-08-03T08:09:44Z",
     "url": "https://github.com/domestique-labs/domestique-oss"
-  },
-  {
-    "description": "Check your repo for deprecated or removed AI models before they break it. Catches LLM models that vanished from OpenRout",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:08:48Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -104,8 +131,17 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5728,
-    "updated_at": "2026-08-03T08:07:53Z",
+    "updated_at": "2026-08-03T08:26:01Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1572,
+    "updated_at": "2026-08-03T08:01:18Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -117,21 +153,12 @@
     "url": "https://github.com/mfow/llm-temporal-worker"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T08:00:49Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 6989,
-    "updated_at": "2026-08-03T07:46:04Z",
+    "updated_at": "2026-08-03T08:21:43Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -142,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-08-03T07:37:15Z",
     "url": "https://github.com/routeplane-core/routeplane-ce"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1571,
-    "updated_at": "2026-08-03T08:01:18Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21076,
-    "updated_at": "2026-08-03T08:03:04Z",
+    "updated_at": "2026-08-03T08:28:46Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 2549,
     "updated_at": "2026-08-03T08:08:28Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-03T07:04:25Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -283,7 +292,7 @@
     "id": "taichuy/1flowbase",
     "language": "Rust",
     "name": "taichuy/1flowbase",
-    "stars": 213,
+    "stars": 214,
     "updated_at": "2026-08-03T06:53:30Z",
     "url": "https://github.com/taichuy/1flowbase"
   },
@@ -301,7 +310,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55409,
+    "stars": 55410,
     "updated_at": "2026-08-03T06:51:27Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -382,7 +391,7 @@
     "id": "cuihuan/awesome-ai-gateway",
     "language": "HTML",
     "name": "cuihuan/awesome-ai-gateway",
-    "stars": 77,
+    "stars": 78,
     "updated_at": "2026-08-03T05:54:28Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
@@ -410,7 +419,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-03T07:58:09Z",
+    "updated_at": "2026-08-03T08:30:22Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T05:12:06Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "A collection of tricks and tools to speed up transformer models",
-    "id": "OpenMachine-ai/transformer-tricks",
-    "language": "TeX",
-    "name": "OpenMachine-ai/transformer-tricks",
-    "stars": 220,
-    "updated_at": "2026-08-03T05:11:56Z",
-    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
   }
 ]
