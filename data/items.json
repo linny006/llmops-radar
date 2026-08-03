@@ -1,5 +1,50 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55447,
+    "updated_at": "2026-08-03T20:38:01Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 68,
+    "updated_at": "2026-08-03T20:33:51Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "MCP server for AI economics \u2014 12 calculators for token cost, LLM energy, agent-hour, Proof-Adjusted Autonomy, revocation",
+    "id": "pich/ai-economics-mcp",
+    "language": "JavaScript",
+    "name": "pich/ai-economics-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-03T20:30:56Z",
+    "url": "https://github.com/pich/ai-economics-mcp"
+  },
+  {
+    "description": "12 free calculators for AI economics: token cost, context windows, agent-hour, LLM energy, Proof-Adjusted Autonomy, Revo",
+    "id": "pich/ai-economics-tools",
+    "language": "HTML",
+    "name": "pich/ai-economics-tools",
+    "stars": 0,
+    "updated_at": "2026-08-03T20:30:55Z",
+    "url": "https://github.com/pich/ai-economics-tools"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T20:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -13,18 +58,9 @@
     "id": "soapbucket/sbproxy",
     "language": "Rust",
     "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-03T20:28:52Z",
+    "stars": 48,
+    "updated_at": "2026-08-03T20:33:55Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55447,
-    "updated_at": "2026-08-03T20:29:03Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -32,7 +68,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23882,
-    "updated_at": "2026-08-03T20:28:38Z",
+    "updated_at": "2026-08-03T20:32:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 16,
     "updated_at": "2026-08-03T20:20:58Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T20:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -167,7 +194,7 @@
     "language": "Go",
     "name": "obervinov/readme-spotlight",
     "stars": 0,
-    "updated_at": "2026-08-03T19:45:16Z",
+    "updated_at": "2026-08-03T20:36:44Z",
     "url": "https://github.com/obervinov/readme-spotlight"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7013,
-    "updated_at": "2026-08-03T20:08:35Z",
+    "updated_at": "2026-08-03T20:34:16Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -266,7 +293,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29513,
-    "updated_at": "2026-08-03T19:39:33Z",
+    "updated_at": "2026-08-03T20:32:23Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T17:18:10Z",
     "url": "https://github.com/YacoobMJ/AutoCare-Service-Multi-Agent-Support"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "mfow/llm-temporal-worker",
-    "language": "Go",
-    "name": "mfow/llm-temporal-worker",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:17:45Z",
-    "url": "https://github.com/mfow/llm-temporal-worker"
-  },
-  {
-    "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
-    "id": "domestique-labs/domestique-oss",
-    "language": "Python",
-    "name": "domestique-labs/domestique-oss",
-    "stars": 4,
-    "updated_at": "2026-08-03T19:49:43Z",
-    "url": "https://github.com/domestique-labs/domestique-oss"
-  },
-  {
-    "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
-    "id": "Neeeophytee/awesome-ai-workflows",
-    "language": "Shell",
-    "name": "Neeeophytee/awesome-ai-workflows",
-    "stars": 26,
-    "updated_at": "2026-08-03T17:00:06Z",
-    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
   }
 ]
