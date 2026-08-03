@@ -1,5 +1,68 @@
 [
   {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-03T15:36:20Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T15:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-08-03T15:30:23Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 6,
+    "updated_at": "2026-08-03T15:30:18Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Prompts are code. Approval gates, semantic versioning, rollback, and audit history.",
+    "id": "mac-builds-things/prompt-change-control",
+    "language": "Python",
+    "name": "mac-builds-things/prompt-change-control",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:30:09Z",
+    "url": "https://github.com/mac-builds-things/prompt-change-control"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 81,
+    "updated_at": "2026-08-03T15:29:19Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3482,
+    "updated_at": "2026-08-03T15:35:28Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
     "id": "changliu2/assert-ai-action",
     "language": "Python",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 71,
-    "updated_at": "2026-08-03T15:21:53Z",
+    "updated_at": "2026-08-03T15:39:25Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -41,17 +104,8 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 12,
-    "updated_at": "2026-08-03T15:21:03Z",
+    "updated_at": "2026-08-03T15:39:48Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3482,
-    "updated_at": "2026-08-03T15:27:54Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -68,7 +122,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29508,
-    "updated_at": "2026-08-03T15:24:44Z",
+    "updated_at": "2026-08-03T15:37:08Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -76,8 +130,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32426,
-    "updated_at": "2026-08-03T15:16:21Z",
+    "stars": 32428,
+    "updated_at": "2026-08-03T15:40:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T15:26:29Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T15:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -115,24 +160,6 @@
     "stars": 362,
     "updated_at": "2026-08-03T15:16:23Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 81,
-    "updated_at": "2026-08-03T15:29:19Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 6,
-    "updated_at": "2026-08-03T15:30:18Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -158,7 +185,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-03T15:20:24Z",
+    "updated_at": "2026-08-03T15:33:43Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -167,17 +194,8 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3138,
-    "updated_at": "2026-08-03T15:05:42Z",
+    "updated_at": "2026-08-03T15:35:49Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-03T14:56:08Z",
-    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21085,
-    "updated_at": "2026-08-03T15:20:43Z",
+    "updated_at": "2026-08-03T15:37:43Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3463,
-    "updated_at": "2026-08-03T15:24:50Z",
+    "updated_at": "2026-08-03T15:35:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -284,7 +302,7 @@
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 26,
-    "updated_at": "2026-08-03T14:23:42Z",
+    "updated_at": "2026-08-03T15:36:33Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "brunovicco/verifiable-ai-governance",
     "stars": 0,
-    "updated_at": "2026-08-03T15:23:45Z",
+    "updated_at": "2026-08-03T15:37:41Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
@@ -373,7 +391,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23877,
+    "stars": 23878,
     "updated_at": "2026-08-03T13:44:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -430,23 +448,5 @@
     "stars": 219,
     "updated_at": "2026-08-03T13:25:54Z",
     "url": "https://github.com/taichuy/1flowbase"
-  },
-  {
-    "description": "Self-hosted AI gateway and LLM proxy. OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock and 60+ providers, or",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-03T14:06:04Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1577,
-    "updated_at": "2026-08-03T14:34:45Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
