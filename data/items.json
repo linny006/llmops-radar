@@ -1,5 +1,41 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-03T22:43:25Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55450,
+    "updated_at": "2026-08-03T22:44:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-03T22:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10880,
+    "updated_at": "2026-08-03T22:45:20Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
     "id": "Yesol-Pilot/neosignal-check",
     "language": "Python",
@@ -14,35 +50,8 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-03T22:22:21Z",
+    "updated_at": "2026-08-03T22:31:41Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55450,
-    "updated_at": "2026-08-03T22:25:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-03T22:15:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10879,
-    "updated_at": "2026-08-03T22:25:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -95,7 +104,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3463,
-    "updated_at": "2026-08-03T22:30:17Z",
+    "updated_at": "2026-08-03T22:38:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 48,
-    "updated_at": "2026-08-03T21:50:44Z",
+    "updated_at": "2026-08-03T22:40:15Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -202,7 +211,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23883,
+    "stars": 23884,
     "updated_at": "2026-08-03T21:06:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -315,13 +324,13 @@
     "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-03T22:27:49Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21088,
+    "updated_at": "2026-08-03T19:58:32Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "CairnOps \u2014 AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea",
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 545,
-    "updated_at": "2026-08-03T19:29:51Z",
+    "updated_at": "2026-08-03T22:40:34Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-08-03T19:22:45Z",
+    "updated_at": "2026-08-03T22:44:28Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -385,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T19:06:27Z",
     "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21086,
-    "updated_at": "2026-08-03T19:58:32Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Why your AI agent works when you watch it and fails when you don't. 29 checks, a score, and a ranked fix list. Python st",
