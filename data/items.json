@@ -1,12 +1,30 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3463,
+    "updated_at": "2026-08-03T20:44:54Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55447,
-    "updated_at": "2026-08-03T20:38:01Z",
+    "updated_at": "2026-08-03T20:44:38Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-03T20:38:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T20:30:55Z",
     "url": "https://github.com/pich/ai-economics-tools"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T20:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10877,
-    "updated_at": "2026-08-03T20:19:15Z",
+    "updated_at": "2026-08-03T20:38:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -158,7 +167,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-03T20:07:55Z",
+    "updated_at": "2026-08-03T20:40:03Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -205,15 +214,6 @@
     "stars": 545,
     "updated_at": "2026-08-03T19:29:51Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3463,
-    "updated_at": "2026-08-03T20:21:54Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -418,7 +418,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32438,
+    "stars": 32437,
     "updated_at": "2026-08-03T17:27:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
