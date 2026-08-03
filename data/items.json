@@ -1,12 +1,102 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32424,
+    "updated_at": "2026-08-03T15:13:11Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 362,
+    "updated_at": "2026-08-03T15:14:16Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 81,
+    "updated_at": "2026-08-03T15:09:03Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 6,
+    "updated_at": "2026-08-03T15:03:26Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 11,
+    "updated_at": "2026-08-03T15:02:34Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 5,
+    "updated_at": "2026-08-03T15:15:02Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10871,
+    "updated_at": "2026-08-03T15:13:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T15:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-08-03T15:00:18Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3138,
-    "updated_at": "2026-08-03T14:56:27Z",
+    "updated_at": "2026-08-03T15:05:42Z",
     "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-03T14:56:08Z",
+    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
@@ -16,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T14:55:59Z",
     "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32423,
-    "updated_at": "2026-08-03T14:59:28Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -63,39 +144,12 @@
     "url": "https://github.com/acornops/execution-engine"
   },
   {
-    "description": "Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 81,
-    "updated_at": "2026-08-03T14:46:31Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T14:45:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-03T14:56:08Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21085,
-    "updated_at": "2026-08-03T14:58:26Z",
+    "updated_at": "2026-08-03T15:06:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -103,7 +157,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55437,
+    "stars": 55438,
     "updated_at": "2026-08-03T14:35:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -121,7 +175,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7005,
+    "stars": 7007,
     "updated_at": "2026-08-03T14:30:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3463,
-    "updated_at": "2026-08-03T14:56:58Z",
+    "updated_at": "2026-08-03T15:10:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -149,7 +203,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29508,
-    "updated_at": "2026-08-03T14:29:35Z",
+    "updated_at": "2026-08-03T15:02:09Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -216,15 +270,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-08-03T15:00:18Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
     "id": "brunovicco/verifiable-ai-governance",
     "language": "Python",
@@ -250,24 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T14:02:26Z",
     "url": "https://github.com/uaesivakumar/ai-architecture-notes"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 6,
-    "updated_at": "2026-08-03T14:00:53Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10870,
-    "updated_at": "2026-08-03T14:45:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
@@ -382,7 +409,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27344,
+    "stars": 27346,
     "updated_at": "2026-08-03T13:18:29Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -392,7 +419,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 10,
-    "updated_at": "2026-08-03T14:24:05Z",
+    "updated_at": "2026-08-03T15:11:12Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-03T13:15:14Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Reveal hidden prompt injection & supply-chain risks in AI agent extensions \u2014 scans Claude/agent Skills, MCP servers & ru",
-    "id": "fevziegeyurtsevenler/uncloak",
-    "language": "Python",
-    "name": "fevziegeyurtsevenler/uncloak",
-    "stars": 0,
-    "updated_at": "2026-08-03T13:13:37Z",
-    "url": "https://github.com/fevziegeyurtsevenler/uncloak"
-  },
-  {
-    "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
-    "id": "jimyoshida/dx-devops-landscape",
-    "language": "JavaScript",
-    "name": "jimyoshida/dx-devops-landscape",
-    "stars": 5,
-    "updated_at": "2026-08-03T13:11:17Z",
-    "url": "https://github.com/jimyoshida/dx-devops-landscape"
-  },
-  {
-    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
-    "id": "traceloop/openllmetry",
-    "language": "Python",
-    "name": "traceloop/openllmetry",
-    "stars": 7353,
-    "updated_at": "2026-08-03T13:02:26Z",
-    "url": "https://github.com/traceloop/openllmetry"
   }
 ]
