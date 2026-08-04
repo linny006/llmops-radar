@@ -1,5 +1,176 @@
 [
   {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 13,
+    "updated_at": "2026-08-04T07:11:02Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "Nunjucks",
+    "name": "lisn0/tidal",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:10:40Z",
+    "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
+    "id": "sandeep-alluru/agentcrdt",
+    "language": "Python",
+    "name": "sandeep-alluru/agentcrdt",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:07:51Z",
+    "url": "https://github.com/sandeep-alluru/agentcrdt"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23899,
+    "updated_at": "2026-08-04T07:14:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "World-state belief management and contradiction repair for AI agents",
+    "id": "sandeep-alluru/worldoracle",
+    "language": "Python",
+    "name": "sandeep-alluru/worldoracle",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:06:43Z",
+    "url": "https://github.com/sandeep-alluru/worldoracle"
+  },
+  {
+    "description": "Norm monitoring and violation detection for AI agent actions",
+    "id": "sandeep-alluru/normsync",
+    "language": "Python",
+    "name": "sandeep-alluru/normsync",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:06:41Z",
+    "url": "https://github.com/sandeep-alluru/normsync"
+  },
+  {
+    "description": "Economy balance analysis and exploit detection for AI game agents",
+    "id": "sandeep-alluru/balancelab",
+    "language": "Python",
+    "name": "sandeep-alluru/balancelab",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:06:39Z",
+    "url": "https://github.com/sandeep-alluru/balancelab"
+  },
+  {
+    "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
+    "id": "sandeep-alluru/humanproof",
+    "language": "Python",
+    "name": "sandeep-alluru/humanproof",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:06:37Z",
+    "url": "https://github.com/sandeep-alluru/humanproof"
+  },
+  {
+    "description": "Spatial scene graphs and belief state for embodied agents",
+    "id": "sandeep-alluru/polaroid",
+    "language": "Python",
+    "name": "sandeep-alluru/polaroid",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:06:35Z",
+    "url": "https://github.com/sandeep-alluru/polaroid"
+  },
+  {
+    "description": "Action receipts and chain-of-custody for AI agents",
+    "id": "sandeep-alluru/groundcrew",
+    "language": "Python",
+    "name": "sandeep-alluru/groundcrew",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:14:55Z",
+    "url": "https://github.com/sandeep-alluru/groundcrew"
+  },
+  {
+    "description": "Content-addressed GUI action facts for computer-use agents",
+    "id": "sandeep-alluru/clickproof",
+    "language": "Python",
+    "name": "sandeep-alluru/clickproof",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:06:31Z",
+    "url": "https://github.com/sandeep-alluru/clickproof"
+  },
+  {
+    "description": "Canonical trace format and verifier for agent execution attestation",
+    "id": "sandeep-alluru/notarize",
+    "language": "Python",
+    "name": "sandeep-alluru/notarize",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:13:28Z",
+    "url": "https://github.com/sandeep-alluru/notarize"
+  },
+  {
+    "description": "Fact-level staleness detection for AI agent memory",
+    "id": "sandeep-alluru/foghorn",
+    "language": "Python",
+    "name": "sandeep-alluru/foghorn",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:06:28Z",
+    "url": "https://github.com/sandeep-alluru/foghorn"
+  },
+  {
+    "description": "Diff and regression-detect LLM agent execution traces",
+    "id": "sandeep-alluru/agentdelta",
+    "language": "Python",
+    "name": "sandeep-alluru/agentdelta",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:14:49Z",
+    "url": "https://github.com/sandeep-alluru/agentdelta"
+  },
+  {
+    "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
+    "id": "sandeep-alluru/rulegraph",
+    "language": "Python",
+    "name": "sandeep-alluru/rulegraph",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:06:24Z",
+    "url": "https://github.com/sandeep-alluru/rulegraph"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2555,
+    "updated_at": "2026-08-04T07:03:41Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 3,
+    "updated_at": "2026-08-04T07:09:46Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:02:35Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T07:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Middleware for managing LLM context windows in production chat applications. Automatically tracks token usage in real ti",
     "id": "RitikPatill/contextweaver",
     "language": "Python",
@@ -9,20 +180,11 @@
     "url": "https://github.com/RitikPatill/contextweaver"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23899,
-    "updated_at": "2026-08-04T07:00:03Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55486,
+    "stars": 55487,
     "updated_at": "2026-08-04T06:55:32Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -32,7 +194,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21099,
-    "updated_at": "2026-08-04T06:54:36Z",
+    "updated_at": "2026-08-04T07:02:17Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -63,30 +225,12 @@
     "url": "https://github.com/obervinov/readme-spotlight"
   },
   {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 3,
-    "updated_at": "2026-08-04T06:48:11Z",
-    "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2554,
-    "updated_at": "2026-08-04T07:00:25Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3464,
-    "updated_at": "2026-08-04T06:59:09Z",
+    "updated_at": "2026-08-04T07:10:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -97,24 +241,6 @@
     "stars": 17,
     "updated_at": "2026-08-04T06:45:41Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T06:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 13,
-    "updated_at": "2026-08-04T06:40:30Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
@@ -135,22 +261,22 @@
     "url": "https://github.com/domestique-labs/domestique-oss"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27353,
+    "updated_at": "2026-08-04T06:36:56Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
     "id": "acornops/management-console",
     "language": "TypeScript",
     "name": "acornops/management-console",
     "stars": 3,
-    "updated_at": "2026-08-04T06:35:45Z",
+    "updated_at": "2026-08-04T07:04:21Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27354,
-    "updated_at": "2026-08-04T06:36:56Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -160,6 +286,15 @@
     "stars": 74,
     "updated_at": "2026-08-04T06:34:07Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11819,
+    "updated_at": "2026-08-04T06:32:31Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "\u9762\u5411 OA\u3001ERP\u3001CRM\u3001\u5de5\u5355\u7b49\u4f01\u4e1a\u7cfb\u7edf\u5feb\u901f\u6784\u5efa\u667a\u80fd\u4f53\uff0c\u8ba9 AI \u5728\u6743\u9650\u3001\u5ba1\u8ba1\u4e0e\u6cbb\u7406\u7ea6\u675f\u4e0b\u5b89\u5168\u8c03\u7528\u771f\u5b9e\u4e1a\u52a1\u80fd\u529b\u3002Build agents quickly for enterprise systems such as OA, ERP, CR",
@@ -221,7 +356,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5664,
-    "updated_at": "2026-08-04T06:06:59Z",
+    "updated_at": "2026-08-04T07:03:33Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -239,7 +374,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7030,
-    "updated_at": "2026-08-04T06:00:17Z",
+    "updated_at": "2026-08-04T07:09:30Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -313,140 +448,5 @@
     "stars": 78,
     "updated_at": "2026-08-04T05:27:56Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 6,
-    "updated_at": "2026-08-04T06:56:38Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-04T05:08:24Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8160,
-    "updated_at": "2026-08-04T04:58:04Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-04T04:57:46Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32462,
-    "updated_at": "2026-08-04T04:51:00Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 3,
-    "updated_at": "2026-08-04T04:34:46Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-04T04:13:37Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-04T04:11:43Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 44,
-    "updated_at": "2026-08-04T04:04:05Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-08-04T03:46:24Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-08-04T03:38:54Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 48,
-    "updated_at": "2026-08-04T03:25:41Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-08-04T03:23:14Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-08-04T03:14:45Z",
-    "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-08-04T03:14:31Z",
-    "url": "https://github.com/umutkeltek/switchback"
   }
 ]
