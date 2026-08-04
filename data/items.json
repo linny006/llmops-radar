@@ -1,5 +1,50 @@
 [
   {
+    "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
+    "id": "Palo-Alto-AI-Research-Lab/awesome-verified-agents",
+    "language": "\u2014",
+    "name": "Palo-Alto-AI-Research-Lab/awesome-verified-agents",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:54:36Z",
+    "url": "https://github.com/Palo-Alto-AI-Research-Lab/awesome-verified-agents"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-04T15:58:24Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
+    "id": "Josepavese/matrix",
+    "language": "Go",
+    "name": "Josepavese/matrix",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:53:32Z",
+    "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T15:53:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "World-state belief management and contradiction repair for AI agents",
+    "id": "sandeep-alluru/worldoracle",
+    "language": "Python",
+    "name": "sandeep-alluru/worldoracle",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:52:08Z",
+    "url": "https://github.com/sandeep-alluru/worldoracle"
+  },
+  {
     "description": "Economy balance analysis and exploit detection for AI game agents",
     "id": "sandeep-alluru/balancelab",
     "language": "Python",
@@ -99,15 +144,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T15:45:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10896,
-    "updated_at": "2026-08-04T15:38:22Z",
+    "updated_at": "2026-08-04T15:55:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21106,
-    "updated_at": "2026-08-04T15:45:15Z",
+    "updated_at": "2026-08-04T15:58:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T15:27:56Z",
     "url": "https://github.com/sufengx/vera"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-04T15:49:27Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -320,7 +347,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T15:30:06Z",
+    "updated_at": "2026-08-04T15:55:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
-    "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
-    "id": "Palo-Alto-AI-Research-Lab/awesome-verified-agents",
-    "language": "\u2014",
-    "name": "Palo-Alto-AI-Research-Lab/awesome-verified-agents",
-    "stars": 0,
-    "updated_at": "2026-08-04T14:28:03Z",
-    "url": "https://github.com/Palo-Alto-AI-Research-Lab/awesome-verified-agents"
-  },
-  {
     "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
     "id": "changliu2/assert-ai-action",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T14:17:02Z",
     "url": "https://github.com/vul-os/llmux"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-04T14:15:48Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:53:18Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
   }
 ]
