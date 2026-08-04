@@ -1,5 +1,50 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-04T13:22:56Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 11,
+    "updated_at": "2026-08-04T13:18:02Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21104,
+    "updated_at": "2026-08-04T13:17:00Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 85,
+    "updated_at": "2026-08-04T13:16:41Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T13:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Flowise AI Railway Template that come with pre-configured persisted volume, PostGIS & private networking.",
     "id": "Somi-AI/flowiseai-railway",
     "language": "Dockerfile",
@@ -25,24 +70,6 @@
     "stars": 4,
     "updated_at": "2026-08-04T13:10:36Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21105,
-    "updated_at": "2026-08-04T13:14:39Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 85,
-    "updated_at": "2026-08-04T13:13:09Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -90,15 +117,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32486,
-    "updated_at": "2026-08-04T13:14:12Z",
+    "updated_at": "2026-08-04T13:21:55Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -121,7 +139,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29527,
+    "stars": 29526,
     "updated_at": "2026-08-04T12:55:57Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -131,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T13:08:50Z",
+    "updated_at": "2026-08-04T13:18:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -257,7 +275,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2554,
-    "updated_at": "2026-08-04T12:26:50Z",
+    "updated_at": "2026-08-04T13:21:45Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1586,
-    "updated_at": "2026-08-04T13:13:46Z",
+    "updated_at": "2026-08-04T13:19:53Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T11:05:14Z",
     "url": "https://github.com/sandeep-alluru/normsync"
-  },
-  {
-    "description": "Economy balance analysis and exploit detection for AI game agents",
-    "id": "sandeep-alluru/balancelab",
-    "language": "Python",
-    "name": "sandeep-alluru/balancelab",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:05:05Z",
-    "url": "https://github.com/sandeep-alluru/balancelab"
-  },
-  {
-    "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
-    "id": "sandeep-alluru/rulegraph",
-    "language": "Python",
-    "name": "sandeep-alluru/rulegraph",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:04:53Z",
-    "url": "https://github.com/sandeep-alluru/rulegraph"
   }
 ]
