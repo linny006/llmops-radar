@@ -1,21 +1,12 @@
 [
   {
-    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
-    "id": "aktasbatuhan/compound",
+    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
+    "id": "ALLMA-dev/allma-core",
     "language": "TypeScript",
-    "name": "aktasbatuhan/compound",
+    "name": "ALLMA-dev/allma-core",
     "stars": 2,
-    "updated_at": "2026-08-04T21:44:08Z",
-    "url": "https://github.com/aktasbatuhan/compound"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 197,
-    "updated_at": "2026-08-04T21:43:51Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "updated_at": "2026-08-04T21:56:36Z",
+    "url": "https://github.com/ALLMA-dev/allma-core"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -23,8 +14,89 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10899,
-    "updated_at": "2026-08-04T21:44:39Z",
+    "updated_at": "2026-08-04T21:56:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
+    "id": "responsibleai/assert-ai-action",
+    "language": "Python",
+    "name": "responsibleai/assert-ai-action",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:55:36Z",
+    "url": "https://github.com/responsibleai/assert-ai-action"
+  },
+  {
+    "description": "Orchestriq - the kernel for agents that run real operations. Evals, approvals and earned autonomy built into the runtime",
+    "id": "automatiqa-lab/orchestriq",
+    "language": "\u2014",
+    "name": "automatiqa-lab/orchestriq",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:53:44Z",
+    "url": "https://github.com/automatiqa-lab/orchestriq"
+  },
+  {
+    "description": "Generative AI Engineering Portfolio \u2014 RAG, Memory, Agents, LangChain, LangGraph",
+    "id": "chandra-vv/genai_portfolio",
+    "language": "Python",
+    "name": "chandra-vv/genai_portfolio",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:53:16Z",
+    "url": "https://github.com/chandra-vv/genai_portfolio"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55555,
+    "updated_at": "2026-08-04T21:56:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 198,
+    "updated_at": "2026-08-04T21:49:05Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-08-04T21:56:39Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "Benchmark and A/B-test LLM outputs with real statistics \u2014 pluggable metrics, honest verdicts, a dashboard + REST API. Se",
+    "id": "PerinbaBuilds/AI-Evaluation-Pipeline",
+    "language": "Python",
+    "name": "PerinbaBuilds/AI-Evaluation-Pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:47:56Z",
+    "url": "https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:45:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
+    "id": "aktasbatuhan/compound",
+    "language": "TypeScript",
+    "name": "aktasbatuhan/compound",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:44:08Z",
+    "url": "https://github.com/aktasbatuhan/compound"
   },
   {
     "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
@@ -43,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T21:40:16Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Benchmark and A/B-test LLM outputs with real statistics \u2014 pluggable metrics, honest verdicts, a dashboard + REST API. Se",
-    "id": "PerinbaBuilds/AI-Evaluation-Pipeline",
-    "language": "Python",
-    "name": "PerinbaBuilds/AI-Evaluation-Pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:39:50Z",
-    "url": "https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline"
   },
   {
     "description": "Flight recorder for tool-calling LLM agents. Every step captured in an append-only, hash-chained JSONL trace: tamper-evi",
@@ -90,33 +153,6 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55554,
-    "updated_at": "2026-08-04T21:41:36Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
-    "id": "ALLMA-dev/allma-core",
-    "language": "TypeScript",
-    "name": "ALLMA-dev/allma-core",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:17:18Z",
-    "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -148,7 +184,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7046,
+    "stars": 7047,
     "updated_at": "2026-08-04T21:10:47Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -169,15 +205,6 @@
     "stars": 23926,
     "updated_at": "2026-08-04T21:22:42Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-08-04T21:30:07Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "Netflix/metaflow",
     "stars": 10205,
-    "updated_at": "2026-08-04T20:38:51Z",
+    "updated_at": "2026-08-04T21:53:24Z",
     "url": "https://github.com/Netflix/metaflow"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-04T21:39:51Z",
+    "updated_at": "2026-08-04T21:51:58Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T19:23:23Z",
     "url": "https://github.com/changliu2/assert-ai-action"
-  },
-  {
-    "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
-    "id": "paulosalem/weavemark",
-    "language": "Python",
-    "name": "paulosalem/weavemark",
-    "stars": 2,
-    "updated_at": "2026-08-04T19:16:41Z",
-    "url": "https://github.com/paulosalem/weavemark"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:05:44Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:02:44Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
   }
 ]
