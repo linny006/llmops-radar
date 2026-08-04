@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T09:11:04Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mloda-ai/mloda",
+    "stars": 73,
+    "updated_at": "2026-08-04T09:30:04Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2555,
+    "updated_at": "2026-08-04T09:26:51Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -14,17 +23,17 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 13,
-    "updated_at": "2026-08-04T09:09:22Z",
+    "updated_at": "2026-08-04T09:26:51Z",
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21103,
-    "updated_at": "2026-08-04T09:08:47Z",
-    "url": "https://github.com/comet-ml/opik"
+    "description": "Open-source model serving and heterogeneous GPU management platform for enterprise private AI. NVIDIA / Ascend / Cambric",
+    "id": "837515265/llm-serving-platform",
+    "language": "TypeScript",
+    "name": "837515265/llm-serving-platform",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:26:45Z",
+    "url": "https://github.com/837515265/llm-serving-platform"
   },
   {
     "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
@@ -32,8 +41,62 @@
     "language": "TypeScript",
     "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "stars": 4,
-    "updated_at": "2026-08-04T09:06:39Z",
+    "updated_at": "2026-08-04T09:23:53Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-08-04T09:20:08Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32471,
+    "updated_at": "2026-08-04T09:25:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "Nunjucks",
+    "name": "lisn0/tidal",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:18:32Z",
+    "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T09:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+    "id": "traceloop/openllmetry",
+    "language": "Python",
+    "name": "traceloop/openllmetry",
+    "stars": 7353,
+    "updated_at": "2026-08-04T09:11:10Z",
+    "url": "https://github.com/traceloop/openllmetry"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21102,
+    "updated_at": "2026-08-04T09:21:57Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -43,15 +106,6 @@
     "stars": 16,
     "updated_at": "2026-08-04T09:05:08Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "llmcfo",
-    "id": "lisn0/tidal",
-    "language": "Nunjucks",
-    "name": "lisn0/tidal",
-    "stars": 0,
-    "updated_at": "2026-08-04T09:03:58Z",
-    "url": "https://github.com/lisn0/tidal"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -90,15 +144,6 @@
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32470,
-    "updated_at": "2026-08-04T09:09:29Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
     "id": "JoniMartin27/lookspan",
     "language": "TypeScript",
@@ -113,26 +158,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7032,
-    "updated_at": "2026-08-04T09:14:52Z",
+    "updated_at": "2026-08-04T09:29:02Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2555,
-    "updated_at": "2026-08-04T08:59:20Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 73,
-    "updated_at": "2026-08-04T09:10:45Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11822,
-    "updated_at": "2026-08-04T08:29:42Z",
+    "updated_at": "2026-08-04T09:28:26Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -311,7 +338,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T09:14:12Z",
+    "updated_at": "2026-08-04T09:24:58Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -328,7 +355,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8161,
+    "stars": 8162,
     "updated_at": "2026-08-04T07:59:31Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -347,7 +374,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 83,
-    "updated_at": "2026-08-04T09:10:26Z",
+    "updated_at": "2026-08-04T09:26:46Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T07:30:48Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5734,
-    "updated_at": "2026-08-04T08:54:16Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 24,
-    "updated_at": "2026-08-04T07:45:21Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23906,
-    "updated_at": "2026-08-04T07:14:54Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
