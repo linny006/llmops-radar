@@ -1,5 +1,95 @@
 [
   {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 13,
+    "updated_at": "2026-08-04T08:10:29Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 54,
+    "updated_at": "2026-08-04T08:07:55Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "AI Agent Evaluation & Observability Platform",
+    "id": "huzjie/argus-eval",
+    "language": "Python",
+    "name": "huzjie/argus-eval",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:07:17Z",
+    "url": "https://github.com/huzjie/argus-eval"
+  },
+  {
+    "description": "\u7edf\u4e00AI\u7f51\u5173 Unified AI Gateway - \u53ef\u81ea\u6258\u7ba1\u7684LLM API\u7f51\u5173\uff1a\u4e00\u5957OpenAI\u517c\u5bb9\u63a5\u53e3\u5bf9\u63a5Kimi/DeepSeek/MiniMax/OpenAI/Anthropic/Ollama\uff0c\u63d0\u4f9b\u667a\u80fd\u8def\u7531\u3001\u9650\u6d41\u7194\u65ad\u3001\u6210\u672c\u8ffd\u8e2a\u3001",
+    "id": "huzjie/unified-ai-gateway",
+    "language": "TypeScript",
+    "name": "huzjie/unified-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:09:12Z",
+    "url": "https://github.com/huzjie/unified-ai-gateway"
+  },
+  {
+    "description": "LoopForge - \u957f\u7a0b\u81ea\u4e3b\u7f16\u7a0b\u667a\u80fd\u4f53\u7f16\u6392\u4e0e\u6cbb\u7406\u5e73\u53f0 (Long-range autonomous coding agent orchestration & governance platform)",
+    "id": "huzjie/loopforge",
+    "language": "Python",
+    "name": "huzjie/loopforge",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:10:55Z",
+    "url": "https://github.com/huzjie/loopforge"
+  },
+  {
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "Nunjucks",
+    "name": "lisn0/tidal",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:06:15Z",
+    "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7031,
+    "updated_at": "2026-08-04T08:03:19Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3466,
+    "updated_at": "2026-08-04T08:02:10Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Desktop workbench for Claude Code \u2014 live subagent topology, token cost breakdown with drill-down, hook sandbox, config a",
+    "id": "lookfree/cc-harness",
+    "language": "TypeScript",
+    "name": "lookfree/cc-harness",
+    "stars": 45,
+    "updated_at": "2026-08-04T08:01:12Z",
+    "url": "https://github.com/lookfree/cc-harness"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T08:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -7,15 +97,6 @@
     "stars": 16,
     "updated_at": "2026-08-04T07:58:08Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 13,
-    "updated_at": "2026-08-04T07:57:03Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -31,7 +112,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32464,
+    "stars": 32466,
     "updated_at": "2026-08-04T07:56:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -40,7 +121,7 @@
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
-    "stars": 82,
+    "stars": 83,
     "updated_at": "2026-08-04T07:56:26Z",
     "url": "https://github.com/api7/aisix"
   },
@@ -52,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T07:55:45Z",
     "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3465,
-    "updated_at": "2026-08-04T07:49:07Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11820,
-    "updated_at": "2026-08-04T07:47:30Z",
+    "updated_at": "2026-08-04T08:01:10Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-08-04T07:45:54Z",
     "url": "https://github.com/domestique-labs/domestique-oss"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T07:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-04T07:38:59Z",
+    "updated_at": "2026-08-04T08:04:07Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -279,21 +342,12 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "llmcfo",
-    "id": "lisn0/tidal",
-    "language": "Nunjucks",
-    "name": "lisn0/tidal",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:29:47Z",
-    "url": "https://github.com/lisn0/tidal"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5734,
-    "updated_at": "2026-08-04T07:53:11Z",
+    "updated_at": "2026-08-04T08:13:34Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1296,
-    "updated_at": "2026-08-04T07:36:21Z",
+    "updated_at": "2026-08-04T08:06:54Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -338,7 +392,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2555,
-    "updated_at": "2026-08-04T08:00:15Z",
+    "updated_at": "2026-08-04T08:11:50Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -382,7 +436,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55491,
+    "stars": 55495,
     "updated_at": "2026-08-04T06:55:32Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -394,59 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-04T06:50:28Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
-    "id": "obervinov/readme-spotlight",
-    "language": "Go",
-    "name": "obervinov/readme-spotlight",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:50:01Z",
-    "url": "https://github.com/obervinov/readme-spotlight"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 17,
-    "updated_at": "2026-08-04T06:45:41Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
-    "id": "matuteiglesias/kb-contracts",
-    "language": "TypeScript",
-    "name": "matuteiglesias/kb-contracts",
-    "stars": 1,
-    "updated_at": "2026-08-04T06:40:25Z",
-    "url": "https://github.com/matuteiglesias/kb-contracts"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 3,
-    "updated_at": "2026-08-04T07:04:21Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-04T06:34:07Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "\u9762\u5411 OA\u3001ERP\u3001CRM\u3001\u5de5\u5355\u7b49\u4f01\u4e1a\u7cfb\u7edf\u5feb\u901f\u6784\u5efa\u667a\u80fd\u4f53\uff0c\u8ba9 AI \u5728\u6743\u9650\u3001\u5ba1\u8ba1\u4e0e\u6cbb\u7406\u7ea6\u675f\u4e0b\u5b89\u5168\u8c03\u7528\u771f\u5b9e\u4e1a\u52a1\u80fd\u529b\u3002Build agents quickly for enterprise systems such as OA, ERP, CR",
-    "id": "w8123/EnterpriseAgentFramework",
-    "language": "Java",
-    "name": "w8123/EnterpriseAgentFramework",
-    "stars": 519,
-    "updated_at": "2026-08-04T06:32:26Z",
-    "url": "https://github.com/w8123/EnterpriseAgentFramework"
   }
 ]
