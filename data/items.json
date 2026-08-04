@@ -1,5 +1,59 @@
 [
   {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 6,
+    "updated_at": "2026-08-04T05:10:59Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55470,
+    "updated_at": "2026-08-04T05:14:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-04T05:08:24Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27354,
+    "updated_at": "2026-08-04T05:07:04Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-04T05:02:31Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T05:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
     "id": "Yesol-Pilot/neosignal-check",
     "language": "Python",
@@ -14,17 +68,8 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5733,
-    "updated_at": "2026-08-04T04:59:16Z",
+    "updated_at": "2026-08-04T05:15:20Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T04:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
@@ -34,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T04:36:51Z",
     "url": "https://github.com/matuteiglesias/kb-contracts"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55469,
-    "updated_at": "2026-08-04T04:55:14Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -72,13 +108,13 @@
     "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
   },
   {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 6,
-    "updated_at": "2026-08-04T04:49:11Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7025,
+    "updated_at": "2026-08-04T04:15:55Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -88,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T04:13:37Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27353,
-    "updated_at": "2026-08-04T04:12:09Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -140,17 +167,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10882,
-    "updated_at": "2026-08-04T04:52:50Z",
+    "updated_at": "2026-08-04T05:14:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-04T03:48:32Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -187,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T03:38:54Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7024,
-    "updated_at": "2026-08-04T04:15:55Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -439,14 +448,5 @@
     "stars": 21096,
     "updated_at": "2026-08-04T01:01:54Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
-    "id": "api-evangelist/evidently",
-    "language": "\u2014",
-    "name": "api-evangelist/evidently",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:57:58Z",
-    "url": "https://github.com/api-evangelist/evidently"
   }
 ]
