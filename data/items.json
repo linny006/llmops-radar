@@ -1,12 +1,93 @@
 [
   {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-04T20:29:05Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 188,
+    "updated_at": "2026-08-04T20:27:29Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-04T20:14:02Z",
+    "updated_at": "2026-08-04T20:27:23Z",
     "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55548,
+    "updated_at": "2026-08-04T20:28:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A collection of tricks and tools to speed up transformer models",
+    "id": "OpenMachine-ai/transformer-tricks",
+    "language": "TeX",
+    "name": "OpenMachine-ai/transformer-tricks",
+    "stars": 220,
+    "updated_at": "2026-08-04T20:21:56Z",
+    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:21:55Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:18:33Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Action receipts and chain-of-custody for AI agents",
+    "id": "sandeep-alluru/groundcrew",
+    "language": "Python",
+    "name": "sandeep-alluru/groundcrew",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:16:06Z",
+    "url": "https://github.com/sandeep-alluru/groundcrew"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-08-04T20:23:36Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T20:14:40Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55546,
-    "updated_at": "2026-08-04T20:13:11Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Diff and regression-detect LLM agent execution traces",
@@ -68,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10899,
-    "updated_at": "2026-08-04T20:04:53Z",
+    "updated_at": "2026-08-04T20:26:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,15 +151,6 @@
     "stars": 28,
     "updated_at": "2026-08-04T20:03:56Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T20:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-08-04T20:13:44Z",
+    "updated_at": "2026-08-04T20:28:39Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -171,15 +234,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-08-04T19:57:08Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
     "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
     "id": "changliu2/assert-ai-action",
     "language": "Python",
@@ -207,21 +261,12 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 186,
-    "updated_at": "2026-08-04T19:10:09Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7044,
-    "updated_at": "2026-08-04T20:07:30Z",
+    "updated_at": "2026-08-04T20:19:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -315,21 +360,12 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:40:40Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-08-04T18:40:17Z",
+    "updated_at": "2026-08-04T20:24:59Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -340,15 +376,6 @@
     "stars": 4,
     "updated_at": "2026-08-04T18:30:15Z",
     "url": "https://github.com/Amitcoh1/agentbreaker"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:25:31Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T20:14:05Z",
+    "updated_at": "2026-08-04T20:20:00Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21109,
-    "updated_at": "2026-08-04T17:59:42Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "An engineering playbook for experienced software engineers moving into AI Engineering. Architecture, trade-offs, and pro",
-    "id": "mohakhan03uk/enterprise-ai-engineering-playbook",
-    "language": "Mermaid",
-    "name": "mohakhan03uk/enterprise-ai-engineering-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:51:59Z",
-    "url": "https://github.com/mohakhan03uk/enterprise-ai-engineering-playbook"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:03:00Z",
-    "url": "https://github.com/dshakes/clickllm"
   }
 ]
