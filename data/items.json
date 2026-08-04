@@ -1,11 +1,47 @@
 [
   {
+    "description": "LLM quality gates for every PR \u2014 run @eval_case suites automatically and block merge if quality drops below threshold",
+    "id": "SynapseKit/evalci",
+    "language": "Python",
+    "name": "SynapseKit/evalci",
+    "stars": 3,
+    "updated_at": "2026-08-04T20:33:25Z",
+    "url": "https://github.com/SynapseKit/evalci"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55548,
+    "updated_at": "2026-08-04T20:39:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Build, Manage and Deploy AI/ML Systems",
+    "id": "Netflix/metaflow",
+    "language": "Python",
+    "name": "Netflix/metaflow",
+    "stars": 10205,
+    "updated_at": "2026-08-04T20:38:51Z",
+    "url": "https://github.com/Netflix/metaflow"
+  },
+  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-04T20:29:05Z",
+    "updated_at": "2026-08-04T20:36:47Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -13,7 +49,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 188,
+    "stars": 190,
     "updated_at": "2026-08-04T20:27:29Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -23,17 +59,8 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-04T20:27:23Z",
+    "updated_at": "2026-08-04T20:36:08Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55548,
-    "updated_at": "2026-08-04T20:28:41Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A collection of tricks and tools to speed up transformer models",
@@ -77,17 +104,8 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-04T20:23:36Z",
+    "updated_at": "2026-08-04T20:42:06Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T20:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10899,
-    "updated_at": "2026-08-04T20:26:15Z",
+    "updated_at": "2026-08-04T20:36:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-08-04T20:28:39Z",
+    "updated_at": "2026-08-04T20:37:12Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -301,7 +319,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27364,
+    "stars": 27365,
     "updated_at": "2026-08-04T18:59:30Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T18:05:47Z",
     "url": "https://github.com/homayoun-safarpour/rag-eval-service"
-  },
-  {
-    "description": "Playbook pr\u00e1tico para estruturar, governar e evoluir Centros de Excel\u00eancia em IA (AI CoE), com artigo principal, artefat",
-    "id": "EdneiMonteiro/ai-coe-playbook",
-    "language": "HTML",
-    "name": "EdneiMonteiro/ai-coe-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:01:21Z",
-    "url": "https://github.com/EdneiMonteiro/ai-coe-playbook"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3466,
-    "updated_at": "2026-08-04T20:20:00Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
