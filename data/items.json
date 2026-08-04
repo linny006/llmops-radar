@@ -1,5 +1,95 @@
 [
   {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 73,
+    "updated_at": "2026-08-04T20:14:02Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:14:40Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55546,
+    "updated_at": "2026-08-04T20:13:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Diff and regression-detect LLM agent execution traces",
+    "id": "sandeep-alluru/agentdelta",
+    "language": "Python",
+    "name": "sandeep-alluru/agentdelta",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:12:53Z",
+    "url": "https://github.com/sandeep-alluru/agentdelta"
+  },
+  {
+    "description": "Full Portkey Admin API MCP server",
+    "id": "CodesWhat/portkey-admin-mcp",
+    "language": "TypeScript",
+    "name": "CodesWhat/portkey-admin-mcp",
+    "stars": 5,
+    "updated_at": "2026-08-04T20:09:15Z",
+    "url": "https://github.com/CodesWhat/portkey-admin-mcp"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:08:12Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-04T20:07:33Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10899,
+    "updated_at": "2026-08-04T20:04:53Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 28,
+    "updated_at": "2026-08-04T20:03:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
     "id": "runtm-ai/runtm",
     "language": "Python",
@@ -16,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T20:00:24Z",
     "url": "https://github.com/Prathamg042004/tokensave"
-  },
-  {
-    "description": "Full Portkey Admin API MCP server",
-    "id": "CodesWhat/portkey-admin-mcp",
-    "language": "TypeScript",
-    "name": "CodesWhat/portkey-admin-mcp",
-    "stars": 5,
-    "updated_at": "2026-08-04T19:57:53Z",
-    "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
     "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
@@ -45,21 +126,12 @@
     "url": "https://github.com/NicoGrassetto/Cosmopilot"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10898,
-    "updated_at": "2026-08-04T19:59:45Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-08-04T19:46:13Z",
+    "updated_at": "2026-08-04T20:13:44Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -70,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T19:45:59Z",
     "url": "https://github.com/arthursilas-ai/agent-preflight"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 28,
-    "updated_at": "2026-08-04T19:45:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T19:45:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -117,15 +171,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55543,
-    "updated_at": "2026-08-04T19:59:43Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
     "id": "EffortlessMetrics/tokmd",
     "language": "Rust",
@@ -133,24 +178,6 @@
     "stars": 5,
     "updated_at": "2026-08-04T19:57:08Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 73,
-    "updated_at": "2026-08-04T19:59:39Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-04T19:52:55Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8167,
-    "updated_at": "2026-08-04T19:12:50Z",
+    "updated_at": "2026-08-04T20:12:46Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7044,
-    "updated_at": "2026-08-04T19:56:49Z",
+    "updated_at": "2026-08-04T20:07:30Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -283,7 +310,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23925,
+    "stars": 23926,
     "updated_at": "2026-08-04T18:40:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1587,
-    "updated_at": "2026-08-04T19:51:09Z",
+    "updated_at": "2026-08-04T20:06:39Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -392,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T19:50:56Z",
+    "updated_at": "2026-08-04T20:14:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T18:03:00Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1131,
-    "updated_at": "2026-08-04T18:09:58Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Agent-agnostic evidence-bound memory and handoff side-car for multi-agent systems. Claims carry checksummed excerpts \u2014 v",
-    "id": "rivastava/EvidenceSpine",
-    "language": "Python",
-    "name": "rivastava/EvidenceSpine",
-    "stars": 2,
-    "updated_at": "2026-08-04T17:41:46Z",
-    "url": "https://github.com/rivastava/EvidenceSpine"
-  },
-  {
-    "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
-    "id": "obervinov/readme-spotlight",
-    "language": "Go",
-    "name": "obervinov/readme-spotlight",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:36:02Z",
-    "url": "https://github.com/obervinov/readme-spotlight"
   }
 ]
