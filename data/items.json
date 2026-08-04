@@ -1,12 +1,66 @@
 [
   {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 546,
+    "updated_at": "2026-08-04T21:29:55Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10899,
+    "updated_at": "2026-08-04T21:29:28Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Benchmark and A/B-test LLM outputs with real statistics \u2014 pluggable metrics, honest verdicts, a dashboard + REST API. Se",
+    "id": "PerinbaBuilds/AI-Evaluation-Pipeline",
+    "language": "Python",
+    "name": "PerinbaBuilds/AI-Evaluation-Pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:26:14Z",
+    "url": "https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55553,
-    "updated_at": "2026-08-04T21:14:39Z",
+    "stars": 55554,
+    "updated_at": "2026-08-04T21:30:11Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
+    "id": "ALLMA-dev/allma-core",
+    "language": "TypeScript",
+    "name": "ALLMA-dev/allma-core",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:17:18Z",
+    "url": "https://github.com/ALLMA-dev/allma-core"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-04T21:16:42Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Applied AI, automation, evaluation, and production reliability.",
@@ -50,17 +104,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23926,
-    "updated_at": "2026-08-04T21:13:27Z",
+    "updated_at": "2026-08-04T21:22:42Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-04T21:07:47Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -77,7 +122,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-04T21:11:14Z",
+    "updated_at": "2026-08-04T21:30:07Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:00:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
     "id": "Traigent/tvl",
     "language": "Python",
@@ -122,7 +158,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-08-04T20:58:27Z",
+    "updated_at": "2026-08-04T21:25:43Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -131,17 +167,8 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-04T20:55:17Z",
+    "updated_at": "2026-08-04T21:19:25Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10899,
-    "updated_at": "2026-08-04T20:54:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-04T20:59:03Z",
+    "updated_at": "2026-08-04T21:25:51Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -292,7 +319,7 @@
     "id": "runtm-ai/runtm",
     "language": "Python",
     "name": "runtm-ai/runtm",
-    "stars": 288,
+    "stars": 289,
     "updated_at": "2026-08-04T19:59:29Z",
     "url": "https://github.com/runtm-ai/runtm"
   },
@@ -349,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T19:16:41Z",
     "url": "https://github.com/paulosalem/weavemark"
-  },
-  {
-    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
-    "id": "ALLMA-dev/allma-core",
-    "language": "TypeScript",
-    "name": "ALLMA-dev/allma-core",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:14:11Z",
-    "url": "https://github.com/ALLMA-dev/allma-core"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -419,7 +437,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-08-04T20:59:07Z",
+    "updated_at": "2026-08-04T21:20:19Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T18:40:48Z",
     "url": "https://github.com/aktasbatuhan/compound"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-08-04T20:24:59Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
-    "id": "Amitcoh1/agentbreaker",
-    "language": "TypeScript",
-    "name": "Amitcoh1/agentbreaker",
-    "stars": 4,
-    "updated_at": "2026-08-04T18:30:15Z",
-    "url": "https://github.com/Amitcoh1/agentbreaker"
   }
 ]
