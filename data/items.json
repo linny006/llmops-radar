@@ -1,5 +1,122 @@
 [
   {
+    "description": "An engineering playbook for experienced software engineers moving into AI Engineering. Architecture, trade-offs, and pro",
+    "id": "mohakhan03uk/enterprise-ai-engineering-playbook",
+    "language": "Mermaid",
+    "name": "mohakhan03uk/enterprise-ai-engineering-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:28:15Z",
+    "url": "https://github.com/mohakhan03uk/enterprise-ai-engineering-playbook"
+  },
+  {
+    "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
+    "id": "sufengx/vera",
+    "language": "Go",
+    "name": "sufengx/vera",
+    "stars": 2,
+    "updated_at": "2026-08-04T15:27:56Z",
+    "url": "https://github.com/sufengx/vera"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-04T15:30:20Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-04T15:26:45Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-04T15:25:33Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:20:54Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 364,
+    "updated_at": "2026-08-04T15:20:16Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 70,
+    "updated_at": "2026-08-04T15:19:07Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23917,
+    "updated_at": "2026-08-04T15:25:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10895,
+    "updated_at": "2026-08-04T15:22:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T15:15:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-04T15:14:54Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
+    "id": "pragmatiks/pragma-providers",
+    "language": "Python",
+    "name": "pragmatiks/pragma-providers",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:14:28Z",
+    "url": "https://github.com/pragmatiks/pragma-providers"
+  },
+  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -32,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T15:06:46Z",
+    "updated_at": "2026-08-04T15:30:06Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -43,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-08-04T15:02:20Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T15:00:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -68,7 +176,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32495,
-    "updated_at": "2026-08-04T15:14:05Z",
+    "updated_at": "2026-08-04T15:26:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -104,7 +212,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7042,
-    "updated_at": "2026-08-04T15:06:52Z",
+    "updated_at": "2026-08-04T15:29:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -113,17 +221,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21106,
-    "updated_at": "2026-08-04T15:06:18Z",
+    "updated_at": "2026-08-04T15:27:43Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
-    "id": "sufengx/vera",
-    "language": "Go",
-    "name": "sufengx/vera",
-    "stars": 2,
-    "updated_at": "2026-08-04T14:53:12Z",
-    "url": "https://github.com/sufengx/vera"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -131,7 +230,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-04T15:01:46Z",
+    "updated_at": "2026-08-04T15:21:52Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -139,7 +238,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29526,
+    "stars": 29527,
     "updated_at": "2026-08-04T14:51:01Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -149,17 +248,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27358,
-    "updated_at": "2026-08-04T14:50:51Z",
+    "updated_at": "2026-08-04T15:28:53Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 70,
-    "updated_at": "2026-08-04T14:50:24Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -176,17 +266,8 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-04T14:56:43Z",
+    "updated_at": "2026-08-04T15:27:25Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10894,
-    "updated_at": "2026-08-04T14:48:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -342,15 +423,6 @@
     "url": "https://github.com/signal-layer-labs/signal-layer-agentic-rag-workbench"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-04T13:01:56Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -358,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T13:00:40Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:58:20Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
@@ -378,24 +441,6 @@
     "url": "https://github.com/Traigent/tvl"
   },
   {
-    "description": "An engineering playbook for experienced software engineers moving into AI Engineering. Architecture, trade-offs, and pro",
-    "id": "mohakhan03uk/enterprise-ai-engineering-playbook",
-    "language": "Mermaid",
-    "name": "mohakhan03uk/enterprise-ai-engineering-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:50:52Z",
-    "url": "https://github.com/mohakhan03uk/enterprise-ai-engineering-playbook"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-04T15:14:54Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-04T12:49:25Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 546,
-    "updated_at": "2026-08-04T14:40:33Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 6,
-    "updated_at": "2026-08-04T12:40:59Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
-    "id": "msanket9/stillsane",
-    "language": "Python",
-    "name": "msanket9/stillsane",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:26:40Z",
-    "url": "https://github.com/msanket9/stillsane"
-  },
-  {
-    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
-    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:23:29Z",
-    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5665,
-    "updated_at": "2026-08-04T12:18:14Z",
-    "url": "https://github.com/coze-dev/coze-loop"
   }
 ]
