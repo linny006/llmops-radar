@@ -1,11 +1,83 @@
 [
   {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 6,
+    "updated_at": "2026-08-04T08:56:09Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 13,
+    "updated_at": "2026-08-04T08:58:41Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32470,
+    "updated_at": "2026-08-04T08:52:10Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 385,
+    "updated_at": "2026-08-04T08:51:20Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-04T08:51:07Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21101,
+    "updated_at": "2026-08-04T08:58:31Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7032,
+    "updated_at": "2026-08-04T08:46:18Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T08:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2555,
-    "updated_at": "2026-08-04T08:38:44Z",
+    "updated_at": "2026-08-04T08:59:20Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T08:38:21Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32468,
-    "updated_at": "2026-08-04T08:37:40Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -99,24 +162,6 @@
     "url": "https://github.com/sandeep-alluru/polaroid"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 13,
-    "updated_at": "2026-08-04T08:31:13Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21101,
-    "updated_at": "2026-08-04T08:38:05Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
     "id": "sandeep-alluru/agentcrdt",
     "language": "Python",
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T08:30:27Z",
     "url": "https://github.com/sandeep-alluru/groundcrew"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T08:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Content-addressed GUI action facts for computer-use agents",
@@ -187,15 +223,6 @@
     "stars": 27353,
     "updated_at": "2026-08-04T08:19:50Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7031,
-    "updated_at": "2026-08-04T08:18:26Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -248,7 +275,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T08:41:43Z",
+    "updated_at": "2026-08-04T08:58:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 83,
-    "updated_at": "2026-08-04T07:56:26Z",
+    "updated_at": "2026-08-04T08:46:53Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T07:39:04Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 385,
-    "updated_at": "2026-08-04T08:44:30Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5734,
-    "updated_at": "2026-08-04T08:45:09Z",
+    "updated_at": "2026-08-04T08:54:16Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -394,15 +412,6 @@
     "stars": 24,
     "updated_at": "2026-08-04T07:45:21Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 6,
-    "updated_at": "2026-08-04T08:36:32Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -419,7 +428,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1296,
-    "updated_at": "2026-08-04T08:36:37Z",
+    "updated_at": "2026-08-04T08:58:42Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T07:02:35Z",
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "Middleware for managing LLM context windows in production chat applications. Automatically tracks token usage in real ti",
-    "id": "RitikPatill/contextweaver",
-    "language": "Python",
-    "name": "RitikPatill/contextweaver",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:57:35Z",
-    "url": "https://github.com/RitikPatill/contextweaver"
   }
 ]
