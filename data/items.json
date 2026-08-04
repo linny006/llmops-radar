@@ -1,5 +1,113 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55560,
+    "updated_at": "2026-08-04T23:14:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "CairnOps \u2014 AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea",
+    "id": "Hilalalpak/CairnOps",
+    "language": "Python",
+    "name": "Hilalalpak/CairnOps",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:12:07Z",
+    "url": "https://github.com/Hilalalpak/CairnOps"
+  },
+  {
+    "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
+    "id": "responsibleai/assert-ai-action",
+    "language": "Python",
+    "name": "responsibleai/assert-ai-action",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:10:03Z",
+    "url": "https://github.com/responsibleai/assert-ai-action"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-04T23:06:37Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "World-state belief management and contradiction repair for AI agents",
+    "id": "sandeep-alluru/worldoracle",
+    "language": "Python",
+    "name": "sandeep-alluru/worldoracle",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:05:25Z",
+    "url": "https://github.com/sandeep-alluru/worldoracle"
+  },
+  {
+    "description": "Norm monitoring and violation detection for AI agent actions",
+    "id": "sandeep-alluru/normsync",
+    "language": "Python",
+    "name": "sandeep-alluru/normsync",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:05:17Z",
+    "url": "https://github.com/sandeep-alluru/normsync"
+  },
+  {
+    "description": "Economy balance analysis and exploit detection for AI game agents",
+    "id": "sandeep-alluru/balancelab",
+    "language": "Python",
+    "name": "sandeep-alluru/balancelab",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:05:07Z",
+    "url": "https://github.com/sandeep-alluru/balancelab"
+  },
+  {
+    "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
+    "id": "sandeep-alluru/rulegraph",
+    "language": "Python",
+    "name": "sandeep-alluru/rulegraph",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:04:56Z",
+    "url": "https://github.com/sandeep-alluru/rulegraph"
+  },
+  {
+    "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
+    "id": "sandeep-alluru/humanproof",
+    "language": "Python",
+    "name": "sandeep-alluru/humanproof",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:04:35Z",
+    "url": "https://github.com/sandeep-alluru/humanproof"
+  },
+  {
+    "description": "Spatial scene graphs and belief state for embodied agents",
+    "id": "sandeep-alluru/polaroid",
+    "language": "Python",
+    "name": "sandeep-alluru/polaroid",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:04:25Z",
+    "url": "https://github.com/sandeep-alluru/polaroid"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T23:03:54Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
+    "id": "sandeep-alluru/agentcrdt",
+    "language": "Python",
+    "name": "sandeep-alluru/agentcrdt",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:03:52Z",
+    "url": "https://github.com/sandeep-alluru/agentcrdt"
+  },
+  {
     "description": "Action receipts and chain-of-custody for AI agents",
     "id": "sandeep-alluru/groundcrew",
     "language": "Python",
@@ -54,15 +162,6 @@
     "url": "https://github.com/sandeep-alluru/agentdelta"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T23:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
     "id": "alinafe82/cognitive-deadlift",
     "language": "Python",
@@ -70,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T23:02:39Z",
     "url": "https://github.com/alinafe82/cognitive-deadlift"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-04T22:59:21Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -99,21 +189,12 @@
     "url": "https://github.com/Mrg77/tfforge"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55558,
-    "updated_at": "2026-08-04T22:58:06Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-08-04T22:40:44Z",
+    "updated_at": "2026-08-04T23:09:57Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -167,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3467,
-    "updated_at": "2026-08-04T22:58:31Z",
+    "updated_at": "2026-08-04T23:10:35Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -243,15 +324,6 @@
     "url": "https://github.com/Panchalvedant13/prompt-contract-ci"
   },
   {
-    "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
-    "id": "responsibleai/assert-ai-action",
-    "language": "Python",
-    "name": "responsibleai/assert-ai-action",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:58:09Z",
-    "url": "https://github.com/responsibleai/assert-ai-action"
-  },
-  {
     "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
     "id": "ALLMA-dev/allma-core",
     "language": "TypeScript",
@@ -283,7 +355,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 199,
+    "stars": 200,
     "updated_at": "2026-08-04T21:49:05Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -376,77 +448,5 @@
     "stars": 28,
     "updated_at": "2026-08-04T21:01:00Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:59:10Z",
-    "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-04T21:19:25Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:49:50Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 364,
-    "updated_at": "2026-08-04T21:14:58Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Runnable Python, TypeScript and .NET examples for tracking LLM cost across 15+ providers with the AI SpendOps proxy.",
-    "id": "AI-SpendOps/examples",
-    "language": "C#",
-    "name": "AI-SpendOps/examples",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:45:25Z",
-    "url": "https://github.com/AI-SpendOps/examples"
-  },
-  {
-    "description": "LLM quality gates for every PR \u2014 run @eval_case suites automatically and block merge if quality drops below threshold",
-    "id": "SynapseKit/evalci",
-    "language": "Python",
-    "name": "SynapseKit/evalci",
-    "stars": 3,
-    "updated_at": "2026-08-04T20:33:25Z",
-    "url": "https://github.com/SynapseKit/evalci"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10205,
-    "updated_at": "2026-08-04T22:12:32Z",
-    "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 73,
-    "updated_at": "2026-08-04T22:07:31Z",
-    "url": "https://github.com/mloda-ai/mloda"
   }
 ]
