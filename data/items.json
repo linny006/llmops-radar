@@ -1,39 +1,111 @@
 [
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Middleware for managing LLM context windows in production chat applications. Automatically tracks token usage in real ti",
+    "id": "RitikPatill/contextweaver",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21099,
-    "updated_at": "2026-08-04T06:44:03Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 10,
-    "updated_at": "2026-08-04T06:45:02Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55482,
-    "updated_at": "2026-08-04T06:45:04Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "RitikPatill/contextweaver",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:57:35Z",
+    "url": "https://github.com/RitikPatill/contextweaver"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23898,
-    "updated_at": "2026-08-04T06:44:14Z",
+    "stars": 23899,
+    "updated_at": "2026-08-04T07:00:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55486,
+    "updated_at": "2026-08-04T06:55:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21099,
+    "updated_at": "2026-08-04T06:54:36Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Turn your own model evaluation results into an explainable routing policy with an explicit quality-loss budget. Local, k",
+    "id": "RitikPatill/routefoundry",
+    "language": "Python",
+    "name": "RitikPatill/routefoundry",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:52:11Z",
+    "url": "https://github.com/RitikPatill/routefoundry"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 11,
+    "updated_at": "2026-08-04T06:50:28Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
+    "id": "obervinov/readme-spotlight",
+    "language": "Go",
+    "name": "obervinov/readme-spotlight",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:50:01Z",
+    "url": "https://github.com/obervinov/readme-spotlight"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 3,
+    "updated_at": "2026-08-04T06:48:11Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2554,
+    "updated_at": "2026-08-04T07:00:25Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3464,
+    "updated_at": "2026-08-04T06:59:09Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 17,
+    "updated_at": "2026-08-04T06:45:41Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T06:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -54,15 +126,6 @@
     "url": "https://github.com/matuteiglesias/kb-contracts"
   },
   {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 3,
-    "updated_at": "2026-08-04T06:38:43Z",
-    "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
     "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
     "id": "domestique-labs/domestique-oss",
     "language": "Python",
@@ -79,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T06:35:45Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Turn your own model evaluation results into an explainable routing policy with an explicit quality-loss budget. Local, k",
-    "id": "RitikPatill/routefoundry",
-    "language": "Python",
-    "name": "RitikPatill/routefoundry",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:35:38Z",
-    "url": "https://github.com/RitikPatill/routefoundry"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -126,15 +180,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T06:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Feature flag platform for AI features: percentage-based gradual rollout with continuous quality monitoring and automatic",
     "id": "wycliffeoleti/ai-feature-flags",
     "language": "Python",
@@ -160,15 +205,6 @@
     "stars": 5734,
     "updated_at": "2026-08-04T06:13:24Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2554,
-    "updated_at": "2026-08-04T06:35:01Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -202,7 +238,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7029,
+    "stars": 7030,
     "updated_at": "2026-08-04T06:00:17Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -284,7 +320,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 6,
-    "updated_at": "2026-08-04T05:10:59Z",
+    "updated_at": "2026-08-04T06:56:38Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -319,7 +355,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32461,
+    "stars": 32462,
     "updated_at": "2026-08-04T04:51:00Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T03:14:31Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "AI Agent hooks for LLM Observability.",
-    "id": "HikaruEgashira/otel-hooks",
-    "language": "Python",
-    "name": "HikaruEgashira/otel-hooks",
-    "stars": 8,
-    "updated_at": "2026-08-04T03:02:52Z",
-    "url": "https://github.com/HikaruEgashira/otel-hooks"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-08-04T02:38:34Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Deterministic release-gate evaluation for AI products and Agents",
-    "id": "magicyao2028-pixel/ai-product-agent-evaluation-lab",
-    "language": "Python",
-    "name": "magicyao2028-pixel/ai-product-agent-evaluation-lab",
-    "stars": 0,
-    "updated_at": "2026-08-04T02:37:49Z",
-    "url": "https://github.com/magicyao2028-pixel/ai-product-agent-evaluation-lab"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-08-04T04:13:50Z",
-    "url": "https://github.com/a-novel/service-genai"
   }
 ]
