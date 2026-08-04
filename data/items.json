@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 13,
+    "updated_at": "2026-08-04T03:39:29Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-08-04T03:38:54Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55466,
+    "updated_at": "2026-08-04T03:35:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T03:35:11Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
     "id": "EffortlessMetrics/tokmd",
     "language": "Rust",
@@ -14,35 +50,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-08-04T03:31:16Z",
+    "updated_at": "2026-08-04T03:44:56Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-04T03:30:44Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T03:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55464,
-    "updated_at": "2026-08-04T03:28:37Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -50,8 +59,17 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27353,
-    "updated_at": "2026-08-04T03:29:04Z",
+    "updated_at": "2026-08-04T03:37:11Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2553,
+    "updated_at": "2026-08-04T03:44:59Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10882,
-    "updated_at": "2026-08-04T03:30:48Z",
+    "updated_at": "2026-08-04T03:44:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7023,
-    "updated_at": "2026-08-04T03:04:47Z",
+    "updated_at": "2026-08-04T03:35:40Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -149,17 +167,8 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5733,
-    "updated_at": "2026-08-04T03:22:18Z",
+    "updated_at": "2026-08-04T03:40:31Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2552,
-    "updated_at": "2026-08-04T03:26:36Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -383,7 +392,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 109,
-    "updated_at": "2026-08-04T03:30:21Z",
+    "updated_at": "2026-08-04T03:38:40Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "naturaljam/SpanVouch",
     "stars": 1,
-    "updated_at": "2026-08-04T00:54:29Z",
+    "updated_at": "2026-08-04T03:37:47Z",
     "url": "https://github.com/naturaljam/SpanVouch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T00:44:54Z",
     "url": "https://github.com/api-evangelist/braintrust-data"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 28,
-    "updated_at": "2026-08-04T00:34:07Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   }
 ]
