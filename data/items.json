@@ -1,12 +1,21 @@
 [
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
+    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
+    "id": "aktasbatuhan/compound",
+    "language": "TypeScript",
+    "name": "aktasbatuhan/compound",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:44:08Z",
+    "url": "https://github.com/aktasbatuhan/compound"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
     "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 546,
-    "updated_at": "2026-08-04T21:29:55Z",
-    "url": "https://github.com/mikehasa/agentacct"
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 197,
+    "updated_at": "2026-08-04T21:43:51Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10899,
-    "updated_at": "2026-08-04T21:29:28Z",
+    "updated_at": "2026-08-04T21:44:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:41:41Z",
+    "url": "https://github.com/aimd54/palan"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-04T21:40:16Z",
+    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Benchmark and A/B-test LLM outputs with real statistics \u2014 pluggable metrics, honest verdicts, a dashboard + REST API. Se",
@@ -23,8 +50,53 @@
     "language": "Python",
     "name": "PerinbaBuilds/AI-Evaluation-Pipeline",
     "stars": 0,
-    "updated_at": "2026-08-04T21:26:14Z",
+    "updated_at": "2026-08-04T21:39:50Z",
     "url": "https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline"
+  },
+  {
+    "description": "Flight recorder for tool-calling LLM agents. Every step captured in an append-only, hash-chained JSONL trace: tamper-evi",
+    "id": "Panchalvedant13/agent-flight-recorder",
+    "language": "Python",
+    "name": "Panchalvedant13/agent-flight-recorder",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:36:23Z",
+    "url": "https://github.com/Panchalvedant13/agent-flight-recorder"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2556,
+    "updated_at": "2026-08-04T21:32:33Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-04T21:31:59Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 546,
+    "updated_at": "2026-08-04T21:31:26Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55554,
-    "updated_at": "2026-08-04T21:30:11Z",
+    "updated_at": "2026-08-04T21:41:36Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -52,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T21:16:42Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Applied AI, automation, evaluation, and production reliability.",
@@ -108,15 +171,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 197,
-    "updated_at": "2026-08-04T21:05:37Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
     "id": "EffortlessMetrics/tokmd",
     "language": "Rust",
@@ -124,6 +178,15 @@
     "stars": 5,
     "updated_at": "2026-08-04T21:30:07Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8168,
+    "updated_at": "2026-08-04T21:02:41Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": " CI gate for RAG retrieval quality. Declares retrievers (TF-IDF, FAISS dense, BM25, hybrid RRF) in config, evaluates rec",
@@ -221,7 +284,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-04T21:25:51Z",
+    "updated_at": "2026-08-04T21:39:51Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -277,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T20:12:53Z",
     "url": "https://github.com/sandeep-alluru/agentdelta"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8167,
-    "updated_at": "2026-08-04T21:02:41Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Full Portkey Admin API MCP server",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T19:02:44Z",
     "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27365,
-    "updated_at": "2026-08-04T18:59:30Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
-    "id": "sargentfragrant429/AgentAccessManager",
-    "language": "\u2014",
-    "name": "sargentfragrant429/AgentAccessManager",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:51:36Z",
-    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:48:43Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-04T18:47:12Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-04T21:20:19Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
-    "id": "aktasbatuhan/compound",
-    "language": "TypeScript",
-    "name": "aktasbatuhan/compound",
-    "stars": 2,
-    "updated_at": "2026-08-04T18:40:48Z",
-    "url": "https://github.com/aktasbatuhan/compound"
   }
 ]
