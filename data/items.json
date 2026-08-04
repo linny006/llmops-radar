@@ -1,12 +1,174 @@
 [
   {
+    "description": "Canonical trace format and verifier for agent execution attestation",
+    "id": "sandeep-alluru/notarize",
+    "language": "Python",
+    "name": "sandeep-alluru/notarize",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:29:44Z",
+    "url": "https://github.com/sandeep-alluru/notarize"
+  },
+  {
+    "description": "Diff and regression-detect LLM agent execution traces",
+    "id": "sandeep-alluru/agentdelta",
+    "language": "Python",
+    "name": "sandeep-alluru/agentdelta",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:27:48Z",
+    "url": "https://github.com/sandeep-alluru/agentdelta"
+  },
+  {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
     "id": "off-grid-ai/OGAC",
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 13,
-    "updated_at": "2026-08-04T08:10:29Z",
+    "updated_at": "2026-08-04T08:30:15Z",
     "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "World-state belief management and contradiction repair for AI agents",
+    "id": "sandeep-alluru/worldoracle",
+    "language": "Python",
+    "name": "sandeep-alluru/worldoracle",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:24:04Z",
+    "url": "https://github.com/sandeep-alluru/worldoracle"
+  },
+  {
+    "description": "Norm monitoring and violation detection for AI agent actions",
+    "id": "sandeep-alluru/normsync",
+    "language": "Python",
+    "name": "sandeep-alluru/normsync",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:23:54Z",
+    "url": "https://github.com/sandeep-alluru/normsync"
+  },
+  {
+    "description": "Economy balance analysis and exploit detection for AI game agents",
+    "id": "sandeep-alluru/balancelab",
+    "language": "Python",
+    "name": "sandeep-alluru/balancelab",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:23:42Z",
+    "url": "https://github.com/sandeep-alluru/balancelab"
+  },
+  {
+    "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
+    "id": "sandeep-alluru/rulegraph",
+    "language": "Python",
+    "name": "sandeep-alluru/rulegraph",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:23:29Z",
+    "url": "https://github.com/sandeep-alluru/rulegraph"
+  },
+  {
+    "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
+    "id": "sandeep-alluru/humanproof",
+    "language": "Python",
+    "name": "sandeep-alluru/humanproof",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:23:05Z",
+    "url": "https://github.com/sandeep-alluru/humanproof"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2555,
+    "updated_at": "2026-08-04T08:23:01Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Spatial scene graphs and belief state for embodied agents",
+    "id": "sandeep-alluru/polaroid",
+    "language": "Python",
+    "name": "sandeep-alluru/polaroid",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:22:53Z",
+    "url": "https://github.com/sandeep-alluru/polaroid"
+  },
+  {
+    "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
+    "id": "sandeep-alluru/agentcrdt",
+    "language": "Python",
+    "name": "sandeep-alluru/agentcrdt",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:22:13Z",
+    "url": "https://github.com/sandeep-alluru/agentcrdt"
+  },
+  {
+    "description": "Action receipts and chain-of-custody for AI agents",
+    "id": "sandeep-alluru/groundcrew",
+    "language": "Python",
+    "name": "sandeep-alluru/groundcrew",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:21:31Z",
+    "url": "https://github.com/sandeep-alluru/groundcrew"
+  },
+  {
+    "description": "Content-addressed GUI action facts for computer-use agents",
+    "id": "sandeep-alluru/clickproof",
+    "language": "Python",
+    "name": "sandeep-alluru/clickproof",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:30:18Z",
+    "url": "https://github.com/sandeep-alluru/clickproof"
+  },
+  {
+    "description": "Fact-level staleness detection for AI agent memory",
+    "id": "sandeep-alluru/foghorn",
+    "language": "Python",
+    "name": "sandeep-alluru/foghorn",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:29:29Z",
+    "url": "https://github.com/sandeep-alluru/foghorn"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27353,
+    "updated_at": "2026-08-04T08:19:50Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7032,
+    "updated_at": "2026-08-04T08:18:26Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32467,
+    "updated_at": "2026-08-04T08:28:17Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11821,
+    "updated_at": "2026-08-04T08:29:42Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T08:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
@@ -54,21 +216,12 @@
     "url": "https://github.com/lisn0/tidal"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7031,
-    "updated_at": "2026-08-04T08:03:19Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T08:02:10Z",
+    "updated_at": "2026-08-04T08:30:00Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -79,15 +232,6 @@
     "stars": 45,
     "updated_at": "2026-08-04T08:01:12Z",
     "url": "https://github.com/lookfree/cc-harness"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T08:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -104,17 +248,8 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1061,
-    "updated_at": "2026-08-04T08:00:01Z",
+    "updated_at": "2026-08-04T08:27:20Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32466,
-    "updated_at": "2026-08-04T07:56:51Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -144,15 +279,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11820,
-    "updated_at": "2026-08-04T08:01:10Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
     "id": "domestique-labs/domestique-oss",
     "language": "Python",
@@ -160,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-08-04T07:45:54Z",
     "url": "https://github.com/domestique-labs/domestique-oss"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27353,
-    "updated_at": "2026-08-04T07:39:27Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -185,7 +302,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-04T08:04:07Z",
+    "updated_at": "2026-08-04T08:15:57Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -194,7 +311,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-04T07:59:42Z",
+    "updated_at": "2026-08-04T08:28:30Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -223,114 +340,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T07:34:54Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Fact-level staleness detection for AI agent memory",
-    "id": "sandeep-alluru/foghorn",
-    "language": "Python",
-    "name": "sandeep-alluru/foghorn",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:34:07Z",
-    "url": "https://github.com/sandeep-alluru/foghorn"
-  },
-  {
-    "description": "World-state belief management and contradiction repair for AI agents",
-    "id": "sandeep-alluru/worldoracle",
-    "language": "Python",
-    "name": "sandeep-alluru/worldoracle",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:33:44Z",
-    "url": "https://github.com/sandeep-alluru/worldoracle"
-  },
-  {
-    "description": "Norm monitoring and violation detection for AI agent actions",
-    "id": "sandeep-alluru/normsync",
-    "language": "Python",
-    "name": "sandeep-alluru/normsync",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:33:43Z",
-    "url": "https://github.com/sandeep-alluru/normsync"
-  },
-  {
-    "description": "Economy balance analysis and exploit detection for AI game agents",
-    "id": "sandeep-alluru/balancelab",
-    "language": "Python",
-    "name": "sandeep-alluru/balancelab",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:33:41Z",
-    "url": "https://github.com/sandeep-alluru/balancelab"
-  },
-  {
-    "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
-    "id": "sandeep-alluru/rulegraph",
-    "language": "Python",
-    "name": "sandeep-alluru/rulegraph",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:33:40Z",
-    "url": "https://github.com/sandeep-alluru/rulegraph"
-  },
-  {
-    "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
-    "id": "sandeep-alluru/humanproof",
-    "language": "Python",
-    "name": "sandeep-alluru/humanproof",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:33:39Z",
-    "url": "https://github.com/sandeep-alluru/humanproof"
-  },
-  {
-    "description": "Spatial scene graphs and belief state for embodied agents",
-    "id": "sandeep-alluru/polaroid",
-    "language": "Python",
-    "name": "sandeep-alluru/polaroid",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:33:37Z",
-    "url": "https://github.com/sandeep-alluru/polaroid"
-  },
-  {
-    "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
-    "id": "sandeep-alluru/agentcrdt",
-    "language": "Python",
-    "name": "sandeep-alluru/agentcrdt",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:33:36Z",
-    "url": "https://github.com/sandeep-alluru/agentcrdt"
-  },
-  {
-    "description": "Action receipts and chain-of-custody for AI agents",
-    "id": "sandeep-alluru/groundcrew",
-    "language": "Python",
-    "name": "sandeep-alluru/groundcrew",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:33:35Z",
-    "url": "https://github.com/sandeep-alluru/groundcrew"
-  },
-  {
-    "description": "Content-addressed GUI action facts for computer-use agents",
-    "id": "sandeep-alluru/clickproof",
-    "language": "Python",
-    "name": "sandeep-alluru/clickproof",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:33:33Z",
-    "url": "https://github.com/sandeep-alluru/clickproof"
-  },
-  {
-    "description": "Canonical trace format and verifier for agent execution attestation",
-    "id": "sandeep-alluru/notarize",
-    "language": "Python",
-    "name": "sandeep-alluru/notarize",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:33:32Z",
-    "url": "https://github.com/sandeep-alluru/notarize"
-  },
-  {
-    "description": "Diff and regression-detect LLM agent execution traces",
-    "id": "sandeep-alluru/agentdelta",
-    "language": "Python",
-    "name": "sandeep-alluru/agentdelta",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:33:30Z",
-    "url": "https://github.com/sandeep-alluru/agentdelta"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -383,17 +392,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1296,
-    "updated_at": "2026-08-04T08:06:54Z",
+    "updated_at": "2026-08-04T08:18:54Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2555,
-    "updated_at": "2026-08-04T08:11:50Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
@@ -418,8 +418,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21100,
-    "updated_at": "2026-08-04T07:02:17Z",
+    "stars": 21101,
+    "updated_at": "2026-08-04T08:30:20Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -436,7 +436,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55495,
+    "stars": 55499,
     "updated_at": "2026-08-04T06:55:32Z",
     "url": "https://github.com/BerriAI/litellm"
   },
