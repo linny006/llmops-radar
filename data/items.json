@@ -1,12 +1,84 @@
 [
   {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-08-04T22:24:42Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
+    "id": "JumpMasters/tollgate",
+    "language": "Python",
+    "name": "JumpMasters/tollgate",
+    "stars": 0,
+    "updated_at": "2026-08-04T22:24:34Z",
+    "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1131,
+    "updated_at": "2026-08-04T22:22:41Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-04T22:21:08Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55555,
+    "updated_at": "2026-08-04T22:29:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 546,
+    "updated_at": "2026-08-04T22:18:38Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Benchmark and A/B-test LLM outputs with real statistics \u2014 pluggable metrics, honest verdicts, a dashboard + REST API. Se",
+    "id": "PerinbaBuilds/AI-Evaluation-Pipeline",
+    "language": "Python",
+    "name": "PerinbaBuilds/AI-Evaluation-Pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-04T22:16:16Z",
+    "url": "https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline"
+  },
+  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-08-04T22:15:03Z",
+    "updated_at": "2026-08-04T22:15:43Z",
     "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T22:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -36,21 +108,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 546,
-    "updated_at": "2026-08-04T22:10:48Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10899,
-    "updated_at": "2026-08-04T22:05:45Z",
+    "updated_at": "2026-08-04T22:30:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55555,
-    "updated_at": "2026-08-04T22:14:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Contract testing for LLM structured outputs. YAML contracts bind JSON Schema, semantic invariants (sums, source-text spa",
     "id": "Panchalvedant13/prompt-contract-ci",
     "language": "Python",
@@ -79,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T22:01:29Z",
     "url": "https://github.com/Panchalvedant13/prompt-contract-ci"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T22:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Benchmark and A/B-test LLM outputs with real statistics \u2014 pluggable metrics, honest verdicts, a dashboard + REST API. Se",
-    "id": "PerinbaBuilds/AI-Evaluation-Pipeline",
-    "language": "Python",
-    "name": "PerinbaBuilds/AI-Evaluation-Pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:58:45Z",
-    "url": "https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline"
   },
   {
     "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
@@ -144,15 +180,6 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-08-04T22:06:45Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
     "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
     "id": "aktasbatuhan/compound",
     "language": "TypeScript",
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T21:41:41Z",
     "url": "https://github.com/aimd54/palan"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-04T22:11:40Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Flight recorder for tool-calling LLM agents. Every step captured in an append-only, hash-chained JSONL trace: tamper-evi",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T20:00:24Z",
     "url": "https://github.com/Prathamg042004/tokensave"
-  },
-  {
-    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
-    "id": "NicoGrassetto/Cosmopilot",
-    "language": "Python",
-    "name": "NicoGrassetto/Cosmopilot",
-    "stars": 1,
-    "updated_at": "2026-08-04T19:54:03Z",
-    "url": "https://github.com/NicoGrassetto/Cosmopilot"
-  },
-  {
-    "description": "Deterministic pre-deployment checks for AI agent systems. Blocks unsafe designs before they ship.",
-    "id": "arthursilas-ai/agent-preflight",
-    "language": "Python",
-    "name": "arthursilas-ai/agent-preflight",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:45:59Z",
-    "url": "https://github.com/arthursilas-ai/agent-preflight"
   }
 ]
