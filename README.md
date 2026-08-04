@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2554 | C++ | 2026-08-04 | Community maintained hardware plugin for vLLM on Ascend |
-| 2 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 13 | TypeScript | 2026-08-04 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55479 | Python | 2026-08-04 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5664 | Go | 2026-08-04 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
-| 5 | [RitikPatill/routefoundry](https://github.com/RitikPatill/routefoundry) | 0 | Python | 2026-08-04 | Turn your own model evaluation results into an explainable routing policy with an explicit quality-loss budget. Local, k |
-| 6 | [Ratnesh-181998/Resume-and-Social-Profiles](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles) | 1 | — | 2026-08-04 | Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [RitikPatill/routefoundry](https://github.com/RitikPatill/routefoundry) | 0 | Python | 2026-08-04 | Turn your own model evaluation results into an explainable routing policy with an explicit quality-loss budget. Local, k |
+| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2554 | C++ | 2026-08-04 | Community maintained hardware plugin for vLLM on Ascend |
+| 4 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 13 | TypeScript | 2026-08-04 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55479 | Python | 2026-08-04 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 6 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5664 | Go | 2026-08-04 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
+| 7 | [Ratnesh-181998/Resume-and-Social-Profiles](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles) | 1 | — | 2026-08-04 | Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i |
 | 8 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7026 | Go | 2026-08-04 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 9 | [wycliffeoleti/ai-feature-flags](https://github.com/wycliffeoleti/ai-feature-flags) | 0 | Python | 2026-08-04 | Feature flag platform for AI features: percentage-based gradual rollout with continuous quality monitoring and automatic |
 | 10 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 5 | JavaScript | 2026-08-04 | ThakiCloud Tech Blog |
