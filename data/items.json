@@ -1,12 +1,93 @@
 [
   {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:59:10Z",
+    "url": "https://github.com/Traigent/tvl"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-08-04T20:58:27Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-04T20:55:17Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10899,
+    "updated_at": "2026-08-04T20:54:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55551,
+    "updated_at": "2026-08-04T20:58:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:49:50Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 364,
+    "updated_at": "2026-08-04T20:48:20Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 28,
+    "updated_at": "2026-08-04T20:45:42Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-04T20:42:40Z",
+    "updated_at": "2026-08-04T20:45:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Runnable Python, TypeScript and .NET examples for tracking LLM cost across 15+ providers with the AI SpendOps proxy.",
+    "id": "AI-SpendOps/examples",
+    "language": "C#",
+    "name": "AI-SpendOps/examples",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:45:25Z",
+    "url": "https://github.com/AI-SpendOps/examples"
   },
   {
     "description": "LLM quality gates for every PR \u2014 run @eval_case suites automatically and block merge if quality drops below threshold",
@@ -18,15 +99,6 @@
     "url": "https://github.com/SynapseKit/evalci"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55548,
-    "updated_at": "2026-08-04T20:44:17Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Build, Manage and Deploy AI/ML Systems",
     "id": "Netflix/metaflow",
     "language": "Python",
@@ -36,20 +108,11 @@
     "url": "https://github.com/Netflix/metaflow"
   },
   {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-04T20:36:47Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 190,
+    "stars": 192,
     "updated_at": "2026-08-04T20:27:29Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-04T20:36:08Z",
+    "updated_at": "2026-08-04T20:59:03Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -126,6 +189,15 @@
     "url": "https://github.com/sandeep-alluru/agentdelta"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8167,
+    "updated_at": "2026-08-04T20:12:46Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Full Portkey Admin API MCP server",
     "id": "CodesWhat/portkey-admin-mcp",
     "language": "TypeScript",
@@ -153,24 +225,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10899,
-    "updated_at": "2026-08-04T20:43:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 28,
-    "updated_at": "2026-08-04T20:03:56Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
     "id": "runtm-ai/runtm",
     "language": "Python",
@@ -187,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T20:00:24Z",
     "url": "https://github.com/Prathamg042004/tokensave"
-  },
-  {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:57:01Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
     "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
@@ -268,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T19:16:41Z",
     "url": "https://github.com/paulosalem/weavemark"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8167,
-    "updated_at": "2026-08-04T20:12:46Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -356,7 +392,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-08-04T18:43:13Z",
+    "updated_at": "2026-08-04T20:59:07Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T18:22:48Z",
     "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:12:05Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1587,
-    "updated_at": "2026-08-04T20:06:39Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 2,
-    "updated_at": "2026-08-04T18:26:08Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
-    "description": "FastAPI RAG evaluation service with frozen-metric regression gate",
-    "id": "homayoun-safarpour/rag-eval-service",
-    "language": "Python",
-    "name": "homayoun-safarpour/rag-eval-service",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:05:47Z",
-    "url": "https://github.com/homayoun-safarpour/rag-eval-service"
   }
 ]
