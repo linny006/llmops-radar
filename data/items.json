@@ -1,12 +1,57 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10899,
+    "updated_at": "2026-08-04T23:30:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55560,
-    "updated_at": "2026-08-04T23:14:08Z",
+    "updated_at": "2026-08-04T23:29:52Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-04T23:23:44Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:25:23Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
+    "id": "alinafe82/cognitive-deadlift",
+    "language": "Python",
+    "name": "alinafe82/cognitive-deadlift",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:25:22Z",
+    "url": "https://github.com/alinafe82/cognitive-deadlift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T23:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "CairnOps \u2014 AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea",
@@ -90,15 +135,6 @@
     "url": "https://github.com/sandeep-alluru/polaroid"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T23:03:54Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
     "id": "sandeep-alluru/agentcrdt",
     "language": "Python",
@@ -162,24 +198,6 @@
     "url": "https://github.com/sandeep-alluru/agentdelta"
   },
   {
-    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
-    "id": "alinafe82/cognitive-deadlift",
-    "language": "Python",
-    "name": "alinafe82/cognitive-deadlift",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:02:39Z",
-    "url": "https://github.com/alinafe82/cognitive-deadlift"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10899,
-    "updated_at": "2026-08-04T22:57:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
     "id": "Mrg77/tfforge",
     "language": "Go",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-08-04T23:09:57Z",
+    "updated_at": "2026-08-04T23:23:04Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-04T22:33:05Z",
+    "updated_at": "2026-08-04T23:21:32Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -248,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3467,
-    "updated_at": "2026-08-04T23:10:35Z",
+    "updated_at": "2026-08-04T23:26:09Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-08-04T22:15:43Z",
+    "updated_at": "2026-08-04T23:16:49Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 8168,
     "updated_at": "2026-08-04T22:40:20Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": " CI gate for RAG retrieval quality. Declares retrievers (TF-IDF, FAISS dense, BM25, hybrid RRF) in config, evaluates rec",
-    "id": "Panchalvedant13/rag-eval-harness",
-    "language": "Python",
-    "name": "Panchalvedant13/rag-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:02:24Z",
-    "url": "https://github.com/Panchalvedant13/rag-eval-harness"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 28,
-    "updated_at": "2026-08-04T21:01:00Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   }
 ]
