@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 21:57 UTC
+> ⏰ Last updated: 2026-08-04 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ALLMA-dev/allma-core](https://github.com/ALLMA-dev/allma-core) | 2 | TypeScript | 2026-08-04 | Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda — build, version & time-travel-deb |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10899 | Python | 2026-08-04 | AI Observability & Evaluation |
+| 1 | [PerinbaBuilds/AI-Evaluation-Pipeline](https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline) | 0 | Python | 2026-08-04 | Benchmark and A/B-test LLM outputs with real statistics — pluggable metrics, honest verdicts, a dashboard + REST API. Se |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55555 | Python | 2026-08-04 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 3 | [responsibleai/assert-ai-action](https://github.com/responsibleai/assert-ai-action) | 0 | Python | 2026-08-04 | Run ASSERT evals in CI and gate pull requests on paired safety regressions. |
-| 4 | [automatiqa-lab/orchestriq](https://github.com/automatiqa-lab/orchestriq) | 0 | — | 2026-08-04 | Orchestriq - the kernel for agents that run real operations. Evals, approvals and earned autonomy built into the runtime |
-| 5 | [chandra-vv/genai_portfolio](https://github.com/chandra-vv/genai_portfolio) | 2 | Python | 2026-08-04 | Generative AI Engineering Portfolio — RAG, Memory, Agents, LangChain, LangGraph |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55555 | Python | 2026-08-04 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 7 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 198 | Python | 2026-08-04 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 8 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-08-04 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
-| 9 | [PerinbaBuilds/AI-Evaluation-Pipeline](https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline) | 0 | Python | 2026-08-04 | Benchmark and A/B-test LLM outputs with real statistics — pluggable metrics, honest verdicts, a dashboard + REST API. Se |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [ALLMA-dev/allma-core](https://github.com/ALLMA-dev/allma-core) | 2 | TypeScript | 2026-08-04 | Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda — build, version & time-travel-deb |
+| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10899 | Python | 2026-08-04 | AI Observability & Evaluation |
+| 7 | [automatiqa-lab/orchestriq](https://github.com/automatiqa-lab/orchestriq) | 0 | — | 2026-08-04 | The kernel for agents that run real operations. Evals, approvals, earned autonomy and EU AI Act transparency live in the |
+| 8 | [chandra-vv/genai_portfolio](https://github.com/chandra-vv/genai_portfolio) | 2 | Python | 2026-08-04 | Generative AI Engineering Portfolio — RAG, Memory, Agents, LangChain, LangGraph |
+| 9 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 198 | Python | 2026-08-04 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 10 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-08-04 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
 | 11 | [aktasbatuhan/compound](https://github.com/aktasbatuhan/compound) | 2 | TypeScript | 2026-08-04 | Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de |
 | 12 | [aimd54/palan](https://github.com/aimd54/palan) | 0 | Go | 2026-08-04 | Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary. |
 | 13 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-08-04 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |

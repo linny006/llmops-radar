@@ -1,11 +1,47 @@
 [
   {
+    "description": "Benchmark and A/B-test LLM outputs with real statistics \u2014 pluggable metrics, honest verdicts, a dashboard + REST API. Se",
+    "id": "PerinbaBuilds/AI-Evaluation-Pipeline",
+    "language": "Python",
+    "name": "PerinbaBuilds/AI-Evaluation-Pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:58:45Z",
+    "url": "https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55555,
+    "updated_at": "2026-08-04T21:59:33Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
+    "id": "responsibleai/assert-ai-action",
+    "language": "Python",
+    "name": "responsibleai/assert-ai-action",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:58:09Z",
+    "url": "https://github.com/responsibleai/assert-ai-action"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:57:05Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
     "id": "ALLMA-dev/allma-core",
     "language": "TypeScript",
     "name": "ALLMA-dev/allma-core",
     "stars": 2,
-    "updated_at": "2026-08-04T21:56:36Z",
+    "updated_at": "2026-08-04T21:57:36Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
   },
   {
@@ -14,20 +50,11 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10899,
-    "updated_at": "2026-08-04T21:56:00Z",
+    "updated_at": "2026-08-04T21:57:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
-    "id": "responsibleai/assert-ai-action",
-    "language": "Python",
-    "name": "responsibleai/assert-ai-action",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:55:36Z",
-    "url": "https://github.com/responsibleai/assert-ai-action"
-  },
-  {
-    "description": "Orchestriq - the kernel for agents that run real operations. Evals, approvals and earned autonomy built into the runtime",
+    "description": "The kernel for agents that run real operations. Evals, approvals, earned autonomy and EU AI Act transparency live in the",
     "id": "automatiqa-lab/orchestriq",
     "language": "\u2014",
     "name": "automatiqa-lab/orchestriq",
@@ -43,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T21:53:16Z",
     "url": "https://github.com/chandra-vv/genai_portfolio"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55555,
-    "updated_at": "2026-08-04T21:56:43Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -70,24 +88,6 @@
     "stars": 5,
     "updated_at": "2026-08-04T21:56:39Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "Benchmark and A/B-test LLM outputs with real statistics \u2014 pluggable metrics, honest verdicts, a dashboard + REST API. Se",
-    "id": "PerinbaBuilds/AI-Evaluation-Pipeline",
-    "language": "Python",
-    "name": "PerinbaBuilds/AI-Evaluation-Pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:47:56Z",
-    "url": "https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-04T21:51:58Z",
+    "updated_at": "2026-08-04T21:59:04Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
