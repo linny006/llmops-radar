@@ -1,39 +1,57 @@
 [
   {
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-04T13:55:49Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10892,
+    "updated_at": "2026-08-04T13:58:45Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-04T13:53:18Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-04T13:55:21Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29526,
+    "updated_at": "2026-08-04T13:58:57Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-08-04T13:43:24Z",
+    "updated_at": "2026-08-04T13:51:10Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
-    "id": "NicoGrassetto/Cosmopilot",
-    "language": "Python",
-    "name": "NicoGrassetto/Cosmopilot",
-    "stars": 1,
-    "updated_at": "2026-08-04T13:43:07Z",
-    "url": "https://github.com/NicoGrassetto/Cosmopilot"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32490,
-    "updated_at": "2026-08-04T13:43:16Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7037,
-    "updated_at": "2026-08-04T13:38:51Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -41,8 +59,62 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 12,
-    "updated_at": "2026-08-04T13:35:08Z",
+    "updated_at": "2026-08-04T13:51:02Z",
     "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 10,
+    "updated_at": "2026-08-04T13:47:13Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
+    "id": "NicoGrassetto/Cosmopilot",
+    "language": "Python",
+    "name": "NicoGrassetto/Cosmopilot",
+    "stars": 1,
+    "updated_at": "2026-08-04T13:46:46Z",
+    "url": "https://github.com/NicoGrassetto/Cosmopilot"
+  },
+  {
+    "description": "Open-source model serving and heterogeneous GPU management platform for enterprise private AI. NVIDIA / Ascend / Cambric",
+    "id": "837515265/llm-serving-platform",
+    "language": "TypeScript",
+    "name": "837515265/llm-serving-platform",
+    "stars": 1,
+    "updated_at": "2026-08-04T13:46:42Z",
+    "url": "https://github.com/837515265/llm-serving-platform"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7038,
+    "updated_at": "2026-08-04T13:57:50Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T13:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32491,
+    "updated_at": "2026-08-04T13:55:03Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A structure-aware, local prompt compressor and context optimizer for LLM pipelines.",
@@ -59,26 +131,8 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 85,
-    "updated_at": "2026-08-04T13:38:31Z",
+    "updated_at": "2026-08-04T13:47:28Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-04T13:44:12Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21104,
-    "updated_at": "2026-08-04T13:42:22Z",
+    "updated_at": "2026-08-04T13:59:46Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -124,6 +178,15 @@
     "stars": 11,
     "updated_at": "2026-08-04T13:18:02Z",
     "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27358,
+    "updated_at": "2026-08-04T13:08:56Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A traceable agentic RAG system that connects business questions to documents, PostgreSQL data, MCP tools, and auditable ",
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-04T13:03:53Z",
+    "updated_at": "2026-08-04T13:55:27Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -180,21 +243,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29526,
-    "updated_at": "2026-08-04T12:55:57Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T13:43:33Z",
+    "updated_at": "2026-08-04T13:55:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-04T13:38:45Z",
+    "updated_at": "2026-08-04T13:58:15Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -268,15 +322,6 @@
     "stars": 6,
     "updated_at": "2026-08-04T12:40:59Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:38:11Z",
-    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-04T13:38:22Z",
+    "updated_at": "2026-08-04T13:48:37Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T11:45:41Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
-    "id": "genieincodebottle/aiml-companion",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/aiml-companion",
-    "stars": 62,
-    "updated_at": "2026-08-04T11:39:52Z",
-    "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 109,
-    "updated_at": "2026-08-04T12:07:06Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:33:16Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
-    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
-    "id": "Mrg77/tfforge",
-    "language": "Go",
-    "name": "Mrg77/tfforge",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:31:57Z",
-    "url": "https://github.com/Mrg77/tfforge"
-  },
-  {
-    "description": "Python SDK for LLM guardrails with safety classification, PII detection, prompt injection defense, and grounding checks.",
-    "id": "atliq/guardex-ai",
-    "language": "Python",
-    "name": "atliq/guardex-ai",
-    "stars": 22,
-    "updated_at": "2026-08-04T11:24:33Z",
-    "url": "https://github.com/atliq/guardex-ai"
   }
 ]
