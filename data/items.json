@@ -1,5 +1,86 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23885,
+    "updated_at": "2026-08-04T02:14:45Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-08-04T02:14:13Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55457,
+    "updated_at": "2026-08-04T02:14:42Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27353,
+    "updated_at": "2026-08-04T02:09:55Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-04T02:09:02Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "RAG-based framework for automated incident diagnosis: retrieves relevant runbooks, post-mortems, and past tickets to gen",
+    "id": "Abmun/rag-aiops-incident-diagnosis",
+    "language": "Python",
+    "name": "Abmun/rag-aiops-incident-diagnosis",
+    "stars": 1,
+    "updated_at": "2026-08-04T02:08:04Z",
+    "url": "https://github.com/Abmun/rag-aiops-incident-diagnosis"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:10:43Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2551,
+    "updated_at": "2026-08-04T02:07:48Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T02:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
     "id": "okfriansyah-moh/the-foundry",
     "language": "Go",
@@ -9,15 +90,6 @@
     "url": "https://github.com/okfriansyah-moh/the-foundry"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55455,
-    "updated_at": "2026-08-04T01:58:42Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -25,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T01:56:55Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-04T01:55:16Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -54,21 +117,12 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23885,
-    "updated_at": "2026-08-04T01:59:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
     "id": "memoturn/memoturn",
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-08-04T02:00:16Z",
+    "updated_at": "2026-08-04T02:08:04Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T01:49:18Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T01:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor",
@@ -106,15 +151,6 @@
     "stars": 48,
     "updated_at": "2026-08-04T01:40:15Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2551,
-    "updated_at": "2026-08-04T01:37:22Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine le",
@@ -175,7 +211,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7020,
+    "stars": 7021,
     "updated_at": "2026-08-04T01:24:50Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -196,6 +232,15 @@
     "stars": 10880,
     "updated_at": "2026-08-04T01:38:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8157,
+    "updated_at": "2026-08-04T01:21:05Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -259,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T00:54:21Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:52:40Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
     "description": "Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube",
@@ -410,43 +446,7 @@
     "language": "JavaScript",
     "name": "avikalpg/byok-relay",
     "stars": 54,
-    "updated_at": "2026-08-04T00:05:05Z",
+    "updated_at": "2026-08-04T02:05:37Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 1,
-    "updated_at": "2026-08-04T01:09:05Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Applied AI, automation, evaluation, and production reliability.",
-    "id": "JoaoToni12/JoaoToni12",
-    "language": "\u2014",
-    "name": "JoaoToni12/JoaoToni12",
-    "stars": 0,
-    "updated_at": "2026-08-03T23:59:25Z",
-    "url": "https://github.com/JoaoToni12/JoaoToni12"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-08-03T23:41:54Z",
-    "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
-    "id": "golikovichev/pytest-resilience-agent",
-    "language": "Python",
-    "name": "golikovichev/pytest-resilience-agent",
-    "stars": 0,
-    "updated_at": "2026-08-03T23:19:30Z",
-    "url": "https://github.com/golikovichev/pytest-resilience-agent"
   }
 ]
