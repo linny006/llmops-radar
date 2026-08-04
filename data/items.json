@@ -1,11 +1,74 @@
 [
   {
+    "description": "Action receipts and chain-of-custody for AI agents",
+    "id": "sandeep-alluru/groundcrew",
+    "language": "Python",
+    "name": "sandeep-alluru/groundcrew",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:03:17Z",
+    "url": "https://github.com/sandeep-alluru/groundcrew"
+  },
+  {
+    "description": "Content-addressed GUI action facts for computer-use agents",
+    "id": "sandeep-alluru/clickproof",
+    "language": "Python",
+    "name": "sandeep-alluru/clickproof",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:03:08Z",
+    "url": "https://github.com/sandeep-alluru/clickproof"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-04T23:02:56Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Canonical trace format and verifier for agent execution attestation",
+    "id": "sandeep-alluru/notarize",
+    "language": "Python",
+    "name": "sandeep-alluru/notarize",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:02:38Z",
+    "url": "https://github.com/sandeep-alluru/notarize"
+  },
+  {
+    "description": "Fact-level staleness detection for AI agent memory",
+    "id": "sandeep-alluru/foghorn",
+    "language": "Python",
+    "name": "sandeep-alluru/foghorn",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:02:26Z",
+    "url": "https://github.com/sandeep-alluru/foghorn"
+  },
+  {
+    "description": "Diff and regression-detect LLM agent execution traces",
+    "id": "sandeep-alluru/agentdelta",
+    "language": "Python",
+    "name": "sandeep-alluru/agentdelta",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:00:37Z",
+    "url": "https://github.com/sandeep-alluru/agentdelta"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T23:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
     "id": "alinafe82/cognitive-deadlift",
     "language": "Python",
     "name": "alinafe82/cognitive-deadlift",
     "stars": 0,
-    "updated_at": "2026-08-04T22:59:24Z",
+    "updated_at": "2026-08-04T23:02:39Z",
     "url": "https://github.com/alinafe82/cognitive-deadlift"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T22:52:48Z",
     "url": "https://github.com/Mrg77/tfforge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T22:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -297,15 +351,6 @@
     "url": "https://github.com/JoaoToni12/JoaoToni12"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-04T21:12:04Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -403,50 +448,5 @@
     "stars": 73,
     "updated_at": "2026-08-04T22:07:31Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "A collection of tricks and tools to speed up transformer models",
-    "id": "OpenMachine-ai/transformer-tricks",
-    "language": "TeX",
-    "name": "OpenMachine-ai/transformer-tricks",
-    "stars": 220,
-    "updated_at": "2026-08-04T20:21:56Z",
-    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
-  },
-  {
-    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:18:33Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "Action receipts and chain-of-custody for AI agents",
-    "id": "sandeep-alluru/groundcrew",
-    "language": "Python",
-    "name": "sandeep-alluru/groundcrew",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:16:06Z",
-    "url": "https://github.com/sandeep-alluru/groundcrew"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:14:40Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Diff and regression-detect LLM agent execution traces",
-    "id": "sandeep-alluru/agentdelta",
-    "language": "Python",
-    "name": "sandeep-alluru/agentdelta",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:12:53Z",
-    "url": "https://github.com/sandeep-alluru/agentdelta"
   }
 ]
