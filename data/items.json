@@ -1,5 +1,68 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27353,
+    "updated_at": "2026-08-04T02:57:57Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55461,
+    "updated_at": "2026-08-04T02:57:29Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:55:18Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-04T02:53:14Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2552,
+    "updated_at": "2026-08-04T02:48:33Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 1,
+    "updated_at": "2026-08-04T02:46:30Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T02:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
     "id": "Yesol-Pilot/neosignal-check",
     "language": "Python",
@@ -27,40 +90,13 @@
     "url": "https://github.com/magicyao2028-pixel/ai-product-agent-evaluation-lab"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-04T02:32:48Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23887,
+    "stars": 23889,
     "updated_at": "2026-08-04T02:32:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T02:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55458,
-    "updated_at": "2026-08-04T02:44:42Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -72,15 +108,6 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27353,
-    "updated_at": "2026-08-04T02:09:55Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "RAG-based framework for automated incident diagnosis: retrieves relevant runbooks, post-mortems, and past tickets to gen",
     "id": "Abmun/rag-aiops-incident-diagnosis",
     "language": "Python",
@@ -88,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T02:08:04Z",
     "url": "https://github.com/Abmun/rag-aiops-incident-diagnosis"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2551,
-    "updated_at": "2026-08-04T02:07:48Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
@@ -117,15 +135,6 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-04T02:35:25Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -133,15 +142,6 @@
     "stars": 82,
     "updated_at": "2026-08-04T01:52:12Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-08-04T02:30:47Z",
-    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
@@ -176,7 +176,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 48,
-    "updated_at": "2026-08-04T02:24:34Z",
+    "updated_at": "2026-08-04T02:54:21Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -247,7 +247,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7021,
+    "stars": 7022,
     "updated_at": "2026-08-04T01:24:50Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -292,7 +292,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21093,
+    "stars": 21094,
     "updated_at": "2026-08-04T01:01:54Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 2,
-    "updated_at": "2026-08-04T02:44:34Z",
+    "updated_at": "2026-08-04T02:50:16Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -391,7 +391,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29519,
+    "stars": 29520,
     "updated_at": "2026-08-04T00:23:01Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -428,7 +428,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 6,
-    "updated_at": "2026-08-04T00:17:34Z",
+    "updated_at": "2026-08-04T03:00:07Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
