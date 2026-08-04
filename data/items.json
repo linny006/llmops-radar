@@ -1,5 +1,86 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2554,
+    "updated_at": "2026-08-04T06:12:53Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 13,
+    "updated_at": "2026-08-04T06:11:43Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55479,
+    "updated_at": "2026-08-04T06:10:40Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5664,
+    "updated_at": "2026-08-04T06:06:59Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Turn your own model evaluation results into an explainable routing policy with an explicit quality-loss budget. Local, k",
+    "id": "RitikPatill/routefoundry",
+    "language": "Python",
+    "name": "RitikPatill/routefoundry",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:14:49Z",
+    "url": "https://github.com/RitikPatill/routefoundry"
+  },
+  {
+    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
+    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
+    "language": "\u2014",
+    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
+    "stars": 1,
+    "updated_at": "2026-08-04T06:02:59Z",
+    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T06:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7026,
+    "updated_at": "2026-08-04T06:00:17Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Feature flag platform for AI features: percentage-based gradual rollout with continuous quality monitoring and automatic",
+    "id": "wycliffeoleti/ai-feature-flags",
+    "language": "Python",
+    "name": "wycliffeoleti/ai-feature-flags",
+    "stars": 0,
+    "updated_at": "2026-08-04T05:59:45Z",
+    "url": "https://github.com/wycliffeoleti/ai-feature-flags"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -13,7 +94,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23897,
+    "stars": 23898,
     "updated_at": "2026-08-04T05:54:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -32,35 +113,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10885,
-    "updated_at": "2026-08-04T05:52:45Z",
+    "updated_at": "2026-08-04T06:07:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Turn your own model evaluation results into an explainable routing policy with an explicit quality-loss budget. Local, k",
-    "id": "RitikPatill/routefoundry",
-    "language": "Python",
-    "name": "RitikPatill/routefoundry",
-    "stars": 0,
-    "updated_at": "2026-08-04T05:48:03Z",
-    "url": "https://github.com/RitikPatill/routefoundry"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T05:45:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55475,
-    "updated_at": "2026-08-04T05:52:57Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Circuit breaker + hierarchical dollar budget for LangGraph agents. In-process, no proxy.",
@@ -90,15 +144,6 @@
     "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 13,
-    "updated_at": "2026-08-04T05:35:56Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -106,15 +151,6 @@
     "stars": 28,
     "updated_at": "2026-08-04T05:33:48Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
-    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "stars": 1,
-    "updated_at": "2026-08-04T05:32:28Z",
-    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -149,17 +185,8 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5733,
-    "updated_at": "2026-08-04T05:57:53Z",
+    "updated_at": "2026-08-04T06:13:24Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7025,
-    "updated_at": "2026-08-04T06:00:17Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
@@ -198,6 +225,15 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8160,
+    "updated_at": "2026-08-04T04:58:04Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
     "id": "Yesol-Pilot/neosignal-check",
     "language": "Python",
@@ -211,7 +247,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32460,
+    "stars": 32461,
     "updated_at": "2026-08-04T04:51:00Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -279,15 +315,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2553,
-    "updated_at": "2026-08-04T03:44:59Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -304,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T03:23:14Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8159,
-    "updated_at": "2026-08-04T04:58:04Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1583,
-    "updated_at": "2026-08-04T05:56:47Z",
+    "updated_at": "2026-08-04T06:09:29Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T01:40:16Z",
     "url": "https://github.com/api-evangelist/tensorzero"
-  },
-  {
-    "description": "Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine le",
-    "id": "api-evangelist/seldon",
-    "language": "\u2014",
-    "name": "api-evangelist/seldon",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:33:30Z",
-    "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3482,
-    "updated_at": "2026-08-04T01:36:52Z",
-    "url": "https://github.com/truera/trulens"
   }
 ]
