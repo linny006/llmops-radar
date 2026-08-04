@@ -1,5 +1,113 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55553,
+    "updated_at": "2026-08-04T21:14:39Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Applied AI, automation, evaluation, and production reliability.",
+    "id": "JoaoToni12/JoaoToni12",
+    "language": "\u2014",
+    "name": "JoaoToni12/JoaoToni12",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:13:59Z",
+    "url": "https://github.com/JoaoToni12/JoaoToni12"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-04T21:12:04Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7046,
+    "updated_at": "2026-08-04T21:10:47Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-08-04T21:10:25Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23926,
+    "updated_at": "2026-08-04T21:13:27Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-04T21:07:47Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 197,
+    "updated_at": "2026-08-04T21:05:37Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-08-04T21:11:14Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": " CI gate for RAG retrieval quality. Declares retrievers (TF-IDF, FAISS dense, BM25, hybrid RRF) in config, evaluates rec",
+    "id": "Panchalvedant13/rag-eval-harness",
+    "language": "Python",
+    "name": "Panchalvedant13/rag-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:02:24Z",
+    "url": "https://github.com/Panchalvedant13/rag-eval-harness"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 28,
+    "updated_at": "2026-08-04T21:01:00Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:00:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
     "id": "Traigent/tvl",
     "language": "Python",
@@ -36,15 +144,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55551,
-    "updated_at": "2026-08-04T20:58:52Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
     "id": "Yesol-Pilot/neosignal-check",
     "language": "Python",
@@ -59,26 +158,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 364,
-    "updated_at": "2026-08-04T20:48:20Z",
+    "updated_at": "2026-08-04T21:14:58Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 28,
-    "updated_at": "2026-08-04T20:45:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T20:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Runnable Python, TypeScript and .NET examples for tracking LLM cost across 15+ providers with the AI SpendOps proxy.",
@@ -106,15 +187,6 @@
     "stars": 10205,
     "updated_at": "2026-08-04T20:38:51Z",
     "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 192,
-    "updated_at": "2026-08-04T20:27:29Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -162,15 +234,6 @@
     "url": "https://github.com/sandeep-alluru/groundcrew"
   },
   {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-08-04T20:42:06Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
     "description": "Continuous Evaluation Infrastructure for Production AI",
     "id": "Red1-Rahman/NiriZan",
     "language": "Jupyter Notebook",
@@ -194,7 +257,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8167,
-    "updated_at": "2026-08-04T20:12:46Z",
+    "updated_at": "2026-08-04T21:02:41Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -252,15 +315,6 @@
     "url": "https://github.com/NicoGrassetto/Cosmopilot"
   },
   {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-08-04T20:37:12Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
     "description": "Deterministic pre-deployment checks for AI agent systems. Blocks unsafe designs before they ship.",
     "id": "arthursilas-ai/agent-preflight",
     "language": "Python",
@@ -270,31 +324,13 @@
     "url": "https://github.com/arthursilas-ai/agent-preflight"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-04T19:43:08Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3483,
+    "stars": 3484,
     "updated_at": "2026-08-04T19:40:00Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-04T19:36:54Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
@@ -315,21 +351,12 @@
     "url": "https://github.com/paulosalem/weavemark"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7044,
-    "updated_at": "2026-08-04T20:19:54Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
     "id": "ALLMA-dev/allma-core",
     "language": "TypeScript",
     "name": "ALLMA-dev/allma-core",
     "stars": 2,
-    "updated_at": "2026-08-04T19:09:06Z",
+    "updated_at": "2026-08-04T21:14:11Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/aktasbatuhan/compound"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23926,
-    "updated_at": "2026-08-04T18:40:43Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-04T18:30:15Z",
     "url": "https://github.com/Amitcoh1/agentbreaker"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-04T18:26:41Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
-    "id": "gmaheshraju/Hands-on-AgenticAI",
-    "language": "JavaScript",
-    "name": "gmaheshraju/Hands-on-AgenticAI",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:22:48Z",
-    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
   }
 ]
