@@ -1,5 +1,86 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-04T13:43:24Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
+    "id": "NicoGrassetto/Cosmopilot",
+    "language": "Python",
+    "name": "NicoGrassetto/Cosmopilot",
+    "stars": 1,
+    "updated_at": "2026-08-04T13:43:07Z",
+    "url": "https://github.com/NicoGrassetto/Cosmopilot"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32490,
+    "updated_at": "2026-08-04T13:43:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7037,
+    "updated_at": "2026-08-04T13:38:51Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-04T13:35:08Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "A structure-aware, local prompt compressor and context optimizer for LLM pipelines.",
+    "id": "saurabhdorle/fast-pruner",
+    "language": "Python",
+    "name": "saurabhdorle/fast-pruner",
+    "stars": 0,
+    "updated_at": "2026-08-04T13:34:04Z",
+    "url": "https://github.com/saurabhdorle/fast-pruner"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 85,
+    "updated_at": "2026-08-04T13:38:31Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-04T13:44:12Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T13:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -7,15 +88,6 @@
     "stars": 16,
     "updated_at": "2026-08-04T13:28:03Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32487,
-    "updated_at": "2026-08-04T13:29:49Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Flowise AI Railway Template that come with pre-configured persisted volume, PostGIS & private networking.",
@@ -32,26 +104,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21104,
-    "updated_at": "2026-08-04T13:25:06Z",
+    "updated_at": "2026-08-04T13:42:22Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:23:43Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-04T13:22:56Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2555,
+    "updated_at": "2026-08-04T13:21:45Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -61,15 +124,6 @@
     "stars": 11,
     "updated_at": "2026-08-04T13:18:02Z",
     "url": "https://github.com/8pig/llm-ops"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 85,
-    "updated_at": "2026-08-04T13:16:41Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "A traceable agentic RAG system that connects business questions to documents, PostgreSQL data, MCP tools, and auditable ",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T13:03:53Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-04T13:03:11Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T13:29:49Z",
+    "updated_at": "2026-08-04T13:43:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-04T12:57:08Z",
+    "updated_at": "2026-08-04T13:38:45Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T12:52:25Z",
     "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
-    "id": "NicoGrassetto/Cosmopilot",
-    "language": "Python",
-    "name": "NicoGrassetto/Cosmopilot",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:51:12Z",
-    "url": "https://github.com/NicoGrassetto/Cosmopilot"
   },
   {
     "description": "An engineering playbook for experienced software engineers moving into AI Engineering. Architecture, trade-offs, and pro",
@@ -270,15 +306,6 @@
     "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2554,
-    "updated_at": "2026-08-04T13:21:45Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1586,
-    "updated_at": "2026-08-04T13:29:38Z",
+    "updated_at": "2026-08-04T13:37:45Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-04T13:27:54Z",
+    "updated_at": "2026-08-04T13:38:22Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 22,
     "updated_at": "2026-08-04T11:24:33Z",
     "url": "https://github.com/atliq/guardex-ai"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5533,
-    "updated_at": "2026-08-04T11:16:21Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "World-state belief management and contradiction repair for AI agents",
-    "id": "sandeep-alluru/worldoracle",
-    "language": "Python",
-    "name": "sandeep-alluru/worldoracle",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:05:23Z",
-    "url": "https://github.com/sandeep-alluru/worldoracle"
-  },
-  {
-    "description": "Norm monitoring and violation detection for AI agent actions",
-    "id": "sandeep-alluru/normsync",
-    "language": "Python",
-    "name": "sandeep-alluru/normsync",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:05:14Z",
-    "url": "https://github.com/sandeep-alluru/normsync"
   }
 ]
