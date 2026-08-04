@@ -1,11 +1,47 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55557,
+    "updated_at": "2026-08-04T22:44:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 1,
+    "updated_at": "2026-08-04T22:40:44Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T22:30:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 2,
+    "updated_at": "2026-08-04T22:32:39Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
     "id": "EffortlessMetrics/tokmd",
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-04T22:24:42Z",
+    "updated_at": "2026-08-04T22:33:05Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -36,13 +72,13 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55555,
-    "updated_at": "2026-08-04T22:29:13Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3467,
+    "updated_at": "2026-08-04T22:19:08Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -72,15 +108,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T22:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -95,7 +122,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7047,
-    "updated_at": "2026-08-04T22:09:53Z",
+    "updated_at": "2026-08-04T22:39:27Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10899,
-    "updated_at": "2026-08-04T22:30:07Z",
+    "updated_at": "2026-08-04T22:40:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8168,
-    "updated_at": "2026-08-04T21:02:41Z",
+    "updated_at": "2026-08-04T22:40:20Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T20:08:12Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-04T20:07:33Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
-    "id": "runtm-ai/runtm",
-    "language": "Python",
-    "name": "runtm-ai/runtm",
-    "stars": 290,
-    "updated_at": "2026-08-04T19:59:29Z",
-    "url": "https://github.com/runtm-ai/runtm"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
-    "id": "Prathamg042004/tokensave",
-    "language": "TypeScript",
-    "name": "Prathamg042004/tokensave",
-    "stars": 1,
-    "updated_at": "2026-08-04T20:00:24Z",
-    "url": "https://github.com/Prathamg042004/tokensave"
   }
 ]
