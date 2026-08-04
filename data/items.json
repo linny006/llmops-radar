@@ -1,12 +1,93 @@
 [
   {
+    "description": "Raindrop is the monitoring and observability platform for AI agents \u2014 a \"Sentry for AI agents\" that discovers silent age",
+    "id": "api-evangelist/raindrop",
+    "language": "\u2014",
+    "name": "api-evangelist/raindrop",
+    "stars": 0,
+    "updated_at": "2026-08-04T01:29:19Z",
+    "url": "https://github.com/api-evangelist/raindrop"
+  },
+  {
+    "description": "Qwak is an end-to-end production machine learning platform that lets data science and ML engineering teams build, train,",
+    "id": "api-evangelist/qwak",
+    "language": "\u2014",
+    "name": "api-evangelist/qwak",
+    "stars": 0,
+    "updated_at": "2026-08-04T01:29:05Z",
+    "url": "https://github.com/api-evangelist/qwak"
+  },
+  {
+    "description": "Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to ",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-08-04T01:25:38Z",
+    "url": "https://github.com/api-evangelist/phoenix"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-04T01:14:46Z",
+    "updated_at": "2026-08-04T01:25:33Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23885,
+    "updated_at": "2026-08-04T01:29:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de",
+    "id": "api-evangelist/opik",
+    "language": "\u2014",
+    "name": "api-evangelist/opik",
+    "stars": 0,
+    "updated_at": "2026-08-04T01:23:02Z",
+    "url": "https://github.com/api-evangelist/opik"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-04T01:22:57Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10880,
+    "updated_at": "2026-08-04T01:27:26Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-04T01:19:02Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T01:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
@@ -23,7 +104,7 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-08-04T01:10:02Z",
+    "updated_at": "2026-08-04T01:26:36Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -32,26 +113,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55454,
-    "updated_at": "2026-08-04T01:10:01Z",
+    "updated_at": "2026-08-04T01:30:09Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23884,
-    "updated_at": "2026-08-04T01:13:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T01:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
@@ -77,7 +140,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 109,
-    "updated_at": "2026-08-04T01:08:04Z",
+    "updated_at": "2026-08-04T01:17:10Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -149,7 +212,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2551,
-    "updated_at": "2026-08-04T00:42:27Z",
+    "updated_at": "2026-08-04T01:24:56Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -184,7 +247,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29518,
+    "stars": 29519,
     "updated_at": "2026-08-04T00:23:01Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -203,7 +266,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7019,
-    "updated_at": "2026-08-04T00:21:06Z",
+    "updated_at": "2026-08-04T01:24:50Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -351,15 +414,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10880,
-    "updated_at": "2026-08-04T01:13:47Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Policy-gated runtime for verifiable AI agent actions.",
     "id": "JoaoToni12/verifiable-agent-runtime",
     "language": "Python",
@@ -392,61 +446,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8155,
-    "updated_at": "2026-08-04T00:04:04Z",
+    "updated_at": "2026-08-04T01:21:05Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 48,
-    "updated_at": "2026-08-04T00:48:02Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 546,
-    "updated_at": "2026-08-03T22:40:34Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 44,
-    "updated_at": "2026-08-03T22:03:24Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
-    "id": "anmolsharma152/Disha",
-    "language": "Python",
-    "name": "anmolsharma152/Disha",
-    "stars": 0,
-    "updated_at": "2026-08-03T21:52:38Z",
-    "url": "https://github.com/anmolsharma152/Disha"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10206,
-    "updated_at": "2026-08-03T21:26:34Z",
-    "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-03T21:25:20Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
