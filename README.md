@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 20:42 UTC
+> ⏰ Last updated: 2026-08-04 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SynapseKit/evalci](https://github.com/SynapseKit/evalci) | 3 | Python | 2026-08-04 | LLM quality gates for every PR — run @eval_case suites automatically and block merge if quality drops below threshold |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55548 | Python | 2026-08-04 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [SynapseKit/evalci](https://github.com/SynapseKit/evalci) | 3 | Python | 2026-08-04 | LLM quality gates for every PR — run @eval_case suites automatically and block merge if quality drops below threshold |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55548 | Python | 2026-08-04 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 4 | [Netflix/metaflow](https://github.com/Netflix/metaflow) | 10205 | Python | 2026-08-04 | Build, Manage and Deploy AI/ML Systems |
 | 5 | [dshakes/clickllm](https://github.com/dshakes/clickllm) | 1 | Python | 2026-08-04 | Prove which open model can replace your closed one — on your traffic, your hardware, your budget. Then move you there wi |
 | 6 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 190 | Python | 2026-08-04 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
