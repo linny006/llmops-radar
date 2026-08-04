@@ -1,5 +1,77 @@
 [
   {
+    "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
+    "id": "matuteiglesias/kb-contracts",
+    "language": "TypeScript",
+    "name": "matuteiglesias/kb-contracts",
+    "stars": 1,
+    "updated_at": "2026-08-04T04:14:17Z",
+    "url": "https://github.com/matuteiglesias/kb-contracts"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-04T04:13:37Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-04T04:12:39Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27353,
+    "updated_at": "2026-08-04T04:12:09Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-04T04:11:43Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-04T04:09:43Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 44,
+    "updated_at": "2026-08-04T04:04:05Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T04:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -9,21 +81,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 1,
-    "updated_at": "2026-08-04T03:52:18Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55466,
-    "updated_at": "2026-08-04T03:50:34Z",
+    "stars": 55467,
+    "updated_at": "2026-08-04T04:05:31Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-04T03:48:21Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -67,18 +121,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32454,
+    "stars": 32456,
     "updated_at": "2026-08-04T03:45:29Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T03:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -104,7 +149,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7024,
-    "updated_at": "2026-08-04T03:35:40Z",
+    "updated_at": "2026-08-04T04:12:43Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-08-04T03:59:36Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27353,
-    "updated_at": "2026-08-04T03:37:11Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -153,6 +189,15 @@
     "url": "https://github.com/tmusser/ai-engineering-skills"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8159,
+    "updated_at": "2026-08-04T03:19:45Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
     "id": "memoturn/memoturn",
     "language": "TypeScript",
@@ -169,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T03:14:31Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-04T03:12:58Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "AI Agent hooks for LLM Observability.",
@@ -230,7 +266,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 2,
-    "updated_at": "2026-08-04T02:14:13Z",
+    "updated_at": "2026-08-04T04:13:50Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/api-evangelist/opik"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8158,
-    "updated_at": "2026-08-04T03:19:45Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
     "id": "api-evangelist/log10",
     "language": "\u2014",
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 109,
-    "updated_at": "2026-08-04T03:50:52Z",
+    "updated_at": "2026-08-04T04:09:28Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T03:37:47Z",
     "url": "https://github.com/naturaljam/SpanVouch"
-  },
-  {
-    "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:54:21Z",
-    "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube",
-    "id": "api-evangelist/comet",
-    "language": "\u2014",
-    "name": "api-evangelist/comet",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:50:03Z",
-    "url": "https://github.com/api-evangelist/comet"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-04T00:48:21Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   }
 ]
