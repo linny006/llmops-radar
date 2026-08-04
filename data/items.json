@@ -1,11 +1,38 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21099,
+    "updated_at": "2026-08-04T06:44:03Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 10,
+    "updated_at": "2026-08-04T06:45:02Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55482,
+    "updated_at": "2026-08-04T06:45:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23898,
-    "updated_at": "2026-08-04T06:28:32Z",
+    "updated_at": "2026-08-04T06:44:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,17 +41,98 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 13,
-    "updated_at": "2026-08-04T06:28:00Z",
+    "updated_at": "2026-08-04T06:40:30Z",
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
+    "id": "matuteiglesias/kb-contracts",
+    "language": "TypeScript",
+    "name": "matuteiglesias/kb-contracts",
+    "stars": 1,
+    "updated_at": "2026-08-04T06:40:25Z",
+    "url": "https://github.com/matuteiglesias/kb-contracts"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55481,
-    "updated_at": "2026-08-04T06:27:50Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "acornops/llm-gateway",
+    "stars": 3,
+    "updated_at": "2026-08-04T06:38:43Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
+    "id": "domestique-labs/domestique-oss",
+    "language": "Python",
+    "name": "domestique-labs/domestique-oss",
+    "stars": 4,
+    "updated_at": "2026-08-04T06:37:19Z",
+    "url": "https://github.com/domestique-labs/domestique-oss"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 3,
+    "updated_at": "2026-08-04T06:35:45Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Turn your own model evaluation results into an explainable routing policy with an explicit quality-loss budget. Local, k",
+    "id": "RitikPatill/routefoundry",
+    "language": "Python",
+    "name": "RitikPatill/routefoundry",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:35:38Z",
+    "url": "https://github.com/RitikPatill/routefoundry"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27354,
+    "updated_at": "2026-08-04T06:36:56Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-04T06:34:07Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "\u9762\u5411 OA\u3001ERP\u3001CRM\u3001\u5de5\u5355\u7b49\u4f01\u4e1a\u7cfb\u7edf\u5feb\u901f\u6784\u5efa\u667a\u80fd\u4f53\uff0c\u8ba9 AI \u5728\u6743\u9650\u3001\u5ba1\u8ba1\u4e0e\u6cbb\u7406\u7ea6\u675f\u4e0b\u5b89\u5168\u8c03\u7528\u771f\u5b9e\u4e1a\u52a1\u80fd\u529b\u3002Build agents quickly for enterprise systems such as OA, ERP, CR",
+    "id": "w8123/EnterpriseAgentFramework",
+    "language": "Java",
+    "name": "w8123/EnterpriseAgentFramework",
+    "stars": 519,
+    "updated_at": "2026-08-04T06:32:26Z",
+    "url": "https://github.com/w8123/EnterpriseAgentFramework"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-04T06:31:38Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T06:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Feature flag platform for AI features: percentage-based gradual rollout with continuous quality monitoring and automatic",
@@ -36,15 +144,6 @@
     "url": "https://github.com/wycliffeoleti/ai-feature-flags"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21098,
-    "updated_at": "2026-08-04T06:26:05Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
     "id": "alexejsailer/agentic-nets",
     "language": "TypeScript",
@@ -52,24 +151,6 @@
     "stars": 5,
     "updated_at": "2026-08-04T06:17:22Z",
     "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T06:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Turn your own model evaluation results into an explainable routing policy with an explicit quality-loss budget. Local, k",
-    "id": "RitikPatill/routefoundry",
-    "language": "Python",
-    "name": "RitikPatill/routefoundry",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:14:49Z",
-    "url": "https://github.com/RitikPatill/routefoundry"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -86,7 +167,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2554,
-    "updated_at": "2026-08-04T06:12:53Z",
+    "updated_at": "2026-08-04T06:35:01Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -198,15 +279,6 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
-    "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
-    "id": "matuteiglesias/kb-contracts",
-    "language": "TypeScript",
-    "name": "matuteiglesias/kb-contracts",
-    "stars": 1,
-    "updated_at": "2026-08-04T05:26:23Z",
-    "url": "https://github.com/matuteiglesias/kb-contracts"
-  },
-  {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
     "id": "EffortlessMetrics/tokmd",
     "language": "Rust",
@@ -223,24 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T05:08:24Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27354,
-    "updated_at": "2026-08-04T05:07:04Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-04T05:02:31Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -297,15 +351,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-04T04:09:43Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -313,15 +358,6 @@
     "stars": 44,
     "updated_at": "2026-08-04T04:04:05Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 10,
-    "updated_at": "2026-08-04T06:25:00Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T04:13:50Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "RAG-based framework for automated incident diagnosis: retrieves relevant runbooks, post-mortems, and past tickets to gen",
-    "id": "Abmun/rag-aiops-incident-diagnosis",
-    "language": "Python",
-    "name": "Abmun/rag-aiops-incident-diagnosis",
-    "stars": 1,
-    "updated_at": "2026-08-04T02:08:04Z",
-    "url": "https://github.com/Abmun/rag-aiops-incident-diagnosis"
-  },
-  {
-    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
-    "id": "okfriansyah-moh/the-foundry",
-    "language": "Go",
-    "name": "okfriansyah-moh/the-foundry",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:59:45Z",
-    "url": "https://github.com/okfriansyah-moh/the-foundry"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-04T01:56:55Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 82,
-    "updated_at": "2026-08-04T01:52:12Z",
-    "url": "https://github.com/api7/aisix"
   }
 ]
