@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55464,
+    "updated_at": "2026-08-04T03:28:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27353,
+    "updated_at": "2026-08-04T03:29:04Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 48,
+    "updated_at": "2026-08-04T03:25:41Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
+    "id": "tmusser/ai-engineering-skills",
+    "language": "Python",
+    "name": "tmusser/ai-engineering-skills",
+    "stars": 3,
+    "updated_at": "2026-08-04T03:23:14Z",
+    "url": "https://github.com/tmusser/ai-engineering-skills"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10882,
+    "updated_at": "2026-08-04T03:23:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-04T03:15:45Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T03:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
     "id": "memoturn/memoturn",
     "language": "TypeScript",
@@ -18,15 +81,6 @@
     "url": "https://github.com/umutkeltek/switchback"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10882,
-    "updated_at": "2026-08-04T03:15:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -36,15 +90,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55461,
-    "updated_at": "2026-08-04T03:11:40Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -52,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-08-04T03:08:56Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 48,
-    "updated_at": "2026-08-04T03:12:28Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -95,26 +131,8 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5733,
-    "updated_at": "2026-08-04T03:12:15Z",
+    "updated_at": "2026-08-04T03:22:18Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T03:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27353,
-    "updated_at": "2026-08-04T02:57:57Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -122,7 +140,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2552,
-    "updated_at": "2026-08-04T02:48:33Z",
+    "updated_at": "2026-08-04T03:26:36Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -131,17 +149,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 1,
-    "updated_at": "2026-08-04T03:06:32Z",
+    "updated_at": "2026-08-04T03:20:51Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-04T02:43:06Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -166,7 +175,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23889,
+    "stars": 23891,
     "updated_at": "2026-08-04T02:32:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -311,7 +320,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8158,
-    "updated_at": "2026-08-04T01:21:05Z",
+    "updated_at": "2026-08-04T03:19:45Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 109,
-    "updated_at": "2026-08-04T03:05:30Z",
+    "updated_at": "2026-08-04T03:30:21Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 29520,
     "updated_at": "2026-08-04T00:23:01Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Production-ready LangSmith Tracing & LLM Evaluation Platform with FastAPI, Streamlit, Docker, CI/CD, step-level observab",
-    "id": "gireeshvuyyuru501-design/langsmith-tracing-evaluation-platform",
-    "language": "Python",
-    "name": "gireeshvuyyuru501-design/langsmith-tracing-evaluation-platform",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:20:03Z",
-    "url": "https://github.com/gireeshvuyyuru501-design/langsmith-tracing-evaluation-platform"
   }
 ]
