@@ -1,5 +1,113 @@
 [
   {
+    "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
+    "id": "Palo-Alto-AI-Research-Lab/awesome-verified-agents",
+    "language": "\u2014",
+    "name": "Palo-Alto-AI-Research-Lab/awesome-verified-agents",
+    "stars": 0,
+    "updated_at": "2026-08-04T14:28:03Z",
+    "url": "https://github.com/Palo-Alto-AI-Research-Lab/awesome-verified-agents"
+  },
+  {
+    "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
+    "id": "changliu2/assert-ai-action",
+    "language": "Python",
+    "name": "changliu2/assert-ai-action",
+    "stars": 0,
+    "updated_at": "2026-08-04T14:30:07Z",
+    "url": "https://github.com/changliu2/assert-ai-action"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21105,
+    "updated_at": "2026-08-04T14:30:10Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
+    "id": "ALLMA-dev/allma-core",
+    "language": "TypeScript",
+    "name": "ALLMA-dev/allma-core",
+    "stars": 2,
+    "updated_at": "2026-08-04T14:24:16Z",
+    "url": "https://github.com/ALLMA-dev/allma-core"
+  },
+  {
+    "description": "ATLAS: Agentic RAG as one coherent system \u2014 hybrid search + reranking + knowledge graph, tool-calling over MCP, multi-mo",
+    "id": "RiceSouffle/atlas-agentic-rag",
+    "language": "Python",
+    "name": "RiceSouffle/atlas-agentic-rag",
+    "stars": 1,
+    "updated_at": "2026-08-04T14:17:21Z",
+    "url": "https://github.com/RiceSouffle/atlas-agentic-rag"
+  },
+  {
+    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
+    "id": "vul-os/llmux",
+    "language": "Go",
+    "name": "vul-os/llmux",
+    "stars": 2,
+    "updated_at": "2026-08-04T14:17:02Z",
+    "url": "https://github.com/vul-os/llmux"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32492,
+    "updated_at": "2026-08-04T14:30:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 47,
+    "updated_at": "2026-08-04T14:15:48Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-04T14:07:52Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T14:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29527,
+    "updated_at": "2026-08-04T14:26:45Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7041,
+    "updated_at": "2026-08-04T14:17:34Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10892,
-    "updated_at": "2026-08-04T13:58:45Z",
+    "updated_at": "2026-08-04T14:20:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -25,33 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T13:53:18Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 47,
-    "updated_at": "2026-08-04T13:55:21Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29526,
-    "updated_at": "2026-08-04T13:58:57Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-04T13:51:10Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -90,33 +171,6 @@
     "url": "https://github.com/837515265/llm-serving-platform"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7038,
-    "updated_at": "2026-08-04T13:57:50Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32491,
-    "updated_at": "2026-08-04T13:55:03Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "A structure-aware, local prompt compressor and context optimizer for LLM pipelines.",
     "id": "saurabhdorle/fast-pruner",
     "language": "Python",
@@ -151,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T13:25:57Z",
     "url": "https://github.com/Somi-AI/flowiseai-railway"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21104,
-    "updated_at": "2026-08-04T13:59:46Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "stars": 4,
-    "updated_at": "2026-08-04T13:10:36Z",
+    "updated_at": "2026-08-04T14:29:53Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-04T13:55:27Z",
+    "updated_at": "2026-08-04T14:30:33Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T13:55:17Z",
+    "updated_at": "2026-08-04T14:12:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-04T13:05:22Z",
+    "updated_at": "2026-08-04T14:27:36Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 546,
-    "updated_at": "2026-08-04T12:49:20Z",
+    "updated_at": "2026-08-04T14:12:55Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -331,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T12:26:40Z",
     "url": "https://github.com/msanket9/stillsane"
-  },
-  {
-    "description": "ATLAS: Agentic RAG as one coherent system \u2014 hybrid search + reranking + knowledge graph, tool-calling over MCP, multi-mo",
-    "id": "RiceSouffle/atlas-agentic-rag",
-    "language": "Python",
-    "name": "RiceSouffle/atlas-agentic-rag",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:23:40Z",
-    "url": "https://github.com/RiceSouffle/atlas-agentic-rag"
   },
   {
     "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1586,
-    "updated_at": "2026-08-04T13:37:45Z",
+    "updated_at": "2026-08-04T14:23:00Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 73,
     "updated_at": "2026-08-04T13:48:37Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-04T12:05:26Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
-    "id": "avikalpg/byok-relay",
-    "language": "JavaScript",
-    "name": "avikalpg/byok-relay",
-    "stars": 54,
-    "updated_at": "2026-08-04T12:05:12Z",
-    "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
-    "id": "aktasbatuhan/compound",
-    "language": "TypeScript",
-    "name": "aktasbatuhan/compound",
-    "stars": 1,
-    "updated_at": "2026-08-04T11:47:15Z",
-    "url": "https://github.com/aktasbatuhan/compound"
-  },
-  {
-    "description": "llmcfo",
-    "id": "lisn0/tidal",
-    "language": "Nunjucks",
-    "name": "lisn0/tidal",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:45:41Z",
-    "url": "https://github.com/lisn0/tidal"
   }
 ]
