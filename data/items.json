@@ -1,11 +1,110 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2554,
+    "updated_at": "2026-08-04T11:29:53Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-04T11:27:51Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32482,
+    "updated_at": "2026-08-04T11:27:35Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 73,
+    "updated_at": "2026-08-04T11:24:46Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Python SDK for LLM guardrails with safety classification, PII detection, prompt injection defense, and grounding checks.",
+    "id": "atliq/guardex-ai",
+    "language": "Python",
+    "name": "atliq/guardex-ai",
+    "stars": 21,
+    "updated_at": "2026-08-04T11:24:33Z",
+    "url": "https://github.com/atliq/guardex-ai"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-08-04T11:24:10Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 16,
+    "updated_at": "2026-08-04T11:23:12Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:23:06Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
+    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
+    "language": "\u2014",
+    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
+    "stars": 1,
+    "updated_at": "2026-08-04T11:22:48Z",
+    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
+  },
+  {
+    "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
+    "id": "suryaanandan1995-dotcom/ai-freelance-copilot",
+    "language": "Python",
+    "name": "suryaanandan1995-dotcom/ai-freelance-copilot",
+    "stars": 1,
+    "updated_at": "2026-08-04T11:17:28Z",
+    "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T11:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 85,
-    "updated_at": "2026-08-04T11:11:24Z",
+    "updated_at": "2026-08-04T11:21:41Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -14,26 +113,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21105,
-    "updated_at": "2026-08-04T11:09:07Z",
+    "updated_at": "2026-08-04T11:18:38Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32480,
-    "updated_at": "2026-08-04T11:06:40Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-04T11:06:05Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
@@ -117,15 +198,6 @@
     "url": "https://github.com/sandeep-alluru/groundcrew"
   },
   {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-08-04T11:11:21Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
     "description": "Content-addressed GUI action facts for computer-use agents",
     "id": "sandeep-alluru/clickproof",
     "language": "Python",
@@ -162,24 +234,6 @@
     "url": "https://github.com/sandeep-alluru/agentdelta"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T11:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 16,
-    "updated_at": "2026-08-04T10:59:28Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -212,17 +266,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T11:09:16Z",
+    "updated_at": "2026-08-04T11:28:28Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
-    "id": "suryaanandan1995-dotcom/ai-freelance-copilot",
-    "language": "Python",
-    "name": "suryaanandan1995-dotcom/ai-freelance-copilot",
-    "stars": 1,
-    "updated_at": "2026-08-04T10:49:48Z",
-    "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-04T10:59:35Z",
+    "updated_at": "2026-08-04T11:16:27Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -337,7 +382,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23912,
+    "stars": 23913,
     "updated_at": "2026-08-04T10:11:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1585,
-    "updated_at": "2026-08-04T11:11:21Z",
+    "updated_at": "2026-08-04T11:30:20Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2554,
-    "updated_at": "2026-08-04T09:38:39Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
@@ -405,15 +441,6 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 73,
-    "updated_at": "2026-08-04T11:07:31Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-04T09:28:28Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5734,
-    "updated_at": "2026-08-04T09:28:07Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Open-source model serving and heterogeneous GPU management platform for enterprise private AI. NVIDIA / Ascend / Cambric",
-    "id": "837515265/llm-serving-platform",
-    "language": "TypeScript",
-    "name": "837515265/llm-serving-platform",
-    "stars": 0,
-    "updated_at": "2026-08-04T09:26:45Z",
-    "url": "https://github.com/837515265/llm-serving-platform"
-  },
-  {
-    "description": "Open-source AI gateway \u2014 pool your provider keys behind one OpenAI-compatible endpoint with load balancing, failover, ci",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-04T09:59:57Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   }
 ]
