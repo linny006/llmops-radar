@@ -1,12 +1,84 @@
 [
   {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 16,
+    "updated_at": "2026-08-04T10:59:28Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-04T10:55:46Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7034,
+    "updated_at": "2026-08-04T10:53:50Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "Nunjucks",
+    "name": "lisn0/tidal",
+    "stars": 0,
+    "updated_at": "2026-08-04T10:50:42Z",
+    "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3466,
+    "updated_at": "2026-08-04T11:00:24Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
     "id": "suryaanandan1995-dotcom/ai-freelance-copilot",
     "language": "Python",
     "name": "suryaanandan1995-dotcom/ai-freelance-copilot",
     "stars": 1,
-    "updated_at": "2026-08-04T10:45:09Z",
+    "updated_at": "2026-08-04T10:49:48Z",
     "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-08-04T10:48:25Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 6,
+    "updated_at": "2026-08-04T10:47:18Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T10:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -54,21 +126,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 16,
-    "updated_at": "2026-08-04T10:35:03Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-04T10:34:47Z",
+    "updated_at": "2026-08-04T10:59:35Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -99,15 +162,6 @@
     "url": "https://github.com/huzjie/loopforge"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T10:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -115,15 +169,6 @@
     "stars": 364,
     "updated_at": "2026-08-04T10:27:01Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3466,
-    "updated_at": "2026-08-04T10:37:12Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -139,7 +184,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32477,
+    "stars": 32479,
     "updated_at": "2026-08-04T10:19:20Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -153,20 +198,11 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7033,
-    "updated_at": "2026-08-04T10:42:02Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23910,
+    "stars": 23911,
     "updated_at": "2026-08-04T10:11:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1585,
-    "updated_at": "2026-08-04T10:30:09Z",
+    "updated_at": "2026-08-04T10:59:18Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -306,21 +342,12 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "llmcfo",
-    "id": "lisn0/tidal",
-    "language": "Nunjucks",
-    "name": "lisn0/tidal",
-    "stars": 0,
-    "updated_at": "2026-08-04T09:18:32Z",
-    "url": "https://github.com/lisn0/tidal"
-  },
-  {
     "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
     "id": "traceloop/openllmetry",
     "language": "Python",
     "name": "traceloop/openllmetry",
     "stars": 7353,
-    "updated_at": "2026-08-04T09:11:10Z",
+    "updated_at": "2026-08-04T10:55:27Z",
     "url": "https://github.com/traceloop/openllmetry"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T09:01:41Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-08-04T09:00:21Z",
-    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T08:31:01Z",
     "url": "https://github.com/sandeep-alluru/agentcrdt"
-  },
-  {
-    "description": "Action receipts and chain-of-custody for AI agents",
-    "id": "sandeep-alluru/groundcrew",
-    "language": "Python",
-    "name": "sandeep-alluru/groundcrew",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:30:27Z",
-    "url": "https://github.com/sandeep-alluru/groundcrew"
-  },
-  {
-    "description": "Content-addressed GUI action facts for computer-use agents",
-    "id": "sandeep-alluru/clickproof",
-    "language": "Python",
-    "name": "sandeep-alluru/clickproof",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:30:18Z",
-    "url": "https://github.com/sandeep-alluru/clickproof"
   }
 ]
