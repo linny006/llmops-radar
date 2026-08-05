@@ -1,5 +1,41 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55626,
+    "updated_at": "2026-08-05T17:01:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Diff and regression-detect LLM agent execution traces",
+    "id": "sandeep-alluru/agentdelta",
+    "language": "Python",
+    "name": "sandeep-alluru/agentdelta",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:00:41Z",
+    "url": "https://github.com/sandeep-alluru/agentdelta"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T17:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 28,
+    "updated_at": "2026-08-05T17:00:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
     "id": "Mrg77/tfforge",
     "language": "Go",
@@ -16,33 +52,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T16:56:38Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 28,
-    "updated_at": "2026-08-05T17:00:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55626,
-    "updated_at": "2026-08-05T16:47:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T16:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21125,
-    "updated_at": "2026-08-05T16:18:28Z",
+    "updated_at": "2026-08-05T17:02:19Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-05T14:52:39Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 1,
-    "updated_at": "2026-08-05T14:49:03Z",
-    "url": "https://github.com/novafabric/novafabric"
   }
 ]
