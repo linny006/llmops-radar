@@ -1,5 +1,50 @@
 [
   {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 547,
+    "updated_at": "2026-08-05T11:30:05Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:29:13Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 3,
+    "updated_at": "2026-08-05T11:28:58Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:28:07Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-05T11:26:17Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -18,15 +63,6 @@
     "url": "https://github.com/ALLMA-dev/allma-core"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 547,
-    "updated_at": "2026-08-05T11:22:41Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
     "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
     "id": "marcusschiesser/agentpond",
     "language": "TypeScript",
@@ -36,21 +72,12 @@
     "url": "https://github.com/marcusschiesser/agentpond"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-05T11:26:17Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32556,
-    "updated_at": "2026-08-05T11:27:44Z",
+    "updated_at": "2026-08-05T11:28:58Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -90,21 +117,12 @@
     "url": "https://github.com/sina2266/Gozar"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21121,
-    "updated_at": "2026-08-05T11:22:58Z",
+    "updated_at": "2026-08-05T11:28:48Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 24,
-    "updated_at": "2026-08-05T11:11:37Z",
+    "updated_at": "2026-08-05T11:28:13Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T11:02:33Z",
     "url": "https://github.com/sandeep-alluru/foghorn"
-  },
-  {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "openloop-team/openloop",
-    "language": "Python",
-    "name": "openloop-team/openloop",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:01:14Z",
-    "url": "https://github.com/openloop-team/openloop"
   },
   {
     "description": "Diff and regression-detect LLM agent execution traces",
@@ -439,14 +448,5 @@
     "stars": 55605,
     "updated_at": "2026-08-05T09:59:09Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The comprehensive list of AI evaluation tools: 300+ open-source and commercial LLM evaluation frameworks, platforms, ben",
-    "id": "aglio-lab/ai-evaluation-tools",
-    "language": "Python",
-    "name": "aglio-lab/ai-evaluation-tools",
-    "stars": 2,
-    "updated_at": "2026-08-05T09:56:11Z",
-    "url": "https://github.com/aglio-lab/ai-evaluation-tools"
   }
 ]
