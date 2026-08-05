@@ -1,5 +1,50 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55567,
+    "updated_at": "2026-08-05T02:44:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 71,
+    "updated_at": "2026-08-05T02:43:39Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8173,
+    "updated_at": "2026-08-05T02:37:02Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-08-05T02:34:16Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T02:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -7,15 +52,6 @@
     "stars": 16,
     "updated_at": "2026-08-05T02:29:52Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55566,
-    "updated_at": "2026-08-05T02:29:05Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Read-only, cross-rail agent spend collector: LLM token + x402 payments in one FOCUS-shaped ledger, with anomaly detectio",
@@ -45,15 +81,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-08-05T02:28:36Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -70,15 +97,6 @@
     "stars": 49,
     "updated_at": "2026-08-05T02:21:41Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T02:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -135,15 +153,6 @@
     "url": "https://github.com/sandeep-alluru/foghorn"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8172,
-    "updated_at": "2026-08-05T01:57:32Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Running a 24/7 agent orchestrator (Hermes) with an uncensored local LLM brain on a single 24 GB NVIDIA GPU \u2014 the tuning ",
     "id": "msemino/local-agent-orchestrator",
     "language": "\u2014",
@@ -178,15 +187,6 @@
     "stars": 220,
     "updated_at": "2026-08-05T01:45:50Z",
     "url": "https://github.com/OpenMachine-ai/transformer-tricks"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 71,
-    "updated_at": "2026-08-05T01:44:33Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -229,7 +229,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23933,
+    "stars": 23932,
     "updated_at": "2026-08-05T01:28:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -238,7 +238,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29535,
+    "stars": 29536,
     "updated_at": "2026-08-05T01:19:18Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -266,7 +266,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-05T01:02:10Z",
+    "updated_at": "2026-08-05T02:45:21Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -275,7 +275,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-08-05T02:06:13Z",
+    "updated_at": "2026-08-05T02:34:01Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
