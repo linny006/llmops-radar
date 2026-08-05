@@ -1,12 +1,39 @@
 [
   {
-    "description": "Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a",
-    "id": "SammyTourani/evestack",
+    "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
+    "id": "domestique-labs/domestique-oss",
+    "language": "Python",
+    "name": "domestique-labs/domestique-oss",
+    "stars": 3,
+    "updated_at": "2026-08-05T07:59:56Z",
+    "url": "https://github.com/domestique-labs/domestique-oss"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 385,
+    "updated_at": "2026-08-05T07:58:52Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "SammyTourani/evestack",
+    "name": "langfuse/langfuse",
+    "stars": 32544,
+    "updated_at": "2026-08-05T07:57:28Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
     "stars": 0,
-    "updated_at": "2026-08-05T07:45:03Z",
-    "url": "https://github.com/SammyTourani/evestack"
+    "updated_at": "2026-08-05T07:56:26Z",
+    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
@@ -14,8 +41,53 @@
     "language": "Python",
     "name": "Yesol-Pilot/neosignal-check",
     "stars": 0,
-    "updated_at": "2026-08-05T07:42:32Z",
+    "updated_at": "2026-08-05T07:47:21Z",
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-08-05T07:46:55Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5737,
+    "updated_at": "2026-08-05T07:46:25Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7059,
+    "updated_at": "2026-08-05T07:58:14Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T07:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-05T07:45:03Z",
+    "url": "https://github.com/SammyTourani/evestack"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -36,15 +108,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-08-05T07:37:29Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
@@ -54,42 +117,6 @@
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 385,
-    "updated_at": "2026-08-05T07:42:56Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T07:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5737,
-    "updated_at": "2026-08-05T07:37:09Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
-    "id": "domestique-labs/domestique-oss",
-    "language": "Python",
-    "name": "domestique-labs/domestique-oss",
-    "stars": 3,
-    "updated_at": "2026-08-05T07:41:45Z",
-    "url": "https://github.com/domestique-labs/domestique-oss"
-  },
-  {
     "description": "An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut",
     "id": "lokeshkundi15/ai-incident-monitoring-rca-agent",
     "language": "Python",
@@ -97,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-08-05T07:25:28Z",
     "url": "https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent"
+  },
+  {
+    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
+    "id": "taishan666/MaxKB4j",
+    "language": "Java",
+    "name": "taishan666/MaxKB4j",
+    "stars": 114,
+    "updated_at": "2026-08-05T07:59:32Z",
+    "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
     "description": "Compute capital allocation for AI agents \u2014 fund only actions whose expected marginal value justifies tokens, cost, laten",
@@ -112,18 +148,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55586,
+    "stars": 55588,
     "updated_at": "2026-08-05T07:24:16Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7058,
-    "updated_at": "2026-08-05T07:45:15Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1592,
-    "updated_at": "2026-08-05T07:33:26Z",
+    "updated_at": "2026-08-05T07:59:57Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -274,7 +301,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27370,
+    "stars": 27371,
     "updated_at": "2026-08-05T06:03:22Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -333,15 +360,6 @@
     "url": "https://github.com/automatiqa-lab/orchestriq"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32542,
-    "updated_at": "2026-08-05T07:43:42Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3469,
-    "updated_at": "2026-08-05T07:38:53Z",
+    "updated_at": "2026-08-05T07:45:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T05:05:38Z",
     "url": "https://github.com/sandeep-alluru/worldoracle"
-  },
-  {
-    "description": "Norm monitoring and violation detection for AI agent actions",
-    "id": "sandeep-alluru/normsync",
-    "language": "Python",
-    "name": "sandeep-alluru/normsync",
-    "stars": 0,
-    "updated_at": "2026-08-05T05:05:30Z",
-    "url": "https://github.com/sandeep-alluru/normsync"
-  },
-  {
-    "description": "Economy balance analysis and exploit detection for AI game agents",
-    "id": "sandeep-alluru/balancelab",
-    "language": "Python",
-    "name": "sandeep-alluru/balancelab",
-    "stars": 0,
-    "updated_at": "2026-08-05T05:05:21Z",
-    "url": "https://github.com/sandeep-alluru/balancelab"
   }
 ]
