@@ -1,5 +1,95 @@
 [
   {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-05T05:58:56Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27367,
+    "updated_at": "2026-08-05T05:58:49Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-05T05:56:50Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Ask for a capability tier, never a model. Azure-first fallback chains on Cloudflare AI Gateway's universal endpoint, wit",
+    "id": "montrealks/ai-gateway-tiers",
+    "language": "Python",
+    "name": "montrealks/ai-gateway-tiers",
+    "stars": 0,
+    "updated_at": "2026-08-05T05:53:14Z",
+    "url": "https://github.com/montrealks/ai-gateway-tiers"
+  },
+  {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 5,
+    "updated_at": "2026-08-05T05:51:21Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-05T05:50:13Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Explainability as a pipeline stage \u2014 versioned, partitioned, queryable explanations for production ML (Parquet store + a",
+    "id": "shashwatsaxena571/explainops",
+    "language": "Python",
+    "name": "shashwatsaxena571/explainops",
+    "stars": 0,
+    "updated_at": "2026-08-05T05:46:39Z",
+    "url": "https://github.com/shashwatsaxena571/explainops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T05:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21117,
+    "updated_at": "2026-08-05T05:44:30Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-08-05T05:53:05Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
     "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
     "id": "Yesol-Pilot/neosignal-check",
     "language": "Python",
@@ -18,49 +108,13 @@
     "url": "https://github.com/automatiqa-lab/orchestriq"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-05T05:41:44Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55577,
-    "updated_at": "2026-08-05T05:43:42Z",
+    "updated_at": "2026-08-05T05:52:18Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21116,
-    "updated_at": "2026-08-05T05:44:30Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Ask for a capability tier, never a model. Azure-first fallback chains on Cloudflare AI Gateway's universal endpoint, wit",
-    "id": "montrealks/ai-gateway-tiers",
-    "language": "Python",
-    "name": "montrealks/ai-gateway-tiers",
-    "stars": 0,
-    "updated_at": "2026-08-05T05:35:35Z",
-    "url": "https://github.com/montrealks/ai-gateway-tiers"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27368,
-    "updated_at": "2026-08-05T05:34:46Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -77,7 +131,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7055,
-    "updated_at": "2026-08-05T05:41:40Z",
+    "updated_at": "2026-08-05T05:59:42Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T05:31:52Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T05:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 100+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
@@ -124,15 +169,6 @@
     "stars": 3469,
     "updated_at": "2026-08-05T05:35:48Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-05T05:21:40Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Build, Manage and Deploy AI/ML Systems",
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T05:10:08Z",
     "url": "https://github.com/huzjie/unified-ai-gateway"
-  },
-  {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 5,
-    "updated_at": "2026-08-05T05:05:43Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
     "description": "World-state belief management and contradiction repair for AI agents",
@@ -360,15 +387,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-08-05T05:44:27Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
     "description": "Local-first agent Gateway with durable sessions, approvals, memory and governed self-evolution",
     "id": "Linxiushen/evoagent-runtime",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 83,
     "updated_at": "2026-08-05T04:26:01Z",
     "url": "https://github.com/p0nymc1/cee"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-05T04:21:40Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1131,
-    "updated_at": "2026-08-05T04:18:15Z",
-    "url": "https://github.com/Arize-ai/openinference"
   }
 ]
