@@ -1,5 +1,32 @@
 [
   {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-08-05T09:01:47Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T09:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-05T08:59:46Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
     "description": "Enterprise multi-cloud GenAI agent gateway \u2014 AWS Bedrock + Azure AI Foundry integrations, policy-based routing, guardrai",
     "id": "wiktor-cl/aegis-genai-gateway",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 86,
-    "updated_at": "2026-08-05T08:59:01Z",
+    "updated_at": "2026-08-05T09:02:15Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -22,7 +49,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2567,
+    "stars": 2566,
     "updated_at": "2026-08-05T08:57:47Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3469,
-    "updated_at": "2026-08-05T08:57:28Z",
+    "updated_at": "2026-08-05T09:03:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55595,
-    "updated_at": "2026-08-05T08:54:39Z",
+    "updated_at": "2026-08-05T09:01:56Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 7,
     "updated_at": "2026-08-05T08:48:21Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
@@ -103,7 +121,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7061,
+    "stars": 7062,
     "updated_at": "2026-08-05T08:42:32Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10904,
-    "updated_at": "2026-08-05T08:03:56Z",
+    "updated_at": "2026-08-05T09:00:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11825,
-    "updated_at": "2026-08-05T09:00:01Z",
+    "updated_at": "2026-08-05T09:04:45Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -331,15 +349,6 @@
     "stars": 114,
     "updated_at": "2026-08-05T08:57:43Z",
     "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-05T08:59:46Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Autonomous multi-agent due-diligence desk \u2014 LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving",
@@ -376,15 +385,6 @@
     "stars": 10,
     "updated_at": "2026-08-05T07:01:52Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "openloop-team/openloop",
-    "language": "Python",
-    "name": "openloop-team/openloop",
-    "stars": 2,
-    "updated_at": "2026-08-05T06:52:13Z",
-    "url": "https://github.com/openloop-team/openloop"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
