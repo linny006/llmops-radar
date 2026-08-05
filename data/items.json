@@ -1,12 +1,39 @@
 [
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5737,
-    "updated_at": "2026-08-05T06:29:08Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
+    "name": "BerriAI/litellm",
+    "stars": 55580,
+    "updated_at": "2026-08-05T06:41:36Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21117,
+    "updated_at": "2026-08-05T06:43:41Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-05T06:36:33Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-05T06:44:56Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -14,17 +41,44 @@
     "language": "Jupyter Notebook",
     "name": "Red1-Rahman/NiriZan",
     "stars": 0,
-    "updated_at": "2026-08-05T06:27:17Z",
+    "updated_at": "2026-08-05T06:31:57Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55579,
-    "updated_at": "2026-08-05T06:26:52Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T06:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1592,
+    "updated_at": "2026-08-05T06:29:58Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5737,
+    "updated_at": "2026-08-05T06:36:31Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-05T06:28:30Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -36,31 +90,22 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-05T06:23:23Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7056,
+    "updated_at": "2026-08-05T06:36:09Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2561,
+    "stars": 2562,
     "updated_at": "2026-08-05T06:18:39Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T06:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
@@ -108,15 +153,6 @@
     "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-05T06:28:30Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Explainability as a pipeline stage \u2014 versioned, partitioned, queryable explanations for production ML (Parquet store + a",
     "id": "shashwatsaxena571/explainops",
     "language": "Python",
@@ -126,21 +162,12 @@
     "url": "https://github.com/shashwatsaxena571/explainops"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21117,
-    "updated_at": "2026-08-05T06:18:50Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
     "id": "EffortlessMetrics/tokmd",
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-05T06:27:49Z",
+    "updated_at": "2026-08-05T06:43:29Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -162,6 +189,15 @@
     "url": "https://github.com/automatiqa-lab/orchestriq"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32535,
+    "updated_at": "2026-08-05T05:38:34Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -169,15 +205,6 @@
     "stars": 28,
     "updated_at": "2026-08-05T05:33:23Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7055,
-    "updated_at": "2026-08-05T06:24:30Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3469,
-    "updated_at": "2026-08-05T06:24:32Z",
+    "updated_at": "2026-08-05T06:45:13Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 10206,
     "updated_at": "2026-08-05T05:20:31Z",
     "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-05T05:20:17Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T04:44:52Z",
     "url": "https://github.com/adwitiyashukla/process-twin"
-  },
-  {
-    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
-    "id": "8monkey-ai/hebo-gateway",
-    "language": "TypeScript",
-    "name": "8monkey-ai/hebo-gateway",
-    "stars": 25,
-    "updated_at": "2026-08-05T04:43:07Z",
-    "url": "https://github.com/8monkey-ai/hebo-gateway"
-  },
-  {
-    "description": "Three auditable self-evolving AI agent systems: benchmark-gated behavior evolution, lifelong skills, and test-gated codi",
-    "id": "Linxiushen/self-evolving-agent-lab",
-    "language": "Python",
-    "name": "Linxiushen/self-evolving-agent-lab",
-    "stars": 0,
-    "updated_at": "2026-08-05T04:38:59Z",
-    "url": "https://github.com/Linxiushen/self-evolving-agent-lab"
   }
 ]
