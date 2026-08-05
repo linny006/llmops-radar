@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-05T03:26:01Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-05T03:23:56Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55571,
+    "updated_at": "2026-08-05T03:27:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T03:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -7,6 +43,15 @@
     "stars": 74,
     "updated_at": "2026-08-05T03:14:26Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11823,
+    "updated_at": "2026-08-05T03:10:30Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -25,24 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T03:08:56Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-05T03:08:53Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55570,
-    "updated_at": "2026-08-05T03:08:50Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Three auditable self-evolving AI agent systems: benchmark-gated behavior evolution, lifelong skills, and test-gated codi",
@@ -108,15 +135,6 @@
     "url": "https://github.com/Linxiushen/evogate"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T03:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
     "id": "kimtth/azure-openai-llm-wiki",
     "language": "Python",
@@ -148,7 +166,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7052,
+    "stars": 7053,
     "updated_at": "2026-08-05T02:48:22Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -220,7 +238,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27365,
+    "stars": 27366,
     "updated_at": "2026-08-05T02:22:47Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -239,7 +257,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2560,
-    "updated_at": "2026-08-05T02:09:25Z",
+    "updated_at": "2026-08-05T03:22:18Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1591,
-    "updated_at": "2026-08-05T02:20:39Z",
+    "updated_at": "2026-08-05T03:22:01Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -338,7 +356,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23932,
-    "updated_at": "2026-08-05T01:28:20Z",
+    "updated_at": "2026-08-05T03:21:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T00:18:58Z",
     "url": "https://github.com/sandeep-alluru/clickproof"
-  },
-  {
-    "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
-    "id": "sandeep-alluru/rulegraph",
-    "language": "Python",
-    "name": "sandeep-alluru/rulegraph",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:17:19Z",
-    "url": "https://github.com/sandeep-alluru/rulegraph"
-  },
-  {
-    "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
-    "id": "sandeep-alluru/humanproof",
-    "language": "Python",
-    "name": "sandeep-alluru/humanproof",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:16:58Z",
-    "url": "https://github.com/sandeep-alluru/humanproof"
   }
 ]
