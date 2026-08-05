@@ -1,12 +1,111 @@
 [
   {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 73,
+    "updated_at": "2026-08-05T08:29:19Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 1,
+    "updated_at": "2026-08-05T08:30:02Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 11,
+    "updated_at": "2026-08-05T08:26:52Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:24:47Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55592,
+    "updated_at": "2026-08-05T08:24:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21117,
+    "updated_at": "2026-08-05T08:23:09Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2565,
+    "updated_at": "2026-08-05T08:21:15Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 85,
+    "updated_at": "2026-08-05T08:18:25Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Turn Portkey & Langsmith data into OTEL signals",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-05T08:17:00Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
     "description": "Compute capital allocation for AI agents \u2014 fund only actions whose expected marginal value justifies tokens, cost, laten",
     "id": "SignalLayerLabs/Marginal",
     "language": "Python",
     "name": "SignalLayerLabs/Marginal",
     "stars": 1,
-    "updated_at": "2026-08-05T08:14:11Z",
+    "updated_at": "2026-08-05T08:28:57Z",
     "url": "https://github.com/SignalLayerLabs/Marginal"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T08:15:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
+    "id": "sandeep-alluru/humanproof",
+    "language": "Python",
+    "name": "sandeep-alluru/humanproof",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:14:35Z",
+    "url": "https://github.com/sandeep-alluru/humanproof"
   },
   {
     "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
@@ -27,49 +126,22 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55589,
-    "updated_at": "2026-08-05T08:14:22Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21117,
-    "updated_at": "2026-08-05T08:14:33Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a",
-    "id": "SammyTourani/evestack",
-    "language": "TypeScript",
-    "name": "SammyTourani/evestack",
-    "stars": 0,
-    "updated_at": "2026-08-05T08:08:30Z",
-    "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32545,
-    "updated_at": "2026-08-05T08:09:09Z",
+    "stars": 32546,
+    "updated_at": "2026-08-05T08:29:41Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Arize-ai/phoenix",
+    "stars": 10904,
+    "updated_at": "2026-08-05T08:03:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A local AI firewall for developers \u2014 redacts secrets and PII from your prompts before they reach OpenAI, Anthropic, or a",
@@ -95,7 +167,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7060,
-    "updated_at": "2026-08-05T08:07:38Z",
+    "updated_at": "2026-08-05T08:28:44Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -189,15 +261,6 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Turn Portkey & Langsmith data into OTEL signals",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-05T08:10:05Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
     "description": "Autonomous multi-agent due-diligence desk \u2014 LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving",
     "id": "hari9618/atlas-agentic-research",
     "language": "Python",
@@ -205,6 +268,15 @@
     "stars": 1,
     "updated_at": "2026-08-05T07:19:20Z",
     "url": "https://github.com/hari9618/atlas-agentic-research"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8175,
+    "updated_at": "2026-08-05T07:16:54Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
@@ -223,24 +295,6 @@
     "stars": 10,
     "updated_at": "2026-08-05T07:01:52Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2563,
-    "updated_at": "2026-08-05T06:59:36Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10903,
-    "updated_at": "2026-08-05T08:03:56Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1592,
-    "updated_at": "2026-08-05T08:09:34Z",
+    "updated_at": "2026-08-05T08:26:22Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 77,
     "updated_at": "2026-08-05T05:27:06Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3469,
-    "updated_at": "2026-08-05T08:11:51Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10206,
-    "updated_at": "2026-08-05T05:20:31Z",
-    "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
-    "id": "msanket9/stillsane",
-    "language": "Python",
-    "name": "msanket9/stillsane",
-    "stars": 0,
-    "updated_at": "2026-08-05T05:18:59Z",
-    "url": "https://github.com/msanket9/stillsane"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 3,
-    "updated_at": "2026-08-05T05:16:24Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "AI Agent Evaluation & Observability Platform",
-    "id": "huzjie/argus-eval",
-    "language": "Python",
-    "name": "huzjie/argus-eval",
-    "stars": 0,
-    "updated_at": "2026-08-05T05:10:23Z",
-    "url": "https://github.com/huzjie/argus-eval"
-  },
-  {
-    "description": "LoopForge - \u957f\u7a0b\u81ea\u4e3b\u7f16\u7a0b\u667a\u80fd\u4f53\u7f16\u6392\u4e0e\u6cbb\u7406\u5e73\u53f0 (Long-range autonomous coding agent orchestration & governance platform)",
-    "id": "huzjie/loopforge",
-    "language": "Python",
-    "name": "huzjie/loopforge",
-    "stars": 0,
-    "updated_at": "2026-08-05T05:10:18Z",
-    "url": "https://github.com/huzjie/loopforge"
   }
 ]
