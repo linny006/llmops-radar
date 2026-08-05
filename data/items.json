@@ -1,12 +1,147 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3472,
+    "updated_at": "2026-08-05T20:14:44Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
+    "id": "NicoGrassetto/Cosmopilot",
+    "language": "Python",
+    "name": "NicoGrassetto/Cosmopilot",
+    "stars": 1,
+    "updated_at": "2026-08-05T20:12:54Z",
+    "url": "https://github.com/NicoGrassetto/Cosmopilot"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55639,
-    "updated_at": "2026-08-05T20:00:00Z",
+    "stars": 55641,
+    "updated_at": "2026-08-05T20:14:39Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-05T20:12:17Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Local prompt-cache economics for LLM agents: split cache reads/writes from input spend, reconcile dollars to invoices, a",
+    "id": "Tanisha-Katara/cacheeconomics",
+    "language": "Python",
+    "name": "Tanisha-Katara/cacheeconomics",
+    "stars": 2,
+    "updated_at": "2026-08-05T20:10:35Z",
+    "url": "https://github.com/Tanisha-Katara/cacheeconomics"
+  },
+  {
+    "description": "Stop re-running failed agents from scratch. Branch from any step of a LangGraph or AutoGen trace, edit the state, and re",
+    "id": "Shahoud867/agent-time-machine",
+    "language": "Python",
+    "name": "Shahoud867/agent-time-machine",
+    "stars": 0,
+    "updated_at": "2026-08-05T20:09:01Z",
+    "url": "https://github.com/Shahoud867/agent-time-machine"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-08-05T20:08:25Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-08-05T20:08:12Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-05T20:06:02Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-08-05T20:03:47Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 547,
+    "updated_at": "2026-08-05T20:02:09Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-05T20:11:13Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-08-05T20:01:06Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 7,
+    "updated_at": "2026-08-05T20:00:53Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T20:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-05T19:58:17Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
@@ -45,12 +180,21 @@
     "url": "https://github.com/AI-SpendOps/examples"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8179,
+    "updated_at": "2026-08-05T19:51:14Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
     "id": "novafabric/novafabric",
     "language": "Python",
     "name": "novafabric/novafabric",
     "stars": 1,
-    "updated_at": "2026-08-05T19:52:54Z",
+    "updated_at": "2026-08-05T20:07:06Z",
     "url": "https://github.com/novafabric/novafabric"
   },
   {
@@ -59,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7076,
-    "updated_at": "2026-08-05T19:50:08Z",
+    "updated_at": "2026-08-05T20:12:00Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -99,24 +243,6 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
-    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
-    "id": "NicoGrassetto/Cosmopilot",
-    "language": "Python",
-    "name": "NicoGrassetto/Cosmopilot",
-    "stars": 1,
-    "updated_at": "2026-08-05T19:46:33Z",
-    "url": "https://github.com/NicoGrassetto/Cosmopilot"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T19:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -133,24 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T19:41:58Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 547,
-    "updated_at": "2026-08-05T19:56:30Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-05T20:00:22Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -230,7 +338,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-08-05T19:32:48Z",
+    "updated_at": "2026-08-05T20:14:34Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -284,7 +392,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3487,
-    "updated_at": "2026-08-05T19:45:42Z",
+    "updated_at": "2026-08-05T20:03:04Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T19:21:50Z",
     "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 7,
-    "updated_at": "2026-08-05T19:21:50Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-08-05T19:20:38Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-08-05T19:23:06Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Accountability layer for AI agents. Turns OpenTelemetry GenAI traces into a daily digest where every line is anchored to",
-    "id": "adriencr81/Check-Alfred",
-    "language": "Python",
-    "name": "adriencr81/Check-Alfred",
-    "stars": 3,
-    "updated_at": "2026-08-05T19:17:29Z",
-    "url": "https://github.com/adriencr81/Check-Alfred"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3472,
-    "updated_at": "2026-08-05T19:55:19Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-08-05T19:14:17Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-08-05T19:13:55Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 448,
-    "updated_at": "2026-08-05T19:12:56Z",
-    "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 0,
-    "updated_at": "2026-08-05T19:10:17Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-08-05T19:09:25Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-08-05T19:07:02Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-08-05T19:06:56Z",
-    "url": "https://github.com/Kushagra1A/openpi"
   }
 ]
