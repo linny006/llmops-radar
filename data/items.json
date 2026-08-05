@@ -1,12 +1,48 @@
 [
   {
-    "description": "Autonomous multi-agent due-diligence desk \u2014 LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving",
-    "id": "hari9618/atlas-agentic-research",
+    "description": "From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp",
+    "id": "adwitiyashukla/process-twin",
     "language": "Python",
-    "name": "hari9618/atlas-agentic-research",
-    "stars": 1,
-    "updated_at": "2026-08-05T04:28:17Z",
-    "url": "https://github.com/hari9618/atlas-agentic-research"
+    "name": "adwitiyashukla/process-twin",
+    "stars": 0,
+    "updated_at": "2026-08-05T04:44:52Z",
+    "url": "https://github.com/adwitiyashukla/process-twin"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7053,
+    "updated_at": "2026-08-05T04:44:51Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-05T04:43:20Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
+    "id": "8monkey-ai/hebo-gateway",
+    "language": "TypeScript",
+    "name": "8monkey-ai/hebo-gateway",
+    "stars": 25,
+    "updated_at": "2026-08-05T04:43:07Z",
+    "url": "https://github.com/8monkey-ai/hebo-gateway"
+  },
+  {
+    "description": "Three auditable self-evolving AI agent systems: benchmark-gated behavior evolution, lifelong skills, and test-gated codi",
+    "id": "Linxiushen/self-evolving-agent-lab",
+    "language": "Python",
+    "name": "Linxiushen/self-evolving-agent-lab",
+    "stars": 0,
+    "updated_at": "2026-08-05T04:38:59Z",
+    "url": "https://github.com/Linxiushen/self-evolving-agent-lab"
   },
   {
     "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
@@ -14,17 +50,53 @@
     "language": "TypeScript",
     "name": "off-grid-ai/OGAC",
     "stars": 12,
-    "updated_at": "2026-08-05T04:27:19Z",
+    "updated_at": "2026-08-05T04:36:39Z",
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp",
-    "id": "adwitiyashukla/process-twin",
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-05T04:35:55Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "adwitiyashukla/process-twin",
+    "name": "comet-ml/opik",
+    "stars": 21115,
+    "updated_at": "2026-08-05T04:44:03Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Local-first agent Gateway with durable sessions, approvals, memory and governed self-evolution",
+    "id": "Linxiushen/evoagent-runtime",
+    "language": "Python",
+    "name": "Linxiushen/evoagent-runtime",
     "stars": 0,
-    "updated_at": "2026-08-05T04:26:31Z",
-    "url": "https://github.com/adwitiyashukla/process-twin"
+    "updated_at": "2026-08-05T04:37:37Z",
+    "url": "https://github.com/Linxiushen/evoagent-runtime"
+  },
+  {
+    "description": "Autonomous multi-agent due-diligence desk \u2014 LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving",
+    "id": "hari9618/atlas-agentic-research",
+    "language": "Python",
+    "name": "hari9618/atlas-agentic-research",
+    "stars": 1,
+    "updated_at": "2026-08-05T04:30:29Z",
+    "url": "https://github.com/hari9618/atlas-agentic-research"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T04:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deterministic-first execution engine for agent workflows in Go: the LLM extracts at the edge, a deterministic state mach",
@@ -34,24 +106,6 @@
     "stars": 80,
     "updated_at": "2026-08-05T04:26:01Z",
     "url": "https://github.com/p0nymc1/cee"
-  },
-  {
-    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
-    "id": "8monkey-ai/hebo-gateway",
-    "language": "TypeScript",
-    "name": "8monkey-ai/hebo-gateway",
-    "stars": 25,
-    "updated_at": "2026-08-05T04:25:14Z",
-    "url": "https://github.com/8monkey-ai/hebo-gateway"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21115,
-    "updated_at": "2026-08-05T04:25:01Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10902,
-    "updated_at": "2026-08-05T04:21:42Z",
+    "updated_at": "2026-08-05T04:35:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55575,
-    "updated_at": "2026-08-05T04:28:49Z",
+    "updated_at": "2026-08-05T04:37:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -115,15 +169,6 @@
     "stars": 1131,
     "updated_at": "2026-08-05T04:18:15Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T04:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Read-only, cross-rail agent spend collector: LLM token + x402 payments in one FOCUS-shaped ledger, with anomaly detectio",
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-05T04:10:36Z",
+    "updated_at": "2026-08-05T04:34:07Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
   },
   {
@@ -234,15 +279,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-05T04:15:35Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -295,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T03:08:56Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Three auditable self-evolving AI agent systems: benchmark-gated behavior evolution, lifelong skills, and test-gated codi",
-    "id": "Linxiushen/self-evolving-agent-lab",
-    "language": "Python",
-    "name": "Linxiushen/self-evolving-agent-lab",
-    "stars": 0,
-    "updated_at": "2026-08-05T03:08:40Z",
-    "url": "https://github.com/Linxiushen/self-evolving-agent-lab"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -369,15 +396,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7053,
-    "updated_at": "2026-08-05T04:07:04Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -401,7 +419,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 85,
-    "updated_at": "2026-08-05T04:10:47Z",
+    "updated_at": "2026-08-05T04:33:34Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T01:59:33Z",
     "url": "https://github.com/sandeep-alluru/worldoracle"
-  },
-  {
-    "description": "Fact-level staleness detection for AI agent memory",
-    "id": "sandeep-alluru/foghorn",
-    "language": "Python",
-    "name": "sandeep-alluru/foghorn",
-    "stars": 0,
-    "updated_at": "2026-08-05T01:58:35Z",
-    "url": "https://github.com/sandeep-alluru/foghorn"
-  },
-  {
-    "description": "Running a 24/7 agent orchestrator (Hermes) with an uncensored local LLM brain on a single 24 GB NVIDIA GPU \u2014 the tuning ",
-    "id": "msemino/local-agent-orchestrator",
-    "language": "\u2014",
-    "name": "msemino/local-agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-05T01:57:00Z",
-    "url": "https://github.com/msemino/local-agent-orchestrator"
   }
 ]
