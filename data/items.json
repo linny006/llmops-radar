@@ -1,5 +1,140 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-05T23:28:45Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 9,
+    "updated_at": "2026-08-05T23:28:28Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 28,
+    "updated_at": "2026-08-05T23:28:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-05T23:28:02Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55644,
+    "updated_at": "2026-08-05T23:27:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted eve, with a dashboard that drives your agents \u2014 not just watches them. Durable Postgres sessions, a Docker s",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-05T23:25:18Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
+    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "language": "Python",
+    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "stars": 0,
+    "updated_at": "2026-08-05T23:22:19Z",
+    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
+  },
+  {
+    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
+    "id": "acr3463/systemprompt-demo",
+    "language": "\u2014",
+    "name": "acr3463/systemprompt-demo",
+    "stars": 0,
+    "updated_at": "2026-08-05T23:21:39Z",
+    "url": "https://github.com/acr3463/systemprompt-demo"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
+    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "language": "HTML",
+    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "stars": 0,
+    "updated_at": "2026-08-05T23:21:33Z",
+    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
+  },
+  {
+    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
+    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "language": "\u2014",
+    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "stars": 0,
+    "updated_at": "2026-08-05T23:20:37Z",
+    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
+  },
+  {
+    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
+    "id": "Mrg77/tfforge",
+    "language": "Go",
+    "name": "Mrg77/tfforge",
+    "stars": 0,
+    "updated_at": "2026-08-05T23:20:29Z",
+    "url": "https://github.com/Mrg77/tfforge"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-05T23:19:29Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "novafabric/novafabric",
+    "language": "Python",
+    "name": "novafabric/novafabric",
+    "stars": 2,
+    "updated_at": "2026-08-05T23:16:15Z",
+    "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-08-05T23:16:09Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T23:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -52,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T23:07:46Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-05T23:07:41Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
@@ -189,24 +315,6 @@
     "url": "https://github.com/sandeep-alluru/agentcrdt"
   },
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-05T23:03:59Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 2,
-    "updated_at": "2026-08-05T23:03:59Z",
-    "url": "https://github.com/novafabric/novafabric"
-  },
-  {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
     "id": "FawwazAzka/openclaw-docs",
     "language": "JavaScript",
@@ -223,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T23:03:29Z",
     "url": "https://github.com/sandeep-alluru/groundcrew"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 28,
-    "updated_at": "2026-08-05T23:14:28Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Content-addressed GUI action facts for computer-use agents",
@@ -288,24 +387,6 @@
     "url": "https://github.com/sandeep-alluru/agentdelta"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T23:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55643,
-    "updated_at": "2026-08-05T23:15:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -324,21 +405,12 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-05T22:57:26Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32583,
-    "updated_at": "2026-08-05T22:57:06Z",
+    "updated_at": "2026-08-05T23:29:37Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -347,7 +419,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 548,
-    "updated_at": "2026-08-05T22:56:57Z",
+    "updated_at": "2026-08-05T23:28:51Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T22:55:58Z",
     "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-08-05T22:54:53Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a",
-    "id": "SammyTourani/evestack",
-    "language": "TypeScript",
-    "name": "SammyTourani/evestack",
-    "stars": 0,
-    "updated_at": "2026-08-05T22:52:47Z",
-    "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-08-05T22:48:49Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10909,
-    "updated_at": "2026-08-05T23:05:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-08-05T22:48:36Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-08-05T22:44:07Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-08-05T22:41:55Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-08-05T22:41:33Z",
-    "url": "https://github.com/Kushagra1A/openpi"
   }
 ]
