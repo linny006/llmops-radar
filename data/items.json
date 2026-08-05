@@ -1,5 +1,113 @@
 [
   {
+    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
+    "id": "Mrg77/tfforge",
+    "language": "Go",
+    "name": "Mrg77/tfforge",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:30:12Z",
+    "url": "https://github.com/Mrg77/tfforge"
+  },
+  {
+    "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
+    "id": "alinafe82/persistent-cognitive-infrastructure",
+    "language": "Python",
+    "name": "alinafe82/persistent-cognitive-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-08-05T00:24:01Z",
+    "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:19:35Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Content-addressed GUI action facts for computer-use agents",
+    "id": "sandeep-alluru/clickproof",
+    "language": "Python",
+    "name": "sandeep-alluru/clickproof",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:18:58Z",
+    "url": "https://github.com/sandeep-alluru/clickproof"
+  },
+  {
+    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
+    "id": "EffortlessMetrics/tokmd",
+    "language": "Rust",
+    "name": "EffortlessMetrics/tokmd",
+    "stars": 5,
+    "updated_at": "2026-08-05T00:18:35Z",
+    "url": "https://github.com/EffortlessMetrics/tokmd"
+  },
+  {
+    "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
+    "id": "sandeep-alluru/rulegraph",
+    "language": "Python",
+    "name": "sandeep-alluru/rulegraph",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:17:19Z",
+    "url": "https://github.com/sandeep-alluru/rulegraph"
+  },
+  {
+    "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
+    "id": "sandeep-alluru/humanproof",
+    "language": "Python",
+    "name": "sandeep-alluru/humanproof",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:16:58Z",
+    "url": "https://github.com/sandeep-alluru/humanproof"
+  },
+  {
+    "description": "Spatial scene graphs and belief state for embodied agents",
+    "id": "sandeep-alluru/polaroid",
+    "language": "Python",
+    "name": "sandeep-alluru/polaroid",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:16:48Z",
+    "url": "https://github.com/sandeep-alluru/polaroid"
+  },
+  {
+    "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
+    "id": "sandeep-alluru/agentcrdt",
+    "language": "Python",
+    "name": "sandeep-alluru/agentcrdt",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:16:14Z",
+    "url": "https://github.com/sandeep-alluru/agentcrdt"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:15:52Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Action receipts and chain-of-custody for AI agents",
+    "id": "sandeep-alluru/groundcrew",
+    "language": "Python",
+    "name": "sandeep-alluru/groundcrew",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:15:40Z",
+    "url": "https://github.com/sandeep-alluru/groundcrew"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T00:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Canonical trace format and verifier for agent execution attestation",
     "id": "sandeep-alluru/notarize",
     "language": "Python",
@@ -23,26 +131,8 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 43,
-    "updated_at": "2026-08-05T00:14:38Z",
+    "updated_at": "2026-08-05T00:27:05Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T00:13:58Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
-    "id": "alinafe82/persistent-cognitive-infrastructure",
-    "language": "Python",
-    "name": "alinafe82/persistent-cognitive-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-08-05T00:15:24Z",
-    "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
   },
   {
     "description": "Diff and regression-detect LLM agent execution traces",
@@ -95,7 +185,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55562,
-    "updated_at": "2026-08-05T00:15:04Z",
+    "updated_at": "2026-08-05T00:30:16Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -113,7 +203,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-08-05T00:15:18Z",
+    "updated_at": "2026-08-05T00:27:51Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -131,7 +221,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1131,
-    "updated_at": "2026-08-04T23:57:03Z",
+    "updated_at": "2026-08-05T00:18:34Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -144,13 +234,13 @@
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:12:48Z",
-    "url": "https://github.com/redevops-io/agentic-os"
+    "name": "Arize-ai/phoenix",
+    "stars": 10900,
+    "updated_at": "2026-08-04T23:54:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -180,31 +270,13 @@
     "url": "https://github.com/runcycles/cycles-spring-ai-starter"
   },
   {
-    "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
-    "id": "EffortlessMetrics/tokmd",
-    "language": "Rust",
-    "name": "EffortlessMetrics/tokmd",
-    "stars": 5,
-    "updated_at": "2026-08-04T23:59:51Z",
-    "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-08-04T23:39:20Z",
+    "updated_at": "2026-08-05T00:24:33Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10899,
-    "updated_at": "2026-08-04T23:54:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -212,7 +284,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1588,
-    "updated_at": "2026-08-05T00:00:33Z",
+    "updated_at": "2026-08-05T00:18:34Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -268,69 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T23:05:07Z",
     "url": "https://github.com/sandeep-alluru/balancelab"
-  },
-  {
-    "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
-    "id": "sandeep-alluru/rulegraph",
-    "language": "Python",
-    "name": "sandeep-alluru/rulegraph",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:04:56Z",
-    "url": "https://github.com/sandeep-alluru/rulegraph"
-  },
-  {
-    "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
-    "id": "sandeep-alluru/humanproof",
-    "language": "Python",
-    "name": "sandeep-alluru/humanproof",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:04:35Z",
-    "url": "https://github.com/sandeep-alluru/humanproof"
-  },
-  {
-    "description": "Spatial scene graphs and belief state for embodied agents",
-    "id": "sandeep-alluru/polaroid",
-    "language": "Python",
-    "name": "sandeep-alluru/polaroid",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:04:25Z",
-    "url": "https://github.com/sandeep-alluru/polaroid"
-  },
-  {
-    "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
-    "id": "sandeep-alluru/agentcrdt",
-    "language": "Python",
-    "name": "sandeep-alluru/agentcrdt",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:03:52Z",
-    "url": "https://github.com/sandeep-alluru/agentcrdt"
-  },
-  {
-    "description": "Action receipts and chain-of-custody for AI agents",
-    "id": "sandeep-alluru/groundcrew",
-    "language": "Python",
-    "name": "sandeep-alluru/groundcrew",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:03:17Z",
-    "url": "https://github.com/sandeep-alluru/groundcrew"
-  },
-  {
-    "description": "Content-addressed GUI action facts for computer-use agents",
-    "id": "sandeep-alluru/clickproof",
-    "language": "Python",
-    "name": "sandeep-alluru/clickproof",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:03:08Z",
-    "url": "https://github.com/sandeep-alluru/clickproof"
-  },
-  {
-    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
-    "id": "Mrg77/tfforge",
-    "language": "Go",
-    "name": "Mrg77/tfforge",
-    "stars": 0,
-    "updated_at": "2026-08-04T22:52:48Z",
-    "url": "https://github.com/Mrg77/tfforge"
   },
   {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T21:57:36Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
-    "description": "The kernel for agents that run real operations. Evals, approvals, earned autonomy and EU AI Act transparency live in the",
-    "id": "automatiqa-lab/orchestriq",
-    "language": "\u2014",
-    "name": "automatiqa-lab/orchestriq",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:53:44Z",
-    "url": "https://github.com/automatiqa-lab/orchestriq"
   }
 ]
