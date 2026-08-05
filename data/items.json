@@ -1,12 +1,93 @@
 [
   {
+    "description": "World-state belief management and contradiction repair for AI agents",
+    "id": "sandeep-alluru/worldoracle",
+    "language": "Python",
+    "name": "sandeep-alluru/worldoracle",
+    "stars": 0,
+    "updated_at": "2026-08-05T01:59:33Z",
+    "url": "https://github.com/sandeep-alluru/worldoracle"
+  },
+  {
+    "description": "Fact-level staleness detection for AI agent memory",
+    "id": "sandeep-alluru/foghorn",
+    "language": "Python",
+    "name": "sandeep-alluru/foghorn",
+    "stars": 0,
+    "updated_at": "2026-08-05T01:58:35Z",
+    "url": "https://github.com/sandeep-alluru/foghorn"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55564,
-    "updated_at": "2026-08-05T01:44:58Z",
+    "updated_at": "2026-08-05T01:58:15Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8170,
+    "updated_at": "2026-08-05T01:57:32Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Running a 24/7 agent orchestrator (Hermes) with an uncensored local LLM brain on a single 24 GB NVIDIA GPU \u2014 the tuning ",
+    "id": "msemino/local-agent-orchestrator",
+    "language": "\u2014",
+    "name": "msemino/local-agent-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-05T01:57:00Z",
+    "url": "https://github.com/msemino/local-agent-orchestrator"
+  },
+  {
+    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
+    "id": "vul-os/llmux",
+    "language": "Go",
+    "name": "vul-os/llmux",
+    "stars": 2,
+    "updated_at": "2026-08-05T01:55:56Z",
+    "url": "https://github.com/vul-os/llmux"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-05T01:55:19Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-08-05T01:51:39Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "A collection of tricks and tools to speed up transformer models",
+    "id": "OpenMachine-ai/transformer-tricks",
+    "language": "TeX",
+    "name": "OpenMachine-ai/transformer-tricks",
+    "stars": 220,
+    "updated_at": "2026-08-05T01:45:50Z",
+    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T01:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -22,7 +103,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7048,
+    "stars": 7049,
     "updated_at": "2026-08-05T01:41:15Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -34,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T01:31:23Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T01:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
@@ -59,7 +131,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-08-05T01:44:37Z",
+    "updated_at": "2026-08-05T01:56:15Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -86,8 +158,17 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2557,
-    "updated_at": "2026-08-05T01:43:10Z",
+    "updated_at": "2026-08-05T02:00:17Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29535,
+    "updated_at": "2026-08-05T01:19:18Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Desktop workbench for Claude Code \u2014 live subagent topology, token cost breakdown with drill-down, hook sandbox, config a",
@@ -140,17 +221,8 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 1,
-    "updated_at": "2026-08-05T00:57:29Z",
+    "updated_at": "2026-08-05T01:50:28Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8170,
-    "updated_at": "2026-08-05T00:56:47Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Three auditable self-evolving AI agent systems: benchmark-gated behavior evolution, lifelong skills, and test-gated codi",
@@ -297,15 +369,6 @@
     "url": "https://github.com/sandeep-alluru/notarize"
   },
   {
-    "description": "Fact-level staleness detection for AI agent memory",
-    "id": "sandeep-alluru/foghorn",
-    "language": "Python",
-    "name": "sandeep-alluru/foghorn",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:14:49Z",
-    "url": "https://github.com/sandeep-alluru/foghorn"
-  },
-  {
     "description": "Diff and regression-detect LLM agent execution traces",
     "id": "sandeep-alluru/agentdelta",
     "language": "Python",
@@ -373,7 +436,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10900,
+    "stars": 10901,
     "updated_at": "2026-08-04T23:54:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-04T23:50:03Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
-    "id": "alinafe82/cognitive-deadlift",
-    "language": "Python",
-    "name": "alinafe82/cognitive-deadlift",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:50:26Z",
-    "url": "https://github.com/alinafe82/cognitive-deadlift"
-  },
-  {
-    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
-    "id": "runcycles/cycles-spring-ai-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-ai-starter",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:45:14Z",
-    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
-  },
-  {
-    "description": "CairnOps \u2014 AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea",
-    "id": "Hilalalpak/CairnOps",
-    "language": "Python",
-    "name": "Hilalalpak/CairnOps",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:12:07Z",
-    "url": "https://github.com/Hilalalpak/CairnOps"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32517,
-    "updated_at": "2026-08-04T23:10:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
-    "id": "responsibleai/assert-ai-action",
-    "language": "Python",
-    "name": "responsibleai/assert-ai-action",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:10:03Z",
-    "url": "https://github.com/responsibleai/assert-ai-action"
-  },
-  {
-    "description": "World-state belief management and contradiction repair for AI agents",
-    "id": "sandeep-alluru/worldoracle",
-    "language": "Python",
-    "name": "sandeep-alluru/worldoracle",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:05:25Z",
-    "url": "https://github.com/sandeep-alluru/worldoracle"
-  },
-  {
-    "description": "Norm monitoring and violation detection for AI agent actions",
-    "id": "sandeep-alluru/normsync",
-    "language": "Python",
-    "name": "sandeep-alluru/normsync",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:05:17Z",
-    "url": "https://github.com/sandeep-alluru/normsync"
   }
 ]
