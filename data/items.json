@@ -1,12 +1,12 @@
 [
   {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-05T21:30:07Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
+    "description": "Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-05T21:44:24Z",
+    "url": "https://github.com/SammyTourani/evestack"
   },
   {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
@@ -14,8 +14,143 @@
     "language": "Python",
     "name": "novafabric/novafabric",
     "stars": 2,
-    "updated_at": "2026-08-05T21:29:35Z",
+    "updated_at": "2026-08-05T21:43:36Z",
     "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "Routes, caches, and batches LLM requests: 73% cheaper. Now also measures whether the routing is correct, which the keywo",
+    "id": "ahmeddoghri/vllm-cost-router",
+    "language": "Python",
+    "name": "ahmeddoghri/vllm-cost-router",
+    "stars": 0,
+    "updated_at": "2026-08-05T21:42:57Z",
+    "url": "https://github.com/ahmeddoghri/vllm-cost-router"
+  },
+  {
+    "description": "Model what speculative decoding actually buys you, no GPU required. Found the i.i.d.-agreement assumption was hiding a r",
+    "id": "ahmeddoghri/speculabench",
+    "language": "Python",
+    "name": "ahmeddoghri/speculabench",
+    "stars": 0,
+    "updated_at": "2026-08-05T21:42:28Z",
+    "url": "https://github.com/ahmeddoghri/speculabench"
+  },
+  {
+    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
+    "id": "DiogoRibeiro7/ragops-lab",
+    "language": "Jupyter Notebook",
+    "name": "DiogoRibeiro7/ragops-lab",
+    "stars": 0,
+    "updated_at": "2026-08-05T21:44:44Z",
+    "url": "https://github.com/DiogoRibeiro7/ragops-lab"
+  },
+  {
+    "description": "How much KV cache can you throw away before the model forgets? Found the H2O-style policy was freezing the cache after i",
+    "id": "ahmeddoghri/kvsqueeze",
+    "language": "Python",
+    "name": "ahmeddoghri/kvsqueeze",
+    "stars": 0,
+    "updated_at": "2026-08-05T21:41:45Z",
+    "url": "https://github.com/ahmeddoghri/kvsqueeze"
+  },
+  {
+    "description": "Catches PII leaks and ungrounded claims in one pass. Now measured against the hard half: hallucinations that reuse the s",
+    "id": "ahmeddoghri/guardrail-gate",
+    "language": "Python",
+    "name": "ahmeddoghri/guardrail-gate",
+    "stars": 0,
+    "updated_at": "2026-08-05T21:41:41Z",
+    "url": "https://github.com/ahmeddoghri/guardrail-gate"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7076,
+    "updated_at": "2026-08-05T21:41:20Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-08-05T21:36:11Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
+    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "language": "Python",
+    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "stars": 0,
+    "updated_at": "2026-08-05T21:34:03Z",
+    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
+  },
+  {
+    "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
+    "id": "Palo-Alto-AI-Research-Lab/awesome-verified-agents",
+    "language": "\u2014",
+    "name": "Palo-Alto-AI-Research-Lab/awesome-verified-agents",
+    "stars": 0,
+    "updated_at": "2026-08-05T21:33:45Z",
+    "url": "https://github.com/Palo-Alto-AI-Research-Lab/awesome-verified-agents"
+  },
+  {
+    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
+    "id": "acr3463/systemprompt-demo",
+    "language": "\u2014",
+    "name": "acr3463/systemprompt-demo",
+    "stars": 0,
+    "updated_at": "2026-08-05T21:33:22Z",
+    "url": "https://github.com/acr3463/systemprompt-demo"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
+    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "language": "HTML",
+    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "stars": 0,
+    "updated_at": "2026-08-05T21:32:56Z",
+    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
+  },
+  {
+    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
+    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "language": "\u2014",
+    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "stars": 0,
+    "updated_at": "2026-08-05T21:32:21Z",
+    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55643,
+    "updated_at": "2026-08-05T21:42:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T21:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-05T21:30:07Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -34,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T21:26:52Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a",
-    "id": "SammyTourani/evestack",
-    "language": "TypeScript",
-    "name": "SammyTourani/evestack",
-    "stars": 0,
-    "updated_at": "2026-08-05T21:25:35Z",
-    "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55643,
-    "updated_at": "2026-08-05T21:29:32Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -144,15 +261,6 @@
     "url": "https://github.com/routeplane-core/routeplane-ce"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T21:15:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
     "id": "FawwazAzka/openclaw-docs",
     "language": "JavaScript",
@@ -167,7 +275,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-08-05T21:14:40Z",
+    "updated_at": "2026-08-05T21:35:55Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -176,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3473,
-    "updated_at": "2026-08-05T21:26:00Z",
+    "updated_at": "2026-08-05T21:38:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -196,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T21:12:59Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
-    "id": "DiogoRibeiro7/ragops-lab",
-    "language": "Jupyter Notebook",
-    "name": "DiogoRibeiro7/ragops-lab",
-    "stars": 0,
-    "updated_at": "2026-08-05T21:17:43Z",
-    "url": "https://github.com/DiogoRibeiro7/ragops-lab"
   },
   {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
@@ -274,7 +373,7 @@
     "id": "gabrieldevms/applied-ai-engineering-lab",
     "language": "Python",
     "name": "gabrieldevms/applied-ai-engineering-lab",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-05T21:07:21Z",
     "url": "https://github.com/gabrieldevms/applied-ai-engineering-lab"
   },
@@ -293,7 +392,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27379,
-    "updated_at": "2026-08-05T21:05:12Z",
+    "updated_at": "2026-08-05T21:44:32Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -302,7 +401,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 11,
-    "updated_at": "2026-08-05T21:02:19Z",
+    "updated_at": "2026-08-05T21:30:50Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -311,7 +410,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-05T21:10:03Z",
+    "updated_at": "2026-08-05T21:44:40Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-05T20:53:46Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1061,
-    "updated_at": "2026-08-05T20:52:58Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-08-05T20:52:55Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-08-05T20:52:40Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "A curated, auto-updating list of open-source guardrails for LLM applications: prompt-injection defense, PII, content saf",
-    "id": "royalpinto007/awesome-llm-guardrails",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-llm-guardrails",
-    "stars": 0,
-    "updated_at": "2026-08-05T20:49:01Z",
-    "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
-  },
-  {
-    "description": "A curated list of tools, frameworks, benchmarks, and ideas for evaluating AI agents.",
-    "id": "royalpinto007/awesome-agent-evals",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-agent-evals",
-    "stars": 0,
-    "updated_at": "2026-08-05T20:48:56Z",
-    "url": "https://github.com/royalpinto007/awesome-agent-evals"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 9,
-    "updated_at": "2026-08-05T20:48:16Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7076,
-    "updated_at": "2026-08-05T20:48:12Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3487,
-    "updated_at": "2026-08-05T20:49:09Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-08-05T20:42:34Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
-    "id": "acr3463/systemprompt-demo",
-    "language": "\u2014",
-    "name": "acr3463/systemprompt-demo",
-    "stars": 0,
-    "updated_at": "2026-08-05T20:41:54Z",
-    "url": "https://github.com/acr3463/systemprompt-demo"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
-    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "language": "HTML",
-    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "stars": 0,
-    "updated_at": "2026-08-05T20:41:30Z",
-    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
   }
 ]
