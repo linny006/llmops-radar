@@ -1,5 +1,86 @@
 [
   {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-05T17:29:24Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
+    "id": "runcycles/cycles-client-typescript",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-client-typescript",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:27:48Z",
+    "url": "https://github.com/runcycles/cycles-client-typescript"
+  },
+  {
+    "description": "Aegis - Dynamic LLM-Driven Agentic Planning Loop Autonomous SRE Incident Orchestrator",
+    "id": "imshawan/aegis-dapl-agent",
+    "language": "TypeScript",
+    "name": "imshawan/aegis-dapl-agent",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:26:49Z",
+    "url": "https://github.com/imshawan/aegis-dapl-agent"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3472,
+    "updated_at": "2026-08-05T17:27:17Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
+    "id": "Mrg77/tfforge",
+    "language": "Go",
+    "name": "Mrg77/tfforge",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:16:08Z",
+    "url": "https://github.com/Mrg77/tfforge"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:16:00Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T17:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 28,
+    "updated_at": "2026-08-05T17:15:18Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55626,
+    "updated_at": "2026-08-05T17:28:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
     "id": "Yacine-ai-tech/RAGeval",
     "language": "TypeScript",
@@ -9,21 +90,12 @@
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-05T17:12:31Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-05T17:15:09Z",
+    "updated_at": "2026-08-05T17:25:52Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -32,17 +104,8 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 547,
-    "updated_at": "2026-08-05T17:09:32Z",
+    "updated_at": "2026-08-05T17:28:42Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55626,
-    "updated_at": "2026-08-05T17:14:48Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "World-state belief management and contradiction repair for AI agents",
@@ -108,15 +171,6 @@
     "url": "https://github.com/sandeep-alluru/agentcrdt"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 28,
-    "updated_at": "2026-08-05T17:15:18Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Action receipts and chain-of-custody for AI agents",
     "id": "sandeep-alluru/groundcrew",
     "language": "Python",
@@ -139,18 +193,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32576,
+    "stars": 32575,
     "updated_at": "2026-08-05T17:03:12Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T17:02:55Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Canonical trace format and verifier for agent execution attestation",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T17:00:41Z",
     "url": "https://github.com/sandeep-alluru/agentdelta"
-  },
-  {
-    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
-    "id": "Mrg77/tfforge",
-    "language": "Go",
-    "name": "Mrg77/tfforge",
-    "stars": 0,
-    "updated_at": "2026-08-05T16:58:40Z",
-    "url": "https://github.com/Mrg77/tfforge"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -365,7 +401,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-05T16:05:48Z",
+    "updated_at": "2026-08-05T17:20:50Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1603,
-    "updated_at": "2026-08-05T16:54:23Z",
+    "updated_at": "2026-08-05T17:20:12Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-05T16:05:18Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-05T17:00:14Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Dependabot for LLM models \u2014 scans code for outdated AI model strings, opens upgrade PRs automatically",
-    "id": "agamm/llm-upgrade-bot",
-    "language": "TypeScript",
-    "name": "agamm/llm-upgrade-bot",
-    "stars": 3,
-    "updated_at": "2026-08-05T15:50:56Z",
-    "url": "https://github.com/agamm/llm-upgrade-bot"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3472,
-    "updated_at": "2026-08-05T17:06:52Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
-    "id": "kreftamarcio/prompt-forge",
-    "language": "TypeScript",
-    "name": "kreftamarcio/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:25:56Z",
-    "url": "https://github.com/kreftamarcio/prompt-forge"
   }
 ]
