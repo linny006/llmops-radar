@@ -1,12 +1,84 @@
 [
   {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-05T22:43:57Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-08-05T22:41:55Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 28,
-    "updated_at": "2026-08-05T22:30:08Z",
+    "updated_at": "2026-08-05T22:41:54Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 7,
+    "updated_at": "2026-08-05T22:41:33Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55644,
+    "updated_at": "2026-08-05T22:43:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 9,
+    "updated_at": "2026-08-05T22:37:21Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
+    "id": "vul-os/llmux",
+    "language": "Go",
+    "name": "vul-os/llmux",
+    "stars": 2,
+    "updated_at": "2026-08-05T22:36:01Z",
+    "url": "https://github.com/vul-os/llmux"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 3,
+    "updated_at": "2026-08-05T22:35:52Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27379,
+    "updated_at": "2026-08-05T22:43:36Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a",
@@ -14,8 +86,17 @@
     "language": "TypeScript",
     "name": "SammyTourani/evestack",
     "stars": 0,
-    "updated_at": "2026-08-05T22:25:19Z",
+    "updated_at": "2026-08-05T22:30:52Z",
     "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T22:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -25,15 +106,6 @@
     "stars": 72,
     "updated_at": "2026-08-05T22:25:01Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55644,
-    "updated_at": "2026-08-05T22:30:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 548,
-    "updated_at": "2026-08-05T22:20:08Z",
+    "updated_at": "2026-08-05T22:38:51Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10909,
-    "updated_at": "2026-08-05T22:26:05Z",
+    "updated_at": "2026-08-05T22:40:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -70,6 +142,15 @@
     "stars": 3,
     "updated_at": "2026-08-05T22:18:43Z",
     "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7077,
+    "updated_at": "2026-08-05T22:18:18Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -88,15 +169,6 @@
     "stars": 7,
     "updated_at": "2026-08-05T22:15:32Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T22:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -122,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3474,
-    "updated_at": "2026-08-05T22:19:57Z",
+    "updated_at": "2026-08-05T22:43:27Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -131,7 +203,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-08-05T22:17:52Z",
+    "updated_at": "2026-08-05T22:38:36Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -216,15 +288,6 @@
     "url": "https://github.com/gabrieldevms/applied-ai-engineering-lab"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27379,
-    "updated_at": "2026-08-05T21:44:32Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Routes, caches, and batches LLM requests: 73% cheaper. Now also measures whether the routing is correct, which the keywo",
     "id": "ahmeddoghri/vllm-cost-router",
     "language": "Python",
@@ -259,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T21:41:41Z",
     "url": "https://github.com/ahmeddoghri/guardrail-gate"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7076,
-    "updated_at": "2026-08-05T22:18:18Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T21:18:41Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-05T21:18:40Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-08-05T21:18:23Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-08-05T21:17:58Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-08-05T21:16:22Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
-    "id": "routeplane-core/routeplane-ce",
-    "language": "Rust",
-    "name": "routeplane-core/routeplane-ce",
-    "stars": 6,
-    "updated_at": "2026-08-05T21:16:50Z",
-    "url": "https://github.com/routeplane-core/routeplane-ce"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-08-05T21:15:22Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
