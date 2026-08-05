@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 06:11 UTC
+> ⏰ Last updated: 2026-08-05 06:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2560 | C++ | 2026-08-05 | Community maintained hardware plugin for vLLM on Ascend |
-| 2 | [okfriansyah-moh/the-foundry](https://github.com/okfriansyah-moh/the-foundry) | 0 | Go | 2026-08-05 | Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself — build, verify, deploy, improve — until it's shi |
-| 3 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27368 | Python | 2026-08-05 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55576 | Python | 2026-08-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2560 | C++ | 2026-08-05 | Community maintained hardware plugin for vLLM on Ascend |
+| 3 | [okfriansyah-moh/the-foundry](https://github.com/okfriansyah-moh/the-foundry) | 0 | Go | 2026-08-05 | Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself — build, verify, deploy, improve — until it's shi |
+| 4 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27368 | Python | 2026-08-05 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55576 | Python | 2026-08-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 6 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 12 | TypeScript | 2026-08-05 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
 | 7 | [Red1-Rahman/NiriZan](https://github.com/Red1-Rahman/NiriZan) | 0 | Jupyter Notebook | 2026-08-05 | Continuous Evaluation Infrastructure for Production AI |
 | 8 | [montrealks/ai-gateway-tiers](https://github.com/montrealks/ai-gateway-tiers) | 0 | Python | 2026-08-05 | Ask for a capability tier, never a model. Azure-first fallback chains on Cloudflare AI Gateway's universal endpoint, wit |
