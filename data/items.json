@@ -1,5 +1,86 @@
 [
   {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:57:31Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1602,
+    "updated_at": "2026-08-05T15:55:34Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
+    "id": "ALLMA-dev/allma-core",
+    "language": "TypeScript",
+    "name": "ALLMA-dev/allma-core",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:54:31Z",
+    "url": "https://github.com/ALLMA-dev/allma-core"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:57:13Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-05T15:52:34Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Deterministic pre-deployment checks for AI agent systems. Blocks unsafe designs before they ship.",
+    "id": "arthursilas-ai/agent-preflight",
+    "language": "Python",
+    "name": "arthursilas-ai/agent-preflight",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:51:14Z",
+    "url": "https://github.com/arthursilas-ai/agent-preflight"
+  },
+  {
+    "description": "Dependabot for LLM models \u2014 scans code for outdated AI model strings, opens upgrade PRs automatically",
+    "id": "agamm/llm-upgrade-bot",
+    "language": "TypeScript",
+    "name": "agamm/llm-upgrade-bot",
+    "stars": 3,
+    "updated_at": "2026-08-05T15:50:56Z",
+    "url": "https://github.com/agamm/llm-upgrade-bot"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 548,
+    "updated_at": "2026-08-05T15:49:35Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:45:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
     "id": "soit-ai/soit",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29546,
-    "updated_at": "2026-08-05T15:43:32Z",
+    "updated_at": "2026-08-05T16:00:15Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -23,17 +104,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3472,
-    "updated_at": "2026-08-05T15:44:50Z",
+    "updated_at": "2026-08-05T15:55:09Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:40:52Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -52,15 +124,6 @@
     "stars": 28,
     "updated_at": "2026-08-05T15:30:49Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T15:44:50Z",
     "url": "https://github.com/Mrg77/tfforge"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1602,
-    "updated_at": "2026-08-05T15:20:10Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -149,7 +203,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32571,
-    "updated_at": "2026-08-05T15:45:30Z",
+    "updated_at": "2026-08-05T16:00:11Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10908,
-    "updated_at": "2026-08-05T15:08:22Z",
+    "updated_at": "2026-08-05T16:00:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-05T15:42:33Z",
+    "updated_at": "2026-08-05T15:54:50Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21125,
-    "updated_at": "2026-08-05T15:44:03Z",
+    "updated_at": "2026-08-05T15:48:34Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -252,15 +306,6 @@
     "url": "https://github.com/novafabric/novafabric"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 548,
-    "updated_at": "2026-08-05T15:20:20Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -279,15 +324,6 @@
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "Deterministic pre-deployment checks for AI agent systems. Blocks unsafe designs before they ship.",
-    "id": "arthursilas-ai/agent-preflight",
-    "language": "Python",
-    "name": "arthursilas-ai/agent-preflight",
-    "stars": 0,
-    "updated_at": "2026-08-05T14:35:16Z",
-    "url": "https://github.com/arthursilas-ai/agent-preflight"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -297,20 +333,11 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-05T14:29:42Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
     "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 888,
+    "stars": 889,
     "updated_at": "2026-08-05T14:27:32Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T13:18:51Z",
     "url": "https://github.com/mutton-dev/raggate-action"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5537,
-    "updated_at": "2026-08-05T13:11:24Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-08-05T13:10:13Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2568,
-    "updated_at": "2026-08-05T13:09:21Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
