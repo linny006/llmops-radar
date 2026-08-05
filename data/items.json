@@ -1,12 +1,84 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3469,
+    "updated_at": "2026-08-05T08:44:38Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
+    "id": "vul-os/llmux",
+    "language": "Go",
+    "name": "vul-os/llmux",
+    "stars": 2,
+    "updated_at": "2026-08-05T08:42:03Z",
+    "url": "https://github.com/vul-os/llmux"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-05T08:29:19Z",
+    "updated_at": "2026-08-05T08:35:34Z",
     "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 19,
+    "updated_at": "2026-08-05T08:32:04Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 86,
+    "updated_at": "2026-08-05T08:42:01Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Compute capital allocation for AI agents \u2014 fund only actions whose expected marginal value justifies tokens, cost, laten",
+    "id": "SignalLayerLabs/Marginal",
+    "language": "Python",
+    "name": "SignalLayerLabs/Marginal",
+    "stars": 1,
+    "updated_at": "2026-08-05T08:31:22Z",
+    "url": "https://github.com/SignalLayerLabs/Marginal"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-08-05T08:30:30Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T08:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32547,
+    "updated_at": "2026-08-05T08:42:13Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55592,
-    "updated_at": "2026-08-05T08:24:03Z",
+    "updated_at": "2026-08-05T08:45:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21117,
-    "updated_at": "2026-08-05T08:23:09Z",
+    "updated_at": "2026-08-05T08:41:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -58,18 +130,9 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2565,
+    "stars": 2567,
     "updated_at": "2026-08-05T08:21:15Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 85,
-    "updated_at": "2026-08-05T08:18:25Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -79,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T08:17:00Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Compute capital allocation for AI agents \u2014 fund only actions whose expected marginal value justifies tokens, cost, laten",
-    "id": "SignalLayerLabs/Marginal",
-    "language": "Python",
-    "name": "SignalLayerLabs/Marginal",
-    "stars": 1,
-    "updated_at": "2026-08-05T08:28:57Z",
-    "url": "https://github.com/SignalLayerLabs/Marginal"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:15:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
@@ -126,15 +171,6 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32546,
-    "updated_at": "2026-08-05T08:29:41Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 385,
-    "updated_at": "2026-08-05T07:58:52Z",
+    "updated_at": "2026-08-05T08:37:25Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7060,
-    "updated_at": "2026-08-05T08:28:44Z",
+    "updated_at": "2026-08-05T08:42:32Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T07:47:21Z",
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 26,
-    "updated_at": "2026-08-05T07:46:55Z",
-    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1592,
-    "updated_at": "2026-08-05T08:26:22Z",
+    "updated_at": "2026-08-05T08:39:54Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -347,7 +374,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-05T06:28:30Z",
+    "updated_at": "2026-08-05T08:43:20Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Rust",
     "name": "EffortlessMetrics/tokmd",
     "stars": 5,
-    "updated_at": "2026-08-05T07:03:43Z",
+    "updated_at": "2026-08-05T08:32:06Z",
     "url": "https://github.com/EffortlessMetrics/tokmd"
-  },
-  {
-    "description": "The kernel for agents that run real operations. Evals, approvals, earned autonomy and EU AI Act transparency live in the",
-    "id": "automatiqa-lab/orchestriq",
-    "language": "\u2014",
-    "name": "automatiqa-lab/orchestriq",
-    "stars": 0,
-    "updated_at": "2026-08-05T05:41:47Z",
-    "url": "https://github.com/automatiqa-lab/orchestriq"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-05T05:31:52Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 100+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 77,
-    "updated_at": "2026-08-05T05:27:06Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
   }
 ]
