@@ -1,12 +1,48 @@
 [
   {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-08-05T01:29:46Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-05T01:24:01Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2557,
+    "updated_at": "2026-08-05T01:23:32Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55563,
-    "updated_at": "2026-08-05T01:14:50Z",
+    "updated_at": "2026-08-05T01:26:20Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T01:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Desktop workbench for Claude Code \u2014 live subagent topology, token cost breakdown with drill-down, hook sandbox, config a",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "lookfree/cc-harness",
     "stars": 45,
-    "updated_at": "2026-08-05T01:13:47Z",
+    "updated_at": "2026-08-05T01:30:02Z",
     "url": "https://github.com/lookfree/cc-harness"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 74,
     "updated_at": "2026-08-05T01:07:14Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T01:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase.",
@@ -54,6 +81,15 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:59:28Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -63,13 +99,13 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2556,
-    "updated_at": "2026-08-05T00:56:56Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8170,
+    "updated_at": "2026-08-05T00:56:47Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Three auditable self-evolving AI agent systems: benchmark-gated behavior evolution, lifelong skills, and test-gated codi",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T00:56:03Z",
     "url": "https://github.com/Linxiushen/self-evolving-agent-lab"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-05T00:53:57Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Local coding-agent orchestrator \u2014 DAG of auto-approved, git-worktree-isolated sub-sessions across LLM providers (Claude/",
@@ -117,15 +144,6 @@
     "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
   },
   {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-08-05T00:42:59Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -140,7 +158,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23929,
-    "updated_at": "2026-08-05T00:34:07Z",
+    "updated_at": "2026-08-05T01:28:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "redevops-io/mission-sdk",
     "stars": 0,
-    "updated_at": "2026-08-05T00:39:42Z",
+    "updated_at": "2026-08-05T01:30:17Z",
     "url": "https://github.com/redevops-io/mission-sdk"
   },
   {
@@ -360,15 +378,6 @@
     "url": "https://github.com/runcycles/cycles-spring-ai-starter"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8169,
-    "updated_at": "2026-08-05T00:56:47Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "CairnOps \u2014 AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea",
     "id": "Hilalalpak/CairnOps",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T22:24:34Z",
     "url": "https://github.com/JumpMasters/tollgate"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-04T22:21:08Z",
-    "url": "https://github.com/crewhaus/factory"
   }
 ]
