@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 21:44 UTC
+> ⏰ Last updated: 2026-08-05 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SammyTourani/evestack](https://github.com/SammyTourani/evestack) | 0 | TypeScript | 2026-08-05 | Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a |
-| 2 | [novafabric/novafabric](https://github.com/novafabric/novafabric) | 2 | Python | 2026-08-05 | Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted |
-| 3 | [ahmeddoghri/vllm-cost-router](https://github.com/ahmeddoghri/vllm-cost-router) | 0 | Python | 2026-08-05 | Routes, caches, and batches LLM requests: 73% cheaper. Now also measures whether the routing is correct, which the keywo |
-| 4 | [ahmeddoghri/speculabench](https://github.com/ahmeddoghri/speculabench) | 0 | Python | 2026-08-05 | Model what speculative decoding actually buys you, no GPU required. Found the i.i.d.-agreement assumption was hiding a r |
-| 5 | [DiogoRibeiro7/ragops-lab](https://github.com/DiogoRibeiro7/ragops-lab) | 0 | Jupyter Notebook | 2026-08-05 | Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e |
-| 6 | [ahmeddoghri/kvsqueeze](https://github.com/ahmeddoghri/kvsqueeze) | 0 | Python | 2026-08-05 | How much KV cache can you throw away before the model forgets? Found the H2O-style policy was freezing the cache after i |
-| 7 | [ahmeddoghri/guardrail-gate](https://github.com/ahmeddoghri/guardrail-gate) | 0 | Python | 2026-08-05 | Catches PII leaks and ungrounded claims in one pass. Now measured against the hard half: hallucinations that reuse the s |
-| 8 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7076 | Go | 2026-08-05 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 9 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-08-05 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 10 | [Traciewheelless86/sentiment-analysis-nlp-api](https://github.com/Traciewheelless86/sentiment-analysis-nlp-api) | 0 | Python | 2026-08-05 | Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F |
-| 11 | [Palo-Alto-AI-Research-Lab/awesome-verified-agents](https://github.com/Palo-Alto-AI-Research-Lab/awesome-verified-agents) | 0 | — | 2026-08-05 | Tools that produce evidence about what an AI agent actually did — gates, attestation, output verification, benchmarks. I |
-| 12 | [acr3463/systemprompt-demo](https://github.com/acr3463/systemprompt-demo) | 0 | — | 2026-08-05 | Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co |
-| 13 | [Unadventurous-concertina802/arcadia-win-script-execute](https://github.com/Unadventurous-concertina802/arcadia-win-script-execute) | 0 | HTML | 2026-08-05 | Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts |
-| 14 | [Conflictofinteresteddy300/FlowLens-AgentOps](https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps) | 0 | — | 2026-08-05 | Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution. |
-| 15 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55643 | Python | 2026-08-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 16 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [SammyTourani/evestack](https://github.com/SammyTourani/evestack) | 0 | TypeScript | 2026-08-05 | Self-hosted agent observability and control for Vercel's eve framework. Durable Postgres sessions, Docker sandbox, and a |
+| 3 | [novafabric/novafabric](https://github.com/novafabric/novafabric) | 2 | Python | 2026-08-05 | Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted |
+| 4 | [ahmeddoghri/vllm-cost-router](https://github.com/ahmeddoghri/vllm-cost-router) | 0 | Python | 2026-08-05 | Routes, caches, and batches LLM requests: 73% cheaper. Now also measures whether the routing is correct, which the keywo |
+| 5 | [ahmeddoghri/speculabench](https://github.com/ahmeddoghri/speculabench) | 0 | Python | 2026-08-05 | Model what speculative decoding actually buys you, no GPU required. Found the i.i.d.-agreement assumption was hiding a r |
+| 6 | [DiogoRibeiro7/ragops-lab](https://github.com/DiogoRibeiro7/ragops-lab) | 0 | Jupyter Notebook | 2026-08-05 | Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e |
+| 7 | [ahmeddoghri/kvsqueeze](https://github.com/ahmeddoghri/kvsqueeze) | 0 | Python | 2026-08-05 | How much KV cache can you throw away before the model forgets? Found the H2O-style policy was freezing the cache after i |
+| 8 | [ahmeddoghri/guardrail-gate](https://github.com/ahmeddoghri/guardrail-gate) | 0 | Python | 2026-08-05 | Catches PII leaks and ungrounded claims in one pass. Now measured against the hard half: hallucinations that reuse the s |
+| 9 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7076 | Go | 2026-08-05 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 10 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 5 | Go | 2026-08-05 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 11 | [Traciewheelless86/sentiment-analysis-nlp-api](https://github.com/Traciewheelless86/sentiment-analysis-nlp-api) | 0 | Python | 2026-08-05 | Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F |
+| 12 | [Palo-Alto-AI-Research-Lab/awesome-verified-agents](https://github.com/Palo-Alto-AI-Research-Lab/awesome-verified-agents) | 0 | — | 2026-08-05 | Tools that produce evidence about what an AI agent actually did — gates, attestation, output verification, benchmarks. I |
+| 13 | [acr3463/systemprompt-demo](https://github.com/acr3463/systemprompt-demo) | 0 | — | 2026-08-05 | Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co |
+| 14 | [Unadventurous-concertina802/arcadia-win-script-execute](https://github.com/Unadventurous-concertina802/arcadia-win-script-execute) | 0 | HTML | 2026-08-05 | Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts |
+| 15 | [Conflictofinteresteddy300/FlowLens-AgentOps](https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps) | 0 | — | 2026-08-05 | Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution. |
+| 16 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55643 | Python | 2026-08-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 17 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-05 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
 | 18 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-08-05 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
 | 19 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-08-05 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
