@@ -1,12 +1,84 @@
 [
   {
+    "description": "Signed behavioral fingerprint for LLM agents \u2014 your CI gate for model-update day.",
+    "id": "MrPredic/indelible",
+    "language": "Python",
+    "name": "MrPredic/indelible",
+    "stars": 0,
+    "updated_at": "2026-08-05T14:56:42Z",
+    "url": "https://github.com/MrPredic/indelible"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-05T14:54:14Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10907,
+    "updated_at": "2026-08-05T14:56:02Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-05T14:52:39Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-05T14:51:37Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "novafabric/novafabric",
+    "language": "Python",
+    "name": "novafabric/novafabric",
+    "stars": 1,
+    "updated_at": "2026-08-05T14:49:03Z",
+    "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32568,
+    "updated_at": "2026-08-05T14:56:03Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
     "id": "lizhuojunx86/traceguard",
     "language": "Python",
     "name": "lizhuojunx86/traceguard",
     "stars": 2,
-    "updated_at": "2026-08-05T14:44:18Z",
+    "updated_at": "2026-08-05T14:58:33Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T14:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 367,
-    "updated_at": "2026-08-05T14:43:59Z",
+    "updated_at": "2026-08-05T14:50:41Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3470,
-    "updated_at": "2026-08-05T14:44:04Z",
+    "updated_at": "2026-08-05T15:00:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -36,40 +108,31 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21124,
+    "updated_at": "2026-08-05T14:55:55Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7072,
-    "updated_at": "2026-08-05T14:41:47Z",
+    "updated_at": "2026-08-05T14:48:35Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32567,
-    "updated_at": "2026-08-05T14:40:59Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10907,
-    "updated_at": "2026-08-05T14:40:50Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21123,
-    "updated_at": "2026-08-05T14:42:50Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "ComposioHQ/composio",
+    "stars": 29547,
+    "updated_at": "2026-08-05T14:36:28Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Deterministic pre-deployment checks for AI agent systems. Blocks unsafe designs before they ship.",
@@ -90,24 +153,6 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-05T14:43:37Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T14:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
     "id": "Yesol-Pilot/neosignal-check",
     "language": "Python",
@@ -121,7 +166,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 884,
+    "stars": 885,
     "updated_at": "2026-08-05T14:27:32Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T14:41:54Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Signed behavioral fingerprint for LLM agents \u2014 your CI gate for model-update day.",
-    "id": "MrPredic/indelible",
-    "language": "Python",
-    "name": "MrPredic/indelible",
-    "stars": 0,
-    "updated_at": "2026-08-05T14:37:56Z",
-    "url": "https://github.com/MrPredic/indelible"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -171,15 +207,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-05T14:42:08Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
     "id": "bytebeast/check-endpoint",
     "language": "Python",
@@ -198,21 +225,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29546,
-    "updated_at": "2026-08-05T14:36:28Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-05T14:29:28Z",
+    "updated_at": "2026-08-05T14:54:14Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -346,7 +364,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55619,
+    "stars": 55620,
     "updated_at": "2026-08-05T12:59:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -374,17 +392,8 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-05T12:45:15Z",
+    "updated_at": "2026-08-05T14:57:46Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 1,
-    "updated_at": "2026-08-05T12:44:12Z",
-    "url": "https://github.com/novafabric/novafabric"
   },
   {
     "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "marcusschiesser/agentpond",
     "stars": 13,
-    "updated_at": "2026-08-05T12:35:51Z",
+    "updated_at": "2026-08-05T15:00:11Z",
     "url": "https://github.com/marcusschiesser/agentpond"
   },
   {
@@ -409,7 +418,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 245,
+    "stars": 247,
     "updated_at": "2026-08-05T12:29:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-05T12:12:30Z",
     "url": "https://github.com/8pig/llm-ops"
-  },
-  {
-    "description": "Autonomous multi-agent due-diligence desk \u2014 LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving",
-    "id": "hari9618/atlas-agentic-research",
-    "language": "Python",
-    "name": "hari9618/atlas-agentic-research",
-    "stars": 1,
-    "updated_at": "2026-08-05T12:10:45Z",
-    "url": "https://github.com/hari9618/atlas-agentic-research"
   }
 ]
