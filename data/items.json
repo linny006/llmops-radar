@@ -1,5 +1,50 @@
 [
   {
+    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
+    "id": "Mrg77/tfforge",
+    "language": "Go",
+    "name": "Mrg77/tfforge",
+    "stars": 0,
+    "updated_at": "2026-08-05T16:58:40Z",
+    "url": "https://github.com/Mrg77/tfforge"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-05T16:56:38Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 28,
+    "updated_at": "2026-08-05T17:00:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55626,
+    "updated_at": "2026-08-05T16:47:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T16:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -18,31 +63,22 @@
     "url": "https://github.com/AnurajSingh9/basalt"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55626,
-    "updated_at": "2026-08-05T16:42:58Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8178,
+    "updated_at": "2026-08-05T16:41:59Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 28,
-    "updated_at": "2026-08-05T16:42:49Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-05T16:41:56Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32575,
+    "updated_at": "2026-08-05T16:41:58Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27376,
-    "updated_at": "2026-08-05T16:38:54Z",
+    "updated_at": "2026-08-05T16:46:06Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -97,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T16:37:20Z",
     "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T16:30:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32574,
-    "updated_at": "2026-08-05T16:41:58Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Deterministic pre-deployment checks for AI agent systems. Blocks unsafe designs before they ship.",
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29546,
-    "updated_at": "2026-08-05T16:33:29Z",
+    "updated_at": "2026-08-05T16:51:27Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1603,
-    "updated_at": "2026-08-05T16:15:42Z",
+    "updated_at": "2026-08-05T16:54:23Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-08-05T15:52:34Z",
+    "updated_at": "2026-08-05T17:00:14Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 548,
-    "updated_at": "2026-08-05T16:17:36Z",
+    "updated_at": "2026-08-05T16:49:00Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -302,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3472,
-    "updated_at": "2026-08-05T16:44:47Z",
+    "updated_at": "2026-08-05T16:49:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -313,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T15:25:56Z",
     "url": "https://github.com/kreftamarcio/prompt-forge"
-  },
-  {
-    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
-    "id": "Mrg77/tfforge",
-    "language": "Go",
-    "name": "Mrg77/tfforge",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:44:50Z",
-    "url": "https://github.com/Mrg77/tfforge"
   },
   {
     "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10908,
-    "updated_at": "2026-08-05T16:44:28Z",
+    "updated_at": "2026-08-05T16:55:49Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T14:49:03Z",
     "url": "https://github.com/novafabric/novafabric"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7072,
-    "updated_at": "2026-08-05T15:44:59Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
