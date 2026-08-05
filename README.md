@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 05:15 UTC
+> ⏰ Last updated: 2026-08-05 05:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 12 | TypeScript | 2026-08-05 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10902 | Python | 2026-08-05 | AI Observability & Evaluation |
-| 3 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21115 | Python | 2026-08-05 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 4 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3468 | TypeScript | 2026-08-05 | The platform for LLM evaluations and AI agent testing |
-| 5 | [huzjie/argus-eval](https://github.com/huzjie/argus-eval) | 0 | Python | 2026-08-05 | AI Agent Evaluation & Observability Platform |
-| 6 | [huzjie/loopforge](https://github.com/huzjie/loopforge) | 0 | Python | 2026-08-05 | LoopForge - 长程自主编程智能体编排与治理平台 (Long-range autonomous coding agent orchestration & governance platform) |
-| 7 | [huzjie/unified-ai-gateway](https://github.com/huzjie/unified-ai-gateway) | 0 | TypeScript | 2026-08-05 | 统一AI网关 Unified AI Gateway - 可自托管的LLM API网关：一套OpenAI兼容接口对接Kimi/DeepSeek/MiniMax/OpenAI/Anthropic/Ollama，提供智能路由、限流熔断、成本追踪、 |
-| 8 | [montrealks/ai-gateway-tiers](https://github.com/montrealks/ai-gateway-tiers) | 0 | Python | 2026-08-05 | Ask for a capability tier, never a model. Azure-first fallback chains on Cloudflare AI Gateway's universal endpoint, wit |
-| 9 | [alexejsailer/agentic-nets](https://github.com/alexejsailer/agentic-nets) | 5 | TypeScript | 2026-08-05 | Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution. |
-| 10 | [sandeep-alluru/worldoracle](https://github.com/sandeep-alluru/worldoracle) | 0 | Python | 2026-08-05 | World-state belief management and contradiction repair for AI agents |
-| 11 | [sandeep-alluru/normsync](https://github.com/sandeep-alluru/normsync) | 0 | Python | 2026-08-05 | Norm monitoring and violation detection for AI agent actions |
-| 12 | [sandeep-alluru/balancelab](https://github.com/sandeep-alluru/balancelab) | 0 | Python | 2026-08-05 | Economy balance analysis and exploit detection for AI game agents |
-| 13 | [sandeep-alluru/rulegraph](https://github.com/sandeep-alluru/rulegraph) | 0 | Python | 2026-08-05 | Declarative rule graphs for AI agent policy and constraint enforcement |
-| 14 | [Yesol-Pilot/neosignal-check](https://github.com/Yesol-Pilot/neosignal-check) | 0 | Python | 2026-08-05 | Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date  |
-| 15 | [sandeep-alluru/humanproof](https://github.com/sandeep-alluru/humanproof) | 0 | Python | 2026-08-05 | Human-in-the-loop checkpoints and approval gates for AI agents |
-| 16 | [sandeep-alluru/polaroid](https://github.com/sandeep-alluru/polaroid) | 0 | Python | 2026-08-05 | Spatial scene graphs and belief state for embodied agents |
-| 17 | [sandeep-alluru/agentcrdt](https://github.com/sandeep-alluru/agentcrdt) | 0 | Python | 2026-08-05 | CRDTs for distributed AI agent state and conflict-free belief merging |
-| 18 | [bytebeast/check-endpoint](https://github.com/bytebeast/check-endpoint) | 6 | Python | 2026-08-05 | Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each |
-| 19 | [sandeep-alluru/groundcrew](https://github.com/sandeep-alluru/groundcrew) | 0 | Python | 2026-08-05 | Action receipts and chain-of-custody for AI agents |
-| 20 | [sandeep-alluru/clickproof](https://github.com/sandeep-alluru/clickproof) | 0 | Python | 2026-08-05 | Content-addressed GUI action facts for computer-use agents |
-| 21 | [sandeep-alluru/notarize](https://github.com/sandeep-alluru/notarize) | 0 | Python | 2026-08-05 | Canonical trace format and verifier for agent execution attestation |
-| 22 | [sandeep-alluru/foghorn](https://github.com/sandeep-alluru/foghorn) | 0 | Python | 2026-08-05 | Fact-level staleness detection for AI agent memory |
-| 23 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55576 | Python | 2026-08-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 24 | [sandeep-alluru/agentdelta](https://github.com/sandeep-alluru/agentdelta) | 0 | Python | 2026-08-05 | Diff and regression-detect LLM agent execution traces |
-| 25 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 28 | Go | 2026-08-05 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 26 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 27 | [lizhuojunx86/traceguard](https://github.com/lizhuojunx86/traceguard) | 2 | Python | 2026-08-05 | Point-in-time correct LLM instrumentation — tracing, version pinning and look-ahead-bias protection for research pipelin |
-| 28 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2560 | C++ | 2026-08-05 | Community maintained hardware plugin for vLLM on Ascend |
-| 29 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-08-05 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
-| 30 | [Linxiushen/evoagent-runtime](https://github.com/Linxiushen/evoagent-runtime) | 0 | Python | 2026-08-05 | Local-first agent Gateway with durable sessions, approvals, memory and governed self-evolution |
-| 31 | [pom11/hscc](https://github.com/pom11/hscc) | 3 | Python | 2026-08-05 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 32 | [adwitiyashukla/process-twin](https://github.com/adwitiyashukla/process-twin) | 0 | Python | 2026-08-05 | From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp |
-| 33 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7054 | Go | 2026-08-05 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 34 | [8monkey-ai/hebo-gateway](https://github.com/8monkey-ai/hebo-gateway) | 25 | TypeScript | 2026-08-05 | AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r |
-| 35 | [Linxiushen/self-evolving-agent-lab](https://github.com/Linxiushen/self-evolving-agent-lab) | 0 | Python | 2026-08-05 | Three auditable self-evolving AI agent systems: benchmark-gated behavior evolution, lifelong skills, and test-gated codi |
-| 36 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-05 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
-| 37 | [hari9618/atlas-agentic-research](https://github.com/hari9618/atlas-agentic-research) | 1 | Python | 2026-08-05 | Autonomous multi-agent due-diligence desk — LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving |
-| 38 | [p0nymc1/cee](https://github.com/p0nymc1/cee) | 82 | Go | 2026-08-05 | Deterministic-first execution engine for agent workflows in Go: the LLM extracts at the edge, a deterministic state mach |
-| 39 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27367 | Python | 2026-08-05 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 40 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 74 | Python | 2026-08-05 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 41 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-05 | ThakiCloud Tech Blog |
-| 42 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1131 | Python | 2026-08-05 | OpenTelemetry Instrumentation for AI Observability |
-| 43 | [ywutian/agent-spend-collector](https://github.com/ywutian/agent-spend-collector) | 2 | Python | 2026-08-05 | Read-only, cross-rail agent spend collector: LLM token + x402 payments in one FOCUS-shaped ledger, with anomaly detectio |
-| 44 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1591 | Python | 2026-08-05 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
-| 45 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-05 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 46 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 44 | — | 2026-08-05 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
-| 47 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-05 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 48 | [project-arbr/arbr-control-plane](https://github.com/project-arbr/arbr-control-plane) | 10 | JavaScript | 2026-08-05 | Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing |
-| 49 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32533 | TypeScript | 2026-08-05 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 50 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-05 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 1 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 77 | HTML | 2026-08-05 | ⚡ Awesome AI Gateway — pick an AI gateway from 100+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c |
+| 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5737 | Python | 2026-08-05 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 3 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3469 | TypeScript | 2026-08-05 | The platform for LLM evaluations and AI agent testing |
+| 4 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 12 | TypeScript | 2026-08-05 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
+| 5 | [montrealks/ai-gateway-tiers](https://github.com/montrealks/ai-gateway-tiers) | 0 | Python | 2026-08-05 | Ask for a capability tier, never a model. Azure-first fallback chains on Cloudflare AI Gateway's universal endpoint, wit |
+| 6 | [Netflix/metaflow](https://github.com/Netflix/metaflow) | 10205 | Python | 2026-08-05 | Build, Manage and Deploy AI/ML Systems |
+| 7 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-05 | ThakiCloud Tech Blog |
+| 8 | [msanket9/stillsane](https://github.com/msanket9/stillsane) | 0 | Python | 2026-08-05 | Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output |
+| 9 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-08-05 | Turn Portkey & Langsmith data into OTEL signals |
+| 10 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21115 | Python | 2026-08-05 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 11 | [pom11/hscc](https://github.com/pom11/hscc) | 3 | Python | 2026-08-05 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 12 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 13 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10902 | Python | 2026-08-05 | AI Observability & Evaluation |
+| 14 | [huzjie/argus-eval](https://github.com/huzjie/argus-eval) | 0 | Python | 2026-08-05 | AI Agent Evaluation & Observability Platform |
+| 15 | [huzjie/loopforge](https://github.com/huzjie/loopforge) | 0 | Python | 2026-08-05 | LoopForge - 长程自主编程智能体编排与治理平台 (Long-range autonomous coding agent orchestration & governance platform) |
+| 16 | [huzjie/unified-ai-gateway](https://github.com/huzjie/unified-ai-gateway) | 0 | TypeScript | 2026-08-05 | 统一AI网关 Unified AI Gateway - 可自托管的LLM API网关：一套OpenAI兼容接口对接Kimi/DeepSeek/MiniMax/OpenAI/Anthropic/Ollama，提供智能路由、限流熔断、成本追踪、 |
+| 17 | [alexejsailer/agentic-nets](https://github.com/alexejsailer/agentic-nets) | 5 | TypeScript | 2026-08-05 | Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution. |
+| 18 | [sandeep-alluru/worldoracle](https://github.com/sandeep-alluru/worldoracle) | 0 | Python | 2026-08-05 | World-state belief management and contradiction repair for AI agents |
+| 19 | [sandeep-alluru/normsync](https://github.com/sandeep-alluru/normsync) | 0 | Python | 2026-08-05 | Norm monitoring and violation detection for AI agent actions |
+| 20 | [sandeep-alluru/balancelab](https://github.com/sandeep-alluru/balancelab) | 0 | Python | 2026-08-05 | Economy balance analysis and exploit detection for AI game agents |
+| 21 | [sandeep-alluru/rulegraph](https://github.com/sandeep-alluru/rulegraph) | 0 | Python | 2026-08-05 | Declarative rule graphs for AI agent policy and constraint enforcement |
+| 22 | [Yesol-Pilot/neosignal-check](https://github.com/Yesol-Pilot/neosignal-check) | 0 | Python | 2026-08-05 | Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date  |
+| 23 | [sandeep-alluru/humanproof](https://github.com/sandeep-alluru/humanproof) | 0 | Python | 2026-08-05 | Human-in-the-loop checkpoints and approval gates for AI agents |
+| 24 | [sandeep-alluru/polaroid](https://github.com/sandeep-alluru/polaroid) | 0 | Python | 2026-08-05 | Spatial scene graphs and belief state for embodied agents |
+| 25 | [sandeep-alluru/agentcrdt](https://github.com/sandeep-alluru/agentcrdt) | 0 | Python | 2026-08-05 | CRDTs for distributed AI agent state and conflict-free belief merging |
+| 26 | [bytebeast/check-endpoint](https://github.com/bytebeast/check-endpoint) | 6 | Python | 2026-08-05 | Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each |
+| 27 | [sandeep-alluru/groundcrew](https://github.com/sandeep-alluru/groundcrew) | 0 | Python | 2026-08-05 | Action receipts and chain-of-custody for AI agents |
+| 28 | [sandeep-alluru/clickproof](https://github.com/sandeep-alluru/clickproof) | 0 | Python | 2026-08-05 | Content-addressed GUI action facts for computer-use agents |
+| 29 | [sandeep-alluru/notarize](https://github.com/sandeep-alluru/notarize) | 0 | Python | 2026-08-05 | Canonical trace format and verifier for agent execution attestation |
+| 30 | [sandeep-alluru/foghorn](https://github.com/sandeep-alluru/foghorn) | 0 | Python | 2026-08-05 | Fact-level staleness detection for AI agent memory |
+| 31 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55576 | Python | 2026-08-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 32 | [sandeep-alluru/agentdelta](https://github.com/sandeep-alluru/agentdelta) | 0 | Python | 2026-08-05 | Diff and regression-detect LLM agent execution traces |
+| 33 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 28 | Go | 2026-08-05 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 34 | [lizhuojunx86/traceguard](https://github.com/lizhuojunx86/traceguard) | 2 | Python | 2026-08-05 | Point-in-time correct LLM instrumentation — tracing, version pinning and look-ahead-bias protection for research pipelin |
+| 35 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2560 | C++ | 2026-08-05 | Community maintained hardware plugin for vLLM on Ascend |
+| 36 | [EffortlessMetrics/tokmd](https://github.com/EffortlessMetrics/tokmd) | 5 | Rust | 2026-08-05 | Code intelligence for humans, machines, and LLMs: receipts, metrics, and insights from your codebase. |
+| 37 | [Linxiushen/evoagent-runtime](https://github.com/Linxiushen/evoagent-runtime) | 0 | Python | 2026-08-05 | Local-first agent Gateway with durable sessions, approvals, memory and governed self-evolution |
+| 38 | [adwitiyashukla/process-twin](https://github.com/adwitiyashukla/process-twin) | 0 | Python | 2026-08-05 | From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp |
+| 39 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7054 | Go | 2026-08-05 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 40 | [8monkey-ai/hebo-gateway](https://github.com/8monkey-ai/hebo-gateway) | 25 | TypeScript | 2026-08-05 | AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r |
+| 41 | [Linxiushen/self-evolving-agent-lab](https://github.com/Linxiushen/self-evolving-agent-lab) | 0 | Python | 2026-08-05 | Three auditable self-evolving AI agent systems: benchmark-gated behavior evolution, lifelong skills, and test-gated codi |
+| 42 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-05 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
+| 43 | [hari9618/atlas-agentic-research](https://github.com/hari9618/atlas-agentic-research) | 1 | Python | 2026-08-05 | Autonomous multi-agent due-diligence desk — LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving |
+| 44 | [p0nymc1/cee](https://github.com/p0nymc1/cee) | 83 | Go | 2026-08-05 | Deterministic-first execution engine for agent workflows in Go: the LLM extracts at the edge, a deterministic state mach |
+| 45 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27367 | Python | 2026-08-05 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 46 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 74 | Python | 2026-08-05 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 47 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1131 | Python | 2026-08-05 | OpenTelemetry Instrumentation for AI Observability |
+| 48 | [ywutian/agent-spend-collector](https://github.com/ywutian/agent-spend-collector) | 2 | Python | 2026-08-05 | Read-only, cross-rail agent spend collector: LLM token + x402 payments in one FOCUS-shaped ledger, with anomaly detectio |
+| 49 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1591 | Python | 2026-08-05 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
+| 50 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-05 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
 <!-- TRACKER_TABLE_END -->
 
 ---
