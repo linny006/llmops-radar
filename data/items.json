@@ -1,12 +1,48 @@
 [
   {
-    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
-    "id": "DiogoRibeiro7/ragops-lab",
-    "language": "Jupyter Notebook",
-    "name": "DiogoRibeiro7/ragops-lab",
-    "stars": 0,
-    "updated_at": "2026-08-06T11:27:41Z",
-    "url": "https://github.com/DiogoRibeiro7/ragops-lab"
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 10,
+    "updated_at": "2026-08-06T11:42:41Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 73,
+    "updated_at": "2026-08-06T11:42:27Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-08-06T11:40:19Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7101,
+    "updated_at": "2026-08-06T11:41:53Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21143,
+    "updated_at": "2026-08-06T11:38:38Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "sumitdevgupto/TokenLean",
     "stars": 2,
-    "updated_at": "2026-08-06T11:27:34Z",
+    "updated_at": "2026-08-06T11:33:28Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 4,
+    "updated_at": "2026-08-06T11:33:01Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-06T11:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
+    "id": "DiogoRibeiro7/ragops-lab",
+    "language": "Jupyter Notebook",
+    "name": "DiogoRibeiro7/ragops-lab",
+    "stars": 0,
+    "updated_at": "2026-08-06T11:27:41Z",
+    "url": "https://github.com/DiogoRibeiro7/ragops-lab"
   },
   {
     "description": "Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane.",
@@ -45,15 +108,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7100,
-    "updated_at": "2026-08-06T11:20:24Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -63,21 +117,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-06T11:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55702,
-    "updated_at": "2026-08-06T11:14:08Z",
+    "updated_at": "2026-08-06T11:39:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11831,
-    "updated_at": "2026-08-06T11:11:53Z",
+    "updated_at": "2026-08-06T11:36:45Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 913,
-    "updated_at": "2026-08-06T11:11:38Z",
+    "updated_at": "2026-08-06T11:45:02Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T11:04:34Z",
     "url": "https://github.com/sandeep-alluru/polaroid"
-  },
-  {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 3,
-    "updated_at": "2026-08-06T11:10:18Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
   },
   {
     "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
@@ -315,15 +351,6 @@
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 3,
-    "updated_at": "2026-08-06T11:17:17Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "Diff and regression-detect LLM agent execution traces",
     "id": "sandeep-alluru/agentdelta",
     "language": "Python",
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3476,
-    "updated_at": "2026-08-06T11:16:41Z",
+    "updated_at": "2026-08-06T11:40:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1612,
-    "updated_at": "2026-08-06T11:24:46Z",
+    "updated_at": "2026-08-06T11:43:58Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-06T11:28:23Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 29,
-    "updated_at": "2026-08-06T10:53:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-08-06T10:52:43Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-08-06T10:52:36Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
