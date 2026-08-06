@@ -1,12 +1,21 @@
 [
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-06T02:14:58Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55652,
+    "updated_at": "2026-08-06T02:30:01Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2570,
+    "updated_at": "2026-08-06T02:23:45Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -14,8 +23,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 29,
-    "updated_at": "2026-08-06T02:14:22Z",
+    "updated_at": "2026-08-06T02:23:34Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "novafabric/novafabric",
+    "language": "Python",
+    "name": "novafabric/novafabric",
+    "stars": 2,
+    "updated_at": "2026-08-06T02:22:38Z",
+    "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-06T02:21:46Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-06T02:20:18Z",
+    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
@@ -23,17 +59,26 @@
     "language": "Python",
     "name": "anmolsharma152/Disha",
     "stars": 0,
-    "updated_at": "2026-08-06T02:15:20Z",
+    "updated_at": "2026-08-06T02:19:15Z",
     "url": "https://github.com/anmolsharma152/Disha"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
+    "id": "soit-ai/soit",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55651,
-    "updated_at": "2026-08-06T02:13:32Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "soit-ai/soit",
+    "stars": 0,
+    "updated_at": "2026-08-06T02:18:42Z",
+    "url": "https://github.com/soit-ai/soit"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-06T02:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
@@ -43,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T02:12:24Z",
     "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-06T02:09:50Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 2,
-    "updated_at": "2026-08-06T02:05:56Z",
-    "url": "https://github.com/novafabric/novafabric"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T02:00:40Z",
     "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-06T02:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
@@ -248,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3475,
-    "updated_at": "2026-08-06T02:10:42Z",
+    "updated_at": "2026-08-06T02:25:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T01:41:24Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2570,
-    "updated_at": "2026-08-06T02:09:38Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
@@ -427,7 +436,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27380,
+    "stars": 27381,
     "updated_at": "2026-08-06T01:17:38Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-06T01:04:29Z",
     "url": "https://github.com/vul-os/llmux"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21131,
-    "updated_at": "2026-08-06T01:00:11Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
