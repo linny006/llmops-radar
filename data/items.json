@@ -1,12 +1,84 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32620,
+    "updated_at": "2026-08-06T13:30:18Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55713,
-    "updated_at": "2026-08-06T13:13:40Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "future-agi/future-agi",
+    "stars": 1613,
+    "updated_at": "2026-08-06T13:28:40Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27394,
+    "updated_at": "2026-08-06T13:26:41Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 11,
+    "updated_at": "2026-08-06T13:26:12Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-06T13:25:48Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 335,
+    "updated_at": "2026-08-06T13:25:18Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
+    "id": "ALLMA-dev/allma-core",
+    "language": "TypeScript",
+    "name": "ALLMA-dev/allma-core",
+    "stars": 2,
+    "updated_at": "2026-08-06T13:26:50Z",
+    "url": "https://github.com/ALLMA-dev/allma-core"
+  },
+  {
+    "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
+    "id": "sufengx/vera",
+    "language": "Go",
+    "name": "sufengx/vera",
+    "stars": 2,
+    "updated_at": "2026-08-06T13:30:22Z",
+    "url": "https://github.com/sufengx/vera"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21145,
+    "updated_at": "2026-08-06T13:24:14Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -14,8 +86,44 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3487,
-    "updated_at": "2026-08-06T13:12:36Z",
+    "updated_at": "2026-08-06T13:27:11Z",
     "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3476,
+    "updated_at": "2026-08-06T13:22:33Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-06T13:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-08-06T13:15:08Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55713,
+    "updated_at": "2026-08-06T13:13:40Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -36,15 +144,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
-    "id": "ALLMA-dev/allma-core",
-    "language": "TypeScript",
-    "name": "ALLMA-dev/allma-core",
-    "stars": 2,
-    "updated_at": "2026-08-06T13:14:09Z",
-    "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
     "id": "tenemos/langwatch",
     "language": "TypeScript",
@@ -52,24 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-06T13:11:15Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 11,
-    "updated_at": "2026-08-06T13:10:28Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32619,
-    "updated_at": "2026-08-06T13:15:19Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -117,24 +198,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
-    "id": "sufengx/vera",
-    "language": "Python",
-    "name": "sufengx/vera",
-    "stars": 2,
-    "updated_at": "2026-08-06T13:02:29Z",
-    "url": "https://github.com/sufengx/vera"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-06T13:00:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -151,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-06T12:59:23Z",
     "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-06T13:09:15Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -243,15 +297,6 @@
     "url": "https://github.com/gaurav-gs7/Judikt"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 335,
-    "updated_at": "2026-08-06T12:54:36Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -288,15 +333,6 @@
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3476,
-    "updated_at": "2026-08-06T13:13:47Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
     "id": "effecterelectricalplant87/LLM",
     "language": "\u2014",
@@ -331,15 +367,6 @@
     "stars": 29,
     "updated_at": "2026-08-06T12:45:20Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21144,
-    "updated_at": "2026-08-06T13:12:11Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-06T12:32:08Z",
     "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
-    "id": "rsaudio/second-brain",
-    "language": "\u2014",
-    "name": "rsaudio/second-brain",
-    "stars": 1,
-    "updated_at": "2026-08-06T12:31:55Z",
-    "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-08-06T12:30:38Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-08-06T12:30:28Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   }
 ]
