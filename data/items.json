@@ -1,12 +1,84 @@
 [
   {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "novafabric/novafabric",
+    "language": "Python",
+    "name": "novafabric/novafabric",
+    "stars": 2,
+    "updated_at": "2026-08-06T16:42:13Z",
+    "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55726,
+    "updated_at": "2026-08-06T16:41:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1296,
+    "updated_at": "2026-08-06T16:40:34Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
     "description": "\u30de\u30eb\u30c1\u30af\u30e9\u30a6\u30c9\u4f01\u696d\u306b\u304a\u3051\u308b AI Gateway(LLM Gateway)\u6d3b\u7528\u306e\u30e1\u30ea\u30c3\u30c8\u30fb\u30c7\u30e1\u30ea\u30c3\u30c8\u3068\u5c0e\u5165\u5224\u65ad\u30ac\u30a4\u30c9",
     "id": "bitpackman/ai-gateway-multicloud",
     "language": "\u2014",
     "name": "bitpackman/ai-gateway-multicloud",
     "stars": 0,
-    "updated_at": "2026-08-06T16:18:11Z",
+    "updated_at": "2026-08-06T16:42:40Z",
     "url": "https://github.com/bitpackman/ai-gateway-multicloud"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-08-06T16:30:35Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29566,
+    "updated_at": "2026-08-06T16:39:17Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 368,
+    "updated_at": "2026-08-06T16:28:21Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
+    "id": "NicoGrassetto/Cosmopilot",
+    "language": "Python",
+    "name": "NicoGrassetto/Cosmopilot",
+    "stars": 1,
+    "updated_at": "2026-08-06T16:22:25Z",
+    "url": "https://github.com/NicoGrassetto/Cosmopilot"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-06T16:18:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Economy balance analysis and exploit detection for AI game agents",
@@ -25,15 +97,6 @@
     "stars": 48,
     "updated_at": "2026-08-06T16:12:42Z",
     "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 368,
-    "updated_at": "2026-08-06T16:14:55Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "sumitdevgupto/TokenLean",
     "stars": 2,
-    "updated_at": "2026-08-06T15:59:54Z",
+    "updated_at": "2026-08-06T16:28:55Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
@@ -77,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7108,
-    "updated_at": "2026-08-06T16:17:21Z",
+    "updated_at": "2026-08-06T16:21:13Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10921,
-    "updated_at": "2026-08-06T15:51:14Z",
+    "updated_at": "2026-08-06T16:43:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -194,7 +257,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-06T15:56:05Z",
+    "updated_at": "2026-08-06T16:35:04Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21149,
-    "updated_at": "2026-08-06T16:12:23Z",
+    "updated_at": "2026-08-06T16:41:10Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -247,18 +310,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32627,
+    "stars": 32629,
     "updated_at": "2026-08-06T15:33:55Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55724,
-    "updated_at": "2026-08-06T15:33:40Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -394,59 +448,5 @@
     "stars": 27396,
     "updated_at": "2026-08-06T15:21:22Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-08-06T15:20:30Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-08-06T15:20:18Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-08-06T15:17:54Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Production-style LangGraph support-ticket workflow with Gemini, FastAPI, automated tests, CI/CD, containers, infrastruct",
-    "id": "Sol1986/support-triage-agent",
-    "language": "Python",
-    "name": "Sol1986/support-triage-agent",
-    "stars": 0,
-    "updated_at": "2026-08-06T15:17:25Z",
-    "url": "https://github.com/Sol1986/support-triage-agent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-06T15:15:41Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
-    "id": "sufengx/vera",
-    "language": "TypeScript",
-    "name": "sufengx/vera",
-    "stars": 2,
-    "updated_at": "2026-08-06T15:11:03Z",
-    "url": "https://github.com/sufengx/vera"
   }
 ]
