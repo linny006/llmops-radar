@@ -1,11 +1,65 @@
 [
   {
+    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
+    "id": "soit-ai/soit",
+    "language": "Python",
+    "name": "soit-ai/soit",
+    "stars": 1,
+    "updated_at": "2026-08-06T12:16:23Z",
+    "url": "https://github.com/soit-ai/soit"
+  },
+  {
+    "description": "Spatial scene graphs and belief state for embodied agents",
+    "id": "sandeep-alluru/polaroid",
+    "language": "Python",
+    "name": "sandeep-alluru/polaroid",
+    "stars": 0,
+    "updated_at": "2026-08-06T12:15:59Z",
+    "url": "https://github.com/sandeep-alluru/polaroid"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 2,
+    "updated_at": "2026-08-06T12:15:39Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-06T12:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-08-06T12:14:49Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 368,
+    "updated_at": "2026-08-06T12:14:39Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
     "id": "ferro-labs/ai-gateway",
     "language": "Go",
     "name": "ferro-labs/ai-gateway",
     "stars": 211,
-    "updated_at": "2026-08-06T12:15:03Z",
+    "updated_at": "2026-08-06T12:17:48Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 2,
-    "updated_at": "2026-08-06T12:15:16Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
     "id": "novafabric/novafabric",
     "language": "Python",
@@ -81,21 +126,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-06T12:00:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-08-06T12:00:28Z",
+    "updated_at": "2026-08-06T12:16:13Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-06T12:00:28Z",
     "url": "https://github.com/gabrieldevms/applied-ai-engineering-lab"
-  },
-  {
-    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
-    "id": "soit-ai/soit",
-    "language": "Python",
-    "name": "soit-ai/soit",
-    "stars": 1,
-    "updated_at": "2026-08-06T11:59:59Z",
-    "url": "https://github.com/soit-ai/soit"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -153,15 +180,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 368,
-    "updated_at": "2026-08-06T12:14:39Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
     "id": "VamsiSudhakaran1/release-gate",
     "language": "Python",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-06T12:06:18Z",
+    "updated_at": "2026-08-06T12:16:14Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21143,
-    "updated_at": "2026-08-06T12:04:41Z",
+    "updated_at": "2026-08-06T12:15:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -324,15 +342,6 @@
     "url": "https://github.com/sandeep-alluru/humanproof"
   },
   {
-    "description": "Spatial scene graphs and belief state for embodied agents",
-    "id": "sandeep-alluru/polaroid",
-    "language": "Python",
-    "name": "sandeep-alluru/polaroid",
-    "stars": 0,
-    "updated_at": "2026-08-06T11:04:34Z",
-    "url": "https://github.com/sandeep-alluru/polaroid"
-  },
-  {
     "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
     "id": "sandeep-alluru/agentcrdt",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-06T11:02:06Z",
     "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Pseudonymization guardrail for the LiteLLM proxy. Masks real people & company names before the LLM and restores them ",
-    "id": "PalenaAI/palena-litellm-pseudonymizer",
-    "language": "Go",
-    "name": "PalenaAI/palena-litellm-pseudonymizer",
-    "stars": 1,
-    "updated_at": "2026-08-06T11:01:39Z",
-    "url": "https://github.com/PalenaAI/palena-litellm-pseudonymizer"
   }
 ]
