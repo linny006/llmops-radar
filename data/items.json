@@ -1,21 +1,138 @@
 [
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-06T12:59:02Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55713,
+    "updated_at": "2026-08-06T13:13:40Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
     "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 0,
-    "updated_at": "2026-08-06T12:57:59Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
+    "name": "truera/trulens",
+    "stars": 3487,
+    "updated_at": "2026-08-06T13:12:36Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-08-06T13:12:26Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 3,
+    "updated_at": "2026-08-06T13:12:23Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
+    "id": "ALLMA-dev/allma-core",
+    "language": "TypeScript",
+    "name": "ALLMA-dev/allma-core",
+    "stars": 2,
+    "updated_at": "2026-08-06T13:14:09Z",
+    "url": "https://github.com/ALLMA-dev/allma-core"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-08-06T13:11:15Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 11,
+    "updated_at": "2026-08-06T13:10:28Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32619,
+    "updated_at": "2026-08-06T13:15:19Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2573,
+    "updated_at": "2026-08-06T13:07:12Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 7,
+    "updated_at": "2026-08-06T13:06:35Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "novafabric/novafabric",
+    "language": "Python",
+    "name": "novafabric/novafabric",
+    "stars": 2,
+    "updated_at": "2026-08-06T13:05:59Z",
+    "url": "https://github.com/novafabric/novafabric"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 2,
+    "updated_at": "2026-08-06T13:05:10Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-06T13:04:02Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
+    "id": "sufengx/vera",
+    "language": "Python",
+    "name": "sufengx/vera",
+    "stars": 2,
+    "updated_at": "2026-08-06T13:02:29Z",
+    "url": "https://github.com/sufengx/vera"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-06T13:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
@@ -25,6 +142,51 @@
     "stars": 0,
     "updated_at": "2026-08-06T12:59:49Z",
     "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Production-grade Agentic AI workspace using Next.js, FastAPI, LangGraph ReAct, and Model Context Protocol (MCP) tool orc",
+    "id": "Ambuj123-lab/agentic-ai-workspace",
+    "language": "JavaScript",
+    "name": "Ambuj123-lab/agentic-ai-workspace",
+    "stars": 1,
+    "updated_at": "2026-08-06T12:59:23Z",
+    "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-06T13:09:15Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-08-06T13:07:44Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
+    "id": "arash9233/phoenix-lua-executor-windows",
+    "language": "HTML",
+    "name": "arash9233/phoenix-lua-executor-windows",
+    "stars": 0,
+    "updated_at": "2026-08-06T12:58:34Z",
+    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
+  },
+  {
+    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
+    "id": "santiag6001/llm-engineering-platform",
+    "language": "Python",
+    "name": "santiag6001/llm-engineering-platform",
+    "stars": 0,
+    "updated_at": "2026-08-06T12:57:59Z",
+    "url": "https://github.com/santiag6001/llm-engineering-platform"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -72,15 +234,6 @@
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32618,
-    "updated_at": "2026-08-06T12:59:40Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
     "id": "gaurav-gs7/Judikt",
     "language": "Python",
@@ -94,7 +247,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 333,
+    "stars": 335,
     "updated_at": "2026-08-06T12:54:36Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -113,17 +266,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 368,
-    "updated_at": "2026-08-06T12:54:19Z",
+    "updated_at": "2026-08-06T13:07:35Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
-    "id": "sufengx/vera",
-    "language": "Python",
-    "name": "sufengx/vera",
-    "stars": 2,
-    "updated_at": "2026-08-06T12:53:45Z",
-    "url": "https://github.com/sufengx/vera"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -149,7 +293,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3476,
-    "updated_at": "2026-08-06T12:54:33Z",
+    "updated_at": "2026-08-06T13:13:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -180,15 +324,6 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-06T12:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -203,7 +338,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21144,
-    "updated_at": "2026-08-06T12:50:41Z",
+    "updated_at": "2026-08-06T13:12:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -232,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T12:43:22Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 2,
-    "updated_at": "2026-08-06T12:40:45Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -306,15 +432,6 @@
     "url": "https://github.com/rsaudio/second-brain"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 3,
-    "updated_at": "2026-08-06T12:54:31Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
     "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
     "language": "Python",
@@ -331,122 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-06T12:30:28Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
-    "id": "SammyTourani/evestack",
-    "language": "TypeScript",
-    "name": "SammyTourani/evestack",
-    "stars": 0,
-    "updated_at": "2026-08-06T12:49:36Z",
-    "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-08-06T12:28:10Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55712,
-    "updated_at": "2026-08-06T12:25:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29565,
-    "updated_at": "2026-08-06T12:23:53Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
-    "id": "soit-ai/soit",
-    "language": "Python",
-    "name": "soit-ai/soit",
-    "stars": 1,
-    "updated_at": "2026-08-06T12:16:23Z",
-    "url": "https://github.com/soit-ai/soit"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-06T12:16:13Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Spatial scene graphs and belief state for embodied agents",
-    "id": "sandeep-alluru/polaroid",
-    "language": "Python",
-    "name": "sandeep-alluru/polaroid",
-    "stars": 0,
-    "updated_at": "2026-08-06T12:15:59Z",
-    "url": "https://github.com/sandeep-alluru/polaroid"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-08-06T12:14:49Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 211,
-    "updated_at": "2026-08-06T12:18:26Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 44,
-    "updated_at": "2026-08-06T12:12:52Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-08-06T12:12:15Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-08-06T12:11:05Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "novafabric/novafabric",
-    "language": "Python",
-    "name": "novafabric/novafabric",
-    "stars": 2,
-    "updated_at": "2026-08-06T12:04:49Z",
-    "url": "https://github.com/novafabric/novafabric"
   }
 ]
