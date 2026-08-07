@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-07 05:12 UTC
+> ⏰ Last updated: 2026-08-07 05:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,34 +42,34 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [pom11/hscc](https://github.com/pom11/hscc) | 3 | Python | 2026-08-07 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 2 | [arash9233/phoenix-lua-executor-windows](https://github.com/arash9233/phoenix-lua-executor-windows) | 0 | HTML | 2026-08-07 | Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library |
-| 3 | [santiag6001/llm-engineering-platform](https://github.com/santiag6001/llm-engineering-platform) | 0 | Python | 2026-08-07 | Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability  |
-| 4 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-07 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
-| 5 | [Soilbuilding-libraryroutine78/Gozar](https://github.com/Soilbuilding-libraryroutine78/Gozar) | 0 | Python | 2026-08-07 | Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows. |
-| 6 | [Frayagronomist166/LiteRT.js-Mocap](https://github.com/Frayagronomist166/LiteRT.js-Mocap) | 1 | — | 2026-08-07 | Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d |
-| 7 | [wordmiddling872/AI_Email_Generator](https://github.com/wordmiddling872/AI_Email_Generator) | 0 | Python | 2026-08-07 | Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application. |
-| 8 | [sandeep-alluru/worldoracle](https://github.com/sandeep-alluru/worldoracle) | 0 | Python | 2026-08-07 | World-state belief management and contradiction repair for AI agents |
-| 9 | [sandeep-alluru/normsync](https://github.com/sandeep-alluru/normsync) | 0 | Python | 2026-08-07 | Norm monitoring and violation detection for AI agent actions |
-| 10 | [adwitiyashukla/process-twin](https://github.com/adwitiyashukla/process-twin) | 0 | Python | 2026-08-07 | From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp |
-| 11 | [sandeep-alluru/balancelab](https://github.com/sandeep-alluru/balancelab) | 0 | Python | 2026-08-07 | Economy balance analysis and exploit detection for AI game agents |
-| 12 | [sandeep-alluru/rulegraph](https://github.com/sandeep-alluru/rulegraph) | 0 | Python | 2026-08-07 | Declarative rule graphs for AI agent policy and constraint enforcement |
-| 13 | [sandeep-alluru/humanproof](https://github.com/sandeep-alluru/humanproof) | 0 | Python | 2026-08-07 | Human-in-the-loop checkpoints and approval gates for AI agents |
-| 14 | [sandeep-alluru/polaroid](https://github.com/sandeep-alluru/polaroid) | 0 | Python | 2026-08-07 | Spatial scene graphs and belief state for embodied agents |
-| 15 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-08-07 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
-| 16 | [sandeep-alluru/agentcrdt](https://github.com/sandeep-alluru/agentcrdt) | 0 | Python | 2026-08-07 | CRDTs for distributed AI agent state and conflict-free belief merging |
-| 17 | [sandeep-alluru/groundcrew](https://github.com/sandeep-alluru/groundcrew) | 0 | Python | 2026-08-07 | Action receipts and chain-of-custody for AI agents |
-| 18 | [sandeep-alluru/clickproof](https://github.com/sandeep-alluru/clickproof) | 0 | Python | 2026-08-07 | Content-addressed GUI action facts for computer-use agents |
-| 19 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-08-07 | Generative AI proxy, with cost ledger and crash safety baked in. |
-| 20 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-08-07 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
-| 21 | [sandeep-alluru/notarize](https://github.com/sandeep-alluru/notarize) | 0 | Python | 2026-08-07 | Canonical trace format and verifier for agent execution attestation |
-| 22 | [sandeep-alluru/foghorn](https://github.com/sandeep-alluru/foghorn) | 0 | Python | 2026-08-07 | Fact-level staleness detection for AI agent memory |
-| 23 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-08-07 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
-| 24 | [sandeep-alluru/agentdelta](https://github.com/sandeep-alluru/agentdelta) | 0 | Python | 2026-08-07 | Diff and regression-detect LLM agent execution traces |
-| 25 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-07 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 26 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-08-07 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
-| 27 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 1 | TypeScript | 2026-08-07 | Scan AI-generated code for security, performance, and code quality issues before they ship |
-| 28 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-07 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-07 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-07 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [pom11/hscc](https://github.com/pom11/hscc) | 3 | Python | 2026-08-07 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 4 | [arash9233/phoenix-lua-executor-windows](https://github.com/arash9233/phoenix-lua-executor-windows) | 0 | HTML | 2026-08-07 | Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library |
+| 5 | [santiag6001/llm-engineering-platform](https://github.com/santiag6001/llm-engineering-platform) | 0 | Python | 2026-08-07 | Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability  |
+| 6 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-07 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
+| 7 | [Soilbuilding-libraryroutine78/Gozar](https://github.com/Soilbuilding-libraryroutine78/Gozar) | 0 | Python | 2026-08-07 | Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows. |
+| 8 | [Frayagronomist166/LiteRT.js-Mocap](https://github.com/Frayagronomist166/LiteRT.js-Mocap) | 1 | — | 2026-08-07 | Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d |
+| 9 | [wordmiddling872/AI_Email_Generator](https://github.com/wordmiddling872/AI_Email_Generator) | 0 | Python | 2026-08-07 | Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application. |
+| 10 | [sandeep-alluru/worldoracle](https://github.com/sandeep-alluru/worldoracle) | 0 | Python | 2026-08-07 | World-state belief management and contradiction repair for AI agents |
+| 11 | [sandeep-alluru/normsync](https://github.com/sandeep-alluru/normsync) | 0 | Python | 2026-08-07 | Norm monitoring and violation detection for AI agent actions |
+| 12 | [adwitiyashukla/process-twin](https://github.com/adwitiyashukla/process-twin) | 0 | Python | 2026-08-07 | From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp |
+| 13 | [sandeep-alluru/balancelab](https://github.com/sandeep-alluru/balancelab) | 0 | Python | 2026-08-07 | Economy balance analysis and exploit detection for AI game agents |
+| 14 | [sandeep-alluru/rulegraph](https://github.com/sandeep-alluru/rulegraph) | 0 | Python | 2026-08-07 | Declarative rule graphs for AI agent policy and constraint enforcement |
+| 15 | [sandeep-alluru/humanproof](https://github.com/sandeep-alluru/humanproof) | 0 | Python | 2026-08-07 | Human-in-the-loop checkpoints and approval gates for AI agents |
+| 16 | [sandeep-alluru/polaroid](https://github.com/sandeep-alluru/polaroid) | 0 | Python | 2026-08-07 | Spatial scene graphs and belief state for embodied agents |
+| 17 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-08-07 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
+| 18 | [sandeep-alluru/agentcrdt](https://github.com/sandeep-alluru/agentcrdt) | 0 | Python | 2026-08-07 | CRDTs for distributed AI agent state and conflict-free belief merging |
+| 19 | [sandeep-alluru/groundcrew](https://github.com/sandeep-alluru/groundcrew) | 0 | Python | 2026-08-07 | Action receipts and chain-of-custody for AI agents |
+| 20 | [sandeep-alluru/clickproof](https://github.com/sandeep-alluru/clickproof) | 0 | Python | 2026-08-07 | Content-addressed GUI action facts for computer-use agents |
+| 21 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-08-07 | Generative AI proxy, with cost ledger and crash safety baked in. |
+| 22 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-08-07 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
+| 23 | [sandeep-alluru/notarize](https://github.com/sandeep-alluru/notarize) | 0 | Python | 2026-08-07 | Canonical trace format and verifier for agent execution attestation |
+| 24 | [sandeep-alluru/foghorn](https://github.com/sandeep-alluru/foghorn) | 0 | Python | 2026-08-07 | Fact-level staleness detection for AI agent memory |
+| 25 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-08-07 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
+| 26 | [sandeep-alluru/agentdelta](https://github.com/sandeep-alluru/agentdelta) | 0 | Python | 2026-08-07 | Diff and regression-detect LLM agent execution traces |
+| 27 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-08-07 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
+| 28 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 1 | TypeScript | 2026-08-07 | Scan AI-generated code for security, performance, and code quality issues before they ship |
 | 29 | [thesecretrapper786-netizen/catalyst-n1](https://github.com/thesecretrapper786-netizen/catalyst-n1) | 1 | — | 2026-08-07 | Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne |
 | 30 | [downpaymentbulbul49/plano_estudos_sre](https://github.com/downpaymentbulbul49/plano_estudos_sre) | 0 | — | 2026-08-07 | Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top |
 | 31 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
