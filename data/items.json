@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32673,
-    "updated_at": "2026-08-07T08:43:53Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 10 cloud providers + local models side-",
+    "id": "lavellehatcherjr/Cli-Modelarium",
+    "language": "Python",
+    "name": "lavellehatcherjr/Cli-Modelarium",
+    "stars": 1,
+    "updated_at": "2026-08-07T08:54:08Z",
+    "url": "https://github.com/lavellehatcherjr/Cli-Modelarium"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-08-07T08:51:44Z",
+    "url": "https://github.com/openloop-team/openloop"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -14,17 +23,44 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-07T08:43:37Z",
+    "updated_at": "2026-08-07T08:51:10Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 10 cloud providers + local models side-",
-    "id": "lavellehatcherjr/Cli-Modelarium",
+    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
+    "id": "evilstar2016/skill-doctor",
+    "language": "TypeScript",
+    "name": "evilstar2016/skill-doctor",
+    "stars": 3,
+    "updated_at": "2026-08-07T08:45:55Z",
+    "url": "https://github.com/evilstar2016/skill-doctor"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
     "language": "Python",
-    "name": "lavellehatcherjr/Cli-Modelarium",
-    "stars": 1,
-    "updated_at": "2026-08-07T08:44:32Z",
-    "url": "https://github.com/lavellehatcherjr/Cli-Modelarium"
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T08:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2577,
+    "updated_at": "2026-08-07T08:44:30Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32673,
+    "updated_at": "2026-08-07T08:43:53Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -45,20 +81,11 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2577,
-    "updated_at": "2026-08-07T08:44:30Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55785,
+    "stars": 55787,
     "updated_at": "2026-08-07T08:37:13Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -108,15 +135,6 @@
     "url": "https://github.com/Sol1986/support-triage-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T08:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
     "id": "wordenneapolitan768/llm-pricing",
     "language": "\u2014",
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21176,
-    "updated_at": "2026-08-07T08:38:46Z",
+    "updated_at": "2026-08-07T08:51:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1619,
-    "updated_at": "2026-08-07T08:40:05Z",
+    "updated_at": "2026-08-07T08:45:56Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10929,
-    "updated_at": "2026-08-07T08:25:52Z",
+    "updated_at": "2026-08-07T08:45:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T07:46:06Z",
     "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-08-07T07:45:39Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 0,
-    "updated_at": "2026-08-07T07:45:35Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   }
 ]
