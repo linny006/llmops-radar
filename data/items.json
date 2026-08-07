@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
+    "id": "genieincodebottle/aiml-companion",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/aiml-companion",
+    "stars": 64,
+    "updated_at": "2026-08-07T05:29:02Z",
+    "url": "https://github.com/genieincodebottle/aiml-companion"
+  },
+  {
+    "description": "From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp",
+    "id": "adwitiyashukla/process-twin",
+    "language": "Python",
+    "name": "adwitiyashukla/process-twin",
+    "stars": 0,
+    "updated_at": "2026-08-07T05:28:14Z",
+    "url": "https://github.com/adwitiyashukla/process-twin"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-07T05:28:02Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-07T05:14:32Z",
+    "updated_at": "2026-08-07T05:26:34Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Production-style LangGraph support-ticket workflow with Gemini, FastAPI, automated tests, CI/CD, containers, infrastruct",
+    "id": "Sol1986/support-triage-agent",
+    "language": "Python",
+    "name": "Sol1986/support-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-08-07T05:22:41Z",
+    "url": "https://github.com/Sol1986/support-triage-agent"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-07T05:18:32Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-08-07T05:16:18Z",
+    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-07T05:12:54Z",
+    "updated_at": "2026-08-07T05:15:24Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -45,13 +99,13 @@
     "url": "https://github.com/santiag6001/llm-engineering-platform"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-07T05:07:17Z",
-    "url": "https://github.com/soapbucket/sbproxy"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3478,
+    "updated_at": "2026-08-07T05:28:53Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T05:05:40Z",
     "url": "https://github.com/sandeep-alluru/normsync"
-  },
-  {
-    "description": "From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp",
-    "id": "adwitiyashukla/process-twin",
-    "language": "Python",
-    "name": "adwitiyashukla/process-twin",
-    "stars": 0,
-    "updated_at": "2026-08-07T05:05:35Z",
-    "url": "https://github.com/adwitiyashukla/process-twin"
   },
   {
     "description": "Economy balance analysis and exploit detection for AI game agents",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T05:03:23Z",
     "url": "https://github.com/sandeep-alluru/clickproof"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-08-07T05:03:00Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -288,15 +324,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Production-style LangGraph support-ticket workflow with Gemini, FastAPI, automated tests, CI/CD, containers, infrastruct",
-    "id": "Sol1986/support-triage-agent",
-    "language": "Python",
-    "name": "Sol1986/support-triage-agent",
-    "stars": 0,
-    "updated_at": "2026-08-07T04:51:44Z",
-    "url": "https://github.com/Sol1986/support-triage-agent"
-  },
-  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55767,
-    "updated_at": "2026-08-07T04:49:44Z",
+    "updated_at": "2026-08-07T05:26:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7117,
-    "updated_at": "2026-08-07T04:45:02Z",
+    "updated_at": "2026-08-07T05:19:13Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T04:39:10Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10927,
-    "updated_at": "2026-08-07T04:55:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 100+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 77,
-    "updated_at": "2026-08-07T04:34:36Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-08-07T04:27:28Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   }
 ]
