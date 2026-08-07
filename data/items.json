@@ -1,5 +1,131 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-07T04:29:40Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-08-07T04:27:28Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-08-07T04:25:04Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-07T04:25:02Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-08-07T04:23:58Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "A lightweight, performance-focused AI API gateway, precise quota enforcement",
+    "id": "RainbowCloudLabs/ai.local",
+    "language": "Go",
+    "name": "RainbowCloudLabs/ai.local",
+    "stars": 0,
+    "updated_at": "2026-08-07T04:21:39Z",
+    "url": "https://github.com/RainbowCloudLabs/ai.local"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 2,
+    "updated_at": "2026-08-07T04:21:20Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
+    "id": "arash9233/phoenix-lua-executor-windows",
+    "language": "HTML",
+    "name": "arash9233/phoenix-lua-executor-windows",
+    "stars": 0,
+    "updated_at": "2026-08-07T04:18:15Z",
+    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
+  },
+  {
+    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
+    "id": "santiag6001/llm-engineering-platform",
+    "language": "Python",
+    "name": "santiag6001/llm-engineering-platform",
+    "stars": 0,
+    "updated_at": "2026-08-07T04:17:47Z",
+    "url": "https://github.com/santiag6001/llm-engineering-platform"
+  },
+  {
+    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
+    "id": "Frayagronomist166/LiteRT.js-Mocap",
+    "language": "\u2014",
+    "name": "Frayagronomist166/LiteRT.js-Mocap",
+    "stars": 1,
+    "updated_at": "2026-08-07T04:16:46Z",
+    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
+  },
+  {
+    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
+    "id": "Soilbuilding-libraryroutine78/Gozar",
+    "language": "Python",
+    "name": "Soilbuilding-libraryroutine78/Gozar",
+    "stars": 0,
+    "updated_at": "2026-08-07T04:16:31Z",
+    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
+  },
+  {
+    "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
+    "id": "sandeep-alluru/agentcrdt",
+    "language": "Python",
+    "name": "sandeep-alluru/agentcrdt",
+    "stars": 0,
+    "updated_at": "2026-08-07T04:16:28Z",
+    "url": "https://github.com/sandeep-alluru/agentcrdt"
+  },
+  {
+    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
+    "id": "wordmiddling872/AI_Email_Generator",
+    "language": "Python",
+    "name": "wordmiddling872/AI_Email_Generator",
+    "stars": 0,
+    "updated_at": "2026-08-07T04:16:07Z",
+    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T04:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -77,7 +203,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27404,
-    "updated_at": "2026-08-07T04:07:28Z",
+    "updated_at": "2026-08-07T04:24:56Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -108,15 +234,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-07T04:02:36Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -135,13 +252,13 @@
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T04:00:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7117,
+    "updated_at": "2026-08-07T04:21:18Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
@@ -203,7 +320,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55765,
-    "updated_at": "2026-08-07T03:52:58Z",
+    "updated_at": "2026-08-07T04:17:58Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -252,15 +369,6 @@
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 2,
-    "updated_at": "2026-08-07T03:49:18Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -275,7 +383,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1617,
-    "updated_at": "2026-08-07T04:09:15Z",
+    "updated_at": "2026-08-07T04:28:31Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -288,40 +396,13 @@
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-08-07T03:37:48Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-08-07T03:35:25Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1297,
-    "updated_at": "2026-08-07T04:13:44Z",
+    "updated_at": "2026-08-07T04:22:00Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-08-07T03:34:23Z",
-    "url": "https://github.com/tenemos/langwatch"
   },
   {
     "description": "Production-style LangGraph support-ticket workflow with Gemini, FastAPI, automated tests, CI/CD, containers, infrastruct",
@@ -346,54 +427,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32654,
+    "stars": 32655,
     "updated_at": "2026-08-07T03:30:11Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-07T03:28:54Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 0,
-    "updated_at": "2026-08-07T03:28:15Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-08-07T03:27:16Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-08-07T03:26:51Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 0,
-    "updated_at": "2026-08-07T03:26:47Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -410,43 +446,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10926,
-    "updated_at": "2026-08-07T03:51:04Z",
+    "updated_at": "2026-08-07T04:29:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Open-source SDK to test AI agents before they break in production adversarial scenarios generated from your own agent's ",
-    "id": "Sentragent/sentragent-sdk",
-    "language": "Python",
-    "name": "Sentragent/sentragent-sdk",
-    "stars": 1,
-    "updated_at": "2026-08-07T03:08:15Z",
-    "url": "https://github.com/Sentragent/sentragent-sdk"
-  },
-  {
-    "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
-    "id": "sufengx/vera",
-    "language": "TypeScript",
-    "name": "sufengx/vera",
-    "stars": 2,
-    "updated_at": "2026-08-07T03:01:23Z",
-    "url": "https://github.com/sufengx/vera"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11833,
-    "updated_at": "2026-08-07T04:14:07Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "A collection of tricks and tools to speed up transformer models",
-    "id": "OpenMachine-ai/transformer-tricks",
-    "language": "TeX",
-    "name": "OpenMachine-ai/transformer-tricks",
-    "stars": 220,
-    "updated_at": "2026-08-07T02:54:34Z",
-    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
   }
 ]
