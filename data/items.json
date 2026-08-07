@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10938,
+    "updated_at": "2026-08-07T21:59:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-07T21:59:25Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 11,
+    "updated_at": "2026-08-07T21:59:20Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27412,
+    "updated_at": "2026-08-07T21:54:21Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-07T21:52:02Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 75,
+    "updated_at": "2026-08-07T21:49:28Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-07T21:46:22Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Behavioural regression gate for non-deterministic LLM systems. Capture what your model actually did, replay it against a",
+    "id": "Medhovarsh/parity",
+    "language": "Python",
+    "name": "Medhovarsh/parity",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:45:38Z",
+    "url": "https://github.com/Medhovarsh/parity"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T21:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55831,
+    "updated_at": "2026-08-07T21:57:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Research code testing whether a critic-fixer agent loop helps or hurts code generation, depending on the base model's ca",
+    "id": "kalyan-venk/agentic-llmops",
+    "language": "Shell",
+    "name": "kalyan-venk/agentic-llmops",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:44:43Z",
+    "url": "https://github.com/kalyan-venk/agentic-llmops"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -7,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T21:43:54Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55829,
-    "updated_at": "2026-08-07T21:45:24Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -45,31 +135,13 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Behavioural regression gate for non-deterministic LLM systems. Capture what your model actually did, replay it against a",
-    "id": "Medhovarsh/parity",
-    "language": "Python",
-    "name": "Medhovarsh/parity",
-    "stars": 0,
-    "updated_at": "2026-08-07T21:34:37Z",
-    "url": "https://github.com/Medhovarsh/parity"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7130,
-    "updated_at": "2026-08-07T21:43:37Z",
+    "updated_at": "2026-08-07T22:00:27Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T21:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -77,7 +149,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-07T21:34:18Z",
+    "updated_at": "2026-08-07T21:48:16Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -88,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-08-07T21:27:43Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21198,
+    "updated_at": "2026-08-07T21:26:47Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 3,
-    "updated_at": "2026-08-07T21:10:09Z",
+    "updated_at": "2026-08-07T21:51:59Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -122,7 +203,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8205,
-    "updated_at": "2026-08-07T21:37:32Z",
+    "updated_at": "2026-08-07T21:50:11Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -135,15 +216,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-07T21:03:08Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -153,15 +225,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 11,
-    "updated_at": "2026-08-07T21:05:02Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -169,24 +232,6 @@
     "stars": 395,
     "updated_at": "2026-08-07T20:59:59Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-07T20:53:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-07T21:15:41Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29573,
-    "updated_at": "2026-08-07T21:31:26Z",
+    "updated_at": "2026-08-07T21:53:41Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1624,
-    "updated_at": "2026-08-07T20:16:01Z",
+    "updated_at": "2026-08-07T21:53:51Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27411,
-    "updated_at": "2026-08-07T20:41:05Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -315,21 +351,12 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10937,
-    "updated_at": "2026-08-07T21:45:02Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
     "id": "shyftlabs/continuum",
     "language": "Python",
     "name": "shyftlabs/continuum",
     "stars": 79,
-    "updated_at": "2026-08-07T21:32:16Z",
+    "updated_at": "2026-08-07T21:52:46Z",
     "url": "https://github.com/shyftlabs/continuum"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-08-07T21:39:00Z",
+    "updated_at": "2026-08-07T21:57:22Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24056,
-    "updated_at": "2026-08-07T18:45:50Z",
+    "updated_at": "2026-08-07T21:57:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T18:09:21Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-07T18:07:12Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 2,
-    "updated_at": "2026-08-07T18:07:11Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Core infrastructure and architectural components for AcruxCore ecosystem services.",
-    "id": "AcruxCore/AcruxCore",
-    "language": "TypeScript",
-    "name": "AcruxCore/AcruxCore",
-    "stars": 2,
-    "updated_at": "2026-08-07T17:57:21Z",
-    "url": "https://github.com/AcruxCore/AcruxCore"
   }
 ]
