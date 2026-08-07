@@ -1,5 +1,59 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-07T18:48:32Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "RFC-style syntax standards for LLM prompts. Markdown-native, explicit variables, reproducible.",
+    "id": "taka4rest/prompt-as-code",
+    "language": "\u2014",
+    "name": "taka4rest/prompt-as-code",
+    "stars": 1,
+    "updated_at": "2026-08-07T18:47:02Z",
+    "url": "https://github.com/taka4rest/prompt-as-code"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-07T18:47:01Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-08-07T18:45:51Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24054,
+    "updated_at": "2026-08-07T18:45:50Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
     "id": "memoturn/memoturn",
     "language": "TypeScript",
@@ -9,31 +63,13 @@
     "url": "https://github.com/memoturn/memoturn"
   },
   {
-    "description": "RFC-style syntax standards for LLM prompts. Markdown-native, explicit variables, reproducible.",
-    "id": "taka4rest/prompt-as-code",
-    "language": "\u2014",
-    "name": "taka4rest/prompt-as-code",
-    "stars": 1,
-    "updated_at": "2026-08-07T18:36:32Z",
-    "url": "https://github.com/taka4rest/prompt-as-code"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55825,
-    "updated_at": "2026-08-07T18:43:29Z",
+    "updated_at": "2026-08-07T18:49:41Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T18:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
@@ -162,15 +198,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-07T17:59:56Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Core infrastructure and architectural components for AcruxCore ecosystem services.",
     "id": "AcruxCore/AcruxCore",
     "language": "TypeScript",
@@ -185,7 +212,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-07T17:51:29Z",
+    "updated_at": "2026-08-07T18:50:19Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T17:41:08Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24053,
-    "updated_at": "2026-08-07T17:33:44Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "CLI tool for comparing prompt variants and models",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T17:02:40Z",
     "url": "https://github.com/sandeep-alluru/foghorn"
-  },
-  {
-    "description": "Diff and regression-detect LLM agent execution traces",
-    "id": "sandeep-alluru/agentdelta",
-    "language": "Python",
-    "name": "sandeep-alluru/agentdelta",
-    "stars": 0,
-    "updated_at": "2026-08-07T17:00:49Z",
-    "url": "https://github.com/sandeep-alluru/agentdelta"
-  },
-  {
-    "description": "Autonomous multi-agent research engine built with LangGraph & Python. Features a supervisor-worker topology, neural sear",
-    "id": "shreyakoranga80-hash/Multi-Agent-Research-System",
-    "language": "Python",
-    "name": "shreyakoranga80-hash/Multi-Agent-Research-System",
-    "stars": 0,
-    "updated_at": "2026-08-07T16:58:26Z",
-    "url": "https://github.com/shreyakoranga80-hash/Multi-Agent-Research-System"
   }
 ]
