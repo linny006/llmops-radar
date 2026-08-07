@@ -1,12 +1,39 @@
 [
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55824,
+    "updated_at": "2026-08-07T18:14:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
     "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-07T17:59:56Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-08-07T18:14:17Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 388,
+    "updated_at": "2026-08-07T18:12:43Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-07T18:09:21Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
@@ -14,8 +41,71 @@
     "language": "Python",
     "name": "admina-org/admina",
     "stars": 6,
-    "updated_at": "2026-08-07T18:00:21Z",
+    "updated_at": "2026-08-07T18:15:26Z",
     "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-07T18:08:20Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-07T18:07:12Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:07:11Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 4,
+    "updated_at": "2026-08-07T18:06:33Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:07:41Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-07T17:59:56Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Core infrastructure and architectural components for AcruxCore ecosystem services.",
@@ -36,24 +126,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
-    "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-07T17:50:46Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 388,
-    "updated_at": "2026-08-07T17:50:23Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -61,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-08-07T17:49:06Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 4,
-    "updated_at": "2026-08-07T17:59:38Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
@@ -108,22 +171,13 @@
     "url": "https://github.com/vectorvoyager358/resilience-hub"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T17:45:14Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-07T17:48:27Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "name": "comet-ml/opik",
+    "stars": 21190,
+    "updated_at": "2026-08-07T17:46:42Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-08-07T17:43:29Z",
+    "updated_at": "2026-08-07T18:11:42Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -144,21 +198,12 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-08-07T17:40:43Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 3,
-    "updated_at": "2026-08-07T17:33:52Z",
+    "updated_at": "2026-08-07T18:09:03Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -166,7 +211,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24053,
+    "stars": 24052,
     "updated_at": "2026-08-07T17:33:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -176,17 +221,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10935,
-    "updated_at": "2026-08-07T17:57:33Z",
+    "updated_at": "2026-08-07T18:01:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55823,
-    "updated_at": "2026-08-07T17:59:23Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "CLI tool for comparing prompt variants and models",
@@ -203,17 +239,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3478,
-    "updated_at": "2026-08-07T17:36:40Z",
+    "updated_at": "2026-08-07T18:04:33Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-07T17:47:11Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1135,
-    "updated_at": "2026-08-07T17:10:52Z",
+    "updated_at": "2026-08-07T18:15:16Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -283,7 +310,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32701,
+    "stars": 32702,
     "updated_at": "2026-08-07T17:05:11Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1623,
-    "updated_at": "2026-08-07T17:03:31Z",
+    "updated_at": "2026-08-07T18:07:13Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 548,
-    "updated_at": "2026-08-07T17:35:56Z",
+    "updated_at": "2026-08-07T18:13:27Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29572,
-    "updated_at": "2026-08-07T17:56:11Z",
+    "updated_at": "2026-08-07T18:07:37Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T16:55:38Z",
     "url": "https://github.com/Kaito-ishiguro/missions-orchestrator"
-  },
-  {
-    "description": "Open-source local policy, recovery, and audit layer for explicit Codex execution.",
-    "id": "MHW888888/aegisloop",
-    "language": "JavaScript",
-    "name": "MHW888888/aegisloop",
-    "stars": 19,
-    "updated_at": "2026-08-07T16:49:44Z",
-    "url": "https://github.com/MHW888888/aegisloop"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-08-07T16:49:15Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21189,
-    "updated_at": "2026-08-07T17:46:42Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
