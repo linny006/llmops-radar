@@ -1,5 +1,32 @@
 [
   {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-07T20:33:04Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T20:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 3,
+    "updated_at": "2026-08-07T20:30:20Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -7,6 +34,15 @@
     "stars": 8,
     "updated_at": "2026-08-07T20:29:45Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7129,
+    "updated_at": "2026-08-07T20:28:39Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
@@ -49,7 +85,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 392,
+    "stars": 394,
     "updated_at": "2026-08-07T20:20:04Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T20:15:48Z",
     "url": "https://github.com/sandeep-alluru/agentdelta"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T20:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55826,
-    "updated_at": "2026-08-07T20:30:09Z",
+    "updated_at": "2026-08-07T20:34:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -149,7 +176,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-07T19:50:02Z",
+    "updated_at": "2026-08-07T20:36:19Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -180,15 +207,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7130,
-    "updated_at": "2026-08-07T20:28:39Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -196,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-08-07T19:27:17Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-08-07T20:30:20Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -221,7 +230,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 4,
-    "updated_at": "2026-08-07T20:24:19Z",
+    "updated_at": "2026-08-07T20:33:59Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -234,21 +243,12 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-07T20:28:10Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10937,
-    "updated_at": "2026-08-07T20:22:34Z",
+    "updated_at": "2026-08-07T20:35:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
