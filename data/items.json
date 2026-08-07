@@ -1,12 +1,111 @@
 [
   {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-07T16:29:55Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
+    "language": "Python",
+    "name": "amro/evaling",
+    "stars": 1,
+    "updated_at": "2026-08-07T16:26:47Z",
+    "url": "https://github.com/amro/evaling"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-07T16:24:44Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 7,
+    "updated_at": "2026-08-07T16:23:17Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 386,
+    "updated_at": "2026-08-07T16:19:31Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-07T16:18:34Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 44,
+    "updated_at": "2026-08-07T16:16:53Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Content-addressed GUI action facts for computer-use agents",
+    "id": "sandeep-alluru/clickproof",
+    "language": "Python",
+    "name": "sandeep-alluru/clickproof",
+    "stars": 0,
+    "updated_at": "2026-08-07T16:15:39Z",
+    "url": "https://github.com/sandeep-alluru/clickproof"
+  },
+  {
+    "description": "Autonomous multi-agent research engine built with LangGraph & Python. Features a supervisor-worker topology, neural sear",
+    "id": "shreyakoranga80-hash/Multi-Agent-Research-System",
+    "language": "Python",
+    "name": "shreyakoranga80-hash/Multi-Agent-Research-System",
+    "stars": 0,
+    "updated_at": "2026-08-07T16:15:30Z",
+    "url": "https://github.com/shreyakoranga80-hash/Multi-Agent-Research-System"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T16:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-08-07T16:14:58Z",
+    "updated_at": "2026-08-07T16:27:19Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
+    "id": "Vishalvk2219/Ringdown",
+    "language": "Python",
+    "name": "Vishalvk2219/Ringdown",
+    "stars": 0,
+    "updated_at": "2026-08-07T16:14:18Z",
+    "url": "https://github.com/Vishalvk2219/Ringdown"
   },
   {
     "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
@@ -36,22 +135,22 @@
     "url": "https://github.com/acornops/execution-engine"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32700,
+    "updated_at": "2026-08-07T16:29:07Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-07T16:15:22Z",
+    "updated_at": "2026-08-07T16:21:36Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32699,
-    "updated_at": "2026-08-07T16:11:45Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -59,7 +158,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29573,
-    "updated_at": "2026-08-07T16:07:52Z",
+    "updated_at": "2026-08-07T16:26:57Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 3,
-    "updated_at": "2026-08-07T16:06:52Z",
+    "updated_at": "2026-08-07T16:27:53Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -88,15 +187,6 @@
     "stars": 55818,
     "updated_at": "2026-08-07T16:02:42Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 386,
-    "updated_at": "2026-08-07T16:02:06Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -124,15 +214,6 @@
     "stars": 7,
     "updated_at": "2026-08-07T16:00:41Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T16:00:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -203,17 +284,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-07T16:05:13Z",
+    "updated_at": "2026-08-07T16:19:08Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-07T16:11:44Z",
-    "url": "https://github.com/dshakes/clickllm"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -229,18 +301,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21187,
-    "updated_at": "2026-08-07T15:45:35Z",
+    "stars": 21188,
+    "updated_at": "2026-08-07T16:29:41Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-07T15:39:52Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 548,
-    "updated_at": "2026-08-07T15:41:01Z",
+    "updated_at": "2026-08-07T16:29:16Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -266,7 +329,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 4,
-    "updated_at": "2026-08-07T15:17:51Z",
+    "updated_at": "2026-08-07T16:27:00Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -302,7 +365,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3478,
-    "updated_at": "2026-08-07T16:09:04Z",
+    "updated_at": "2026-08-07T16:21:43Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -311,7 +374,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-08-07T15:27:45Z",
+    "updated_at": "2026-08-07T16:18:42Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -347,7 +410,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7127,
-    "updated_at": "2026-08-07T14:45:04Z",
+    "updated_at": "2026-08-07T16:29:46Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 371,
     "updated_at": "2026-08-07T14:33:03Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "Python",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-08-07T15:21:05Z",
-    "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
-    "id": "bytebeast/check-endpoint",
-    "language": "Python",
-    "name": "bytebeast/check-endpoint",
-    "stars": 7,
-    "updated_at": "2026-08-07T14:22:42Z",
-    "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3489,
-    "updated_at": "2026-08-07T14:21:57Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
-    "id": "anmolsharma152/Disha",
-    "language": "Python",
-    "name": "anmolsharma152/Disha",
-    "stars": 0,
-    "updated_at": "2026-08-07T14:19:54Z",
-    "url": "https://github.com/anmolsharma152/Disha"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 89,
-    "updated_at": "2026-08-07T15:00:36Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
-    "id": "kreftamarcio/prompt-forge",
-    "language": "TypeScript",
-    "name": "kreftamarcio/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-08-07T14:17:58Z",
-    "url": "https://github.com/kreftamarcio/prompt-forge"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 24,
-    "updated_at": "2026-08-07T14:16:57Z",
-    "url": "https://github.com/byte5ai/omadia"
   }
 ]
