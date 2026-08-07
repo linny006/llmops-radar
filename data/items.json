@@ -1,12 +1,93 @@
 [
   {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-07T18:28:48Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 388,
+    "updated_at": "2026-08-07T18:27:09Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55824,
-    "updated_at": "2026-08-07T18:14:23Z",
+    "stars": 55825,
+    "updated_at": "2026-08-07T18:28:51Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 3,
+    "updated_at": "2026-08-07T18:26:24Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:23:40Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 548,
+    "updated_at": "2026-08-07T18:20:53Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 54,
+    "updated_at": "2026-08-07T18:18:23Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 6,
+    "updated_at": "2026-08-07T18:23:57Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-07T18:15:35Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -18,15 +99,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 388,
-    "updated_at": "2026-08-07T18:12:43Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -34,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T18:09:21Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 6,
-    "updated_at": "2026-08-07T18:15:26Z",
-    "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
-    "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-07T18:08:20Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -79,24 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-07T18:06:33Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-07T18:07:41Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T18:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -180,15 +216,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-07T18:11:42Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -198,20 +225,11 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 3,
-    "updated_at": "2026-08-07T18:09:03Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24052,
+    "stars": 24053,
     "updated_at": "2026-08-07T17:33:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10935,
-    "updated_at": "2026-08-07T18:01:48Z",
+    "updated_at": "2026-08-07T18:16:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3478,
-    "updated_at": "2026-08-07T18:04:33Z",
+    "updated_at": "2026-08-07T18:21:40Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1135,
-    "updated_at": "2026-08-07T18:15:16Z",
+    "updated_at": "2026-08-07T18:24:21Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -310,7 +328,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32702,
+    "stars": 32704,
     "updated_at": "2026-08-07T17:05:11Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -414,15 +432,6 @@
     "url": "https://github.com/shreyakoranga80-hash/Multi-Agent-Research-System"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 548,
-    "updated_at": "2026-08-07T18:13:27Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 29572,
     "updated_at": "2026-08-07T18:07:37Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Deterministic Python harness for running multi-agent coding missions unattended overnight. Orchestration logic lives in ",
-    "id": "Kaito-ishiguro/missions-orchestrator",
-    "language": "Python",
-    "name": "Kaito-ishiguro/missions-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-07T16:55:38Z",
-    "url": "https://github.com/Kaito-ishiguro/missions-orchestrator"
   }
 ]
