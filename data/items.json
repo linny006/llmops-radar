@@ -1,30 +1,12 @@
 [
   {
-    "description": "CLI tool for comparing prompt variants and models",
-    "id": "amro/evaling",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "amro/evaling",
-    "stars": 1,
-    "updated_at": "2026-08-07T23:30:10Z",
-    "url": "https://github.com/amro/evaling"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T23:29:49Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-07T23:29:46Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "name": "Arize-ai/phoenix",
+    "stars": 10938,
+    "updated_at": "2026-08-07T23:44:14Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "git diff for LLM behaviour. Capture what your model actually did, replay it against a candidate model, and catch what si",
@@ -32,8 +14,80 @@
     "language": "Python",
     "name": "Medhovarsh/parity",
     "stars": 0,
-    "updated_at": "2026-08-07T23:28:00Z",
+    "updated_at": "2026-08-07T23:43:28Z",
     "url": "https://github.com/Medhovarsh/parity"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27413,
+    "updated_at": "2026-08-07T23:43:14Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-07T23:37:36Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-08-07T23:37:29Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-07T23:33:11Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:31:31Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
+    "id": "aktasbatuhan/compound",
+    "language": "TypeScript",
+    "name": "aktasbatuhan/compound",
+    "stars": 3,
+    "updated_at": "2026-08-07T23:30:29Z",
+    "url": "https://github.com/aktasbatuhan/compound"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T23:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
+    "language": "Python",
+    "name": "amro/evaling",
+    "stars": 1,
+    "updated_at": "2026-08-07T23:34:34Z",
+    "url": "https://github.com/amro/evaling"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55836,
-    "updated_at": "2026-08-07T23:20:59Z",
+    "updated_at": "2026-08-07T23:41:18Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,17 +104,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29574,
-    "updated_at": "2026-08-07T23:27:07Z",
+    "updated_at": "2026-08-07T23:40:05Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10938,
-    "updated_at": "2026-08-07T23:25:45Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -234,30 +279,12 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
-    "id": "aktasbatuhan/compound",
-    "language": "TypeScript",
-    "name": "aktasbatuhan/compound",
-    "stars": 3,
-    "updated_at": "2026-08-07T22:53:22Z",
-    "url": "https://github.com/aktasbatuhan/compound"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27413,
-    "updated_at": "2026-08-07T23:05:22Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-07T22:41:32Z",
+    "updated_at": "2026-08-07T23:39:33Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -277,24 +304,6 @@
     "stars": 11,
     "updated_at": "2026-08-07T22:37:32Z",
     "url": "https://github.com/psyb0t/aigate"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-07T22:34:24Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-07T22:32:19Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
@@ -364,7 +373,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24059,
+    "stars": 24058,
     "updated_at": "2026-08-07T21:57:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 8205,
     "updated_at": "2026-08-07T21:50:11Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 4,
-    "updated_at": "2026-08-07T22:17:04Z",
-    "url": "https://github.com/AixleHQ/flow"
   }
 ]
