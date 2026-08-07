@@ -1,11 +1,83 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 394,
+    "updated_at": "2026-08-07T20:59:59Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-07T20:53:43Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-07T20:50:50Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 4,
+    "updated_at": "2026-08-07T21:00:18Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-07T20:47:21Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Behavioural regression gate for non-deterministic LLM systems. Capture what your model actually did, replay it against a",
+    "id": "Medhovarsh/parity",
+    "language": "Python",
+    "name": "Medhovarsh/parity",
+    "stars": 0,
+    "updated_at": "2026-08-07T20:46:37Z",
+    "url": "https://github.com/Medhovarsh/parity"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 11,
+    "updated_at": "2026-08-07T20:51:30Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T20:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55826,
-    "updated_at": "2026-08-07T20:44:50Z",
+    "updated_at": "2026-08-07T20:54:51Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -36,24 +108,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Behavioural regression gate for non-deterministic LLM systems. Capture what your model actually did, replay it against a",
-    "id": "Medhovarsh/parity",
-    "language": "Python",
-    "name": "Medhovarsh/parity",
-    "stars": 0,
-    "updated_at": "2026-08-07T20:41:32Z",
-    "url": "https://github.com/Medhovarsh/parity"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 394,
-    "updated_at": "2026-08-07T20:38:57Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -61,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T20:38:06Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 4,
-    "updated_at": "2026-08-07T20:45:04Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T20:36:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-07T20:36:19Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -113,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7129,
-    "updated_at": "2026-08-07T20:43:55Z",
+    "updated_at": "2026-08-07T20:59:18Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -139,18 +166,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32707,
+    "stars": 32709,
     "updated_at": "2026-08-07T20:21:02Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-07T20:45:00Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Diff and regression-detect LLM agent execution traces",
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-07T20:12:19Z",
+    "updated_at": "2026-08-07T20:46:01Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3478,
-    "updated_at": "2026-08-07T20:40:42Z",
+    "updated_at": "2026-08-07T21:00:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -214,15 +232,6 @@
     "stars": 21,
     "updated_at": "2026-08-07T19:47:10Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-07T19:46:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10937,
-    "updated_at": "2026-08-07T20:35:48Z",
+    "updated_at": "2026-08-07T20:48:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "shyftlabs/continuum",
     "stars": 79,
-    "updated_at": "2026-08-07T19:01:16Z",
+    "updated_at": "2026-08-07T20:59:48Z",
     "url": "https://github.com/shyftlabs/continuum"
   },
   {
@@ -319,7 +328,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24055,
+    "stars": 24056,
     "updated_at": "2026-08-07T18:45:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T17:41:08Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "CLI tool for comparing prompt variants and models",
-    "id": "amro/evaling",
-    "language": "Python",
-    "name": "amro/evaling",
-    "stars": 1,
-    "updated_at": "2026-08-07T17:24:43Z",
-    "url": "https://github.com/amro/evaling"
   }
 ]
