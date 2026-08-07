@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32705,
+    "updated_at": "2026-08-07T19:42:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55826,
+    "updated_at": "2026-08-07T19:44:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7130,
+    "updated_at": "2026-08-07T19:33:50Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3478,
+    "updated_at": "2026-08-07T19:39:38Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T19:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -9,49 +54,13 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32705,
-    "updated_at": "2026-08-07T19:23:14Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
     "id": "systempromptio/systemprompt-demo",
     "language": "Rust",
     "name": "systempromptio/systemprompt-demo",
     "stars": 3,
-    "updated_at": "2026-08-07T19:22:16Z",
+    "updated_at": "2026-08-07T19:34:05Z",
     "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55825,
-    "updated_at": "2026-08-07T19:28:11Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7129,
-    "updated_at": "2026-08-07T19:17:41Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T19:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -59,7 +68,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 4,
-    "updated_at": "2026-08-07T19:25:12Z",
+    "updated_at": "2026-08-07T19:35:55Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -94,7 +103,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 388,
+    "stars": 389,
     "updated_at": "2026-08-07T19:04:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -104,7 +113,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-07T19:12:29Z",
+    "updated_at": "2026-08-07T19:43:25Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -117,12 +126,21 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10937,
+    "updated_at": "2026-08-07T19:02:52Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
     "id": "WellCod/automata",
     "language": "TypeScript",
     "name": "WellCod/automata",
     "stars": 1,
-    "updated_at": "2026-08-07T19:13:11Z",
+    "updated_at": "2026-08-07T19:38:40Z",
     "url": "https://github.com/WellCod/automata"
   },
   {
@@ -234,15 +252,6 @@
     "url": "https://github.com/admina-org/admina"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10936,
-    "updated_at": "2026-08-07T19:02:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -349,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T17:24:43Z",
     "url": "https://github.com/amro/evaling"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3478,
-    "updated_at": "2026-08-07T19:26:59Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
