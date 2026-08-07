@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-07 23:29 UTC
+> ⏰ Last updated: 2026-08-07 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,35 +42,35 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Medhovarsh/parity](https://github.com/Medhovarsh/parity) | 0 | Python | 2026-08-07 | git diff for LLM behaviour. Capture what your model actually did, replay it against a candidate model, and catch what si |
-| 2 | [amro/evaling](https://github.com/amro/evaling) | 1 | Python | 2026-08-07 | CLI tool for comparing prompt variants and models |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55836 | Python | 2026-08-07 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-07 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29574 | TypeScript | 2026-08-07 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10938 | Python | 2026-08-07 | AI Observability & Evaluation |
-| 7 | [memoturn/memoturn](https://github.com/memoturn/memoturn) | 0 | TypeScript | 2026-08-07 | Open-source AI engineering platform — LLM observability, evals, metrics, prompt management, playground, and datasets. Op |
-| 8 | [sandeep-alluru/worldoracle](https://github.com/sandeep-alluru/worldoracle) | 0 | Python | 2026-08-07 | World-state belief management and contradiction repair for AI agents |
-| 9 | [sandeep-alluru/normsync](https://github.com/sandeep-alluru/normsync) | 0 | Python | 2026-08-07 | Norm monitoring and violation detection for AI agent actions |
-| 10 | [sandeep-alluru/balancelab](https://github.com/sandeep-alluru/balancelab) | 0 | Python | 2026-08-07 | Economy balance analysis and exploit detection for AI game agents |
-| 11 | [sandeep-alluru/rulegraph](https://github.com/sandeep-alluru/rulegraph) | 0 | Python | 2026-08-07 | Declarative rule graphs for AI agent policy and constraint enforcement |
-| 12 | [sandeep-alluru/humanproof](https://github.com/sandeep-alluru/humanproof) | 0 | Python | 2026-08-07 | Human-in-the-loop checkpoints and approval gates for AI agents |
-| 13 | [sandeep-alluru/polaroid](https://github.com/sandeep-alluru/polaroid) | 0 | Python | 2026-08-07 | Spatial scene graphs and belief state for embodied agents |
-| 14 | [sandeep-alluru/agentcrdt](https://github.com/sandeep-alluru/agentcrdt) | 0 | Python | 2026-08-07 | CRDTs for distributed AI agent state and conflict-free belief merging |
-| 15 | [sandeep-alluru/groundcrew](https://github.com/sandeep-alluru/groundcrew) | 0 | Python | 2026-08-07 | Action receipts and chain-of-custody for AI agents |
-| 16 | [sandeep-alluru/clickproof](https://github.com/sandeep-alluru/clickproof) | 0 | Python | 2026-08-07 | Content-addressed GUI action facts for computer-use agents |
-| 17 | [sandeep-alluru/notarize](https://github.com/sandeep-alluru/notarize) | 0 | Python | 2026-08-07 | Canonical trace format and verifier for agent execution attestation |
-| 18 | [tmusser/ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills) | 3 | Python | 2026-08-07 | Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve |
-| 19 | [sandeep-alluru/foghorn](https://github.com/sandeep-alluru/foghorn) | 0 | Python | 2026-08-07 | Fact-level staleness detection for AI agent memory |
-| 20 | [sandeep-alluru/agentdelta](https://github.com/sandeep-alluru/agentdelta) | 0 | Python | 2026-08-07 | Diff and regression-detect LLM agent execution traces |
-| 21 | [dshakes/distil](https://github.com/dshakes/distil) | 11 | Python | 2026-08-07 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
-| 22 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32713 | TypeScript | 2026-08-07 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 23 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 3 | Python | 2026-08-07 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 24 | [brunovicco/verifiable-ai-governance](https://github.com/brunovicco/verifiable-ai-governance) | 0 | Python | 2026-08-07 | Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv |
-| 25 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-08-07 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 26 | [aktasbatuhan/compound](https://github.com/aktasbatuhan/compound) | 3 | TypeScript | 2026-08-07 | Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de |
-| 27 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27413 | Python | 2026-08-07 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 28 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-07 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
-| 29 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-07 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 1 | [amro/evaling](https://github.com/amro/evaling) | 1 | Python | 2026-08-07 | CLI tool for comparing prompt variants and models |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-07 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-07 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 4 | [Medhovarsh/parity](https://github.com/Medhovarsh/parity) | 0 | Python | 2026-08-07 | git diff for LLM behaviour. Capture what your model actually did, replay it against a candidate model, and catch what si |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55836 | Python | 2026-08-07 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 6 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29574 | TypeScript | 2026-08-07 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10938 | Python | 2026-08-07 | AI Observability & Evaluation |
+| 8 | [memoturn/memoturn](https://github.com/memoturn/memoturn) | 0 | TypeScript | 2026-08-07 | Open-source AI engineering platform — LLM observability, evals, metrics, prompt management, playground, and datasets. Op |
+| 9 | [sandeep-alluru/worldoracle](https://github.com/sandeep-alluru/worldoracle) | 0 | Python | 2026-08-07 | World-state belief management and contradiction repair for AI agents |
+| 10 | [sandeep-alluru/normsync](https://github.com/sandeep-alluru/normsync) | 0 | Python | 2026-08-07 | Norm monitoring and violation detection for AI agent actions |
+| 11 | [sandeep-alluru/balancelab](https://github.com/sandeep-alluru/balancelab) | 0 | Python | 2026-08-07 | Economy balance analysis and exploit detection for AI game agents |
+| 12 | [sandeep-alluru/rulegraph](https://github.com/sandeep-alluru/rulegraph) | 0 | Python | 2026-08-07 | Declarative rule graphs for AI agent policy and constraint enforcement |
+| 13 | [sandeep-alluru/humanproof](https://github.com/sandeep-alluru/humanproof) | 0 | Python | 2026-08-07 | Human-in-the-loop checkpoints and approval gates for AI agents |
+| 14 | [sandeep-alluru/polaroid](https://github.com/sandeep-alluru/polaroid) | 0 | Python | 2026-08-07 | Spatial scene graphs and belief state for embodied agents |
+| 15 | [sandeep-alluru/agentcrdt](https://github.com/sandeep-alluru/agentcrdt) | 0 | Python | 2026-08-07 | CRDTs for distributed AI agent state and conflict-free belief merging |
+| 16 | [sandeep-alluru/groundcrew](https://github.com/sandeep-alluru/groundcrew) | 0 | Python | 2026-08-07 | Action receipts and chain-of-custody for AI agents |
+| 17 | [sandeep-alluru/clickproof](https://github.com/sandeep-alluru/clickproof) | 0 | Python | 2026-08-07 | Content-addressed GUI action facts for computer-use agents |
+| 18 | [sandeep-alluru/notarize](https://github.com/sandeep-alluru/notarize) | 0 | Python | 2026-08-07 | Canonical trace format and verifier for agent execution attestation |
+| 19 | [tmusser/ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills) | 3 | Python | 2026-08-07 | Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve |
+| 20 | [sandeep-alluru/foghorn](https://github.com/sandeep-alluru/foghorn) | 0 | Python | 2026-08-07 | Fact-level staleness detection for AI agent memory |
+| 21 | [sandeep-alluru/agentdelta](https://github.com/sandeep-alluru/agentdelta) | 0 | Python | 2026-08-07 | Diff and regression-detect LLM agent execution traces |
+| 22 | [dshakes/distil](https://github.com/dshakes/distil) | 11 | Python | 2026-08-07 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
+| 23 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32713 | TypeScript | 2026-08-07 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 24 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 3 | Python | 2026-08-07 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 25 | [brunovicco/verifiable-ai-governance](https://github.com/brunovicco/verifiable-ai-governance) | 0 | Python | 2026-08-07 | Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv |
+| 26 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-08-07 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 27 | [aktasbatuhan/compound](https://github.com/aktasbatuhan/compound) | 3 | TypeScript | 2026-08-07 | Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de |
+| 28 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27413 | Python | 2026-08-07 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 29 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-07 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
 | 30 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1626 | Python | 2026-08-07 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
 | 31 | [psyb0t/aigate](https://github.com/psyb0t/aigate) | 11 | Shell | 2026-08-07 | A self-hosted AI platform — inference, tool use, browser automation, image generation, speech synthesis, transcription,  |
 | 32 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-07 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
