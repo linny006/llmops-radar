@@ -1,5 +1,50 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-07T00:19:46Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
+    "id": "sandeep-alluru/rulegraph",
+    "language": "Python",
+    "name": "sandeep-alluru/rulegraph",
+    "stars": 0,
+    "updated_at": "2026-08-07T00:16:49Z",
+    "url": "https://github.com/sandeep-alluru/rulegraph"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7111,
+    "updated_at": "2026-08-07T00:16:38Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 0,
+    "updated_at": "2026-08-07T00:16:04Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T00:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 11,
-    "updated_at": "2026-08-07T00:11:41Z",
+    "updated_at": "2026-08-07T00:21:16Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T00:10:47Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-07T00:09:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55750,
-    "updated_at": "2026-08-07T00:11:10Z",
+    "updated_at": "2026-08-07T00:21:51Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T00:00:41Z",
     "url": "https://github.com/runcycles/langchain-runcycles"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T00:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-06T23:29:15Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-07T00:14:57Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "World-state belief management and contradiction repair for AI agents",
-    "id": "sandeep-alluru/worldoracle",
-    "language": "Python",
-    "name": "sandeep-alluru/worldoracle",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:05:39Z",
-    "url": "https://github.com/sandeep-alluru/worldoracle"
-  },
-  {
-    "description": "Norm monitoring and violation detection for AI agent actions",
-    "id": "sandeep-alluru/normsync",
-    "language": "Python",
-    "name": "sandeep-alluru/normsync",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:05:31Z",
-    "url": "https://github.com/sandeep-alluru/normsync"
   }
 ]
