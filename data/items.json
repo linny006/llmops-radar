@@ -1,5 +1,86 @@
 [
   {
+    "description": "From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp",
+    "id": "adwitiyashukla/process-twin",
+    "language": "Python",
+    "name": "adwitiyashukla/process-twin",
+    "stars": 0,
+    "updated_at": "2026-08-07T05:45:22Z",
+    "url": "https://github.com/adwitiyashukla/process-twin"
+  },
+  {
+    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-07T05:45:11Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-07T05:43:51Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-07T05:40:19Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-07T05:39:22Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-07T05:35:11Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-08-07T05:36:52Z",
+    "url": "https://github.com/aimd54/palan"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-07T05:32:15Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T05:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
     "id": "genieincodebottle/aiml-companion",
     "language": "Jupyter Notebook",
@@ -9,15 +90,6 @@
     "url": "https://github.com/genieincodebottle/aiml-companion"
   },
   {
-    "description": "From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp",
-    "id": "adwitiyashukla/process-twin",
-    "language": "Python",
-    "name": "adwitiyashukla/process-twin",
-    "stars": 0,
-    "updated_at": "2026-08-07T05:28:14Z",
-    "url": "https://github.com/adwitiyashukla/process-twin"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -25,15 +97,6 @@
     "stars": 49,
     "updated_at": "2026-08-07T05:28:02Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-07T05:26:34Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Production-style LangGraph support-ticket workflow with Gemini, FastAPI, automated tests, CI/CD, containers, infrastruct",
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T05:16:18Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T05:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -347,7 +401,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55767,
-    "updated_at": "2026-08-07T05:26:14Z",
+    "updated_at": "2026-08-07T05:36:01Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T04:44:00Z",
     "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
-    "id": "rsaudio/second-brain",
-    "language": "\u2014",
-    "name": "rsaudio/second-brain",
-    "stars": 1,
-    "updated_at": "2026-08-07T04:43:42Z",
-    "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-08-07T04:42:33Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-08-07T04:42:21Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Open-source local policy, recovery, and audit layer for explicit Codex execution.",
-    "id": "MHW888888/aegisloop",
-    "language": "JavaScript",
-    "name": "MHW888888/aegisloop",
-    "stars": 19,
-    "updated_at": "2026-08-07T04:41:00Z",
-    "url": "https://github.com/MHW888888/aegisloop"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-08-07T04:40:17Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-07T04:39:10Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
