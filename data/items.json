@@ -1,11 +1,119 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32680,
+    "updated_at": "2026-08-07T10:14:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:13:15Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Enterprise-grade Agentic RAG system built on Pydantic AI docs ,  features LangGraph orchestration, NeMo Guardrails, Qdra",
+    "id": "MubashirShafique/enterprise-agentic-rag",
+    "language": "Python",
+    "name": "MubashirShafique/enterprise-agentic-rag",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:12:09Z",
+    "url": "https://github.com/MubashirShafique/enterprise-agentic-rag"
+  },
+  {
+    "description": "AgentOps for Rust: orchestrate, guard, validate, evaluate \u2014 in one crate",
+    "id": "thaicn1712/agentflow",
+    "language": "Rust",
+    "name": "thaicn1712/agentflow",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:11:00Z",
+    "url": "https://github.com/thaicn1712/agentflow"
+  },
+  {
+    "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 7,
+    "updated_at": "2026-08-07T10:10:19Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 44,
+    "updated_at": "2026-08-07T10:05:55Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1619,
+    "updated_at": "2026-08-07T10:04:27Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 10,
+    "updated_at": "2026-08-07T10:04:08Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21175,
+    "updated_at": "2026-08-07T10:10:33Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane.",
+    "id": "fightheyyy/CATENA",
+    "language": "Go",
+    "name": "fightheyyy/CATENA",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:02:57Z",
+    "url": "https://github.com/fightheyyy/CATENA"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-07T10:01:06Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T10:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 10 cloud providers + local models side-",
     "id": "lavellehatcherjr/Cli-Modelarium",
     "language": "Python",
     "name": "lavellehatcherjr/Cli-Modelarium",
     "stars": 1,
-    "updated_at": "2026-08-07T09:59:53Z",
+    "updated_at": "2026-08-07T10:05:28Z",
     "url": "https://github.com/lavellehatcherjr/Cli-Modelarium"
   },
   {
@@ -23,17 +131,8 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2579,
-    "updated_at": "2026-08-07T09:58:50Z",
+    "updated_at": "2026-08-07T10:03:42Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T09:57:54Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -43,33 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T09:57:45Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Enterprise-grade Agentic RAG system built on Pydantic AI docs ,  features LangGraph orchestration, NeMo Guardrails, Qdra",
-    "id": "MubashirShafique/enterprise-agentic-rag",
-    "language": "Python",
-    "name": "MubashirShafique/enterprise-agentic-rag",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:55:14Z",
-    "url": "https://github.com/MubashirShafique/enterprise-agentic-rag"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21175,
-    "updated_at": "2026-08-07T09:55:57Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32678,
-    "updated_at": "2026-08-07T09:53:18Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -113,7 +185,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-07T10:00:14Z",
+    "updated_at": "2026-08-07T10:14:41Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 3,
-    "updated_at": "2026-08-07T09:50:39Z",
+    "updated_at": "2026-08-07T10:02:46Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 55795,
     "updated_at": "2026-08-07T09:04:59Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-08-07T09:01:09Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane.",
-    "id": "fightheyyy/CATENA",
-    "language": "Go",
-    "name": "fightheyyy/CATENA",
-    "stars": 0,
-    "updated_at": "2026-08-07T08:59:48Z",
-    "url": "https://github.com/fightheyyy/CATENA"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-07T08:57:59Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "openloop-team/openloop",
-    "language": "Python",
-    "name": "openloop-team/openloop",
-    "stars": 2,
-    "updated_at": "2026-08-07T08:51:44Z",
-    "url": "https://github.com/openloop-team/openloop"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5542,
-    "updated_at": "2026-08-07T08:33:00Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Production-style LangGraph support-ticket workflow with Gemini, FastAPI, automated tests, CI/CD, containers, infrastruct",
-    "id": "Sol1986/support-triage-agent",
-    "language": "Python",
-    "name": "Sol1986/support-triage-agent",
-    "stars": 0,
-    "updated_at": "2026-08-07T08:30:43Z",
-    "url": "https://github.com/Sol1986/support-triage-agent"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3478,
-    "updated_at": "2026-08-07T09:56:57Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24038,
-    "updated_at": "2026-08-07T08:26:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
