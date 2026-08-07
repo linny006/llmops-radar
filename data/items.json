@@ -5,8 +5,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-07T01:29:56Z",
+    "updated_at": "2026-08-07T01:43:48Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 75,
+    "updated_at": "2026-08-07T01:32:09Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T01:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55752,
+    "updated_at": "2026-08-07T01:44:13Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -45,15 +72,6 @@
     "url": "https://github.com/Sentragent/sentragent-sdk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T01:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 2,
-    "updated_at": "2026-08-07T01:24:38Z",
+    "updated_at": "2026-08-07T01:40:58Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -153,13 +171,13 @@
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55751,
-    "updated_at": "2026-08-07T01:27:59Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Trajectory evaluation for LLM agents: a Go core that judges full runs (tool errors, loops, cost and latency budgets) and",
+    "id": "Cro22/trazo",
+    "language": "Go",
+    "name": "Cro22/trazo",
+    "stars": 0,
+    "updated_at": "2026-08-07T00:47:06Z",
+    "url": "https://github.com/Cro22/trazo"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -430,23 +448,5 @@
     "stars": 24019,
     "updated_at": "2026-08-07T00:03:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 75,
-    "updated_at": "2026-08-07T01:17:50Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\u30de\u30eb\u30c1\u30af\u30e9\u30a6\u30c9\u4f01\u696d\u306b\u304a\u3051\u308b AI Gateway(LLM Gateway)\u6d3b\u7528\u306e\u30e1\u30ea\u30c3\u30c8\u30fb\u30c7\u30e1\u30ea\u30c3\u30c8\u3068\u5c0e\u5165\u5224\u65ad\u30ac\u30a4\u30c9",
-    "id": "bitpackman/ai-gateway-multicloud",
-    "language": "\u2014",
-    "name": "bitpackman/ai-gateway-multicloud",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:01:24Z",
-    "url": "https://github.com/bitpackman/ai-gateway-multicloud"
   }
 ]
