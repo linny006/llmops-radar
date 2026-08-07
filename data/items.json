@@ -1,12 +1,12 @@
 [
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
+    "description": "Enterprise-grade Agentic RAG system built on Pydantic AI docs ,  features LangGraph orchestration, NeMo Guardrails, Qdra",
+    "id": "MubashirShafique/enterprise-agentic-rag",
     "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 386,
-    "updated_at": "2026-08-07T09:44:29Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "name": "MubashirShafique/enterprise-agentic-rag",
+    "stars": 0,
+    "updated_at": "2026-08-07T09:55:14Z",
+    "url": "https://github.com/MubashirShafique/enterprise-agentic-rag"
   },
   {
     "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 10 cloud providers + local models side-",
@@ -14,17 +14,80 @@
     "language": "Python",
     "name": "lavellehatcherjr/Cli-Modelarium",
     "stars": 1,
-    "updated_at": "2026-08-07T09:44:59Z",
+    "updated_at": "2026-08-07T09:55:44Z",
     "url": "https://github.com/lavellehatcherjr/Cli-Modelarium"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21175,
+    "updated_at": "2026-08-07T09:55:57Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32677,
-    "updated_at": "2026-08-07T09:42:44Z",
+    "stars": 32678,
+    "updated_at": "2026-08-07T09:53:18Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 370,
+    "updated_at": "2026-08-07T09:52:34Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-08-07T09:48:01Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-08-07T09:47:04Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-07T09:46:24Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T09:45:41Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 386,
+    "updated_at": "2026-08-07T09:44:29Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -72,21 +135,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-07T09:35:38Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 3,
-    "updated_at": "2026-08-07T09:35:03Z",
+    "updated_at": "2026-08-07T09:50:39Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -167,7 +221,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2578,
-    "updated_at": "2026-08-07T09:33:08Z",
+    "updated_at": "2026-08-07T09:50:58Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -180,15 +234,6 @@
     "url": "https://github.com/ydavidcm9-wq/vigil"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T09:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
     "id": "islaagnet27/llm-cost",
     "language": "C++",
@@ -196,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T09:30:16Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21175,
-    "updated_at": "2026-08-07T09:45:24Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -329,7 +365,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-07T09:04:44Z",
+    "updated_at": "2026-08-07T09:57:45Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -369,31 +405,13 @@
     "url": "https://github.com/openloop-team/openloop"
   },
   {
-    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
-    "id": "ashrafb8962/agentic-ops-and-rag",
-    "language": "Jupyter Notebook",
-    "name": "ashrafb8962/agentic-ops-and-rag",
-    "stars": 0,
-    "updated_at": "2026-08-07T08:41:23Z",
-    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
-  },
-  {
-    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
-    "id": "sargentfragrant429/AgentAccessManager",
-    "language": "\u2014",
-    "name": "sargentfragrant429/AgentAccessManager",
-    "stars": 0,
-    "updated_at": "2026-08-07T08:40:11Z",
-    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "Enterprise-grade Agentic RAG system built on Pydantic AI docs ,  features LangGraph orchestration, NeMo Guardrails, Qdra",
-    "id": "MubashirShafique/enterprise-agentic-rag",
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
     "language": "Python",
-    "name": "MubashirShafique/enterprise-agentic-rag",
-    "stars": 0,
-    "updated_at": "2026-08-07T08:35:45Z",
-    "url": "https://github.com/MubashirShafique/enterprise-agentic-rag"
+    "name": "zenml-io/zenml",
+    "stars": 5542,
+    "updated_at": "2026-08-07T08:33:00Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "Production-style LangGraph support-ticket workflow with Gemini, FastAPI, automated tests, CI/CD, containers, infrastruct",
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3478,
-    "updated_at": "2026-08-07T09:41:37Z",
+    "updated_at": "2026-08-07T09:56:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -418,7 +436,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24036,
+    "stars": 24038,
     "updated_at": "2026-08-07T08:26:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1619,
-    "updated_at": "2026-08-07T09:36:00Z",
+    "updated_at": "2026-08-07T09:54:04Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7122,
-    "updated_at": "2026-08-07T09:44:40Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-07T08:17:44Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
   }
 ]
