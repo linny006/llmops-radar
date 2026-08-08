@@ -1,21 +1,84 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55847,
-    "updated_at": "2026-08-08T05:53:56Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10939,
-    "updated_at": "2026-08-08T05:55:07Z",
+    "updated_at": "2026-08-08T06:15:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-08-08T06:15:19Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Long-term semantic memory for graph-flow agents: retrieve, inject, extract, resolve (Mem0's loop, in Rust)",
+    "id": "thaicn1712/memoryflow",
+    "language": "Rust",
+    "name": "thaicn1712/memoryflow",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:13:23Z",
+    "url": "https://github.com/thaicn1712/memoryflow"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-08T06:11:38Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 3,
+    "updated_at": "2026-08-08T06:10:26Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Local-first agent runtime assurance and governance: policy-as-code identity, enforced autonomy ceilings, owner-gated exe",
+    "id": "debshikhar-sec/private-ai-infra",
+    "language": "Python",
+    "name": "debshikhar-sec/private-ai-infra",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:09:46Z",
+    "url": "https://github.com/debshikhar-sec/private-ai-infra"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:01:56Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T06:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55847,
+    "updated_at": "2026-08-08T06:11:32Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
@@ -25,24 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T05:48:00Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T05:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Local-first agent runtime assurance and governance: policy-as-code identity, enforced autonomy ceilings, owner-gated exe",
-    "id": "debshikhar-sec/private-ai-infra",
-    "language": "Python",
-    "name": "debshikhar-sec/private-ai-infra",
-    "stars": 0,
-    "updated_at": "2026-08-08T05:44:06Z",
-    "url": "https://github.com/debshikhar-sec/private-ai-infra"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -151,24 +196,6 @@
     "stars": 49,
     "updated_at": "2026-08-08T05:08:59Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-08-08T05:06:53Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-08T05:52:01Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T01:49:59Z",
     "url": "https://github.com/api-evangelist/tensorzero"
-  },
-  {
-    "description": "Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine le",
-    "id": "api-evangelist/seldon",
-    "language": "\u2014",
-    "name": "api-evangelist/seldon",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:41:41Z",
-    "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "Raindrop is the monitoring and observability platform for AI agents \u2014 a \"Sentry for AI agents\" that discovers silent age",
-    "id": "api-evangelist/raindrop",
-    "language": "\u2014",
-    "name": "api-evangelist/raindrop",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:36:22Z",
-    "url": "https://github.com/api-evangelist/raindrop"
-  },
-  {
-    "description": "Qwak is an end-to-end production machine learning platform that lets data science and ML engineering teams build, train,",
-    "id": "api-evangelist/qwak",
-    "language": "\u2014",
-    "name": "api-evangelist/qwak",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:36:04Z",
-    "url": "https://github.com/api-evangelist/qwak"
   }
 ]
