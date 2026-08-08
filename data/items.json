@@ -1,5 +1,68 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-08T14:44:34Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-08T14:44:00Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3479,
+    "updated_at": "2026-08-08T14:41:52Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Terminal-first AI gateway for MCP, Codex/Cursor/Cline integrations, deterministic prompt enhancement, and execution gove",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-08T14:37:47Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T14:36:13Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-08T14:31:19Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T14:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "CLI tool for comparing prompt variants and models",
     "id": "amro/evaling",
     "language": "Python",
@@ -16,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T14:29:42Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-08T14:27:47Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-08T14:26:13Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
@@ -54,15 +99,6 @@
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "Terminal-first AI gateway for MCP, Codex/Cursor/Cline integrations, deterministic prompt enhancement, and execution gove",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-08T14:19:45Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -70,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-08-08T14:18:27Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T14:16:50Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -113,17 +140,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27417,
-    "updated_at": "2026-08-08T14:24:19Z",
+    "updated_at": "2026-08-08T14:44:59Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-08T14:11:37Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T13:54:25Z",
     "url": "https://github.com/kreftamarcio/prompt-forge"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-08T13:44:41Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -214,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T12:51:48Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3479,
-    "updated_at": "2026-08-08T13:41:08Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Core infrastructure and architectural components for AcruxCore ecosystem services.",
@@ -283,7 +283,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7146,
+    "stars": 7147,
     "updated_at": "2026-08-08T12:02:20Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -302,7 +302,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-08T14:26:43Z",
+    "updated_at": "2026-08-08T14:35:46Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -346,7 +346,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55866,
+    "stars": 55867,
     "updated_at": "2026-08-08T11:05:55Z",
     "url": "https://github.com/BerriAI/litellm"
   },
