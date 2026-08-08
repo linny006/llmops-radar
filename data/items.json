@@ -1,11 +1,56 @@
 [
   {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:21:57Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2581,
+    "updated_at": "2026-08-08T06:19:03Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
+    "language": "Python",
+    "name": "boundflow/boundflow",
+    "stars": 6,
+    "updated_at": "2026-08-08T06:16:01Z",
+    "url": "https://github.com/boundflow/boundflow"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-08T06:15:48Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T06:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10939,
-    "updated_at": "2026-08-08T06:15:22Z",
+    "updated_at": "2026-08-08T06:16:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 3,
-    "updated_at": "2026-08-08T06:10:26Z",
+    "updated_at": "2026-08-08T06:22:38Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T06:01:56Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T06:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -162,15 +198,6 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2581,
-    "updated_at": "2026-08-08T05:15:33Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Find token accounting that silently undercounts Anthropic's prompt cache. Three rules, each from a defect found in a shi",
     "id": "arthi-arumugam-git/cachecheck",
     "language": "Python",
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T05:06:55Z",
     "url": "https://github.com/thaicn1712/traceflow"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-08T05:08:59Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -292,7 +310,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27415,
+    "stars": 27416,
     "updated_at": "2026-08-08T03:44:04Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T01:52:10Z",
     "url": "https://github.com/prashibadkur11-creator/persona-spec-template"
-  },
-  {
-    "description": "A catalog of AI and LLM product failure modes, with detection and mitigation for each.",
-    "id": "prashibadkur11-creator/ai-failure-mode-taxonomy",
-    "language": "Python",
-    "name": "prashibadkur11-creator/ai-failure-mode-taxonomy",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:50:42Z",
-    "url": "https://github.com/prashibadkur11-creator/ai-failure-mode-taxonomy"
-  },
-  {
-    "description": "TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor",
-    "id": "api-evangelist/tensorzero",
-    "language": "\u2014",
-    "name": "api-evangelist/tensorzero",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:49:59Z",
-    "url": "https://github.com/api-evangelist/tensorzero"
   }
 ]
