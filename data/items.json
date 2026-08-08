@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 100+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 77,
+    "updated_at": "2026-08-08T03:47:22Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T03:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -59,17 +77,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55842,
-    "updated_at": "2026-08-08T03:37:39Z",
+    "updated_at": "2026-08-08T03:47:16Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T03:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T00:13:55Z",
     "url": "https://github.com/Medhovarsh/parity"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 0,
-    "updated_at": "2026-08-08T00:10:12Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   }
 ]
