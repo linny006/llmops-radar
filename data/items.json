@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-08T13:59:15Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-08T13:56:22Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
+    "id": "kreftamarcio/prompt-forge",
+    "language": "TypeScript",
+    "name": "kreftamarcio/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-08-08T13:54:25Z",
+    "url": "https://github.com/kreftamarcio/prompt-forge"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T13:51:03Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 4,
+    "updated_at": "2026-08-08T13:53:06Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T13:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -27,21 +81,12 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-08T13:41:34Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Terminal-first AI gateway for MCP, Codex/Cursor/Cline integrations, deterministic prompt enhancement, and execution gove",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 3,
-    "updated_at": "2026-08-08T13:39:49Z",
+    "updated_at": "2026-08-08T13:51:09Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
@@ -63,15 +108,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-08T13:32:56Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
     "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
     "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "language": "TypeScript",
@@ -79,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-08-08T13:32:34Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T13:31:49Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -126,21 +153,12 @@
     "url": "https://github.com/amro/evaling"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 4,
-    "updated_at": "2026-08-08T13:43:34Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2584,
-    "updated_at": "2026-08-08T12:51:00Z",
+    "updated_at": "2026-08-08T13:59:52Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27417,
-    "updated_at": "2026-08-08T12:04:14Z",
+    "updated_at": "2026-08-08T13:59:55Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -257,7 +275,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-08T13:43:05Z",
+    "updated_at": "2026-08-08T13:59:44Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -310,7 +328,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32731,
+    "stars": 32732,
     "updated_at": "2026-08-08T10:57:42Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "ghourimarti/Product-Recommender-Engine",
     "stars": 0,
-    "updated_at": "2026-08-08T10:23:51Z",
+    "updated_at": "2026-08-08T14:00:18Z",
     "url": "https://github.com/ghourimarti/Product-Recommender-Engine"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-08T09:55:00Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "How to specify, evaluate, and measure products built on models. For PMs who build AI products, not just use AI tools.",
-    "id": "yaowenhu-pm/awesome-ai-product-management",
-    "language": "\u2014",
-    "name": "yaowenhu-pm/awesome-ai-product-management",
-    "stars": 0,
-    "updated_at": "2026-08-08T09:47:38Z",
-    "url": "https://github.com/yaowenhu-pm/awesome-ai-product-management"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1627,
-    "updated_at": "2026-08-08T13:13:13Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
