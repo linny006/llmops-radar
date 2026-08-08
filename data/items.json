@@ -5,8 +5,44 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7140,
-    "updated_at": "2026-08-08T08:59:52Z",
+    "updated_at": "2026-08-08T09:14:52Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-08T09:10:24Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "Deterministic pre-deployment checks for AI agent systems. Blocks unsafe designs before they ship.",
+    "id": "arthursilas-ai/agent-preflight",
+    "language": "Python",
+    "name": "arthursilas-ai/agent-preflight",
+    "stars": 0,
+    "updated_at": "2026-08-08T09:06:44Z",
+    "url": "https://github.com/arthursilas-ai/agent-preflight"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27416,
+    "updated_at": "2026-08-08T09:06:09Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-08T09:03:17Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-08T08:58:26Z",
+    "updated_at": "2026-08-08T09:00:34Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 6,
     "updated_at": "2026-08-08T08:54:54Z",
     "url": "https://github.com/salmanzafar949/ctxdiff"
-  },
-  {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
-    "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-08T08:54:35Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
@@ -77,8 +104,17 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 4,
-    "updated_at": "2026-08-08T08:55:17Z",
+    "updated_at": "2026-08-08T09:09:59Z",
     "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8208,
+    "updated_at": "2026-08-08T08:45:32Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T08:16:29Z",
     "url": "https://github.com/sandeep-alluru/agentdelta"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8207,
-    "updated_at": "2026-08-08T08:45:32Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Find token accounting that silently undercounts Anthropic's prompt cache. Three rules, each from a defect found in a shi",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T04:17:21Z",
     "url": "https://github.com/sandeep-alluru/foghorn"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 43,
-    "updated_at": "2026-08-08T04:05:33Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Open-source SDK to test AI agents before they break in production adversarial scenarios generated from your own agent's ",
-    "id": "Sentragent/sentragent-sdk",
-    "language": "Python",
-    "name": "Sentragent/sentragent-sdk",
-    "stars": 1,
-    "updated_at": "2026-08-08T03:54:20Z",
-    "url": "https://github.com/Sentragent/sentragent-sdk"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-08-08T03:50:41Z",
-    "url": "https://github.com/memoturn/memoturn"
   }
 ]
