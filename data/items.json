@@ -1,5 +1,50 @@
 [
   {
+    "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
+    "id": "sandeep-alluru/rulegraph",
+    "language": "Python",
+    "name": "sandeep-alluru/rulegraph",
+    "stars": 0,
+    "updated_at": "2026-08-08T16:14:41Z",
+    "url": "https://github.com/sandeep-alluru/rulegraph"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 3,
+    "updated_at": "2026-08-08T16:11:58Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-08-08T16:04:38Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 43,
+    "updated_at": "2026-08-08T16:03:35Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T16:02:16Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
     "id": "brunovicco/verifiable-ai-governance",
     "language": "Python",
@@ -9,21 +54,12 @@
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T16:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10943,
-    "updated_at": "2026-08-08T16:01:48Z",
+    "updated_at": "2026-08-08T16:05:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -50,7 +86,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 106,
-    "updated_at": "2026-08-08T16:00:55Z",
+    "updated_at": "2026-08-08T16:09:52Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -157,7 +193,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55870,
+    "stars": 55873,
     "updated_at": "2026-08-08T15:14:32Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27419,
-    "updated_at": "2026-08-08T15:59:49Z",
+    "updated_at": "2026-08-08T16:13:40Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T11:29:51Z",
     "url": "https://github.com/RiceSouffle/atlas-agentic-rag"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 0,
-    "updated_at": "2026-08-08T11:25:22Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-08T11:21:44Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Deterministic pre-deployment checks for AI agent systems. Blocks unsafe designs before they ship.",
-    "id": "arthursilas-ai/agent-preflight",
-    "language": "TypeScript",
-    "name": "arthursilas-ai/agent-preflight",
-    "stars": 0,
-    "updated_at": "2026-08-08T11:11:39Z",
-    "url": "https://github.com/arthursilas-ai/agent-preflight"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32736,
-    "updated_at": "2026-08-08T10:57:42Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
