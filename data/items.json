@@ -1,5 +1,77 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-08-08T17:45:15Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:45:10Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-08T17:39:53Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55875,
+    "updated_at": "2026-08-08T17:43:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T17:35:24Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Behavioral version control and release governance for prompts and agents.",
+    "id": "LegenDairy93/promptdiff",
+    "language": "TypeScript",
+    "name": "LegenDairy93/promptdiff",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:34:32Z",
+    "url": "https://github.com/LegenDairy93/promptdiff"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-08T17:42:56Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T17:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -16,33 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T17:27:54Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:26:30Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T17:25:42Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-08T17:25:34Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
@@ -63,15 +108,6 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55875,
-    "updated_at": "2026-08-08T17:24:43Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -86,17 +122,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27420,
-    "updated_at": "2026-08-08T17:24:16Z",
+    "updated_at": "2026-08-08T17:38:12Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Behavioral version control and release governance for prompts and agents.",
-    "id": "LegenDairy93/promptdiff",
-    "language": "TypeScript",
-    "name": "LegenDairy93/promptdiff",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:14:41Z",
-    "url": "https://github.com/LegenDairy93/promptdiff"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -115,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T17:07:26Z",
     "url": "https://github.com/TheusHen/eleanity"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-08T17:04:24Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -185,7 +203,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 106,
-    "updated_at": "2026-08-08T17:25:47Z",
+    "updated_at": "2026-08-08T17:36:40Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -288,15 +306,6 @@
     "url": "https://github.com/psyb0t/aigate"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-08T17:24:10Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -311,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3479,
-    "updated_at": "2026-08-08T17:29:31Z",
+    "updated_at": "2026-08-08T17:44:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 3,
-    "updated_at": "2026-08-08T17:09:09Z",
+    "updated_at": "2026-08-08T17:43:53Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -346,7 +355,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2585,
+    "stars": 2586,
     "updated_at": "2026-08-08T14:14:20Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -385,15 +394,6 @@
     "stars": 26,
     "updated_at": "2026-08-08T13:37:22Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-08-08T17:28:46Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Free 180-day curriculum: absolute beginner to LLMOps. Lessons, labs, answer keys and self-study guides for the Zero to L",
