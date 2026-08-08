@@ -1,5 +1,77 @@
 [
   {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 106,
+    "updated_at": "2026-08-08T16:30:20Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
+    "id": "sufengx/vera",
+    "language": "Python",
+    "name": "sufengx/vera",
+    "stars": 2,
+    "updated_at": "2026-08-08T16:29:58Z",
+    "url": "https://github.com/sufengx/vera"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T16:28:03Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 2,
+    "updated_at": "2026-08-08T16:26:08Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55874,
+    "updated_at": "2026-08-08T16:21:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-08T16:20:32Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Inspect, annotate, and review AI agent trajectories and artifacts. Local-first, with CLI, TUI, and Web UI surfaces shari",
+    "id": "shizheng-rlfresh/skim",
+    "language": "Python",
+    "name": "shizheng-rlfresh/skim",
+    "stars": 1,
+    "updated_at": "2026-08-08T16:17:04Z",
+    "url": "https://github.com/shizheng-rlfresh/skim"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T16:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
     "id": "sandeep-alluru/rulegraph",
     "language": "Python",
@@ -36,15 +108,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T16:02:16Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
     "id": "brunovicco/verifiable-ai-governance",
     "language": "Python",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10943,
-    "updated_at": "2026-08-08T16:05:34Z",
+    "updated_at": "2026-08-08T16:27:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -68,7 +131,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-08T15:59:22Z",
+    "updated_at": "2026-08-08T16:22:29Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -79,33 +142,6 @@
     "stars": 21,
     "updated_at": "2026-08-08T15:59:12Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 106,
-    "updated_at": "2026-08-08T16:09:52Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
-    "id": "sufengx/vera",
-    "language": "TypeScript",
-    "name": "sufengx/vera",
-    "stars": 2,
-    "updated_at": "2026-08-08T15:58:29Z",
-    "url": "https://github.com/sufengx/vera"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-08T15:57:41Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
@@ -133,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-08-08T15:40:56Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-08T15:34:47Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -189,15 +216,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55873,
-    "updated_at": "2026-08-08T15:14:32Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
     "id": "psyb0t/aigate",
     "language": "Shell",
@@ -216,21 +234,12 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 2,
-    "updated_at": "2026-08-08T15:09:15Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27419,
-    "updated_at": "2026-08-08T16:13:40Z",
+    "updated_at": "2026-08-08T16:28:44Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 11,
-    "updated_at": "2026-08-08T12:05:14Z",
+    "updated_at": "2026-08-08T16:21:14Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 44,
     "updated_at": "2026-08-08T11:47:02Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "ATLAS: Agentic RAG as one coherent system \u2014 hybrid search + reranking + knowledge graph, tool-calling over MCP, multi-mo",
-    "id": "RiceSouffle/atlas-agentic-rag",
-    "language": "Python",
-    "name": "RiceSouffle/atlas-agentic-rag",
-    "stars": 1,
-    "updated_at": "2026-08-08T11:29:51Z",
-    "url": "https://github.com/RiceSouffle/atlas-agentic-rag"
   }
 ]
