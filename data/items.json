@@ -1,12 +1,102 @@
 [
   {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 4,
+    "updated_at": "2026-08-08T08:45:21Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 398,
-    "updated_at": "2026-08-08T08:25:44Z",
+    "updated_at": "2026-08-08T08:42:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3479,
+    "updated_at": "2026-08-08T08:44:04Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-08T08:40:25Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-08T08:38:04Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "How to specify, evaluate, and measure products built on models. For PMs who build AI products, not just use AI tools.",
+    "id": "yaowenhu-pm/awesome-ai-product-management",
+    "language": "\u2014",
+    "name": "yaowenhu-pm/awesome-ai-product-management",
+    "stars": 0,
+    "updated_at": "2026-08-08T08:36:19Z",
+    "url": "https://github.com/yaowenhu-pm/awesome-ai-product-management"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-08T08:36:08Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T08:35:18Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-08T08:34:35Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2582,
+    "updated_at": "2026-08-08T08:44:02Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T08:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Diff and regression-detect LLM agent execution traces",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T08:16:29Z",
     "url": "https://github.com/sandeep-alluru/agentdelta"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T08:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -40,18 +121,9 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8206,
+    "stars": 8207,
     "updated_at": "2026-08-08T08:13:11Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
-    "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-08T08:07:50Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "Find token accounting that silently undercounts Anthropic's prompt cache. Three rules, each from a defect found in a shi",
@@ -68,7 +140,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-08T08:01:48Z",
+    "updated_at": "2026-08-08T08:42:01Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -79,42 +151,6 @@
     "stars": 3,
     "updated_at": "2026-08-08T07:57:25Z",
     "url": "https://github.com/ferro-labs/ai-gateway-cookbook"
-  },
-  {
-    "description": "How to specify, evaluate, and measure products built on models. For PMs who build AI products, not just use AI tools.",
-    "id": "yaowenhu-pm/awesome-ai-product-management",
-    "language": "\u2014",
-    "name": "yaowenhu-pm/awesome-ai-product-management",
-    "stars": 0,
-    "updated_at": "2026-08-08T07:49:37Z",
-    "url": "https://github.com/yaowenhu-pm/awesome-ai-product-management"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-08T07:49:35Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-08T07:47:21Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-08T07:44:50Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55853,
-    "updated_at": "2026-08-08T07:30:26Z",
+    "updated_at": "2026-08-08T08:44:59Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 7,
     "updated_at": "2026-08-08T07:08:49Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-08T08:29:44Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "AgentOps for Rust: orchestrate, guard, act-guard, validate, evaluate, checkpoint, trace, cache, remember \u2014 in one crate",
@@ -207,15 +234,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2581,
-    "updated_at": "2026-08-08T08:00:29Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
     "id": "bimal1023/AI-native-engineer",
     "language": "\u2014",
@@ -229,7 +247,7 @@
     "id": "Arize-ai/openinference",
     "language": "Python",
     "name": "Arize-ai/openinference",
-    "stars": 1135,
+    "stars": 1136,
     "updated_at": "2026-08-08T06:31:04Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
@@ -238,8 +256,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7137,
-    "updated_at": "2026-08-08T06:29:19Z",
+    "stars": 7138,
+    "updated_at": "2026-08-08T08:43:46Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 77,
     "updated_at": "2026-08-08T03:47:22Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27416,
-    "updated_at": "2026-08-08T03:44:04Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 3,
-    "updated_at": "2026-08-08T04:38:34Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
