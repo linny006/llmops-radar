@@ -1,12 +1,75 @@
 [
   {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-08T18:36:31Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Runnable Spring AI 2.0 demo \u2014 govern every LLM call, MCP tool call and agent-to-agent hop through the self-hosted DVARA ",
+    "id": "dvarahq/dvara-spring-ai-demo",
+    "language": "Java",
+    "name": "dvarahq/dvara-spring-ai-demo",
+    "stars": 0,
+    "updated_at": "2026-08-08T18:36:25Z",
+    "url": "https://github.com/dvarahq/dvara-spring-ai-demo"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-08T18:36:10Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-08T18:34:40Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-08-08T18:29:23Z",
+    "updated_at": "2026-08-08T18:32:18Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T18:30:57Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Behavioral version control and release governance for prompts and agents.",
+    "id": "LegenDairy93/promptdiff",
+    "language": "TypeScript",
+    "name": "LegenDairy93/promptdiff",
+    "stars": 0,
+    "updated_at": "2026-08-08T18:30:40Z",
+    "url": "https://github.com/LegenDairy93/promptdiff"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T18:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55876,
-    "updated_at": "2026-08-08T18:25:45Z",
+    "updated_at": "2026-08-08T18:35:30Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-08T18:18:18Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
     "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
     "id": "ALLMA-dev/allma-core",
     "language": "TypeScript",
@@ -79,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T18:18:35Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T18:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3479,
-    "updated_at": "2026-08-08T18:10:58Z",
+    "updated_at": "2026-08-08T18:33:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -142,42 +187,6 @@
     "stars": 5,
     "updated_at": "2026-08-08T17:45:15Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-08T17:35:24Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Behavioral version control and release governance for prompts and agents.",
-    "id": "LegenDairy93/promptdiff",
-    "language": "TypeScript",
-    "name": "LegenDairy93/promptdiff",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:34:32Z",
-    "url": "https://github.com/LegenDairy93/promptdiff"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-08T17:29:44Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:27:54Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-08T13:25:31Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Core infrastructure and architectural components for AcruxCore ecosystem services.",
-    "id": "AcruxCore/AcruxCore",
-    "language": "TypeScript",
-    "name": "AcruxCore/AcruxCore",
-    "stars": 2,
-    "updated_at": "2026-08-08T12:42:37Z",
-    "url": "https://github.com/AcruxCore/AcruxCore"
   }
 ]
