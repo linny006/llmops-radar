@@ -1,12 +1,39 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 5,
+    "updated_at": "2026-08-08T19:59:17Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-08T19:57:04Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-08T19:51:00Z",
+    "updated_at": "2026-08-08T19:53:38Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T19:52:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A project to deploy a GENAI on premise for an institution.",
@@ -18,21 +45,12 @@
     "url": "https://github.com/abraham-heuy/onsite-llm-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T19:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55881,
-    "updated_at": "2026-08-08T19:48:28Z",
+    "updated_at": "2026-08-08T19:59:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 15,
     "updated_at": "2026-08-08T19:41:00Z",
     "url": "https://github.com/voly-codes/voly"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-08T19:38:22Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -270,6 +279,15 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27421,
+    "updated_at": "2026-08-08T18:19:19Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
@@ -306,15 +324,6 @@
     "url": "https://github.com/Juror-AI/juror"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 5,
-    "updated_at": "2026-08-08T19:49:09Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
     "id": "AshwinUgale/tracelint",
     "language": "Python",
@@ -340,15 +349,6 @@
     "stars": 49,
     "updated_at": "2026-08-08T17:22:15Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27420,
-    "updated_at": "2026-08-08T18:19:19Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
@@ -392,7 +392,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 106,
-    "updated_at": "2026-08-08T19:45:24Z",
+    "updated_at": "2026-08-08T19:57:32Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
