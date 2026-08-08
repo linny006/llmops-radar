@@ -1,5 +1,95 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-08T18:15:17Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-08T18:14:32Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-08T18:12:18Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55875,
+    "updated_at": "2026-08-08T18:10:19Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-08T18:07:27Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 3,
+    "updated_at": "2026-08-08T18:05:02Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Runnable Spring AI 2.0 demo \u2014 govern every LLM call, MCP tool call and agent-to-agent hop through the self-hosted Dvara ",
+    "id": "dvarahq/dvara-spring-ai-demo",
+    "language": "Java",
+    "name": "dvarahq/dvara-spring-ai-demo",
+    "stars": 0,
+    "updated_at": "2026-08-08T18:04:00Z",
+    "url": "https://github.com/dvarahq/dvara-spring-ai-demo"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-08T18:12:00Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 404,
+    "updated_at": "2026-08-08T18:01:57Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T18:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
     "id": "Juror-AI/juror",
     "language": "TypeScript",
@@ -9,49 +99,13 @@
     "url": "https://github.com/Juror-AI/juror"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T17:57:17Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3479,
-    "updated_at": "2026-08-08T18:00:12Z",
+    "updated_at": "2026-08-08T18:10:58Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 404,
-    "updated_at": "2026-08-08T17:52:15Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:49:31Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55875,
-    "updated_at": "2026-08-08T17:53:12Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -61,15 +115,6 @@
     "stars": 5,
     "updated_at": "2026-08-08T17:45:15Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-08T17:39:53Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -90,15 +135,6 @@
     "url": "https://github.com/LegenDairy93/promptdiff"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-08T17:59:13Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T17:27:54Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-08T17:54:53Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27420,
-    "updated_at": "2026-08-08T17:56:29Z",
+    "updated_at": "2026-08-08T18:10:46Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 106,
-    "updated_at": "2026-08-08T17:52:28Z",
+    "updated_at": "2026-08-08T18:12:58Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 4,
-    "updated_at": "2026-08-08T15:31:47Z",
+    "updated_at": "2026-08-08T18:10:22Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T14:30:03Z",
     "url": "https://github.com/amro/evaling"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 3,
-    "updated_at": "2026-08-08T17:55:45Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-08T12:42:37Z",
     "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 2,
-    "updated_at": "2026-08-08T12:32:33Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Canonical trace format and verifier for agent execution attestation",
-    "id": "sandeep-alluru/notarize",
-    "language": "Python",
-    "name": "sandeep-alluru/notarize",
-    "stars": 0,
-    "updated_at": "2026-08-08T12:15:03Z",
-    "url": "https://github.com/sandeep-alluru/notarize"
   }
 ]
