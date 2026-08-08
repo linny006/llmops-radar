@@ -1,5 +1,77 @@
 [
   {
+    "description": "Behavioral version control and release governance for prompts and agents.",
+    "id": "LegenDairy93/promptdiff",
+    "language": "TypeScript",
+    "name": "LegenDairy93/promptdiff",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:14:41Z",
+    "url": "https://github.com/LegenDairy93/promptdiff"
+  },
+  {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-08T17:12:55Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 404,
+    "updated_at": "2026-08-08T17:07:09Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
+    "id": "TheusHen/eleanity",
+    "language": "Python",
+    "name": "TheusHen/eleanity",
+    "stars": 1,
+    "updated_at": "2026-08-08T17:07:26Z",
+    "url": "https://github.com/TheusHen/eleanity"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-08T17:04:24Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10944,
+    "updated_at": "2026-08-08T17:06:31Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:01:50Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T17:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
     "id": "bimal1023/AI-native-engineer",
     "language": "\u2014",
@@ -9,21 +81,12 @@
     "url": "https://github.com/bimal1023/AI-native-engineer"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T16:50:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27420,
-    "updated_at": "2026-08-08T16:53:58Z",
+    "updated_at": "2026-08-08T17:14:03Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -54,13 +117,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-08T16:33:04Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 12,
+    "updated_at": "2026-08-08T16:37:13Z",
+    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -99,15 +162,6 @@
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10944,
-    "updated_at": "2026-08-08T16:51:50Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
     "id": "MSKazemi/novafabric",
     "language": "Python",
@@ -122,17 +176,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55874,
-    "updated_at": "2026-08-08T16:42:41Z",
+    "updated_at": "2026-08-08T17:09:18Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-08T16:20:32Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Inspect, annotate, and review AI agent trajectories and artifacts. Local-first, with CLI, TUI, and Web UI surfaces shari",
@@ -198,15 +243,6 @@
     "url": "https://github.com/sno-ai/llmix"
   },
   {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-08T16:47:00Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -239,7 +275,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-08T15:00:51Z",
+    "updated_at": "2026-08-08T17:09:50Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -257,7 +293,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3479,
-    "updated_at": "2026-08-08T16:35:51Z",
+    "updated_at": "2026-08-08T17:02:29Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 3,
-    "updated_at": "2026-08-08T15:13:24Z",
+    "updated_at": "2026-08-08T17:09:09Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-08T14:59:07Z",
+    "updated_at": "2026-08-08T17:04:29Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-08-08T16:52:34Z",
+    "updated_at": "2026-08-08T17:10:53Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 403,
-    "updated_at": "2026-08-08T12:22:51Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Canonical trace format and verifier for agent execution attestation",
     "id": "sandeep-alluru/notarize",
     "language": "Python",
@@ -414,15 +441,6 @@
     "url": "https://github.com/sandeep-alluru/notarize"
   },
   {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 11,
-    "updated_at": "2026-08-08T16:37:13Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
     "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
     "id": "SynaLinks/synalinks",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 449,
     "updated_at": "2026-08-08T12:04:50Z",
     "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7148,
-    "updated_at": "2026-08-08T12:02:20Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-08-08T11:47:02Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
