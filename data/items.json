@@ -1,12 +1,111 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-08T10:44:20Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-08-08T10:44:02Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7143,
+    "updated_at": "2026-08-08T10:43:51Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-08T10:27:09Z",
+    "updated_at": "2026-08-08T10:38:26Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32727,
+    "updated_at": "2026-08-08T10:43:52Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
+    "id": "aroraneel/AI-Engineer",
+    "language": "Jupyter Notebook",
+    "name": "aroraneel/AI-Engineer",
+    "stars": 1,
+    "updated_at": "2026-08-08T10:37:12Z",
+    "url": "https://github.com/aroraneel/AI-Engineer"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 400,
+    "updated_at": "2026-08-08T10:35:39Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 16,
+    "updated_at": "2026-08-08T10:35:36Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-08T10:33:30Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-08T10:32:26Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:30:31Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T10:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Conversational product recommender: one rating-aware ranking core, two retrieval backends - Qdrant hybrid RAG over your ",
@@ -18,21 +117,12 @@
     "url": "https://github.com/ghourimarti/Product-Recommender-Engine"
   },
   {
-    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-08T10:24:03Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-08-08T10:21:20Z",
+    "updated_at": "2026-08-08T10:31:33Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -43,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T10:15:33Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T10:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7143,
-    "updated_at": "2026-08-08T10:30:14Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Infrastructure-as-code for AI agent workflows",
@@ -77,7 +149,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-08T10:06:37Z",
+    "updated_at": "2026-08-08T10:31:29Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -122,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3479,
-    "updated_at": "2026-08-08T10:27:50Z",
+    "updated_at": "2026-08-08T10:44:45Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -151,24 +223,6 @@
     "stars": 1627,
     "updated_at": "2026-08-08T09:37:19Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-08T09:36:59Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-08T09:35:34Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27416,
-    "updated_at": "2026-08-08T09:06:09Z",
+    "updated_at": "2026-08-08T10:43:20Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T08:52:34Z",
     "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 400,
-    "updated_at": "2026-08-08T08:51:48Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -304,15 +349,6 @@
     "stars": 10940,
     "updated_at": "2026-08-08T07:44:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-08-08T07:47:04Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -412,41 +448,5 @@
     "stars": 49,
     "updated_at": "2026-08-08T06:15:48Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Long-term semantic memory for graph-flow agents: retrieve, inject, extract, resolve (Mem0's loop, in Rust)",
-    "id": "thaicn1712/memoryflow",
-    "language": "Rust",
-    "name": "thaicn1712/memoryflow",
-    "stars": 1,
-    "updated_at": "2026-08-08T06:13:23Z",
-    "url": "https://github.com/thaicn1712/memoryflow"
-  },
-  {
-    "description": "Local-first agent runtime assurance and governance: policy-as-code identity, enforced autonomy ceilings, owner-gated exe",
-    "id": "debshikhar-sec/private-ai-infra",
-    "language": "Python",
-    "name": "debshikhar-sec/private-ai-infra",
-    "stars": 0,
-    "updated_at": "2026-08-08T06:09:46Z",
-    "url": "https://github.com/debshikhar-sec/private-ai-infra"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 2,
-    "updated_at": "2026-08-08T05:48:00Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Exact and semantic response caching for graph-flow LLM tasks, in Rust",
-    "id": "thaicn1712/cacheflow",
-    "language": "Rust",
-    "name": "thaicn1712/cacheflow",
-    "stars": 1,
-    "updated_at": "2026-08-08T05:30:07Z",
-    "url": "https://github.com/thaicn1712/cacheflow"
   }
 ]
