@@ -1,5 +1,68 @@
 [
   {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 2,
+    "updated_at": "2026-08-08T23:44:48Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "HTML",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 1,
+    "updated_at": "2026-08-08T23:43:32Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T23:33:38Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
+    "id": "voly-codes/voly",
+    "language": "Python",
+    "name": "voly-codes/voly",
+    "stars": 15,
+    "updated_at": "2026-08-08T23:33:14Z",
+    "url": "https://github.com/voly-codes/voly"
+  },
+  {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-08T23:31:43Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:30:47Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T23:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -36,15 +99,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
-    "id": "voly-codes/voly",
-    "language": "Python",
-    "name": "voly-codes/voly",
-    "stars": 15,
-    "updated_at": "2026-08-08T23:28:00Z",
-    "url": "https://github.com/voly-codes/voly"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -63,39 +117,12 @@
     "url": "https://github.com/fevziegeyurtsevenler/uncloak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T23:23:57Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-08T23:23:54Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 2,
-    "updated_at": "2026-08-08T23:27:31Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55896,
-    "updated_at": "2026-08-08T23:23:47Z",
+    "updated_at": "2026-08-08T23:44:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T23:18:40Z",
     "url": "https://github.com/maruthisai25/modelops"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-08T23:28:10Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Open-source AI agent control platform for orchestrating, executing, governing, tracing, and evaluating production AI age",
@@ -169,15 +187,6 @@
     "stars": 979,
     "updated_at": "2026-08-08T23:22:01Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "HTML",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 1,
-    "updated_at": "2026-08-08T23:07:22Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -347,7 +356,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8212,
-    "updated_at": "2026-08-08T23:06:51Z",
+    "updated_at": "2026-08-08T23:35:51Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-08T18:44:42Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 407,
-    "updated_at": "2026-08-08T18:38:49Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   }
 ]
