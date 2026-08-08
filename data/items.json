@@ -1,5 +1,59 @@
 [
   {
+    "description": "Runnable, framework-focused recipes for the Ferro Labs AI Gateway: build LangChain & LangGraph agents that route across ",
+    "id": "ferro-labs/ai-gateway-cookbook",
+    "language": "Python",
+    "name": "ferro-labs/ai-gateway-cookbook",
+    "stars": 3,
+    "updated_at": "2026-08-08T07:57:25Z",
+    "url": "https://github.com/ferro-labs/ai-gateway-cookbook"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 398,
+    "updated_at": "2026-08-08T07:51:30Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "How to specify, evaluate, and measure products built on models. For PMs who build AI products, not just use AI tools.",
+    "id": "yaowenhu-pm/awesome-ai-product-management",
+    "language": "\u2014",
+    "name": "yaowenhu-pm/awesome-ai-product-management",
+    "stars": 0,
+    "updated_at": "2026-08-08T07:49:37Z",
+    "url": "https://github.com/yaowenhu-pm/awesome-ai-product-management"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-08T07:49:35Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-08T07:47:21Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T07:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -23,17 +77,8 @@
     "language": "Python",
     "name": "lizhuojunx86/traceguard",
     "stars": 2,
-    "updated_at": "2026-08-08T07:39:06Z",
+    "updated_at": "2026-08-08T07:47:04Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 398,
-    "updated_at": "2026-08-08T07:37:27Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -43,15 +88,6 @@
     "stars": 30,
     "updated_at": "2026-08-08T07:31:26Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T07:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -67,7 +103,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55852,
+    "stars": 55853,
     "updated_at": "2026-08-08T07:30:26Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-08T07:21:07Z",
+    "updated_at": "2026-08-08T07:50:04Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -104,26 +140,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-08T07:28:37Z",
+    "updated_at": "2026-08-08T07:59:11Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-08T06:52:20Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-08T06:49:40Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "AgentOps for Rust: orchestrate, guard, act-guard, validate, evaluate, checkpoint, trace, cache, remember \u2014 in one crate",
@@ -158,7 +176,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2581,
-    "updated_at": "2026-08-08T06:42:51Z",
+    "updated_at": "2026-08-08T07:48:28Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T02:55:25Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
-    "id": "okfriansyah-moh/the-foundry",
-    "language": "Go",
-    "name": "okfriansyah-moh/the-foundry",
-    "stars": 0,
-    "updated_at": "2026-08-08T02:35:28Z",
-    "url": "https://github.com/okfriansyah-moh/the-foundry"
-  },
-  {
-    "description": "Local-first agentic reader for ML papers with equation walkthroughs, cited paper chat, research lineage, human-aligned j",
-    "id": "Siris2314/deep-paper-reader",
-    "language": "Python",
-    "name": "Siris2314/deep-paper-reader",
-    "stars": 1,
-    "updated_at": "2026-08-08T02:25:42Z",
-    "url": "https://github.com/Siris2314/deep-paper-reader"
   }
 ]
