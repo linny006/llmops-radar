@@ -1,11 +1,56 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T10:27:09Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Conversational product recommender: one rating-aware ranking core, two retrieval backends - Qdrant hybrid RAG over your ",
+    "id": "ghourimarti/Product-Recommender-Engine",
+    "language": "Python",
+    "name": "ghourimarti/Product-Recommender-Engine",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:23:51Z",
+    "url": "https://github.com/ghourimarti/Product-Recommender-Engine"
+  },
+  {
+    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-08-08T10:24:03Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Turn Portkey & Langsmith data into OTEL signals",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-08T10:21:20Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:15:33Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-08T10:13:22Z",
+    "updated_at": "2026-08-08T10:15:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7143,
-    "updated_at": "2026-08-08T10:15:02Z",
+    "updated_at": "2026-08-08T10:30:14Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 11,
     "updated_at": "2026-08-08T10:10:57Z",
     "url": "https://github.com/hensu-project/hensu"
-  },
-  {
-    "description": "Turn Portkey & Langsmith data into OTEL signals",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-08T10:10:50Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3479,
-    "updated_at": "2026-08-08T10:09:30Z",
+    "updated_at": "2026-08-08T10:27:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -108,22 +144,13 @@
     "url": "https://github.com/yaowenhu-pm/awesome-ai-product-management"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-08T09:42:03Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:15:22Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+    "name": "future-agi/future-agi",
+    "stars": 1627,
+    "updated_at": "2026-08-08T09:37:19Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55856,
-    "updated_at": "2026-08-08T10:02:57Z",
+    "updated_at": "2026-08-08T10:29:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8208,
-    "updated_at": "2026-08-08T08:45:32Z",
+    "updated_at": "2026-08-08T10:29:32Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/thaicn1712/memoryflow"
   },
   {
-    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-08T06:15:19Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
     "description": "Local-first agent runtime assurance and governance: policy-as-code identity, enforced autonomy ceilings, owner-gated exe",
     "id": "debshikhar-sec/private-ai-infra",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T05:30:07Z",
     "url": "https://github.com/thaicn1712/cacheflow"
-  },
-  {
-    "description": "git diff for LLM behaviour. Capture what your model actually did, replay it against a candidate model, and catch what si",
-    "id": "Medhovarsh/parity",
-    "language": "Python",
-    "name": "Medhovarsh/parity",
-    "stars": 0,
-    "updated_at": "2026-08-08T05:17:30Z",
-    "url": "https://github.com/Medhovarsh/parity"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-08-08T05:18:38Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   }
 ]
