@@ -1,21 +1,12 @@
 [
   {
-    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
-    "id": "voly-codes/voly",
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
     "language": "Python",
-    "name": "voly-codes/voly",
-    "stars": 15,
-    "updated_at": "2026-08-08T23:15:16Z",
-    "url": "https://github.com/voly-codes/voly"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-08T23:14:01Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "name": "MSKazemi/novafabric",
+    "stars": 2,
+    "updated_at": "2026-08-08T23:23:45Z",
+    "url": "https://github.com/MSKazemi/novafabric"
   },
   {
     "description": "Open-source agent evaluation framework - score any AI agent across providers with standardized benchmarks",
@@ -23,8 +14,107 @@
     "language": "Python",
     "name": "rexblade58/agenteval",
     "stars": 2,
-    "updated_at": "2026-08-08T23:12:05Z",
+    "updated_at": "2026-08-08T23:23:30Z",
     "url": "https://github.com/rexblade58/agenteval"
+  },
+  {
+    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
+    "id": "voly-codes/voly",
+    "language": "Python",
+    "name": "voly-codes/voly",
+    "stars": 15,
+    "updated_at": "2026-08-08T23:23:18Z",
+    "url": "https://github.com/voly-codes/voly"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55896,
+    "updated_at": "2026-08-08T23:23:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27422,
+    "updated_at": "2026-08-08T23:21:41Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Reveal hidden prompt injection & supply-chain risks in AI agent extensions \u2014 scans Claude/agent Skills, MCP servers & ru",
+    "id": "fevziegeyurtsevenler/uncloak",
+    "language": "Python",
+    "name": "fevziegeyurtsevenler/uncloak",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:20:38Z",
+    "url": "https://github.com/fevziegeyurtsevenler/uncloak"
+  },
+  {
+    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
+    "id": "kirklasalle/PrismRefraction",
+    "language": "TypeScript",
+    "name": "kirklasalle/PrismRefraction",
+    "stars": 3,
+    "updated_at": "2026-08-08T23:18:50Z",
+    "url": "https://github.com/kirklasalle/PrismRefraction"
+  },
+  {
+    "description": "Gated model release platform: quality/latency/cost gates, canary steps, rollback, fallback routing, Cosign verification",
+    "id": "maruthisai25/modelops",
+    "language": "Python",
+    "name": "maruthisai25/modelops",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:18:40Z",
+    "url": "https://github.com/maruthisai25/modelops"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-08T23:18:25Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-08T23:21:25Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Open-source AI agent control platform for orchestrating, executing, governing, tracing, and evaluating production AI age",
+    "id": "opencorex-org/corex-agentos",
+    "language": "CSS",
+    "name": "opencorex-org/corex-agentos",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:16:58Z",
+    "url": "https://github.com/opencorex-org/corex-agentos"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:17:12Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T23:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 979,
-    "updated_at": "2026-08-08T23:13:49Z",
+    "updated_at": "2026-08-08T23:22:01Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -63,33 +153,6 @@
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55895,
-    "updated_at": "2026-08-08T23:14:27Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27422,
-    "updated_at": "2026-08-08T23:12:11Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-08T23:05:18Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -97,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T23:04:45Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T23:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
-    "id": "kirklasalle/PrismRefraction",
-    "language": "TypeScript",
-    "name": "kirklasalle/PrismRefraction",
-    "stars": 3,
-    "updated_at": "2026-08-08T22:54:11Z",
-    "url": "https://github.com/kirklasalle/PrismRefraction"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -126,21 +171,12 @@
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
-    "description": "Open-source AI agent control platform for orchestrating, executing, governing, tracing, and evaluating production AI age",
-    "id": "opencorex-org/corex-agentos",
-    "language": "CSS",
-    "name": "opencorex-org/corex-agentos",
-    "stars": 0,
-    "updated_at": "2026-08-08T22:36:43Z",
-    "url": "https://github.com/opencorex-org/corex-agentos"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-08T22:34:21Z",
+    "updated_at": "2026-08-08T23:23:54Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -189,15 +225,6 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-08T23:04:59Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Behavioral version control and release governance for prompts and agents.",
     "id": "LegenDairy93/promptdiff",
     "language": "TypeScript",
@@ -230,7 +257,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7153,
-    "updated_at": "2026-08-08T22:30:56Z",
+    "updated_at": "2026-08-08T23:20:13Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -241,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-08-08T20:42:16Z",
     "url": "https://github.com/Tenosra/Proxima"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 2,
-    "updated_at": "2026-08-08T20:29:38Z",
-    "url": "https://github.com/MSKazemi/novafabric"
   },
   {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
@@ -430,23 +448,5 @@
     "stars": 407,
     "updated_at": "2026-08-08T18:38:49Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-08T18:36:31Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3480,
-    "updated_at": "2026-08-08T21:14:30Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
