@@ -1,5 +1,41 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55847,
+    "updated_at": "2026-08-08T05:53:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10939,
+    "updated_at": "2026-08-08T05:55:07Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 2,
+    "updated_at": "2026-08-08T05:48:00Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T05:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local-first agent runtime assurance and governance: policy-as-code identity, enforced autonomy ceilings, owner-gated exe",
     "id": "debshikhar-sec/private-ai-infra",
     "language": "Python",
@@ -27,24 +63,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55845,
-    "updated_at": "2026-08-08T05:42:10Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T05:39:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -59,7 +77,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-08T05:31:37Z",
+    "updated_at": "2026-08-08T05:57:12Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "stars": 4,
-    "updated_at": "2026-08-08T04:57:19Z",
+    "updated_at": "2026-08-08T05:52:01Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 27415,
     "updated_at": "2026-08-08T03:44:04Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10939,
-    "updated_at": "2026-08-08T03:44:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T01:36:04Z",
     "url": "https://github.com/api-evangelist/qwak"
-  },
-  {
-    "description": "Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to ",
-    "id": "api-evangelist/phoenix",
-    "language": "\u2014",
-    "name": "api-evangelist/phoenix",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:31:38Z",
-    "url": "https://github.com/api-evangelist/phoenix"
   }
 ]
