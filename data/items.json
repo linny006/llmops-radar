@@ -1,11 +1,29 @@
 [
   {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-08T16:00:54Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T16:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10943,
-    "updated_at": "2026-08-08T15:59:52Z",
+    "updated_at": "2026-08-08T16:01:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -32,7 +50,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 106,
-    "updated_at": "2026-08-08T15:59:55Z",
+    "updated_at": "2026-08-08T16:00:55Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 131,
     "updated_at": "2026-08-08T15:54:16Z",
     "url": "https://github.com/sno-ai/llmix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T15:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
@@ -439,14 +448,5 @@
     "stars": 32736,
     "updated_at": "2026-08-08T10:57:42Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Turn Portkey & Langsmith data into OTEL signals",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-08T10:59:43Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   }
 ]
