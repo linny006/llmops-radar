@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-08T20:58:58Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Behavioral version control and release governance for prompts and agents.",
+    "id": "LegenDairy93/promptdiff",
+    "language": "TypeScript",
+    "name": "LegenDairy93/promptdiff",
+    "stars": 0,
+    "updated_at": "2026-08-08T20:57:52Z",
+    "url": "https://github.com/LegenDairy93/promptdiff"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T20:57:10Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -18,22 +45,13 @@
     "url": "https://github.com/psyb0t/aigate"
   },
   {
-    "description": "Behavioral version control and release governance for prompts and agents.",
-    "id": "LegenDairy93/promptdiff",
-    "language": "TypeScript",
-    "name": "LegenDairy93/promptdiff",
-    "stars": 0,
-    "updated_at": "2026-08-08T20:51:13Z",
-    "url": "https://github.com/LegenDairy93/promptdiff"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-08T20:56:48Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7150,
+    "updated_at": "2026-08-08T20:49:43Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -43,15 +61,6 @@
     "stars": 30,
     "updated_at": "2026-08-08T20:45:34Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T20:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Proxima lets existing GPUs serve more concurrent requests ",
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55883,
-    "updated_at": "2026-08-08T20:55:26Z",
+    "updated_at": "2026-08-08T20:59:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 49,
     "updated_at": "2026-08-08T17:22:15Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
-    "id": "TheusHen/eleanity",
-    "language": "Python",
-    "name": "TheusHen/eleanity",
-    "stars": 1,
-    "updated_at": "2026-08-08T17:07:26Z",
-    "url": "https://github.com/TheusHen/eleanity"
   }
 ]
