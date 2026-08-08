@@ -1,11 +1,47 @@
 [
   {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-08T02:27:03Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Local-first agentic reader for ML papers with equation walkthroughs, cited paper chat, research lineage, human-aligned j",
+    "id": "Siris2314/deep-paper-reader",
+    "language": "Python",
+    "name": "Siris2314/deep-paper-reader",
+    "stars": 1,
+    "updated_at": "2026-08-08T02:25:42Z",
+    "url": "https://github.com/Siris2314/deep-paper-reader"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55838,
+    "updated_at": "2026-08-08T02:23:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
+    "id": "hwdsl2/docker-litellm",
+    "language": "Shell",
+    "name": "hwdsl2/docker-litellm",
+    "stars": 9,
+    "updated_at": "2026-08-08T02:21:30Z",
+    "url": "https://github.com/hwdsl2/docker-litellm"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-08T02:15:29Z",
+    "updated_at": "2026-08-08T02:20:12Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T02:01:28Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55838,
-    "updated_at": "2026-08-08T02:19:58Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Regression tests for prompt changes, scored against a committed baseline and run in CI before merge.",
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-08T02:03:30Z",
+    "updated_at": "2026-08-08T02:21:44Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -122,7 +149,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-08T01:52:02Z",
+    "updated_at": "2026-08-08T02:22:45Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -324,15 +351,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
-    "id": "hwdsl2/docker-litellm",
-    "language": "Shell",
-    "name": "hwdsl2/docker-litellm",
-    "stars": 9,
-    "updated_at": "2026-08-08T00:30:21Z",
-    "url": "https://github.com/hwdsl2/docker-litellm"
-  },
-  {
     "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
     "id": "katanemo/plano",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T23:05:25Z",
     "url": "https://github.com/sandeep-alluru/rulegraph"
-  },
-  {
-    "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
-    "id": "sandeep-alluru/humanproof",
-    "language": "Python",
-    "name": "sandeep-alluru/humanproof",
-    "stars": 0,
-    "updated_at": "2026-08-07T23:05:04Z",
-    "url": "https://github.com/sandeep-alluru/humanproof"
-  },
-  {
-    "description": "Spatial scene graphs and belief state for embodied agents",
-    "id": "sandeep-alluru/polaroid",
-    "language": "Python",
-    "name": "sandeep-alluru/polaroid",
-    "stars": 0,
-    "updated_at": "2026-08-07T23:04:53Z",
-    "url": "https://github.com/sandeep-alluru/polaroid"
   }
 ]
