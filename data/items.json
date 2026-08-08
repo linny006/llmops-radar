@@ -1,11 +1,92 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T06:44:08Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 26,
+    "updated_at": "2026-08-08T06:44:01Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2581,
+    "updated_at": "2026-08-08T06:42:51Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 398,
+    "updated_at": "2026-08-08T06:41:15Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
+    "id": "bimal1023/AI-native-engineer",
+    "language": "\u2014",
+    "name": "bimal1023/AI-native-engineer",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:39:46Z",
+    "url": "https://github.com/bimal1023/AI-native-engineer"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55849,
+    "updated_at": "2026-08-08T06:33:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AgentOps for Rust: orchestrate, guard, validate, evaluate \u2014 in one crate",
+    "id": "thaicn1712/agentflow",
+    "language": "Rust",
+    "name": "thaicn1712/agentflow",
+    "stars": 1,
+    "updated_at": "2026-08-08T06:32:19Z",
+    "url": "https://github.com/thaicn1712/agentflow"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10939,
+    "updated_at": "2026-08-08T06:34:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T06:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1135,
-    "updated_at": "2026-08-08T06:29:57Z",
+    "updated_at": "2026-08-08T06:31:04Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -18,24 +99,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55847,
-    "updated_at": "2026-08-08T06:28:38Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T06:24:14Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
     "id": "scttfrdmn/hf-bedrock-map",
     "language": "Go",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T06:21:57Z",
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2581,
-    "updated_at": "2026-08-08T06:19:03Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
@@ -70,15 +124,6 @@
     "stars": 49,
     "updated_at": "2026-08-08T06:15:48Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10939,
-    "updated_at": "2026-08-08T06:16:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 3,
-    "updated_at": "2026-08-08T06:26:18Z",
+    "updated_at": "2026-08-08T06:45:03Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T05:40:41Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-08T05:39:20Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -225,6 +261,15 @@
     "url": "https://github.com/arthi-arumugam-git/cachecheck"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24065,
+    "updated_at": "2026-08-08T05:10:43Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Lightweight LLM call observability for Rust: latency, tokens, cost \u2014 no OpenTelemetry required",
     "id": "thaicn1712/traceflow",
     "language": "Rust",
@@ -259,15 +304,6 @@
     "stars": 30,
     "updated_at": "2026-08-08T04:28:50Z",
     "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "AgentOps for Rust: orchestrate, guard, validate, evaluate \u2014 in one crate",
-    "id": "thaicn1712/agentflow",
-    "language": "Rust",
-    "name": "thaicn1712/agentflow",
-    "stars": 1,
-    "updated_at": "2026-08-08T04:19:42Z",
-    "url": "https://github.com/thaicn1712/agentflow"
   },
   {
     "description": "Fact-level staleness detection for AI agent memory",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-08T02:12:24Z",
     "url": "https://github.com/Bobcatsfan33/Pharos"
-  },
-  {
-    "description": "Terminal trace debugger for AI agents.",
-    "id": "tonquoc0407/capybara",
-    "language": "Go",
-    "name": "tonquoc0407/capybara",
-    "stars": 11,
-    "updated_at": "2026-08-08T02:08:43Z",
-    "url": "https://github.com/tonquoc0407/capybara"
-  },
-  {
-    "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-08-08T02:01:28Z",
-    "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "Regression tests for prompt changes, scored against a committed baseline and run in CI before merge.",
-    "id": "prashibadkur11-creator/prompt-regression-suite",
-    "language": "Python",
-    "name": "prashibadkur11-creator/prompt-regression-suite",
-    "stars": 0,
-    "updated_at": "2026-08-08T02:00:11Z",
-    "url": "https://github.com/prashibadkur11-creator/prompt-regression-suite"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-08T01:54:35Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
