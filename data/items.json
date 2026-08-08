@@ -1,11 +1,47 @@
 [
   {
+    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 30,
+    "updated_at": "2026-08-08T04:28:50Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "AgentOps for Rust: orchestrate, guard, validate, evaluate \u2014 in one crate",
+    "id": "thaicn1712/agentflow",
+    "language": "Rust",
+    "name": "thaicn1712/agentflow",
+    "stars": 1,
+    "updated_at": "2026-08-08T04:19:42Z",
+    "url": "https://github.com/thaicn1712/agentflow"
+  },
+  {
+    "description": "Fact-level staleness detection for AI agent memory",
+    "id": "sandeep-alluru/foghorn",
+    "language": "Python",
+    "name": "sandeep-alluru/foghorn",
+    "stars": 0,
+    "updated_at": "2026-08-08T04:17:21Z",
+    "url": "https://github.com/sandeep-alluru/foghorn"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T04:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-08T04:08:26Z",
+    "updated_at": "2026-08-08T04:21:15Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55843,
-    "updated_at": "2026-08-08T04:10:30Z",
+    "updated_at": "2026-08-08T04:27:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 43,
     "updated_at": "2026-08-08T04:05:33Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 30,
-    "updated_at": "2026-08-08T04:06:45Z",
-    "url": "https://github.com/solomon2773/nora"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -54,21 +81,12 @@
     "url": "https://github.com/debshikhar-sec/private-ai-infra"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T04:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-08T03:59:59Z",
+    "updated_at": "2026-08-08T04:25:41Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-08-08T03:23:18Z",
+    "updated_at": "2026-08-08T04:26:41Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T00:57:33Z",
     "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-08-08T00:53:02Z",
-    "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube",
-    "id": "api-evangelist/comet",
-    "language": "\u2014",
-    "name": "api-evangelist/comet",
-    "stars": 0,
-    "updated_at": "2026-08-08T00:48:05Z",
-    "url": "https://github.com/api-evangelist/comet"
   }
 ]
