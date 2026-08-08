@@ -1,12 +1,48 @@
 [
   {
+    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
+    "id": "aktasbatuhan/compound",
+    "language": "TypeScript",
+    "name": "aktasbatuhan/compound",
+    "stars": 3,
+    "updated_at": "2026-08-08T09:59:39Z",
+    "url": "https://github.com/aktasbatuhan/compound"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7142,
-    "updated_at": "2026-08-08T09:44:53Z",
+    "updated_at": "2026-08-08T09:59:53Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3479,
+    "updated_at": "2026-08-08T10:00:06Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 3,
+    "updated_at": "2026-08-08T09:55:00Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "How to specify, evaluate, and measure products built on models. For PMs who build AI products, not just use AI tools.",
+    "id": "yaowenhu-pm/awesome-ai-product-management",
+    "language": "\u2014",
+    "name": "yaowenhu-pm/awesome-ai-product-management",
+    "stars": 0,
+    "updated_at": "2026-08-08T09:47:38Z",
+    "url": "https://github.com/yaowenhu-pm/awesome-ai-product-management"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-08T09:42:07Z",
+    "updated_at": "2026-08-08T09:45:30Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -54,31 +90,13 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3479,
-    "updated_at": "2026-08-08T09:43:20Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 4,
-    "updated_at": "2026-08-08T09:38:19Z",
+    "updated_at": "2026-08-08T09:45:36Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 3,
-    "updated_at": "2026-08-08T09:45:04Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55856,
-    "updated_at": "2026-08-08T09:42:42Z",
+    "updated_at": "2026-08-08T09:53:40Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -157,7 +175,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2583,
+    "stars": 2584,
     "updated_at": "2026-08-08T08:49:32Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -169,15 +187,6 @@
     "stars": 8208,
     "updated_at": "2026-08-08T08:45:32Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "How to specify, evaluate, and measure products built on models. For PMs who build AI products, not just use AI tools.",
-    "id": "yaowenhu-pm/awesome-ai-product-management",
-    "language": "\u2014",
-    "name": "yaowenhu-pm/awesome-ai-product-management",
-    "stars": 0,
-    "updated_at": "2026-08-08T08:36:19Z",
-    "url": "https://github.com/yaowenhu-pm/awesome-ai-product-management"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -439,14 +448,5 @@
     "stars": 30,
     "updated_at": "2026-08-08T04:28:50Z",
     "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "Fact-level staleness detection for AI agent memory",
-    "id": "sandeep-alluru/foghorn",
-    "language": "Python",
-    "name": "sandeep-alluru/foghorn",
-    "stars": 0,
-    "updated_at": "2026-08-08T04:17:21Z",
-    "url": "https://github.com/sandeep-alluru/foghorn"
   }
 ]
