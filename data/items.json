@@ -1,5 +1,59 @@
 [
   {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-08T20:52:17Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 11,
+    "updated_at": "2026-08-08T20:51:45Z",
+    "url": "https://github.com/psyb0t/aigate"
+  },
+  {
+    "description": "Behavioral version control and release governance for prompts and agents.",
+    "id": "LegenDairy93/promptdiff",
+    "language": "TypeScript",
+    "name": "LegenDairy93/promptdiff",
+    "stars": 0,
+    "updated_at": "2026-08-08T20:51:13Z",
+    "url": "https://github.com/LegenDairy93/promptdiff"
+  },
+  {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-08T20:56:48Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-08T20:45:34Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T20:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Proxima lets existing GPUs serve more concurrent requests ",
     "id": "Tenosra/Proxima",
     "language": "Python",
@@ -9,39 +63,12 @@
     "url": "https://github.com/Tenosra/Proxima"
   },
   {
-    "description": "Behavioral version control and release governance for prompts and agents.",
-    "id": "LegenDairy93/promptdiff",
-    "language": "TypeScript",
-    "name": "LegenDairy93/promptdiff",
-    "stars": 0,
-    "updated_at": "2026-08-08T20:41:41Z",
-    "url": "https://github.com/LegenDairy93/promptdiff"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-08T20:36:53Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-08T20:36:44Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 55883,
-    "updated_at": "2026-08-08T20:44:56Z",
+    "updated_at": "2026-08-08T20:55:26Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T20:35:28Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T20:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
@@ -203,7 +221,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-08T19:37:58Z",
+    "updated_at": "2026-08-08T20:46:51Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T17:07:26Z",
     "url": "https://github.com/TheusHen/eleanity"
-  },
-  {
-    "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
-    "id": "bimal1023/AI-native-engineer",
-    "language": "\u2014",
-    "name": "bimal1023/AI-native-engineer",
-    "stars": 2,
-    "updated_at": "2026-08-08T16:53:03Z",
-    "url": "https://github.com/bimal1023/AI-native-engineer"
-  },
-  {
-    "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
-    "id": "sufengx/vera",
-    "language": "Python",
-    "name": "sufengx/vera",
-    "stars": 2,
-    "updated_at": "2026-08-08T16:42:23Z",
-    "url": "https://github.com/sufengx/vera"
   }
 ]
