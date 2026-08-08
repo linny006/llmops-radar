@@ -1,12 +1,48 @@
 [
   {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7143,
+    "updated_at": "2026-08-08T11:14:49Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
     "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 2,
-    "updated_at": "2026-08-08T10:59:10Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-08T11:12:52Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 4,
+    "updated_at": "2026-08-08T11:12:11Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Deterministic pre-deployment checks for AI agent systems. Blocks unsafe designs before they ship.",
+    "id": "arthursilas-ai/agent-preflight",
+    "language": "TypeScript",
+    "name": "arthursilas-ai/agent-preflight",
+    "stars": 0,
+    "updated_at": "2026-08-08T11:11:39Z",
+    "url": "https://github.com/arthursilas-ai/agent-preflight"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-08T11:10:55Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
@@ -14,17 +50,44 @@
     "language": "TypeScript",
     "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "stars": 4,
-    "updated_at": "2026-08-08T10:58:55Z",
+    "updated_at": "2026-08-08T11:12:25Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7143,
-    "updated_at": "2026-08-08T10:58:52Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55857,
+    "updated_at": "2026-08-08T11:05:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 2,
+    "updated_at": "2026-08-08T11:04:11Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T11:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32728,
+    "updated_at": "2026-08-08T10:57:42Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Turn Portkey & Langsmith data into OTEL signals",
@@ -36,15 +99,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T10:51:56Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
     "id": "project-arbr/arbr-control-plane",
     "language": "JavaScript",
@@ -54,15 +108,6 @@
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-08T11:00:19Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -70,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T10:38:26Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32727,
-    "updated_at": "2026-08-08T10:57:42Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
@@ -94,7 +130,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 400,
+    "stars": 401,
     "updated_at": "2026-08-08T10:35:39Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -157,7 +193,7 @@
     "id": "hensu-project/hensu",
     "language": "Java",
     "name": "hensu-project/hensu",
-    "stars": 11,
+    "stars": 12,
     "updated_at": "2026-08-08T10:10:57Z",
     "url": "https://github.com/hensu-project/hensu"
   },
@@ -167,7 +203,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-08T10:31:29Z",
+    "updated_at": "2026-08-08T11:01:58Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3479,
-    "updated_at": "2026-08-08T10:44:45Z",
+    "updated_at": "2026-08-08T11:04:26Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -243,15 +279,6 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 4,
-    "updated_at": "2026-08-08T09:45:36Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
     "id": "malkreide/zh-education-mcp",
     "language": "Python",
@@ -261,21 +288,12 @@
     "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
-    "description": "Deterministic pre-deployment checks for AI agent systems. Blocks unsafe designs before they ship.",
-    "id": "arthursilas-ai/agent-preflight",
-    "language": "Python",
-    "name": "arthursilas-ai/agent-preflight",
-    "stars": 0,
-    "updated_at": "2026-08-08T09:06:44Z",
-    "url": "https://github.com/arthursilas-ai/agent-preflight"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27416,
-    "updated_at": "2026-08-08T10:48:03Z",
+    "updated_at": "2026-08-08T11:10:53Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -286,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T09:03:17Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55856,
-    "updated_at": "2026-08-08T10:55:52Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
@@ -439,14 +448,5 @@
     "stars": 1136,
     "updated_at": "2026-08-08T06:31:04Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 0,
-    "updated_at": "2026-08-08T06:21:57Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   }
 ]
