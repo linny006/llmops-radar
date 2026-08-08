@@ -1,5 +1,32 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7144,
+    "updated_at": "2026-08-08T11:51:53Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-08-08T11:47:02Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T11:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
     "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "language": "TypeScript",
@@ -7,15 +34,6 @@
     "stars": 4,
     "updated_at": "2026-08-08T11:44:59Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7144,
-    "updated_at": "2026-08-08T11:44:53Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -52,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T11:33:17Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T11:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ATLAS: Agentic RAG as one coherent system \u2014 hybrid search + reranking + knowledge graph, tool-calling over MCP, multi-mo",
@@ -139,7 +148,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55858,
+    "stars": 55859,
     "updated_at": "2026-08-08T11:05:55Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -214,6 +223,15 @@
     "stars": 2,
     "updated_at": "2026-08-08T10:33:30Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8209,
+    "updated_at": "2026-08-08T10:29:32Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Conversational product recommender: one rating-aware ranking core, two retrieval backends - Qdrant hybrid RAG over your ",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27416,
-    "updated_at": "2026-08-08T11:10:53Z",
+    "updated_at": "2026-08-08T11:49:35Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -365,17 +383,8 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2584,
-    "updated_at": "2026-08-08T10:03:38Z",
+    "updated_at": "2026-08-08T11:46:18Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8208,
-    "updated_at": "2026-08-08T10:29:32Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Diff and regression-detect LLM agent execution traces",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-08T07:08:49Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "AgentOps for Rust: orchestrate, guard, act-guard, validate, evaluate, checkpoint, trace, cache, remember \u2014 in one crate",
-    "id": "thaicn1712/agentflow",
-    "language": "Rust",
-    "name": "thaicn1712/agentflow",
-    "stars": 1,
-    "updated_at": "2026-08-08T06:48:31Z",
-    "url": "https://github.com/thaicn1712/agentflow"
   }
 ]
