@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Open-source agent evaluation framework - score any AI agent across providers with standardized benchmarks",
+    "id": "rexblade58/agenteval",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T22:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "rexblade58/agenteval",
+    "stars": 0,
+    "updated_at": "2026-08-08T22:56:03Z",
+    "url": "https://github.com/rexblade58/agenteval"
   },
   {
     "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
@@ -14,17 +14,44 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 3,
-    "updated_at": "2026-08-08T22:44:51Z",
+    "updated_at": "2026-08-08T22:55:50Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "JavaScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-08T22:54:51Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
+    "id": "kirklasalle/PrismRefraction",
+    "language": "TypeScript",
+    "name": "kirklasalle/PrismRefraction",
+    "stars": 3,
+    "updated_at": "2026-08-08T22:54:11Z",
+    "url": "https://github.com/kirklasalle/PrismRefraction"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55892,
-    "updated_at": "2026-08-08T22:44:29Z",
+    "stars": 55894,
+    "updated_at": "2026-08-08T22:55:34Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T22:45:53Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -41,17 +68,8 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 979,
-    "updated_at": "2026-08-08T22:39:52Z",
+    "updated_at": "2026-08-08T22:54:42Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
-    "id": "kirklasalle/PrismRefraction",
-    "language": "TypeScript",
-    "name": "kirklasalle/PrismRefraction",
-    "stars": 3,
-    "updated_at": "2026-08-08T22:37:46Z",
-    "url": "https://github.com/kirklasalle/PrismRefraction"
   },
   {
     "description": "Open-source AI agent control platform for orchestrating, executing, governing, tracing, and evaluating production AI age",
@@ -95,7 +113,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-08T22:45:26Z",
+    "updated_at": "2026-08-08T22:56:18Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -229,7 +247,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21220,
+    "stars": 21221,
     "updated_at": "2026-08-08T20:08:09Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -430,23 +448,5 @@
     "stars": 27422,
     "updated_at": "2026-08-08T18:19:19Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 4,
-    "updated_at": "2026-08-08T18:26:48Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 3,
-    "updated_at": "2026-08-08T18:05:02Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
