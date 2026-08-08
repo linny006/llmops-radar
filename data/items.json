@@ -1,5 +1,104 @@
 [
   {
+    "description": "Regression tests for prompt changes, scored against a committed baseline and run in CI before merge.",
+    "id": "prashibadkur11-creator/prompt-regression-suite",
+    "language": "Python",
+    "name": "prashibadkur11-creator/prompt-regression-suite",
+    "stars": 0,
+    "updated_at": "2026-08-08T02:00:11Z",
+    "url": "https://github.com/prashibadkur11-creator/prompt-regression-suite"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T01:57:58Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-08T01:54:35Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 2,
+    "updated_at": "2026-08-08T02:00:07Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "A spec template for AI persona behavior: how it should act, what it must never do, and how to test it.",
+    "id": "prashibadkur11-creator/persona-spec-template",
+    "language": "Python",
+    "name": "prashibadkur11-creator/persona-spec-template",
+    "stars": 0,
+    "updated_at": "2026-08-08T01:52:10Z",
+    "url": "https://github.com/prashibadkur11-creator/persona-spec-template"
+  },
+  {
+    "description": "A catalog of AI and LLM product failure modes, with detection and mitigation for each.",
+    "id": "prashibadkur11-creator/ai-failure-mode-taxonomy",
+    "language": "Python",
+    "name": "prashibadkur11-creator/ai-failure-mode-taxonomy",
+    "stars": 0,
+    "updated_at": "2026-08-08T01:50:42Z",
+    "url": "https://github.com/prashibadkur11-creator/ai-failure-mode-taxonomy"
+  },
+  {
+    "description": "TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor",
+    "id": "api-evangelist/tensorzero",
+    "language": "\u2014",
+    "name": "api-evangelist/tensorzero",
+    "stars": 0,
+    "updated_at": "2026-08-08T01:49:59Z",
+    "url": "https://github.com/api-evangelist/tensorzero"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55838,
+    "updated_at": "2026-08-08T01:52:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-08T01:48:09Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-08T01:52:02Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T01:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine le",
     "id": "api-evangelist/seldon",
     "language": "\u2014",
@@ -36,24 +135,6 @@
     "url": "https://github.com/api-evangelist/qwak"
   },
   {
-    "description": "Regression tests for prompt changes, scored against a committed baseline and run in CI before merge.",
-    "id": "prashibadkur11-creator/prompt-regression-suite",
-    "language": "Python",
-    "name": "prashibadkur11-creator/prompt-regression-suite",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:34:53Z",
-    "url": "https://github.com/prashibadkur11-creator/prompt-regression-suite"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 55837,
-    "updated_at": "2026-08-08T01:43:01Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to ",
     "id": "api-evangelist/phoenix",
     "language": "\u2014",
@@ -70,15 +151,6 @@
     "stars": 30,
     "updated_at": "2026-08-08T01:31:15Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T01:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de",
@@ -117,15 +189,6 @@
     "url": "https://github.com/api-evangelist/log10"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-08T01:16:39Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T01:06:25Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-08T01:05:22Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -180,15 +234,6 @@
     "url": "https://github.com/api-evangelist/evidently"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-08T01:21:21Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
     "id": "api-evangelist/dify",
     "language": "\u2014",
@@ -203,7 +248,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 5,
-    "updated_at": "2026-08-08T00:49:45Z",
+    "updated_at": "2026-08-08T01:52:22Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -220,7 +265,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24059,
+    "stars": 24060,
     "updated_at": "2026-08-08T00:45:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10939,
-    "updated_at": "2026-08-08T01:37:31Z",
+    "updated_at": "2026-08-08T01:48:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T23:03:37Z",
     "url": "https://github.com/sandeep-alluru/groundcrew"
-  },
-  {
-    "description": "Content-addressed GUI action facts for computer-use agents",
-    "id": "sandeep-alluru/clickproof",
-    "language": "Python",
-    "name": "sandeep-alluru/clickproof",
-    "stars": 0,
-    "updated_at": "2026-08-07T23:03:29Z",
-    "url": "https://github.com/sandeep-alluru/clickproof"
-  },
-  {
-    "description": "Canonical trace format and verifier for agent execution attestation",
-    "id": "sandeep-alluru/notarize",
-    "language": "Python",
-    "name": "sandeep-alluru/notarize",
-    "stars": 0,
-    "updated_at": "2026-08-07T23:02:58Z",
-    "url": "https://github.com/sandeep-alluru/notarize"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-08-07T23:02:50Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Fact-level staleness detection for AI agent memory",
-    "id": "sandeep-alluru/foghorn",
-    "language": "Python",
-    "name": "sandeep-alluru/foghorn",
-    "stars": 0,
-    "updated_at": "2026-08-07T23:02:45Z",
-    "url": "https://github.com/sandeep-alluru/foghorn"
-  },
-  {
-    "description": "Diff and regression-detect LLM agent execution traces",
-    "id": "sandeep-alluru/agentdelta",
-    "language": "Python",
-    "name": "sandeep-alluru/agentdelta",
-    "stars": 0,
-    "updated_at": "2026-08-07T23:00:56Z",
-    "url": "https://github.com/sandeep-alluru/agentdelta"
   }
 ]
