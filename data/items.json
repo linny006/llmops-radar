@@ -1,12 +1,57 @@
 [
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-09T05:44:32Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
     "stars": 0,
-    "updated_at": "2026-08-09T05:33:33Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
+    "updated_at": "2026-08-09T05:45:18Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
+    "id": "okfriansyah-moh/the-foundry",
+    "language": "Go",
+    "name": "okfriansyah-moh/the-foundry",
+    "stars": 0,
+    "updated_at": "2026-08-09T05:43:22Z",
+    "url": "https://github.com/okfriansyah-moh/the-foundry"
+  },
+  {
+    "description": "Companion code for the Manning book 'LLM Customization and Fine-Tuning.' Adapt open-weights LLMs end to end: prompting a",
+    "id": "bahree/ModelAdaptationBook",
+    "language": "Python",
+    "name": "bahree/ModelAdaptationBook",
+    "stars": 7,
+    "updated_at": "2026-08-09T05:41:06Z",
+    "url": "https://github.com/bahree/ModelAdaptationBook"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-09T05:42:26Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Dockerized multi-agent analytics office on Hermes and Slack, with reproducible forecasting, tests, CI, and privacy-safe ",
+    "id": "Lee2379/agentic-analytics-office",
+    "language": "Python",
+    "name": "Lee2379/agentic-analytics-office",
+    "stars": 0,
+    "updated_at": "2026-08-09T05:44:58Z",
+    "url": "https://github.com/Lee2379/agentic-analytics-office"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-09T05:30:25Z",
+    "updated_at": "2026-08-09T05:34:31Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-09T05:33:33Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -27,39 +81,12 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-09T05:22:14Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Dockerized multi-agent analytics office on Hermes and Slack, with reproducible forecasting, tests, CI, and privacy-safe ",
-    "id": "Lee2379/agentic-analytics-office",
-    "language": "Python",
-    "name": "Lee2379/agentic-analytics-office",
-    "stars": 0,
-    "updated_at": "2026-08-09T05:19:17Z",
-    "url": "https://github.com/Lee2379/agentic-analytics-office"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-09T05:18:32Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
     "id": "SammyTourani/evestack",
     "language": "TypeScript",
     "name": "SammyTourani/evestack",
     "stars": 0,
-    "updated_at": "2026-08-09T05:30:24Z",
+    "updated_at": "2026-08-09T05:43:57Z",
     "url": "https://github.com/SammyTourani/evestack"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-08-09T05:10:54Z",
     "url": "https://github.com/Tenosra/Proxima"
-  },
-  {
-    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
-    "id": "okfriansyah-moh/the-foundry",
-    "language": "Go",
-    "name": "okfriansyah-moh/the-foundry",
-    "stars": 0,
-    "updated_at": "2026-08-09T05:05:42Z",
-    "url": "https://github.com/okfriansyah-moh/the-foundry"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T04:59:19Z",
     "url": "https://github.com/threejay20/homelab-ai-stack"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-09T04:55:02Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
     "description": "Spatial scene graphs and belief state for embodied agents",
@@ -301,7 +310,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55914,
+    "stars": 55915,
     "updated_at": "2026-08-09T04:20:40Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T03:08:42Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32760,
-    "updated_at": "2026-08-09T03:04:32Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
