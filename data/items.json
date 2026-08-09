@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-09T14:22:29Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Self-hosted MCP/AI gateway that turns plain language into structured prompts for Codex, Cursor, and Cline. No API key re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-09T14:17:54Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-09T14:16:37Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-08-09T14:16:01Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T14:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
     "id": "derivational-doubletime597/phoenix-script-executor-win",
     "language": "HTML",
@@ -81,15 +126,6 @@
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
-    "description": "Self-hosted MCP/AI gateway that turns plain language into structured prompts for Codex, Cursor, and Cline. No API key re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-09T14:04:39Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "Nokimalos/rag-ci",
     "stars": 2,
-    "updated_at": "2026-08-09T14:01:47Z",
+    "updated_at": "2026-08-09T14:27:29Z",
     "url": "https://github.com/Nokimalos/rag-ci"
   },
   {
@@ -126,13 +162,13 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T14:00:42Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32778,
+    "updated_at": "2026-08-09T14:00:07Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -203,7 +239,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1297,
-    "updated_at": "2026-08-09T14:14:54Z",
+    "updated_at": "2026-08-09T14:26:30Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -284,7 +320,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-09T13:45:17Z",
+    "updated_at": "2026-08-09T14:30:14Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -331,15 +367,6 @@
     "stars": 4,
     "updated_at": "2026-08-09T13:37:53Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
-    "id": "SammyTourani/evestack",
-    "language": "TypeScript",
-    "name": "SammyTourani/evestack",
-    "stars": 0,
-    "updated_at": "2026-08-09T14:13:08Z",
-    "url": "https://github.com/SammyTourani/evestack"
   },
   {
     "description": "Terminal trace debugger for AI agents.",
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-09T13:27:32Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-08-09T13:26:21Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 992,
-    "updated_at": "2026-08-09T13:17:06Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-09T14:00:25Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   }
 ]
