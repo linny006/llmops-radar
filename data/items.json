@@ -1,5 +1,32 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-09T21:02:17Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Full Portkey Admin API MCP server",
+    "id": "CodesWhat/portkey-admin-mcp",
+    "language": "TypeScript",
+    "name": "CodesWhat/portkey-admin-mcp",
+    "stars": 5,
+    "updated_at": "2026-08-09T21:00:56Z",
+    "url": "https://github.com/CodesWhat/portkey-admin-mcp"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T21:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -27,13 +54,13 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Full Portkey Admin API MCP server",
-    "id": "CodesWhat/portkey-admin-mcp",
-    "language": "TypeScript",
-    "name": "CodesWhat/portkey-admin-mcp",
-    "stars": 5,
-    "updated_at": "2026-08-09T20:59:24Z",
-    "url": "https://github.com/CodesWhat/portkey-admin-mcp"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 55955,
+    "updated_at": "2026-08-09T20:54:34Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -108,15 +135,6 @@
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T20:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3480,
-    "updated_at": "2026-08-09T20:56:43Z",
+    "updated_at": "2026-08-09T21:01:01Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-09T20:33:24Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 12,
-    "updated_at": "2026-08-09T20:04:15Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-09T19:46:52Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   }
 ]
