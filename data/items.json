@@ -1,12 +1,57 @@
 [
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 3,
+    "updated_at": "2026-08-09T09:09:04Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Open-source agent evaluation framework - score any AI agent across providers with standardized benchmarks",
+    "id": "rexblade58/agenteval",
+    "language": "Python",
+    "name": "rexblade58/agenteval",
+    "stars": 2,
+    "updated_at": "2026-08-09T09:08:51Z",
+    "url": "https://github.com/rexblade58/agenteval"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-09T09:07:39Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 3,
-    "updated_at": "2026-08-09T08:59:22Z",
+    "updated_at": "2026-08-09T09:09:44Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-09T09:05:14Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T09:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -72,40 +117,13 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-09T08:46:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T08:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + lo",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 988,
+    "stars": 989,
     "updated_at": "2026-08-09T08:45:01Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Open-source agent evaluation framework - score any AI agent across providers with standardized benchmarks",
-    "id": "rexblade58/agenteval",
-    "language": "Python",
-    "name": "rexblade58/agenteval",
-    "stars": 2,
-    "updated_at": "2026-08-09T08:42:55Z",
-    "url": "https://github.com/rexblade58/agenteval"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -270,6 +288,15 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "Full-stack LLM evaluation platform for experiment tracking, multi-provider evaluation, regression detection, and automat",
+    "id": "ChetanVK10/LLMOps-Studio",
+    "language": "TypeScript",
+    "name": "ChetanVK10/LLMOps-Studio",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:27:28Z",
+    "url": "https://github.com/ChetanVK10/LLMOps-Studio"
+  },
+  {
     "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
     "id": "threejay20/homelab-ai-stack",
     "language": "Python",
@@ -302,7 +329,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5683,
-    "updated_at": "2026-08-09T08:21:22Z",
+    "updated_at": "2026-08-09T09:02:25Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T05:52:06Z",
     "url": "https://github.com/acornops/agentv"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-08-09T05:52:06Z",
-    "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "Proxima lets existing GPUs serve 4x more concurrent requests ",
-    "id": "Tenosra/Proxima",
-    "language": "Python",
-    "name": "Tenosra/Proxima",
-    "stars": 4,
-    "updated_at": "2026-08-09T05:49:48Z",
-    "url": "https://github.com/Tenosra/Proxima"
-  },
-  {
-    "description": "Companion code for the Manning book 'LLM Customization and Fine-Tuning.' Adapt open-weights LLMs end to end: prompting a",
-    "id": "bahree/ModelAdaptationBook",
-    "language": "Python",
-    "name": "bahree/ModelAdaptationBook",
-    "stars": 7,
-    "updated_at": "2026-08-09T05:41:06Z",
-    "url": "https://github.com/bahree/ModelAdaptationBook"
   }
 ]
