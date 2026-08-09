@@ -1,12 +1,21 @@
 [
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 3,
-    "updated_at": "2026-08-09T09:09:04Z",
-    "url": "https://github.com/pom11/hscc"
+    "description": "Provider-agnostic Hermes Agent optimization skill with autodiscovery, provenance, and publication-ready docs.",
+    "id": "AzamatSafarov/hermes-optimizer",
+    "language": "\u2014",
+    "name": "AzamatSafarov/hermes-optimizer",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:14:46Z",
+    "url": "https://github.com/AzamatSafarov/hermes-optimizer"
+  },
+  {
+    "description": "Self-hosted AI testing platform \u2014 model & MCP playground, full request logs, and an OpenAI-compatible gateway. One Node ",
+    "id": "HSPK/loom",
+    "language": "TypeScript",
+    "name": "HSPK/loom",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:14:08Z",
+    "url": "https://github.com/HSPK/loom"
   },
   {
     "description": "Open-source agent evaluation framework - score any AI agent across providers with standardized benchmarks",
@@ -14,17 +23,17 @@
     "language": "Python",
     "name": "rexblade58/agenteval",
     "stars": 2,
-    "updated_at": "2026-08-09T09:08:51Z",
+    "updated_at": "2026-08-09T09:10:54Z",
     "url": "https://github.com/rexblade58/agenteval"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-09T09:07:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T09:10:08Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
@@ -36,6 +45,24 @@
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 3,
+    "updated_at": "2026-08-09T09:09:04Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-09T09:07:39Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T09:05:14Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T09:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -121,7 +139,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 989,
+    "stars": 990,
     "updated_at": "2026-08-09T08:45:01Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T08:39:51Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Self-hosted AI testing platform \u2014 model & MCP playground, full request logs, and an OpenAI-compatible gateway. One Node ",
-    "id": "HSPK/loom",
-    "language": "TypeScript",
-    "name": "HSPK/loom",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:30:31Z",
-    "url": "https://github.com/HSPK/loom"
   },
   {
     "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "Lee2379/multi-agent-ai-analytics-office",
     "stars": 0,
-    "updated_at": "2026-08-09T08:51:07Z",
+    "updated_at": "2026-08-09T09:10:50Z",
     "url": "https://github.com/Lee2379/multi-agent-ai-analytics-office"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-09T05:52:06Z",
     "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
-    "id": "acornops/agentv",
-    "language": "TypeScript",
-    "name": "acornops/agentv",
-    "stars": 1,
-    "updated_at": "2026-08-09T05:52:06Z",
-    "url": "https://github.com/acornops/agentv"
   }
 ]
