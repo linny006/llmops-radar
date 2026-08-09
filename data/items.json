@@ -1,30 +1,21 @@
 [
   {
-    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
-    "id": "aws-samples/sample-genai-on-eks-starter-kit",
-    "language": "JavaScript",
-    "name": "aws-samples/sample-genai-on-eks-starter-kit",
-    "stars": 93,
-    "updated_at": "2026-08-09T07:44:29Z",
-    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
-  },
-  {
     "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 3,
-    "updated_at": "2026-08-09T07:41:24Z",
+    "updated_at": "2026-08-09T07:59:51Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
-    "description": "Self-hosted AI testing platform \u2014 model & MCP playground, full request logs, and an OpenAI-compatible gateway. One Node ",
-    "id": "HSPK/loom",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "HSPK/loom",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:38:20Z",
-    "url": "https://github.com/HSPK/loom"
+    "name": "langfuse/langfuse",
+    "stars": 32767,
+    "updated_at": "2026-08-09T07:57:28Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -32,8 +23,80 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-08-09T07:37:38Z",
+    "updated_at": "2026-08-09T07:55:52Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-08-09T07:57:25Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Self-hosted AI testing platform \u2014 model & MCP playground, full request logs, and an OpenAI-compatible gateway. One Node ",
+    "id": "HSPK/loom",
+    "language": "TypeScript",
+    "name": "HSPK/loom",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:55:09Z",
+    "url": "https://github.com/HSPK/loom"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-09T07:53:28Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:52:22Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-09T07:50:46Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:54:20Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T07:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
+    "id": "aws-samples/sample-genai-on-eks-starter-kit",
+    "language": "JavaScript",
+    "name": "aws-samples/sample-genai-on-eks-starter-kit",
+    "stars": 93,
+    "updated_at": "2026-08-09T07:44:29Z",
+    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-09T07:35:36Z",
+    "updated_at": "2026-08-09T07:53:09Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T07:34:29Z",
     "url": "https://github.com/echoomegaprime/echoomegaprime"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T07:34:04Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Evidence-grounded agentic AI security auditor for containerized agent runtimes, with scheduled controls, deterministic r",
@@ -99,15 +153,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
-    "id": "SammyTourani/evestack",
-    "language": "TypeScript",
-    "name": "SammyTourani/evestack",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:43:12Z",
-    "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -135,15 +180,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-09T07:25:03Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -160,33 +196,6 @@
     "stars": 7,
     "updated_at": "2026-08-09T07:10:12Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:03:21Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-09T06:55:49Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-09T06:53:10Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -221,7 +230,7 @@
     "language": "Vue",
     "name": "runcycles/cycles-docs",
     "stars": 4,
-    "updated_at": "2026-08-09T06:38:00Z",
+    "updated_at": "2026-08-09T07:45:36Z",
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-09T04:31:56Z",
     "url": "https://github.com/sandeep-alluru/humanproof"
-  },
-  {
-    "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
-    "id": "sandeep-alluru/agentcrdt",
-    "language": "Python",
-    "name": "sandeep-alluru/agentcrdt",
-    "stars": 0,
-    "updated_at": "2026-08-09T04:31:53Z",
-    "url": "https://github.com/sandeep-alluru/agentcrdt"
   }
 ]
