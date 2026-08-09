@@ -1,11 +1,65 @@
 [
   {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-09T06:38:26Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Dockerized multi-agent analytics office on Hermes and Slack, with reproducible forecasting, tests, CI, and privacy-safe ",
+    "id": "Lee2379/agentic-analytics-office",
+    "language": "Python",
+    "name": "Lee2379/agentic-analytics-office",
+    "stars": 0,
+    "updated_at": "2026-08-09T06:36:54Z",
+    "url": "https://github.com/Lee2379/agentic-analytics-office"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-09T06:35:48Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-08-09T06:38:00Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Evidence-grounded security auditing for containerized AI-agent runtimes",
+    "id": "Lee2379/iris-agent-security-auditor",
+    "language": "Python",
+    "name": "Lee2379/iris-agent-security-auditor",
+    "stars": 0,
+    "updated_at": "2026-08-09T06:32:14Z",
+    "url": "https://github.com/Lee2379/iris-agent-security-auditor"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-08-09T06:31:47Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-09T06:28:15Z",
+    "updated_at": "2026-08-09T06:30:23Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 75,
     "updated_at": "2026-08-09T06:27:18Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-09T06:22:22Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T06:22:05Z",
     "url": "https://github.com/threejay20/homelab-ai-stack"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-09T06:21:51Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
@@ -214,15 +250,6 @@
     "stars": 7,
     "updated_at": "2026-08-09T05:41:06Z",
     "url": "https://github.com/bahree/ModelAdaptationBook"
-  },
-  {
-    "description": "Dockerized multi-agent analytics office on Hermes and Slack, with reproducible forecasting, tests, CI, and privacy-safe ",
-    "id": "Lee2379/agentic-analytics-office",
-    "language": "Python",
-    "name": "Lee2379/agentic-analytics-office",
-    "stars": 0,
-    "updated_at": "2026-08-09T05:56:22Z",
-    "url": "https://github.com/Lee2379/agentic-analytics-office"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -421,32 +448,5 @@
     "stars": 43,
     "updated_at": "2026-08-09T04:04:47Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-09T03:59:04Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 100+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 77,
-    "updated_at": "2026-08-09T03:54:54Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8214,
-    "updated_at": "2026-08-09T03:43:02Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   }
 ]
