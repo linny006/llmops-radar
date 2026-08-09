@@ -1,12 +1,39 @@
 [
   {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 4,
+    "updated_at": "2026-08-09T19:43:33Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-09T19:41:49Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
     "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-08-09T19:29:42Z",
-    "url": "https://github.com/memoturn/memoturn"
+    "name": "langwatch/langwatch",
+    "stars": 3480,
+    "updated_at": "2026-08-09T19:42:54Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Self-hosted MCP/AI gateway for Codex, Cursor, and Cline. Turn plain language into structured prompts via CLI, HTTP, SDK,",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-09T19:38:13Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -14,8 +41,53 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-09T19:29:23Z",
+    "updated_at": "2026-08-09T19:37:36Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
+    "id": "runcycles/cycles-server",
+    "language": "Java",
+    "name": "runcycles/cycles-server",
+    "stars": 3,
+    "updated_at": "2026-08-09T19:39:27Z",
+    "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-09T19:32:47Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-09T19:31:28Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T19:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-08-09T19:29:42Z",
+    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -27,15 +99,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Self-hosted MCP/AI gateway for Codex, Cursor, and Cline. Turn plain language into structured prompts via CLI, HTTP, SDK,",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-09T19:27:18Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
     "id": "ashrafb8962/agentic-ops-and-rag",
     "language": "Jupyter Notebook",
@@ -45,15 +108,6 @@
     "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T19:19:41Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -61,33 +115,6 @@
     "stars": 6,
     "updated_at": "2026-08-09T19:17:37Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-09T19:14:37Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 4,
-    "updated_at": "2026-08-09T19:29:30Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3480,
-    "updated_at": "2026-08-09T19:19:56Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -103,7 +130,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55955,
+    "stars": 55956,
     "updated_at": "2026-08-09T19:05:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "brunovicco/verifiable-ai-governance",
     "stars": 0,
-    "updated_at": "2026-08-09T19:07:01Z",
+    "updated_at": "2026-08-09T19:35:24Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
@@ -171,15 +198,6 @@
     "url": "https://github.com/brunovicco/a2a-otel-kit"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-09T18:39:27Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "Regression testing for LLM prompts. Snapshot a baseline, diff against it, and fail the build when a prompt change makes ",
     "id": "Jeremie2002-sudo/promptdrift",
     "language": "Python",
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T18:38:17Z",
     "url": "https://github.com/Tessiecorrupt733/phoenix-script-executor-v4"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:37:19Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -439,14 +448,5 @@
     "stars": 49,
     "updated_at": "2026-08-09T18:06:33Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:05:44Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
   }
 ]
