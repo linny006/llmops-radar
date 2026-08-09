@@ -1,12 +1,102 @@
 [
   {
+    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:29:13Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
     "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 3,
-    "updated_at": "2026-08-09T07:14:57Z",
+    "updated_at": "2026-08-09T07:27:45Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27427,
+    "updated_at": "2026-08-09T07:27:35Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
+    "id": "threejay20/homelab-ai-stack",
+    "language": "Python",
+    "name": "threejay20/homelab-ai-stack",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:26:38Z",
+    "url": "https://github.com/threejay20/homelab-ai-stack"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-09T07:26:32Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:26:03Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-08-09T07:25:03Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Evidence-grounded agentic AI security auditor for containerized agent runtimes, with scheduled controls, deterministic r",
+    "id": "Lee2379/agentic-ai-security-auditor",
+    "language": "Python",
+    "name": "Lee2379/agentic-ai-security-auditor",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:20:34Z",
+    "url": "https://github.com/Lee2379/agentic-ai-security-auditor"
+  },
+  {
+    "description": "Self-hosted AI testing platform \u2014 model & MCP playground, full request logs, and an OpenAI-compatible gateway. One Node ",
+    "id": "HSPK/loom",
+    "language": "TypeScript",
+    "name": "HSPK/loom",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:17:08Z",
+    "url": "https://github.com/HSPK/loom"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-09T07:16:48Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T07:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -36,33 +126,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Evidence-grounded agentic AI security auditor for containerized agent runtimes, with scheduled controls, deterministic r",
-    "id": "Lee2379/agentic-ai-security-auditor",
-    "language": "Python",
-    "name": "Lee2379/agentic-ai-security-auditor",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:03:10Z",
-    "url": "https://github.com/Lee2379/agentic-ai-security-auditor"
-  },
-  {
-    "description": "Self-hosted AI testing platform \u2014 model & MCP playground, full request logs, and an OpenAI-compatible gateway. One Node ",
-    "id": "HSPK/loom",
-    "language": "TypeScript",
-    "name": "HSPK/loom",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:02:34Z",
-    "url": "https://github.com/HSPK/loom"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T07:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Multi-agent AI analytics office on Hermes and Slack, with Dockerized operations, reproducible forecasting, CI, and priva",
     "id": "Lee2379/multi-agent-ai-analytics-office",
     "language": "Python",
@@ -79,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-09T06:55:49Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
-    "id": "threejay20/homelab-ai-stack",
-    "language": "Python",
-    "name": "threejay20/homelab-ai-stack",
-    "stars": 0,
-    "updated_at": "2026-08-09T06:53:14Z",
-    "url": "https://github.com/threejay20/homelab-ai-stack"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -115,15 +169,6 @@
     "stars": 5683,
     "updated_at": "2026-08-09T06:50:27Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-09T07:01:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -171,15 +216,6 @@
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   },
   {
-    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
-    "id": "SammyTourani/evestack",
-    "language": "TypeScript",
-    "name": "SammyTourani/evestack",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:11:50Z",
-    "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
     "id": "runcycles/cycles-dashboard",
     "language": "TypeScript",
@@ -223,24 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T06:01:42Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-09T06:00:27Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-09T05:56:28Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
     "description": "Vendor-neutral OpenTelemetry tracing for A2A agents and MCP services, with W3C context propagation and privacy-safe tele",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-09T04:31:46Z",
     "url": "https://github.com/sandeep-alluru/foghorn"
-  },
-  {
-    "description": "Diff and regression-detect LLM agent execution traces",
-    "id": "sandeep-alluru/agentdelta",
-    "language": "Python",
-    "name": "sandeep-alluru/agentdelta",
-    "stars": 0,
-    "updated_at": "2026-08-09T04:31:44Z",
-    "url": "https://github.com/sandeep-alluru/agentdelta"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:01:17Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   }
 ]
