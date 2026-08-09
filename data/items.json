@@ -1,5 +1,77 @@
 [
   {
+    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
+    "id": "aws-samples/sample-genai-on-eks-starter-kit",
+    "language": "JavaScript",
+    "name": "aws-samples/sample-genai-on-eks-starter-kit",
+    "stars": 93,
+    "updated_at": "2026-08-09T07:44:29Z",
+    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
+  },
+  {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-09T07:41:24Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Self-hosted AI testing platform \u2014 model & MCP playground, full request logs, and an OpenAI-compatible gateway. One Node ",
+    "id": "HSPK/loom",
+    "language": "TypeScript",
+    "name": "HSPK/loom",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:38:20Z",
+    "url": "https://github.com/HSPK/loom"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-09T07:37:38Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:35:47Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-09T07:35:36Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Sovereign AI infrastructure, governed agent systems, verification forges, and open-source production automation.",
+    "id": "echoomegaprime/echoomegaprime",
+    "language": "\u2014",
+    "name": "echoomegaprime/echoomegaprime",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:34:29Z",
+    "url": "https://github.com/echoomegaprime/echoomegaprime"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T07:34:04Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Evidence-grounded agentic AI security auditor for containerized agent runtimes, with scheduled controls, deterministic r",
     "id": "Lee2379/agentic-ai-security-auditor",
     "language": "Python",
@@ -27,31 +99,13 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T07:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
     "id": "SammyTourani/evestack",
     "language": "TypeScript",
     "name": "SammyTourani/evestack",
     "stars": 0,
-    "updated_at": "2026-08-09T07:29:13Z",
+    "updated_at": "2026-08-09T07:43:12Z",
     "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-09T07:27:45Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -77,17 +131,8 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-09T07:33:24Z",
+    "updated_at": "2026-08-09T07:36:00Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:26:03Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
     "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
@@ -97,24 +142,6 @@
     "stars": 4,
     "updated_at": "2026-08-09T07:25:03Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "Self-hosted AI testing platform \u2014 model & MCP playground, full request logs, and an OpenAI-compatible gateway. One Node ",
-    "id": "HSPK/loom",
-    "language": "TypeScript",
-    "name": "HSPK/loom",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:17:08Z",
-    "url": "https://github.com/HSPK/loom"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-09T07:16:48Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-09T04:31:53Z",
     "url": "https://github.com/sandeep-alluru/agentcrdt"
-  },
-  {
-    "description": "Action receipts and chain-of-custody for AI agents",
-    "id": "sandeep-alluru/groundcrew",
-    "language": "Python",
-    "name": "sandeep-alluru/groundcrew",
-    "stars": 0,
-    "updated_at": "2026-08-09T04:31:51Z",
-    "url": "https://github.com/sandeep-alluru/groundcrew"
-  },
-  {
-    "description": "Content-addressed GUI action facts for computer-use agents",
-    "id": "sandeep-alluru/clickproof",
-    "language": "Python",
-    "name": "sandeep-alluru/clickproof",
-    "stars": 0,
-    "updated_at": "2026-08-09T04:31:49Z",
-    "url": "https://github.com/sandeep-alluru/clickproof"
-  },
-  {
-    "description": "Canonical trace format and verifier for agent execution attestation",
-    "id": "sandeep-alluru/notarize",
-    "language": "Python",
-    "name": "sandeep-alluru/notarize",
-    "stars": 0,
-    "updated_at": "2026-08-09T04:31:48Z",
-    "url": "https://github.com/sandeep-alluru/notarize"
   }
 ]
