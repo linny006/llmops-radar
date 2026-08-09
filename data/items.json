@@ -5,8 +5,17 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 3,
-    "updated_at": "2026-08-09T01:44:48Z",
+    "updated_at": "2026-08-09T01:59:10Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-09T01:56:54Z",
+    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -14,8 +23,17 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-09T01:44:43Z",
+    "updated_at": "2026-08-09T01:56:28Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T01:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -58,8 +76,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55902,
-    "updated_at": "2026-08-09T01:36:35Z",
+    "stars": 55903,
+    "updated_at": "2026-08-09T01:55:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -99,15 +117,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T01:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
     "id": "threejay20/homelab-ai-stack",
     "language": "Python",
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T01:29:00Z",
     "url": "https://github.com/threejay20/homelab-ai-stack"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-09T01:31:06Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -142,6 +142,15 @@
     "stars": 2,
     "updated_at": "2026-08-09T01:20:44Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7155,
+    "updated_at": "2026-08-09T01:14:38Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "GitHub org config, CI workflows, and community health files for Cycles",
@@ -257,7 +266,7 @@
     "language": "TypeScript",
     "name": "SammyTourani/evestack",
     "stars": 0,
-    "updated_at": "2026-08-09T01:28:33Z",
+    "updated_at": "2026-08-09T01:59:27Z",
     "url": "https://github.com/SammyTourani/evestack"
   },
   {
@@ -286,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T23:25:05Z",
     "url": "https://github.com/fevziegeyurtsevenler/uncloak"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7154,
-    "updated_at": "2026-08-09T01:14:38Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Gated model release platform: quality/latency/cost gates, canary steps, rollback, fallback routing, Cosign verification",
