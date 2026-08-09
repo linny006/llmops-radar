@@ -1,12 +1,66 @@
 [
   {
+    "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
+    "id": "Nokimalos/rag-ci",
+    "language": "Python",
+    "name": "Nokimalos/rag-ci",
+    "stars": 2,
+    "updated_at": "2026-08-09T15:14:57Z",
+    "url": "https://github.com/Nokimalos/rag-ci"
+  },
+  {
+    "description": "Trajectory evaluation for LLM agents: a Go core that judges full runs (tool errors, loops, cost and latency budgets) and",
+    "id": "Cro22/trazo",
+    "language": "Go",
+    "name": "Cro22/trazo",
+    "stars": 0,
+    "updated_at": "2026-08-09T15:14:09Z",
+    "url": "https://github.com/Cro22/trazo"
+  },
+  {
+    "description": "Self-hosted MCP/AI gateway that turns plain language into structured prompts for Codex, Cursor, and Cline. No API key re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-09T15:14:01Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-09T15:09:11Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "Regression testing for LLM prompts. Snapshot a baseline, diff against it, and fail the build when a prompt change makes ",
     "id": "Jeremie2002-sudo/promptdrift",
     "language": "Python",
     "name": "Jeremie2002-sudo/promptdrift",
     "stars": 0,
-    "updated_at": "2026-08-09T14:58:50Z",
+    "updated_at": "2026-08-09T15:05:55Z",
     "url": "https://github.com/Jeremie2002-sudo/promptdrift"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-09T15:03:30Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T15:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -45,24 +99,6 @@
     "url": "https://github.com/sxueck/llm-gateway"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T14:51:20Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Self-hosted MCP/AI gateway that turns plain language into structured prompts for Codex, Cursor, and Cline. No API key re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-09T14:48:40Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -70,24 +106,6 @@
     "stars": 21,
     "updated_at": "2026-08-09T14:47:05Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Trajectory evaluation for LLM agents: a Go core that judges full runs (tool errors, loops, cost and latency budgets) and",
-    "id": "Cro22/trazo",
-    "language": "Go",
-    "name": "Cro22/trazo",
-    "stars": 0,
-    "updated_at": "2026-08-09T14:57:46Z",
-    "url": "https://github.com/Cro22/trazo"
-  },
-  {
-    "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
-    "id": "Nokimalos/rag-ci",
-    "language": "Python",
-    "name": "Nokimalos/rag-ci",
-    "stars": 2,
-    "updated_at": "2026-08-09T14:42:43Z",
-    "url": "https://github.com/Nokimalos/rag-ci"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T14:31:55Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-09T14:40:14Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
@@ -329,7 +338,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1297,
-    "updated_at": "2026-08-09T14:56:22Z",
+    "updated_at": "2026-08-09T15:11:03Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-09T13:37:53Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "Terminal trace debugger for AI agents.",
-    "id": "tonquoc0407/capybara",
-    "language": "Go",
-    "name": "tonquoc0407/capybara",
-    "stars": 11,
-    "updated_at": "2026-08-09T13:33:43Z",
-    "url": "https://github.com/tonquoc0407/capybara"
   }
 ]
