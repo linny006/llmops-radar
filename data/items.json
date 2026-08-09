@@ -1,5 +1,68 @@
 [
   {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-09T07:14:57Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-09T07:14:02Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-09T07:10:12Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-09T07:03:21Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Evidence-grounded agentic AI security auditor for containerized agent runtimes, with scheduled controls, deterministic r",
+    "id": "Lee2379/agentic-ai-security-auditor",
+    "language": "Python",
+    "name": "Lee2379/agentic-ai-security-auditor",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:03:10Z",
+    "url": "https://github.com/Lee2379/agentic-ai-security-auditor"
+  },
+  {
+    "description": "Self-hosted AI testing platform \u2014 model & MCP playground, full request logs, and an OpenAI-compatible gateway. One Node ",
+    "id": "HSPK/loom",
+    "language": "TypeScript",
+    "name": "HSPK/loom",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:02:34Z",
+    "url": "https://github.com/HSPK/loom"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T07:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Multi-agent AI analytics office on Hermes and Slack, with Dockerized operations, reproducible forecasting, CI, and priva",
     "id": "Lee2379/multi-agent-ai-analytics-office",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-08-09T06:55:49Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-09T06:53:58Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
@@ -54,31 +108,13 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "Self-hosted AI testing platform \u2014 model & MCP playground, full request logs, and an OpenAI-compatible gateway. One Node ",
-    "id": "HSPK/loom",
-    "language": "TypeScript",
-    "name": "HSPK/loom",
-    "stars": 0,
-    "updated_at": "2026-08-09T06:52:14Z",
-    "url": "https://github.com/HSPK/loom"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
     "name": "coze-dev/coze-loop",
-    "stars": 5682,
+    "stars": 5683,
     "updated_at": "2026-08-09T06:50:27Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-09T06:49:37Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -86,7 +122,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-09T06:48:28Z",
+    "updated_at": "2026-08-09T07:01:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -99,15 +135,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T06:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
     "id": "runcycles/cycles-docs",
     "language": "Vue",
@@ -115,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-08-09T06:38:00Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Evidence-grounded security auditing for containerized AI-agent runtimes",
-    "id": "Lee2379/iris-agent-security-auditor",
-    "language": "Python",
-    "name": "Lee2379/iris-agent-security-auditor",
-    "stars": 0,
-    "updated_at": "2026-08-09T06:32:14Z",
-    "url": "https://github.com/Lee2379/iris-agent-security-auditor"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "SammyTourani/evestack",
     "stars": 0,
-    "updated_at": "2026-08-09T06:55:46Z",
+    "updated_at": "2026-08-09T07:11:50Z",
     "url": "https://github.com/SammyTourani/evestack"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T05:56:28Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-09T06:57:02Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Vendor-neutral OpenTelemetry tracing for A2A agents and MCP services, with W3C context propagation and privacy-safe tele",
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-09T04:46:13Z",
+    "updated_at": "2026-08-09T07:01:17Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-09T06:24:38Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   }
 ]
