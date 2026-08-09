@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open-source agent evaluation framework - score any AI agent across providers with standardized benchmarks",
+    "id": "rexblade58/agenteval",
+    "language": "Python",
+    "name": "rexblade58/agenteval",
+    "stars": 2,
+    "updated_at": "2026-08-09T09:30:21Z",
+    "url": "https://github.com/rexblade58/agenteval"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-09T09:29:27Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 2,
+    "updated_at": "2026-08-09T09:28:38Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-09T09:27:33Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 414,
+    "updated_at": "2026-08-09T09:27:10Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:24:39Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-09T09:22:18Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
+    "id": "msanket9/stillsane",
+    "language": "Python",
+    "name": "msanket9/stillsane",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:19:21Z",
+    "url": "https://github.com/msanket9/stillsane"
+  },
+  {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 5,
+    "updated_at": "2026-08-09T09:18:50Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Juror-AI/juror",
+    "language": "TypeScript",
+    "name": "Juror-AI/juror",
+    "stars": 14,
+    "updated_at": "2026-08-09T09:17:26Z",
+    "url": "https://github.com/Juror-AI/juror"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T09:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Provider-agnostic Hermes Agent optimization skill with autodiscovery, provenance, and publication-ready docs.",
     "id": "AzamatSafarov/hermes-optimizer",
     "language": "\u2014",
@@ -18,33 +117,6 @@
     "url": "https://github.com/HSPK/loom"
   },
   {
-    "description": "Open-source agent evaluation framework - score any AI agent across providers with standardized benchmarks",
-    "id": "rexblade58/agenteval",
-    "language": "Python",
-    "name": "rexblade58/agenteval",
-    "stars": 2,
-    "updated_at": "2026-08-09T09:10:54Z",
-    "url": "https://github.com/rexblade58/agenteval"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T09:10:08Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-09T09:09:44Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -52,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-09T09:09:04Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-09T09:07:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-09T08:57:42Z",
+    "updated_at": "2026-08-09T09:17:48Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -160,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-08-09T08:39:51Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7160,
+    "updated_at": "2026-08-09T08:38:09Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
@@ -292,7 +364,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27429,
+    "stars": 27428,
     "updated_at": "2026-08-09T07:27:35Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -347,7 +419,7 @@
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 26,
-    "updated_at": "2026-08-09T06:47:37Z",
+    "updated_at": "2026-08-09T09:26:56Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 75,
     "updated_at": "2026-08-09T06:27:18Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 0,
-    "updated_at": "2026-08-09T06:22:19Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
-    "id": "runcycles/cycles-dashboard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-dashboard",
-    "stars": 0,
-    "updated_at": "2026-08-09T06:18:10Z",
-    "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
-    "id": "okfriansyah-moh/the-foundry",
-    "language": "Go",
-    "name": "okfriansyah-moh/the-foundry",
-    "stars": 0,
-    "updated_at": "2026-08-09T06:06:03Z",
-    "url": "https://github.com/okfriansyah-moh/the-foundry"
-  },
-  {
-    "description": "A secure file system for your agents to execute code",
-    "id": "Tako-Research/TakoVM",
-    "language": "Python",
-    "name": "Tako-Research/TakoVM",
-    "stars": 84,
-    "updated_at": "2026-08-09T06:04:42Z",
-    "url": "https://github.com/Tako-Research/TakoVM"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-09T06:01:42Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Vendor-neutral OpenTelemetry tracing for A2A agents and MCP services, with W3C context propagation and privacy-safe tele",
-    "id": "brunovicco/a2a-otel-kit",
-    "language": "Python",
-    "name": "brunovicco/a2a-otel-kit",
-    "stars": 0,
-    "updated_at": "2026-08-09T05:54:24Z",
-    "url": "https://github.com/brunovicco/a2a-otel-kit"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-09T05:52:28Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-09T05:52:06Z",
-    "url": "https://github.com/acornops/control-plane"
   }
 ]
