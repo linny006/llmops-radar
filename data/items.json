@@ -1,12 +1,12 @@
 [
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-09T08:19:39Z",
-    "url": "https://github.com/soapbucket/sbproxy"
+    "description": "Open-source agent evaluation framework - score any AI agent across providers with standardized benchmarks",
+    "id": "rexblade58/agenteval",
+    "language": "Python",
+    "name": "rexblade58/agenteval",
+    "stars": 2,
+    "updated_at": "2026-08-09T08:28:23Z",
+    "url": "https://github.com/rexblade58/agenteval"
   },
   {
     "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
@@ -14,8 +14,26 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 3,
-    "updated_at": "2026-08-09T08:19:25Z",
+    "updated_at": "2026-08-09T08:28:17Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
+    "id": "SammyTourani/evestack",
+    "language": "TypeScript",
+    "name": "SammyTourani/evestack",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:27:12Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
+    "id": "runcycles/langchain-runcycles",
+    "language": "Python",
+    "name": "runcycles/langchain-runcycles",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:23:59Z",
+    "url": "https://github.com/runcycles/langchain-runcycles"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-09T08:15:23Z",
+    "updated_at": "2026-08-09T08:22:36Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-09T08:28:45Z",
+    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T08:03:57Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
-    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
-    "id": "SammyTourani/evestack",
-    "language": "TypeScript",
-    "name": "SammyTourani/evestack",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:12:26Z",
-    "url": "https://github.com/SammyTourani/evestack"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-09T07:53:09Z",
+    "updated_at": "2026-08-09T08:24:10Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10955,
-    "updated_at": "2026-08-09T08:13:41Z",
+    "updated_at": "2026-08-09T08:26:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Norm monitoring and violation detection for AI agent actions",
-    "id": "sandeep-alluru/normsync",
-    "language": "Python",
-    "name": "sandeep-alluru/normsync",
-    "stars": 0,
-    "updated_at": "2026-08-09T04:32:00Z",
-    "url": "https://github.com/sandeep-alluru/normsync"
-  },
-  {
-    "description": "Economy balance analysis and exploit detection for AI game agents",
-    "id": "sandeep-alluru/balancelab",
-    "language": "Python",
-    "name": "sandeep-alluru/balancelab",
-    "stars": 0,
-    "updated_at": "2026-08-09T04:31:58Z",
-    "url": "https://github.com/sandeep-alluru/balancelab"
   }
 ]
