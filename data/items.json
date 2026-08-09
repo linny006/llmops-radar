@@ -1,5 +1,59 @@
 [
   {
+    "description": "Regression testing for LLM prompts. Snapshot a baseline, diff against it, and fail the build when a prompt change makes ",
+    "id": "Jeremie2002-sudo/promptdrift",
+    "language": "Python",
+    "name": "Jeremie2002-sudo/promptdrift",
+    "stars": 0,
+    "updated_at": "2026-08-09T14:58:50Z",
+    "url": "https://github.com/Jeremie2002-sudo/promptdrift"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2589,
+    "updated_at": "2026-08-09T14:57:23Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-09T14:56:16Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
+    "id": "runcycles/cycles-server-admin",
+    "language": "Java",
+    "name": "runcycles/cycles-server-admin",
+    "stars": 1,
+    "updated_at": "2026-08-09T14:56:05Z",
+    "url": "https://github.com/runcycles/cycles-server-admin"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 48,
+    "updated_at": "2026-08-09T14:55:01Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T14:51:20Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted MCP/AI gateway that turns plain language into structured prompts for Codex, Cursor, and Cline. No API key re",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
@@ -18,21 +72,12 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T14:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Trajectory evaluation for LLM agents: a Go core that judges full runs (tool errors, loops, cost and latency budgets) and",
     "id": "Cro22/trazo",
     "language": "Go",
     "name": "Cro22/trazo",
     "stars": 0,
-    "updated_at": "2026-08-09T14:44:06Z",
+    "updated_at": "2026-08-09T14:57:46Z",
     "url": "https://github.com/Cro22/trazo"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T14:42:43Z",
     "url": "https://github.com/Nokimalos/rag-ci"
-  },
-  {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 48,
-    "updated_at": "2026-08-09T14:42:09Z",
-    "url": "https://github.com/sxueck/llm-gateway"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "SammyTourani/evestack",
     "stars": 0,
-    "updated_at": "2026-08-09T14:50:39Z",
+    "updated_at": "2026-08-09T14:58:42Z",
     "url": "https://github.com/SammyTourani/evestack"
   },
   {
@@ -220,7 +256,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32777,
+    "stars": 32776,
     "updated_at": "2026-08-09T14:00:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -293,7 +329,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1297,
-    "updated_at": "2026-08-09T14:26:30Z",
+    "updated_at": "2026-08-09T14:56:22Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-09T13:33:43Z",
     "url": "https://github.com/tonquoc0407/capybara"
-  },
-  {
-    "description": "Policy-as-code for AI engineering evidence. Verify AI controls, evals, exceptions, and risk policy in CI.",
-    "id": "NicolasYusim/TRUST-AI-Engineering",
-    "language": "Python",
-    "name": "NicolasYusim/TRUST-AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-08-09T13:31:58Z",
-    "url": "https://github.com/NicolasYusim/TRUST-AI-Engineering"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-09T13:31:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
-    "id": "suryaanandan1995-dotcom/ai-freelance-copilot",
-    "language": "Python",
-    "name": "suryaanandan1995-dotcom/ai-freelance-copilot",
-    "stars": 1,
-    "updated_at": "2026-08-09T13:30:29Z",
-    "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-08-09T13:29:59Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   }
 ]
