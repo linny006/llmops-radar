@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T10:30:08Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-09T10:39:57Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -14,15 +14,51 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-09T10:29:40Z",
+    "updated_at": "2026-08-09T10:39:38Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane.",
+    "id": "fightheyyy/CATENA",
+    "language": "Go",
+    "name": "fightheyyy/CATENA",
+    "stars": 0,
+    "updated_at": "2026-08-09T10:33:55Z",
+    "url": "https://github.com/fightheyyy/CATENA"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-09T10:33:46Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-09T10:32:11Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T10:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 414,
+    "stars": 415,
     "updated_at": "2026-08-09T10:28:30Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-09T10:28:16Z",
+    "updated_at": "2026-08-09T10:40:57Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T10:09:01Z",
     "url": "https://github.com/Odiethebest/Tollgate"
-  },
-  {
-    "description": "Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane.",
-    "id": "fightheyyy/CATENA",
-    "language": "Go",
-    "name": "fightheyyy/CATENA",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:08:19Z",
-    "url": "https://github.com/fightheyyy/CATENA"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -171,24 +198,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-09T09:38:38Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-09T09:36:42Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -207,15 +216,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-09T09:29:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
     "id": "sumitdevgupto/TokenLean",
     "language": "Python",
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-09T09:24:39Z",
+    "updated_at": "2026-08-09T10:40:27Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -347,7 +347,7 @@
     "language": "TypeScript",
     "name": "SammyTourani/evestack",
     "stars": 0,
-    "updated_at": "2026-08-09T08:27:12Z",
+    "updated_at": "2026-08-09T10:33:19Z",
     "url": "https://github.com/SammyTourani/evestack"
   },
   {
