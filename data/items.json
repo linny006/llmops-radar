@@ -1,5 +1,77 @@
 [
   {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-09T18:58:58Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
+    "id": "derivational-doubletime597/phoenix-script-executor-win",
+    "language": "HTML",
+    "name": "derivational-doubletime597/phoenix-script-executor-win",
+    "stars": 0,
+    "updated_at": "2026-08-09T18:53:13Z",
+    "url": "https://github.com/derivational-doubletime597/phoenix-script-executor-win"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-09T18:53:29Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-09T18:51:53Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted MCP/AI gateway for Codex, Cursor, and Cline. Turn plain language into structured prompts via CLI, HTTP, SDK,",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-09T18:51:24Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-09T18:48:34Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7172,
+    "updated_at": "2026-08-09T18:45:35Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T18:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
     "id": "memoturn/memoturn",
     "language": "TypeScript",
@@ -9,12 +81,21 @@
     "url": "https://github.com/memoturn/memoturn"
   },
   {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 107,
+    "updated_at": "2026-08-09T18:43:08Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
     "description": "Vendor-neutral OpenTelemetry tracing for A2A agents and MCP services, with W3C context propagation and privacy-safe tele",
     "id": "brunovicco/a2a-otel-kit",
     "language": "Python",
     "name": "brunovicco/a2a-otel-kit",
     "stars": 0,
-    "updated_at": "2026-08-09T18:41:20Z",
+    "updated_at": "2026-08-09T18:48:56Z",
     "url": "https://github.com/brunovicco/a2a-otel-kit"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T18:38:49Z",
     "url": "https://github.com/Jeremie2002-sudo/promptdrift"
-  },
-  {
-    "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
-    "id": "derivational-doubletime597/phoenix-script-executor-win",
-    "language": "HTML",
-    "name": "derivational-doubletime597/phoenix-script-executor-win",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:38:25Z",
-    "url": "https://github.com/derivational-doubletime597/phoenix-script-executor-win"
   },
   {
     "description": "Run Roblox Lua scripts on Windows with 500+ keyless scripts, a built-in database, and a minimal UI\u2014Phoenix Executor v4.2",
@@ -99,24 +171,6 @@
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T18:34:41Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-09T18:34:36Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -171,15 +225,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Self-hosted MCP/AI gateway for Codex, Cursor, and Cline. Turn plain language into structured prompts via CLI, HTTP, SDK,",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-09T18:24:45Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
     "id": "NicoGrassetto/Cosmopilot",
     "language": "Python",
@@ -187,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T18:24:13Z",
     "url": "https://github.com/NicoGrassetto/Cosmopilot"
-  },
-  {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:22:08Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T18:21:36Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-09T18:20:00Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -288,15 +315,6 @@
     "url": "https://github.com/rozario-1234/end2end_sample"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-09T18:32:53Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
     "id": "KewalPra/agent-sdk",
     "language": "Python",
@@ -320,7 +338,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-09T18:08:40Z",
+    "updated_at": "2026-08-09T18:50:04Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3480,
-    "updated_at": "2026-08-09T18:40:51Z",
+    "updated_at": "2026-08-09T18:58:59Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -385,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T17:58:19Z",
     "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7171,
-    "updated_at": "2026-08-09T17:57:44Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Evaluation discipline for agentic apps, operated through your coding agent \u2014 honest, local-first scorecards where a gree",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-09T17:48:39Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
-    "id": "Nokimalos/rag-ci",
-    "language": "Python",
-    "name": "Nokimalos/rag-ci",
-    "stars": 6,
-    "updated_at": "2026-08-09T17:47:34Z",
-    "url": "https://github.com/Nokimalos/rag-ci"
   }
 ]
