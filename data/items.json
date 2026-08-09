@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
     "language": "Python",
-    "name": "linny006/llmops-radar",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-09T17:29:42Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-09T17:29:32Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-09T17:13:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-08-09T17:29:22Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-09T17:26:54Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-08-09T17:25:50Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
     "description": "Self-hosted MCP/AI gateway for Codex, Cursor, and Cline. Turn plain language into structured prompts via CLI, HTTP, SDK,",
@@ -14,8 +50,107 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 3,
-    "updated_at": "2026-08-09T17:11:03Z",
+    "updated_at": "2026-08-09T17:25:20Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
+    "id": "derivational-doubletime597/phoenix-script-executor-win",
+    "language": "HTML",
+    "name": "derivational-doubletime597/phoenix-script-executor-win",
+    "stars": 0,
+    "updated_at": "2026-08-09T17:25:04Z",
+    "url": "https://github.com/derivational-doubletime597/phoenix-script-executor-win"
+  },
+  {
+    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
+    "id": "runcycles/cycles-dashboard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-dashboard",
+    "stars": 0,
+    "updated_at": "2026-08-09T17:23:40Z",
+    "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
+    "id": "Nokimalos/rag-ci",
+    "language": "Python",
+    "name": "Nokimalos/rag-ci",
+    "stars": 2,
+    "updated_at": "2026-08-09T17:23:23Z",
+    "url": "https://github.com/Nokimalos/rag-ci"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3480,
+    "updated_at": "2026-08-09T17:28:01Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Evaluation discipline for agentic apps, operated through your coding agent \u2014 honest, local-first scorecards where a gree",
+    "id": "EvalGlass/evalglass-core",
+    "language": "Python",
+    "name": "EvalGlass/evalglass-core",
+    "stars": 0,
+    "updated_at": "2026-08-09T17:23:09Z",
+    "url": "https://github.com/EvalGlass/evalglass-core"
+  },
+  {
+    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
+    "id": "runcycles/cycles-client-typescript",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-client-typescript",
+    "stars": 0,
+    "updated_at": "2026-08-09T17:19:38Z",
+    "url": "https://github.com/runcycles/cycles-client-typescript"
+  },
+  {
+    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
+    "id": "runcycles/cycles-mcp-server",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-08-09T17:19:27Z",
+    "url": "https://github.com/runcycles/cycles-mcp-server"
+  },
+  {
+    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
+    "id": "runcycles/cycles-server-events",
+    "language": "Java",
+    "name": "runcycles/cycles-server-events",
+    "stars": 1,
+    "updated_at": "2026-08-09T17:17:49Z",
+    "url": "https://github.com/runcycles/cycles-server-events"
+  },
+  {
+    "description": "GitHub org config, CI workflows, and community health files for Cycles",
+    "id": "runcycles/.github",
+    "language": "Shell",
+    "name": "runcycles/.github",
+    "stars": 0,
+    "updated_at": "2026-08-09T17:17:45Z",
+    "url": "https://github.com/runcycles/.github"
+  },
+  {
+    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
+    "id": "runcycles/cycles-server-admin",
+    "language": "Java",
+    "name": "runcycles/cycles-server-admin",
+    "stars": 1,
+    "updated_at": "2026-08-09T17:18:47Z",
+    "url": "https://github.com/runcycles/cycles-server-admin"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T17:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run Roblox Lua scripts on Windows with 500+ keyless scripts, a built-in database, and a minimal UI\u2014Phoenix Executor v4.2",
@@ -25,33 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T17:09:23Z",
     "url": "https://github.com/Tessiecorrupt733/phoenix-script-executor-v4"
-  },
-  {
-    "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
-    "id": "derivational-doubletime597/phoenix-script-executor-win",
-    "language": "HTML",
-    "name": "derivational-doubletime597/phoenix-script-executor-win",
-    "stars": 0,
-    "updated_at": "2026-08-09T17:08:26Z",
-    "url": "https://github.com/derivational-doubletime597/phoenix-script-executor-win"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-09T17:09:04Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
-    "id": "Nokimalos/rag-ci",
-    "language": "Python",
-    "name": "Nokimalos/rag-ci",
-    "stars": 2,
-    "updated_at": "2026-08-09T17:08:47Z",
-    "url": "https://github.com/Nokimalos/rag-ci"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -99,13 +207,13 @@
     "url": "https://github.com/NicolasYusim/TRUST-AI-Engineering"
   },
   {
-    "description": "Evaluation discipline for agentic apps, operated through your coding agent \u2014 honest, local-first scorecards where a gree",
-    "id": "EvalGlass/evalglass-core",
-    "language": "Python",
-    "name": "EvalGlass/evalglass-core",
-    "stars": 0,
-    "updated_at": "2026-08-09T17:04:31Z",
-    "url": "https://github.com/EvalGlass/evalglass-core"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7169,
+    "updated_at": "2026-08-09T17:03:54Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -113,7 +221,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-09T17:03:19Z",
+    "updated_at": "2026-08-09T17:26:07Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -189,6 +297,15 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
+    "description": "Self-hosted workspace for writing, versioning, testing, and evaluating AI prompts. Bring your own LLM provider like Open",
+    "id": "chrysogonus/prompt-maker-studio",
+    "language": "Python",
+    "name": "chrysogonus/prompt-maker-studio",
+    "stars": 0,
+    "updated_at": "2026-08-09T16:51:19Z",
+    "url": "https://github.com/chrysogonus/prompt-maker-studio"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -250,15 +367,6 @@
     "stars": 32777,
     "updated_at": "2026-08-09T16:42:15Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-09T16:41:08Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
@@ -333,15 +441,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-09T16:31:36Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -349,104 +448,5 @@
     "stars": 21,
     "updated_at": "2026-08-09T16:30:13Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-09T16:28:58Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-09T16:23:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-08-09T16:22:16Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Sovereign AI infrastructure, governed agent systems, verification forges, and open-source production automation.",
-    "id": "echoomegaprime/echoomegaprime",
-    "language": "\u2014",
-    "name": "echoomegaprime/echoomegaprime",
-    "stars": 0,
-    "updated_at": "2026-08-09T16:22:00Z",
-    "url": "https://github.com/echoomegaprime/echoomegaprime"
-  },
-  {
-    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
-    "id": "acornops/agentv",
-    "language": "TypeScript",
-    "name": "acornops/agentv",
-    "stars": 1,
-    "updated_at": "2026-08-09T16:24:15Z",
-    "url": "https://github.com/acornops/agentv"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-09T16:24:53Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-08-09T16:19:12Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-09T16:18:41Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-08-09T16:18:06Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u8fd0\u7ef4\u5de5\u7a0b\u5e08\u7cfb\u7edf\u5b66\u4e60\u5347\u7ea7\u6253\u602a\u4e4b\u8def",
-    "id": "Janlegenddry/LLMOpsGuide",
-    "language": "CSS",
-    "name": "Janlegenddry/LLMOpsGuide",
-    "stars": 0,
-    "updated_at": "2026-08-09T16:17:12Z",
-    "url": "https://github.com/Janlegenddry/LLMOpsGuide"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 568,
-    "updated_at": "2026-08-09T16:16:57Z",
-    "url": "https://github.com/mikehasa/agentacct"
   }
 ]
