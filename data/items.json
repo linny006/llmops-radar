@@ -5,7 +5,7 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 3,
-    "updated_at": "2026-08-09T05:44:32Z",
+    "updated_at": "2026-08-09T05:58:23Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
@@ -14,8 +14,116 @@
     "language": "Jupyter Notebook",
     "name": "Red1-Rahman/NiriZan",
     "stars": 0,
-    "updated_at": "2026-08-09T05:45:18Z",
+    "updated_at": "2026-08-09T05:56:28Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-09T05:54:58Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Vendor-neutral OpenTelemetry tracing for A2A agents and MCP services, with W3C context propagation and privacy-safe tele",
+    "id": "brunovicco/a2a-otel-kit",
+    "language": "Python",
+    "name": "brunovicco/a2a-otel-kit",
+    "stars": 0,
+    "updated_at": "2026-08-09T05:54:24Z",
+    "url": "https://github.com/brunovicco/a2a-otel-kit"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-09T05:52:43Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-09T05:52:28Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-08-09T05:52:06Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
+    "id": "acornops/agentv",
+    "language": "TypeScript",
+    "name": "acornops/agentv",
+    "stars": 1,
+    "updated_at": "2026-08-09T05:52:06Z",
+    "url": "https://github.com/acornops/agentv"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-08-09T05:52:06Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-08-09T05:52:06Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "Proxima lets existing GPUs serve more concurrent requests ",
+    "id": "Tenosra/Proxima",
+    "language": "Python",
+    "name": "Tenosra/Proxima",
+    "stars": 4,
+    "updated_at": "2026-08-09T05:49:48Z",
+    "url": "https://github.com/Tenosra/Proxima"
+  },
+  {
+    "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
+    "id": "threejay20/homelab-ai-stack",
+    "language": "Python",
+    "name": "threejay20/homelab-ai-stack",
+    "stars": 0,
+    "updated_at": "2026-08-09T05:49:44Z",
+    "url": "https://github.com/threejay20/homelab-ai-stack"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-09T05:49:27Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T05:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Give it a PLAN.md, a mockup, or an idea. Delivery Foundry loops itself \u2014 build, verify, deploy, improve \u2014 until it's shi",
@@ -36,31 +144,13 @@
     "url": "https://github.com/bahree/ModelAdaptationBook"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-09T05:42:26Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "Dockerized multi-agent analytics office on Hermes and Slack, with reproducible forecasting, tests, CI, and privacy-safe ",
     "id": "Lee2379/agentic-analytics-office",
     "language": "Python",
     "name": "Lee2379/agentic-analytics-office",
     "stars": 0,
-    "updated_at": "2026-08-09T05:44:58Z",
+    "updated_at": "2026-08-09T05:56:22Z",
     "url": "https://github.com/Lee2379/agentic-analytics-office"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T05:34:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -77,7 +167,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-09T05:28:14Z",
+    "updated_at": "2026-08-09T05:57:22Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -88,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T05:43:57Z",
     "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
-    "description": "Proxima lets existing GPUs serve more concurrent requests ",
-    "id": "Tenosra/Proxima",
-    "language": "Python",
-    "name": "Tenosra/Proxima",
-    "stars": 4,
-    "updated_at": "2026-08-09T05:10:54Z",
-    "url": "https://github.com/Tenosra/Proxima"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-09T05:04:29Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
@@ -126,24 +198,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-09T05:00:22Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
-    "id": "threejay20/homelab-ai-stack",
-    "language": "Python",
-    "name": "threejay20/homelab-ai-stack",
-    "stars": 0,
-    "updated_at": "2026-08-09T04:59:19Z",
-    "url": "https://github.com/threejay20/homelab-ai-stack"
-  },
-  {
     "description": "Spatial scene graphs and belief state for embodied agents",
     "id": "sandeep-alluru/polaroid",
     "language": "Python",
@@ -162,15 +216,6 @@
     "url": "https://github.com/HSPK/loom"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-09T05:34:22Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
     "id": "sophie-nguyenthuthuy/llm-pricing-history",
     "language": "Python",
@@ -178,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-08-09T04:38:29Z",
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10955,
+    "updated_at": "2026-08-09T04:32:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "World-state belief management and contradiction repair for AI agents",
@@ -310,7 +364,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 55915,
+    "stars": 55917,
     "updated_at": "2026-08-09T04:20:40Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -351,15 +405,6 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
-    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
-    "id": "acornops/agentv",
-    "language": "TypeScript",
-    "name": "acornops/agentv",
-    "stars": 1,
-    "updated_at": "2026-08-09T03:52:43Z",
-    "url": "https://github.com/acornops/agentv"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -376,33 +421,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T03:40:03Z",
     "url": "https://github.com/acornops/docs-website"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-09T03:40:03Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-08-09T03:40:03Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-08-09T03:40:03Z",
-    "url": "https://github.com/acornops/acornops-deployment"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-09T03:16:55Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "Free 180-day curriculum: absolute beginner to LLMOps. Lessons, labs, answer keys and self-study guides for the Zero to L",
-    "id": "mahadikabhijeet/zero-to-llmops",
-    "language": "HTML",
-    "name": "mahadikabhijeet/zero-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-08-09T03:08:44Z",
-    "url": "https://github.com/mahadikabhijeet/zero-to-llmops"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-08-09T03:08:42Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
