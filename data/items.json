@@ -1,5 +1,77 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3480,
+    "updated_at": "2026-08-09T17:44:25Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-08-09T17:39:02Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 568,
+    "updated_at": "2026-08-09T17:37:17Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
+    "id": "Nokimalos/rag-ci",
+    "language": "Python",
+    "name": "Nokimalos/rag-ci",
+    "stars": 5,
+    "updated_at": "2026-08-09T17:36:27Z",
+    "url": "https://github.com/Nokimalos/rag-ci"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-09T17:35:31Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Self-hosted MCP/AI gateway for Codex, Cursor, and Cline. Turn plain language into structured prompts via CLI, HTTP, SDK,",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-09T17:35:11Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-09T17:30:53Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T17:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
     "id": "brunovicco/verifiable-ai-governance",
     "language": "Python",
@@ -23,17 +95,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-09T17:29:22Z",
+    "updated_at": "2026-08-09T17:42:37Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-09T17:26:54Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
@@ -43,15 +106,6 @@
     "stars": 44,
     "updated_at": "2026-08-09T17:25:50Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Self-hosted MCP/AI gateway for Codex, Cursor, and Cline. Turn plain language into structured prompts via CLI, HTTP, SDK,",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-09T17:25:20Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
@@ -70,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T17:23:40Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
-    "id": "Nokimalos/rag-ci",
-    "language": "Python",
-    "name": "Nokimalos/rag-ci",
-    "stars": 2,
-    "updated_at": "2026-08-09T17:23:23Z",
-    "url": "https://github.com/Nokimalos/rag-ci"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3480,
-    "updated_at": "2026-08-09T17:28:01Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Evaluation discipline for agentic apps, operated through your coding agent \u2014 honest, local-first scorecards where a gree",
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T17:18:47Z",
     "url": "https://github.com/runcycles/cycles-server-admin"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T17:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run Roblox Lua scripts on Windows with 500+ keyless scripts, a built-in database, and a minimal UI\u2014Phoenix Executor v4.2",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-09T17:26:07Z",
+    "updated_at": "2026-08-09T17:45:11Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -364,7 +391,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32777,
+    "stars": 32778,
     "updated_at": "2026-08-09T16:42:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-09T16:38:23Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-08-09T16:36:14Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-09T16:34:16Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-09T16:30:13Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   }
 ]
