@@ -1,5 +1,86 @@
 [
   {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 43,
+    "updated_at": "2026-08-10T12:40:53Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32823,
+    "updated_at": "2026-08-10T12:38:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 3,
+    "updated_at": "2026-08-10T12:37:41Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-10T12:36:48Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 13,
+    "updated_at": "2026-08-10T12:36:38Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-08-10T12:34:00Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-08-10T12:33:03Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T12:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10969,
+    "updated_at": "2026-08-10T12:43:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -9,29 +90,11 @@
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32820,
-    "updated_at": "2026-08-10T12:27:08Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-10T12:25:58Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "LLM extraction pipelines that turn SEC filings into investment signals - with evals, model selection, citation grounding",
     "id": "gayanechilingar/signalforge",
     "language": "Python",
     "name": "gayanechilingar/signalforge",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-10T12:25:56Z",
     "url": "https://github.com/gayanechilingar/signalforge"
   },
@@ -68,7 +131,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 5,
-    "updated_at": "2026-08-10T12:29:30Z",
+    "updated_at": "2026-08-10T12:36:27Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -86,7 +149,7 @@
     "language": "TypeScript",
     "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "stars": 4,
-    "updated_at": "2026-08-10T12:22:46Z",
+    "updated_at": "2026-08-10T12:32:07Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/islaagnet27/llm-cost"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 13,
-    "updated_at": "2026-08-10T12:15:59Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Diff and regression-detect LLM agent execution traces",
     "id": "sandeep-alluru/agentdelta",
     "language": "Python",
@@ -171,15 +225,6 @@
     "url": "https://github.com/sandeep-alluru/agentdelta"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T12:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
     "id": "GaBySuGy/agent-guardrails",
     "language": "Shell",
@@ -187,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T12:11:16Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10968,
-    "updated_at": "2026-08-10T12:28:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3483,
-    "updated_at": "2026-08-10T12:25:38Z",
+    "updated_at": "2026-08-10T12:37:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -241,6 +277,15 @@
     "stars": 0,
     "updated_at": "2026-08-10T12:07:57Z",
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1637,
+    "updated_at": "2026-08-10T12:06:39Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
@@ -369,21 +414,12 @@
     "url": "https://github.com/Nokimalos/rag-ci"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1636,
-    "updated_at": "2026-08-10T12:06:39Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-10T11:21:06Z",
+    "updated_at": "2026-08-10T12:45:15Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-10T11:15:38Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "llmSHAP: a multi-threaded LLM explainability framework",
-    "id": "filipnaudot/llmSHAP",
-    "language": "Python",
-    "name": "filipnaudot/llmSHAP",
-    "stars": 20,
-    "updated_at": "2026-08-10T11:08:26Z",
-    "url": "https://github.com/filipnaudot/llmSHAP"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-10T11:07:36Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-10T11:06:07Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 573,
-    "updated_at": "2026-08-10T11:03:33Z",
-    "url": "https://github.com/mikehasa/agentacct"
   }
 ]
