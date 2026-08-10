@@ -1,5 +1,50 @@
 [
   {
+    "description": "MCP-native agentic platform: planner/executor/critic over hybrid RAG, with per-run cost ceilings, three-tier memory, out",
+    "id": "mrinmoyece/cortex",
+    "language": "Python",
+    "name": "mrinmoyece/cortex",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:00:00Z",
+    "url": "https://github.com/mrinmoyece/cortex"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 386,
+    "updated_at": "2026-08-10T21:59:32Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56048,
+    "updated_at": "2026-08-10T22:00:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24115,
+    "updated_at": "2026-08-10T21:58:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:57:00Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
     "id": "MSKazemi/novafabric",
     "language": "Python",
@@ -27,15 +72,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24115,
-    "updated_at": "2026-08-10T21:48:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -45,15 +81,6 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T21:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "100+ AI, Gen AI, LLM, Agentic AI, Forward Deployed Engineer (FDE), AI Systems Architect, Applied AI, LLMOps, AI Platform",
     "id": "mchittineni/ultimate-ai-engineering-guide",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T21:44:31Z",
     "url": "https://github.com/mchittineni/ultimate-ai-engineering-guide"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56047,
-    "updated_at": "2026-08-10T21:55:28Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-10T19:52:34Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32841,
-    "updated_at": "2026-08-10T21:42:11Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7197,
-    "updated_at": "2026-08-10T21:56:09Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
