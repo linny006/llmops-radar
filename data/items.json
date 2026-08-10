@@ -1,21 +1,102 @@
 [
   {
-    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
-    "id": "dgenio/intentflow",
-    "language": "Python",
-    "name": "dgenio/intentflow",
-    "stars": 2,
-    "updated_at": "2026-08-10T18:09:14Z",
-    "url": "https://github.com/dgenio/intentflow"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56041,
-    "updated_at": "2026-08-10T18:12:25Z",
+    "updated_at": "2026-08-10T18:30:11Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10975,
+    "updated_at": "2026-08-10T18:28:28Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 13,
+    "updated_at": "2026-08-10T18:27:25Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-10T18:19:27Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:19:16Z",
+    "url": "https://github.com/aimd54/palan"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-10T18:29:17Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "OpenTelemetry observability and privacy-aware failure replay for production AI agents.",
+    "id": "Victoria824/SpanReplay",
+    "language": "TypeScript",
+    "name": "Victoria824/SpanReplay",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:17:11Z",
+    "url": "https://github.com/Victoria824/SpanReplay"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 374,
+    "updated_at": "2026-08-10T18:16:49Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T18:15:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LangGraph-first security regression testing for document agents",
+    "id": "carroyo03/TraceGuard",
+    "language": "Python",
+    "name": "carroyo03/TraceGuard",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:14:58Z",
+    "url": "https://github.com/carroyo03/TraceGuard"
+  },
+  {
+    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
+    "id": "dgenio/intentflow",
+    "language": "Python",
+    "name": "dgenio/intentflow",
+    "stars": 2,
+    "updated_at": "2026-08-10T18:17:16Z",
+    "url": "https://github.com/dgenio/intentflow"
   },
   {
     "description": "Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane.",
@@ -25,33 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T18:04:34Z",
     "url": "https://github.com/fightheyyy/CATENA"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-10T18:02:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-10T18:01:50Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T18:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
@@ -72,13 +126,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10975,
-    "updated_at": "2026-08-10T18:15:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "future-agi/future-agi",
+    "stars": 1637,
+    "updated_at": "2026-08-10T17:55:34Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
@@ -103,8 +157,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7195,
-    "updated_at": "2026-08-10T17:51:09Z",
+    "stars": 7194,
+    "updated_at": "2026-08-10T18:28:23Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -131,17 +185,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-10T18:14:02Z",
+    "updated_at": "2026-08-10T18:25:14Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 374,
-    "updated_at": "2026-08-10T18:13:11Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
@@ -151,6 +196,15 @@
     "stars": 7,
     "updated_at": "2026-08-10T17:43:54Z",
     "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Juror-AI/juror",
+    "language": "TypeScript",
+    "name": "Juror-AI/juror",
+    "stars": 75,
+    "updated_at": "2026-08-10T17:42:15Z",
+    "url": "https://github.com/Juror-AI/juror"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -171,21 +225,12 @@
     "url": "https://github.com/shyftlabs/continuum"
   },
   {
-    "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
-    "id": "aimd54/palan",
-    "language": "Go",
-    "name": "aimd54/palan",
-    "stars": 0,
-    "updated_at": "2026-08-10T17:32:22Z",
-    "url": "https://github.com/aimd54/palan"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-10T17:24:16Z",
+    "updated_at": "2026-08-10T18:19:02Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3485,
-    "updated_at": "2026-08-10T18:13:58Z",
+    "updated_at": "2026-08-10T18:23:53Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 769,
     "updated_at": "2026-08-10T16:06:47Z",
     "url": "https://github.com/bosun-ai/swiftide"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-08-10T16:06:36Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 43,
-    "updated_at": "2026-08-10T16:06:31Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 5,
-    "updated_at": "2026-08-10T16:06:18Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 386,
-    "updated_at": "2026-08-10T17:47:19Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
-    "id": "kimbeomgyu/budget-guard",
-    "language": "TypeScript",
-    "name": "kimbeomgyu/budget-guard",
-    "stars": 0,
-    "updated_at": "2026-08-10T15:57:15Z",
-    "url": "https://github.com/kimbeomgyu/budget-guard"
   }
 ]
